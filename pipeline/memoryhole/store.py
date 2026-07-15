@@ -46,7 +46,8 @@ class Store:
 
     def read_snapshot(self, url: str) -> str | None:
         p = self.snapshot_path(url)
-        return p.read_text(encoding="utf-8") if p.exists() else None
+        # \r stripped defensively: a CRLF checkout must not cause phantom diffs
+        return p.read_text(encoding="utf-8").replace("\r", "") if p.exists() else None
 
     def write_snapshot(self, url: str, text: str) -> None:
         p = self.snapshot_path(url)
