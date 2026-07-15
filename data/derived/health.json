@@ -1,11 +1,11 @@
 {
- "last_run": "2026-07-15T11:40:37Z",
+ "last_run": "2026-07-15T11:56:29Z",
  "sources": [
   {
    "name": "BBC News",
    "ok": true,
    "checked": 9,
-   "changed": 0,
+   "changed": 3,
    "error": null
   },
   {
@@ -19,13 +19,13 @@
    "name": "NPR",
    "ok": true,
    "checked": 7,
-   "changed": 0,
+   "changed": 1,
    "error": null
   },
   {
    "name": "Al Jazeera",
    "ok": true,
-   "checked": 10,
+   "checked": 11,
    "changed": 0,
    "error": null
   },
@@ -40,7 +40,7 @@
    "name": "France 24",
    "ok": true,
    "checked": 9,
-   "changed": 0,
+   "changed": 1,
    "error": null
   },
   {
@@ -60,8 +60,8 @@
   {
    "name": "The Independent",
    "ok": true,
-   "checked": 13,
-   "changed": 2,
+   "checked": 17,
+   "changed": 3,
    "error": null
   },
   {
@@ -107,8 +107,8 @@
    "error": null
   }
  ],
- "articles_checked": 100,
- "edits_found": 2,
- "duration_s": 236.4,
- "total_edits": 16
+ "articles_checked": 105,
+ "edits_found": 8,
+ "duration_s": 202.4,
+ "total_edits": 24
 }

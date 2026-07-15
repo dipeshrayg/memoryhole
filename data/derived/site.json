@@ -1,6 +1,48 @@
 {
- "generated_at": "2026-07-15T11:46:36Z",
+ "generated_at": "2026-07-15T12:00:00Z",
  "edits": [
+  {
+   "id": "09cc81db98b06654-dfb0d1b7-c6546bfa",
+   "date": "2026-07-15",
+   "detected_at": "2026-07-15T11:58:44Z",
+   "url": "https://www.independent.co.uk/news/uk/politics/starmer-final-pmqs-badenoch-burnham-live-updates-b3014954.html",
+   "domain": "www.independent.co.uk",
+   "source": "The Independent",
+   "severity": "NARRATIVE",
+   "score": 2.736,
+   "old_title": "Starmer's final PMQs live: Outgoing PM makes pledge to Burnham and thanks Badenoch",
+   "new_title": "Starmer's final PMQs live: Labour MP pays tearful tribute as PM gets standing ovation",
+   "lang": "en",
+   "summary": "added: Labour MP cries as she pays tribute to Keir Starmer in the Commons Whitehall editor Kate Devlin reports: Labour MP Carolyn Harris was in tears as she asked S..."
+  },
+  {
+   "id": "d277a47f06c92838-2b72ad37-6dd0ab9c",
+   "date": "2026-07-15",
+   "detected_at": "2026-07-15T11:58:38Z",
+   "url": "https://www.independent.co.uk/news/world/americas/us-politics/nevada-governor-lombardo-traffic-stop-b3014931.html",
+   "domain": "www.independent.co.uk",
+   "source": "The Independent",
+   "severity": "NARRATIVE",
+   "score": 0.7,
+   "old_title": "Footage shows moment Nevada's governor blurted out his name after he's pulled over",
+   "new_title": "Footage shows moment Nevada Governor blurt out his name after he's pulled over",
+   "lang": "en",
+   "summary": ""
+  },
+  {
+   "id": "2c62cee41b516553-6efaebc7-f775b4cd",
+   "date": "2026-07-15",
+   "detected_at": "2026-07-15T11:57:48Z",
+   "url": "https://www.france24.com/en/middle-east/20260715-middle-east-live-tehran-and-us-exchange-strikes-as-blockade-of-iranian-ports-resumes",
+   "domain": "www.france24.com",
+   "source": "France 24",
+   "severity": "NARRATIVE",
+   "score": 1.803,
+   "old_title": "Middle East live: US military launches fresh 'wave of strikes' on Iran",
+   "new_title": "Middle East live: US military launches fresh 'wave of strikes' on Iran",
+   "lang": "en",
+   "summary": "added: One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site."
+  },
   {
    "id": "09cc81db98b06654-8b76e9b0-dfb0d1b7",
    "date": "2026-07-15",
@@ -142,6 +184,34 @@
    "summary": "deleted: It's"
   },
   {
+   "id": "0327f7aed29a8ef0-f4192145-4bac5537",
+   "date": "2026-07-15",
+   "detected_at": "2026-07-15T11:58:48Z",
+   "url": "https://www.independent.co.uk/news/world/americas/us-politics/todd-blanche-hearing-confirmation-live-senate-b3014903.html",
+   "domain": "www.independent.co.uk",
+   "source": "The Independent",
+   "severity": "FACTUAL",
+   "score": 0.6,
+   "old_title": "Trump's attorney general nominee Todd Blanche faces Senate grilling: live updates",
+   "new_title": "Trump's attorney general nominee Todd Blanche faces Senate grilling: live updates",
+   "lang": "en",
+   "summary": "added: Todd Blanche ripped into Trump's weaponization czar and directed key prosecutions of president's enemies, emails show Despite the president's claim to the co..."
+  },
+  {
+   "id": "14d9bc30ae72c18b-dda0bfd7-852de0d0",
+   "date": "2026-07-15",
+   "detected_at": "2026-07-15T11:57:00Z",
+   "url": "https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing",
+   "domain": "www.npr.org",
+   "source": "NPR",
+   "severity": "FACTUAL",
+   "score": 0.6,
+   "old_title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
+   "new_title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
+   "lang": "en",
+   "summary": "deleted: morning,"
+  },
+  {
    "id": "699773612899f338-1a136b7d-6c6af609",
    "date": "2026-07-15",
    "detected_at": "2026-07-15T11:33:47Z",
@@ -154,6 +224,20 @@
    "new_title": "US and Iran trade attacks as Trump threatens to hit civilian infrastructure",
    "lang": "en",
    "summary": "added: Iranian government spokesperson Fatemeh Mohajerani said more than 30 civilians had been killed in recent US attacks across southern Iran. Hossein Kermanpour,..."
+  },
+  {
+   "id": "0b55066d86001ec2-2010f9bb-06ab7054",
+   "date": "2026-07-15",
+   "detected_at": "2026-07-15T11:56:43Z",
+   "url": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&at_campaign=rss",
+   "domain": "www.bbc.co.uk",
+   "source": "BBC News",
+   "severity": "MINOR",
+   "score": 0.0,
+   "old_title": "UK weather: the ongoing heatwave delivers exceptional hours of sunshine",
+   "new_title": "UK weather: the ongoing heatwave delivers exceptional hours of sunshine",
+   "lang": "en",
+   "summary": "added: - Published"
   },
   {
    "id": "f2af126c08c1dd1d-f5d835ff-75a0e3c1",
@@ -212,6 +296,34 @@
    "summary": "deleted: for"
   },
   {
+   "id": "1dd223eeb30fb725-674e13e7-215b4d7c",
+   "date": "2026-07-15",
+   "detected_at": "2026-07-15T11:56:33Z",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6212j5zw3ko?at_medium=RSS&at_campaign=rss",
+   "domain": "www.bbc.co.uk",
+   "source": "BBC News",
+   "severity": "COSMETIC",
+   "score": 0.0,
+   "old_title": "World Cup 2026: I still feel pain of '98 but this can be different for England - Alan Shearer",
+   "new_title": "World Cup 2026: I still feel pain of '98 but this can be different for England - Alan Shearer",
+   "lang": "en",
+   "summary": "added: - Published"
+  },
+  {
+   "id": "f5d4efb958f8f1a9-fb9b7c5c-31440358",
+   "date": "2026-07-15",
+   "detected_at": "2026-07-15T11:56:29Z",
+   "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+   "domain": "www.bbc.co.uk",
+   "source": "BBC News",
+   "severity": "COSMETIC",
+   "score": 0.0,
+   "old_title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
+   "new_title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
+   "lang": "en",
+   "summary": "added: - Published"
+  },
+  {
    "id": "4c491c6cf8d39ac6-ad476f0c-5896a3e1",
    "date": "2026-07-15",
    "detected_at": "2026-07-15T11:32:51Z",
@@ -268,7 +380,7 @@
   },
   {
    "domain": "www.aljazeera.com",
-   "tracked": 10,
+   "tracked": 11,
    "edits_total": 1,
    "last_edit": "2026-07-15T11:33:47Z",
    "by_severity": {
@@ -282,13 +394,13 @@
   {
    "domain": "www.bbc.co.uk",
    "tracked": 9,
-   "edits_total": 3,
-   "last_edit": "2026-07-15T11:32:57Z",
+   "edits_total": 6,
+   "last_edit": "2026-07-15T11:56:43Z",
    "by_severity": {
     "NARRATIVE": 1,
     "FACTUAL": 0,
-    "MINOR": 1,
-    "COSMETIC": 1
+    "MINOR": 2,
+    "COSMETIC": 3
    },
    "source": "BBC News"
   },
@@ -321,10 +433,10 @@
   {
    "domain": "www.france24.com",
    "tracked": 9,
-   "edits_total": 2,
-   "last_edit": "2026-07-15T11:34:17Z",
+   "edits_total": 3,
+   "last_edit": "2026-07-15T11:57:48Z",
    "by_severity": {
-    "NARRATIVE": 2,
+    "NARRATIVE": 3,
     "FACTUAL": 0,
     "MINOR": 0,
     "COSMETIC": 0
@@ -346,12 +458,12 @@
   },
   {
    "domain": "www.independent.co.uk",
-   "tracked": 13,
-   "edits_total": 5,
-   "last_edit": "2026-07-15T11:43:07Z",
+   "tracked": 17,
+   "edits_total": 8,
+   "last_edit": "2026-07-15T11:58:48Z",
    "by_severity": {
-    "NARRATIVE": 5,
-    "FACTUAL": 0,
+    "NARRATIVE": 7,
+    "FACTUAL": 1,
     "MINOR": 0,
     "COSMETIC": 0
    },
@@ -373,11 +485,11 @@
   {
    "domain": "www.npr.org",
    "tracked": 7,
-   "edits_total": 1,
-   "last_edit": "2026-07-15T11:33:17Z",
+   "edits_total": 2,
+   "last_edit": "2026-07-15T11:57:00Z",
    "by_severity": {
     "NARRATIVE": 0,
-    "FACTUAL": 0,
+    "FACTUAL": 1,
     "MINOR": 1,
     "COSMETIC": 0
    },
@@ -424,13 +536,13 @@
   }
  ],
  "health": {
-  "last_run": "2026-07-15T11:40:37Z",
+  "last_run": "2026-07-15T11:56:29Z",
   "sources": [
    {
     "name": "BBC News",
     "ok": true,
     "checked": 9,
-    "changed": 0,
+    "changed": 3,
     "error": null
    },
    {
@@ -444,13 +556,13 @@
     "name": "NPR",
     "ok": true,
     "checked": 7,
-    "changed": 0,
+    "changed": 1,
     "error": null
    },
    {
     "name": "Al Jazeera",
     "ok": true,
-    "checked": 10,
+    "checked": 11,
     "changed": 0,
     "error": null
    },
@@ -465,7 +577,7 @@
     "name": "France 24",
     "ok": true,
     "checked": 9,
-    "changed": 0,
+    "changed": 1,
     "error": null
    },
    {
@@ -485,8 +597,8 @@
    {
     "name": "The Independent",
     "ok": true,
-    "checked": 13,
-    "changed": 2,
+    "checked": 17,
+    "changed": 3,
     "error": null
    },
    {
@@ -532,9 +644,9 @@
     "error": null
    }
   ],
-  "articles_checked": 100,
-  "edits_found": 2,
-  "duration_s": 236.4,
-  "total_edits": 16
+  "articles_checked": 105,
+  "edits_found": 8,
+  "duration_s": 202.4,
+  "total_edits": 24
  }
 }
