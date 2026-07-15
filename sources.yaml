@@ -1,0 +1,45 @@
+# MemoryHole tracked sources.
+# Two kinds of entries:
+#   - rss:  discover articles from a feed; each article is snapshotted and
+#           re-checked for `track_days` days after first seen.
+#   - url:  a static page tracked forever (official statements, policy pages).
+# Per-source options:
+#   max_articles: newest feed entries to consider per run (default 5)
+#   crawl_delay:  seconds between requests to this domain (default 2)
+
+defaults:
+  max_articles: 5
+  track_days: 5
+  crawl_delay: 2
+
+sources:
+  - name: BBC News
+    rss: https://feeds.bbci.co.uk/news/rss.xml
+  - name: The Guardian
+    rss: https://www.theguardian.com/world/rss
+  - name: NPR
+    rss: https://feeds.npr.org/1001/rss.xml
+  - name: Al Jazeera
+    rss: https://www.aljazeera.com/xml/rss/all.xml
+  - name: Deutsche Welle
+    rss: https://rss.dw.com/rdf/rss-en-all
+  - name: France 24
+    rss: https://www.france24.com/en/rss
+  - name: ABC News (Australia)
+    rss: https://www.abc.net.au/news/feed/51120/rss.xml
+  - name: Le Monde (English)
+    rss: https://www.lemonde.fr/en/rss/une.xml
+  - name: The Independent
+    rss: https://www.independent.co.uk/rss
+  - name: ProPublica
+    rss: https://www.propublica.org/feeds/propublica/main
+  - name: UN News
+    rss: https://news.un.org/feed/subscribe/en/news/all/rss.xml
+  - name: Ars Technica
+    rss: https://feeds.arstechnica.com/arstechnica/index
+  - name: GOV.UK announcements
+    rss: https://www.gov.uk/search/news-and-communications.atom
+  - name: Federal Reserve press releases
+    url: https://www.federalreserve.gov/newsevents/pressreleases.htm
+  - name: State Department press
+    url: https://www.state.gov/press-releases/

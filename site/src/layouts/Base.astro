@@ -1,0 +1,140 @@
+---
+import site from '../../../data/derived/site.json';
+const { title = 'MemoryHole' } = Astro.props;
+const base = import.meta.env.BASE_URL.endsWith('/')
+  ? import.meta.env.BASE_URL
+  : import.meta.env.BASE_URL + '/';
+const h = site.health;
+const failed = (h.sources || []).filter((s) => !s.ok);
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <link rel="icon" href={`data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='80' font-size='80'>🕳️</text></svg>`} />
+    <link rel="alternate" type="application/rss+xml" title="MemoryHole edits" href={`${base}rss.xml`} />
+  </head>
+  <body>
+    <header>
+      <a class="brand" href={base}>Memory<span>Hole</span></a>
+      <nav>
+        <a href={base}>Feed</a>
+        <a href={`${base}about/`}>About</a>
+        <a href={`${base}rss.xml`}>RSS</a>
+      </nav>
+    </header>
+    <main><slot /></main>
+    <footer>
+      <p>
+        Last run {h.last_run || 'never'} ·
+        {(h.sources || []).length - failed.length}/{(h.sources || []).length} sources ok ·
+        {h.total_edits ?? 0} edits on record
+        {failed.length > 0 && <span> · failing: {failed.map((s) => s.name).join(', ')}</span>}
+      </p>
+      <p>
+        MemoryHole stores only extracted article text for diffing, with attribution and a
+        link to the original. <a href="https://github.com/dipeshrayg/memoryhole">Source on GitHub</a>
+      </p>
+    </footer>
+  </body>
+</html>
+
+<style is:global>
+  :root {
+    --bg: #ffffff;
+    --fg: #1a1d21;
+    --muted: #667085;
+    --line: #e4e7ec;
+    --card: #f8f9fb;
+    --link: #175cd3;
+    --del-bg: #ffe4e1;
+    --del-fg: #b42318;
+    --ins-bg: #d9f5e1;
+    --ins-fg: #067647;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #101418;
+      --fg: #e6e9ec;
+      --muted: #8b95a1;
+      --line: #2a3138;
+      --card: #171c22;
+      --link: #7ab3ff;
+      --del-bg: #47201f;
+      --del-fg: #ff9f9a;
+      --ins-bg: #15321f;
+      --ins-fg: #7fd8a2;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0 auto;
+    max-width: 68rem;
+    padding: 0 1rem;
+    font: 16px/1.55 system-ui, -apple-system, 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--fg);
+  }
+  a { color: var(--link); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  header {
+    display: flex; align-items: baseline; justify-content: space-between;
+    gap: 1rem; padding: 1.2rem 0; border-bottom: 1px solid var(--line);
+  }
+  .brand { font-size: 1.35rem; font-weight: 700; color: var(--fg); letter-spacing: -0.02em; }
+  .brand span { color: var(--del-fg); }
+  header nav { display: flex; gap: 1rem; }
+  main { padding: 1.5rem 0 3rem; }
+  footer {
+    border-top: 1px solid var(--line); padding: 1rem 0 2rem;
+    color: var(--muted); font-size: 0.85rem;
+  }
+  h1 { font-size: 1.5rem; letter-spacing: -0.02em; }
+  h2 { font-size: 1.1rem; margin-top: 2rem; color: var(--muted); }
+
+  .badge {
+    display: inline-block; padding: 0.1rem 0.55rem; border-radius: 999px;
+    font-size: 0.72rem; font-weight: 700; letter-spacing: 0.04em;
+  }
+  .badge.NARRATIVE { background: var(--del-bg); color: var(--del-fg); }
+  .badge.FACTUAL { background: #fef0c7; color: #b54708; }
+  @media (prefers-color-scheme: dark) { .badge.FACTUAL { background: #3d2e10; color: #fdb022; } }
+  .badge.MINOR { background: var(--card); color: var(--link); border: 1px solid var(--line); }
+  .badge.COSMETIC { background: var(--card); color: var(--muted); border: 1px solid var(--line); }
+
+  .edit-card {
+    display: block; padding: 0.9rem 1rem; margin: 0.6rem 0;
+    background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+    color: var(--fg);
+  }
+  .edit-card:hover { text-decoration: none; border-color: var(--muted); }
+  .edit-card .meta { color: var(--muted); font-size: 0.82rem; margin-top: 0.3rem; }
+  .edit-card .summary { color: var(--muted); font-size: 0.9rem; margin-top: 0.35rem; font-style: italic; }
+  .edit-card strong { font-weight: 600; }
+
+  del, .w-del { background: var(--del-bg); color: var(--del-fg); text-decoration: line-through; padding: 0 2px; border-radius: 3px; }
+  ins, .w-ins { background: var(--ins-bg); color: var(--ins-fg); text-decoration: none; padding: 0 2px; border-radius: 3px; }
+
+  .diff { border: 1px solid var(--line); border-radius: 10px; overflow: hidden; margin: 1rem 0; }
+  .diff-cols { display: grid; grid-template-columns: 1fr 1fr; }
+  .diff-cols > div { padding: 0.8rem 1rem; font-size: 0.92rem; overflow-wrap: anywhere; }
+  .diff-cols > div:first-child { border-right: 1px solid var(--line); }
+  .diff-head { display: grid; grid-template-columns: 1fr 1fr; background: var(--card);
+    border-bottom: 1px solid var(--line); font-size: 0.78rem; font-weight: 700;
+    color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
+  .diff-head > div { padding: 0.4rem 1rem; }
+  .hunk + .hunk .diff-cols { border-top: 1px dashed var(--line); }
+  .ellipsis { color: var(--muted); }
+  @media (max-width: 640px) {
+    .diff-cols { grid-template-columns: 1fr; }
+    .diff-cols > div:first-child { border-right: 0; border-bottom: 1px solid var(--line); }
+    .diff-head { display: none; }
+  }
+
+  table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
+  th, td { text-align: left; padding: 0.5rem 0.7rem; border-bottom: 1px solid var(--line); font-size: 0.92rem; }
+  th { color: var(--muted); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.05em; }
+  .num { text-align: right; font-variant-numeric: tabular-nums; }
+</style>

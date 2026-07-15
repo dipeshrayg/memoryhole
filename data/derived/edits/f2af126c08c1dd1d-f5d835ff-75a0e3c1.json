@@ -1,0 +1,41 @@
+{
+ "id": "f2af126c08c1dd1d-f5d835ff-75a0e3c1",
+ "url": "https://www.abc.net.au/news/2026-07-15/qld-woman-found-dead-rockhampton-police/106920120",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "lang": "en",
+ "detected_at": "2026-07-15T11:34:32Z",
+ "date": "2026-07-15",
+ "old_title": "Crime scene declared after woman found dead in Rockhampton",
+ "new_title": "Crime scene declared after woman found dead in Rockhampton",
+ "old_text": "A crime scene has been established after a woman was found dead in central Queensland.\nPolice were called to Rockhampton's CBD at about 1:15pm for a welfare check where the woman's body was found.\nPolice tape cordoned off two properties on Denham Street.\nOfficers said there was no ongoing threat to the public.\nAnyone with information is being asked to contact police.\nLoading",
+ "new_text": "A crime scene has been established after a woman was found dead in central Queensland.\nPolice were called to Rockhampton's CBD at about 1:15pm for a welfare check where the woman's body was found.\nPolice tape cordoned off two properties on Denham Street.\nOfficers said there was no ongoing threat to the public.\nAnyone with information is being asked to contact police.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "to the public. Anyone with information is being asked to contact police."
+    ],
+    [
+     "del",
+     "Loading"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0159,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9987,
+ "adjudicated_by": "rules"
+}

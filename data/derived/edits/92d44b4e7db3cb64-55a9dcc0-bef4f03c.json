@@ -1,0 +1,265 @@
+{
+ "id": "92d44b4e7db3cb64-55a9dcc0-bef4f03c",
+ "url": "https://www.france24.com/en/europe/20260715-deadly-russian-strike-hits-odesa-as-von-der-leyen-arrives-in-ukraine-with-defence-plans",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "lang": "en",
+ "detected_at": "2026-07-15T11:34:17Z",
+ "date": "2026-07-15",
+ "old_title": "Deadly Russian strike hits Odesa as von der Leyen arrives in Ukraine for defence talks",
+ "new_title": "EU's Von der Leyen seals deal with Ukraine to scale up drone production",
+ "old_text": "Deadly Russian strike hits Odesa as von der Leyen arrives in Ukraine for defence talks\nRussia carried out a strike on the port city of Odesa in Ukraine that killed three, a local official reported on Wednesday, as European Commission President Ursula von der Leyen arrived in Kyiv to announce new defence initiatives. Overnight, Ukraine also said it struck 20 Russian vessels in the Black Sea, including gas tankers.\nA Russian attack on Ukraine's Black Sea port city of Odesa killed three, a local official said on Wednesday.\nSerhiy Lysak, head of the city's military administration, said on Telegram that three other people had been hospitalised after the attack.\nLysak said that residential buildings had been damaged in the attack, without providing additional details.\nRead moreJune was deadliest month for Ukrainian civilians in four years, UN says\nRussia confirmed the attacks and said it hit a number of targets in the ports of Odesa and Chornomorsk in Ukraine's Odesa region using precision-guided air-launched weapons and attack drones.\nPort infrastructure facilities used for unloading fuel and lubricants as well as fuel storage tanks were hit, Russia said.\nIn a statement, Russia's defence ministry also said four vessels delivering cargoes for the Ukrainian armed forces were struck in the ports of Chornomorsk and Dnipro-Buh.\nMeanwhile, European Commission President Ursula von der Leyen arrived in Kyiv on Wednesday and said she would announce new moves to deepen the integration of European and Ukrainian defence industries.\n\"I will announce new initiatives to integrate our defence industries. So we can produce more, and faster,\" she said on X, posting footage of her arrival on the platform.\nRussia in recent days has stepped up attacks on Ukraine's deepwater Black Sea ports in the Greater Odesa cluster, which are vital to foreign trade and the country's wartime economy.\nRegional Governor Oleh Kiper said on Tuesday that two people were killed in an evening drone attack on port infrastructure in the region. A civilian vessel under a Marshall Islands flag had been damaged in the attack, he said.\nOvernight on Tuesday, Ukrainian drones also struck 20 Russian vessels in the Black Sea overnight, including 17 oil tankers, the commander of Kyiv's drone forces said on Wednesday.\nOn Telegram, Robert Brovdi said the targets included two gas tankers and a tugboat.\n(FRANCE 24 with Reuters, AFP)",
+ "new_text": "EU's Von der Leyen seals deal with Ukraine to scale up drone production\nUkraine and the European Union have signed a \"drone deal\" to combine Kyiv's expertise with Europe's industrial capacity in order to boost production, European Commission President Ursula von der Leyen announced on Wednesday. Her visit comes as Russian strikes killed six people and wounded at least 20 across Ukraine, according to regional authorities.\n\"We need to combine our strengths,\" Ursula von der Leyen said in a speech in Kyiv at a ceremony to mark the country's Statehood Day. \"This deal will bring together Ukrainian ingenuity and Europe's industrial scale.\"\nUkraine has signed a series of such deals with individual countries. At last week's NATO summit in Akara, President Volodymyr Zelensky signed three more, saying that brought the total to nine.\nBut Wednesday's deal is the first agreement intended to cover countries and companies across the European Union.\n\"The knowledge you have gained on how to work drone and anti-drone systems is truly unique,\" von der Leyen said, addressing Zelensky.\n\"We must tap into this together. Because we know the threats that Europe faces in this area - we have seen incursions and alerts across many (EU) member states,\" she added.\nVon der Leyen said the EU could offer advantages to Ukraine such as \"huge technological and industrial capacity\" and \"safe and secure production sites\".\nUkraine has developed a highly sophisticated drone industry after having only limited expertise in the sector when Russia invaded its smaller neighbour in February 2022.\nRussia strikes Odesa and Sumy\nRussian strikes killed six people and wounded at least 20 across Ukraine on Wednesday, regional authorities said.\nThe daytime attacks targeted industrial and medical facilities in the Black Sea port city of Odesa and in the northeastern city of Sumy, near the border with Russia.\n\"The enemy launched six guided aerial bombs,\" said Sumy regional governor Oleg Grygorov. \"Three people were killed and 17 were wounded.\n\"Among the dead are a woman and a man,\" he added. \"Another person sustained extremely severe injuries, making it currently impossible to determine their gender.\"\nOdesa endured another day of Russian drone and missile attacks targeting its port and civilian infrastructure, the authorities there said.\n\"A massive combined missile and drone attack on the Odesa region has been ongoing for the fifth day in a row,\" said governor Oleg Kiper.\n\"Three people were killed, and at least three others were injured,\" he added.\nRead moreJune was deadliest month for Ukrainian civilians in four years, UN says\nRussia confirmed the attacks and said it hit a number of targets in the ports of Odesa and Chornomorsk in Ukraine's Odesa region using precision-guided air-launched weapons and attack drones.\nPort infrastructure facilities used for unloading fuel and lubricants as well as fuel storage tanks were hit, Russia said.\nIn a statement, Russia's defence ministry also said four vessels delivering cargoes for the Ukrainian armed forces were struck in the ports of Chornomorsk and Dnipro-Buh.\nRussia in recent days has stepped up attacks on Ukraine's deepwater Black Sea ports in the Greater Odesa cluster, which are vital to foreign trade and the country's wartime economy.\nOvernight on Tuesday, Ukrainian drones also struck 20 Russian vessels in the Black Sea overnight, including 17 oil tankers, the commander of Kyiv's drone forces said on Wednesday.\nOn Tuesday, the UN reported a sharp rise in civilian deaths through the first half of 2026, hitting a four-year-high in the month of June.\n(FRANCE 24 with Reuters, AFP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Deadly Russian strike hits Odesa as von"
+    ],
+    [
+     "ins",
+     "EU's Von"
+    ],
+    [
+     "eq",
+     "der Leyen"
+    ],
+    [
+     "del",
+     "arrives"
+    ],
+    [
+     "ins",
+     "seals deal with Ukraine to scale up drone production Ukraine and the European Union have signed a \"drone deal\" to combine Kyiv's expertise with Europe's industrial capacity"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "Ukraine for defence talks Russia carried out a strike on the port city of Odesa in Ukraine that killed three, a local official reported on Wednesday, as"
+    ],
+    [
+     "ins",
+     "order to boost production,"
+    ],
+    [
+     "eq",
+     "European Commission President Ursula von der Leyen"
+    ],
+    [
+     "del",
+     "arrived"
+    ],
+    [
+     "ins",
+     "announced on Wednesday. Her visit comes as Russian strikes killed six people and wounded at least 20 across Ukraine, according to regional authorities. \"We need to combine our strengths,\" Ursula von der Leyen said in a speech"
+    ],
+    [
+     "eq",
+     "in Kyiv"
+    ],
+    [
+     "ins",
+     "at a ceremony"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "announce new defence initiatives. Overnight,"
+    ],
+    [
+     "ins",
+     "mark the country's Statehood Day. \"This deal will bring together Ukrainian ingenuity and Europe's industrial scale.\""
+    ],
+    [
+     "eq",
+     "Ukraine"
+    ],
+    [
+     "del",
+     "also"
+    ],
+    [
+     "ins",
+     "has signed a series of such deals with individual countries. At last week's NATO summit in Akara, President Volodymyr Zelensky signed three more, saying that brought the total to nine. But Wednesday's deal is the first agreement intended to cover countries and companies across the European Union. \"The knowledge you have gained on how to work drone and anti-drone systems is truly unique,\" von der Leyen said, addressing Zelensky. \"We must tap into this together. Because we know the threats that Europe faces in this area - we have seen incursions and alerts across many (EU) member states,\" she added. Von der Leyen"
+    ],
+    [
+     "eq",
+     "said"
+    ],
+    [
+     "del",
+     "it struck 20 Russian vessels"
+    ],
+    [
+     "ins",
+     "the EU could offer advantages to Ukraine such as \"huge technological and industrial capacity\" and \"safe and secure production sites\". Ukraine has developed a highly sophisticated drone industry after having only limited expertise"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "Black Sea, including gas tankers. A"
+    ],
+    [
+     "ins",
+     "sector when Russia invaded its smaller neighbour in February 2022. Russia strikes Odesa and Sumy"
+    ],
+    [
+     "eq",
+     "Russian"
+    ],
+    [
+     "del",
+     "attack"
+    ],
+    [
+     "ins",
+     "strikes killed six people and wounded at least 20 across Ukraine"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "Ukraine's"
+    ],
+    [
+     "ins",
+     "Wednesday, regional authorities said. The daytime attacks targeted industrial and medical facilities in the"
+    ],
+    [
+     "eq",
+     "Black Sea port city of Odesa"
+    ],
+    [
+     "del",
+     "killed three, a local official said on Wednesday. Serhiy Lysak, head of the city's military administration, said on Telegram that three other people had been hospitalised after the attack. Lysak said that residential buildings had been damaged"
+    ],
+    [
+     "ins",
+     "and"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "attack, without providing additional details."
+    ],
+    [
+     "ins",
+     "northeastern city of Sumy, near the border with Russia. \"The enemy launched six guided aerial bombs,\" said Sumy regional governor Oleg Grygorov. \"Three people were killed and 17 were wounded. \"Among the dead are a woman and a man,\" he added. \"Another person sustained extremely severe injuries, making it currently impossible to determine their gender.\" Odesa endured another day of Russian drone and missile attacks targeting its port and civilian infrastructure, the authorities there said. \"A massive combined missile and drone attack on the Odesa region has been ongoing for the fifth day in a row,\" said governor Oleg Kiper. \"Three people were killed, and at least three others were injured,\" he added."
+    ],
+    [
+     "eq",
+     "Read moreJune was deadliest month for Ukrainian civilians in four years, UN"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Ukrainian armed forces were struck in the ports of Chornomorsk and Dnipro-Buh."
+    ],
+    [
+     "del",
+     "Meanwhile, European Commission President Ursula von der Leyen arrived in Kyiv on Wednesday and said she would announce new moves to deepen the integration of European and Ukrainian defence industries. \"I will announce new initiatives to integrate our defence industries. So we can produce more, and faster,\" she said on X, posting footage of her arrival on the platform."
+    ],
+    [
+     "eq",
+     "Russia in recent days has stepped up attacks on Ukraine's deepwater Black"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "cluster, which are vital to foreign trade and the country's wartime economy."
+    ],
+    [
+     "del",
+     "Regional Governor Oleh Kiper said on Tuesday that two people were killed in an evening drone attack on port infrastructure in the region. A civilian vessel under a Marshall Islands flag had been damaged in the attack, he said."
+    ],
+    [
+     "eq",
+     "Overnight on Tuesday, Ukrainian drones also struck 20 Russian vessels in the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "oil tankers, the commander of Kyiv's drone forces said on Wednesday. On"
+    ],
+    [
+     "del",
+     "Telegram, Robert Brovdi said"
+    ],
+    [
+     "ins",
+     "Tuesday,"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "targets included two gas tankers and"
+    ],
+    [
+     "ins",
+     "UN reported"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "tugboat."
+    ],
+    [
+     "ins",
+     "sharp rise in civilian deaths through the first half of 2026, hitting a four-year-high in the month of June."
+    ],
+    [
+     "eq",
+     "(FRANCE 24 with Reuters, AFP)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.5685,
+  "numbers_changed": [
+   "17",
+   "2022",
+   "2026"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 1,
+  "blocks_added": 4,
+  "blocks_removed": 3,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.1,
+ "similarity": 0.473,
+ "adjudicated_by": "rules"
+}
