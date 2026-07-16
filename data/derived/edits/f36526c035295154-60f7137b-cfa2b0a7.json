@@ -1,0 +1,53 @@
+{
+ "id": "f36526c035295154-60f7137b-cfa2b0a7",
+ "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "lang": "en",
+ "detected_at": "2026-07-16T08:26:52Z",
+ "date": "2026-07-16",
+ "old_title": "Microsoft's Secure Boot has been broken for a decade and no one noticed until now",
+ "new_title": "Microsoft's Secure Boot has been broken for a decade and no one noticed until now",
+ "old_text": "An industry-wide standard Microsoft invented to protect Windows, and later Linux, devices from firmware infections has been trivial to bypass for 13 of its 14 years of existence. The discovery was made by researchers at security firm ESET after identifying 11 firmware images, at least one from 2013, that were known to be defective but remained signed by the software company anyway.\nThe images are known as shims, which were invented to extend Secure Boot to Linux devices and utility software. Using a technique simple enough to be performed by novice hackers, these old, forgotten shims can be used to completely circumvent the protection, which is embedded into the UEFI (Unified Extensible Firmware Interface) of the device's motherboard. The gaffe is the result of Microsoft, which oversees the signing of shims, failing to revoke the publicly available images once vulnerabilities were found in them.\nThreat extends to Windows and Linux users\nThe threat extends to Windows and Linux users alike, since the shim can be installed on devices running both operating systems. From there, an attacker can subvert the mandated chain of digitally signed firmware to install malicious firmware that loads early in the boot process and persists after either the OS is reinstalled or a hard drive is replaced.\n\"What makes these old shims dangerous is not a novel vulnerability,\" ESET researcher Martin Smolár wrote Tuesday. \"It's that no new vulnerability is needed to bypass UEFI Secure Boot. An attacker needs no complicated exploitation primitives-only a copy of an old, still-trusted, but unrevoked shim binary and a basic understanding of how UEFI shims work. That is enough to bypass such an essential security feature as UEFI Secure Boot.\"\nSecure boot was introduced in 2012 to blunt the threat of bootkits, the term for such malicious firmware. Without Secure Boot, attackers with brief physical access to a device-even when it's turned off-can install bootkits similar to LoJax used by Russia state hackers in 2018, MosaicRegressor found in 2020, CosmicStrand in 2022, and BlackLotus in 2023. A handful of other in-the-wild bootkits are tracked under names including ESpecter, FinSpy, and MoonBounce.",
+ "new_text": "An industry-wide standard Microsoft invented to protect Windows, and later Linux, devices from firmware infections has been trivial to bypass for 13 of its 14 years of existence. The discovery was made by researchers at security firm ESET after identifying 11 firmware images, at least one from 2013, that were known to be defective but remained signed by the software company anyway.\nThe images are known as shims, which were invented to extend Secure Boot to Linux devices and utility software. Using a technique simple enough to be performed by novice hackers, these old, forgotten shims can be used to completely circumvent the protection, which is embedded into the UEFI (Unified Extensible Firmware Interface) of the device's motherboard. The gaffe is the result of the failure by Microsoft, which oversees the signing of shims, to revoke the publicly available images once vulnerabilities were found in them.\nThreat extends to Windows and Linux users\nThe threat extends to Windows and Linux users alike, since the shim can be installed on devices running both operating systems. From there, an attacker can subvert the mandated chain of digitally signed firmware to install malicious firmware that loads early in the boot process and persists after either the OS is reinstalled or a hard drive is replaced.\n\"What makes these old shims dangerous is not a novel vulnerability,\" ESET researcher Martin Smolár wrote Tuesday. \"It's that no new vulnerability is needed to bypass UEFI Secure Boot. An attacker needs no complicated exploitation primitives-only a copy of an old, still-trusted, but unrevoked shim binary and a basic understanding of how UEFI shims work. That is enough to bypass such an essential security feature as UEFI Secure Boot.\"\nSecure boot was introduced in 2012 to blunt the threat of bootkits, the term for such malicious firmware. Without Secure Boot, attackers with brief physical access to a device-even when it's turned off-can install bootkits similar to LoJax used by Russia state hackers in 2018, MosaicRegressor found in 2020, CosmicStrand in 2022, and BlackLotus in 2023. A handful of other in-the-wild bootkits are tracked under names including ESpecter, FinSpy, and MoonBounce.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Firmware Interface) of the device's motherboard. The gaffe is the result of"
+    ],
+    [
+     "ins",
+     "the failure by"
+    ],
+    [
+     "eq",
+     "Microsoft, which oversees the signing of shims,"
+    ],
+    [
+     "del",
+     "failing"
+    ],
+    [
+     "eq",
+     "to revoke the publicly available images once vulnerabilities were found in them."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0114,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9973,
+ "adjudicated_by": "rules"
+}

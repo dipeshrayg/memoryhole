@@ -1,0 +1,49 @@
+{
+ "id": "6a518a2b0e2a8755-8f42fde0-23ea214e",
+ "url": "https://www.abc.net.au/news/2026-07-15/school-worker-charged-with-alleged-child-abuse-offences/106916694",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "lang": "en",
+ "detected_at": "2026-07-16T08:24:59Z",
+ "date": "2026-07-16",
+ "old_title": "School worker on child abuse material charges denied bail",
+ "new_title": "School worker on child abuse material charges denied bail",
+ "old_text": "In short:\nA seven-month-pregnant woman in Western NSW has been refused bail after she faced court accused of possessing child abuse material.\nLucy Ray McKenzie, 35, was charged with four counts of using a carriage service to make available child abuse material, and hindering or resisting police in the execution of duty.\nWhat's next?\nThe matter will return to court in the Western NSW on September 7.\nA heavily pregnant worker at a Western NSW school has been denied bail after she was charged with possessing child abuse material.\nLucy Ray McKenzie was arrested yesterday and charged with four counts of using a carriage service to make available child abuse material.\nNSW Police said detectives with the state's sex crimes squad child exploitation internet unit executed a search warrant at the 35-year-old's Gilgandra home yesterday morning after receiving a report on Saturday detecting child abuse material linked to an account holder at the address.\nLoading...The 35-year-old fronted a virtual bail hearing from Dubbo on Wednesday.\nThe court heard the accused was seven months' pregnant and worked at a school in an administrative capacity.\nIn her decision, Judge Fiona McCarron noted the child abuse material was uploaded over a \"relatively lengthy period of time\" between April 2025 and June 2026, with the investigation linking the IP address \"to the accused and her residential address\".\nJudge McCarron acknowledged that Ms McKenzie was \"due to give birth in a matter of weeks and that will make a custodial environment an extremely difficult place for her\".\nBut she refused her bail application due to the \"disturbing\" offences and the strength of the prosecution's case.\n\"I understand there will be a lengthy period on remand, but I have considerable concerns about the safety of the community at large,\" Judge McCarron said.\nShe declined to read the full facts of the case to the court, saying: \"They are disturbing enough to read - they do not need to be read onto the record.\"\nJudge McCarron also raised \"considerable concerns about Ms McKenzie's access if granted bail to her biological child when born\" given the nature of some of the material, which included a child under the age of one.\nThe court heard Ms McKenzie has also been charged with hinder or resist police in execution of duty, with police alleging when she arrived at her home, she physically resisted and refused repeated directions to surrender her devices.\nThe court was told police have seized her mobile phone and work laptop.\nAccused fired from school\nThe NSW Department of Education told the ABC that Ms McKenzie had been fired from her job.\n\"The department took immediate action upon learning of the charges, and the individual's employment has been terminated,\" it said in a statement.\n\"The department does not tolerate employees engaging in criminal conduct, especially towards children, and will not hesitate to act to ensure the care and protection of students.\n\"No further comment will be made as this is before the courts.\"\nStrike Force Trawler detectives - a special investigation unit into the sexual abuse and exploitation of children facilitated through the internet and related telecommunications devices - said inquiries were ongoing.\nThe matter will return to Gilgandra Local Court on September 7.",
+ "new_text": "In short:\nA seven-month-pregnant woman in Western NSW has been refused bail after she faced court accused of possessing child abuse material.\nLucy Ray McKenzie, 35, was charged with four counts of using a carriage service to make available child abuse material, and hindering or resisting police in the execution of duty.\nWhat's next?\nThe matter will return to court in the Western NSW on September 7.\nA heavily pregnant worker at a Western NSW school has been denied bail after she was charged with possessing child abuse material.\nLucy Ray McKenzie was arrested yesterday and charged with four counts of using a carriage service to make available child abuse material.\nNSW Police said detectives with the state's sex crimes squad child exploitation internet unit executed a search warrant at the 35-year-old's Gilgandra home yesterday morning after receiving a report on Saturday detecting child abuse material linked to an account holder at the address.\nLoading...The 35-year-old fronted a virtual bail hearing from Dubbo on Wednesday.\nThe court heard the accused was seven months' pregnant and worked at a school in an administrative capacity.\nIn her decision, Judge Fiona McCarron noted the child abuse material was uploaded over a \"relatively lengthy period of time\" between April 2025 and June 2026, with the investigation linking the IP address \"to the accused and her residential address\".\nJudge McCarron acknowledged that Ms McKenzie was \"due to give birth in a matter of weeks and that will make a custodial environment an extremely difficult place for her\".\nBut she refused her bail application due to the \"disturbing\" offences and the strength of the prosecution's case.\n\"I understand there will be a lengthy period on remand, but I have considerable concerns about the safety of the community at large,\" Judge McCarron said.\nShe declined to read the full facts of the case to the court, saying: \"They are disturbing enough to read - they do not need to be read onto the record.\"\nJudge McCarron also raised \"considerable concerns about Ms McKenzie's access if granted bail to her biological child when born\" given the nature of some of the material, which included a child under the age of one.\nThe court heard Ms McKenzie has also been charged with hinder or resist police in execution of duty, with police alleging when they arrived at her home, she physically resisted and refused repeated directions to surrender her devices.\nThe court was told police have seized her mobile phone and work laptop.\nAccused fired from school\nThe NSW Department of Education told the ABC that Ms McKenzie had been fired from her job.\n\"The department took immediate action upon learning of the charges, and the individual's employment has been terminated,\" it said in a statement.\n\"The department does not tolerate employees engaging in criminal conduct, especially towards children, and will not hesitate to act to ensure the care and protection of students.\n\"No further comment will be made as this is before the courts.\"\nStrike Force Trawler detectives - a special investigation unit into the sexual abuse and exploitation of children facilitated through the internet and related telecommunications devices - said inquiries were ongoing.\nThe matter will return to Gilgandra Local Court on September 7.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "hinder or resist police in execution of duty, with police alleging when"
+    ],
+    [
+     "del",
+     "she"
+    ],
+    [
+     "ins",
+     "they"
+    ],
+    [
+     "eq",
+     "arrived at her home, she physically resisted and refused repeated directions to"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0037,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,107 @@
+{
+ "id": "f2af126c08c1dd1d-75a0e3c1-4da05477",
+ "url": "https://www.abc.net.au/news/2026-07-15/qld-woman-found-dead-rockhampton-police/106920120",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "lang": "en",
+ "detected_at": "2026-07-16T08:24:57Z",
+ "date": "2026-07-16",
+ "old_title": "Crime scene declared after woman found dead in Rockhampton",
+ "new_title": "32yo woman found dead in Rockhampton",
+ "old_text": "A crime scene has been established after a woman was found dead in central Queensland.\nPolice were called to Rockhampton's CBD at about 1:15pm for a welfare check where the woman's body was found.\nPolice tape cordoned off two properties on Denham Street.\nOfficers said there was no ongoing threat to the public.\nAnyone with information is being asked to contact police.",
+ "new_text": "Central Queensland police are continuing investigations into the death of a 32-year-old woman in Rockhampton yesterday.\nPolice were called to Rockhampton's CBD about 1:15pm for a welfare check where the woman's body was found.\nA crime scene was established, with police tape cordoning off two properties on Denham Street.\nOfficers said there was no ongoing threat to the public.\nAnyone with information is being asked to contact police.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "A crime scene has been established after"
+    ],
+    [
+     "ins",
+     "Central Queensland police are continuing investigations into the death of"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "ins",
+     "32-year-old"
+    ],
+    [
+     "eq",
+     "woman"
+    ],
+    [
+     "del",
+     "was found dead"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "central Queensland."
+    ],
+    [
+     "ins",
+     "Rockhampton yesterday."
+    ],
+    [
+     "eq",
+     "Police were called to Rockhampton's CBD"
+    ],
+    [
+     "del",
+     "at"
+    ],
+    [
+     "eq",
+     "about 1:15pm for a welfare check where the woman's body was found."
+    ],
+    [
+     "del",
+     "Police"
+    ],
+    [
+     "ins",
+     "A crime scene was established, with police"
+    ],
+    [
+     "eq",
+     "tape"
+    ],
+    [
+     "del",
+     "cordoned"
+    ],
+    [
+     "ins",
+     "cordoning"
+    ],
+    [
+     "eq",
+     "off two properties on Denham Street. Officers said there was no ongoing"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5806,
+  "numbers_changed": [
+   "32"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.962,
+ "similarity": 0.9263,
+ "adjudicated_by": "rules"
+}

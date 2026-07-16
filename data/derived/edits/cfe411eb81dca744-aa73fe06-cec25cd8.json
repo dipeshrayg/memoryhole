@@ -1,0 +1,293 @@
+{
+ "id": "cfe411eb81dca744-aa73fe06-cec25cd8",
+ "url": "https://www.dw.com/en/san-francisco-1-dead-3-missing-in-alcatraz-boat-sinking/a-77962333?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "lang": "en",
+ "detected_at": "2026-07-16T08:24:11Z",
+ "date": "2026-07-16",
+ "old_title": "San Francisco: 1 dead, 3 missing in Alcatraz boat sinking",
+ "new_title": "Alcatraz boat capsizing near San Francisco leaves 4 dead",
+ "old_text": "One person has died, three people are missing, and 16 others were saved by authorities after a three-deck pontoon vessel sank off the coast of Alcatraz Island in the San Francisco Bay on Tuesday, US officials said. A dog also died in the capsizing.\nThe island is home to a famous former Alcatraz federal prison, which now serves as a tourist destination. The prison was notorious for being inescapable due to the strong ocean currents and cold Pacific waters that surround it.\nAlcatraz Island is about 1 mile off the shore (1.6 km) in the bay.\nMulti-pronged search effort underway\nSearch and rescue teams were looking for the missing people throughout the night.\nLocal police and fire teams are working together along with the US Coast Guard to find survivors. Planes, boats and helicopters are being deployed in the operation.\nSan Francisco fire chief Dean Crispen, in a video posted online by the city's mayor, said responders were dispatched due to a report of \"a boat on fire, 600 yards of Alcatraz\" Island around 3:35 p.m. local time (1035 GMT) on Tuesday.\nAlthough there were reports that a fire had taken place on the boat, Crispen said \"we now don't have any evidence of that.\"\nChrispen rescuers had found the three-deck pontoon vessel capsized and almost completely under water. The boat's motor was still running and leaking fuel.\nOne dead person was found at the scene, with rescue teams making an attempt at resuscitation.\nOfficial: Capsized vessel was a privately-owned 'pontoon pleasure boat'\nSan Francisco Fire Department Lieutenant Elias Mariano told AFP news agency that rescuers were utilizing \"thermal imaging, tide prediction and modeling to help direct search efforts.\"\nMariano called the capsized vessel a \"pontoon pleasure boat.\" The boat was privately owned and it's unclear if it was heading to Alcatraz at the time of its sinking.\nEdited by: Wesley Rahn\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source in Google, so you'll always see our verified news first.",
+ "new_text": "One person has died and three missing people are presumed dead after a three-deck pontoon vessel sank off the coast of Alcatraz Island in the San Francisco Bay, US officials said Wednesday.\nA dog also died in the capsizing on Tuesday, and 16 others were saved by authorities.\nThe island is home to the famous former Alcatraz federal prison, which now serves as a tourist destination. The prison was notorious for being inescapable due to the strong ocean currents and cold Pacific waters that surround it.\nAlcatraz Island is about 1 mile (1.6 km) off the shore in the bay.\nMulti-pronged search effort called off\nSearch and rescue teams looked for the missing people throughout the night.\nThe Coast Guard called off the search operation at around sunset on Wednesday evening after hopes of finding them alive all but vanished.\nLocal police and fire teams had assisted the Coast Guard during the operation, which saw planes, boats and helicopters deployed.\nSan Francisco fire chief Dean Crispen, in a video posted online by the city's mayor, said responders were dispatched due to a report of \"a boat on fire, 600 yards of Alcatraz\" Island around 3:35 p.m. local time (1035 GMT) on Tuesday.\nAlthough there were reports that a fire had taken place on the boat, Crispen said, \"We now don't have any evidence of that.\"\nChrispen rescuers had found the three-deck pontoon vessel capsized and almost completely underwater. The boat's motor was still running and leaking fuel.\nOne dead person was found at the scene.\nSan Francisco Fire Department Lieutenant Elias Mariano told AFP news agency that rescuers had used \"thermal imaging, tide prediction and modeling to help direct search efforts.\"\nMariano called the capsized vessel a \"pontoon pleasure boat.\" The boat was privately owned and it was unclear if it was heading to Alcatraz at the time of its sinking.\nEdited by: Wesley Rahn\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source in Google, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "One person has"
+    ],
+    [
+     "del",
+     "died,"
+    ],
+    [
+     "ins",
+     "died and"
+    ],
+    [
+     "eq",
+     "three"
+    ],
+    [
+     "ins",
+     "missing"
+    ],
+    [
+     "eq",
+     "people are"
+    ],
+    [
+     "del",
+     "missing, and 16 others were saved by authorities"
+    ],
+    [
+     "ins",
+     "presumed dead"
+    ],
+    [
+     "eq",
+     "after a three-deck pontoon vessel sank off the coast of Alcatraz Island in the San Francisco"
+    ],
+    [
+     "del",
+     "Bay on Tuesday,"
+    ],
+    [
+     "ins",
+     "Bay,"
+    ],
+    [
+     "eq",
+     "US officials"
+    ],
+    [
+     "del",
+     "said."
+    ],
+    [
+     "ins",
+     "said Wednesday."
+    ],
+    [
+     "eq",
+     "A dog also died in the"
+    ],
+    [
+     "del",
+     "capsizing."
+    ],
+    [
+     "ins",
+     "capsizing on Tuesday, and 16 others were saved by authorities."
+    ],
+    [
+     "eq",
+     "The island is home to"
+    ],
+    [
+     "del",
+     "a"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "famous former Alcatraz federal prison, which now serves as a tourist destination."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "cold Pacific waters that surround it. Alcatraz Island is about 1 mile"
+    ],
+    [
+     "ins",
+     "(1.6 km)"
+    ],
+    [
+     "eq",
+     "off the shore"
+    ],
+    [
+     "del",
+     "(1.6 km)"
+    ],
+    [
+     "eq",
+     "in the bay. Multi-pronged search effort"
+    ],
+    [
+     "del",
+     "underway"
+    ],
+    [
+     "ins",
+     "called off"
+    ],
+    [
+     "eq",
+     "Search and rescue teams"
+    ],
+    [
+     "del",
+     "were looking"
+    ],
+    [
+     "ins",
+     "looked"
+    ],
+    [
+     "eq",
+     "for the missing people throughout the night."
+    ],
+    [
+     "ins",
+     "The Coast Guard called off the search operation at around sunset on Wednesday evening after hopes of finding them alive all but vanished."
+    ],
+    [
+     "eq",
+     "Local police and fire teams"
+    ],
+    [
+     "del",
+     "are working together along with"
+    ],
+    [
+     "ins",
+     "had assisted"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "US"
+    ],
+    [
+     "eq",
+     "Coast Guard"
+    ],
+    [
+     "del",
+     "to find survivors. Planes,"
+    ],
+    [
+     "ins",
+     "during the operation, which saw planes,"
+    ],
+    [
+     "eq",
+     "boats and helicopters"
+    ],
+    [
+     "del",
+     "are being deployed in the operation."
+    ],
+    [
+     "ins",
+     "deployed."
+    ],
+    [
+     "eq",
+     "San Francisco fire chief Dean Crispen, in a video posted online by"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "were reports that a fire had taken place on the boat, Crispen"
+    ],
+    [
+     "del",
+     "said \"we"
+    ],
+    [
+     "ins",
+     "said, \"We"
+    ],
+    [
+     "eq",
+     "now don't have any evidence of that.\" Chrispen rescuers had found the three-deck pontoon vessel capsized and almost completely"
+    ],
+    [
+     "del",
+     "under water."
+    ],
+    [
+     "ins",
+     "underwater."
+    ],
+    [
+     "eq",
+     "The boat's motor was still running and leaking fuel. One dead person was found at the"
+    ],
+    [
+     "del",
+     "scene, with rescue teams making an attempt at resuscitation. Official: Capsized vessel was a privately-owned 'pontoon pleasure boat'"
+    ],
+    [
+     "ins",
+     "scene."
+    ],
+    [
+     "eq",
+     "San Francisco Fire Department Lieutenant Elias Mariano told AFP news agency that rescuers"
+    ],
+    [
+     "del",
+     "were utilizing"
+    ],
+    [
+     "ins",
+     "had used"
+    ],
+    [
+     "eq",
+     "\"thermal imaging, tide prediction and modeling to help direct search efforts.\" Mariano"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "capsized vessel a \"pontoon pleasure boat.\" The boat was privately owned and"
+    ],
+    [
+     "del",
+     "it's"
+    ],
+    [
+     "ins",
+     "it was"
+    ],
+    [
+     "eq",
+     "unclear if it was heading to Alcatraz at the time of its"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3582,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.717,
+ "similarity": 0.9671,
+ "adjudicated_by": "rules"
+}

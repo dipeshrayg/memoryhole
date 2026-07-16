@@ -1,6 +1,426 @@
 {
- "generated_at": "2026-07-15T12:00:00Z",
+ "generated_at": "2026-07-16T08:36:47Z",
  "edits": [
+  {
+   "id": "8320898e4b8b5034-6d746000-5bbaad49",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:26:03Z",
+   "url": "https://www.independent.co.uk/bulletin/news/england-v-argentina-delay-atlanta-world-cup-stadium-b3015324.html",
+   "domain": "www.independent.co.uk",
+   "source": "The Independent",
+   "severity": "NARRATIVE",
+   "score": 0.7,
+   "old_title": "Statement issued over chances of England v Argentina delay due to storm risk",
+   "new_title": "England v Argentina: Stadium addresses fears storm will force delay",
+   "lang": "en",
+   "summary": "deleted: Statement issued over chances of"
+  },
+  {
+   "id": "83557dd2f7545358-0b1e8e02-9dd08714",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:26:01Z",
+   "url": "https://www.independent.co.uk/news/world/americas/us-politics/lincoln-memorial-reflecting-pool-donald-trump-fence-b3014887.html",
+   "domain": "www.independent.co.uk",
+   "source": "The Independent",
+   "severity": "NARRATIVE",
+   "score": 0.7,
+   "old_title": "Trump's Reflecting Pool fence could be up until January 2027, docs show",
+   "new_title": "Reflecting Pool could be fenced off until 2027 after Trump makeover, documents reveal",
+   "lang": "en",
+   "summary": "deleted: California"
+  },
+  {
+   "id": "0327f7aed29a8ef0-4bac5537-99ec1b00",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:25:48Z",
+   "url": "https://www.independent.co.uk/news/world/americas/us-politics/todd-blanche-hearing-confirmation-live-senate-b3014903.html",
+   "domain": "www.independent.co.uk",
+   "source": "The Independent",
+   "severity": "NARRATIVE",
+   "score": 3.502,
+   "old_title": "Trump's attorney general nominee Todd Blanche faces Senate grilling: live updates",
+   "new_title": "Todd Blanche fights to defend his integrity after defending Trump",
+   "lang": "en",
+   "summary": "added: Will the real Todd Blanche please stand up?"
+  },
+  {
+   "id": "09cc81db98b06654-c6546bfa-65a7d295",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:25:43Z",
+   "url": "https://www.independent.co.uk/news/uk/politics/starmer-final-pmqs-badenoch-burnham-live-updates-b3014954.html",
+   "domain": "www.independent.co.uk",
+   "source": "The Independent",
+   "severity": "NARRATIVE",
+   "score": 3.6,
+   "old_title": "Starmer's final PMQs live: Labour MP pays tearful tribute as PM gets standing ovation",
+   "new_title": "Tears and tributes in the Commons as Starmer bids emotional farewell at final PMQs",
+   "lang": "en",
+   "summary": "deleted: has promised"
+  },
+  {
+   "id": "1703d43f3b0fab2e-fdadc31d-af0dbd3d",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:25:41Z",
+   "url": "https://www.independent.co.uk/news/science/microplastic-blood-level-heart-attack-b3015045.html",
+   "domain": "www.independent.co.uk",
+   "source": "The Independent",
+   "severity": "NARRATIVE",
+   "score": 2.09,
+   "old_title": "High levels of microplastics found in heart attack survivors",
+   "new_title": "High levels of microplastics found in heart attack survivors",
+   "lang": "en",
+   "summary": "deleted: providing early evidence that plastic pollution could be an overlooked cardiovascular threat."
+  },
+  {
+   "id": "d277a47f06c92838-6dd0ab9c-2b72ad37",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:25:37Z",
+   "url": "https://www.independent.co.uk/news/world/americas/us-politics/nevada-governor-lombardo-traffic-stop-b3014931.html",
+   "domain": "www.independent.co.uk",
+   "source": "The Independent",
+   "severity": "NARRATIVE",
+   "score": 0.7,
+   "old_title": "Footage shows moment Nevada Governor blurt out his name after he's pulled over",
+   "new_title": "Footage shows moment Nevada's governor blurted out his name after he's pulled over",
+   "lang": "en",
+   "summary": ""
+  },
+  {
+   "id": "1bf5365f56650f02-996ac06a-ce8e1fa5",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:25:03Z",
+   "url": "https://www.abc.net.au/news/2026-07-15/oil-reserves-spent-imf-us-iran-war/106918074",
+   "domain": "www.abc.net.au",
+   "source": "ABC News (Australia)",
+   "severity": "NARRATIVE",
+   "score": 0.7,
+   "old_title": "Reserves that prevented 'full-blown' oil shock running low, IMF says",
+   "new_title": "Global reserves that spared the worst of the oil shock are spent, IMF says",
+   "lang": "en",
+   "summary": ""
+  },
+  {
+   "id": "f2af126c08c1dd1d-75a0e3c1-4da05477",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:24:57Z",
+   "url": "https://www.abc.net.au/news/2026-07-15/qld-woman-found-dead-rockhampton-police/106920120",
+   "domain": "www.abc.net.au",
+   "source": "ABC News (Australia)",
+   "severity": "NARRATIVE",
+   "score": 0.962,
+   "old_title": "Crime scene declared after woman found dead in Rockhampton",
+   "new_title": "32yo woman found dead in Rockhampton",
+   "lang": "en",
+   "summary": "deleted: A crime scene has been established after"
+  },
+  {
+   "id": "c22bc89ba9e07c56-7b9e91b1-12e48b19",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:24:31Z",
+   "url": "https://www.france24.com/en/france/20260715-france-expected-to-pass-final-vote-on-assisted-dying-after-years-of-debate",
+   "domain": "www.france24.com",
+   "source": "France 24",
+   "severity": "NARRATIVE",
+   "score": 3.559,
+   "old_title": "France expected to pass final vote on assisted dying after years of debate",
+   "new_title": "France's lower house of parliament adopts final text of landmark right-to-die law",
+   "lang": "en",
+   "summary": "deleted: France expected to pass"
+  },
+  {
+   "id": "92d44b4e7db3cb64-bef4f03c-7fa9005c",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:24:29Z",
+   "url": "https://www.france24.com/en/europe/20260715-deadly-russian-strike-hits-odesa-as-von-der-leyen-arrives-in-ukraine-with-defence-plans",
+   "domain": "www.france24.com",
+   "source": "France 24",
+   "severity": "NARRATIVE",
+   "score": 0.762,
+   "old_title": "EU's Von der Leyen seals deal with Ukraine to scale up drone production",
+   "new_title": "EU seals deal with Ukraine to scale up drone production",
+   "lang": "en",
+   "summary": "deleted: EU's Von der Leyen"
+  },
+  {
+   "id": "2c62cee41b516553-f775b4cd-6c2ce313",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:24:25Z",
+   "url": "https://www.france24.com/en/middle-east/20260715-middle-east-live-tehran-and-us-exchange-strikes-as-blockade-of-iranian-ports-resumes",
+   "domain": "www.france24.com",
+   "source": "France 24",
+   "severity": "NARRATIVE",
+   "score": 3.1,
+   "old_title": "Middle East live: US military launches fresh 'wave of strikes' on Iran",
+   "new_title": "Lebanon, Israel conclude talks, agree to implement 'pilot zones'",
+   "lang": "en",
+   "summary": "added: Lebanon, Israel conclude talks, agree to implement 'pilot zones' Lebanon and Israel completed a new round of US-mediated negotiations in Rome on Wednesday, a..."
+  },
+  {
+   "id": "11a1ba9a4cea5eab-2eacd5ca-add9cfe5",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:24:12Z",
+   "url": "https://www.dw.com/en/ukraine-kyiv-and-eu-agree-on-new-drone-production-deal/live-77962795?maca=en-rss-en-all-1573-rdf",
+   "domain": "www.dw.com",
+   "source": "Deutsche Welle",
+   "severity": "NARRATIVE",
+   "score": 1.45,
+   "old_title": "Ukraine: Kyiv and EU agree on new drone production deal",
+   "new_title": "Ukraine: Kyiv and EU agree on new drone production deal",
+   "lang": "en",
+   "summary": "added: These updates have been closed. Thank you for joining us. Some of the top headlines regarding the ongoing Russian invasion of Ukraine from Wednesday, July 15..."
+  },
+  {
+   "id": "cfe411eb81dca744-aa73fe06-cec25cd8",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:24:11Z",
+   "url": "https://www.dw.com/en/san-francisco-1-dead-3-missing-in-alcatraz-boat-sinking/a-77962333?maca=en-rss-en-all-1573-rdf",
+   "domain": "www.dw.com",
+   "source": "Deutsche Welle",
+   "severity": "NARRATIVE",
+   "score": 0.717,
+   "old_title": "San Francisco: 1 dead, 3 missing in Alcatraz boat sinking",
+   "new_title": "Alcatraz boat capsizing near San Francisco leaves 4 dead",
+   "lang": "en",
+   "summary": "deleted: died,"
+  },
+  {
+   "id": "1e50241ba3b28990-2eacd5ca-add9cfe5",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:24:07Z",
+   "url": "https://www.dw.com/en/ukraine-and-eu-agree-joint-drone-production-deal-as-ursula-von-der-leyen-visits-kyiv-follow-dw/live-77962795?maca=en-rss-en-all-1573-rdf",
+   "domain": "www.dw.com",
+   "source": "Deutsche Welle",
+   "severity": "NARRATIVE",
+   "score": 1.45,
+   "old_title": "Ukraine: Kyiv and EU agree on new drone production deal",
+   "new_title": "Ukraine: Kyiv and EU agree on new drone production deal",
+   "lang": "en",
+   "summary": "added: These updates have been closed. Thank you for joining us. Some of the top headlines regarding the ongoing Russian invasion of Ukraine from Wednesday, July 15..."
+  },
+  {
+   "id": "b8b66d57d0b2d0f7-23068c12-43ff83c3",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:24:05Z",
+   "url": "https://www.dw.com/en/india-news-landmark-trade-deal-with-uk-takes-effect/live-77961587?maca=en-rss-en-all-1573-rdf",
+   "domain": "www.dw.com",
+   "source": "Deutsche Welle",
+   "severity": "NARRATIVE",
+   "score": 1.45,
+   "old_title": "India news: Landmark trade deal with UK takes effect",
+   "new_title": "India news: Landmark trade deal with UK takes effect",
+   "lang": "en",
+   "summary": "added: This blog has now closed."
+  },
+  {
+   "id": "c8dbeed168dde6cb-2eacd5ca-add9cfe5",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:23:57Z",
+   "url": "https://www.dw.com/en/ukraine-three-dead-as-russia-intensifies-attacks-on-odesea/live-77962795?maca=en-rss-en-all-1573-rdf",
+   "domain": "www.dw.com",
+   "source": "Deutsche Welle",
+   "severity": "NARRATIVE",
+   "score": 1.45,
+   "old_title": "Ukraine: Kyiv and EU agree on new drone production deal",
+   "new_title": "Ukraine: Kyiv and EU agree on new drone production deal",
+   "lang": "en",
+   "summary": "added: These updates have been closed. Thank you for joining us. Some of the top headlines regarding the ongoing Russian invasion of Ukraine from Wednesday, July 15..."
+  },
+  {
+   "id": "f8e75fd7c8a9515d-bfd9a988-37b21c8c",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:23:37Z",
+   "url": "https://www.aljazeera.com/news/2026/7/15/fifa-world-cup-brackets-teams-predictions-schedule-and-road-to-the-final?traffic_source=rss",
+   "domain": "www.aljazeera.com",
+   "source": "Al Jazeera",
+   "severity": "NARRATIVE",
+   "score": 0.7,
+   "old_title": "World Cup Day 35: Mbappe's World Cup dream ends, England vs Argentina next",
+   "new_title": "FIFA World Cup: England vs Argentina prediction, schedule, road to final",
+   "lang": "en",
+   "summary": ""
+  },
+  {
+   "id": "699773612899f338-6c6af609-7447dbf8",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:23:31Z",
+   "url": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf?traffic_source=rss",
+   "domain": "www.aljazeera.com",
+   "source": "Al Jazeera",
+   "severity": "NARRATIVE",
+   "score": 1.735,
+   "old_title": "US and Iran trade attacks as Trump threatens to hit civilian infrastructure",
+   "new_title": "US and Iran trade attacks as Trump threatens to hit civilian infrastructure",
+   "lang": "en",
+   "summary": "deleted: said the seven-hour operation concluded"
+  },
+  {
+   "id": "539256e08aff326a-b881291e-266c9f56",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:23:13Z",
+   "url": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates",
+   "domain": "www.npr.org",
+   "source": "NPR",
+   "severity": "NARRATIVE",
+   "score": 2.6,
+   "old_title": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
+   "new_title": "U.S. fires a new wave of strikes on Iran and hits a tanker trying to skirt its blockade",
+   "lang": "en",
+   "summary": "added: fires a new wave of strikes on Iran"
+  },
+  {
+   "id": "7d071669e954c78a-58a75408-b7b252b6",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:23:07Z",
+   "url": "https://www.npr.org/2026/07/15/nx-s1-5850397/jeffrey-epstein-todd-blanche-dani-bensky-survivor-victims-sexual-abuse-trafficking",
+   "domain": "www.npr.org",
+   "source": "NPR",
+   "severity": "NARRATIVE",
+   "score": 1.349,
+   "old_title": "Todd Blanche's confirmation brings one Epstein survivor to center stage",
+   "new_title": "Democrats' witness opposing Blanche's confirmation is more than an Epstein survivor",
+   "lang": "en",
+   "summary": "deleted: Todd"
+  },
+  {
+   "id": "14d9bc30ae72c18b-852de0d0-51cc5ba3",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:23:05Z",
+   "url": "https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing",
+   "domain": "www.npr.org",
+   "source": "NPR",
+   "severity": "NARRATIVE",
+   "score": 2.77,
+   "old_title": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
+   "new_title": "CDC director nominee Erica Schwartz faced questions in Senate hearing",
+   "lang": "en",
+   "summary": "deleted: faces"
+  },
+  {
+   "id": "0cc42c58cb042ffd-1f693ac6-fe295f34",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:22:32Z",
+   "url": "https://www.bbc.co.uk/news/articles/c9929dg5l5lo?at_medium=RSS&at_campaign=rss",
+   "domain": "www.bbc.co.uk",
+   "source": "BBC News",
+   "severity": "NARRATIVE",
+   "score": 1.15,
+   "old_title": "Travellers warned of methanol poisoning risks in new campaign",
+   "new_title": "Tourists warned of methanol poisoning risks in new campaign",
+   "lang": "en",
+   "summary": "deleted: industrial strength"
+  },
+  {
+   "id": "45559dddd50c0fdc-594f38d0-72af5a72",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:22:30Z",
+   "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+   "domain": "www.bbc.co.uk",
+   "source": "BBC News",
+   "severity": "NARRATIVE",
+   "score": 3.6,
+   "old_title": "Iran threatens to block more trade routes as US launches fresh strikes",
+   "new_title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+   "lang": "en",
+   "summary": "deleted: Iran has threatened to block further trading routes in the region, as the"
+  },
+  {
+   "id": "3d9305abcdc40b18-732b7945-fc6c9632",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:23:01Z",
+   "url": "https://www.npr.org/2026/07/15/nx-s1-5891870/todd-blanche-senate-confirmation-attorney-general",
+   "domain": "www.npr.org",
+   "source": "NPR",
+   "severity": "FACTUAL",
+   "score": 0.6,
+   "old_title": "Todd Blanche faces high-stakes confirmation hearing for attorney general",
+   "new_title": "Todd Blanche faces high-stakes confirmation hearing for attorney general",
+   "lang": "en",
+   "summary": "deleted: set to appear"
+  },
+  {
+   "id": "f36526c035295154-60f7137b-cfa2b0a7",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:26:52Z",
+   "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+   "domain": "arstechnica.com",
+   "source": "Ars Technica",
+   "severity": "MINOR",
+   "score": 0.0,
+   "old_title": "Microsoft's Secure Boot has been broken for a decade and no one noticed until now",
+   "new_title": "Microsoft's Secure Boot has been broken for a decade and no one noticed until now",
+   "lang": "en",
+   "summary": "added: the failure by"
+  },
+  {
+   "id": "6a518a2b0e2a8755-8f42fde0-23ea214e",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:24:59Z",
+   "url": "https://www.abc.net.au/news/2026-07-15/school-worker-charged-with-alleged-child-abuse-offences/106916694",
+   "domain": "www.abc.net.au",
+   "source": "ABC News (Australia)",
+   "severity": "MINOR",
+   "score": 0.0,
+   "old_title": "School worker on child abuse material charges denied bail",
+   "new_title": "School worker on child abuse material charges denied bail",
+   "lang": "en",
+   "summary": "deleted: she"
+  },
+  {
+   "id": "1345ed43c49db0a0-ee1287a8-e7d0d144",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:24:53Z",
+   "url": "https://www.abc.net.au/news/2026-07-15/boomanulla-oval-canberra-indigenous-control/106918978",
+   "domain": "www.abc.net.au",
+   "source": "ABC News (Australia)",
+   "severity": "MINOR",
+   "score": 0.0,
+   "old_title": "'Very special' oval that hosts footy, weddings set for First Nations control",
+   "new_title": "'Very special' oval that hosts footy, weddings set for First Nations control",
+   "lang": "en",
+   "summary": "deleted: government, which subsequently renovated and maintained the facility."
+  },
+  {
+   "id": "bbf439d9b8802674-360fda10-96757981",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:24:39Z",
+   "url": "https://www.france24.com/en/sport/20260715-world-cup-golden-era-ends-for-deschamps-france-as-midas-touch-deserts-les-bleus",
+   "domain": "www.france24.com",
+   "source": "France 24",
+   "severity": "MINOR",
+   "score": 0.0,
+   "old_title": "Golden era ends for Deschamps' France as Midas touch deserts Les Bleus",
+   "new_title": "Golden era ends for Deschamps' France as Midas touch deserts Les Bleus",
+   "lang": "en",
+   "summary": "deleted: world"
+  },
+  {
+   "id": "f74b8901d6233762-d2d027b5-9611410f",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:23:59Z",
+   "url": "https://www.dw.com/en/running-dry-how-to-store-more-groundwater-for-dry-seasons/a-77501486?maca=en-rss-en-all-1573-rdf",
+   "domain": "www.dw.com",
+   "source": "Deutsche Welle",
+   "severity": "MINOR",
+   "score": 0.0,
+   "old_title": "Running dry: How to store more groundwater for dry seasons",
+   "new_title": "Running dry: How to store more groundwater for dry seasons",
+   "lang": "en",
+   "summary": "deleted: Centre"
+  },
+  {
+   "id": "f5d4efb958f8f1a9-31440358-13504423",
+   "date": "2026-07-16",
+   "detected_at": "2026-07-16T08:22:20Z",
+   "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+   "domain": "www.bbc.co.uk",
+   "source": "BBC News",
+   "severity": "COSMETIC",
+   "score": 0.0,
+   "old_title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
+   "new_title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
+   "lang": "en",
+   "summary": "deleted: \"world-leading\""
+  },
   {
    "id": "09cc81db98b06654-dfb0d1b7-c6546bfa",
    "date": "2026-07-15",
@@ -341,20 +761,20 @@
  "sources": [
   {
    "domain": "arstechnica.com",
-   "tracked": 5,
-   "edits_total": 0,
-   "last_edit": null,
+   "tracked": 10,
+   "edits_total": 1,
+   "last_edit": "2026-07-16T08:26:52Z",
    "by_severity": {
     "NARRATIVE": 0,
     "FACTUAL": 0,
-    "MINOR": 0,
+    "MINOR": 1,
     "COSMETIC": 0
    },
    "source": "Ars Technica"
   },
   {
    "domain": "news.un.org",
-   "tracked": 5,
+   "tracked": 10,
    "edits_total": 0,
    "last_edit": null,
    "by_severity": {
@@ -367,24 +787,24 @@
   },
   {
    "domain": "www.abc.net.au",
-   "tracked": 6,
-   "edits_total": 1,
-   "last_edit": "2026-07-15T11:34:32Z",
+   "tracked": 11,
+   "edits_total": 5,
+   "last_edit": "2026-07-16T08:25:03Z",
    "by_severity": {
-    "NARRATIVE": 0,
+    "NARRATIVE": 2,
     "FACTUAL": 0,
-    "MINOR": 1,
+    "MINOR": 3,
     "COSMETIC": 0
    },
    "source": "ABC News (Australia)"
   },
   {
    "domain": "www.aljazeera.com",
-   "tracked": 11,
-   "edits_total": 1,
-   "last_edit": "2026-07-15T11:33:47Z",
+   "tracked": 16,
+   "edits_total": 3,
+   "last_edit": "2026-07-16T08:23:37Z",
    "by_severity": {
-    "NARRATIVE": 0,
+    "NARRATIVE": 2,
     "FACTUAL": 1,
     "MINOR": 0,
     "COSMETIC": 0
@@ -393,26 +813,26 @@
   },
   {
    "domain": "www.bbc.co.uk",
-   "tracked": 9,
-   "edits_total": 6,
-   "last_edit": "2026-07-15T11:56:43Z",
+   "tracked": 14,
+   "edits_total": 9,
+   "last_edit": "2026-07-16T08:22:32Z",
    "by_severity": {
-    "NARRATIVE": 1,
+    "NARRATIVE": 3,
     "FACTUAL": 0,
     "MINOR": 2,
-    "COSMETIC": 3
+    "COSMETIC": 4
    },
    "source": "BBC News"
   },
   {
    "domain": "www.dw.com",
-   "tracked": 9,
-   "edits_total": 3,
-   "last_edit": "2026-07-15T11:34:03Z",
+   "tracked": 14,
+   "edits_total": 9,
+   "last_edit": "2026-07-16T08:24:12Z",
    "by_severity": {
-    "NARRATIVE": 2,
+    "NARRATIVE": 7,
     "FACTUAL": 0,
-    "MINOR": 1,
+    "MINOR": 2,
     "COSMETIC": 0
    },
    "source": "Deutsche Welle"
@@ -432,20 +852,20 @@
   },
   {
    "domain": "www.france24.com",
-   "tracked": 9,
-   "edits_total": 3,
-   "last_edit": "2026-07-15T11:57:48Z",
+   "tracked": 14,
+   "edits_total": 7,
+   "last_edit": "2026-07-16T08:24:39Z",
    "by_severity": {
-    "NARRATIVE": 3,
+    "NARRATIVE": 6,
     "FACTUAL": 0,
-    "MINOR": 0,
+    "MINOR": 1,
     "COSMETIC": 0
    },
    "source": "France 24"
   },
   {
    "domain": "www.gov.uk",
-   "tracked": 10,
+   "tracked": 15,
    "edits_total": 0,
    "last_edit": null,
    "by_severity": {
@@ -458,11 +878,11 @@
   },
   {
    "domain": "www.independent.co.uk",
-   "tracked": 17,
-   "edits_total": 8,
-   "last_edit": "2026-07-15T11:58:48Z",
+   "tracked": 22,
+   "edits_total": 14,
+   "last_edit": "2026-07-16T08:26:03Z",
    "by_severity": {
-    "NARRATIVE": 7,
+    "NARRATIVE": 13,
     "FACTUAL": 1,
     "MINOR": 0,
     "COSMETIC": 0
@@ -471,7 +891,7 @@
   },
   {
    "domain": "www.lemonde.fr",
-   "tracked": 5,
+   "tracked": 10,
    "edits_total": 0,
    "last_edit": null,
    "by_severity": {
@@ -484,12 +904,12 @@
   },
   {
    "domain": "www.npr.org",
-   "tracked": 7,
-   "edits_total": 2,
-   "last_edit": "2026-07-15T11:57:00Z",
+   "tracked": 12,
+   "edits_total": 6,
+   "last_edit": "2026-07-16T08:23:13Z",
    "by_severity": {
-    "NARRATIVE": 0,
-    "FACTUAL": 1,
+    "NARRATIVE": 3,
+    "FACTUAL": 2,
     "MINOR": 1,
     "COSMETIC": 0
    },
@@ -497,7 +917,7 @@
   },
   {
    "domain": "www.propublica.org",
-   "tracked": 5,
+   "tracked": 7,
    "edits_total": 0,
    "last_edit": null,
    "by_severity": {
@@ -523,7 +943,7 @@
   },
   {
    "domain": "www.theguardian.com",
-   "tracked": 5,
+   "tracked": 7,
    "edits_total": 0,
    "last_edit": null,
    "by_severity": {
@@ -536,96 +956,96 @@
   }
  ],
  "health": {
-  "last_run": "2026-07-15T11:56:29Z",
+  "last_run": "2026-07-16T08:22:10Z",
   "sources": [
    {
     "name": "BBC News",
     "ok": true,
-    "checked": 9,
+    "checked": 14,
     "changed": 3,
     "error": null
    },
    {
     "name": "The Guardian",
     "ok": true,
-    "checked": 5,
+    "checked": 7,
     "changed": 0,
     "error": null
    },
    {
     "name": "NPR",
     "ok": true,
-    "checked": 7,
-    "changed": 1,
+    "checked": 12,
+    "changed": 4,
     "error": null
    },
    {
     "name": "Al Jazeera",
     "ok": true,
-    "checked": 11,
-    "changed": 0,
+    "checked": 16,
+    "changed": 2,
     "error": null
    },
    {
     "name": "Deutsche Welle",
     "ok": true,
-    "checked": 9,
-    "changed": 0,
+    "checked": 14,
+    "changed": 6,
     "error": null
    },
    {
     "name": "France 24",
     "ok": true,
-    "checked": 9,
-    "changed": 1,
+    "checked": 14,
+    "changed": 4,
     "error": null
    },
    {
     "name": "ABC News (Australia)",
     "ok": true,
-    "checked": 6,
-    "changed": 0,
+    "checked": 11,
+    "changed": 4,
     "error": null
    },
    {
     "name": "Le Monde (English)",
     "ok": true,
-    "checked": 5,
+    "checked": 10,
     "changed": 0,
     "error": null
    },
    {
     "name": "The Independent",
     "ok": true,
-    "checked": 17,
-    "changed": 3,
+    "checked": 22,
+    "changed": 6,
     "error": null
    },
    {
     "name": "ProPublica",
     "ok": true,
-    "checked": 5,
+    "checked": 7,
     "changed": 0,
     "error": null
    },
    {
     "name": "UN News",
     "ok": true,
-    "checked": 5,
+    "checked": 10,
     "changed": 0,
     "error": null
    },
    {
     "name": "Ars Technica",
     "ok": true,
-    "checked": 5,
-    "changed": 0,
+    "checked": 10,
+    "changed": 1,
     "error": null
    },
    {
     "name": "GOV.UK announcements",
     "ok": true,
-    "checked": 10,
+    "checked": 15,
     "changed": 0,
     "error": null
    },
@@ -644,9 +1064,9 @@
     "error": null
    }
   ],
-  "articles_checked": 105,
-  "edits_found": 8,
-  "duration_s": 202.4,
-  "total_edits": 24
+  "articles_checked": 164,
+  "edits_found": 30,
+  "duration_s": 322.4,
+  "total_edits": 54
  }
 }
