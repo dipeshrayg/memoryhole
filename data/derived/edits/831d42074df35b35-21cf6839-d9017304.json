@@ -1,0 +1,149 @@
+{
+ "id": "831d42074df35b35-21cf6839-d9017304",
+ "url": "https://www.france24.com/en/tv-shows/sports/20260716-title-holders-argentina-seal-dramatic-spot-in-world-cup-final",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "lang": "en",
+ "detected_at": "2026-07-17T08:21:22Z",
+ "date": "2026-07-17",
+ "old_title": "Sports - Title holders Argentina seal dramatic spot in World Cup Final",
+ "new_title": "Sports - Title holders Argentina seal spot in World Cup Final after a dramatic comeback",
+ "old_text": "Title holders Argentina seal dramatic spot in World Cup Final\nTo display this content from YouTube, you must enable advertisement tracking and audience measurement.\nOne of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.\nIssued on:\nWith his voice still shaking after Argentina's stunning comeback against England, Albiceleste striker Lautaro Martinez described his side's journey as \"incredible.\" The reigning World Cup champions will now look to defend their crown against Spain on Sunday night. It sets up a mouthwatering clash between the timeless Lionel Messi and Spain's sensational prodigy Lamine Yamal, as Argentina chase a historic fourth star for their jersey.\nFor England, it is a brutal pill to swallow. The Three Lions missed out on the final despite holding a one-goal lead until the 85th minute. \"Everyone is devastated,\" admitted England captain Harry Kane. Instead of the big stage, they will now face France in Saturday's third-place play-off, a minor consolation for two heavyweights who had their eyes on the ultimate prize.",
+ "new_text": "Title holders Argentina seal spot in World Cup Final after a dramatic comeback\nTo display this content from YouTube, you must enable advertisement tracking and audience measurement.\nOne of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.\nIssued on:\nWith his voice still shaking after Argentina's stunning comeback against England, Albiceleste striker Lautaro Martinez described his side's journey as \"incredible\". The reigning World Cup champions will now look to defend their title against Spain on Sunday night. It sets up a eyewatering clash between star-player Lionel Messi and Spain's prodigy Lamine Yamal as Argentina chase a historic fourth star for their jersey.\nFor England, it is a brutal pill to swallow. The Three Lions missed out on the final despite holding a one-goal lead until the 85th minute. \"Everyone is devastated\", admitted England captain Harry Kane. Instead of the big stage, they will now face France in Saturday's third-place play-off, a minor consolation for two heavyweights who had their eyes on the ultimate prize.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Title holders Argentina seal"
+    ],
+    [
+     "del",
+     "dramatic"
+    ],
+    [
+     "eq",
+     "spot in World Cup Final"
+    ],
+    [
+     "ins",
+     "after a dramatic comeback"
+    ],
+    [
+     "eq",
+     "To display this content from YouTube, you must enable advertisement tracking and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "comeback against England, Albiceleste striker Lautaro Martinez described his side's journey as"
+    ],
+    [
+     "del",
+     "\"incredible.\""
+    ],
+    [
+     "ins",
+     "\"incredible\"."
+    ],
+    [
+     "eq",
+     "The reigning World Cup champions will now look to defend their"
+    ],
+    [
+     "del",
+     "crown"
+    ],
+    [
+     "ins",
+     "title"
+    ],
+    [
+     "eq",
+     "against Spain on Sunday night. It sets up a"
+    ],
+    [
+     "del",
+     "mouthwatering"
+    ],
+    [
+     "ins",
+     "eyewatering"
+    ],
+    [
+     "eq",
+     "clash between"
+    ],
+    [
+     "del",
+     "the timeless"
+    ],
+    [
+     "ins",
+     "star-player"
+    ],
+    [
+     "eq",
+     "Lionel Messi and Spain's"
+    ],
+    [
+     "del",
+     "sensational"
+    ],
+    [
+     "eq",
+     "prodigy Lamine"
+    ],
+    [
+     "del",
+     "Yamal,"
+    ],
+    [
+     "ins",
+     "Yamal"
+    ],
+    [
+     "eq",
+     "as Argentina chase a historic fourth star for their jersey. For England,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "final despite holding a one-goal lead until the 85th minute. \"Everyone is"
+    ],
+    [
+     "del",
+     "devastated,\""
+    ],
+    [
+     "ins",
+     "devastated\","
+    ],
+    [
+     "eq",
+     "admitted England captain Harry Kane. Instead of the big stage, they will"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1056,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 1,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.2,
+ "similarity": 0.9868,
+ "adjudicated_by": "rules"
+}

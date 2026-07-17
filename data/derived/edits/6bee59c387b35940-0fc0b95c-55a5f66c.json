@@ -1,0 +1,179 @@
+{
+ "id": "6bee59c387b35940-0fc0b95c-55a5f66c",
+ "url": "https://www.france24.com/en/africa/20260716-fire-at-orphanage-in-algeria-kills-11-and-wounds-19",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "lang": "en",
+ "detected_at": "2026-07-17T08:21:14Z",
+ "date": "2026-07-17",
+ "old_title": "Fire at orphanage in Algeria kills 11 and wounds 19",
+ "new_title": "Fire at orphanage in Algeria kills 11 and wounds 19",
+ "old_text": "Fire at orphanage in Algeria kills 11 and wounds 19\nA fire at an orphanage outside of Algiers claimed the lives of at least 11 people and wounded 19, the country's civil defence announced on Thursday.\nA fire burning at an orphanage in a suburb of the Algerian capital has killed at least 11 people and injured 19, the country's civil defence said Thursday.\nThe civil defence was \"continuing efforts to put out the fire\" in the Mohammadia district of Algiers, with the cause of the blaze unknown.\n\"The provisional toll is 11 dead,\" it said, without specifying the age of the victims.\nNational television showed Prime Minister Sifi Ghrieb visiting the wounded in hospital.\nAlgeria has been sweltering under a heatwave for several days, and nearly 1,000 fires have been recorded in the space of a week.\n(FRANCE 24 with AFP)",
+ "new_text": "Fire at orphanage in Algeria kills 11 and wounds 19\nA fire at an orphanage outside of Algiers claimed the lives of at least 11 people and wounded 19, the country's civil defence announced on Thursday.\nA fire burning at an orphanage in Algeria's capital has killed at least 11 people including children, authorities said Thursday, amid a heatwave that has sparked hundreds of blazes in the country's north.\nFirefighters had been battling to extinguish the flames since before dawn in the Mohammadia suburb of Algiers.\n\"At around 3:00 am, we heard the fire engines arriving and the children screaming,\" said Abdessalam Merrah, 41, who lives nearby.\n\"We helped as much as we could, but unfortunately we were told that 11 people had already died.\"\nAn AFP journalist saw black stains around the building's windows on Thursday morning. A witness said firefighters had used a chainsaw to remove metal bars from a window.\nRead moreAlgerian farmers on the frontline of heatwave-driven wildfires\nThe Algerian civil defence said the toll was provisional and added that another 19 people were injured in the fire, the cause of which is unknown.\nRachid Belhadj, head of the forensic medicine department at Mustapha Bacha Hospital, told local television that some of the bodies were completely burned and required DNA tests to be identified.\nAlgeria's President Abdelmadjid Tebboune later said \"several children\" were among the dead.\nNational television showed Prime Minister Sifi Ghrieb visiting the wounded at two medical facilities in Algiers.\n932 fires in a week\nAlgeria has been sweltering under a heatwave for several days, and nearly 1,000 fires have been recorded in the space of a week.\nFrom July 8 to 15, the civil defence reported 932 fires, according to state media. Most had been extinguished but a small number were still burning.\nOne municipal worker died battling a blaze in the northern province of Setif, a local mayor said Wednesday.\nThe civil defence said it had mobilised more than 19,000 personnel and 700 trucks to battle forest fires, as well as six helicopters and 12 water-bombing aircraft.\nIt has also evacuated some residents in the provinces of Bejaia, Guelma, Bouira and Mila, according to the APS state news agency.\nEvery summer, northern Algeria is struck by forest fires, a phenomenon exacerbated by drought and climate change.\nThe fires have killed dozens of people in recent years and destroyed thousands of hectares of forest or farmland, along with numerous homes.\nAuthorities say they believe some fires were started deliberately, with several suspects arrested.\n(FRANCE 24 with AFP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "civil defence announced on Thursday. A fire burning at an orphanage in"
+    ],
+    [
+     "del",
+     "a suburb of the Algerian"
+    ],
+    [
+     "ins",
+     "Algeria's"
+    ],
+    [
+     "eq",
+     "capital has killed at least 11 people"
+    ],
+    [
+     "del",
+     "and injured 19,"
+    ],
+    [
+     "ins",
+     "including children, authorities said Thursday, amid a heatwave that has sparked hundreds of blazes in"
+    ],
+    [
+     "eq",
+     "the country's"
+    ],
+    [
+     "ins",
+     "north. Firefighters had been battling to extinguish the flames since before dawn in the Mohammadia suburb of Algiers. \"At around 3:00 am, we heard the fire engines arriving and the children screaming,\" said Abdessalam Merrah, 41, who lives nearby. \"We helped as much as we could, but unfortunately we were told that 11 people had already died.\" An AFP journalist saw black stains around the building's windows on Thursday morning. A witness said firefighters had used a chainsaw to remove metal bars from a window. Read moreAlgerian farmers on the frontline of heatwave-driven wildfires The Algerian"
+    ],
+    [
+     "eq",
+     "civil defence said"
+    ],
+    [
+     "del",
+     "Thursday. The civil defence"
+    ],
+    [
+     "ins",
+     "the toll"
+    ],
+    [
+     "eq",
+     "was"
+    ],
+    [
+     "del",
+     "\"continuing efforts to put out the fire\""
+    ],
+    [
+     "ins",
+     "provisional and added that another 19 people were injured"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "Mohammadia district of Algiers, with"
+    ],
+    [
+     "ins",
+     "fire,"
+    ],
+    [
+     "eq",
+     "the cause of"
+    ],
+    [
+     "del",
+     "the blaze"
+    ],
+    [
+     "ins",
+     "which is"
+    ],
+    [
+     "eq",
+     "unknown."
+    ],
+    [
+     "del",
+     "\"The provisional toll is 11 dead,\" it said, without specifying the age"
+    ],
+    [
+     "ins",
+     "Rachid Belhadj, head"
+    ],
+    [
+     "eq",
+     "of the"
+    ],
+    [
+     "del",
+     "victims."
+    ],
+    [
+     "ins",
+     "forensic medicine department at Mustapha Bacha Hospital, told local television that some of the bodies were completely burned and required DNA tests to be identified. Algeria's President Abdelmadjid Tebboune later said \"several children\" were among the dead."
+    ],
+    [
+     "eq",
+     "National television showed Prime Minister Sifi Ghrieb visiting the wounded"
+    ],
+    [
+     "ins",
+     "at two medical facilities"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "hospital."
+    ],
+    [
+     "ins",
+     "Algiers. 932 fires in a week"
+    ],
+    [
+     "eq",
+     "Algeria has been sweltering under a heatwave for several days, and nearly 1,000 fires have been recorded in the space of a week."
+    ],
+    [
+     "ins",
+     "From July 8 to 15, the civil defence reported 932 fires, according to state media. Most had been extinguished but a small number were still burning. One municipal worker died battling a blaze in the northern province of Setif, a local mayor said Wednesday. The civil defence said it had mobilised more than 19,000 personnel and 700 trucks to battle forest fires, as well as six helicopters and 12 water-bombing aircraft. It has also evacuated some residents in the provinces of Bejaia, Guelma, Bouira and Mila, according to the APS state news agency. Every summer, northern Algeria is struck by forest fires, a phenomenon exacerbated by drought and climate change. The fires have killed dozens of people in recent years and destroyed thousands of hectares of forest or farmland, along with numerous homes. Authorities say they believe some fires were started deliberately, with several suspects arrested."
+    ],
+    [
+     "eq",
+     "(FRANCE 24 with AFP)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 2.5493,
+  "numbers_changed": [
+   "00",
+   "12",
+   "15",
+   "19,000",
+   "3",
+   "41",
+   "700",
+   "8",
+   "932"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 2,
+  "blocks_added": 3,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 2.415,
+ "similarity": 0.8841,
+ "adjudicated_by": "rules"
+}

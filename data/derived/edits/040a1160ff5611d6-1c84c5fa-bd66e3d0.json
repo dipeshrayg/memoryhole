@@ -1,0 +1,133 @@
+{
+ "id": "040a1160ff5611d6-1c84c5fa-bd66e3d0",
+ "url": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "lang": "en",
+ "detected_at": "2026-07-17T08:24:31Z",
+ "date": "2026-07-17",
+ "old_title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
+ "new_title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there",
+ "old_text": "ROCKVILLE, Maryland-Hundreds of Bethesda Game Studios and Zenimax Online Studios employees and their supporters braved nearly 100°F temperatures to protest sweeping layoffs across Xbox during a lunchtime rally in front of parent company Zenimax's headquarters today. The rally was one of five organized today by Zenimax Workers United and its parent union, the Communication Workers of America, at offices across Texas, California, and Montreal.\nAttendees held up signs with messages like \"Layoffs... layoffs never change\" and \"Our players deserve better\" as union organizers and employees rallied the crowd with speeches and songs. The overwhelming message was one of solidarity and a willingness to push back against job cuts they say have decimated their development and quality assurance teams.\n\"It's about us building our movement and making sure that we get seen and we're visible,\" Bethesda technical producer and union volunteer organizer Nathan Hahn told Ars. \"Because we want to make sure that we're not okay with these layoffs and that Xbox knows.\"\nComing to the table\nChief among the union's demands is that Microsoft return to the bargaining table and resume contract negotiations with the remaining uncontracted members of Bethesda Game Studios (after reaching a separate agreement with QA testers last year that included guaranteed severance for laid-off employees). \"We had ... a reduction in force proposal on the table for months, and they ignored it,\" Hahn said. \"They never got back to us. So instead, they've chosen to do layoffs ... without bargaining with us, and that's something we're fighting back against.\"\n\"They can either come meet at the table [or] they can meet us in the street,\" CWA District 213 vice president Mike Davis told the crowd. \"They can meet us anywhere they want, but they're gonna fight with us.\"",
+ "new_text": "ROCKVILLE, Maryland-Hundreds of Bethesda Game Studios and Zenimax Online Studios employees and their supporters braved nearly 100° F temperatures to protest sweeping layoffs across Xbox during a lunchtime rally in front of parent company Zenimax's headquarters today. The rally was one of five today organized by Zenimax Workers United and its parent union, the Communication Workers of America, at offices across Texas, California, and Montreal.\nAttendees held up signs with messages like \"Layoffs... layoffs never change\" and \"Our players deserve better\" as union organizers and employees rallied the crowd with speeches and songs. The overwhelming message was one of solidarity and a willingness to push back against job cuts they say have decimated their development and quality assurance teams.\n\"It's about us building our movement and making sure that we get seen and we're visible,\" Bethesda technical producer and union volunteer organizer Nathan Hahn told Ars. \"Because we want to make sure that we're not okay with these layoffs and that Xbox knows.\"\nComing to the table\nChief among the union's demands is that Microsoft return to the bargaining table and resume contract negotiations with the remaining uncontracted members of Bethesda Game Studios (after reaching a separate agreement with QA testers last year that included guaranteed severance for laid-off employees). \"We had... a reduction in force proposal on the table for months, and they ignored it,\" Hahn said. \"They never got back to us. So instead, they've chosen to do layoffs... without bargaining with us, and that's something we're fighting back against.\"\n\"They can either come meet at the table [or] they can meet us in the street,\" CWA District 213 Vice President Mike Davis told the crowd. \"They can meet us anywhere they want, but they're gonna fight with us.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Game Studios and Zenimax Online Studios employees and their supporters braved nearly"
+    ],
+    [
+     "del",
+     "100°F"
+    ],
+    [
+     "ins",
+     "100° F"
+    ],
+    [
+     "eq",
+     "temperatures to protest sweeping layoffs across Xbox during a lunchtime rally in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of parent company Zenimax's headquarters today. The rally was one of five"
+    ],
+    [
+     "ins",
+     "today"
+    ],
+    [
+     "eq",
+     "organized"
+    ],
+    [
+     "del",
+     "today"
+    ],
+    [
+     "eq",
+     "by Zenimax Workers United and its parent union, the Communication Workers of"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "QA testers last year that included guaranteed severance for laid-off employees). \"We"
+    ],
+    [
+     "del",
+     "had ..."
+    ],
+    [
+     "ins",
+     "had..."
+    ],
+    [
+     "eq",
+     "a reduction in force proposal on the table for months, and they"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "\"They never got back to us. So instead, they've chosen to do"
+    ],
+    [
+     "del",
+     "layoffs ..."
+    ],
+    [
+     "ins",
+     "layoffs..."
+    ],
+    [
+     "eq",
+     "without bargaining with us, and that's something we're fighting back against.\" \"They"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "table [or] they can meet us in the street,\" CWA District 213"
+    ],
+    [
+     "del",
+     "vice president"
+    ],
+    [
+     "ins",
+     "Vice President"
+    ],
+    [
+     "eq",
+     "Mike Davis told the crowd. \"They can meet us anywhere they want, but they're gonna fight with us.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0514,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9994,
+ "adjudicated_by": "rules"
+}

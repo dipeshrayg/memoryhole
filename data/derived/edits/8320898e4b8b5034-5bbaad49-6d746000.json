@@ -1,0 +1,61 @@
+{
+ "id": "8320898e4b8b5034-5bbaad49-6d746000",
+ "url": "https://www.independent.co.uk/bulletin/news/england-v-argentina-delay-atlanta-world-cup-stadium-b3015324.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "lang": "en",
+ "detected_at": "2026-07-17T08:23:04Z",
+ "date": "2026-07-17",
+ "old_title": "England v Argentina: Stadium addresses fears storm will force delay",
+ "new_title": "Statement issued over chances of England v Argentina delay due to storm risk",
+ "old_text": "England v Argentina: Stadium addresses fears storm will force delay\n- England and Argentina are poised to reignite their 60-year rivalry in a highly anticipated World Cup semi-final match tonight in Atlanta, Georgia.\n- The match, set for 8pm BST (2pm local time), has been subject to concerns regarding potential thunderstorms causing delays.\n- Forecasters say there is a 70 per cent chance of light rain tonight, and 77 per cent humidity for the 8pm kick-off. The temperature will be a maximum of 29C, according to AccuWeather, and there will be light winds.\n- Fifa is following rules set by local authorities during the tournament, with the National Oceanic and Atmospheric Administration (NOAA) saying that if any lightning strike is detected within eight miles of a stadium the game has to be stopped.\n- Despite these concerns, officials for the Mercedes-Benz Stadium have confirmed the game will start as planned, regardless of adverse weather, due to its fully retractable roof.",
+ "new_text": "England v Argentina: Statement issued over chances of delay due to storm risk\n- England and Argentina are poised to reignite their 60-year rivalry in a highly anticipated World Cup semi-final match tonight in Atlanta, Georgia.\n- The match, set for 8pm BST (2pm local time), has been subject to concerns regarding potential thunderstorms causing delays.\n- Forecasters say there is a 70 per cent chance of light rain tonight, and 77 per cent humidity for the 8pm kick-off. The temperature will be a maximum of 29C, according to AccuWeather, and there will be light winds.\n- Fifa is following rules set by local authorities during the tournament, with the National Oceanic and Atmospheric Administration (NOAA) saying that if any lightning strike is detected within eight miles of a stadium the game has to be stopped.\n- Despite these concerns, officials for the Mercedes-Benz Stadium have confirmed the game will start as planned, regardless of adverse weather, due to its fully retractable roof.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "England v Argentina:"
+    ],
+    [
+     "del",
+     "Stadium addresses fears"
+    ],
+    [
+     "ins",
+     "Statement issued over chances of delay due to"
+    ],
+    [
+     "eq",
+     "storm"
+    ],
+    [
+     "del",
+     "will force delay"
+    ],
+    [
+     "ins",
+     "risk"
+    ],
+    [
+     "eq",
+     "- England and Argentina are poised to reignite their 60-year rivalry in"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0938,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9907,
+ "adjudicated_by": "rules"
+}

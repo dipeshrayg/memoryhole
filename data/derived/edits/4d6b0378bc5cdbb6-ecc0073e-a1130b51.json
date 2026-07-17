@@ -1,0 +1,63 @@
+{
+ "id": "4d6b0378bc5cdbb6-ecc0073e-a1130b51",
+ "url": "https://www.abc.net.au/news/2026-07-16/aboriginal-death-in-custody-clarence-correctional-centre-grafton/106922758",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "lang": "en",
+ "detected_at": "2026-07-17T08:21:50Z",
+ "date": "2026-07-17",
+ "old_title": "Aboriginal death in custody confirmed at privately-run NSW prison",
+ "new_title": "Aboriginal death in custody confirmed at privately-run NSW prison",
+ "old_text": "In short:\nA 21-year-old Aboriginal man has died at the Clarence Correctional Centre in NSW.\nThe prison is privately run by Serco, which has extended its sympathies to the family and wider First Nations community.\nWhat's next?\nNSW Police and Serco are investigating. The matter will also be referred to the coroner.\nA 21-year-old Aboriginal man has died at a privately operated prison in northern New South Wales.\nBritish multinational Serco, which runs Clarence Correctional Centre near Grafton, released a brief statement confirming the man had died on Wednesday.\nSerco said it extended its sympathy to \"the family, and the wider Aboriginal and Torres Strait Islander community\".\nSerco declined requests for an interview and said it was unable to comment while investigations are underway.\nNo further details have been provided regarding the circumstances of the man's death.\nThe matter is being investigated by Serco and NSW Police.\nAll deaths in custody are referred to the NSW coroner for a compulsory public inquiry.\nThe Australian Institute of Criminology's real-time dashboard shows there have been 74 deaths in custody this year, including 20 Indigenous deaths.\nPrevious death in custody\nLast month a coroner criticised medical staff at the correctional centre for failing to provide adequate treatment to a non-Indigenous prisoner who died.\nThe coronial inquest heard 29-year-old Dictor Dongrin was left unattended for 21 hours and was suffering from alcohol withdrawal when he died in the prison's medical unit in June 2022.\nSerco told the inquest it has implemented a range of new measures since then.\nMeanwhile, in an inspection report tabled in state parliament in April this year, the NSW Inspector of Custodial Services raised multiple concerns about the Clarence Correctional Centre.\nThe report highlighted regular lockdowns caused by staff shortages, a lack of resources to address mental health issues, and noted that drug and alcohol teams were \"similarly overwhelmed\".\nThe report said there was no Aboriginal health worker at the time of the inspection, \"despite 37 per cent of the [prison] population being Aboriginal\".\nIt said there were \"almost no opportunities for Aboriginal people to connect with and learn about their culture\".\nThe inspector made 47 recommendations for the improvement of services at Clarence Correctional Centre.\nIn response to the report Serco said there was \"always scope to strengthen welfare support\" and that it remained \"committed to the wellbeing of all people in custody\".",
+ "new_text": "In short:\nA 21-year-old Aboriginal man has died at the Clarence Correctional Centre in NSW.\nThe prison is privately run by Serco, which has extended its sympathies to the family and wider First Nations community.\nWhat's next?\nNSW Police and Serco are investigating. The matter will also be referred to the coroner.\nA 21-year-old Aboriginal man has died at a privately operated prison in northern New South Wales.\nBritish multinational Serco, which runs Clarence Correctional Centre near Grafton, released a brief statement confirming the man had died on Wednesday.\nWarning: Indigenous readers may find the content of this story distressing.\nSerco said it extended its sympathy to \"the family, and the wider Aboriginal and Torres Strait Islander community\".\nSerco declined requests for an interview and said it was unable to comment while investigations are underway.\nNo further details have been provided regarding the circumstances of the man's death.\nThe matter is being investigated by Serco and NSW Police.\nThe Aboriginal Legal Service said NSW was \"in the midst of a deaths in custody crisis\".\n\"This tragedy is being fuelled by an unprecedented increase in the number of Aboriginal adults being forced into prisons and police cells,\" it said in a statement.\n\"Right now, one in 23 Aboriginal men in NSW is incarcerated.\n\"The blame for this crisis must be placed firmly on the Minns Government, which is presiding over the highest numbers and rates of Aboriginal imprisonment in the state's history.\"\nAll deaths in custody are referred to the NSW coroner for a compulsory public inquiry.\nThe Australian Institute of Criminology's real-time dashboard shows there have been 74 deaths in custody this year, including 20 Indigenous deaths.\nPrevious death in custody\nLast month a coroner criticised medical staff at the correctional centre for failing to provide adequate treatment to a non-Indigenous prisoner who died.\nThe coronial inquest heard 29-year-old Dictor Dongrin was left unattended for 21 hours and was suffering from alcohol withdrawal when he died in the prison's medical unit in June 2022.\nSerco told the inquest it has implemented a range of new measures since then.\nMeanwhile, in an inspection report tabled in state parliament in April this year, the NSW Inspector of Custodial Services raised multiple concerns about the Clarence Correctional Centre.\nThe report highlighted regular lockdowns caused by staff shortages, a lack of resources to address mental health issues, and noted that drug and alcohol teams were \"similarly overwhelmed\".\nThe report said there was no Aboriginal health worker at the time of the inspection, \"despite 37 per cent of the [prison] population being Aboriginal\".\nIt said there were \"almost no opportunities for Aboriginal people to connect with and learn about their culture\".\nThe inspector made 47 recommendations for the improvement of services at Clarence Correctional Centre.\nIn response to the report Serco said there was \"always scope to strengthen welfare support\" and that it remained \"committed to the wellbeing of all people in custody\".",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Grafton, released a brief statement confirming the man had died on Wednesday."
+    ],
+    [
+     "ins",
+     "Warning: Indigenous readers may find the content of this story distressing."
+    ],
+    [
+     "eq",
+     "Serco said it extended its sympathy to \"the family, and the wider"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "man's death. The matter is being investigated by Serco and NSW Police."
+    ],
+    [
+     "ins",
+     "The Aboriginal Legal Service said NSW was \"in the midst of a deaths in custody crisis\". \"This tragedy is being fuelled by an unprecedented increase in the number of Aboriginal adults being forced into prisons and police cells,\" it said in a statement. \"Right now, one in 23 Aboriginal men in NSW is incarcerated. \"The blame for this crisis must be placed firmly on the Minns Government, which is presiding over the highest numbers and rates of Aboriginal imprisonment in the state's history.\""
+    ],
+    [
+     "eq",
+     "All deaths in custody are referred to the NSW coroner for a"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2386,
+  "numbers_changed": [
+   "23"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9742,
+ "adjudicated_by": "rules"
+}

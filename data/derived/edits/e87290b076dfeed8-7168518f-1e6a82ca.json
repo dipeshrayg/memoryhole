@@ -1,0 +1,88 @@
+{
+ "id": "e87290b076dfeed8-7168518f-1e6a82ca",
+ "url": "https://www.independent.co.uk/bulletin/sport/atlanta-world-cup-stadium-england-argentina-b3015320.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "lang": "en",
+ "detected_at": "2026-07-17T08:22:59Z",
+ "date": "2026-07-17",
+ "old_title": "Does Atlanta Stadium have AC? What to know for England v Argentina",
+ "new_title": "Does Atlanta Stadium have AC? What to know for England v Argentina",
+ "old_text": "Does Atlanta Stadium have air conditioning? What to know for England v Argentina World Cup match\n- England is set to face Argentina in a World Cup semi-final match at the Atlanta Stadium, with kick-off scheduled for 8pm BST (3pm ET).\n- UK viewers will be able to watch the match live on BBC One and BBC iPlayer.\n- Opened in 2017, the stadium in Atlanta, Georgia, has a capacity of 68,239. It features a retractable-roof and air conditioning, and is home to the NFL's Atlanta Falcons and MLS's Atlanta United.\n- Mercedes-Benz Stadium hosted the Super Bowl in 2019 and is scheduled to again in 2028. The stadium also was site of NCAA football's college championship game in 2018 and 2025, and is scheduled to host the NCAA basketball Final Four in 2031.\n- Because of the cost, Fifa did not insist the Mercedes-Benz logo atop the stadium's roof be covered or removed. Mercedes-Benz is close to two MARTA subway stations.",
+ "new_text": "Does Atlanta Stadium have air conditioning? What to know for England v Argentina World Cup match\n- England are playing Argentina in the World Cup semi-final match at the Atlanta Stadium in the USA.\n- UK viewers can watch the match live on BBC One and BBC iPlayer.\n- Opened in 2017, the stadium in Atlanta, Georgia, has a capacity of 68,239. It features a retractable-roof and air conditioning, and is home to the NFL's Atlanta Falcons and MLS's Atlanta United.\n- Mercedes-Benz Stadium hosted the Super Bowl in 2019 and is scheduled to again in 2028. The stadium also was site of NCAA football's college championship game in 2018 and 2025, and is scheduled to host the NCAA basketball Final Four in 2031.\n- Because of the cost, Fifa did not insist the Mercedes-Benz logo atop the stadium's roof be covered or removed. Mercedes-Benz is close to two MARTA subway stations.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "What to know for England v Argentina World Cup match - England"
+    ],
+    [
+     "del",
+     "is set to face"
+    ],
+    [
+     "ins",
+     "are playing"
+    ],
+    [
+     "eq",
+     "Argentina in"
+    ],
+    [
+     "del",
+     "a"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "World Cup semi-final match at the Atlanta"
+    ],
+    [
+     "del",
+     "Stadium, with kick-off scheduled for 8pm BST (3pm ET)."
+    ],
+    [
+     "ins",
+     "Stadium in the USA."
+    ],
+    [
+     "eq",
+     "- UK viewers"
+    ],
+    [
+     "del",
+     "will be able to"
+    ],
+    [
+     "ins",
+     "can"
+    ],
+    [
+     "eq",
+     "watch the match live on BBC One and BBC iPlayer. - Opened"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1605,
+  "numbers_changed": [
+   "3",
+   "8"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9904,
+ "adjudicated_by": "rules"
+}

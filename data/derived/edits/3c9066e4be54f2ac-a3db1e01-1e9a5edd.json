@@ -1,0 +1,49 @@
+{
+ "id": "3c9066e4be54f2ac-a3db1e01-1e9a5edd",
+ "url": "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "lang": "en",
+ "detected_at": "2026-07-17T08:24:33Z",
+ "date": "2026-07-17",
+ "old_title": "Buzz Aldrin sells famous felt-tip pen that helped launch Apollo from the Moon",
+ "new_title": "Buzz Aldrin sells famous felt-tip pen that helped launch Apollo from the Moon",
+ "old_text": "A dried-out felt-tip marker and a snapped-off piece of molded black plastic sold for $857,600 at a Sotheby's auction on Wednesday.\nWhat otherwise might have been worthless bits of trash commanded the highest bids due to where the two items were 57 years ago-lifting off aboard NASA's Apollo 11 spacecraft on humanity's first mission to land astronauts on the Moon. More than flown odds and ends, one was the problem that almost stranded Neil Armstrong and Buzz Aldrin on the lunar surface, and the other was the simple solution to saving the mission.\n\"Houston, Tranquility. Do you have a way of showing the configuration of the engine arm circuit breaker?\" radioed Aldrin to Mission Control after realizing he or Armstrong had inadvertently broken off the top of the circuit breaker switch that would enable their ascent engine to ignite, beginning their trip back to Earth. \"The reason I'm asking is because the end of it appears to be broken off. I think we can push it back in again. I'm not sure we could pull it out if we pushed it in, though.\"\nAs engineers on the ground worked to devise a workaround, Aldrin came up with a straightforward idea, as he described decades later in the letter accompanying the artifacts' sale.\n\"While I could have stuck my finger in and reset the switch, there was electricity flowing through the breaker and I did not want to electrocute myself. I had a plastic felt tip pen in one of my suit pockets and it fit into the breaker opening, so I pushed the marker pen into the circuit breaker, it clicked on, and we rearmed the Engine Arm circuit,\" he wrote.\n\"Now we could leave the lunar surface,\" Aldrin said, \"rendezvous with Mike Collins in the command module, and head for home. Disaster averted.\"\nStoried switch\nThe tale of the pen and circuit breaker is well known, having been recounted by Aldrin in his books and talks, as well as for years having been included on the pamphlet packaged with every Fisher Space Pen sold until Aldrin pointed out that as an engineer, he would never insert a metal-tipped writing instrument into a live electrical socket. The pen he used, which was sold on Wednesday, was a Duro-brand Rocket felt-tip marker.",
+ "new_text": "A dried-out felt-tip marker and a snapped-off piece of molded black plastic sold for $857,600 at a Sotheby's auction on Wednesday.\nWhat otherwise might have been worthless bits of trash commanded the highest bids due to where the two items were 57 years ago-lifting off aboard NASA's Apollo 11 spacecraft on humanity's first mission to land astronauts on the Moon. More than flown odds and ends, one was the problem that almost stranded Neil Armstrong and Buzz Aldrin on the lunar surface, and the other was the simple solution to saving the mission.\n\"Houston, Tranquility. Do you have a way of showing the configuration of the engine arm circuit breaker?\" radioed Aldrin to Mission Control after realizing he or Armstrong had inadvertently broken off the top of the circuit breaker switch that would enable their ascent engine to ignite, beginning their trip back to Earth. \"The reason I'm asking is because the end of it appears to be broken off. I think we can push it back in again. I'm not sure we could pull it out if we pushed it in, though.\"\nAs engineers on the ground worked to devise a workaround, Aldrin came up with a straightforward idea, as he described decades later in the letter accompanying the artifacts' sale.\n\"While I could have stuck my finger in and reset the switch, there was electricity flowing through the breaker and I did not want to electrocute myself. I had a plastic felt tip pen in one of my suit pockets and it fit into the breaker opening, so I pushed the marker pen into the circuit breaker, it clicked on, and we rearmed the Engine Arm circuit,\" he wrote.\n\"Now we could leave the lunar surface,\" Aldrin said, \"rendezvous with Mike Collins in the command module, and head for home. Disaster averted.\"\nStoried switch\nThe tale of the pen and circuit breaker is well-known, having been recounted by Aldrin in his books and talks, as well as for years having been included on the pamphlet packaged with every Fisher Space Pen sold until Aldrin pointed out that as an engineer, he would never insert a metal-tipped writing instrument into a live electrical socket. The pen he used, which was sold on Wednesday, was a Duro-brand Rocket felt-tip marker.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "averted.\" Storied switch The tale of the pen and circuit breaker is"
+    ],
+    [
+     "del",
+     "well known,"
+    ],
+    [
+     "ins",
+     "well-known,"
+    ],
+    [
+     "eq",
+     "having been recounted by Aldrin in his books and talks, as well"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0079,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}
