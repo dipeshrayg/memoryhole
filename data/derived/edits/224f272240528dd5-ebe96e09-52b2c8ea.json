@@ -1,0 +1,137 @@
+{
+ "id": "224f272240528dd5-ebe96e09-52b2c8ea",
+ "url": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "lang": "en",
+ "detected_at": "2026-07-18T08:08:48Z",
+ "date": "2026-07-18",
+ "old_title": "Two Trump health nominees crash and burn in tense Senate hearing",
+ "new_title": "Two Trump health nominees crash and burn in tense Senate hearing",
+ "old_text": "Two nominees for high-profile health roles in the Trump administration faced scrutiny from the Senate health committee Wednesday-and both crashed and burned in their own special ways.\nThe Senate Committee on Health, Education, Labor and Pensions (HELP) scrutinized Erica Schwartz, the nominee for director of the Centers for Disease Control and Prevention, and Sean Kaufman, up for the role of Assistant Secretary for Preparedness and Response.\nSchwartz's assignment\nPublic health experts were \"cautiously optimistic\" about Schwartz's nomination. She is well respected and holds views in line with evidence-based medicine, including being supportive of vaccinations-in contrast to anti-vaccine Health Secretary Robert F. Kennedy Jr., whom she will serve under. She is also highly qualified for the role, with a medical degree, a master's degree in public health, and a law degree. She's had a long career as a Navy Officer, and previously held the roles of Chief Medical Officer for the US Coast Guard and deputy surgeon general in the first Trump administration.\nWith her credentials checking all the boxes and then some, the obvious question looming over her confirmation was whether she would stand firm against Kennedy's well-documented anti-vaccine agenda and political interference. Kennedy notoriously fired the last highly qualified Senate-confirmed CDC director, Susan Monarez, for refusing to rubber-stamp vaccine recommendations from a CDC advisory panel he had stacked with anti-vaccine allies.\nAlthough Monarez only held the job for 29 days, lawmakers-as well as scientists, doctors, and health experts-praised her integrity and commitment to science and evidence-based policy.\nSchwartz's assignment going into the hearing was abundantly clear: assure senators she was equally principled and would stand up to Kennedy.\nKaufman's assignment\nKaufman, on the other hand, went into the hearing with a less-than-rosy image that he needed to overcome. He is up for the role of leading the Administration for Strategic Preparedness and Response (ASPR), which is responsible for ensuring the US is poised to swiftly respond to the next pandemic, bioterror threat, or other emergency. That preparedness includes having quick access to or the development of vaccines, tests, and treatments.",
+ "new_text": "Two nominees for high-profile health roles in the Trump administration faced scrutiny from the Senate health committee Wednesday-and both crashed and burned in their own special ways.\nThe Senate Committee on Health, Education, Labor, and Pensions (HELP) scrutinized Erica Schwartz, the nominee for director of the Centers for Disease Control and Prevention, and Sean Kaufman, up for the role of assistant secretary for preparedness and response.\nSchwartz's assignment\nPublic health experts were \"cautiously optimistic\" about Schwartz's nomination. She is well-respected and holds views in line with evidence-based medicine, including being supportive of vaccinations-in contrast to anti-vaccine Health Secretary Robert F. Kennedy Jr., whom she will serve under. She is also highly qualified for the role, with a medical degree, a master's degree in public health, and a law degree. She's had a long career as a Navy Officer and previously held the roles of chief medical officer for the US Coast Guard and deputy surgeon general in the first Trump administration.\nWith her credentials checking all the boxes and then some, the obvious question looming over her confirmation was whether she would stand firm against Kennedy's well-documented anti-vaccine agenda and political interference. Kennedy notoriously fired the last highly qualified Senate-confirmed CDC director, Susan Monarez, for refusing to rubber-stamp vaccine recommendations from a CDC advisory panel he had stacked with anti-vaccine allies.\nAlthough Monarez only held the job for 29 days, lawmakers-as well as scientists, doctors, and health experts-praised her integrity and commitment to science and evidence-based policy.\nSchwartz's assignment going into the hearing was abundantly clear: assure senators she was equally principled and would stand up to Kennedy.\nKaufman's assignment\nKaufman, on the other hand, went into the hearing with a less-than-rosy image that he needed to overcome. He is up for the role of leading the Administration for Strategic Preparedness and Response (ASPR), which is responsible for ensuring the US is poised to swiftly respond to the next pandemic, bioterror threat, or other emergency. That preparedness includes having quick access to or the development of vaccines, tests, and treatments.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "burned in their own special ways. The Senate Committee on Health, Education,"
+    ],
+    [
+     "del",
+     "Labor"
+    ],
+    [
+     "ins",
+     "Labor,"
+    ],
+    [
+     "eq",
+     "and Pensions (HELP) scrutinized Erica Schwartz, the nominee for director of the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Disease Control and Prevention, and Sean Kaufman, up for the role of"
+    ],
+    [
+     "del",
+     "Assistant Secretary"
+    ],
+    [
+     "ins",
+     "assistant secretary"
+    ],
+    [
+     "eq",
+     "for"
+    ],
+    [
+     "del",
+     "Preparedness"
+    ],
+    [
+     "ins",
+     "preparedness"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "Response."
+    ],
+    [
+     "ins",
+     "response."
+    ],
+    [
+     "eq",
+     "Schwartz's assignment Public health experts were \"cautiously optimistic\" about Schwartz's nomination. She is"
+    ],
+    [
+     "del",
+     "well respected"
+    ],
+    [
+     "ins",
+     "well-respected"
+    ],
+    [
+     "eq",
+     "and holds views in line with evidence-based medicine, including being supportive of"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and a law degree. She's had a long career as a Navy"
+    ],
+    [
+     "del",
+     "Officer,"
+    ],
+    [
+     "ins",
+     "Officer"
+    ],
+    [
+     "eq",
+     "and previously held the roles of"
+    ],
+    [
+     "del",
+     "Chief Medical Officer"
+    ],
+    [
+     "ins",
+     "chief medical officer"
+    ],
+    [
+     "eq",
+     "for the US Coast Guard and deputy surgeon general in the first"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0616,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

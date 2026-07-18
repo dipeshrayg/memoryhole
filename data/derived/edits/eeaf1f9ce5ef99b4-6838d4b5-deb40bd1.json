@@ -1,0 +1,41 @@
+{
+ "id": "eeaf1f9ce5ef99b4-6838d4b5-deb40bd1",
+ "url": "https://arstechnica.com/tech-policy/2026/07/t-mobile-bungled-forced-plan-migration-canceling-some-users-free-lines/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "lang": "en",
+ "detected_at": "2026-07-18T08:08:52Z",
+ "date": "2026-07-18",
+ "old_title": "T-Mobile bungled forced plan migration, canceling some users' free lines",
+ "new_title": "T-Mobile bungled forced plan migration, canceling some users' free lines",
+ "old_text": "T-Mobile canceled some longtime subscribers' free-line promotions as part of a forced migration to new rate plans, spurring complaints from customers yesterday. T-Mobile admitted the problem and blamed it on technical errors that it is trying to fix.\nThe forced plan changes were controversial to begin with, particularly as many longtime users are being hit with price hikes of $6 per line. The unexpected loss of free lines for some of those users could raise prices by a much higher amount if the change isn't reversed.\nThere is good news, though. T-Mobile told Ars today that it was a mistake and that the company is working to fix the problem. Of course, it's not always easy for telecom customers to get the proper resolution even after a company admits to an error publicly. But given T-Mobile's statement today, we hope the firm will fix the problem for all impacted customers with as little hassle as possible.\n\"Our priority is to ensure customers keep the promotions, credits and benefits of their current plan,\" T-Mobile told Ars today. \"We've identified technical issues affecting a very small number of customers and are working quickly to correct them. For some of those customers, free line promotions were not reflected correctly following migration due to a delay in applying promotional discounts. Those free lines remain free, and we're restoring the discounts, backdating them where needed, and reprocessing accounts to ensure customers receive the benefits they were promised.\"\nT-Mobile acknowledged that this isn't the only billing problem related to its mass migration of plans. \"We're also investigating reports that some people were incorrectly billed for Hulu following migration and are actively working to identify the cause. We apologize for the confusion and will make it right for our customers,\" T-Mobile said.",
+ "new_text": "T-Mobile canceled some longtime subscribers' free-line promotions as part of a forced migration to new rate plans, spurring complaints from customers yesterday. T-Mobile admitted the problem and blamed it on technical errors that it is trying to fix.\nThe forced plan changes were controversial to begin with, particularly as many longtime users are being hit with price hikes of $6 per line. The unexpected loss of free lines for some of those users could raise prices by a much higher amount if the change isn't reversed.\nThere is good news, though. T-Mobile told Ars today that it was a mistake and that the company is working to fix the problem. Of course, it's not always easy for telecom customers to get the proper resolution even after a company admits to an error publicly. But given T-Mobile's statement today, we hope the firm will fix the problem for all impacted customers with as little hassle as possible.\n\"Our priority is to ensure customers keep the promotions, credits and benefits of their current plan,\" T-Mobile told Ars today. \"We've identified technical issues affecting a very small number of customers and are working quickly to correct them. For some of those customers, free line promotions were not reflected correctly following migration due to a delay in applying promotional discounts. Those free lines remain free, and we're restoring the discounts, backdating them where needed, and reprocessing accounts to ensure customers receive the benefits they were promised.\"\nT-Mobile acknowledged that this isn't the only billing problem related to its mass migration of plans. \"We're also investigating reports that some people were incorrectly billed for Hulu following migration and are actively working to identify the cause. We apologize for the confusion and will make it right for our customers,\" T-Mobile said.\nT-Mobile recently announced it would eliminate its older plans and automatically move customers to different rate plans that are more or less equivalent in price and features. \"Some customers will see no change to their monthly bill, while some will see a modest adjustment,\" T-Mobile told media outlets in late June. \"Every customer moved to a new plan will keep their current benefits while gaining improvements in network and service experiences.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the confusion and will make it right for our customers,\" T-Mobile said."
+    ],
+    [
+     "ins",
+     "T-Mobile recently announced it would eliminate its older plans and automatically move customers to different rate plans that are more or less equivalent in price and features. \"Some customers will see no change to their monthly bill, while some will see a modest adjustment,\" T-Mobile told media outlets in late June. \"Every customer moved to a new plan will keep their current benefits while gaining improvements in network and service experiences.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2407,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

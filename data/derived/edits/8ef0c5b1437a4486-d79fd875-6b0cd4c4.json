@@ -1,0 +1,61 @@
+{
+ "id": "8ef0c5b1437a4486-d79fd875-6b0cd4c4",
+ "url": "https://www.france24.com/en/tv-shows/sports/20260717-tour-de-france-merlier-the-fastest-again-pogacar-still-in-yellow",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "lang": "en",
+ "detected_at": "2026-07-18T08:04:31Z",
+ "date": "2026-07-18",
+ "old_title": "Sports - Tour de France : Merlier the fastest again, Pogacar still in yellow",
+ "new_title": "Sports - Tour de France: Merlier speeds toward another win, Pogacar still in yellow",
+ "old_text": "Tour de France : Merlier the fastest again, Pogacar still in yellow\nTo display this content from YouTube, you must enable advertisement tracking and audience measurement.\nOne of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.\nIssued on:\nThe Belgian took victory in Stage 12 of the Tour de France in Chalon-sur-Saône, claiming his third stage win of this year's Tour. He edged out Olav Kooij and Jasper Philipsen.\nMeanwhile, Argentina and Spain continue their preparations for Sunday's World Cup final. Tomorrow, France and England will face off in Miami for the third-place play-off.\nIn golf, American Jackson Suber leads the Open Championship after the opening round.",
+ "new_text": "Tour de France: Merlier speeds toward another win, Pogacar still in yellow\nTo display this content from YouTube, you must enable advertisement tracking and audience measurement.\nOne of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.\nIssued on:\nThe Belgian took victory in Stage 12 of the Tour de France in Chalon-sur-Saône, claiming his third stage win of this year's Tour. He edged out Olav Kooij and Jasper Philipsen. Meanwhile, Argentina and Spain continue their preparations for Sunday's World Cup final. Tomorrow, France and England will face off in Miami for the third-place play-off. In golf, American Jackson Suber leads the Open Championship after the opening round.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Tour de"
+    ],
+    [
+     "del",
+     "France :"
+    ],
+    [
+     "ins",
+     "France:"
+    ],
+    [
+     "eq",
+     "Merlier"
+    ],
+    [
+     "del",
+     "the fastest again,"
+    ],
+    [
+     "ins",
+     "speeds toward another win,"
+    ],
+    [
+     "eq",
+     "Pogacar still in yellow To display this content from YouTube, you must"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0806,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9842,
+ "adjudicated_by": "rules"
+}

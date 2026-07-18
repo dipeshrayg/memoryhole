@@ -1,0 +1,49 @@
+{
+ "id": "6fe3b9b408c75fa3-df490c81-e59a06d8",
+ "url": "https://www.dw.com/en/xi-jinping-calls-for-international-cooperation-in-ai-development-at-waic-in-shanghai/a-77997024?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "lang": "en",
+ "detected_at": "2026-07-18T08:03:45Z",
+ "date": "2026-07-18",
+ "old_title": "China's Xi Jinping calls for AI development cooperation",
+ "new_title": "China's Xi Jinping calls for AI development cooperation",
+ "old_text": "China's PresidentXi Jinping has called for global cooperation on artificial intelligence (AI) development, telling a major Shanghai forum that no single country should dominate the AI industry.\nXi on Friday delivered a keynote address at the opening event of the World Artificial Intelligence Conference (WAIC), which he was attending for the first time, underpinning AI's growing strategic importance for China.\nWhat did Xi say at the WAIC?\n\"AI development should not be a solo performance by a single country, but a symphony of international cooperation,\" Xi said at the gathering.\nTo prevent the creation of what he called \"new historical injustices\" in AI, Xi promoted Beijing's role in ensuring equitable access for developing countries to AI capacity building.\nHe announced China's plans to cooperate with several international bodies, including from Asia, Africa, Latin America and BRICS nations to provide opportunities in the AI domain.\nOn Thursday, representatives from 29 nations inked an agreement to establish the World AI Cooperation Organization, headquartered in Shanghai, China's Xinhua news agency reported.\nThe signatory nations included Russia, Belarus, Serbia, Cuba, Brazil and Venezuela, along with 12 Asian and 10 African countries.\nChina says the intergovernmental body aims to promote international cooperation and global governance in AI.\nXi also stressed the importance of a \"people-centered\" approach in the development of AI technology.\n\"We should put in place laws and regulations, technological monitoring, early warning, and emergency response systems, in order to ... ensure AI is always under human control,\" the Chinese leader said.\nThe US-China AI race\nThe conference comes as China and the United States prepare for their first government-level AI talks under US President Donald Trump's administration.\nChinese AI models are attracting global users with lower costs as they catch up to the more expensive US AI offerings.\nThe United States and European Union have imposed curbs on tech imports from China, citing national security concerns.\nThere are also growing concerns over the deployment of AI on the battlefield and its use by hackers and terrorists.\n\"We should jointly oppose overstretching the national security concept in the field of AI or placing one country's security over that of others,\" Xi said on Friday.\nWhat is the World Artificial Intelligence Conference?\nThe WAIC lasts for four days and features over 1,000 exhibitors from Chinese tech firms alongside officials and researchers.\nAmong the leaders attending the event are UN chief Antonio Guterres, Cambodia's Prime Minister Hun Manet and Thailand's Anutin Charnvirakul.\nSome 3,000 products showcasing cutting-edge Chinese tech are on display at the gathering, including a smartphone that can operate apps autonomously.\nEdited by: Karl Sexton\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "China's President Xi Jinping has called for global cooperation on artificial intelligence (AI) development, telling a major Shanghai forum that no single country should dominate the AI industry.\nXi on Friday delivered a keynote address at the opening event of the World Artificial Intelligence Conference (WAIC), which he was attending for the first time, underpinning AI's growing strategic importance for China.\nWhat did Xi say at the WAIC?\n\"AI development should not be a solo performance by a single country, but a symphony of international cooperation,\" Xi said at the gathering.\nTo prevent the creation of what he called \"new historical injustices\" in AI, Xi promoted Beijing's role in ensuring equitable access for developing countries to AI capacity building.\nHe announced China's plans to cooperate with several international bodies, including from Asia, Africa, Latin America and BRICS nations to provide opportunities in the AI domain.\nOn Thursday, representatives from 29 nations inked an agreement to establish the World AI Cooperation Organization, headquartered in Shanghai, China's Xinhua news agency reported.\nThe signatory nations included Russia, Belarus, Serbia, Cuba, Brazil and Venezuela, along with 12 Asian and 10 African countries.\nChina says the intergovernmental body aims to promote international cooperation and global governance in AI.\nXi also stressed the importance of a \"people-centered\" approach in the development of AI technology.\n\"We should put in place laws and regulations, technological monitoring, early warning, and emergency response systems, in order to ... ensure AI is always under human control,\" the Chinese leader said.\nThe US-China AI race\nThe conference comes as China and the United States prepare for their first government-level AI talks under US President Donald Trump's administration.\nChinese AI models are attracting global users with lower costs as they catch up to the more expensive US AI offerings.\nThe United States and European Union have imposed curbs on tech imports from China, citing national security concerns.\nThere are also growing concerns over the deployment of AI on the battlefield and its use by hackers and terrorists.\n\"We should jointly oppose overstretching the national security concept in the field of AI or placing one country's security over that of others,\" Xi said on Friday.\nWhat is the World Artificial Intelligence Conference?\nThe WAIC lasts for four days and features over 1,000 exhibitors from Chinese tech firms alongside officials and researchers.\nAmong the leaders attending the event are UN chief Antonio Guterres, Cambodia's Prime Minister Hun Manet and Thailand's Anutin Charnvirakul.\nSome 3,000 products showcasing cutting-edge Chinese tech are on display at the gathering, including a smartphone that can operate apps autonomously.\nEdited by: Karl Sexton\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "China's"
+    ],
+    [
+     "del",
+     "PresidentXi"
+    ],
+    [
+     "ins",
+     "President Xi"
+    ],
+    [
+     "eq",
+     "Jinping has called for global cooperation on artificial intelligence (AI) development, telling"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0063,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

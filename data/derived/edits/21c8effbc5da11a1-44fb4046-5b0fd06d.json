@@ -1,0 +1,49 @@
+{
+ "id": "21c8effbc5da11a1-44fb4046-5b0fd06d",
+ "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "lang": "en",
+ "detected_at": "2026-07-18T08:00:45Z",
+ "date": "2026-07-18",
+ "old_title": "New monkey species with orange lips found 'hiding' in DRC forest",
+ "new_title": "New monkey species with orange lips found 'hiding' in DRC forest",
+ "old_text": "- Published\nA monkey that has striking pinkish-orange lips and a black face - and lives in the forests of the Democratic Republic of Congo - has been confirmed as a new species to science.\nThe black-furred primate was spotted and photographed hidden away in the high tree canopy of dense tropical forests in Lomami National Park, in the central east of the country.\nConservationists working there first reported seeing this unusual-looking animal back in 2008. But they captured just one blurry photograph.\nAfter another sighting 10 years later, an international team set out to find and study the monkey and revealed that it was a previously unknown species.\nThis is only the fifth African monkey species to be discovered in the last 75 years.\nJunior Amboko, a PhD student at Florida Atlantic University, played a leading role in the search, which involved audio recordings, photography and detailed genetic studies.\nThe findings were published in the journal PLoS One, external.\nAmboko told BBC News it was an \"amazing feeling\" to look into the face of an animal that so few people knew existed.\nSecretive species\n\"Discovering\" a species, in this context, means officially recording and confirming it has evolved to be genetically distinct. Some local people already knew of the monkey's existence and refer to it by a common name - Likweli.\nBut Amboko said the monkeys were \"kind of shy\" - and tended to hide high in the trees.\n\"As part of our search, we interviewed people in 52 villages close to where the animals live. And only people in eight villages [had ever seen] them,\" he recalled.\nThe research team - from DRC, the US and Germany - gave the animal the Latin name Colobus congoensis in recognition of the natural diversity in the country.\nIt belongs to the larger group of colobus monkeys. \"These are really important African monkeys that don't have thumbs,\" explained Prof Kate Detwiler from Florida Atlantic University.\n\"They're these herbivores of the canopy that are a critical part of the ecosystem. We think they have a lot to do with processing seeds and germination in the forest.\"\nProf Detwiler speculates that their unusual, bright facial markings could be a visual signal to other animals, potentially attractive to a mate or that it could allow the animals to identify each other.\nThe monkeys also have a distinctive \"roaring\" call. \"You often hear them, but don't see them,\" said Amboko.\nThey think the animals are rare and restricted to a part of the forest where they can find the food and habitat they need.\nThe animals are hunted for meat, so the researchers hope that now that Colobus congoensis is classified as a distinct species it can be officially protected.\nThe researchers say they still have a lot of questions about this newly described, secretive species. They plan to carry out a more detailed survey to estimate their population and study their behaviour.",
+ "new_text": "- Published\nA monkey that has striking pinkish-orange lips and a black face - and lives in the forests of the Democratic Republic of Congo - has been confirmed as a new species to science.\nThe black-furred primate was spotted and photographed hidden away in the high tree canopy of dense tropical forests in Lomami National Park, in the central east of the country.\nConservationists working there first reported seeing this unusual-looking animal back in 2008. But they captured just one blurry photograph.\nAfter another sighting 10 years later, an international team set out to find and study the monkey and revealed that it was a previously unknown species.\nThis is only the fifth African monkey species to be discovered in the last 75 years.\nJunior Amboko, a PhD student at Florida Atlantic University, played a leading role in the search, which involved audio recordings, photography and detailed genetic studies.\nThe findings were published in the journal PLoS One, external.\nAmboko told BBC News it was an \"amazing feeling\" to look into the face of an animal that so few people knew existed.\nSecretive species\n\"Discovering\" a species, in this context, means officially recording and confirming it has evolved to be genetically distinct. Some local people already knew of the monkey's existence and refer to it by a common name - Likweli.\nBut Amboko said the monkeys were \"kind of shy\" - and tended to hide high in the trees.\n\"As part of our search, we interviewed people in 52 villages close to where the animals live. And only people in eight villages [had ever seen] them,\" he recalled.\nThe research team - from DR Congo, the US and Germany - gave the animal the Latin name Colobus congoensis in recognition of the natural diversity in the country.\nIt belongs to the larger group of colobus monkeys. \"These are really important African monkeys that don't have thumbs,\" explained Prof Kate Detwiler from Florida Atlantic University.\n\"They're these herbivores of the canopy that are a critical part of the ecosystem. We think they have a lot to do with processing seeds and germination in the forest.\"\nProf Detwiler speculates that their unusual, bright facial markings could be a visual signal to other animals, potentially attractive to a mate or that it could allow the animals to identify each other.\nThe monkeys also have a distinctive \"roaring\" call. \"You often hear them, but don't see them,\" said Amboko.\nThey think the animals are rare and restricted to a part of the forest where they can find the food and habitat they need.\nThe animals are hunted for meat, so the researchers hope that now that Colobus congoensis is classified as a distinct species it can be officially protected.\nThe researchers say they still have a lot of questions about this newly described, secretive species. They plan to carry out a more detailed survey to estimate their population and study their behaviour.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "villages [had ever seen] them,\" he recalled. The research team - from"
+    ],
+    [
+     "del",
+     "DRC,"
+    ],
+    [
+     "ins",
+     "DR Congo,"
+    ],
+    [
+     "eq",
+     "the US and Germany - gave the animal the Latin name Colobus"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0061,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}
