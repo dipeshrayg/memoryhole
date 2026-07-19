@@ -1,95 +1,95 @@
 {
- "last_run": "2026-07-18T08:00:08Z",
+ "last_run": "2026-07-19T08:26:20Z",
  "sources": [
   {
    "name": "BBC News",
    "ok": true,
-   "checked": 24,
-   "changed": 6,
+   "checked": 29,
+   "changed": 2,
    "error": null
   },
   {
    "name": "The Guardian",
    "ok": true,
-   "checked": 11,
+   "checked": 12,
    "changed": 0,
    "error": null
   },
   {
    "name": "NPR",
    "ok": true,
-   "checked": 22,
-   "changed": 4,
+   "checked": 27,
+   "changed": 2,
    "error": null
   },
   {
    "name": "Al Jazeera",
    "ok": true,
-   "checked": 26,
-   "changed": 1,
+   "checked": 31,
+   "changed": 2,
    "error": null
   },
   {
    "name": "Deutsche Welle",
    "ok": true,
-   "checked": 24,
-   "changed": 5,
+   "checked": 29,
+   "changed": 2,
    "error": null
   },
   {
    "name": "France 24",
    "ok": true,
-   "checked": 24,
+   "checked": 29,
    "changed": 3,
    "error": null
   },
   {
    "name": "ABC News (Australia)",
    "ok": true,
-   "checked": 21,
-   "changed": 4,
+   "checked": 26,
+   "changed": 2,
    "error": null
   },
   {
    "name": "Le Monde (English)",
    "ok": true,
-   "checked": 20,
+   "checked": 25,
    "changed": 0,
    "error": null
   },
   {
    "name": "The Independent",
    "ok": true,
-   "checked": 32,
-   "changed": 8,
+   "checked": 37,
+   "changed": 7,
    "error": null
   },
   {
    "name": "ProPublica",
    "ok": true,
    "checked": 14,
-   "changed": 0,
+   "changed": 1,
    "error": null
   },
   {
    "name": "UN News",
    "ok": true,
-   "checked": 20,
-   "changed": 0,
+   "checked": 21,
+   "changed": 1,
    "error": null
   },
   {
    "name": "Ars Technica",
    "ok": true,
-   "checked": 20,
-   "changed": 3,
+   "checked": 21,
+   "changed": 1,
    "error": null
   },
   {
    "name": "GOV.UK announcements",
    "ok": true,
    "checked": 25,
-   "changed": 1,
+   "changed": 0,
    "error": null
   },
   {
@@ -107,8 +107,8 @@
    "error": null
   }
  ],
- "articles_checked": 285,
- "edits_found": 35,
- "duration_s": 580.7,
- "total_edits": 116
+ "articles_checked": 328,
+ "edits_found": 23,
+ "duration_s": 648.9,
+ "total_edits": 138
 }

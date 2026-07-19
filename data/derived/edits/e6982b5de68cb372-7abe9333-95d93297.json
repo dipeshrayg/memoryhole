@@ -1,0 +1,347 @@
+{
+ "id": "e6982b5de68cb372-7abe9333-95d93297",
+ "url": "https://www.france24.com/en/europe/20260718-russia-says-ukrainian-drone-attack-killed-several-in-moscow-logistics-centre",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "lang": "en",
+ "detected_at": "2026-07-19T08:31:26Z",
+ "date": "2026-07-19",
+ "old_title": "Russia says Ukrainian drone attack killed several in Moscow logistics centre",
+ "new_title": "Ukrainian drone attack killed several in Moscow logistics centre, Russia say",
+ "old_text": "Russia says Ukrainian drone attack killed several in Moscow logistics centre\nA local official said that a Ukrainian drone attack killed seven night-shift workers and wounded 24 at a Moscow logistics centre on Saturday, as part of a larger-scale attack including 370 drones, most of which were \"neutralised\" according to the city mayor. Kyiv says its attacks on Russia are fair retribution for Moscow's four-year war in Ukraine.\nA Ukrainian drone attack on a logistics centre in western Russia killed seven people and wounded 24, the regional governor said Saturday, as the Moscow region was again targeted by a wave of drones.\nUkraine has been striking a range of targets in Russia, which Kyiv says is fair retribution for Moscow's more than four-year barrages against its territory.\n\"Seven night-shift employees were killed when enemy UAVs hit a Wildberries logistics centre,\" Governor of the Tambov region Evgeny Pervyshov said.\n\"According to preliminary information, 24 people were wounded\" in the attack that took place in the town of Kotovsk, he added.\nRussian firm Wildberries said in a statement that its logistics complexes in Kotovsk and Elektrostal, in the Moscow region, came under attack.\n\"The fire that broke out at the facility in Tambov region has been contained,\" while firefighters are still working in Elektrostal, the company said.\nRead moreEU seals deal with Ukraine to scale up drone production\nMore than 370 drones were launched toward the Moscow region overnight, the Russian capital's mayor Sergei Sobyanin said on Saturday.\n\"Most were neutralised by air defence forces at distant approaches. 64 enemy UAVs were destroyed on approach to Moscow,\" Sobyanin wrote on the state-backed MAX platform.\nUS-led diplomatic efforts to end the fighting have stalled in recent months, as Washington has shifted focus to its conflict with Iran.\n(FRANCE 24 with AFP)",
+ "new_text": "Ukrainian drone attack killed several in Moscow logistics centre, Russia say\nOvernight Ukrainian drone attacks on two sprawling warehouses in Russia killed eight people and wounded more than 60 others, local officials said Saturday. Ukrainian President Volodymyr Zelensky said the strikes hit \"significant logistical facilities\" in Russia that were used to produce drones and navigational equipment.\nEight people were killed and more than 60 others were wounded in Russia by overnight Ukrainian drone attacks, Russian officials said Saturday.\nKyiv's forces are continuing their relentless aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort and make Russians feel the consequences of the Kremlin's all-out invasion of Ukraine that is well into its fifth year.\nTwo sprawling warehouses of Russia's major online retailer, Wildberries, were hit by Ukrainian drones overnight, according to Russian officials: one in the town of Kotovsk in the Tambov region, some 360 kilometres (roughly 220 miles) from the border with Ukraine, and another one in the city of Elektrostal, about 50 kilometres (some 30 miles) east of Moscow.\nBoth caught fire, but Wildberries founder Tatyana Kim said later on Saturday morning that the fire in Kotovsk has been put out. Images and footage released by Russian online outlets showed a fire raging at the Elektrostal facility, with massive plumes of smoke towering over it.\nA Ukrainian drone also hit an oil depot in the city of Noginsk, just north of Elektrostal, sparking a fire and prompting evacuations of a nearby maternity hospital and a residential building, according to the governor of the Moscow region, Andrei Vorobyov.\nUkrainian President Volodymyr Zelensky said in a Telegram post on Saturday that Ukrainian long-range strikes hit two \"significant logistical facilities in the Moscow and Tambov regions\".\n\"These facilities were used by the aggressor to supply sanctioned components for the production of drones and navigation equipment,\" he wrote. An oil facility was also hit, he said.\nRead moreEU seals deal with Ukraine to scale up drone production\nIn Elektrostal, drone debris also hit a kindergarten building, Vorobyov said, sparking a fire that has since been put out.\nIn the city of Vladimir, some 180 kilometres (over 110 miles) east of Moscow, a Ukrainian drone hit a residential building, sparking a brief fire, Vladimir governor Alexander Avdeyev said. There were no casualties, he added.\nUkrainian special operations also conducted strikes against targets in the Sea of Azov and in occupied territory, Zelensky said.\nUkraine's General Staff in a statement on Saturday also mentioned a strike on the fuel depot in Noginsk, which it said supplies fuel, including to the Russian armed forces. It also reported hitting two tankers, two floating cranes and a tugboat in the Black and Azov seas, saying the vessels were used to transport oil, fuel and military cargo.\nSeparately, the military said it struck a Project 10410 Svetlyak patrol ship in Kerch, describing it as the second vessel of that class hit in two days, as well as a railway bridge over the Bila River near Sabivka in the occupied Luhansk region that it said Russia uses for military logistics.\nOverall, the Russian Defence Ministry said its air defences overnight intercepted 379 Ukrainian drones over 19 Russian regions, as well as the illegally annexed Crimea, the Sea of Azov and the Black Sea.\n(FRANCE 24 with AP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Russia says"
+    ],
+    [
+     "eq",
+     "Ukrainian drone attack killed several in Moscow logistics"
+    ],
+    [
+     "del",
+     "centre A local official said that a"
+    ],
+    [
+     "ins",
+     "centre, Russia say Overnight"
+    ],
+    [
+     "eq",
+     "Ukrainian drone"
+    ],
+    [
+     "del",
+     "attack killed seven night-shift workers and wounded 24 at a Moscow logistics centre on Saturday, as part of a larger-scale attack including 370 drones, most of which were \"neutralised\" according to the city mayor. Kyiv says its"
+    ],
+    [
+     "eq",
+     "attacks on"
+    ],
+    [
+     "del",
+     "Russia are fair retribution for Moscow's four-year war"
+    ],
+    [
+     "ins",
+     "two sprawling warehouses"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "Ukraine. A Ukrainian drone attack on a logistics centre in western"
+    ],
+    [
+     "eq",
+     "Russia killed"
+    ],
+    [
+     "del",
+     "seven"
+    ],
+    [
+     "ins",
+     "eight"
+    ],
+    [
+     "eq",
+     "people and wounded"
+    ],
+    [
+     "del",
+     "24, the regional governor said Saturday, as the Moscow region was again targeted by a wave of drones. Ukraine has been striking a range of targets in Russia, which Kyiv says is fair retribution for Moscow's"
+    ],
+    [
+     "eq",
+     "more than"
+    ],
+    [
+     "del",
+     "four-year barrages against its territory. \"Seven night-shift employees"
+    ],
+    [
+     "ins",
+     "60 others, local officials said Saturday. Ukrainian President Volodymyr Zelensky said the strikes hit \"significant logistical facilities\" in Russia that were used to produce drones and navigational equipment. Eight people"
+    ],
+    [
+     "eq",
+     "were killed"
+    ],
+    [
+     "del",
+     "when enemy UAVs hit a Wildberries logistics centre,\" Governor"
+    ],
+    [
+     "ins",
+     "and more than 60 others were wounded in Russia by overnight Ukrainian drone attacks, Russian officials said Saturday. Kyiv's forces are continuing their relentless aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort and make Russians feel the consequences"
+    ],
+    [
+     "eq",
+     "of the"
+    ],
+    [
+     "del",
+     "Tambov region Evgeny Pervyshov said. \"According"
+    ],
+    [
+     "ins",
+     "Kremlin's all-out invasion of Ukraine that is well into its fifth year. Two sprawling warehouses of Russia's major online retailer, Wildberries, were hit by Ukrainian drones overnight, according"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "preliminary information, 24 people were wounded\" in the attack that took place"
+    ],
+    [
+     "ins",
+     "Russian officials: one"
+    ],
+    [
+     "eq",
+     "in the town of"
+    ],
+    [
+     "del",
+     "Kotovsk, he added."
+    ],
+    [
+     "ins",
+     "Kotovsk in the Tambov region, some 360 kilometres (roughly 220 miles) from the border with Ukraine, and another one in the city of Elektrostal, about 50 kilometres (some 30 miles) east of Moscow. Both caught fire, but Wildberries founder Tatyana Kim said later on Saturday morning that the fire in Kotovsk has been put out. Images and footage released by"
+    ],
+    [
+     "eq",
+     "Russian"
+    ],
+    [
+     "del",
+     "firm Wildberries"
+    ],
+    [
+     "ins",
+     "online outlets showed a fire raging at the Elektrostal facility, with massive plumes of smoke towering over it. A Ukrainian drone also hit an oil depot in the city of Noginsk, just north of Elektrostal, sparking a fire and prompting evacuations of a nearby maternity hospital and a residential building, according to the governor of the Moscow region, Andrei Vorobyov. Ukrainian President Volodymyr Zelensky"
+    ],
+    [
+     "eq",
+     "said in a"
+    ],
+    [
+     "del",
+     "statement"
+    ],
+    [
+     "ins",
+     "Telegram post on Saturday"
+    ],
+    [
+     "eq",
+     "that"
+    ],
+    [
+     "del",
+     "its logistics complexes in Kotovsk and Elektrostal,"
+    ],
+    [
+     "ins",
+     "Ukrainian long-range strikes hit two \"significant logistical facilities"
+    ],
+    [
+     "eq",
+     "in the Moscow"
+    ],
+    [
+     "del",
+     "region, came under attack. \"The fire that broke out at"
+    ],
+    [
+     "ins",
+     "and Tambov regions\". \"These facilities were used by"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "ins",
+     "aggressor to supply sanctioned components for the production of drones and navigation equipment,\" he wrote. An oil"
+    ],
+    [
+     "eq",
+     "facility"
+    ],
+    [
+     "del",
+     "in Tambov region has been contained,\" while firefighters are still working in Elektrostal, the company"
+    ],
+    [
+     "ins",
+     "was also hit, he"
+    ],
+    [
+     "eq",
+     "said. Read moreEU seals deal with Ukraine to scale up drone production"
+    ],
+    [
+     "del",
+     "More than 370 drones"
+    ],
+    [
+     "ins",
+     "In Elektrostal, drone debris also hit a kindergarten building, Vorobyov said, sparking a fire that has since been put out. In the city of Vladimir, some 180 kilometres (over 110 miles) east of Moscow, a Ukrainian drone hit a residential building, sparking a brief fire, Vladimir governor Alexander Avdeyev said. There"
+    ],
+    [
+     "eq",
+     "were"
+    ],
+    [
+     "del",
+     "launched toward"
+    ],
+    [
+     "ins",
+     "no casualties, he added. Ukrainian special operations also conducted strikes against targets in"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "Moscow region overnight,"
+    ],
+    [
+     "ins",
+     "Sea of Azov and in occupied territory, Zelensky said. Ukraine's General Staff in a statement on Saturday also mentioned a strike on the fuel depot in Noginsk, which it said supplies fuel, including to"
+    ],
+    [
+     "eq",
+     "the Russian"
+    ],
+    [
+     "del",
+     "capital's mayor Sergei Sobyanin"
+    ],
+    [
+     "ins",
+     "armed forces. It also reported hitting two tankers, two floating cranes and a tugboat in the Black and Azov seas, saying the vessels were used to transport oil, fuel and military cargo. Separately, the military"
+    ],
+    [
+     "eq",
+     "said"
+    ],
+    [
+     "del",
+     "on Saturday. \"Most were neutralised by"
+    ],
+    [
+     "ins",
+     "it struck a Project 10410 Svetlyak patrol ship in Kerch, describing it as the second vessel of that class hit in two days, as well as a railway bridge over the Bila River near Sabivka in the occupied Luhansk region that it said Russia uses for military logistics. Overall, the Russian Defence Ministry said its"
+    ],
+    [
+     "eq",
+     "air"
+    ],
+    [
+     "del",
+     "defence forces at distant approaches. 64 enemy UAVs were destroyed on approach to Moscow,\" Sobyanin wrote on"
+    ],
+    [
+     "ins",
+     "defences overnight intercepted 379 Ukrainian drones over 19 Russian regions, as well as"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "state-backed MAX platform. US-led diplomatic efforts to end"
+    ],
+    [
+     "ins",
+     "illegally annexed Crimea,"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "fighting have stalled in recent months, as Washington has shifted focus to its conflict with Iran."
+    ],
+    [
+     "ins",
+     "Sea of Azov and the Black Sea."
+    ],
+    [
+     "eq",
+     "(FRANCE 24 with"
+    ],
+    [
+     "del",
+     "AFP)"
+    ],
+    [
+     "ins",
+     "AP)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 2.443,
+  "numbers_changed": [
+   "10410",
+   "110",
+   "180",
+   "19",
+   "220",
+   "24",
+   "30",
+   "360",
+   "370",
+   "379",
+   "50",
+   "60",
+   "64"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 4,
+  "blocks_added": 8,
+  "blocks_removed": 2,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.979,
+ "similarity": 0.9068,
+ "adjudicated_by": "rules"
+}
