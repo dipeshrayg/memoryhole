@@ -1,0 +1,81 @@
+{
+ "id": "a627b18d2fcc526f-b98c37e3-0ef89c27",
+ "url": "https://www.dw.com/en/france-s-mbappe-sets-world-cup-scoring-record-with-22-goals/a-78022308?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "lang": "en",
+ "detected_at": "2026-07-20T09:28:47Z",
+ "date": "2026-07-20",
+ "old_title": "France's Mbappe sets World Cup scoring record with 22 goals",
+ "new_title": "France's Mbappe sets World Cup scoring record with 22 goals",
+ "old_text": "France's Kylian Mbappe became the top scorer in World Cup history on Saturday after netting a 22nd goal in the third-place play-off against England.\nHowever, his team suffered a 6-4 defeat to the Three Lions in Didier Deschamps' last match as France's head coach.\nMbappe is now one ahead of Argentina's Lionel Messi on the World Cup all-time goal-scoring table. Messi will have a chance to win back the title when Argentina play in Sunday's final.\nMbappe's brace also saw the France captain move to the top of the race for the Golden Boot, which will be awarded to the player with the most goals in the tournament. He now has two more goals than Messi in the 2026 World Cup.\n\"Messi is going to score (on Sunday), that's for sure. I'm just trying to help my team win. When you score a lot of goals at the World Cup, it puts you in a certain category,\" Mbappe said.\n\"I would have preferred not to be the all-time top scorer and to be playing tomorrow's match. It's good in terms of legacy, but today it's not the first thing on my mind,\" he added.\nEngland beat France 6-4 in wild World Cup bronze match\nEngland were in complete control after scoring four first-half goals to leave France facing an embarrassing defeat.\nMbappe struck twice as Les Bleus battled back, but England held firm.\nSaka scored a hat-trick for the Three Lions while Bellingham became the first England player to score seven goals at a single World Cup.\nThe result secured third place for England, the team's best World Cup performance since winning the tournament in 1966.\nDeschamps' last dance for France\nThe third-place playoff at the World Cup was Deschamps' last game as France coach.\nAs a player, Deschamps led the French team to a World Cup title in 1998. As a coach, he guided France to World Cup glory in 2018 and a runner-up finish four years ago.\nBut Les Bleus missed their chance for a third consecutive final appearance after losing 2-0 against Spain in the semi-finals.\nOn Sunday, European champions Spain will face World Cup holders and South American champions Argentina in the final.\nEdited by: Sean Sinico\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "France's Kylian Mbappe became the top scorer in World Cup history on Saturday after netting a 22nd goal in the third-place play-off against England.\nHowever, his team suffered a 6-4 defeat to the Three Lions in Didier Deschamps's last match as France's head coach.\nMbappe is now one ahead of Argentina's Lionel Messi on the World Cup all-time goalscoring list. Messi will have a chance to win back the title when Argentina play in Sunday's final.\nMbappe's brace also saw the France captain move to the top of the race for the Golden Boot, which will be awarded to the player with the most goals in the tournament. He now has two more goals than Messi in the 2026 World Cup.\n\"Messi is going to score (on Sunday), that's for sure. I'm just trying to help my team win. When you score a lot of goals at the World Cup, it puts you in a certain category,\" Mbappe said.\n\"I would have preferred not to be the all-time top scorer and to be playing tomorrow's match. It's good in terms of legacy, but today it's not the first thing on my mind,\" he added.\nEngland beat France 6-4 in wild World Cup bronze match\nEngland were in complete control after scoring four first-half goals to leave France facing an embarrassing defeat.\nMbappe struck twice as Les Bleus battled back, but England held firm.\nSaka scored a hat-trick for the Three Lions while Bellingham became the first England player to score seven goals at a single World Cup.\nThe result secured third place for England, the team's best World Cup performance since winning the tournament in 1966.\nDeschamps's last dance for France\nThe third-place playoff at the World Cup was Deschamps' last game as France coach.\nAs a player, Deschamps led the French team to a World Cup title in 1998. As a coach, he guided France to World Cup glory in 2018 and a runner-up finish four years ago.\nBut Les Bleus missed their chance for a third consecutive final appearance after losing 2-0 against Spain in the semi-finals.\nOn Sunday, European champions Spain will face World Cup holders and South American champions Argentina in the final.\nEdited by: Sean Sinico\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "his team suffered a 6-4 defeat to the Three Lions in Didier"
+    ],
+    [
+     "del",
+     "Deschamps'"
+    ],
+    [
+     "ins",
+     "Deschamps's"
+    ],
+    [
+     "eq",
+     "last match as France's head coach. Mbappe is now one ahead of Argentina's Lionel Messi on the World Cup all-time"
+    ],
+    [
+     "del",
+     "goal-scoring table."
+    ],
+    [
+     "ins",
+     "goalscoring list."
+    ],
+    [
+     "eq",
+     "Messi will have a chance to win back the title when Argentina"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the team's best World Cup performance since winning the tournament in 1966."
+    ],
+    [
+     "del",
+     "Deschamps'"
+    ],
+    [
+     "ins",
+     "Deschamps's"
+    ],
+    [
+     "eq",
+     "last dance for France The third-place playoff at the World Cup was"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0191,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9982,
+ "adjudicated_by": "rules"
+}

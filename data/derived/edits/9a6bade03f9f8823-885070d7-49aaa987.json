@@ -1,0 +1,357 @@
+{
+ "id": "9a6bade03f9f8823-885070d7-49aaa987",
+ "url": "https://www.independent.co.uk/news/business/powerball-world-national-lottery-b3017878.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "lang": "en",
+ "detected_at": "2026-07-20T09:34:05Z",
+ "date": "2026-07-20",
+ "old_title": "World's biggest jackpot game Powerball to launch in UK this week",
+ "new_title": "World's biggest lottery game to launch in the UK this week - with £1bn jackpot",
+ "old_text": "The UK version of the world's biggest jackpot game Powerball is set to launch this week, operator Allwyn said.\nThe National Lottery's Powerball will see UK players pay £4 per line to compete with their US counterparts to win shared jackpots that can balloon to into the billions, which will be paid out over 30 years.\nAllwyn said players will be able to buy into the game from Tuesday.\nIf the Powerball jackpot - which is currently estimated at 416 million US dollars (£311 million) - continues to roll until the UK launch, UK players will be in with a chance to win it in the opening draw on Thursday.\nIt will be the first time the game has operated outside of the US and will offer UK players uncapped jackpots starting at £12 million, which can grow into the hundreds of millions and even billions.\nThe UK game features an extra \"match two main numbers\" prize tier, which is only available to UK players and offers a fixed prize of £8.\nThe \"match five main numbers\" tier also offers a fixed prize of £1 million while all other UK prize tiers will vary depending on the balls drawn and the number of winners.\nAllwyn chief executive Andria Vidler said: \"We're excited to give National Lottery players the chance to dream bigger while supporting thousands of good cause projects across the UK every week.\n\"Powerball jackpots can soar into the billions, offering breathtaking sums with the potential to transform lives and communities.\n\"We're encouraging players to get involved when tickets go on sale and we'll be crossing our fingers for our first UK winner.\"\nPowerball follows the National Lottery making the biggest overhaul to its draw-based Lotto game since its launch in 1994, with players being given two chances to win for every £2 ticket.\nThe change, which was rolled out from June 7, is expected to more than double the number of Lotto millionaires - from around 140 a year to about 345.\nIt also follows the recent completion of a £450 million major tech upgrade to the lottery, which involved moving 18 million player records and more than three billion historical transactions from old platforms to new ones, and transforming the technology used by retail partners.\nLatest figures from Allwyn show total National Lottery sales, including lottery tickets bought in shops, came in at £8.1 billion in 2025, up 3.5% on the previous year.\nMore than £1.7 billion was generated for good causes, which incorporates funding for health, education, arts, sports heritage and charitable causes, and £967 million was raised in taxes.",
+ "new_text": "The world's biggest jackpot game is set to launch in the UK this week, the National Lottery operator has announced.\nPlayers will be able to buy into the National Lottery's Powerball from Tuesday at £4 per line to compete with their US counterparts for shared jackpots that can balloon into billions, paid out over 30 years.\nIf the Powerball jackpot, currently estimated at $416 million (£311 million), continues to roll until the UK launch, British players will have a chance to win it in Thursday's opening draw.\nThis marks the first time the game has operated outside the US, offering UK players uncapped jackpots starting at £12 million, which can grow into hundreds of millions and even billions.\nThe UK game features an extra \"match two main numbers\" prize tier, which is only available to UK players and offers a fixed prize of £8.\nThe \"match five main numbers\" tier also offers a fixed prize of £1 million, while all other UK prize tiers will vary depending on the balls drawn and the number of winners.\nAllwyn chief executive Andria Vidler said: \"Powerball jackpots can soar into the billions, offering breathtaking sums with the potential to transform lives and communities.\n\"We're encouraging players to get involved when tickets go on sale and we'll be crossing our fingers for our first UK winner.\"\nThe National Lottery recently made the biggest overhaul to its draw-based Lotto game since its launch in 1994, with players being given two chances to win for every £2 ticket.\nThe change, which was rolled out from June 7, is expected to more than double the number of Lotto millionaires - from about 140 a year to about 345.\nIt also follows the recent completion of a £450 million major tech upgrade to the lottery, which involved moving 18 million player records and more than three billion historical transactions from old platforms to new ones, and transforming the technology used by retail partners.\nLatest figures from Allwyn show total National Lottery sales, including lottery tickets bought in shops, came in at £8.1 billion in 2025, up 3.5 per cent on the previous year.\nMore than £1.7 billion was generated for good causes, which incorporates funding for health, education, arts, sports heritage and charitable causes, and £967 million was raised in taxes.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "UK version of the"
+    ],
+    [
+     "eq",
+     "world's biggest jackpot game"
+    ],
+    [
+     "del",
+     "Powerball"
+    ],
+    [
+     "eq",
+     "is set to launch"
+    ],
+    [
+     "ins",
+     "in the UK"
+    ],
+    [
+     "eq",
+     "this week,"
+    ],
+    [
+     "ins",
+     "the National Lottery"
+    ],
+    [
+     "eq",
+     "operator"
+    ],
+    [
+     "del",
+     "Allwyn said. The"
+    ],
+    [
+     "ins",
+     "has announced. Players will be able to buy into the"
+    ],
+    [
+     "eq",
+     "National Lottery's Powerball"
+    ],
+    [
+     "del",
+     "will see UK players pay"
+    ],
+    [
+     "ins",
+     "from Tuesday at"
+    ],
+    [
+     "eq",
+     "£4 per line to compete with their US counterparts"
+    ],
+    [
+     "del",
+     "to win"
+    ],
+    [
+     "ins",
+     "for"
+    ],
+    [
+     "eq",
+     "shared jackpots that can balloon"
+    ],
+    [
+     "del",
+     "to"
+    ],
+    [
+     "eq",
+     "into"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "eq",
+     "billions,"
+    ],
+    [
+     "del",
+     "which will be"
+    ],
+    [
+     "eq",
+     "paid out over 30 years."
+    ],
+    [
+     "del",
+     "Allwyn said players will be able to buy into the game from Tuesday."
+    ],
+    [
+     "eq",
+     "If the Powerball"
+    ],
+    [
+     "del",
+     "jackpot - which is"
+    ],
+    [
+     "ins",
+     "jackpot,"
+    ],
+    [
+     "eq",
+     "currently estimated at"
+    ],
+    [
+     "del",
+     "416"
+    ],
+    [
+     "ins",
+     "$416"
+    ],
+    [
+     "eq",
+     "million"
+    ],
+    [
+     "del",
+     "US dollars"
+    ],
+    [
+     "eq",
+     "(£311"
+    ],
+    [
+     "del",
+     "million) -"
+    ],
+    [
+     "ins",
+     "million),"
+    ],
+    [
+     "eq",
+     "continues to roll until the UK launch,"
+    ],
+    [
+     "del",
+     "UK"
+    ],
+    [
+     "ins",
+     "British"
+    ],
+    [
+     "eq",
+     "players will"
+    ],
+    [
+     "del",
+     "be in with"
+    ],
+    [
+     "ins",
+     "have"
+    ],
+    [
+     "eq",
+     "a chance to win it in"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "ins",
+     "Thursday's"
+    ],
+    [
+     "eq",
+     "opening"
+    ],
+    [
+     "del",
+     "draw on Thursday. It will be"
+    ],
+    [
+     "ins",
+     "draw. This marks"
+    ],
+    [
+     "eq",
+     "the first time the game has operated outside"
+    ],
+    [
+     "del",
+     "of"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "US and will offer"
+    ],
+    [
+     "ins",
+     "US, offering"
+    ],
+    [
+     "eq",
+     "UK players uncapped jackpots starting at £12 million, which can grow into"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "eq",
+     "hundreds of millions and even billions. The UK game features an extra"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "\"match five main numbers\" tier also offers a fixed prize of £1"
+    ],
+    [
+     "del",
+     "million"
+    ],
+    [
+     "ins",
+     "million,"
+    ],
+    [
+     "eq",
+     "while all other UK prize tiers will vary depending on the balls drawn and the number of winners. Allwyn chief executive Andria Vidler said:"
+    ],
+    [
+     "del",
+     "\"We're excited to give National Lottery players the chance to dream bigger while supporting thousands of good cause projects across the UK every week."
+    ],
+    [
+     "eq",
+     "\"Powerball jackpots can soar into the billions, offering breathtaking sums with the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "sale and we'll be crossing our fingers for our first UK winner.\""
+    ],
+    [
+     "del",
+     "Powerball follows the"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "National Lottery"
+    ],
+    [
+     "del",
+     "making"
+    ],
+    [
+     "ins",
+     "recently made"
+    ],
+    [
+     "eq",
+     "the biggest overhaul to its draw-based Lotto game since its launch in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "expected to more than double the number of Lotto millionaires - from"
+    ],
+    [
+     "del",
+     "around"
+    ],
+    [
+     "ins",
+     "about"
+    ],
+    [
+     "eq",
+     "140 a year to about 345. It also follows the recent completion"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "tickets bought in shops, came in at £8.1 billion in 2025, up"
+    ],
+    [
+     "del",
+     "3.5%"
+    ],
+    [
+     "ins",
+     "3.5 per cent"
+    ],
+    [
+     "eq",
+     "on the previous year. More than £1.7 billion was generated for good"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2972,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.71,
+ "similarity": 0.9684,
+ "adjudicated_by": "rules"
+}

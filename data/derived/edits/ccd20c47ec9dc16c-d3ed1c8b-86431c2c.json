@@ -1,0 +1,53 @@
+{
+ "id": "ccd20c47ec9dc16c-d3ed1c8b-86431c2c",
+ "url": "https://www.theguardian.com/football/2026/jul/19/donald-trump-world-cup-final",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "lang": "en",
+ "detected_at": "2026-07-20T09:37:22Z",
+ "date": "2026-07-20",
+ "old_title": "Donald Trump and Gianni Infantino booed before US president attempts to crash Spain celebrations",
+ "new_title": "Donald Trump and Gianni Infantino booed before US president attempts to crash Spain celebrations",
+ "old_text": "Donald Trump and Gianni Infantino were booed as they took to the field for the presentation ceremony before the US president attempted to gatecrash Spain's victory party.\nTrump arrived at the stadium on Marine One, with the president's helicopter first flying over the stadium about 45 minutes before kick-off. He sat in a glassed-in section of luxury seats for the match, along with Infantino. Other dignitaries and former players sat nearby, including Spain's king, Felipe VI, Canada's prime minister, Mark Carney, and Mexico's president, Claudia Sheinbaum.\nTrump was briefly shown on the video screens at the stadium after the US national anthem was played. There were scattered boos from some in the crowd but nothing like the hostile reception he has received at other sporting events during his presidency. However, when the US president and Infantino came on to the field for the presentation after Spain clinched victory, boos rang out around the stadium. The White House pool report said that ambient crowd noise, which had been sitting at approximately 78 decibels before their introduction, rose to 84 decibels when Trump entered the field.\nThen, after Trump presented Spain with the World Cup trophy, he attempted to stand with the team at the side of the podium as they celebrated before Infantino quietly ushered him away.\nIt was a repeat of last summer's Club World Cup at the same stadium after Trump presented the trophy to champions Chelsea and tried to crash the celebrations to the bemusement of the players.\nTrump has made several appearances at sporting events since his re-election. Last year, he attended the Super Bowl, tennis's US Open, the Daytona 500 and golf's Ryder Cup. This year, he has attended several golf events, college football's national championship game and Game 3 of the NBA finals, where he was met with boos from the New York Knicks home crowd.\nTrump's appearance was the first time he has attended a match at this summer's World Cup, which the have US co-hosted along with Canada and Mexico.\nAt the 2022 World Cup final, the emir of Qatar, Sheikh Tamim bin Hamad al-Thani, joined Infantino to award the trophy to Lionel Messi and his Argentina teammates. Vladimir Putin awarded it to Kylian Mbappé and France after their win at the 2018 World Cup in Russia.\nTrump is the first sitting US president to attend a World Cup final on home soil. When the US hosted the tournament in 1994, Trump's predecessor Bill Clinton did not attend the game. The trophy was instead presented by Clinton's vice-president, Al Gore.\nTrump has a close relationship with Infantino, and called the Fifa president to lobby for a review of USA star Folarin Balogun's controversial red-card suspension before their last-16 match. Fifa did reverse Balogun's ban, but the political circus cast a pall over the US team, who exited a promising World Cup with defeat to Belgium.",
+ "new_text": "Donald Trump and Gianni Infantino were booed as they took to the field for the presentation ceremony before the US president attempted to gatecrash Spain's victory party.\nTrump arrived at the stadium on Marine One, with the president's helicopter first flying over the stadium about 45 minutes before kick-off. He sat in a glassed-in section of luxury seats for the match, along with Infantino. Other dignitaries and former players sat nearby, including Spain's king, Felipe VI, Canada's prime minister, Mark Carney, and Mexico's president, Claudia Sheinbaum.\nTrump was briefly shown on the video screens at the stadium after the US national anthem was played. There were scattered boos from some in the crowd but nothing like the hostile reception he has received at other sporting events during his presidency. However, when the US president and Infantino came on to the field for the presentation after Spain clinched victory, boos rang out around the stadium. The White House pool report said that ambient crowd noise, which had been sitting at approximately 78 decibels before their introduction, rose to 84 decibels when Trump entered the field.\nThen, after Trump presented Spain with the World Cup trophy, he attempted to stand with the team at the side of the podium as they celebrated before Infantino quietly ushered him away.\nIt was a repeat of last summer's Club World Cup at the same stadium after Trump presented the trophy to champions Chelsea and tried to crash the celebrations to the bemusement of the players.\nTrump has made several appearances at sporting events since his re-election. Last year, he attended the Super Bowl, tennis's US Open, the Daytona 500 and golf's Ryder Cup. This year, he has attended several golf events, college football's national championship game and Game 3 of the NBA finals, where he was met with boos from the New York Knicks home crowd.\nTrump's appearance was the first time he has attended a match at this summer's World Cup, which the US have co-hosted along with Canada and Mexico.\nAt the 2022 World Cup final, the emir of Qatar, Sheikh Tamim bin Hamad al-Thani, joined Infantino to award the trophy to Lionel Messi and his Argentina teammates. Vladimir Putin awarded it to Kylian Mbappé and France after their win at the 2018 World Cup in Russia.\nTrump is the first sitting US president to attend a World Cup final on home soil. When the US hosted the tournament in 1994, Trump's predecessor Bill Clinton did not attend the game. The trophy was instead presented by Clinton's vice-president, Al Gore.\nTrump has a close relationship with Infantino, and called the Fifa president to lobby for a review of USA star Folarin Balogun's controversial red-card suspension before their last-16 match. Fifa did reverse Balogun's ban, but the political circus cast a pall over the US team, who exited a promising World Cup with defeat to Belgium.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "he has attended a match at this summer's World Cup, which the"
+    ],
+    [
+     "ins",
+     "US"
+    ],
+    [
+     "eq",
+     "have"
+    ],
+    [
+     "del",
+     "US"
+    ],
+    [
+     "eq",
+     "co-hosted along with Canada and Mexico. At the 2022 World Cup final,"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0041,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}
