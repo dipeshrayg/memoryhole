@@ -1,6 +1,76 @@
 {
- "generated_at": "2026-07-20T02:53:36Z",
+ "generated_at": "2026-07-20T03:10:03Z",
  "edits": [
+  {
+   "id": "c65ae40f9fced472-ee190d34-1edcf376",
+   "date": "2026-07-20",
+   "detected_at": "2026-07-20T03:05:16Z",
+   "url": "https://www.independent.co.uk/sport/football/leandro-paredes-red-card-argentina-spain-world-cup-b3017827.html",
+   "domain": "www.independent.co.uk",
+   "source": "The Independent",
+   "severity": "NARRATIVE",
+   "score": 1.444,
+   "old_title": "Argentina's World Cup ends with punches and in disgrace",
+   "new_title": "Argentina's World Cup ends with punches and in disgrace",
+   "lang": "en",
+   "summary": "deleted: a"
+  },
+  {
+   "id": "115fe6a314716f42-a8d435d6-47e1fc6e",
+   "date": "2026-07-20",
+   "detected_at": "2026-07-20T03:04:56Z",
+   "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-protests-defence-minister-b3016589.html",
+   "domain": "www.independent.co.uk",
+   "source": "The Independent",
+   "severity": "NARRATIVE",
+   "score": 2.392,
+   "old_title": "Ukraine war live: Putin launches 'biggest ballistic missile attack on Kyiv'",
+   "new_title": "Ukraine war live: Putin launches 'biggest ballistic missile attack on Kyiv'",
+   "lang": "en",
+   "summary": "deleted: Comment: The West is preparing for the wrong post-war Russia The West has long assumed pressure would force Russia to moderate or collapse. Both assumptions ..."
+  },
+  {
+   "id": "23669dd3410abfb2-68df1a2e-48a335aa",
+   "date": "2026-07-20",
+   "detected_at": "2026-07-20T03:04:38Z",
+   "url": "https://www.independent.co.uk/travel/news-and-advice/greece-water-shortage-weather-islands-b3015968.html",
+   "domain": "www.independent.co.uk",
+   "source": "The Independent",
+   "severity": "NARRATIVE",
+   "score": 0.725,
+   "old_title": "The seven Greek islands running out of water just as they need it most",
+   "new_title": "Greece's tourist islands are running out of water just as they need it the most",
+   "lang": "en",
+   "summary": "added: as"
+  },
+  {
+   "id": "d11d0ead174a8805-52998476-7f10141e",
+   "date": "2026-07-20",
+   "detected_at": "2026-07-20T03:02:56Z",
+   "url": "https://www.abc.net.au/news/2026-07-20/world-cup-2026-the-13-photos-that-summed-up-he-chaos/106934562",
+   "domain": "www.abc.net.au",
+   "source": "ABC News (Australia)",
+   "severity": "NARRATIVE",
+   "score": 0.901,
+   "old_title": "The 13 photos that summed up the chaos of the 2026 World Cup final",
+   "new_title": "The 13 photos that summed up the chaos of the 2026 World Cup final",
+   "lang": "en",
+   "summary": "added: - ANALYSIS: Tears streaming, Messi departs World Cup stage a legend - QUICK HITS: Trump crashes Spain's party as Argentina combusts - HALF-TIME SHOW: Shakira..."
+  },
+  {
+   "id": "eac397df735df676-26fd8733-e3f7431a",
+   "date": "2026-07-20",
+   "detected_at": "2026-07-20T03:02:48Z",
+   "url": "https://www.abc.net.au/news/2026-07-20/truck-driver-reported-over-concrete-load-crash-on-motorway/106935034",
+   "domain": "www.abc.net.au",
+   "source": "ABC News (Australia)",
+   "severity": "NARRATIVE",
+   "score": 0.7,
+   "old_title": "Truck driver reported after losing concrete load on major SA road",
+   "new_title": "Truck driver reported after concrete slabs fell on major SA road",
+   "lang": "en",
+   "summary": ""
+  },
   {
    "id": "25e89bc35056daff-7a2ade13-b0c6b3d9",
    "date": "2026-07-20",
@@ -184,6 +254,34 @@
    "summary": "deleted: entirely"
   },
   {
+   "id": "25e89bc35056daff-b0c6b3d9-95a7752b",
+   "date": "2026-07-20",
+   "detected_at": "2026-07-20T03:04:58Z",
+   "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-cabinet-policies-live-updates-b3017323.html",
+   "domain": "www.independent.co.uk",
+   "source": "The Independent",
+   "severity": "FACTUAL",
+   "score": 0.6,
+   "old_title": "Andy Burnham latest: Trump claims incoming PM will 'open North Sea oil all the way'",
+   "new_title": "Andy Burnham latest: Trump claims incoming PM will 'open North Sea oil all the way'",
+   "lang": "en",
+   "summary": "added: In pictures: Larry the Cat waits outside 10 Downing Street ahead of Andy Burnham's arrival on Monday"
+  },
+  {
+   "id": "359edb6c2f7147ad-608ab673-40d52161",
+   "date": "2026-07-20",
+   "detected_at": "2026-07-20T03:02:50Z",
+   "url": "https://www.abc.net.au/news/2026-07-20/lionel-messi-cries-after-argentina-loss-spain-in-world-cup-final/106934886",
+   "domain": "www.abc.net.au",
+   "source": "ABC News (Australia)",
+   "severity": "FACTUAL",
+   "score": 0.6,
+   "old_title": "Tears streaming, Messi departs the World Cup stage a legend",
+   "new_title": "Tears streaming, Messi departs the World Cup stage a legend",
+   "lang": "en",
+   "summary": "deleted: Quick hits: Argentina lose heads in defeat,"
+  },
+  {
    "id": "fb0952b0bc692f2a-23bfd320-b70d0507",
    "date": "2026-07-20",
    "detected_at": "2026-07-20T02:43:15Z",
@@ -308,6 +406,20 @@
    "new_title": "'We are preserving a tradition': how Ghana's sensationalist film posters became collectible art",
    "lang": "en",
    "summary": "deleted: wasn't"
+  },
+  {
+   "id": "9ab80ce11cc88042-392d9a84-f0537b18",
+   "date": "2026-07-20",
+   "detected_at": "2026-07-20T02:59:36Z",
+   "url": "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate?traffic_source=rss",
+   "domain": "www.aljazeera.com",
+   "source": "Al Jazeera",
+   "severity": "MINOR",
+   "score": 0.0,
+   "old_title": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
+   "new_title": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
+   "lang": "en",
+   "summary": "added: Bahrain, Kuwait and Jordan after"
   },
   {
    "id": "1a74dcd4101205f8-90553ac4-b8171e53",
@@ -2312,12 +2424,12 @@
   },
   {
    "domain": "www.abc.net.au",
-   "tracked": 31,
-   "edits_total": 20,
-   "last_edit": "2026-07-20T02:43:15Z",
+   "tracked": 32,
+   "edits_total": 23,
+   "last_edit": "2026-07-20T03:02:56Z",
    "by_severity": {
-    "NARRATIVE": 6,
-    "FACTUAL": 9,
+    "NARRATIVE": 8,
+    "FACTUAL": 10,
     "MINOR": 5,
     "COSMETIC": 0
    },
@@ -2325,13 +2437,13 @@
   },
   {
    "domain": "www.aljazeera.com",
-   "tracked": 36,
-   "edits_total": 11,
-   "last_edit": "2026-07-20T02:39:53Z",
+   "tracked": 37,
+   "edits_total": 12,
+   "last_edit": "2026-07-20T02:59:36Z",
    "by_severity": {
     "NARRATIVE": 5,
     "FACTUAL": 3,
-    "MINOR": 3,
+    "MINOR": 4,
     "COSMETIC": 0
    },
    "source": "Al Jazeera"
@@ -2404,11 +2516,11 @@
   {
    "domain": "www.independent.co.uk",
    "tracked": 42,
-   "edits_total": 35,
-   "last_edit": "2026-07-20T02:45:27Z",
+   "edits_total": 39,
+   "last_edit": "2026-07-20T03:05:16Z",
    "by_severity": {
-    "NARRATIVE": 27,
-    "FACTUAL": 7,
+    "NARRATIVE": 30,
+    "FACTUAL": 8,
     "MINOR": 1,
     "COSMETIC": 0
    },
@@ -2494,55 +2606,55 @@
   }
  ],
  "health": {
-  "last_run": "2026-07-20T02:36:13Z",
+  "last_run": "2026-07-20T02:55:51Z",
   "sources": [
    {
     "name": "BBC News",
     "ok": true,
     "checked": 33,
-    "changed": 3,
+    "changed": 0,
     "error": null
    },
    {
     "name": "The Guardian",
     "ok": true,
     "checked": 12,
-    "changed": 1,
+    "changed": 0,
     "error": null
    },
    {
     "name": "NPR",
     "ok": true,
     "checked": 32,
-    "changed": 4,
+    "changed": 0,
     "error": null
    },
    {
     "name": "Al Jazeera",
     "ok": true,
-    "checked": 36,
-    "changed": 3,
+    "checked": 37,
+    "changed": 1,
     "error": null
    },
    {
     "name": "Deutsche Welle",
     "ok": true,
     "checked": 34,
-    "changed": 3,
+    "changed": 0,
     "error": null
    },
    {
     "name": "France 24",
     "ok": true,
     "checked": 34,
-    "changed": 3,
+    "changed": 0,
     "error": null
    },
    {
     "name": "ABC News (Australia)",
     "ok": true,
-    "checked": 31,
-    "changed": 7,
+    "checked": 32,
+    "changed": 3,
     "error": null
    },
    {
@@ -2672,9 +2784,9 @@
     "error": null
    }
   ],
-  "articles_checked": 419,
-  "edits_found": 28,
-  "duration_s": 834.5,
-  "total_edits": 162
+  "articles_checked": 421,
+  "edits_found": 8,
+  "duration_s": 841.8,
+  "total_edits": 170
  }
 }
