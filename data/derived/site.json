@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T02:50:19Z",
+ "generated_at": "2026-07-20T02:53:36Z",
  "edits": [
   {
    "id": "25e89bc35056daff-7a2ade13-b0c6b3d9",
@@ -58,20 +58,6 @@
    "summary": "deleted: Prominent social"
   },
   {
-   "id": "9047b18d15d3afd6-2b8f5eca-8445730a",
-   "date": "2026-07-20",
-   "detected_at": "2026-07-20T02:42:13Z",
-   "url": "https://www.france24.com/en/sport/20260719-world-cup-2026-spanish-control-meets-argentinian-resilience-final-showdown",
-   "domain": "www.france24.com",
-   "source": "France 24",
-   "severity": "NARRATIVE",
-   "score": 0.45,
-   "old_title": "World Cup 2026: Spanish control meets Argentinian resilience in final showdown",
-   "new_title": "World Cup 2026: Spanish control meets Argentinian resilience in final showdown",
-   "lang": "en",
-   "summary": "added: To display this content from YouTube, you must enable advertisement tracking and audience measurement. One of your browser extensions seems to be blocking th..."
-  },
-  {
    "id": "80140ebe8994241d-279ecbc5-ca94fd28",
    "date": "2026-07-20",
    "detected_at": "2026-07-20T02:42:10Z",
@@ -84,20 +70,6 @@
    "new_title": "US service member killed in Iraq during 'detonation' of Iranian drone",
    "lang": "en",
    "summary": "deleted: Middle East live:"
-  },
-  {
-   "id": "cbcb8354c89f379c-80a7f95d-4500836a",
-   "date": "2026-07-20",
-   "detected_at": "2026-07-20T02:42:05Z",
-   "url": "https://www.france24.com/en/americas/20260719-trump-claims-us-world-cup-a-success-despite-controversies-ahead-of-final",
-   "domain": "www.france24.com",
-   "source": "France 24",
-   "severity": "NARRATIVE",
-   "score": 1.007,
-   "old_title": "Trump claims US World Cup a success, despite controversies, ahead of final",
-   "new_title": "Trump claims US World Cup a success, despite controversies, ahead of final",
-   "lang": "en",
-   "summary": "added: To display this content from YouTube, you must enable advertisement tracking and audience measurement. One of your browser extensions seems to be blocking th..."
   },
   {
    "id": "9fe5b06ace1c40fb-1cc98c28-eaec3650",
@@ -814,20 +786,6 @@
    "summary": ""
   },
   {
-   "id": "ee0ae9a9408a6082-b0ed0ef5-5a4370cf",
-   "date": "2026-07-18",
-   "detected_at": "2026-07-18T08:04:37Z",
-   "url": "https://www.france24.com/en/americas/20260717-trump-china-largest-compromise-us-election-data-declassify-intelligence",
-   "domain": "www.france24.com",
-   "source": "France 24",
-   "severity": "NARRATIVE",
-   "score": 1.154,
-   "old_title": "In speech to nation, Trump declassifies intelligence claiming Chinese interference in 2020 elections",
-   "new_title": "In speech to nation, Trump declassifies intelligence claiming Chinese interference in 2020 elections",
-   "lang": "en",
-   "summary": "added: To display this content from YouTube, you must enable advertisement tracking and audience measurement. One of your browser extensions seems to be blocking th..."
-  },
-  {
    "id": "8ef0c5b1437a4486-d79fd875-6b0cd4c4",
    "date": "2026-07-18",
    "detected_at": "2026-07-18T08:04:31Z",
@@ -1262,20 +1220,6 @@
    "summary": "deleted: Middle East live: Iran warns"
   },
   {
-   "id": "6229ca83254d8442-a295785a-87b022a7",
-   "date": "2026-07-17",
-   "detected_at": "2026-07-17T08:21:18Z",
-   "url": "https://www.france24.com/en/environment/20260716-canadian-wildfire-smoke-pushes-toronto-air-quality-to-world-s-worst-reaches-us",
-   "domain": "www.france24.com",
-   "source": "France 24",
-   "severity": "NARRATIVE",
-   "score": 0.45,
-   "old_title": "Canadian wildfire smoke pushes Toronto air quality to world's worst, reaches US",
-   "new_title": "Canadian wildfire smoke pushes Toronto air quality to world's worst, reaches US",
-   "lang": "en",
-   "summary": "added: To display this content from YouTube, you must enable advertisement tracking and audience measurement. One of your browser extensions seems to be blocking th..."
-  },
-  {
    "id": "3fc3eb49057dc306-9a193426-45ac5a14",
    "date": "2026-07-17",
    "detected_at": "2026-07-17T08:21:16Z",
@@ -1689,7 +1633,7 @@
    "domain": "www.france24.com",
    "source": "France 24",
    "severity": "NARRATIVE",
-   "score": 3.559,
+   "score": 3.418,
    "old_title": "France expected to pass final vote on assisted dying after years of debate",
    "new_title": "France's lower house of parliament adopts final text of landmark right-to-die law",
    "lang": "en",
@@ -2025,11 +1969,11 @@
    "domain": "www.france24.com",
    "source": "France 24",
    "severity": "NARRATIVE",
-   "score": 1.803,
+   "score": 1.863,
    "old_title": "Middle East live: US military launches fresh 'wave of strikes' on Iran",
    "new_title": "Middle East live: US military launches fresh 'wave of strikes' on Iran",
    "lang": "en",
-   "summary": "added: One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site."
+   "summary": "deleted: US military says launched 'wave of strikes' on Iran The United States launched a wave of strikes against Iran on Wednesday, US Central Command (CENTCOM) said..."
   },
   {
    "id": "09cc81db98b06654-8b76e9b0-dfb0d1b7",
@@ -2434,10 +2378,10 @@
   {
    "domain": "www.france24.com",
    "tracked": 34,
-   "edits_total": 21,
-   "last_edit": "2026-07-20T02:42:13Z",
+   "edits_total": 17,
+   "last_edit": "2026-07-20T02:42:10Z",
    "by_severity": {
-    "NARRATIVE": 19,
+    "NARRATIVE": 15,
     "FACTUAL": 0,
     "MINOR": 2,
     "COSMETIC": 0
@@ -2731,6 +2675,6 @@
   "articles_checked": 419,
   "edits_found": 28,
   "duration_s": 834.5,
-  "total_edits": 166
+  "total_edits": 162
  }
 }

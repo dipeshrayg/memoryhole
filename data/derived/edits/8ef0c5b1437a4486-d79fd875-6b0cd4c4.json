@@ -8,8 +8,8 @@
  "date": "2026-07-18",
  "old_title": "Sports - Tour de France : Merlier the fastest again, Pogacar still in yellow",
  "new_title": "Sports - Tour de France: Merlier speeds toward another win, Pogacar still in yellow",
- "old_text": "Tour de France : Merlier the fastest again, Pogacar still in yellow\nTo display this content from YouTube, you must enable advertisement tracking and audience measurement.\nOne of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.\nIssued on:\nThe Belgian took victory in Stage 12 of the Tour de France in Chalon-sur-Saône, claiming his third stage win of this year's Tour. He edged out Olav Kooij and Jasper Philipsen.\nMeanwhile, Argentina and Spain continue their preparations for Sunday's World Cup final. Tomorrow, France and England will face off in Miami for the third-place play-off.\nIn golf, American Jackson Suber leads the Open Championship after the opening round.",
- "new_text": "Tour de France: Merlier speeds toward another win, Pogacar still in yellow\nTo display this content from YouTube, you must enable advertisement tracking and audience measurement.\nOne of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.\nIssued on:\nThe Belgian took victory in Stage 12 of the Tour de France in Chalon-sur-Saône, claiming his third stage win of this year's Tour. He edged out Olav Kooij and Jasper Philipsen. Meanwhile, Argentina and Spain continue their preparations for Sunday's World Cup final. Tomorrow, France and England will face off in Miami for the third-place play-off. In golf, American Jackson Suber leads the Open Championship after the opening round.",
+ "old_text": "Tour de France : Merlier the fastest again, Pogacar still in yellow\nIssued on:\nThe Belgian took victory in Stage 12 of the Tour de France in Chalon-sur-Saône, claiming his third stage win of this year's Tour. He edged out Olav Kooij and Jasper Philipsen.\nMeanwhile, Argentina and Spain continue their preparations for Sunday's World Cup final. Tomorrow, France and England will face off in Miami for the third-place play-off.\nIn golf, American Jackson Suber leads the Open Championship after the opening round.",
+ "new_text": "Tour de France: Merlier speeds toward another win, Pogacar still in yellow\nIssued on:\nThe Belgian took victory in Stage 12 of the Tour de France in Chalon-sur-Saône, claiming his third stage win of this year's Tour. He edged out Olav Kooij and Jasper Philipsen. Meanwhile, Argentina and Spain continue their preparations for Sunday's World Cup final. Tomorrow, France and England will face off in Miami for the third-place play-off. In golf, American Jackson Suber leads the Open Championship after the opening round.",
  "hunks": [
   {
    "ops": [
@@ -39,14 +39,14 @@
     ],
     [
      "eq",
-     "Pogacar still in yellow To display this content from YouTube, you must"
+     "Pogacar still in yellow Issued on: The Belgian took victory in Stage"
     ]
    ]
   }
  ],
  "signals": {
   "cosmetic_only": false,
-  "change_ratio": 0.0806,
+  "change_ratio": 0.1205,
   "numbers_changed": [],
   "entities_swapped": false,
   "quotes_deleted": 0,
@@ -56,6 +56,6 @@
  },
  "severity": "NARRATIVE",
  "score": 0.7,
- "similarity": 0.9842,
+ "similarity": 0.98,
  "adjudicated_by": "rules"
 }

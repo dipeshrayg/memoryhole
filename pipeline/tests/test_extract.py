@@ -7,6 +7,15 @@ def test_normalize_kills_cosmetic_churn():
         == "Real line here"
 
 
+def test_normalize_kills_embed_consent_placeholders():
+    text = ("Real reporting stays.\n"
+            "To display this content from YouTube, you must enable advertisement "
+            "tracking and audience measurement.\n"
+            "One of your browser extensions seems to be blocking this.\n"
+            "More real reporting.")
+    assert normalize(text) == "Real reporting stays.\nMore real reporting."
+
+
 def test_normalize_caps_giant_pages():
     assert len(normalize("word " * 100_000)) == MAX_TEXT
 

@@ -12,7 +12,10 @@ MAX_TEXT = 200_000  # chars; giant-page cap
 _NOISE = re.compile(
     r"^(published|updated|last (modified|updated)|posted|share (this|on)|advertisement"
     r"|related articles?|read more|sign up|subscribe|follow us|image (source|caption)"
-    r"|getty images|\d+ min read)\b",
+    r"|getty images|\d+ min read"
+    # embed/consent placeholders (e.g. France 24 YouTube blocks)
+    r"|to display this content from|one of your browser extensions"
+    r"|please enable javascript|accept (all )?cookies|manage (my|your) choices)\b",
     re.IGNORECASE,
 )
 _QUOTES = str.maketrans({"‘": "'", "’": "'", "“": '"', "”": '"',
