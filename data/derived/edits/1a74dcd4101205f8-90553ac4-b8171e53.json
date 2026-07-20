@@ -1,0 +1,161 @@
+{
+ "id": "1a74dcd4101205f8-90553ac4-b8171e53",
+ "url": "https://www.dw.com/en/cuban-dissident-artist-arrives-in-us-after-5-years-in-prison/a-78021940?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "lang": "en",
+ "detected_at": "2026-07-20T02:41:04Z",
+ "date": "2026-07-20",
+ "old_title": "Cuban dissident artist arrives in US after 5 years in prison",
+ "new_title": "Cuban dissident artist arrives in US after 5 years in prison",
+ "old_text": "Prominent Cuban dissident artist Luis Manuel Otero Alcantara, whose five-year prison sentence ended last week, arrived in the United States on Saturday, US Secretary of State Marco Rubio said.\nRubio did not provide the 38-year-old artist's whereabouts or say when he arrived.\nA video posted on Otero Alcantara's official Facebook page, which is managed by his close friends, also showed his arrival in the United States.\n\"After five years of unjust imprisonment, Cuban artist Luis Manuel Otero Alcantara has finally been freed,\" read a post on Otero Alcantara's Facebook page.\nIt also said he was held in a maximum-security prison and that a condition of his release was \"permanent departure from the island.\"\nOn Friday, Otero Alcantara had been granted a humanitarian visa to travel to the US after serving his prison sentence.\nWho is Luis Manuel Otero Alcantara?\nOtero Alcantara is one of the most visible faces of the San Isidro movement, a group of artists and intellectuals seeking greater freedom of expression in the communist country.\nThe Cuban artist was arrested in July 2021, as he was leaving his home to join a massive protest against blackouts in the capital, Havana.\nIn 2022, a court sentenced him to five years in prison for insulting national symbols, contempt and disturbing the public order.\n\"Otero Alcantara's only 'crime' was refusing to stay silent and using his art to demand the basic freedoms everyday Cubans have been denied for almost seven decades,\" Rubio said in a statement.\nThe Cuban government has accused him of acting on behalf of Washington to destabilize the communist-run island.\nEdited by: Sean Sinico\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "Prominent Cuban dissident artist Luis Manuel Otero Alcantara, whose five-year prison sentence ended last week, has arrived in the United States, according to US Secretary of State Marco Rubio.\nRubio did not provide the whereabouts of the 38-year-old artist, or say exactly when he arrived.\nA video posted on Otero Alcantara's official Facebook page, which is managed by his close friends, also showed his arrival in the United States.\n\"After five years of unjust imprisonment, Cuban artist Luis Manuel Otero Alcantara has finally been freed,\" read a post.\nThe post also said he was held in a maximum-security prison and that a condition of his release was \"permanent departure from the island.\"\nOn Friday, Otero Alcantara had been granted a humanitarian visa to travel to the US after serving his prison sentence.\nWho is Luis Manuel Otero Alcantara?\nOtero Alcantara is one of the most visible faces of the San Isidro Movement, a group of artists and intellectuals seeking greater freedom of expression in the communist country.\nThe Cuban artist was arrested in July 2021, as he was leaving his home to join a massive protest against blackouts in the capital, Havana.\nIn 2022, a court sentenced him to five years in prison for insulting national symbols, contempt and disturbing the public order.\n\"Otero Alcantara's only 'crime' was refusing to stay silent and using his art to demand the basic freedoms everyday Cubans have been denied for almost seven decades,\" Rubio said in a statement.\nThe Cuban government has accused Otero Alcantara of acting on behalf of Washington to destabilize the communist-run island.\nEdited by: Sean Sinico\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "artist Luis Manuel Otero Alcantara, whose five-year prison sentence ended last week,"
+    ],
+    [
+     "ins",
+     "has"
+    ],
+    [
+     "eq",
+     "arrived in the United"
+    ],
+    [
+     "del",
+     "States on Saturday,"
+    ],
+    [
+     "ins",
+     "States, according to"
+    ],
+    [
+     "eq",
+     "US Secretary of State Marco"
+    ],
+    [
+     "del",
+     "Rubio said."
+    ],
+    [
+     "ins",
+     "Rubio."
+    ],
+    [
+     "eq",
+     "Rubio did not provide the"
+    ],
+    [
+     "ins",
+     "whereabouts of the"
+    ],
+    [
+     "eq",
+     "38-year-old"
+    ],
+    [
+     "del",
+     "artist's whereabouts"
+    ],
+    [
+     "ins",
+     "artist,"
+    ],
+    [
+     "eq",
+     "or say"
+    ],
+    [
+     "ins",
+     "exactly"
+    ],
+    [
+     "eq",
+     "when he arrived. A video posted on Otero Alcantara's official Facebook page,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Cuban artist Luis Manuel Otero Alcantara has finally been freed,\" read a"
+    ],
+    [
+     "ins",
+     "post. The"
+    ],
+    [
+     "eq",
+     "post"
+    ],
+    [
+     "del",
+     "on Otero Alcantara's Facebook page. It"
+    ],
+    [
+     "eq",
+     "also said he was held in a maximum-security prison and that a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Alcantara is one of the most visible faces of the San Isidro"
+    ],
+    [
+     "del",
+     "movement,"
+    ],
+    [
+     "ins",
+     "Movement,"
+    ],
+    [
+     "eq",
+     "a group of artists and intellectuals seeking greater freedom of expression in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "seven decades,\" Rubio said in a statement. The Cuban government has accused"
+    ],
+    [
+     "del",
+     "him"
+    ],
+    [
+     "ins",
+     "Otero Alcantara"
+    ],
+    [
+     "eq",
+     "of acting on behalf of Washington to destabilize the communist-run island. Edited"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0955,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9925,
+ "adjudicated_by": "rules"
+}
