@@ -1,0 +1,125 @@
+{
+ "id": "2c4818ce28bf0700-86b5f8d6-8561326f",
+ "url": "https://www.france24.com/en/tv-shows/business/20260720-andy-burnham-s-promise-to-deliver-tangible-improvements-to-britons-lives-put-to-the-test",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "lang": "en",
+ "detected_at": "2026-07-21T08:41:27Z",
+ "date": "2026-07-21",
+ "old_title": "Business - Andy Burnham's promise to deliver tangible improvements to Britons' lives put to the test",
+ "new_title": "Business - Andy Burnham's promise to deliver tangible improvements to Britons' lives put to the test",
+ "old_text": "Andy Burnham's promise to deliver tangible improvements to Britons' lives put to the test\nIssued on:\nFormer Greater Manchester mayor Andy Burnham is set to become the United Kingdom's new Prime Minister this Monday, with a commitment to help raise living standards in the country. The Labour leader's agenda will be tested by the country's financial situation and his prior commitments, which limit his room for manoeuvre. In this segment, we'll see how his policies promise to deliver higher growth in the short and long term.",
+ "new_text": "Andy Burnham's promise to deliver tangible improvements to Britons' lives put to the test\nIssued on:\nFormer Greater Manchester mayor Andy Burnham is set to become the United Kingdom's new Prime Minister this Monday. He will do so having reiterated a commitment to help raise the standard of living in the country. However, the Labour leader's agenda will be tested by the country's financial situation and his prior commitments, both of which will limit the scope of his plans. In this segment, we'll look at how his policies promise to deliver higher growth in the short and long term.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Burnham is set to become the United Kingdom's new Prime Minister this"
+    ],
+    [
+     "del",
+     "Monday, with"
+    ],
+    [
+     "ins",
+     "Monday. He will do so having reiterated"
+    ],
+    [
+     "eq",
+     "a commitment to help raise"
+    ],
+    [
+     "ins",
+     "the standard of"
+    ],
+    [
+     "eq",
+     "living"
+    ],
+    [
+     "del",
+     "standards"
+    ],
+    [
+     "eq",
+     "in the country."
+    ],
+    [
+     "del",
+     "The"
+    ],
+    [
+     "ins",
+     "However, the"
+    ],
+    [
+     "eq",
+     "Labour leader's agenda will be tested by the country's financial situation and his prior commitments,"
+    ],
+    [
+     "ins",
+     "both of"
+    ],
+    [
+     "eq",
+     "which"
+    ],
+    [
+     "ins",
+     "will"
+    ],
+    [
+     "eq",
+     "limit"
+    ],
+    [
+     "ins",
+     "the scope of"
+    ],
+    [
+     "eq",
+     "his"
+    ],
+    [
+     "del",
+     "room for manoeuvre."
+    ],
+    [
+     "ins",
+     "plans."
+    ],
+    [
+     "eq",
+     "In this segment, we'll"
+    ],
+    [
+     "del",
+     "see"
+    ],
+    [
+     "ins",
+     "look at"
+    ],
+    [
+     "eq",
+     "how his policies promise to deliver higher growth in the short and long term."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3372,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9895,
+ "adjudicated_by": "rules"
+}

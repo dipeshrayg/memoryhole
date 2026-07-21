@@ -1,0 +1,71 @@
+{
+ "id": "0ae1d4e1c10b2397-14e9cbac-ab823461",
+ "url": "https://www.aljazeera.com/news/liveblog/2026/7/20/live-andy-burnham-to-become-uk-pm-deliver-first-speech-at-10-downing?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "lang": "en",
+ "detected_at": "2026-07-21T08:39:32Z",
+ "date": "2026-07-21",
+ "old_title": "Andy Burnham set to become UK's seventh prime minister in a decade",
+ "new_title": "Updates: Andy Burnham becomes UK PM, vows to focus on cost-of-living crisis",
+ "old_text": "Live updates,\nLIVE: Andy Burnham to become UK PM, deliver first speech at 10 Downing\nThe new leader takes over from Keir Starmer just two years after the outgoing PM led Labour to a landslide election victory.",
+ "new_text": "Updates: Andy Burnham becomes UK PM, vows to focus on cost-of-living crisis\nThe new leader takes over from Keir Starmer just two years after the outgoing PM led Labour to a landslide election victory.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Live updates, LIVE:"
+    ],
+    [
+     "ins",
+     "Updates:"
+    ],
+    [
+     "eq",
+     "Andy Burnham"
+    ],
+    [
+     "del",
+     "to become"
+    ],
+    [
+     "ins",
+     "becomes"
+    ],
+    [
+     "eq",
+     "UK PM,"
+    ],
+    [
+     "del",
+     "deliver first speech at 10 Downing"
+    ],
+    [
+     "ins",
+     "vows to focus on cost-of-living crisis"
+    ],
+    [
+     "eq",
+     "The new leader takes over from Keir Starmer just two years after the outgoing PM led Labour to a landslide election victory."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5135,
+  "numbers_changed": [
+   "10"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.46,
+ "similarity": 0.8434,
+ "adjudicated_by": "rules"
+}

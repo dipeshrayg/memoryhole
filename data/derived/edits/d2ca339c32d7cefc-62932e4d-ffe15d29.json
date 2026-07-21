@@ -1,0 +1,51 @@
+{
+ "id": "d2ca339c32d7cefc-62932e4d-ffe15d29",
+ "url": "https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "lang": "en",
+ "detected_at": "2026-07-21T08:38:35Z",
+ "date": "2026-07-21",
+ "old_title": "Morning news brief",
+ "new_title": "Morning news brief",
+ "old_text": "Morning news brief\nMorning news brief\nAudio will be available later today.\nThe U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister.",
+ "new_text": "Morning news briefThe U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister.\nThe U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Morning news"
+    ],
+    [
+     "del",
+     "brief Morning news brief Audio will be available later today."
+    ],
+    [
+     "ins",
+     "briefThe U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister."
+    ],
+    [
+     "eq",
+     "The U.S. carries out a wave of strikes against Iran, as fighting"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.9545,
+  "numbers_changed": [
+   "7"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.858,
+ "similarity": 0.902,
+ "adjudicated_by": "rules"
+}

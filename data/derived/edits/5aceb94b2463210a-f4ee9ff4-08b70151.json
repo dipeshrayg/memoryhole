@@ -1,0 +1,44 @@
+{
+ "id": "5aceb94b2463210a-f4ee9ff4-08b70151",
+ "url": "https://www.gov.uk/government/news/dame-jayne-anne-gadhia-named-as-preferred-candidate-for-chair-of-the-financial-reporting-council",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "lang": "en",
+ "detected_at": "2026-07-21T08:49:57Z",
+ "date": "2026-07-21",
+ "old_title": "Dame Jayne-Anne Gadhia appointed Chair of the Financial Reporting Council",
+ "new_title": "Dame Jayne-Anne Gadhia appointed Chair of the Financial Reporting Council",
+ "old_text": "Dame Jayne-Anne Gadhia has been confirmed by the Business Secretary as the new Chair of the Financial Reporting Council for the next four years.\nThe Financial Reporting Council (FRC) regulates auditors, accountants and actuaries, and sets the UK's Corporate Governance and Stewardship Codes. It promotes transparency and integrity in business and aims its work at investors and others who rely on company reports, audit and high-quality risk management.\nDame Jayne-Anne is a highly experienced financial services leader and entrepreneur, having founded and chaired the fintech Snoop and previously served as Chief Executive of Virgin Money from 2007 to 2018. A Chartered Accountant, she brings decades of experience across banking, financial services, and consumer finance, as well as a strong track record of championing diversity in the sector\nDame Jayne-Anne's nomination followed a fair and open competition. The Business and Trade Select Committee held a pre-appointment scrutiny hearing on Tuesday 14 July.\nBusiness Secretary Peter Kyle said:\nDame Jayne-Anne Gadhia has a proven track record in driving growth and championing high standards in the organisations she leads, along with exceptional experience in financial services.\nShe is perfectly placed to lead the FRC at this important time and I look forward to working with her to boost confidence in British businesses.\nDame Jayne-Anne Gadhia said:\nI am honoured to be appointed Chair of the FRC at such an important time for the organisation and for the UK economy. Strong corporate governance, high-quality reporting and trusted audit are not abstract regulatory goals - they are the foundations on which businesses grow, investors commit capital and public confidence is maintained.\nThe FRC has done impressive work in recent years to raise standards and modernise how it regulates and I look forward to working with Richard and the whole team to build on that progress.\nNotes to Editors:\nPre-appointment hearings enable select committees to take evidence from preferred candidates for major public appointments before they are appointed.\nHearings are in public and involve the select committee publishing a report setting out their views on the candidate's suitability for the post.\nPre-appointment hearings are non-binding, but ministers will consider the committee's views before deciding whether to proceed with an appointment.",
+ "new_text": "This was published under the 2024 to 2026 Starmer Labour government\nDame Jayne-Anne Gadhia has been confirmed by the Business Secretary as the new Chair of the Financial Reporting Council for the next four years.\nThe Financial Reporting Council (FRC) regulates auditors, accountants and actuaries, and sets the UK's Corporate Governance and Stewardship Codes. It promotes transparency and integrity in business and aims its work at investors and others who rely on company reports, audit and high-quality risk management.\nDame Jayne-Anne is a highly experienced financial services leader and entrepreneur, having founded and chaired the fintech Snoop and previously served as Chief Executive of Virgin Money from 2007 to 2018. A Chartered Accountant, she brings decades of experience across banking, financial services, and consumer finance, as well as a strong track record of championing diversity in the sector\nDame Jayne-Anne's nomination followed a fair and open competition. The Business and Trade Select Committee held a pre-appointment scrutiny hearing on Tuesday 14 July.\nBusiness Secretary Peter Kyle said:\nDame Jayne-Anne Gadhia has a proven track record in driving growth and championing high standards in the organisations she leads, along with exceptional experience in financial services.\nShe is perfectly placed to lead the FRC at this important time and I look forward to working with her to boost confidence in British businesses.\nDame Jayne-Anne Gadhia said:\nI am honoured to be appointed Chair of the FRC at such an important time for the organisation and for the UK economy. Strong corporate governance, high-quality reporting and trusted audit are not abstract regulatory goals - they are the foundations on which businesses grow, investors commit capital and public confidence is maintained.\nThe FRC has done impressive work in recent years to raise standards and modernise how it regulates and I look forward to working with Richard and the whole team to build on that progress.\nNotes to Editors:\nPre-appointment hearings enable select committees to take evidence from preferred candidates for major public appointments before they are appointed.\nHearings are in public and involve the select committee publishing a report setting out their views on the candidate's suitability for the post.\nPre-appointment hearings are non-binding, but ministers will consider the committee's views before deciding whether to proceed with an appointment.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "This was published under the 2024 to 2026 Starmer Labour government"
+    ],
+    [
+     "eq",
+     "Dame Jayne-Anne Gadhia has been confirmed by the Business Secretary as the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0302,
+  "numbers_changed": [
+   "2024",
+   "2026"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9744,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,97 @@
+{
+ "id": "dd75fb030bc5a7bc-ef23078f-50c3e831",
+ "url": "https://www.france24.com/en/tv-shows/sports/20260719-2026-world-cup-france-fall-to-england-after-wild-ten-goal-thriller",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "lang": "en",
+ "detected_at": "2026-07-21T08:41:06Z",
+ "date": "2026-07-21",
+ "old_title": "Sports - 2026 World Cup: France fall to England after wild ten-goal thriller",
+ "new_title": "Sports - 2026 World Cup: France fall to England after ten-goal thriller",
+ "old_text": "2026 World Cup: France fall to England after wild ten-goal thriller\nIssued on:\nFrance endured an emotional rollercoaster in Miami on Saturday, eventually falling 6-4 to England in a breathtaking 2026 World Cup third-place playoff. Trailing 4-0 at halftime, Les Bleus mounted a sensational comeback, fueled by Kylian Mbappé's ninth and tenth goals of the tournament, but England held on to seal victory in a spectacular contest.\nElsewhere in sport, all eyes turn to Sunday's World Cup final, where Spain and Argentina go head-to-head in a mouthwatering showdown. It's the reigning European champions against the defending Copa América winners, with Lamine Yamal's Spain taking on Lionel Messi's Argentina. Remarkably, it's the first World Cup final ever to pit the reigning European champions against the holders of the Copa America.\nCould the Premier League be about to witness a record-breaking transfer? Aston Villa forward Morgan Rogers is reportedly on the verge of joining Chelsea in a €137 million deal, which would make him the most expensive English player in history.\nAt the Tour de France, Tadej Pogacar remains untouchable. The yellow jersey claimed his fourth stage victory of the 2026 edition on Saturday with a commanding solo triumph at Marstein Fellering, finishing ahead of teammate Isaac Del Toro and French rising star Paul Seixas. At just 19, Seixas climbed to fourth overall, took over the white jersey, and became the youngest rider ever to wear a classification jersey on the Tour.\nIn tennis, Stefanos Tsitsipas' comeback continues. Down to world No. 85, the Greek will contest his first ATP final since March 2025 on Sunday, facing Belgium's Raphaël Collignon in Gstaad as he bids for the 13th title of his career.\nMeanwhile, in Bastad, top seed Andrey Rublev will face defending champion Luciano Darderi in the ATP 250 final.\nIn athletics, a legendary mark has fallen. Josh Kerr shattered the long-standing world mile record on Saturday in London.\nAt The Open Championship, Sam Burns heads into the final round as the new leader, ahead of Ryan Fox and Kim Si-woo.\nIn Formula 1, teenage sensation Kimi Antonelli will start Sunday's Belgian Grand Prix from pole position.\nAnd finally, in the World Rally Championship, Sami Pajari remains in control of Rally Estonia and is closing in on the first WRC victory of his career.",
+ "new_text": "2026 World Cup: France fall to England after ten-goal thriller\nIssued on:\nFrance endured an emotional rollercoaster in Miami on Saturday, eventually falling 6-4 to England in a breathtaking 2026 World Cup third-place playoff. Trailing 4-0 at halftime, Les Bleus mounted a sensational comeback, fuelled by Kylian Mbappé's ninth and tenth goals of the tournament - but England held on to seal victory in a spectacular contest.\nElsewhere in sport, all eyes turn to Sunday's World Cup final, where Spain and Argentina go head-to-head in a mouthwatering showdown. It's the reigning European champions against the defending Copa América winners, with Lamine Yamal's Spain taking on Lionel Messi's Argentina. Remarkably, it's the first World Cup final ever to pit the reigning European champions against the holders of the Copa America.\nCould the Premier League be about to witness a record-breaking transfer? Aston Villa forward Morgan Rogers is reportedly on the verge of joining Chelsea in a €137 million deal, which would make him the most expensive English player in history.\nAt the Tour de France, Tadej Pogacar remains untouchable. The yellow jersey claimed his fourth stage victory of the 2026 edition on Saturday with a commanding solo triumph at Marstein Fellering, finishing ahead of teammate Isaac Del Toro and French rising star Paul Seixas. At just 19, Seixas climbed to fourth overall, took over the white jersey and became the youngest rider ever to wear a classification jersey on the Tour.\nIn tennis, Stefanos Tsitsipas' comeback continues. Down to world No. 85, the Greek will contest his first ATP final since March 2025 on Sunday, facing Belgium's Raphaël Collignon in Gstaad as he bids for the 13th title of his career.\nMeanwhile, in Bastad, top seed Andrey Rublev will face defending champion Luciano Darderi in the ATP 250 final.\nIn athletics, a legendary mark has fallen. Josh Kerr shattered the long-standing world mile record on Saturday in London.\nAt The Open Championship, Sam Burns heads into the final round as the new leader, ahead of Ryan Fox and Kim Si-woo.\nIn Formula 1, teenage sensation Kimi Antonelli will start Sunday's Belgian Grand Prix from pole position.\nAnd finally, in the World Rally Championship, Sami Pajari remains in control of Rally Estonia and is closing in on the first WRC victory of his career.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "2026 World Cup: France fall to England after"
+    ],
+    [
+     "del",
+     "wild"
+    ],
+    [
+     "eq",
+     "ten-goal thriller Issued on: France endured an emotional rollercoaster in Miami on"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "third-place playoff. Trailing 4-0 at halftime, Les Bleus mounted a sensational comeback,"
+    ],
+    [
+     "del",
+     "fueled"
+    ],
+    [
+     "ins",
+     "fuelled"
+    ],
+    [
+     "eq",
+     "by Kylian Mbappé's ninth and tenth goals of the"
+    ],
+    [
+     "del",
+     "tournament,"
+    ],
+    [
+     "ins",
+     "tournament -"
+    ],
+    [
+     "eq",
+     "but England held on to seal victory in a spectacular contest. Elsewhere"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "At just 19, Seixas climbed to fourth overall, took over the white"
+    ],
+    [
+     "del",
+     "jersey,"
+    ],
+    [
+     "ins",
+     "jersey"
+    ],
+    [
+     "eq",
+     "and became the youngest rider ever to wear a classification jersey on"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0209,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9985,
+ "adjudicated_by": "rules"
+}

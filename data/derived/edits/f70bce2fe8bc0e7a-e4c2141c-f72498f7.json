@@ -1,0 +1,49 @@
+{
+ "id": "f70bce2fe8bc0e7a-e4c2141c-f72498f7",
+ "url": "https://www.gov.uk/government/news/stronger-asbestos-controls-needed-to-keep-kids-safe",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "lang": "en",
+ "detected_at": "2026-07-21T08:50:12Z",
+ "date": "2026-07-21",
+ "old_title": "Stronger asbestos controls needed to keep kids safe",
+ "new_title": "Stronger asbestos controls needed to keep kids safe",
+ "old_text": "Government has told businesses they must not rely on final product testing alone to assure the absence of asbestos in toys.\nFollowing a growing number of product recalls due to asbestos contamination, the Government is reminding businesses that they must be able to demonstrate that toys containing sand are safe before they are placed on the UK market.\nBusinesses should have robust supply chain assurance in place to demonstrate that products are free from asbestos contamination. Product testing may form part of that assurance, but testing alone is not sufficient.\nThey should therefore review their supply chains, take any necessary action to address risks, and maintain evidence demonstrating that products are safe and free from asbestos contamination.\nOPSS Chief Executive, Graham Russell said:\nParents should be able to trust that the toys they buy for their children are safe. We know the recent recalls have caused concern, and that's why we're reminding businesses of their responsibility to understand and manage the risks in their supply chains.\nThe Government will hold businesses to account for ensuring they have the right checks and controls in place and can demonstrate that the products they sell are safe.\nWhere asbestos is identified in products, businesses should take immediate action to protect consumers, including product withdrawal or recall where necessary.\nConsumers can find out more information about products that have been recalled and access advice here: Asbestos in consumer products - GOV.UK\nBusinesses can read the advisory note on Assuring the absence of asbestos in sand-containing toys.",
+ "new_text": "Government has told businesses they must not rely on final product testing alone to assure the absence of asbestos in toys.\nFollowing a growing number of product recalls due to asbestos contamination, the Government is reminding businesses that they must be able to demonstrate that toys containing sand are safe before they are placed on the UK market.\nBusinesses should have robust supply chain assurance in place to demonstrate that products are free from asbestos contamination. Product testing may form part of that assurance, but testing alone is not sufficient.\nThey should therefore review their supply chains, take any necessary action to address risks, and maintain evidence demonstrating that products are safe and free from asbestos contamination.\nOPSS Chief Executive, Graham Russell said:\nParents should be able to trust that the toys they buy for their children are safe. We know the recent recalls have caused concern, and that's why we're reminding businesses of their responsibility to understand and manage the risks in their supply chains.\nThe Government will hold businesses to account for ensuring they have the right checks and controls in place and can demonstrate that the products they sell are safe.\nWhere asbestos is identified in products, businesses should take immediate action to protect consumers, including product withdrawal or recall.\nConsumers can find out more information about products that have been recalled and access advice here: Asbestos in consumer products - GOV.UK\nBusinesses can read the advisory note on Assuring the absence of asbestos in sand-containing toys.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "businesses should take immediate action to protect consumers, including product withdrawal or"
+    ],
+    [
+     "del",
+     "recall where necessary."
+    ],
+    [
+     "ins",
+     "recall."
+    ],
+    [
+     "eq",
+     "Consumers can find out more information about products that have been recalled"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0159,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9981,
+ "adjudicated_by": "rules"
+}

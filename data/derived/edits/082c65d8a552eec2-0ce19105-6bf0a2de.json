@@ -1,0 +1,49 @@
+{
+ "id": "082c65d8a552eec2-0ce19105-6bf0a2de",
+ "url": "https://www.france24.com/en/tv-shows/sports/20260720-spain-beat-argentina-to-win-world-cup-for-second-time",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "lang": "en",
+ "detected_at": "2026-07-21T08:41:33Z",
+ "date": "2026-07-21",
+ "old_title": "Sports - Spain beat Argentina to win World Cup for second time",
+ "new_title": "Sports - Spain beat Argentina to win World Cup for second time",
+ "old_text": "Spain beat Argentina to win World Cup for second time\nIssued on:\nSpain beat Argentina 1-0 after extra time in the World Cup final. The Spanish have been crowned champions for the second time in their history. Ferran Torres scored the only goal of the match.\nAlso in the news:\nJonas Vingegaard withdrew from the Tour de France while Remco Evenepoel won the 15th stage.\nStefanos Tsitsipas won the ATP 250 in Gstaad - his first title in 16 months!\nKimi Antonelli won the Belgian Grand Prix ahead of Charles Leclerc and Max Verstappen.",
+ "new_text": "Spain beat Argentina to win World Cup for second time\nIssued on:\nSpain beat Argentina 1-0 after extra time in the World Cup final. The Spanish have been crowned champions for the second time in their history. Ferran Torres scored the only goal of the match.\nAlso in Sports:\nJonas Vingegaard withdrew from the Tour de France while Remco Evenepoel won the 15th stage.\nStefanos Tsitsipas won the ATP 250 in Gstaad - his first title in 16 months!\nKimi Antonelli won the Belgian Grand Prix ahead of Charles Leclerc and Max Verstappen.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "history. Ferran Torres scored the only goal of the match. Also in"
+    ],
+    [
+     "del",
+     "the news:"
+    ],
+    [
+     "ins",
+     "Sports:"
+    ],
+    [
+     "eq",
+     "Jonas Vingegaard withdrew from the Tour de France while Remco Evenepoel won"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0319,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9991,
+ "adjudicated_by": "rules"
+}

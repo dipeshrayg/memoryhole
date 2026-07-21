@@ -1,0 +1,52 @@
+An ordinary laptop solved a problem thought to require a quantum computer
+A personal laptop helped solve a quantum physics problem once claimed to be beyond the reach of classical computers.
+- Date:
+- July 20, 2026
+- Source:
+- Simons Foundation
+- Summary:
+- A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by hundreds of entangled qubits, allowing some calculations to run on a laptop. Their results matched both theoretical predictions and simulations performed with a quantum computer. The method could open new paths for exploring quantum dynamics and materials.
+- Share:
+Physicists have used an ordinary computer, advanced mathematics, and specialized software to solve a difficult quantum physics problem that had been described as beyond the reach of classical machines.
+The work was carried out by researchers at the Center for Computational Quantum Physics (CCQ) at the Simons Foundation's Flatiron Institute, together with collaborators at Boston University. Their method proved efficient enough for some of the calculations to run on a personal laptop.
+By extracting more computing power from conventional hardware, the approach could expand the range of quantum dynamics problems scientists can study. It may also offer a useful strategy for optimization problems in which researchers must identify the best answer among many possible solutions.
+The findings were published in the journal Science.
+Simulating Hundreds of Interacting Qubits
+The challenge involved modeling hundreds of interacting 'qubits,' the quantum counterparts of the bits used by traditional computers. The qubits were arranged in square, cubic, or diamond shaped lattices.
+A conventional bit stores either a 0 or a 1. A qubit, however, can exist in a superposition of multiple states. This feature gives quantum systems their unusual capabilities, but it also makes their behavior extremely difficult to reproduce on a classical computer.
+In a March 2025 article, also published in Science, another research team reported using a quantum computer to calculate the dynamics of an especially complex qubit system. That team argued that a classical computer could not match the achievement.
+"Whenever we [at the CCQ] see these kinds of claims, we're always a bit skeptical," says Joseph Tindall, an associate research scientist at the CCQ and first author on the new Science paper. "Like, 'Did you try this? Did you try that?'"
+For the CCQ researchers, the claim offered a compelling way to test the limits of their own techniques.
+The problem served as an opportunity to take their tools "out for a test drive," says study co-author and CCQ research scientist Miles Stoudenmire. "We could have picked some more arbitrary target," Stoudenmire says. "But it was like 'Why not pick this one that has a big claim attached to it?'"
+The Challenge of Quantum Entanglement
+One of the greatest obstacles was quantum entanglement. When qubits become entangled, their properties remain connected, even when the qubits are separated by large distances. As a result, researchers cannot model each qubit independently.
+Instead, sophisticated algorithms are needed to describe the entire system.
+"When you have lots of particles that interact by quantum physics, you have this wave function that describes the state of the system," Tindall says. "It's this huge object that rapidly gets bigger and bigger the more particles there are."
+The wave function contains the information needed to describe the quantum system, but its size increases exponentially as more particles are added.
+As the wave function's size grows exponentially, "I just can't directly store it on my computer," he says. Working with such enormous wave functions is a recurring problem in quantum physics. Yet these calculations are essential for predicting the behavior of quantum materials, including superconductors.
+Compressing a Vast Quantum System
+The researchers overcame this barrier by developing and applying new tools based on tensor networks. These mathematical structures compress the information contained in a wave function so that it can be handled more efficiently.
+Tindall compares the approach to "a zip file for the wave function where you've taken all this information, and you've compressed it into this mathematical data structure full of these small tables of numbers that are interconnected to each other."
+That compression made the simulation manageable on classical computers. Tindall completed many of the first calculations on a laptop using ITensor, a high-performance tensor network software library created at the CCQ.
+The new simulations also demonstrate how the ITensor team is adapting tensor techniques for new types of problems. In this case, the researchers modeled three-dimensional quantum dynamics with a 3D tensor network.
+"It's this very powerful compression that can be very effective, but it's a pretty complex mathematical object," Tindall says. "This really is a bit of a frontier, because working with these objects -- especially in three dimensions -- is very untrodden. You need sophisticated codes and algorithms to deal with them; it's a software engineering challenge in itself."
+An Older Algorithm Finds a New Use
+Many of the simulations required only relatively modest computing resources. For the early calculations, Tindall used belief propagation, an algorithm developed in the 1980s that researchers have recently adapted for quantum systems.
+"It's a little more approximate than some of the other methods, but it's way cheaper, and we can run it much more directly on lots of harder problems," Stoudenmire says.
+He contrasts that with "more sophisticated methods in the past of our field" that "wouldn't be able to even start going for some of these three-dimensional problems, because they're so big."
+Although the hardware was modest, the results reached state-of-the-art levels of accuracy. The simulations produced solutions that aligned with theoretical predictions and performed well on smaller problems where the correct answers could be checked.
+Most importantly, the results agreed with those previously obtained using a quantum computer. The difference was that the new calculations did not require quantum hardware.
+Classical and Quantum Computing Can Work Together
+The findings add to the debate over where classical computing ends and quantum advantage begins. However, Tindall and Stoudenmire emphasize that the two fields are not simply competing with each other.
+Classical simulations can help researchers understand what quantum computers are capable of doing, while progress in quantum hardware can inspire new classical methods.
+"The good side of the classical versus quantum computing debate is that there's a lot of synergy between the kind of simulations we're interested in and the codes we write and what can be realized on these quantum computers," Tindall says. "That can help guide us, and it can also help guide quantum computing researchers, because, obviously, the barrier for entry for us to simulate certain things is a lot easier than for them, because we don't have to build a quantum computer. I can just write some code and press 'run' on my personal computer."
+The Next Quantum Simulation Challenge
+The researchers are now developing methods that go beyond systems made only of qubits. Their next goal is to model electrons that can move between different sites.
+These systems are significantly more difficult to simulate, but they are also directly relevant to understanding real quantum materials.
+"They're really, quantitatively, a lot harder problems," Stoudenmire says. "So that's one of our next big bars that we want to clear."
+Story Source:
+Materials provided by Simons Foundation. Note: Content may be edited for style and length.
+Journal References:
+- Joseph Tindall, Antonio Francesco Mello, Matthew Fishman, E. Miles Stoudenmire, Dries Sels. Dynamics of disordered quantum systems with two- and three-dimensional tensor networks. Science, 2026; 392 (6800): 868 DOI: 10.1126/science.adx2728
+- Andrew D. King, Alberto Nocera, Marek M. Rams, Jacek Dziarmaga, Roeland Wiersema, William Bernoudy, Jack Raymond, Nitin Kaushal, Niclas Heinsdorf, Richard Harris, Kelly Boothby, Fabio Altomare, Mohsen Asad, Andrew J. Berkley, Martin Boschnak, Kevin Chern, Holly Christiani, Samantha Cibere, Jake Connor, Martin H. Dehn, Rahul Deshpande, Sara Ejtemaee, Pau Farre, Kelsey Hamer, Emile Hoskinson, Shuiyuan Huang, Mark W. Johnson, Samuel Kortas, Eric Ladizinsky, Trevor Lanting, Tony Lai, Ryan Li, Allison J. R. MacDonald, Gaelen Marsden, Catherine C. McGeoch, Reza Molavi, Travis Oh, Richard Neufeld, Mana Norouzpour, Joel Pasvolsky, Patrick Poitras, Gabriel Poulin-Lamarre, Thomas Prescott, Mauricio Reis, Chris Rich, Mohammad Samani, Benjamin Sheldan, Anatoly Smirnov, Edward Sterpka, Berta Trullas Clavera, Nicholas Tsai, Mark Volkmann, Alexander M. Whiticar, Jed D. Whittaker, Warren Wilkinson, Jason Yao, T. J. Yi, Anders W. Sandvik, Gonzalo Alvarez, Roger G. Melko, Juan Carrasquilla, Marcel Franz, Mohammad H. Amin. Beyond-classical computation in quantum simulation. Science, 2025; 388 (6743): 199 DOI: 10.1126/science.ado6285
+Cite This Page:
