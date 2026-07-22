@@ -1,0 +1,69 @@
+{
+ "id": "81a08b6fce9bad09-3f3c1807-0a319719",
+ "url": "https://www.france24.com/en/tv-shows/sports/20260721-world-cup-2026-spain-return-to-madrid-in-triumph",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "lang": "en",
+ "detected_at": "2026-07-22T08:41:02Z",
+ "date": "2026-07-22",
+ "old_title": "Sports - World Cup 2026 : Spain return to Madrid in triumph",
+ "new_title": "Sports - World Cup 2026: Spain return to Madrid in triumph",
+ "old_text": "World Cup 2026 : Spain return to Madrid in triumph\nIssued on:\nSpain reunited with their supporters in Madrid less than 24 hours after winning the World Cup final against Argentina (1-0, after extra time). The players of La Roja, alongside head coach Luis de la Fuente, presented the trophy upon their arrival at the airport before taking part in celebrations across the capital. More than 1 million people attended the parade, which ended with a major concert at Cibeles Square.\nLionel Messi has spoken after Argentina's defeat in the final, describing his feelings as immense pain and admitting the loss would leave a deep mark.\nIn the FIFA rankings, Spain have returned to first place ahead of Argentina. France remain third despite their defeat against England in the third-place match (6-4).\nRudi Garcia will leave his position as Belgium manager despite guiding the team to the World Cup quarter-finals.\nThe football world has also paid tribute to Kevin Keegan, who has died at the age of 75.\nIn cycling, Jonas Vingegaard will undergo collarbone surgery after his crash on the Tour de France. Stage 16 features a 26.1-kilometre individual time trial this Tuesday.\nIn tennis, Océane Dodin claimed her first victory on the WTA Tour in two years at the Prague tournament, while Mayar Sherif won the Iași tournament after Paula Badosa retired in the final.",
+ "new_text": "World Cup 2026: Spain return to Madrid in triumph\nIssued on:\nSpain reunited with their supporters in Madrid less than 24 hours after winning the World Cup final against Argentina (1-0, after extra time). The players of La Roja, alongside head coach Luis de la Fuente, displayed the trophy upon their arrival at the airport before taking part in celebrations across the capital. More than 1 million people attended the parade, which ended with a major concert at Cibeles Square.\nLionel Messi has spoken after Argentina's defeat in the final, describing his feelings as immense pain and admitting the loss would leave a deep mark.\nIn the FIFA rankings, Spain have returned to first place ahead of Argentina. France remain third despite their defeat against England in the third-place match (6-4).\nRudi Garcia will leave his position as Belgium manager despite guiding the team to the World Cup quarter-finals.\nThe football world has also paid tribute to Kevin Keegan, who has died at the age of 75.\nIn cycling, Jonas Vingegaard will undergo collarbone surgery after his crash on the Tour de France. Stage 16 features a 26.1-kilometre individual time trial this Tuesday.\nIn tennis, Océane Dodin claimed her first victory on the WTA Tour in two years at the Prague tournament, while Mayar Sherif won the Iași tournament after Paula Badosa retired in the final.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "World Cup"
+    ],
+    [
+     "del",
+     "2026 :"
+    ],
+    [
+     "ins",
+     "2026:"
+    ],
+    [
+     "eq",
+     "Spain return to Madrid in triumph Issued on: Spain reunited with their"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "The players of La Roja, alongside head coach Luis de la Fuente,"
+    ],
+    [
+     "del",
+     "presented"
+    ],
+    [
+     "ins",
+     "displayed"
+    ],
+    [
+     "eq",
+     "the trophy upon their arrival at the airport before taking part in"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.022,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9998,
+ "adjudicated_by": "rules"
+}

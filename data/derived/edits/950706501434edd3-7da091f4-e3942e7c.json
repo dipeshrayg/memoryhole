@@ -1,0 +1,28 @@
+{
+ "id": "950706501434edd3-7da091f4-e3942e7c",
+ "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "lang": "en",
+ "detected_at": "2026-07-22T08:39:04Z",
+ "date": "2026-07-22",
+ "old_title": "Five Palestinians die in fire after Israeli attack in Gaza",
+ "new_title": "Five Palestinians killed in fire after Israeli attack in Gaza",
+ "old_text": "Five Palestinians die in fire after Israeli attack in Gaza\nAn Israeli air attack on an apartment in Gaza City's Sabra neighbourhood set the building on fire, killing five people, including three children who couldn't be saved from the flames. Israel's near-daily bombing of Gaza is in violation of the October 2025 ceasefire.",
+ "new_text": "Five Palestinians die in fire after Israeli attack in Gaza\nAn Israeli air attack on an apartment in Gaza City's Sabra neighbourhood set the building on fire, killing five people, including three children who couldn't be saved from the flames. Israel's near-daily bombing of Gaza is in violation of the October 2025 ceasefire.",
+ "hunks": [],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

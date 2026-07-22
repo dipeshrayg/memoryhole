@@ -1,0 +1,93 @@
+{
+ "id": "da3c531dc2624abd-b4fb7945-cbf10455",
+ "url": "https://www.independent.co.uk/news/world/europe/acropolis-stabbing-athens-greece-latest-b3018584.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "lang": "en",
+ "detected_at": "2026-07-22T08:44:03Z",
+ "date": "2026-07-22",
+ "old_title": "Acropolis stabbing: Two tourists attacked at Greece's busiest attraction",
+ "new_title": "Acropolis stabbing: Two tourists attacked at Greece's busiest attraction",
+ "old_text": "Two tourists have been stabbed near the ancient Acropolis in Athens, Greece's top tourist attraction.\nThe incident happened on Tuesday morning.\nA man and a woman were attacked, both Greek Americans, near the entrance of the Acropolis Museum, which lies at the foot of the Acropolis hill. The area hosts the nearly 2,500-year-old Parthenon temple as well as other monuments, and attracts millions of tourists. Last year, about 4.6 million people visited the site.\nThe woman suffered light injuries to the leg, while the man was more seriously hurt with wounds to the arm, police said.\nOne person was detained, police said, while the two victims were transported to hospital by ambulance.\nThe identity of the attacker was not immediately clear, but police said he appeared to have been suffering from psychological problems.\nThe attack did not lead to any closure to the sites, which continued operating as usual. Greek media reported that the assailant had allegedly been randomly threatening passers-by with a knife, and that police had been alerted by a member of the public.\nThe Acropolis opens at 8am with tourists waiting in line for a chance to see the ancient monument.\nViolent street attacks are rare in Greece. In April, authorities arrested an 89-year-old man who allegedly opened fire with a shotgun in a social security office and a courthouse in central Athens, wounding at least four people, reportedly over social security grievances.",
+ "new_text": "Two tourists were stabbed near the ancient Acropolis in Athens, Greece's top tourist attraction, on Tuesday morning.\nThe man and a woman, both Greek Americans, were attacked near the entrance of the Acropolis Museum, which lies at the foot of the Acropolis hill.\nThe area hosts the nearly 2,500-year-old Parthenon temple as well as other monuments, and attracts millions of tourists. Last year, about 4.6 million people visited the site.\nThe woman suffered light injuries to the leg, while the man was more seriously hurt with wounds to the arm, police said.\nOne person was detained, police said, while the two victims were transported to hospital by ambulance.\nThe identity of the attacker was not immediately clear, but police said he appeared to have been suffering from psychological problems.\nThe attack did not lead to any closure to the sites, which continued operating as usual. Greek media reported that the assailant had allegedly been randomly threatening passers-by with a knife, and that police had been alerted by a member of the public.\nThe Acropolis opens at 8am with tourists waiting in line for a chance to see the ancient monument.\nViolent street attacks are rare in Greece. In April, authorities arrested an 89-year-old man who allegedly opened fire with a shotgun in a social security office and a courthouse in central Athens, wounding at least four people, reportedly over social security grievances.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Two tourists"
+    ],
+    [
+     "del",
+     "have been"
+    ],
+    [
+     "ins",
+     "were"
+    ],
+    [
+     "eq",
+     "stabbed near the ancient Acropolis in Athens, Greece's top tourist"
+    ],
+    [
+     "del",
+     "attraction. The incident happened"
+    ],
+    [
+     "ins",
+     "attraction,"
+    ],
+    [
+     "eq",
+     "on Tuesday morning."
+    ],
+    [
+     "del",
+     "A"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "man and a"
+    ],
+    [
+     "del",
+     "woman were attacked,"
+    ],
+    [
+     "ins",
+     "woman,"
+    ],
+    [
+     "eq",
+     "both Greek Americans,"
+    ],
+    [
+     "ins",
+     "were attacked"
+    ],
+    [
+     "eq",
+     "near the entrance of the Acropolis Museum, which lies at the foot"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0678,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.992,
+ "adjudicated_by": "rules"
+}

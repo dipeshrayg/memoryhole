@@ -1,0 +1,173 @@
+{
+ "id": "8b90b2901ffcddb5-cf6cf810-f65d044e",
+ "url": "https://www.npr.org/2026/07/20/nx-s1-5901356/fda-focused-taylor-farms-lettuce-cyclospora-source-despite-retracted-test",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "lang": "en",
+ "detected_at": "2026-07-22T08:38:03Z",
+ "date": "2026-07-22",
+ "old_title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
+ "new_title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
+ "old_text": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test\nThe source of the Cyclospora illness outbreak remains unknown, after the Food and Drug Administration announced Sunday that a previous test identifying the parasite in a sample of lettuce from Taylor Farms de Mexico was not actually contaminated with Cyclospora.\nThe agency reviewed the results and said in a statement it \"concluded that the finding does not represent true amplification and should be considered a false positive.\"\nOn social media, however, the FDA clarified that \"this false-positive lab sample DOES NOT change the basis for FDA's ongoing outbreak investigation or the overwhelming epidemiological data supporting the current voluntary recall by Taylor Farms.\"\nThe FDA's recommendation is still not to eat iceberg lettuce grown or processed by Taylor Farms in Mexico. The products were sold at Taco Bells in five states: Indiana, Kentucky, Michigan, Ohio and West Virginia, and Taco Bell has said they are no longer using that lettuce. Iceberg lettuce products were also distributed in 27 states and Walmart stores in 15 states. Health officials recommend discarding any recalled iceberg lettuce distributed by Taylor Fresh Foods.\nThat recommendation is based on interviews done with sick people, many of whom had eaten at Taco Bell that included the lettuce.\nThe FDA is continuing to test lettuce samples, and says it's also testing produce at the southern border to check for Cyclospora. But so far none of this has turned up any positives.\nThere are now over 1,600 confirmed cases of diarrhea caused by this water and food-borne parasite and a growing number of suspected cases in the thousands. Ninety-four people have been hospitalized. There have been no deaths reported.\nTaylor Farms said in a statement that the FDA apologized emphasizing that \"FDA has not identified a single positive product test result for Cyclospora.\" On July 17, the company did voluntarily recall all iceberg lettuce grown and processed in central Mexico and on Monday clarified that they are, \"no longer sourcing iceberg lettuce grown in central Mexico for the remainder of the growing season\" and are working closely with public health officials.\nThe parasite causes diarrhea, fatigue and nausea. To reduce the likelihood of infection from the parasite, health officials recommend cooking produce to 158 F. Washing produce thoroughly with water can help reduce the risk of cyclosporiasis.\nBut some experts note that while cyclosporiasis cases are on track to break records this year, it is common to see several cases every summer.\nIdentifying the source quickly certainly would help contain an outbreak - and perhaps save people from getting sick weeks down the line. But Donald Schaffner, a microbiologist at Rutgers University, says these are often separate and unrelated clusters.\n\"Just because you're sick with Cyclospora right now doesn't mean that you're part of this cluster of cases that have an epicenter in Michigan and Ohio,\" he says. Every summer since the 1990s there have been several cyclosporasis outbreaks, though none as significant in size as this one. There are many potential sources of Cyclospora, and they don't necessarily share a common source, he says. \"Sometimes we can figure out what's causing it, and sometimes we can't.\"\nSo that's why we're in limbo, he says.\nHe also points out that sometimes people are exposed to the parasite from other ways besides food. The parasite could be in water that you drink or swim in, or water that may have been used on a batch of lettuce.",
+ "new_text": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test\nThe source of the Cyclospora illness outbreak remains unknown, after the Food and Drug Administration announced Sunday that a previous test identifying the parasite in a sample of lettuce from Taylor Farms de Mexico was not actually contaminated with Cyclospora.\nThe agency reviewed the results and said in a statement it \"concluded that the finding does not represent true amplification and should be considered a false positive.\"\nOn social media, however, the FDA clarified that \"this false-positive lab sample DOES NOT change the basis for FDA's ongoing outbreak investigation or the overwhelming epidemiological data supporting the current voluntary recall by Taylor Farms.\"\nThe FDA's recommendation is still not to eat iceberg lettuce grown or processed by Taylor Farms in Mexico. The products were sold at Taco Bells in five states: Indiana, Kentucky, Michigan, Ohio and West Virginia, and Taco Bell has said it is no longer using that lettuce. Iceberg lettuce products were also distributed in 27 states and Walmart stores in 15 states. Health officials recommend discarding any recalled iceberg lettuce distributed by Taylor Fresh Foods.\nThat recommendation is based on interviews done with sick people, many of whom had eaten at Taco Bell that included the lettuce.\nThe FDA is continuing to test lettuce samples and says it's also testing produce at the southern border to check for Cyclospora. But so far none of this has turned up any positives.\nThere are now over 1,600 confirmed cases of diarrhea caused by this water- and foodborne parasite and a growing number of suspected cases in the thousands. Ninety-four people have been hospitalized. There have been no deaths reported.\nTaylor Farms said in a statement that the FDA apologized, emphasizing that \"FDA has not identified a single positive product test result for Cyclospora.\" On July 17, the company did voluntarily recall all iceberg lettuce grown and processed in central Mexico and on Monday clarified that it is \"no longer sourcing iceberg lettuce grown in central Mexico for the remainder of the growing season\" and is working closely with public health officials.\nThe parasite causes diarrhea, fatigue and nausea. To reduce the likelihood of infection from the parasite, health officials recommend cooking produce to 158 F. Washing produce thoroughly with water can help reduce the risk of cyclosporiasis.\nBut some experts note that while cyclosporiasis cases are on track to break records this year, it is common to see several cases every summer.\nIdentifying the source quickly certainly would help contain an outbreak - and perhaps save people from getting sick weeks down the line. But Donald Schaffner, a microbiologist at Rutgers University, says these are often separate and unrelated clusters.\n\"Just because you're sick with Cyclospora right now doesn't mean that you're part of this cluster of cases that have an epicenter in Michigan and Ohio,\" he says. Every summer since the 1990s there have been several cyclosporiasis outbreaks, though none as significant in size as this one. There are many potential sources of Cyclospora, and they don't necessarily share a common source, he says. \"Sometimes we can figure out what's causing it, and sometimes we can't.\"\nSo that's why we're in limbo, he says.\nHe also points out that sometimes people are exposed to the parasite from other ways besides food. The parasite could be in water that you drink or swim in, or water that may have been used on a batch of lettuce.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Indiana, Kentucky, Michigan, Ohio and West Virginia, and Taco Bell has said"
+    ],
+    [
+     "del",
+     "they are"
+    ],
+    [
+     "ins",
+     "it is"
+    ],
+    [
+     "eq",
+     "no longer using that lettuce. Iceberg lettuce products were also distributed in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Bell that included the lettuce. The FDA is continuing to test lettuce"
+    ],
+    [
+     "del",
+     "samples,"
+    ],
+    [
+     "ins",
+     "samples"
+    ],
+    [
+     "eq",
+     "and says it's also testing produce at the southern border to check"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "There are now over 1,600 confirmed cases of diarrhea caused by this"
+    ],
+    [
+     "del",
+     "water"
+    ],
+    [
+     "ins",
+     "water-"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "food-borne"
+    ],
+    [
+     "ins",
+     "foodborne"
+    ],
+    [
+     "eq",
+     "parasite and a growing number of suspected cases in the thousands. Ninety-four"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "no deaths reported. Taylor Farms said in a statement that the FDA"
+    ],
+    [
+     "del",
+     "apologized"
+    ],
+    [
+     "ins",
+     "apologized,"
+    ],
+    [
+     "eq",
+     "emphasizing that \"FDA has not identified a single positive product test result"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "lettuce grown and processed in central Mexico and on Monday clarified that"
+    ],
+    [
+     "del",
+     "they are,"
+    ],
+    [
+     "ins",
+     "it is"
+    ],
+    [
+     "eq",
+     "\"no longer sourcing iceberg lettuce grown in central Mexico for the remainder of the growing season\" and"
+    ],
+    [
+     "del",
+     "are"
+    ],
+    [
+     "ins",
+     "is"
+    ],
+    [
+     "eq",
+     "working closely with public health officials. The parasite causes diarrhea, fatigue and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Ohio,\" he says. Every summer since the 1990s there have been several"
+    ],
+    [
+     "del",
+     "cyclosporasis"
+    ],
+    [
+     "ins",
+     "cyclosporiasis"
+    ],
+    [
+     "eq",
+     "outbreaks, though none as significant in size as this one. There are"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0345,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9998,
+ "adjudicated_by": "rules"
+}

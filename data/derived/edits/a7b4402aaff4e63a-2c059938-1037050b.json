@@ -1,0 +1,109 @@
+{
+ "id": "a7b4402aaff4e63a-2c059938-1037050b",
+ "url": "https://www.france24.com/en/middle-east/20260721-live-lebanon-s-aoun-to-meet-trump-as-pressure-builds-to-disarm-hezbollah",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "lang": "en",
+ "detected_at": "2026-07-22T08:40:58Z",
+ "date": "2026-07-22",
+ "old_title": "Live: Iran Revolutionary Guards say they hit US radar and air defence systems in Bahrain and Kuwait",
+ "new_title": "Lebanon's army accuses Israel of firing near troops in 'pilot zone'",
+ "old_text": "Live: Iran Revolutionary Guards say they hit US radar and air defence systems in Bahrain and Kuwait\nIran's Revolutionary Guards said on Tuesday they hit US military targets including air defence systems and a radar installation in Bahrain and Kuwait, state news agency IRNA reported. The US earlier said it had struck Iranian military command centres overnight. Follow our liveblog for the latest developments.\n- The Saudi-led coalition in Yemen said it will respond to Houthis threats to ships with \"force\" after the Iran-aligned group declared a naval blockade on the kingdom.\n- US President Donald Trump said that Israeli Prime Minister Benjamin Netanyahu will not be arrested when he visits the US, after New York City Mayor Zohran Mamdani said he was still considering the move.\n- President Donald Trump said Iran will pay \"many times over\" for killing US soldiers after multiple American service members were killed in action over the weekend.\n(FRANCE 24 with Reuters, AP and AFP)",
+ "new_text": "Lebanon's army accuses Israel of firing near troops in 'pilot zone'\nLebanon's military said Tuesday that Israeli troops fired near its soldiers deploying in a so-called \"pilot zone\" that Israel is to withdraw from under a US-backed agreement, with Israel saying it only fired \"warning shots\". Meanwhile, Kuwait accused Iran of strikes against power plants and desalination plants, deploring significant damage. Follow our liveblog to see how the day's events unfolded.\nThis liveblog is no longer being updated.\n- The Saudi-led coalition in Yemen said it will respond to Houthis threats to ships with \"force\" after the Iran-aligned group declared a naval blockade on the kingdom.\n- US President Donald Trump said that Israeli Prime Minister Benjamin Netanyahu will not be arrested when he visits the US, after New York City Mayor Zohran Mamdani said he was still considering the move.\n- Trump said Iran will pay \"many times over\" for killing US soldiers after multiple American service members were killed in action over the weekend.\n(FRANCE 24 with Reuters, AP and AFP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Live:"
+    ],
+    [
+     "ins",
+     "Lebanon's army accuses Israel of firing near troops in 'pilot zone' Lebanon's military said Tuesday that Israeli troops fired near its soldiers deploying in a so-called \"pilot zone\" that Israel is to withdraw from under a US-backed agreement, with Israel saying it only fired \"warning shots\". Meanwhile, Kuwait accused"
+    ],
+    [
+     "eq",
+     "Iran"
+    ],
+    [
+     "del",
+     "Revolutionary Guards say they hit US radar"
+    ],
+    [
+     "ins",
+     "of strikes against power plants"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "air defence systems in Bahrain and Kuwait Iran's Revolutionary Guards said on Tuesday they hit US military targets including air defence systems and a radar installation in Bahrain and Kuwait, state news agency IRNA reported. The US earlier said it had struck Iranian military command centres overnight."
+    ],
+    [
+     "ins",
+     "desalination plants, deploring significant damage."
+    ],
+    [
+     "eq",
+     "Follow our liveblog"
+    ],
+    [
+     "del",
+     "for"
+    ],
+    [
+     "ins",
+     "to see how"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "latest developments."
+    ],
+    [
+     "ins",
+     "day's events unfolded. This liveblog is no longer being updated."
+    ],
+    [
+     "eq",
+     "- The Saudi-led coalition in Yemen said it will respond to Houthis"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "City Mayor Zohran Mamdani said he was still considering the move. -"
+    ],
+    [
+     "del",
+     "President Donald"
+    ],
+    [
+     "eq",
+     "Trump said Iran will pay \"many times over\" for killing US soldiers"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.8199,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.406,
+ "similarity": 0.8356,
+ "adjudicated_by": "rules"
+}

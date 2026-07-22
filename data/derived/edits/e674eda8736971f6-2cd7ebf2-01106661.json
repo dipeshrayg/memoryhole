@@ -1,0 +1,177 @@
+{
+ "id": "e674eda8736971f6-2cd7ebf2-01106661",
+ "url": "https://www.bbc.co.uk/news/articles/cq89q0yyqz4o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "lang": "en",
+ "detected_at": "2026-07-22T08:37:02Z",
+ "date": "2026-07-22",
+ "old_title": "Man, 28 due in court for murder of Ann Widdecombe",
+ "new_title": "Cause of Ann Widdecombe's death not yet established, inquest hears",
+ "old_text": "- Published\nA 28-year-old man is due in court charged with the murder Ann Widdecombe.\nJoshua Kerry, from Rotherham in South Yorkshire, is set to appear at Westminister Magistrates' Court.\nKerry was first arrested on suspicion of murder two days after former Conservative minister and Reform UK spokeswoman, Widdecombe, 78, was found with serious injuries at her home in Haytor, Devon on Thursday 9 July.\nHe was later re-arrested on suspicion of the commission, preparation or instigation of acts of terrorism.\nIn a statement read outside New Scotland Yard, Laurence Taylor, head of UK Counter Terrorism Policing said: \"I want to make it very clear that our investigation into [Kerry], determining his motivations and any wider activity he may have been involved in is continuing.\"\n\"As with all murder investigations, understanding the 'why' is a key part of our enquiries,\" he said, adding that it was \"a particularly intensive and complex investigation\".\nTaylor said it remained the case that investigators were not looking for anyone else in connection with the incident.\nHe added that counter terrorism teams have gathered \"a huge amount of information\" over the last week, leading to more than 800 lines of enquiry.\nThe investigation, which remains ongoing, has been led by Counter Terrorism Policing South East, supported by Devon and Cornwall Police.\nFrank Ferguson, of the Crown Prosecution Service's (CPS) special crime and counter terrorism division, said: \"Our prosecutors have worked closely with the police to establish that there is sufficient evidence to bring this case to court, and we will continue working with them as their investigation progresses.\"\n\"We remind all concerned that proceedings against the defendant are active and he has the right to a fair trial,\" Ferguson said.\n\"It is vital that there should be no reporting, commentary or sharing of information which could in anyway prejudice these proceedings.\"\nWiddecombe's career in politics spanned decades.\nShe served as Conservative MP for Maidstone in Kent for 23 years and was appointed to ministerial roles in Sir John Major's government in the 1990s.\nFollowing her departure from the Commons, Widdecombe appeared on the BBC's Strictly Come Dancing in 2010 and was a runner-up on Celebrity Big Brother eight years later.\nShe later represented South West England as a Member of the European Parliament (MEP) for the Brexit Party and in 2023 she joined Reform UK as a party spokeswoman.\nDays after Widdecombe's death, mourners gathered in Haytor Vale to remember the 78-year-old.\nReform UK leader Nigel Farage, who was among those paying their respects, described her as a \"remarkable individual\" and \"the fiercest defender of free speech\"\nConservative leader Kemi Badenoch described Widdecombe as a \"very fun and feisty woman\", adding her \"heart is breaking for [Widdecombe's] family\".\nAndy Burnham, who has since been appointed prime minister, sent his condolences to her family, saying: \"Ann gave a lifetime of public service.\"\nEd Davey, leader of the Liberal Democrats, said he was \"shocked and distressed\" by the news of Widdecombe's death, describing her as a \"woman of deep faith who devoted her life to public service\".",
+ "new_text": "- Published\nThe cause of Ann Widdecombe's death is yet to be established, the opening of an inquest into her death has heard.\nThe 78-year-old former MP and MEP was found dead at her home in Devon on 9 July with \"visible injuries\" Exeter Coroner's Court heard.\nSenior coroner Philip Spinney said a post-mortem examination had taken place and \"at this stage the precise medical cause of death has yet to be established\".\nJoshua Kerry, 28, from Rotherham in South Yorkshire, has arrived at Westminister Magistrates' Court where he is due to appear charged with her murder.\nSpinney, senior coroner for Devon, Plymouth and Torbay, said the inquest was now adjourned \"until the conclusion of the criminal proceedings\".\nWiddecombe was found unresponsive in her home by an employee who carried out a welfare check due to her being \"uncontactable\", the hearing heard.\nEmergency services were called, but she was pronounced dead at 12:20 BST on Thursday, 9 July.\nKerry was first arrested on suspicion of murder two days after former Conservative minister and Reform UK spokeswoman, Widdecombe, 78, was found with serious injuries at her home in Haytor, Devon.\nHe was later re-arrested on suspicion of the commission, preparation or instigation of acts of terrorism.\nThe investigation, which remains ongoing, has been led by Counter Terrorism Policing South East, supported by Devon and Cornwall Police.\nWiddecombe's career in politics spanned decades.\nShe served as Conservative MP for Maidstone in Kent for 23 years and was appointed to ministerial roles in Sir John Major's government in the 1990s.\nFollowing her departure from the Commons, Widdecombe appeared on the BBC's Strictly Come Dancing in 2010 and was a runner-up on Celebrity Big Brother eight years later.\nShe later represented South West England as a Member of the European Parliament (MEP) for the Brexit Party and in 2023 she joined Reform UK as a party spokeswoman.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "A 28-year-old man"
+    ],
+    [
+     "ins",
+     "The cause of Ann Widdecombe's death"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "del",
+     "due"
+    ],
+    [
+     "ins",
+     "yet to be established, the opening of an inquest into her death has heard. The 78-year-old former MP and MEP was found dead at her home"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "court charged"
+    ],
+    [
+     "ins",
+     "Devon on 9 July"
+    ],
+    [
+     "eq",
+     "with"
+    ],
+    [
+     "ins",
+     "\"visible injuries\" Exeter Coroner's Court heard. Senior coroner Philip Spinney said a post-mortem examination had taken place and \"at this stage"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "murder Ann Widdecombe."
+    ],
+    [
+     "ins",
+     "precise medical cause of death has yet to be established\"."
+    ],
+    [
+     "eq",
+     "Joshua Kerry,"
+    ],
+    [
+     "ins",
+     "28,"
+    ],
+    [
+     "eq",
+     "from Rotherham in South Yorkshire,"
+    ],
+    [
+     "del",
+     "is set to appear"
+    ],
+    [
+     "ins",
+     "has arrived"
+    ],
+    [
+     "eq",
+     "at Westminister Magistrates'"
+    ],
+    [
+     "del",
+     "Court."
+    ],
+    [
+     "ins",
+     "Court where he is due to appear charged with her murder. Spinney, senior coroner for Devon, Plymouth and Torbay, said the inquest was now adjourned \"until the conclusion of the criminal proceedings\". Widdecombe was found unresponsive in her home by an employee who carried out a welfare check due to her being \"uncontactable\", the hearing heard. Emergency services were called, but she was pronounced dead at 12:20 BST on Thursday, 9 July."
+    ],
+    [
+     "eq",
+     "Kerry was first arrested on suspicion of murder two days after former"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Widdecombe, 78, was found with serious injuries at her home in Haytor,"
+    ],
+    [
+     "del",
+     "Devon on Thursday 9 July."
+    ],
+    [
+     "ins",
+     "Devon."
+    ],
+    [
+     "eq",
+     "He was later re-arrested on suspicion of the commission, preparation or instigation of acts of terrorism."
+    ],
+    [
+     "del",
+     "In a statement read outside New Scotland Yard, Laurence Taylor, head of UK Counter Terrorism Policing said: \"I want to make it very clear that our investigation into [Kerry], determining his motivations and any wider activity he may have been involved in is continuing.\" \"As with all murder investigations, understanding the 'why' is a key part of our enquiries,\" he said, adding that it was \"a particularly intensive and complex investigation\". Taylor said it remained the case that investigators were not looking for anyone else in connection with the incident. He added that counter terrorism teams have gathered \"a huge amount of information\" over the last week, leading to more than 800 lines of enquiry."
+    ],
+    [
+     "eq",
+     "The investigation, which remains ongoing, has been led by Counter Terrorism Policing South East, supported by Devon and Cornwall Police."
+    ],
+    [
+     "del",
+     "Frank Ferguson, of the Crown Prosecution Service's (CPS) special crime and counter terrorism division, said: \"Our prosecutors have worked closely with the police to establish that there is sufficient evidence to bring this case to court, and we will continue working with them as their investigation progresses.\" \"We remind all concerned that proceedings against the defendant are active and he has the right to a fair trial,\" Ferguson said. \"It is vital that there should be no reporting, commentary or sharing of information which could in anyway prejudice these proceedings.\""
+    ],
+    [
+     "eq",
+     "Widdecombe's career in politics spanned decades. She served as Conservative MP for"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Party and in 2023 she joined Reform UK as a party spokeswoman."
+    ],
+    [
+     "del",
+     "Days after Widdecombe's death, mourners gathered in Haytor Vale to remember the 78-year-old. Reform UK leader Nigel Farage, who was among those paying their respects, described her as a \"remarkable individual\" and \"the fiercest defender of free speech\" Conservative leader Kemi Badenoch described Widdecombe as a \"very fun and feisty woman\", adding her \"heart is breaking for [Widdecombe's] family\". Andy Burnham, who has since been appointed prime minister, sent his condolences to her family, saying: \"Ann gave a lifetime of public service.\" Ed Davey, leader of the Liberal Democrats, said he was \"shocked and distressed\" by the news of Widdecombe's death, describing her as a \"woman of deep faith who devoted her life to public service\"."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.9471,
+  "numbers_changed": [
+   "12",
+   "20",
+   "800"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 14,
+  "blocks_added": 1,
+  "blocks_removed": 3,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.6,
+ "similarity": 0.7697,
+ "adjudicated_by": "rules"
+}
