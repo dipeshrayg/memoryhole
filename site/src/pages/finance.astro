@@ -1,0 +1,57 @@
+---
+import Base from '../layouts/Base.astro';
+import EditCard from '../components/EditCard.astro';
+import FilterBar from '../components/FilterBar.astro';
+import site from '../../../data/derived/site.json';
+
+const base = import.meta.env.BASE_URL.endsWith('/')
+  ? import.meta.env.BASE_URL
+  : import.meta.env.BASE_URL + '/';
+
+const financeSources = site.source_list.filter((s) => s.category === 'finance');
+const financeEdits = site.edits.filter((e) => e.category === 'finance');
+// Edits with a detected price/rate/percentage change lead the feed — everything
+// else (a rewritten headline on a markets story, say) still follows beneath.
+const movers = financeEdits.filter((e) => e.market_figures_changed.length > 0);
+const rest = financeEdits.filter((e) => e.market_figures_changed.length === 0);
+const ordered = [...movers, ...rest];
+
+const facets = {
+  countries: [...new Set(financeSources.map((s) => s.country))].sort(),
+  sources: [...new Set(financeSources.map((s) => s.name))].sort(),
+  severities: site.facets.severities,
+};
+const totalTracked = financeSources.reduce((n, s) => n + s.tracked, 0);
+---
+
+<Base
+  title="Finance — MemoryHole"
+  description="Silently edited market reporting: stock, rate, and commodity figures — gold, silver, and beyond — changed after publication."
+>
+  <div class="wrap">
+    <h1>Finance</h1>
+    <p class="lede">
+      Market reporting, rate decisions, and commodity coverage — including gold and silver —
+      from {financeSources.length} sources. A quietly revised price or percentage is exactly the
+      kind of edit that's easy to miss and expensive to have missed.
+    </p>
+
+    <div class="stat-grid">
+      <div class="stat-card"><div class="n">{financeEdits.length}</div><div class="l">Finance edits</div></div>
+      <div class="stat-card"><div class="n accent-factual">{movers.length}</div><div class="l">With a changed figure</div></div>
+      <div class="stat-card"><div class="n">{financeSources.length}</div><div class="l">Sources watched</div></div>
+      <div class="stat-card"><div class="n">{totalTracked}</div><div class="l">Pages tracked</div></div>
+    </div>
+
+    <FilterBar facets={facets} showCategory={false} />
+
+    {ordered.length === 0 ? (
+      <p>No finance edits detected yet — check back after the next daily run.</p>
+    ) : (
+      <div class="feed" data-feed>
+        {ordered.map((e) => <EditCard edit={e} base={base} />)}
+      </div>
+    )}
+  </div>
+</Base>
+<script is:inline src={`${base}filters.js`}></script>

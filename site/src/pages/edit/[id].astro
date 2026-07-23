@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import { categoryColor, categoryLabel } from '../../lib/taxonomy.js';
 
 export async function getStaticPaths() {
   const files = import.meta.glob('../../../../data/derived/edits/*.json', { eager: true });
@@ -10,61 +11,92 @@ export async function getStaticPaths() {
 }
 
 const { edit } = Astro.props;
+const base = import.meta.env.BASE_URL.endsWith('/')
+  ? import.meta.env.BASE_URL
+  : import.meta.env.BASE_URL + '/';
 const titleChanged = edit.old_title !== edit.new_title;
+const country = edit.country || 'Global';
+const category = edit.category || 'world';
+const figures = edit.signals.market_figures_changed || [];
 ---
 
-<Base title={`Edit — ${edit.new_title}`}>
-  <p><span class={`badge ${edit.severity}`}>{edit.severity}</span></p>
-  {titleChanged ? (
-    <h1><del>{edit.old_title}</del><br /><ins>{edit.new_title}</ins></h1>
-  ) : (
-    <h1>{edit.new_title}</h1>
-  )}
-  <p style="color: var(--muted); font-size: 0.9rem">
-    <a href={edit.url} rel="nofollow noopener">Read the live article at {edit.domain}</a> ·
-    {edit.source} · detected {edit.detected_at} · language {edit.lang}
-    {edit.similarity != null && <> · semantic similarity {edit.similarity}</>}
-    · classified by {edit.adjudicated_by}
-  </p>
+<Base
+  title={`Edit — ${edit.new_title}`}
+  description={`A ${edit.severity.toLowerCase()} edit detected on ${edit.source}: ${edit.summary || edit.new_title}`}
+>
+  <div class="wrap">
+    <a class="back-link" href={`${base}`}>&larr; Back to feed</a>
 
-  <div class="diff">
-    <div class="diff-head"><div>Before</div><div>After</div></div>
-    {edit.hunks.map((hunk) => (
-      <div class="hunk">
-        <div class="diff-cols">
-          <div>
-            <span class="ellipsis">… </span>
-            {hunk.ops.map(([tag, text]) =>
-              tag === 'ins' ? null : tag === 'del'
-                ? <span class="w-del">{text} </span>
-                : <span>{text} </span>
-            )}
-            <span class="ellipsis"> …</span>
-          </div>
-          <div>
-            <span class="ellipsis">… </span>
-            {hunk.ops.map(([tag, text]) =>
-              tag === 'del' ? null : tag === 'ins'
-                ? <span class="w-ins">{text} </span>
-                : <span>{text} </span>
-            )}
-            <span class="ellipsis"> …</span>
+    <div class="top-row" style="margin: 1rem 0 0.6rem;">
+      <span class={`badge ${edit.severity}`}>{edit.severity}</span>
+      <span class="cat-pill">
+        <span class="cat-dot" style={`background:${categoryColor(category)}`}></span>
+        {categoryLabel(category)}
+      </span>
+      <span class="tag">{country}</span>
+    </div>
+
+    {titleChanged ? (
+      <h1><del>{edit.old_title}</del><br /><ins>{edit.new_title}</ins></h1>
+    ) : (
+      <h1>{edit.new_title}</h1>
+    )}
+
+    <p class="byline">
+      <a href={edit.url} rel="nofollow noopener">Read the live article at {edit.domain} &#8599;</a> ·
+      {edit.source} · detected {edit.detected_at} · language {edit.lang}
+      {edit.similarity != null && <> · semantic similarity {edit.similarity}</>}
+      · classified by {edit.adjudicated_by}
+    </p>
+
+    {figures.length > 0 && (
+      <div class="figures" style="margin: 0.75rem 0 0;">
+        {figures.map((f) => <span class="figure-chip">{f}</span>)}
+      </div>
+    )}
+
+    <div class="diff">
+      <div class="diff-head"><div>Before</div><div>After</div></div>
+      {edit.hunks.map((hunk) => (
+        <div class="hunk">
+          <div class="diff-cols">
+            <div>
+              <span class="ellipsis">&hellip; </span>
+              {hunk.ops.map(([tag, text]) =>
+                tag === 'ins' ? null : tag === 'del'
+                  ? <span class="w-del">{text} </span>
+                  : <span>{text} </span>
+              )}
+              <span class="ellipsis"> &hellip;</span>
+            </div>
+            <div>
+              <span class="ellipsis">&hellip; </span>
+              {hunk.ops.map(([tag, text]) =>
+                tag === 'del' ? null : tag === 'ins'
+                  ? <span class="w-ins">{text} </span>
+                  : <span>{text} </span>
+              )}
+              <span class="ellipsis"> &hellip;</span>
+            </div>
           </div>
         </div>
-      </div>
-    ))}
-  </div>
+      ))}
+    </div>
 
-  <h2>Detected signals</h2>
-  <table>
-    <tbody>
-      <tr><td>Changed fraction of text</td><td class="num">{edit.signals.change_ratio}</td></tr>
-      <tr><td>Numbers changed</td><td class="num">{edit.signals.numbers_changed.join(', ') || '—'}</td></tr>
-      <tr><td>Named entities swapped</td><td class="num">{edit.signals.entities_swapped ? 'yes' : 'no'}</td></tr>
-      <tr><td>Quotes deleted</td><td class="num">{edit.signals.quotes_deleted}</td></tr>
-      <tr><td>Paragraph blocks added / removed</td>
-        <td class="num">{edit.signals.blocks_added} / {edit.signals.blocks_removed}</td></tr>
-      <tr><td>Headline changed</td><td class="num">{edit.signals.title_changed ? 'yes' : 'no'}</td></tr>
-    </tbody>
-  </table>
+    <h2>Detected signals</h2>
+    <div class="table-scroll">
+    <table>
+      <tbody>
+        <tr><td>Changed fraction of text</td><td class="num">{edit.signals.change_ratio}</td></tr>
+        <tr><td>Numbers changed</td><td class="num">{edit.signals.numbers_changed.join(', ') || '—'}</td></tr>
+        <tr><td>Market figures changed</td><td class="num">{figures.join(', ') || '—'}</td></tr>
+        <tr><td>Named entities swapped</td><td class="num">{edit.signals.entities_swapped ? 'yes' : 'no'}</td></tr>
+        <tr><td>Quotes deleted</td><td class="num">{edit.signals.quotes_deleted}</td></tr>
+        <tr><td>Paragraph blocks added / removed</td>
+          <td class="num">{edit.signals.blocks_added} / {edit.signals.blocks_removed}</td></tr>
+        <tr><td>Headline changed</td><td class="num">{edit.signals.title_changed ? 'yes' : 'no'}</td></tr>
+      </tbody>
+    </table>
+    </div>
+  </div>
 </Base>

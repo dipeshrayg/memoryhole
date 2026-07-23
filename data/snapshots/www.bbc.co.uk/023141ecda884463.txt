@@ -1,4 +1,3 @@
-- Published
 OpenAI has revealed some of its most advanced AI models went rogue and hacked a start-up after it lost control of them during a security test.
 The ChatGPT-maker said its agent - an AI system which can operate alone after human instruction â was being tested in a controlled environment but, after finding weaknesses, was able to escape the test limits.
 They targeted Hugging Face, one of the world's largest hubs for sharing AI models, gaining access to some internal company systems.
@@ -7,7 +6,7 @@ OpenAI said the incident was "unprecedented", external, and it was conducting an
 A government spokesperson said the UK's AI Security Institute was studying the behaviour from the AI system seen in the incident and was continuing to work with OpenAI and other labs to improve safeguards.
 They said organisations should step up their cyber-defences by taking steps such as enrolling in the government-backed Cyber Essentials certification scheme.
 Insecure sandboxes
-Gina Neff, head of the Minderoo Centre for Technology and Democracy at the University of Cambridge, told BBC Radio 4's Today programme that the security tests - called sandboxes - are "supposed to be secure environments where you can see what the models are capable of".
+Gina Neff, head of the Minderoo Centre for Technology and Democracy at the University of Cambridge, told BBC Radio 4's Today programme that the security tests are supposed to be within "secure environments", called sandboxes, where you can "see what the models are capable of".
 "In this case, it looks like OpenAI didn't make a secure enough sandbox," she added.
 Instead, the agents created their own cyber-attack against the sandbox itself, finding a vulnerability which allowed them to escape the restrictions.
 Once outside, the AI identified Hugging Face as a likely source of the answers they were seeking in the test, and tried to gain access.

@@ -1,0 +1,39 @@
+---
+import { categoryColor, categoryLabel } from '../lib/taxonomy.js';
+const { edit, base } = Astro.props;
+const titleChanged = edit.old_title !== edit.new_title;
+const searchBlob = `${edit.new_title} ${edit.old_title} ${edit.summary} ${edit.source} ${edit.domain}`
+  .toLowerCase();
+---
+
+<a
+  class="edit-card"
+  href={`${base}edit/${edit.id}/`}
+  data-severity={edit.severity}
+  data-category={edit.category}
+  data-country={edit.country}
+  data-source={edit.source}
+  data-detected={edit.detected_at}
+  data-score={edit.score}
+  data-search={searchBlob}
+>
+  <div class="top-row">
+    <span class={`badge ${edit.severity}`}>{edit.severity}</span>
+    <span class="cat-pill">
+      <span class="cat-dot" style={`background:${categoryColor(edit.category)}`}></span>
+      {categoryLabel(edit.category)}
+    </span>
+    <span class="tag">{edit.country}</span>
+  </div>
+  <span class="headline">{edit.new_title || edit.url}</span>
+  {titleChanged && (
+    <div class="was">was: <del>{edit.old_title}</del></div>
+  )}
+  {edit.summary && <div class="summary">{edit.summary}</div>}
+  {edit.market_figures_changed?.length > 0 && (
+    <div class="figures">
+      {edit.market_figures_changed.map((f) => <span class="figure-chip">{f}</span>)}
+    </div>
+  )}
+  <div class="meta">{edit.source} · {edit.domain} · {edit.date} · detected {edit.detected_at}</div>
+</a>

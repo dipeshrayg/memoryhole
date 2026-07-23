@@ -16,6 +16,13 @@ def test_normalize_kills_embed_consent_placeholders():
     assert normalize(text) == "Real reporting stays.\nMore real reporting."
 
 
+def test_normalize_kills_geo_block_placeholder():
+    text = ("Real reporting stays.\n"
+            "This content is not available in your location. There was an error.\n"
+            "More real reporting.")
+    assert normalize(text) == "Real reporting stays.\nMore real reporting."
+
+
 def test_normalize_caps_giant_pages():
     assert len(normalize("word " * 100_000)) == MAX_TEXT
 

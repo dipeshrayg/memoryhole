@@ -1,0 +1,87 @@
+{
+ "id": "35e089dea13c4817-3aa56024-d1da045a",
+ "url": "https://www.abc.net.au/news/2026-07-23/mihael-vrhovsek-jailed-for-rivervale-attempted-murder-/106949006",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-23T12:01:07Z",
+ "date": "2026-07-23",
+ "old_title": "Bystanders hailed as 'heroes' after stopping attempted murder on CCTV",
+ "new_title": "Bystanders praised for courage to stop attempted murder of woman",
+ "old_text": "WARNING: This story contains vision and details that may distress some readers.\nA man who \"doggedly\" tried to kill a woman outside a Perth apartment complex in a horrific attack captured on CCTV has been sentenced to 16 years in prison.\nMihael Vrhovsek, 29, was convicted of attempted murder for the attack in Rivervale in 2024.\nThe Supreme Court jury was shown a graphic video of Vrhovsek confronting the woman, which the ABC has published excerpts of.\nLoading...The 29-year-old grabbed the woman by the throat, lifted her off her feet and carried her, before dropping her limp body to the ground.\nA man then intervenes, confronting Vrhovsek, which allowed the woman who was walking her dogs an opportunity to drag the victim away.\nShe was able to walk on her own, but Vrhovsek - having broken free of the man who had confronted him - ran after her and again began to choke her.\nThe man who had intervened returned, punching and kicking Vrhovsek in a bid to get him to let go, before the woman walking her dogs was again able to drag the victim away.\n'Abusive, menacing and sinister'\nIn court today, Justice Alain Musikanth said Vrhovsek had used extreme violence, including continuing to strangle the woman once she had lost consciousness.\n\"Your actions involved deliberate and controlled choices ... you were doggedly determined to kill her,\" he said.\nJustice Musikanth praised the courage of the bystanders who were \"instrumental\" in saving the woman's life, describing them as \"heroes\".\nIn the days leading up to the attack, Vrhovsek called or texted her more than 230 times using multiple mobile phones, many of which Justice Musikanth said were \"abusive, menacing, and sinister\".\n\"I accept she was so affected by the avalanche of abusive communications from you she reported your action to police, saying she was scared you were going to kill her,\" he said.\nThe defence said Vrhovsek had a \"troubled upbringing\", and struggled against his \"demons\", which \"included self-medication\".\nThey said his conduct was serious but abhorrent, arguing he is not likely to reoffend, and that he had expressed \"visceral\" remorse when the CCTV footage of the incident was shown to the court.\nBut Justice Musikanth said he was unable to find Vrhovsek had any true empathy, or remorse for his victim.\nHe will become eligible for parole in 2038.",
+ "new_text": "Perth man Mihael Vrhovsek jailed for attempted murder of woman in Rivervale attack\nThu 23 Jul 2026 at 5:44pm\n, updatedThu 23 Jul 2026 at 9:50pm\nWARNING: This story contains vision and details that may distress some readers.\nA man who \"doggedly\" tried to kill a woman outside a Perth apartment complex in a horrific attack captured on CCTV has been sentenced to 16 years in prison.\nMihael Vrhovsek, 29, was convicted of attempted murder for the attack in Rivervale in 2024.\nThe Supreme Court jury was shown a graphic video of Vrhovsek confronting the woman, which the ABC has published excerpts of.\nLoading...The 29-year-old grabbed the woman by the throat, lifted her off her feet and carried her, before dropping her limp body to the ground.\nA man then intervenes, confronting Vrhovsek, which allowed the woman who was walking her dogs an opportunity to drag the victim away.\nShe was able to walk on her own, but Vrhovsek - having broken free of the man who had confronted him - ran after her and again began to choke her.\nThe man who had intervened returned, punching and kicking Vrhovsek in a bid to get him to let go, before the woman walking her dogs was again able to drag the victim away.\nThe court also released the victim's Triple Zero phone call earlier, where she could be heard screaming and repeatedly shouting \"get away from me\" during the attack.\nThe call lasted for more than eight minutes, and when asked by the operator if the Vrhovsek had weapons, the victim replied: \"Does he need to have weapons to be f***ing threatening?\"\nWhile the operator was asking her questions, she said: \"He's here ... send the goddamn police right now!\"\n'Abusive, menacing and sinister'\nIn court today, Justice Alain Musikanth said Vrhovsek had used extreme violence, including continuing to strangle the woman once she had lost consciousness.\n\"Your actions involved deliberate and controlled choices ... you were doggedly determined to kill her,\" he said.\nJustice Musikanth praised the courage of the bystanders who were \"instrumental\" in saving the woman's life, describing them as \"heroes\".\nIn the days leading up to the attack, Vrhovsek called or texted her more than 230 times using multiple mobile phones, many of which Justice Musikanth said were \"abusive, menacing, and sinister\".\n\"I accept she was so affected by the avalanche of abusive communications from you she reported your action to police, saying she was scared you were going to kill her,\" he said.\nThe defence said Vrhovsek had a \"troubled upbringing\", and struggled against his \"demons\", which \"included self-medication\".\nThey said his conduct was serious but aberrant, arguing he is not likely to reoffend, and that he had expressed \"visceral\" remorse when the CCTV footage of the incident was shown to the court.\nBut Justice Musikanth said he was unable to find Vrhovsek had any true empathy, or remorse for his victim.\nHe will become eligible for parole in 2038.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "Perth man Mihael Vrhovsek jailed for attempted murder of woman in Rivervale attack Thu 23 Jul 2026 at 5:44pm , updatedThu 23 Jul 2026 at 9:50pm"
+    ],
+    [
+     "eq",
+     "WARNING: This story contains vision and details that may distress some readers."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "woman walking her dogs was again able to drag the victim away."
+    ],
+    [
+     "ins",
+     "The court also released the victim's Triple Zero phone call earlier, where she could be heard screaming and repeatedly shouting \"get away from me\" during the attack. The call lasted for more than eight minutes, and when asked by the operator if the Vrhovsek had weapons, the victim replied: \"Does he need to have weapons to be f***ing threatening?\" While the operator was asking her questions, she said: \"He's here ... send the goddamn police right now!\""
+    ],
+    [
+     "eq",
+     "'Abusive, menacing and sinister' In court today, Justice Alain Musikanth said Vrhovsek"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "his \"demons\", which \"included self-medication\". They said his conduct was serious but"
+    ],
+    [
+     "del",
+     "abhorrent,"
+    ],
+    [
+     "ins",
+     "aberrant,"
+    ],
+    [
+     "eq",
+     "arguing he is not likely to reoffend, and that he had expressed"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2679,
+  "numbers_changed": [
+   "2026",
+   "23",
+   "44",
+   "5",
+   "50",
+   "9"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.553,
+ "similarity": 0.9029,
+ "adjudicated_by": "rules"
+}

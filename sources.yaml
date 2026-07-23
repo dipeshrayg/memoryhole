@@ -6,6 +6,9 @@
 # Per-source options:
 #   max_articles: newest feed entries to consider per run (default 5)
 #   crawl_delay:  seconds between requests to this domain (default 2)
+#   country:      shown as a filter facet on the site (default "Global")
+#   category:     one of world, politics, business, finance, science,
+#                 technology, sport, health, culture, government (default "world")
 
 defaults:
   max_articles: 5
@@ -13,53 +16,130 @@ defaults:
   crawl_delay: 2
 
 sources:
+  # World / general
   - name: BBC News
     rss: https://feeds.bbci.co.uk/news/rss.xml
+    country: United Kingdom
+    category: world
   - name: The Guardian
     rss: https://www.theguardian.com/world/rss
+    country: United Kingdom
+    category: world
   - name: NPR
     rss: https://feeds.npr.org/1001/rss.xml
+    country: United States
+    category: world
   - name: Al Jazeera
     rss: https://www.aljazeera.com/xml/rss/all.xml
+    country: Qatar
+    category: world
   - name: Deutsche Welle
     rss: https://rss.dw.com/rdf/rss-en-all
+    country: Germany
+    category: world
   - name: France 24
     rss: https://www.france24.com/en/rss
+    country: France
+    category: world
   - name: ABC News (Australia)
     rss: https://www.abc.net.au/news/feed/51120/rss.xml
-  - name: Le Monde (English)
-    rss: https://www.lemonde.fr/en/rss/une.xml
+    country: Australia
+    category: world
   - name: The Independent
     rss: https://www.independent.co.uk/rss
-  - name: ProPublica
-    rss: https://www.propublica.org/feeds/propublica/main
+    country: United Kingdom
+    category: world
+  - name: Le Monde (English)
+    rss: https://www.lemonde.fr/en/rss/une.xml
+    country: France
+    category: world
   - name: UN News
     rss: https://news.un.org/feed/subscribe/en/news/all/rss.xml
-  - name: Ars Technica
-    rss: https://feeds.arstechnica.com/arstechnica/index
-  - name: BBC Science
-    rss: https://feeds.bbci.co.uk/news/science_and_environment/rss.xml
-  - name: BBC Technology
-    rss: https://feeds.bbci.co.uk/news/technology/rss.xml
-  - name: BBC Sport
-    rss: https://feeds.bbci.co.uk/sport/rss.xml
-  - name: Guardian Science
-    rss: https://www.theguardian.com/science/rss
-  - name: Guardian Sport
-    rss: https://www.theguardian.com/uk/sport/rss
-  - name: Guardian Culture
-    rss: https://www.theguardian.com/uk/culture/rss
-  - name: NPR Science
-    rss: https://feeds.npr.org/1007/rss.xml
-  - name: NPR Health
-    rss: https://feeds.npr.org/1128/rss.xml
-  - name: ScienceDaily
-    rss: https://www.sciencedaily.com/rss/all.xml
-  - name: Variety
-    rss: https://variety.com/feed/
+    country: International
+    category: world
+
+  # Investigative / government
+  - name: ProPublica
+    rss: https://www.propublica.org/feeds/propublica/main
+    country: United States
+    category: politics
   - name: GOV.UK announcements
     rss: https://www.gov.uk/search/news-and-communications.atom
+    country: United Kingdom
+    category: government
   - name: Federal Reserve press releases
     url: https://www.federalreserve.gov/newsevents/pressreleases.htm
+    country: United States
+    category: government
   - name: State Department press
     url: https://www.state.gov/press-releases/
+    country: United States
+    category: government
+
+  # Finance / markets — potential market-moving edits, stocks, gold, silver
+  - name: BBC Business
+    rss: https://feeds.bbci.co.uk/news/business/rss.xml
+    country: United Kingdom
+    category: finance
+  - name: Guardian Business
+    rss: https://www.theguardian.com/uk/business/rss
+    country: United Kingdom
+    category: finance
+  - name: CNBC Markets
+    rss: https://www.cnbc.com/id/20910258/device/rss/rss.html
+    country: United States
+    category: finance
+  - name: Yahoo Finance
+    rss: https://finance.yahoo.com/news/rssindex
+    country: United States
+    category: finance
+  - name: Mining.com
+    rss: https://www.mining.com/feed/
+    country: Canada
+    category: finance
+
+  # Science / technology / health / sport / culture
+  - name: BBC Science
+    rss: https://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+    country: United Kingdom
+    category: science
+  - name: BBC Technology
+    rss: https://feeds.bbci.co.uk/news/technology/rss.xml
+    country: United Kingdom
+    category: technology
+  - name: BBC Sport
+    rss: https://feeds.bbci.co.uk/sport/rss.xml
+    country: United Kingdom
+    category: sport
+  - name: Guardian Science
+    rss: https://www.theguardian.com/science/rss
+    country: United Kingdom
+    category: science
+  - name: Guardian Sport
+    rss: https://www.theguardian.com/uk/sport/rss
+    country: United Kingdom
+    category: sport
+  - name: Guardian Culture
+    rss: https://www.theguardian.com/uk/culture/rss
+    country: United Kingdom
+    category: culture
+  - name: NPR Science
+    rss: https://feeds.npr.org/1007/rss.xml
+    country: United States
+    category: science
+  - name: NPR Health
+    rss: https://feeds.npr.org/1128/rss.xml
+    country: United States
+    category: health
+  - name: ScienceDaily
+    rss: https://www.sciencedaily.com/rss/all.xml
+    country: United States
+    category: science
+  - name: Ars Technica
+    rss: https://feeds.arstechnica.com/arstechnica/index
+    country: United States
+    category: technology
+  - name: Variety
+    rss: https://variety.com/feed/
+    country: United States
+    category: culture

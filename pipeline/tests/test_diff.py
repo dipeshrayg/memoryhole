@@ -45,3 +45,22 @@ def test_block_removal_signal():
     edit = make_edit(BASE + " " + para, BASE)
     assert edit["signals"]["blocks_removed"] == 1
     assert edit["signals"]["blocks_added"] == 0
+
+
+def test_market_figure_signal_currency():
+    edit = make_edit(BASE + " Gold closed at $1,200 an ounce.",
+                      BASE + " Gold closed at $1,350 an ounce.")
+    figures = edit["signals"]["market_figures_changed"]
+    assert "$1,200" in figures and "$1,350" in figures
+
+
+def test_market_figure_signal_percent():
+    edit = make_edit(BASE + " The central bank held rates at 3.5%.",
+                      BASE + " The central bank held rates at 4.1%.")
+    figures = edit["signals"]["market_figures_changed"]
+    assert "3.5%" in figures and "4.1%" in figures
+
+
+def test_plain_year_is_not_a_market_figure():
+    edit = make_edit(BASE, BASE.replace("2027", "2029"))
+    assert edit["signals"]["market_figures_changed"] == []

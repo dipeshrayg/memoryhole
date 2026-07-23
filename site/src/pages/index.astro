@@ -1,65 +1,77 @@
 ---
 import Base from '../layouts/Base.astro';
+import EditCard from '../components/EditCard.astro';
+import FilterBar from '../components/FilterBar.astro';
+import { categoryLabel } from '../lib/taxonomy.js';
 import site from '../../../data/derived/site.json';
 
 const base = import.meta.env.BASE_URL.endsWith('/')
   ? import.meta.env.BASE_URL
   : import.meta.env.BASE_URL + '/';
 
-const byDate = new Map();
-for (const e of site.edits) {
-  if (!byDate.has(e.date)) byDate.set(e.date, []);
-  byDate.get(e.date).push(e);
-}
+const totalTracked = site.source_list.reduce((n, s) => n + s.tracked, 0);
+const narrativeCount = site.edits.filter((e) => e.severity === 'NARRATIVE').length;
+const factualCount = site.edits.filter((e) => e.severity === 'FACTUAL').length;
 ---
 
-<Base title="MemoryHole — silent edits in published news">
-  <h1>News gets edited after you read it. This machine notices.</h1>
-  <p style="color: var(--muted)">
-    Every day MemoryHole re-reads {site.sources.reduce((n, s) => n + s.tracked, 0)} tracked
-    pages from {site.sources.length} sources and records what quietly changed.
-  </p>
-
-  {site.edits.length === 0 && (
-    <p>
-      No edits detected yet — the first run only takes baseline snapshots.
-      Check back after the next daily run.
+<Base
+  title="MemoryHole — silent edits in published news"
+  description="An autonomous observatory that detects silent edits in published news, government pages, and market reporting."
+>
+  <div class="wrap">
+    <h1>News gets edited after you read it. This machine notices.</h1>
+    <p class="lede">
+      Every day MemoryHole re-reads {totalTracked} tracked pages from {site.source_list.length} sources
+      across world, politics, finance, science, technology, sport, health, and culture — and records
+      what quietly changed.
     </p>
-  )}
 
-  {[...byDate.entries()].map(([date, edits]) => (
-    <section>
-      <h2>{date}</h2>
-      {edits.map((e) => (
-        <a class="edit-card" href={`${base}edit/${e.id}/`}>
-          <span class={`badge ${e.severity}`}>{e.severity}</span>
-          <strong> {e.new_title || e.url}</strong>
-          {e.old_title !== e.new_title && (
-            <div class="meta">was: <del>{e.old_title}</del></div>
-          )}
-          {e.summary && <div class="summary">{e.summary}</div>}
-          <div class="meta">{e.source} · {e.domain} · detected {e.detected_at}</div>
-        </a>
-      ))}
-    </section>
-  ))}
+    <div class="stat-grid">
+      <div class="stat-card"><div class="n">{site.edits.length}</div><div class="l">Edits on record</div></div>
+      <div class="stat-card"><div class="n accent-narrative">{narrativeCount}</div><div class="l">Narrative</div></div>
+      <div class="stat-card"><div class="n accent-factual">{factualCount}</div><div class="l">Factual</div></div>
+      <div class="stat-card"><div class="n">{site.source_list.length}</div><div class="l">Sources watched</div></div>
+      <div class="stat-card"><div class="n">{totalTracked}</div><div class="l">Pages tracked</div></div>
+    </div>
 
-  <h2>Sources</h2>
-  <table>
-    <thead>
-      <tr><th>Source</th><th class="num">Tracked</th><th class="num">Edits</th>
-        <th class="num">Narrative</th><th class="num">Factual</th></tr>
-    </thead>
-    <tbody>
-      {site.sources.map((s) => (
+    <FilterBar facets={site.facets} />
+
+    {site.edits.length === 0 ? (
+      <p>
+        No edits detected yet — the first run only takes baseline snapshots.
+        Check back after the next daily run.
+      </p>
+    ) : (
+      <div class="feed" data-feed>
+        {site.edits.map((e) => <EditCard edit={e} base={base} />)}
+      </div>
+    )}
+
+    <h2>Sources</h2>
+    <div class="table-scroll">
+    <table>
+      <thead>
         <tr>
-          <td><a href={`${base}source/${s.domain}/`}>{s.source || s.domain}</a></td>
-          <td class="num">{s.tracked}</td>
-          <td class="num">{s.edits_total}</td>
-          <td class="num">{s.by_severity.NARRATIVE}</td>
-          <td class="num">{s.by_severity.FACTUAL}</td>
+          <th>Source</th><th>Country</th><th>Category</th>
+          <th class="num">Tracked</th><th class="num">Edits</th>
+          <th class="num">Narrative</th><th class="num">Factual</th>
         </tr>
-      ))}
-    </tbody>
-  </table>
+      </thead>
+      <tbody>
+        {site.source_list.map((s) => (
+          <tr>
+            <td><a href={`${base}source/${s.domain}/`}>{s.name}</a></td>
+            <td>{s.country}</td>
+            <td>{categoryLabel(s.category)}</td>
+            <td class="num">{s.tracked}</td>
+            <td class="num">{s.edits_total}</td>
+            <td class="num">{s.by_severity.NARRATIVE}</td>
+            <td class="num">{s.by_severity.FACTUAL}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+    </div>
+  </div>
 </Base>
+<script is:inline src={`${base}filters.js`}></script>

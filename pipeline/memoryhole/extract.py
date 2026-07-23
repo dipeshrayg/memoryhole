@@ -15,7 +15,9 @@ _NOISE = re.compile(
     r"|getty images|\d+ min read"
     # embed/consent placeholders (e.g. France 24 YouTube blocks)
     r"|to display this content from|one of your browser extensions"
-    r"|please enable javascript|accept (all )?cookies|manage (my|your) choices)\b",
+    r"|please enable javascript|accept (all )?cookies|manage (my|your) choices"
+    # geo-blocked embeds (e.g. BBC video players)
+    r"|this content is not available in your location)\b",
     re.IGNORECASE,
 )
 _QUOTES = str.maketrans({"‘": "'", "’": "'", "“": '"', "”": '"',

@@ -112,6 +112,8 @@ def check_page(store: Store, source: Source, url: str, http_get) -> str:
             "id": url_id(url),
             "domain": urlparse(url).netloc,
             "source": source.name,
+            "country": source.country,
+            "category": source.category,
             "title": title,
             "lang": detect_lang(text),
             "hash": content_hash(title, text),
@@ -120,7 +122,8 @@ def check_page(store: Store, source: Source, url: str, http_get) -> str:
             "status": "active",
         }
         return "new"
-    meta["last_fetched"] = now_iso()
+    # keep in sync if the source's country/category was retagged since first_seen
+    meta.update(country=source.country, category=source.category, last_fetched=now_iso())
     new_hash = content_hash(title, text)
     if new_hash == meta["hash"]:
         return "unchanged"
@@ -136,6 +139,8 @@ def check_page(store: Store, source: Source, url: str, http_get) -> str:
                 "url": url,
                 "domain": meta["domain"],
                 "source": source.name,
+                "country": source.country,
+                "category": source.category,
                 "lang": meta.get("lang", "unknown"),
                 "detected_at": now_iso(),
                 "date": datetime.now(UTC).strftime("%Y-%m-%d"),

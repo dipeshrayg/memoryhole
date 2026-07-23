@@ -13,7 +13,7 @@ def fixture_html():
     return lambda name: (FIXTURES / name).read_text(encoding="utf-8")
 
 
-def make_edit(old_text, new_text, old_title="Same headline", new_title=None):
+def make_edit(old_text, new_text, old_title="Same headline", new_title=None, category=None):
     """Build an edit record and run the real diff over it."""
     from memoryhole.diffing import signals, word_diff
 
@@ -21,6 +21,8 @@ def make_edit(old_text, new_text, old_title="Same headline", new_title=None):
         "id": "test", "old_text": old_text, "new_text": new_text,
         "old_title": old_title, "new_title": new_title or old_title,
     }
+    if category:
+        edit["category"] = category
     edit["hunks"] = word_diff(old_text, new_text)
     edit["signals"] = signals(edit, edit["hunks"])
     return edit

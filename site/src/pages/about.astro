@@ -3,53 +3,71 @@ import Base from '../layouts/Base.astro';
 ---
 
 <Base title="About — MemoryHole">
-  <h1>Methodology</h1>
-  <p>
-    MemoryHole is an autonomous observatory for <strong>silent edits</strong>: changes made
-    to published news articles and official statements after publication, without any
-    correction notice. Once a day it re-reads every tracked page and records what changed.
-  </p>
+  <div class="wrap">
+    <h1>Methodology</h1>
+    <p class="lede">
+      MemoryHole is an autonomous observatory for <strong>silent edits</strong>: changes made
+      to published news articles, government pages, and market reporting after publication,
+      without any correction notice. Once a day it re-reads every tracked page and records
+      what changed.
+    </p>
 
-  <h2>How detection works</h2>
-  <p>
-    Article URLs are discovered from RSS feeds (plus a list of static pages) and each
-    article's readable text is extracted with trafilatura, aggressively normalized —
-    whitespace, unicode, quotes, boilerplate, timestamps — so that cosmetic HTML churn
-    never registers as an edit. Each page's normalized text is snapshotted in git; git
-    history is the archive. New text is diffed word-by-word against the previous snapshot.
-  </p>
+    <h2>How detection works</h2>
+    <p>
+      Article URLs are discovered from RSS feeds (plus a list of static pages) and each
+      article's readable text is extracted with trafilatura, aggressively normalized —
+      whitespace, unicode, quotes, boilerplate, timestamps, embed/consent placeholders —
+      so that cosmetic HTML churn never registers as an edit. Each page's normalized text is
+      snapshotted in git; git history is the archive. New text is diffed word-by-word against
+      the previous snapshot.
+    </p>
 
-  <h2>Severity classification</h2>
-  <p>Each detected edit is scored by combining rule-based signals — numbers changed,
-    named entities swapped, quotes deleted, paragraphs added or removed, headline
-    changes — with semantic similarity from a local sentence-transformers model
-    (all-MiniLM-L6-v2). No external API is required.</p>
-  <ul>
-    <li><span class="badge COSMETIC">COSMETIC</span> — typos, punctuation, formatting; meaning identical.</li>
-    <li><span class="badge MINOR">MINOR</span> — rewording with the same meaning.</li>
-    <li><span class="badge FACTUAL">FACTUAL</span> — numbers, names or dates changed.</li>
-    <li><span class="badge NARRATIVE">NARRATIVE</span> — claims added or removed, headline changed, meaning shifted.</li>
-  </ul>
-  <p>
-    Classification is heuristic. A <em>FACTUAL</em> or <em>NARRATIVE</em> badge means the
-    text changed in a way worth a human look — it does not by itself imply bad faith.
-    Outlets legitimately update developing stories; the point is that the record of change
-    should be public.
-  </p>
+    <h2>Categories and filters</h2>
+    <p>
+      Every source is tagged with a <strong>country</strong> and a <strong>category</strong> —
+      world, politics, business, finance, science, technology, sport, health, culture, or
+      government. The feed's filter bar lets you narrow by any of those, by significance
+      (see below), by source, or by free-text search; filter state is saved to the URL so a
+      filtered view can be bookmarked or shared. <a href="finance/">Finance</a> also gets its
+      own page, since a quietly revised price, rate, or percentage is a different kind of
+      edit worth watching on its own.
+    </p>
 
-  <h2>Ethics</h2>
-  <ul>
-    <li>robots.txt is respected; the crawler identifies itself honestly as
-      <code>MemoryHoleBot/1.0</code> and fetches at most one page per two seconds per domain.</li>
-    <li>Paywalled content is never fetched or stored.</li>
-    <li>Only extracted article text needed for diffing is stored, always with attribution
-      and a link to the original.</li>
-  </ul>
+    <h2>Severity classification</h2>
+    <p>Each detected edit is scored by combining rule-based signals — numbers changed,
+      named entities swapped, quotes deleted, paragraphs added or removed, headline
+      changes — with semantic similarity from a local sentence-transformers model
+      (all-MiniLM-L6-v2). No external API is required. In the finance category, a changed
+      price, rate, or percentage is weighted heavily enough that it can't be out-voted by
+      an unrelated headline tweak in the same article.</p>
+    <ul class="methodology">
+      <li><span class="badge COSMETIC">COSMETIC</span> — typos, punctuation, formatting; meaning identical.</li>
+      <li><span class="badge MINOR">MINOR</span> — rewording with the same meaning.</li>
+      <li><span class="badge FACTUAL">FACTUAL</span> — numbers, names, dates, or market figures changed.</li>
+      <li><span class="badge NARRATIVE">NARRATIVE</span> — claims added or removed, headline changed, meaning shifted.</li>
+    </ul>
+    <p>
+      Classification is heuristic. A <em>FACTUAL</em> or <em>NARRATIVE</em> badge means the
+      text changed in a way worth a human look — it does not by itself imply bad faith.
+      Outlets legitimately update developing stories; the point is that the record of change
+      should be public.
+    </p>
 
-  <h2>Run your own</h2>
-  <p>
-    MemoryHole is MIT-licensed and runs entirely on free infrastructure (GitHub Actions +
-    Pages). Fork it, edit <code>sources.yaml</code>, enable Pages — done.
-    <a href="https://github.com/dipeshrayg/memoryhole">Source and instructions on GitHub.</a>
-  </p>
+    <h2>Ethics</h2>
+    <ul class="methodology">
+      <li>robots.txt is respected; the crawler identifies itself honestly as
+        <code>MemoryHoleBot/1.0</code> and fetches at most one page per two seconds per domain.</li>
+      <li>Paywalled content is never fetched or stored.</li>
+      <li>Only extracted article text needed for diffing is stored, always with attribution
+        and a link to the original.</li>
+    </ul>
+
+    <h2>Run your own</h2>
+    <p>
+      MemoryHole is MIT-licensed and runs entirely on free infrastructure (GitHub Actions +
+      Pages). Fork it, edit <code>sources.yaml</code> — tag new sources with a country and
+      category — enable Pages, done.
+      <a href="https://github.com/dipeshrayg/memoryhole">Source and instructions on GitHub.</a>
+    </p>
+  </div>
 </Base>

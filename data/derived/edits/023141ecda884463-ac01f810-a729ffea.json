@@ -1,0 +1,96 @@
+{
+ "id": "023141ecda884463-ac01f810-a729ffea",
+ "url": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Technology",
+ "country": "United Kingdom",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-07-23T12:06:49Z",
+ "date": "2026-07-23",
+ "old_title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+ "new_title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+ "old_text": "- Published\nOpenAI has revealed some of its most advanced AI models went rogue and hacked a start-up after it lost control of them during a security test.\nThe ChatGPT-maker said its agent - an AI system which can operate alone after human instruction â was being tested in a controlled environment but, after finding weaknesses, was able to escape the test limits.\nThey targeted Hugging Face, one of the world's largest hubs for sharing AI models, gaining access to some internal company systems.\nOpenAI said the incident was \"unprecedented\", external, and it was conducting an investigation alongside Hugging Face, whose boss Clement Delangue said in a post on X it was \"mind-blowing that all of this happened autonomously\".\n\"The investigation is ongoing, and we'll share more learnings from what might be the first incident of its kind,\" Delangue added.\nA government spokesperson said the UK's AI Security Institute was studying the behaviour from the AI system seen in the incident and was continuing to work with OpenAI and other labs to improve safeguards.\nThey said organisations should step up their cyber-defences by taking steps such as enrolling in the government-backed Cyber Essentials certification scheme.\nInsecure sandboxes\nGina Neff, head of the Minderoo Centre for Technology and Democracy at the University of Cambridge, told BBC Radio 4's Today programme that the security tests - called sandboxes - are \"supposed to be secure environments where you can see what the models are capable of\".\n\"In this case, it looks like OpenAI didn't make a secure enough sandbox,\" she added.\nInstead, the agents created their own cyber-attack against the sandbox itself, finding a vulnerability which allowed them to escape the restrictions.\nOnce outside, the AI identified Hugging Face as a likely source of the answers they were seeking in the test, and tried to gain access.\nNeil Lawrence, Professor of machine learning at Cambridge University, called it an \"impressive feat\", but cautioned it \"falls well within the known capabilities of the current generation\" of high-powered AI models.\nHe pointed out that OpenAI is looking to list itself on the stock market, and faces intense pressure from rival firm Anthropic, which has made headlines with its own powerful AI tool, Mythos.\n\"OpenAI are now playing catch-up, they are trying to demonstrate their own systems' capabilities in cyber-security.\"\n\"It shows us that OpenAI are not capable of safely deploying their own technology,\" he added.\nIn its initial disclosure of the hack on 16 July, external, Hugging Face said it was still assessing whether any customer or partner data was affected and would contact affected parties if necessary.\nIt said it has now closed the vulnerabilities highlighted by the incident and rebuilt the affected systems.\n\"Autonomous, AI-driven offensive tooling is no longer theoretical,\" it said.\n\"Defending an online platform now means treating the data and model surface as a first-class attack surface, and using AI on defence to keep pace.\n\"We will keep investing there, and keep sharing what we learn.\"\n'Sobering moment'\nThe incident has prompted fresh questions about the capabilities of advanced AI systems and whether existing safeguards are sufficient as the technology becomes more powerful.\nSpencer Starkey, an executive at cyber-security firm SonicWall, told the BBC the incident made it clear organisations needed to \"step up\" their own defences and \"treat cyber resilience as a core operational priority\".\n\"The uncomfortable truth is that too many organisations are still defending at human speed while adversaries are escalating to machine speed,\" he said.\nMeanwhile Travis Lelle, principal security engineer at cyber-security consulting firm Guidepoint Security, said the update marked a \"sobering moment in cyber-security\".\n\"This highlights a known asymmetry,\" he said.\n\"Offensive agents are unconstrained, while the best defensive tools are locked behind guardrails that cannot understand context.\"\nBut Jake Moore, global cyber-security advisor at ESET, said the announcement could also have a competitive dimension.\nHe argued OpenAI may be seeking to highlight its own AI capabilities as rival Anthropic attracts growing attention for its Claude Mythos model.\n\"It does pose the question that OpenAI are potentially chasing the marketing dream of Anthropic of late,\" he said.\nIt comes a week after Chinese AI start-up Moonshot unveiled Kimi K3 - a massive new artificial intelligence model it said could rival top US firms.",
+ "new_text": "OpenAI has revealed some of its most advanced AI models went rogue and hacked a start-up after it lost control of them during a security test.\nThe ChatGPT-maker said its agent - an AI system which can operate alone after human instruction â was being tested in a controlled environment but, after finding weaknesses, was able to escape the test limits.\nThey targeted Hugging Face, one of the world's largest hubs for sharing AI models, gaining access to some internal company systems.\nOpenAI said the incident was \"unprecedented\", external, and it was conducting an investigation alongside Hugging Face, whose boss Clement Delangue said in a post on X it was \"mind-blowing that all of this happened autonomously\".\n\"The investigation is ongoing, and we'll share more learnings from what might be the first incident of its kind,\" Delangue added.\nA government spokesperson said the UK's AI Security Institute was studying the behaviour from the AI system seen in the incident and was continuing to work with OpenAI and other labs to improve safeguards.\nThey said organisations should step up their cyber-defences by taking steps such as enrolling in the government-backed Cyber Essentials certification scheme.\nInsecure sandboxes\nGina Neff, head of the Minderoo Centre for Technology and Democracy at the University of Cambridge, told BBC Radio 4's Today programme that the security tests are supposed to be within \"secure environments\", called sandboxes, where you can \"see what the models are capable of\".\n\"In this case, it looks like OpenAI didn't make a secure enough sandbox,\" she added.\nInstead, the agents created their own cyber-attack against the sandbox itself, finding a vulnerability which allowed them to escape the restrictions.\nOnce outside, the AI identified Hugging Face as a likely source of the answers they were seeking in the test, and tried to gain access.\nNeil Lawrence, Professor of machine learning at Cambridge University, called it an \"impressive feat\", but cautioned it \"falls well within the known capabilities of the current generation\" of high-powered AI models.\nHe pointed out that OpenAI is looking to list itself on the stock market, and faces intense pressure from rival firm Anthropic, which has made headlines with its own powerful AI tool, Mythos.\n\"OpenAI are now playing catch-up, they are trying to demonstrate their own systems' capabilities in cyber-security.\"\n\"It shows us that OpenAI are not capable of safely deploying their own technology,\" he added.\nIn its initial disclosure of the hack on 16 July, external, Hugging Face said it was still assessing whether any customer or partner data was affected and would contact affected parties if necessary.\nIt said it has now closed the vulnerabilities highlighted by the incident and rebuilt the affected systems.\n\"Autonomous, AI-driven offensive tooling is no longer theoretical,\" it said.\n\"Defending an online platform now means treating the data and model surface as a first-class attack surface, and using AI on defence to keep pace.\n\"We will keep investing there, and keep sharing what we learn.\"\n'Sobering moment'\nThe incident has prompted fresh questions about the capabilities of advanced AI systems and whether existing safeguards are sufficient as the technology becomes more powerful.\nSpencer Starkey, an executive at cyber-security firm SonicWall, told the BBC the incident made it clear organisations needed to \"step up\" their own defences and \"treat cyber resilience as a core operational priority\".\n\"The uncomfortable truth is that too many organisations are still defending at human speed while adversaries are escalating to machine speed,\" he said.\nMeanwhile Travis Lelle, principal security engineer at cyber-security consulting firm Guidepoint Security, said the update marked a \"sobering moment in cyber-security\".\n\"This highlights a known asymmetry,\" he said.\n\"Offensive agents are unconstrained, while the best defensive tools are locked behind guardrails that cannot understand context.\"\nBut Jake Moore, global cyber-security advisor at ESET, said the announcement could also have a competitive dimension.\nHe argued OpenAI may be seeking to highlight its own AI capabilities as rival Anthropic attracts growing attention for its Claude Mythos model.\n\"It does pose the question that OpenAI are potentially chasing the marketing dream of Anthropic of late,\" he said.\nIt comes a week after Chinese AI start-up Moonshot unveiled Kimi K3 - a massive new artificial intelligence model it said could rival top US firms.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "- Published"
+    ],
+    [
+     "eq",
+     "OpenAI has revealed some of its most advanced AI models went rogue"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of Cambridge, told BBC Radio 4's Today programme that the security tests"
+    ],
+    [
+     "del",
+     "- called sandboxes -"
+    ],
+    [
+     "eq",
+     "are"
+    ],
+    [
+     "del",
+     "\"supposed"
+    ],
+    [
+     "ins",
+     "supposed"
+    ],
+    [
+     "eq",
+     "to be"
+    ],
+    [
+     "del",
+     "secure environments"
+    ],
+    [
+     "ins",
+     "within \"secure environments\", called sandboxes,"
+    ],
+    [
+     "eq",
+     "where you can"
+    ],
+    [
+     "del",
+     "see"
+    ],
+    [
+     "ins",
+     "\"see"
+    ],
+    [
+     "eq",
+     "what the models are capable of\". \"In this case, it looks like"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.024,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9856,
+ "adjudicated_by": "rules"
+}

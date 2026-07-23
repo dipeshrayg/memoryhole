@@ -1,0 +1,48 @@
+{
+ "id": "2a0b8b74e7e602f4-43e2b343-f3b90501",
+ "url": "https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-07-23T12:07:08Z",
+ "date": "2026-07-23",
+ "old_title": "World Cup 2026 final highlights: Spain 1-0 Argentina",
+ "new_title": "World Cup 2026 final highlights: Spain 1-0 Argentina",
+ "old_text": "Dominant Spain beat Argentina to win World Cup after extra time\nThere was an error\nFerran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium.\nMATCH REPORT: World Cup 2026 final - Spain 1-0 Argentina\nAvailable to UK users only.",
+ "new_text": "Dominant Spain beat Argentina to win World Cup after extra time\nFerran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium.\nMATCH REPORT: World Cup 2026 final - Spain 1-0 Argentina\nAvailable to UK users only.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Dominant Spain beat Argentina to win World Cup after extra time"
+    ],
+    [
+     "del",
+     "There was an error"
+    ],
+    [
+     "eq",
+     "Ferran Torres scores the only goal of the game as Spain dominate"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.069,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9944,
+ "adjudicated_by": "rules"
+}

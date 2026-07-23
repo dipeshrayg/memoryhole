@@ -48,6 +48,21 @@ def test_headline_change_is_narrative():
     assert score_edit(edit)["severity"] == "NARRATIVE"
 
 
+def test_finance_market_figure_wins_tiebreak_over_headline_change():
+    """A headline rewrite plus a quietly-changed rate is ambiguous FACTUAL-vs-
+    NARRATIVE; tagging the source as finance should keep the price change
+    dominant instead of letting the headline edit win."""
+    old = BASE + " The central bank held the base rate at 3.5%."
+    new = BASE + " The central bank held the base rate at 3.25%."
+    kwargs = dict(old_title="Fed signals rates on hold", new_title="Fed opens door to rate cut")
+
+    plain = make_edit(old, new, **kwargs)
+    assert score_edit(plain)["severity"] == "NARRATIVE"
+
+    finance = make_edit(old, new, category="finance", **kwargs)
+    assert score_edit(finance)["severity"] == "FACTUAL"
+
+
 def test_block_deletion_is_narrative():
     para = (" Opposition members walked out of the chamber in protest before the "
             "final vote was recorded, calling the consultation process a sham and "

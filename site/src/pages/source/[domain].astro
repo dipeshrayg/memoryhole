@@ -1,5 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
+import EditCard from '../../components/EditCard.astro';
+import { categoryColor, categoryLabel } from '../../lib/taxonomy.js';
 import site from '../../../../data/derived/site.json';
 
 export async function getStaticPaths() {
@@ -12,30 +14,45 @@ const base = import.meta.env.BASE_URL.endsWith('/')
   ? import.meta.env.BASE_URL
   : import.meta.env.BASE_URL + '/';
 const edits = site.edits.filter((e) => e.domain === source.domain);
+// A domain can host more than one configured source (every BBC section feed
+// resolves articles to www.bbc.co.uk) — list every one that does, rather
+// than implying the whole domain is a single category.
+const feeds = site.source_list
+  .filter((s) => s.domain === source.domain)
+  .sort((a, b) => a.name.localeCompare(b.name));
+const title = feeds.length === 1 ? feeds[0].name : source.domain;
 ---
 
-<Base title={`${source.source || source.domain} — MemoryHole`}>
-  <h1>{source.source || source.domain}</h1>
-  <table>
-    <tbody>
-      <tr><td>Domain</td><td class="num">{source.domain}</td></tr>
-      <tr><td>Pages tracked</td><td class="num">{source.tracked}</td></tr>
-      <tr><td>Edits recorded</td><td class="num">{source.edits_total}</td></tr>
-      <tr><td>Narrative / Factual / Minor / Cosmetic</td>
-        <td class="num">{source.by_severity.NARRATIVE} / {source.by_severity.FACTUAL} /
-          {source.by_severity.MINOR} / {source.by_severity.COSMETIC}</td></tr>
-      <tr><td>Most recent edit</td><td class="num">{source.last_edit || '—'}</td></tr>
-    </tbody>
-  </table>
+<Base title={`${title} — MemoryHole`}>
+  <div class="wrap">
+    <a class="back-link" href={base}>&larr; Back to feed</a>
 
-  <h2>Edit history</h2>
-  {edits.length === 0 && <p>No edits recorded for this source yet.</p>}
-  {edits.map((e) => (
-    <a class="edit-card" href={`${base}edit/${e.id}/`}>
-      <span class={`badge ${e.severity}`}>{e.severity}</span>
-      <strong> {e.new_title || e.url}</strong>
-      {e.summary && <div class="summary">{e.summary}</div>}
-      <div class="meta">detected {e.detected_at}</div>
-    </a>
-  ))}
+    <div class="top-row" style="margin: 1rem 0 0.4rem; flex-wrap: wrap;">
+      {feeds.map((f) => (
+        <span class="cat-pill">
+          <span class="cat-dot" style={`background:${categoryColor(f.category)}`}></span>
+          {feeds.length > 1 ? `${f.name} · ` : ''}{categoryLabel(f.category)}
+        </span>
+      ))}
+      <span class="tag">{source.country}</span>
+    </div>
+    <h1>{title}</h1>
+
+    <div class="stat-grid">
+      <div class="stat-card"><div class="n">{source.tracked}</div><div class="l">Pages tracked</div></div>
+      <div class="stat-card"><div class="n">{source.edits_total}</div><div class="l">Edits recorded</div></div>
+      <div class="stat-card"><div class="n accent-narrative">{source.by_severity.NARRATIVE}</div><div class="l">Narrative</div></div>
+      <div class="stat-card"><div class="n accent-factual">{source.by_severity.FACTUAL}</div><div class="l">Factual</div></div>
+    </div>
+    <p class="byline">Most recent edit: {source.last_edit || 'none yet'}</p>
+
+    <h2>Edit history</h2>
+    {edits.length === 0 ? (
+      <p>No edits recorded for this source yet.</p>
+    ) : (
+      <div class="feed">
+        {edits.map((e) => <EditCard edit={e} base={base} />)}
+      </div>
+    )}
+  </div>
 </Base>

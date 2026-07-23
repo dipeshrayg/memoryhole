@@ -51,7 +51,12 @@ def score_edit(edit: dict, similarity_fn=None) -> dict:
     # Without a model, change_ratio stands in (crude but directionally right).
     shift = max(0.0, (0.97 - sim) * 6) if sim is not None else min(1.0, s["change_ratio"] * 3)
 
-    factual = 0.6 * bool(s["numbers_changed"]) + 0.5 * s["entities_swapped"]
+    # A silently-changed price/rate/percentage in a finance article is a
+    # market-moving fact regardless of how small the surrounding text change is.
+    market_moving = edit.get("category") == "finance" and bool(s.get("market_figures_changed"))
+    factual = (
+        0.6 * bool(s["numbers_changed"]) + 0.5 * s["entities_swapped"] + 0.65 * market_moving
+    )
     narrative = (
         0.7 * s["title_changed"]
         + 0.45 * min(s["blocks_added"] + s["blocks_removed"], 2)

@@ -12,6 +12,14 @@ _NUM = re.compile(r"\d(?:[\d,.]*\d)?")  # ends on a digit: "2,027" yes, "2027." 
 _QUOTE = re.compile(r'"[^"]{20,}"')
 # Two+ capitalized words in a row ≈ a named entity (heuristic, no NER model).
 _ENTITY = re.compile(r"\b(?:[A-Z][a-z]+ ){1,3}[A-Z][a-z]+\b")
+# A price, rate, or percentage: currency-prefixed or percent-suffixed figures.
+# Trailing sentence punctuation ("3.5%.") is common, so the suffix is closed
+# with a lookahead rather than \b — \b fails between two non-word chars.
+_MARKET_FIGURE = re.compile(
+    r"[$£€¥]\s?\d[\d,.]*\d?(?:\s?(?:bn|billion|m|million|k))?"
+    r"|\d[\d,.]*\d?\s?(?:%|pts?|bps)(?![a-zA-Z0-9])",
+    re.IGNORECASE,
+)
 
 
 def word_diff(old: str, new: str) -> list[dict]:
@@ -62,6 +70,8 @@ def signals(edit: dict, hunks: list[dict]) -> dict:
     ).lower()
 
     old_nums, new_nums = set(_NUM.findall(deleted)), set(_NUM.findall(inserted))
+    old_market = set(m.strip() for m in _MARKET_FIGURE.findall(deleted))
+    new_market = set(m.strip() for m in _MARKET_FIGURE.findall(inserted))
     del_entities = set(_ENTITY.findall(deleted)) - set(_ENTITY.findall(inserted))
     ins_entities = set(_ENTITY.findall(inserted)) - set(_ENTITY.findall(deleted))
     blocks_removed = sum(
@@ -78,6 +88,7 @@ def signals(edit: dict, hunks: list[dict]) -> dict:
         "cosmetic_only": cosmetic,
         "change_ratio": round(changed / max(len(old_words), 1), 4),
         "numbers_changed": sorted(old_nums ^ new_nums)[:20],
+        "market_figures_changed": sorted(old_market ^ new_market)[:20],
         "entities_swapped": bool(del_entities and ins_entities),
         "quotes_deleted": len(_QUOTE.findall(deleted)),
         "blocks_added": blocks_added,

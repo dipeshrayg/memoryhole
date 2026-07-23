@@ -1,0 +1,44 @@
+{
+ "id": "e07e6e26b2fe99ee-37b70194-aa568fb6",
+ "url": "https://www.bbc.co.uk/weather/articles/c7vg667m4y5o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-07-23T12:05:49Z",
+ "date": "2026-07-23",
+ "old_title": "How and when to see the 2026 Perseid meteor shower",
+ "new_title": "How and when to see the 2026 Perseid meteor shower",
+ "old_text": "- Published\nThe Perseid meteor shower is set to light up the night sky over the next month, putting on a spectacular treat for skygazers.\nKnown as one of the brightest, fastest and most active meteor showers of the year, it occurs when Earth passes through the debris of Comet 109P/Swift-Tuttle.\nRunning from 17 July to 24 August, the show will peak overnight on the 12-13 August.\nCoinciding with the new Moon, dark skies will create ideal viewing conditions for the peak where the weather cooperates.\nWhat is the Perseid meteor shower and how can I see it?\nMeteor showers happen when dust from a passing comet or asteroid passes through the Earth's atmosphere.\nThe tiny particles - roughly the size of a grain of sand - vaporise, creating visible streaks of light.\nIn the most dense parts of the dust stream, more meteors are visible.\nThe Perseids in particular are known for being a very active shower, where up to 150 meteors per hour are possible during its peak.\nThe shower is also famous for its bright \"fireball\" meteors.\nTo spot them, skygazers should look for the point in the sky where they appear to originate from, known as the radiant.\nIn this case, it is in the constellation of Perseus.\nIt is easiest to spot meteors in the northern hemisphere between midnight and an hour before sunrise, but of course it is dependent on cloud cover.\nIdeal conditions for viewing are dark, clear skies with a wide unobstructed view. You don't need binoculars or a telescope.\nThe further away from light pollution you are, the better chance you will have of seeing the meteors. You should give your eyes up to 15 minutes to adapt to the lower light.\nWhat is the night-sky forecast for the week ahead?\nHigh pressure to the west will dominate the weather through the week ahead bringing mostly dry and settled conditions.\nA northerly wind will continue to draw in more North Sea cloud across northern Scotland and towards eastern coasts, reducing viewing chances during the next few nights.\nTowards the south and west, skies will generally stay clearer for longer.\nDuring the second half of this week, eastern parts of Scotland and England will see clearer night skies as the northerly wind eases.\nYou can check the conditions where you are at BBC Weather online, or on the app.",
+ "new_text": "The Perseid meteor shower is set to light up the night sky over the next month, putting on a spectacular treat for skygazers.\nKnown as one of the brightest, fastest and most active meteor showers of the year, it occurs when Earth passes through the debris of Comet 109P/Swift-Tuttle.\nRunning from 17 July to 24 August, the show will peak overnight on the 12-13 August.\nCoinciding with the new Moon, dark skies will create ideal viewing conditions for the peak where the weather cooperates.\nWhat is the Perseid meteor shower and how can I see it?\nMeteor showers happen when dust from a passing comet or asteroid passes through the Earth's atmosphere.\nThe tiny particles - roughly the size of a grain of sand - vaporise, creating visible streaks of light.\nIn the most dense parts of the dust stream, more meteors are visible.\nThe Perseids in particular are known for being a very active shower, where up to 150 meteors per hour are possible during its peak.\nThe shower is also famous for its bright \"fireball\" meteors.\nTo spot them, skygazers should look for the point in the sky where they appear to originate from, known as the radiant.\nIn this case, it is in the constellation of Perseus.\nIt is easiest to spot meteors in the northern hemisphere between midnight and an hour before sunrise, but of course it is dependent on cloud cover.\nIdeal conditions for viewing are dark, clear skies with a wide unobstructed view. You don't need binoculars or a telescope.\nThe further away from light pollution you are, the better chance you will have of seeing the meteors. You should give your eyes up to 15 minutes to adapt to the lower light.\nWhat is the night-sky forecast for the week ahead?\nHigh pressure to the west will dominate the weather through the week ahead bringing mostly dry and settled conditions.\nA northerly wind will continue to draw in more North Sea cloud across northern Scotland and towards eastern coasts, reducing viewing chances during the next few nights.\nTowards the south and west, skies will generally stay clearer for longer.\nDuring the second half of this week, eastern parts of Scotland and England will see clearer night skies as the northerly wind eases.\nYou can check the conditions where you are at BBC Weather online, or on the app.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "- Published"
+    ],
+    [
+     "eq",
+     "The Perseid meteor shower is set to light up the night sky"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.005,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9961,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,45 @@
+---
+import { categoryLabel } from '../lib/taxonomy.js';
+const { facets, showCategory = true } = Astro.props;
+const titleCase = (s) => s.charAt(0) + s.slice(1).toLowerCase();
+---
+
+<div class="filter-bar">
+  {showCategory && (
+    <div class="chip-group" data-filter-chips="category">
+      <button class="chip active" data-value="all" type="button">All</button>
+      {facets.categories.map((c) => (
+        <button class="chip" data-value={c} type="button">{categoryLabel(c)}</button>
+      ))}
+    </div>
+  )}
+  <div class="chip-group" data-filter-chips="severity">
+    <button class="chip active" data-value="all" type="button">All significance</button>
+    {facets.severities.map((s) => (
+      <button class="chip" data-value={s} type="button">{titleCase(s)}</button>
+    ))}
+  </div>
+  <select class="filter-select" data-filter-select="country" aria-label="Filter by country">
+    <option value="all">All countries</option>
+    {facets.countries.map((c) => <option value={c}>{c}</option>)}
+  </select>
+  <select class="filter-select" data-filter-select="source" aria-label="Filter by source">
+    <option value="all">All sources</option>
+    {facets.sources.map((s) => <option value={s}>{s}</option>)}
+  </select>
+  <input
+    class="filter-search"
+    type="search"
+    placeholder="Search headlines…"
+    data-filter-search
+    aria-label="Search headlines"
+  />
+  <select class="filter-select" data-filter-sort aria-label="Sort order">
+    <option value="newest">Newest first</option>
+    <option value="significant">Most significant</option>
+  </select>
+  <span class="filter-count" data-filter-count></span>
+</div>
+<div class="empty-state" data-empty-state hidden>
+  No edits match these filters. Try widening your search or clearing a filter.
+</div>
