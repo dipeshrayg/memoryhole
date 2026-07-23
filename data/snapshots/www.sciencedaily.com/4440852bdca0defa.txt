@@ -1,0 +1,51 @@
+MITâs new lidar chip could give self-driving cars a wider view
+New breakthrough could help create smaller and more durable sensors for vehicles, drones, and industrial sites.
+- Date:
+- July 22, 2026
+- Source:
+- Massachusetts Institute of Technology
+- Summary:
+- MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one anotherâs signals. In tests, the system sharply reduced interference while steering a single precise beam across a broad field of view.
+- Share:
+Lidar technology uses pulses of infrared light to calculate distances and create detailed 3D maps of the surrounding environment. This allows autonomous vehicles to detect objects in their path and respond quickly. However, conventional lidar sensors are often large and costly, and many rely on moving components that can wear out over time. These limitations make the systems difficult to use in a wider range of settings.
+MIT researchers have now developed an approach that could lead to smaller, more durable lidar sensors that operate without any moving parts. Their advance centers on a new silicon-photonics chip, a type of semiconductor device that controls light instead of electrical signals.
+Existing lidar systems built with silicon-photonics chips usually have a narrow field of view. As a result, they struggle to scan areas located toward the edges of a scene. Previous attempts to expand this viewing range have often introduced extra noise and reduced measurement accuracy.
+The MIT team addressed those problems by creating an array of integrated antennas that greatly limits unwanted crosstalk, which occurs when neighboring antennas interfere with one another. The design allows the chip to scan across a broader field of view while producing less noise than other silicon-photonics-based methods.
+A Smaller Lidar System With a Wider View
+The advance could support the development of more capable lidar sensors for challenging uses, including autonomous vehicle navigation, aerial mapping, and the monitoring of construction sites.
+"The functionality we demonstrated in this work solves a fundamental problem for integrated optical-phased-array technology, enabling future lidar sensors that can achieve significantly higher performance than we could demonstrate previously," says Jelena Notaros, the Robert J. Shillman Career Development Associate Professor of Electrical Engineering and Computer Science (EECS) at MIT, a member of the Research Laboratory of Electronics, and senior author of a paper on this innovation.
+The study also includes lead author and EECS graduate student Henry Crawford-Eng, along with EECS graduate students Andres Garcia Coleto, Benjamin M. Mazur, Daniel M. DeSantis, and Tal Sneh. The findings were published recently in Nature Communications.
+How Lidar Maps Its Surroundings
+Many traditional lidar systems use a large rotating unit to direct light pulses across a scene. When the light strikes nearby objects, it reflects back toward the sensor. The returning signals provide the information needed to reconstruct a detailed map of the environment.
+Silicon-photonics-based lidar works differently. Rather than rotating a mechanical device, it scans a beam of light electronically in several directions with a system known as an integrated optical phased array (OPA).
+At the heart of an OPA is a group of integrated antennas. Each antenna contains tiny, regularly spaced variations along its length. These features, known as corrugations, cause light from an input source to scatter upward and out of the photonic chip.
+Researchers can control the direction of the outgoing beam by changing the phase of the light sent to each antenna. Adjusting these phases changes the angle at which the array releases light, making it possible to steer the beam without moving any physical components.
+The Antenna Spacing Problem
+Placing the antennas close together creates a serious obstacle. Neighboring antennas can couple with one another, scrambling the light they produce. Engineers have traditionally prevented this interference by increasing the distance between antennas, but wider spacing creates a different set of problems.
+When antennas are too far apart, the array produces several copies of the same beam at different angles. The primary beam can only be moved a limited distance before it becomes difficult to distinguish from these additional copies.
+"This limits our field of view, so the autonomous vehicle now only knows what is in front of it for a certain angular range," Garcia Coleto explains.
+The unwanted beam copies, called grating lobes, can confuse the sensor and generate false detections. They also consume energy that could otherwise be directed into the main beam.
+To overcome this tradeoff, the MIT researchers developed antennas with reduced crosstalk that can be positioned close together without strongly coupling.
+Three Antenna Shapes Reduce Interference
+In a conventional OPA, every antenna has an identical structure and uses the same pattern of corrugations. When these matching antennas are placed close together, they interact very strongly.
+The MIT team instead created a repeating set of three antennas with distinct shapes. They changed the width of the antennas as well as the size and placement of the corrugations. Because the antennas have different geometries, each one also has a different propagation coefficient, which describes how light moves through the structure.
+"Because the antennas have very different propagation coefficients, when we put them close together, essentially each antenna doesn't 'see' the antenna next to it. Therefore, it won't couple with its neighbor," Garcia Coleto says.
+Making Different Antennas Behave the Same Way
+Reducing the coupling was only part of the challenge. Although the antennas needed different propagation coefficients, they still had to release light in the same consistent manner.
+The team designed the antennas around three essential requirements.
+Each antenna had to emit the same amount of light. Every antenna also needed to release its beam at the same angle when receiving the same wavelength. Finally, the angle of emission had to change evenly across the entire array as the beam was steered.
+"We have this challenge where we require the antennas to have different geometries to reduce the crosstalk, but we need to simultaneously design the antennas to have the same emission characteristics. While it is possible to engineer this, it is extremely difficult because, typically, when antennas are designed with different geometries, they tend to behave differently," Crawford-Eng says.
+The researchers began by developing the basic electromagnetic theory describing how radiative modes couple. They then used this theoretical framework to guide the design and computer simulation of the antennas.
+Based on those calculations, the team manufactured an OPA containing the reduced-crosstalk antennas. The antennas were placed much closer together than those in a conventional system, and the completed device was then tested experimentally.
+Interference Falls From About 100 Percent to 1 Percent
+Under the conditions of the experiment, a typical OPA would have produced coupling of approximately 100 percent. The MIT design lowered that coupling to about 1 percent while still generating one clean and precise beam.
+The system accurately steered the beam across a broad field of view without producing any grating lobes. This combination of wide scanning, low interference, and strong beam quality addresses one of the central obstacles facing integrated lidar technology.
+The researchers now plan to refine the method so the system can cover an even broader viewing range. They are also studying another possible approach to wide field-of-view performance that emerged while they were developing the underlying theory.
+"This work addresses a longstanding challenge in integrated optical phased arrays: simultaneously achieving both a wide field of view, which requires dense antenna spacing, and high beam quality, which requires low crosstalk between neighboring antennas. The authors solve this problem with an elegant antenna design. Their innovation is an important step forward for chip-scale, solid-state beam-steering technology," says Joyce Poon, professor of electrical and computer engineering at the University of Toronto and director of the Max Planck Institute of Microstructure Physics, who was not involved with this work.
+The Semiconductor Research Corporation, the National Science Foundation, an MIT MathWorks Fellowship, the U.S. Department of War, and the MIT Rolf G. Locher Endowed Fellowship supported the research, in part.
+Some of the work was carried out using MIT.nano facilities.
+Story Source:
+Materials provided by Massachusetts Institute of Technology. Original written by Adam Zewe. Note: Content may be edited for style and length.
+Journal Reference:
+- Henry Crawford-Eng, Andres Garcia Coleto, Benjamin M. Mazur, Daniel M. DeSantis, Tal Sneh, Jelena Notaros. Reduced-crosstalk antennas for grating-lobe-free and wide-field-of-view integrated optical phased arrays. Nature Communications, 2026; 17 (1) DOI: 10.1038/s41467-026-71832-y
+Cite This Page:

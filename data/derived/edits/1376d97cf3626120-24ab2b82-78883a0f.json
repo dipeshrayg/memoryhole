@@ -1,0 +1,50 @@
+{
+ "id": "1376d97cf3626120-24ab2b82-78883a0f",
+ "url": "https://www.aljazeera.com/sports/2026/7/22/chelsea-sign-morgan-rogers-from-aston-villa-in-record-british-deal?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "lang": "en",
+ "detected_at": "2026-07-23T08:40:21Z",
+ "date": "2026-07-23",
+ "old_title": "Morgan Rogers 'so happy' after joining Chelsea in record British deal",
+ "new_title": "Morgan Rogers 'so happy' after joining Chelsea in record British deal",
+ "old_text": "The England World Cup forward Morgan Rogers has completed his British transfer record move from Aston Villa to Premier League rivals Chelsea.\nNo fee was officially disclosed, but media reports on Tuesday said it is worth 117 million pounds ($156.5m), which surpasses England teammate Elliot Anderson's 116 million pounds ($155m) switch from Nottingham Forest to Manchester City earlier this month.\nThe all-time record Premier League transfer is still Sweden striker Alexander Isak's 125 million pounds ($167m) move from Newcastle to Liverpool last year.\nThe 23-year-old Rogers, established as one of the Premier League's top attacking talents, has signed a contract with the London team until 2033.\n\"I'm so excited,\" he told the club's website. \"For me, Chelsea are the biggest club in London and a club I've always admired since I was a kid.\n\"I'm really excited about the project with the new manager, the players we've got and where the club is heading. That's why I'm here, and I can't wait to get started.\"\nRogers is the third major off-season signing by new Chelsea manager Xabi Alonso, following wing backs Marco Palestra and Geovany Quenda.\nRogers was part of the England team that finished third, beating France, at the World Cup last week. They had lost to Argentina 2-1 in their semifinal.\nHe scored 21 goals in 85 Premier League appearances for Villa, and last season helped guide the club to a top-four finish and to the Europa League title.\nRogers joined Villa from Middlesbrough in February 2024 for a reported fee of 8 million pounds (about $10.5m).\nHe made his England debut in November 2024 and has now won 22 caps for his country.\nChelsea's previous record signing was Ecuador midfielder Moises Caicedo, who joined from Brighton & Hove Albion for 115 million pounds (about $150m) in 2023.\nChelsea, who finished 10th in the Premier League last season, begin their league campaign away to Fulham on August 24.",
+ "new_text": "The England World Cup forward Morgan Rogers has completed his British transfer record move from Aston Villa to Premier League rivals Chelsea.\nNo fee was officially disclosed, but media reports on Tuesday said it is worth 117 million pounds ($156.5m), which surpasses England teammate Elliot Anderson's 116 million pounds ($155m) switch from Nottingham Forest to Manchester City earlier this month.\nRecommended Stories\nlist of 3 items- list 1 of 3Mexico goalkeeper Guillermo Ochoa retires after 22-year career\n- list 2 of 3FIFA World Cup final draws record viewership in United States\n- list 3 of 3Goats of football: Indian village holds tournament with an indigenous twist\nThe all-time record Premier League transfer is still Sweden striker Alexander Isak's 125 million pounds ($167m) move from Newcastle to Liverpool last year.\nThe 23-year-old Rogers, established as one of the Premier League's top attacking talents, has signed a contract with the London team until 2033.\n\"I'm so excited,\" he told the club's website. \"For me, Chelsea are the biggest club in London and a club I've always admired since I was a kid.\n\"I'm really excited about the project with the new manager, the players we've got and where the club is heading. That's why I'm here, and I can't wait to get started.\"\nRogers is the third major off-season signing by new Chelsea manager Xabi Alonso, following wing backs Marco Palestra and Geovany Quenda.\nRogers was part of the England team that finished third, beating France, at the World Cup last week. They had lost to Argentina 2-1 in their semifinal.\nHe scored 21 goals in 85 Premier League appearances for Villa, and last season helped guide the club to a top-four finish and to the Europa League title.\nRogers joined Villa from Middlesbrough in February 2024 for a reported fee of 8 million pounds (about $10.5m).\nHe made his England debut in November 2024 and has now won 22 caps for his country.\nChelsea's previous record signing was Ecuador midfielder Moises Caicedo, who joined from Brighton & Hove Albion for 115 million pounds (about $150m) in 2023.\nChelsea, who finished 10th in the Premier League last season, begin their league campaign away to Fulham on August 24.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "pounds ($155m) switch from Nottingham Forest to Manchester City earlier this month."
+    ],
+    [
+     "ins",
+     "Recommended Stories list of 3 items- list 1 of 3Mexico goalkeeper Guillermo Ochoa retires after 22-year career - list 2 of 3FIFA World Cup final draws record viewership in United States - list 3 of 3Goats of football: Indian village holds tournament with an indigenous twist"
+    ],
+    [
+     "eq",
+     "The all-time record Premier League transfer is still Sweden striker Alexander Isak's"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1437,
+  "numbers_changed": [
+   "1",
+   "2",
+   "22",
+   "3"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.952,
+ "similarity": 0.8863,
+ "adjudicated_by": "rules"
+}

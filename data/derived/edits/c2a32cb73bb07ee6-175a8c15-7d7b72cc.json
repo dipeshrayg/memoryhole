@@ -1,0 +1,161 @@
+{
+ "id": "c2a32cb73bb07ee6-175a8c15-7d7b72cc",
+ "url": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "lang": "en",
+ "detected_at": "2026-07-23T08:38:28Z",
+ "date": "2026-07-23",
+ "old_title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
+ "new_title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
+ "old_text": "- Published\nRebel Wilson has been cleared of accusations that she defamed a young Australian actress, a Sydney court has found.\nCharlotte MacInnes, who starred in Wilson's film The Deb, sued the Bridesmaids and Pitch Perfect actress for allegedly harming her reputation in Instagram posts in 2024 and 2025.\nIn the posts, Wilson accused MacInnes of retracting her complaint of sexual harassment against a film producer so she could further her career - a claim MacInnes denied.\nIn court on Wednesday, Justice Elizabeth Raper dismissed the case, saying the imputation that MacInnes had changed her story about the incident was not defamatory. The judge ordered MacInnes to pay Wilson's costs.\nThe case centres around an incident in September 2023 when MacInnes went for a swim at Bondi Beach with Amanda Ghost, one of the producers of Wilson's film.\nGhost had an allergic reaction to the cold water, prompting the pair to return to the producer's luxury apartment that she rented.\nGhost had a shower while MacInnes ran a bath for her. The young actress got into the bath to warm up with Ghost joining her shortly after. Both were wearing swimsuits.\nIn handing down her decision, Raper remarked on the bath incident.\n\"To say that the circumstance surrounding how they came to be in the bath are unusual would be an understatement,\" she told the court.\nRaper also found that MacInnes had failed to establish the posts had caused or were likely to serious harm.\nWilson posted on Instagram moments after the decision, saying the \"process has taught me a lot\".\n\"It has tested me, but it has also reinforced something I've always believed. I want to live my life standing up for what I believe is right, while continuing to create work that brings people joy.\"\nWilson thanked her supporters and said she was \"grateful this chapter has reached its conclusion\". She also thanked the judge in her case and \"the Australian legal system who I have the utmost respect for\".\nThe BBC has contacted MacInnes for comment.\nDuring the three-week trial earlier this year, Wilson claimed that MacInnes spoke to her the day after the bath incident and said \"Amanda asked me to have a bath and shower with her and it made me feel uncomfortable\".\nWilson later called MacInnes to ask her about the bath incident again as she was concerned about it.\nAfter the call, Wilson sent Ghost a text, which was shown to the court, that read: \"Charlotte says all good. She just meant 'it was a bizarre situation' not that she felt personally uncomfortable.\"\nEarlier, lawyers for MacInnes said Wilson's allegations were \"malicious concoctions\" and the court heard claims the Hollywood star had ordered a smear website to target Ghost, which Wilson denied.\nWilson's lawyer argued that MacInnes - who graduated from acting school in Western Australia in 2021 - had not been harmed by the posts, pointing to a recent record deal that she had signed.",
+ "new_text": "- Published\nRebel Wilson has been cleared of accusations that she defamed a young Australian actress, a Sydney court has found.\nCharlotte MacInnes, who starred in Wilson's film The Deb, sued the Bridesmaids and Pitch Perfect actress for harming her reputation, over Instagram posts Wilson made in 2024 and 2025.\nIn the posts, Wilson accused MacInnes of retracting her complaint of sexual harassment against a film producer so she could further her career - a claim MacInnes denied.\nIn court on Wednesday, Justice Elizabeth Raper dismissed the case, saying the imputation that MacInnes had changed her story about the incident was not defamatory. The judge ordered MacInnes to pay Wilson's costs.\nHow did the case come about?\nThe case centres around an incident involving MacInnes and one of the producers of Wilson's film, Amanda Ghost.\nIn September 2023, MacInnes and Ghost went for a swim at Bondi Beach where Ghost had an allergic reaction to the cold water, prompting the pair to return to the producer's luxury apartment that she rented.\nGhost had a shower while MacInnes ran a bath for her. The young actress got into the bath to warm up with Ghost joining her shortly after. Both were wearing swimsuits.\nGhost's assistant brought hot drinks for the two women while they were in the bath and sat with them briefly.\nThe court heard that Wilson later spoke to MacInnes about the incident and while both sides acknowledge the conversation happened, the content of the chat remains in dispute.\nWilson says MacInnes told her the bath incident had made her feel \"uncomfortable\" but MacInnes denies she said this, and only described the situation as \"weird\" or \"strange and bizarre\".\nMacInnes had earlier in April told the court that Wilson had \"mischaracterised and exploited\" an \"innocent incident\" and her relationship with Wilson deteriorated during filming of The Deb in the months after the bath incident.\nLawyers for MacInnes said Wilson's allegations were \"malicious concoctions\" and the court heard claims the Hollywood star had ordered a smear website to target Ghost, which Wilson denied.\nBut Wilson's lawyer argued that MacInnes - who graduated from acting school in Western Australia in 2021 - had not been harmed by the posts, pointing to a recent record deal that she had signed.\nIn handing down her decision, Justice Raper remarked on the bath incident.\n\"To say that the circumstance surrounding how they came to be in the bath are unusual would be an understatement,\" she told the court.\nRaper also found that MacInnes had failed to establish the posts had caused or were likely to serious harm.\nWilson posted on Instagram moments after the decision, saying the \"process has taught me a lot\".\n\"It has tested me, but it has also reinforced something I've always believed. I want to live my life standing up for what I believe is right, while continuing to create work that brings people joy.\"\nWilson thanked her supporters and said she was \"grateful this chapter has reached its conclusion\". She also thanked the judge in her case and \"the Australian legal system who I have the utmost respect for\".\nThe BBC has contacted MacInnes for comment.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Wilson's film The Deb, sued the Bridesmaids and Pitch Perfect actress for"
+    ],
+    [
+     "del",
+     "allegedly"
+    ],
+    [
+     "eq",
+     "harming her"
+    ],
+    [
+     "del",
+     "reputation in"
+    ],
+    [
+     "ins",
+     "reputation, over"
+    ],
+    [
+     "eq",
+     "Instagram posts"
+    ],
+    [
+     "ins",
+     "Wilson made"
+    ],
+    [
+     "eq",
+     "in 2024 and 2025. In the posts, Wilson accused MacInnes of retracting"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "incident was not defamatory. The judge ordered MacInnes to pay Wilson's costs."
+    ],
+    [
+     "ins",
+     "How did the case come about?"
+    ],
+    [
+     "eq",
+     "The case centres around an incident"
+    ],
+    [
+     "del",
+     "in"
+    ],
+    [
+     "ins",
+     "involving MacInnes and one of the producers of Wilson's film, Amanda Ghost. In"
+    ],
+    [
+     "eq",
+     "September"
+    ],
+    [
+     "del",
+     "2023 when"
+    ],
+    [
+     "ins",
+     "2023,"
+    ],
+    [
+     "eq",
+     "MacInnes"
+    ],
+    [
+     "ins",
+     "and Ghost"
+    ],
+    [
+     "eq",
+     "went for a swim at Bondi Beach"
+    ],
+    [
+     "del",
+     "with Amanda Ghost, one of the producers of Wilson's film."
+    ],
+    [
+     "ins",
+     "where"
+    ],
+    [
+     "eq",
+     "Ghost had an allergic reaction to the cold water, prompting the pair"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "warm up with Ghost joining her shortly after. Both were wearing swimsuits."
+    ],
+    [
+     "ins",
+     "Ghost's assistant brought hot drinks for the two women while they were in the bath and sat with them briefly. The court heard that Wilson later spoke to MacInnes about the incident and while both sides acknowledge the conversation happened, the content of the chat remains in dispute. Wilson says MacInnes told her the bath incident had made her feel \"uncomfortable\" but MacInnes denies she said this, and only described the situation as \"weird\" or \"strange and bizarre\". MacInnes had earlier in April told the court that Wilson had \"mischaracterised and exploited\" an \"innocent incident\" and her relationship with Wilson deteriorated during filming of The Deb in the months after the bath incident. Lawyers for MacInnes said Wilson's allegations were \"malicious concoctions\" and the court heard claims the Hollywood star had ordered a smear website to target Ghost, which Wilson denied. But Wilson's lawyer argued that MacInnes - who graduated from acting school in Western Australia in 2021 - had not been harmed by the posts, pointing to a recent record deal that she had signed."
+    ],
+    [
+     "eq",
+     "In handing down her decision,"
+    ],
+    [
+     "ins",
+     "Justice"
+    ],
+    [
+     "eq",
+     "Raper remarked on the bath incident. \"To say that the circumstance surrounding"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "have the utmost respect for\". The BBC has contacted MacInnes for comment."
+    ],
+    [
+     "del",
+     "During the three-week trial earlier this year, Wilson claimed that MacInnes spoke to her the day after the bath incident and said \"Amanda asked me to have a bath and shower with her and it made me feel uncomfortable\". Wilson later called MacInnes to ask her about the bath incident again as she was concerned about it. After the call, Wilson sent Ghost a text, which was shown to the court, that read: \"Charlotte says all good. She just meant 'it was a bizarre situation' not that she felt personally uncomfortable.\" Earlier, lawyers for MacInnes said Wilson's allegations were \"malicious concoctions\" and the court heard claims the Hollywood star had ordered a smear website to target Ghost, which Wilson denied. Wilson's lawyer argued that MacInnes - who graduated from acting school in Western Australia in 2021 - had not been harmed by the posts, pointing to a recent record deal that she had signed."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.7586,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 3,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.9,
+ "similarity": 0.9791,
+ "adjudicated_by": "rules"
+}

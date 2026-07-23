@@ -1,0 +1,49 @@
+{
+ "id": "348cd39d99b2330d-e0f05fff-fc3dc97a",
+ "url": "https://www.france24.com/en/france/20260722-louvre-gallery-where-jewellery-heist-took-place-to-reopen-to-public",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "lang": "en",
+ "detected_at": "2026-07-23T08:42:20Z",
+ "date": "2026-07-23",
+ "old_title": "Louvre gallery where jewellery heist took place to reopen to public",
+ "new_title": "Louvre gallery where jewellery heist took place to reopen to public",
+ "old_text": "Louvre gallery where jewellery heist took place to reopen to public\nThe Apollo Gallery at Paris's Louvre Museum, the site of the jewelry heist of October 2025, is set to reopen to the public on Wednesday without any jewelry on display, an informed source told AFP.\nThe Apollo Gallery of Paris's Louvre Museum, where French crown jewels worth 88 million euros were stolen in 2025 in a brazen heist, will reopen to the public on Wednesday.\nBut no jewels will be on display and it will revert to its 17th century function as a state gallery, an informed source told AFP Monday.\n\"The gallery will open on Wednesday,\" the source said, confirming a report in Le Parisien newspaper and added Culture Minister Catherine Pegard would be present.\nRead moreLouvre heist raises decades-old questions about museum security\nIn an interview with Le Parisien, the museum's president Christophe Leribault said the \"collections and precious objects\" that had been displayed earlier, had been removed.\nOn October 19, 2025, robbers disguised as construction workers entered the gallery using a truck-mounted lift in the morning and stole eight crown jewels, which remain missing.\nFor the jewellery that was not stolen, \"we are going to create a secure room, a vault with no windows, in another part of the museum,\" Leribault said.\n\"It's a major construction project and we have to find the ideal location. And the funding,\" he added.\nRead moreFrance's Louvre museum 'running out of steam', new director says\nThe Louvre burglary stunned the world and revealed major security lapses at the world's most visited museum, visited by around nine million people annually.\nThe theft also triggered an internal crisis at the Louvre, leading to the replacement of its president Laurence des Cars by Leribault.\nSecurity issues at the Louvre had been pushed to the background in recent years, a parliamentary commission on the security of museums in France said in mid-May.\n(FRANCE 24 with AFP)",
+ "new_text": "Louvre gallery where jewellery heist took place to reopen to public\nThe Apollo Gallery at Paris's Louvre Museum, the site of the jewelry heist of October 2025, is set to reopen to the public on Wednesday without any jewelry on display.\nThe Apollo Gallery of Paris's Louvre Museum, where French crown jewels worth 88 million euros were stolen in 2025 in a brazen heist, will reopen to the public on Wednesday.\nBut no jewels will be on display and it will revert to its 17th century function as a state gallery, an informed source told AFP Monday.\n\"The gallery will open on Wednesday,\" the source said, confirming a report in Le Parisien newspaper and added Culture Minister Catherine Pegard would be present.\nRead moreLouvre heist raises decades-old questions about museum security\nIn an interview with Le Parisien, the museum's president Christophe Leribault said the \"collections and precious objects\" that had been displayed earlier, had been removed.\nOn October 19, 2025, robbers disguised as construction workers entered the gallery using a truck-mounted lift in the morning and stole eight crown jewels, which remain missing.\nFor the jewellery that was not stolen, \"we are going to create a secure room, a vault with no windows, in another part of the museum,\" Leribault said.\n\"It's a major construction project and we have to find the ideal location. And the funding,\" he added.\nRead moreFrance's Louvre museum 'running out of steam', new director says\nThe Louvre burglary stunned the world and revealed major security lapses at the world's most visited museum, visited by around nine million people annually.\nThe theft also triggered an internal crisis at the Louvre, leading to the replacement of its president Laurence des Cars by Leribault.\nSecurity issues at the Louvre had been pushed to the background in recent years, a parliamentary commission on the security of museums in France said in mid-May.\n(FRANCE 24 with AFP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "set to reopen to the public on Wednesday without any jewelry on"
+    ],
+    [
+     "del",
+     "display, an informed source told AFP."
+    ],
+    [
+     "ins",
+     "display."
+    ],
+    [
+     "eq",
+     "The Apollo Gallery of Paris's Louvre Museum, where French crown jewels worth"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0217,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9852,
+ "adjudicated_by": "rules"
+}

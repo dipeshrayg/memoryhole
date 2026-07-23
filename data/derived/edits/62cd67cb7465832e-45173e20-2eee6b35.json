@@ -1,0 +1,49 @@
+{
+ "id": "62cd67cb7465832e-45173e20-2eee6b35",
+ "url": "https://www.bbc.co.uk/sport/darts/articles/cn9nge10504o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "lang": "en",
+ "detected_at": "2026-07-23T08:48:34Z",
+ "date": "2026-07-23",
+ "old_title": "World Matchplay: Luke Littler throws nine-darter in thrilling win over Nathan Aspinall at Winter Gardens in Blackpool",
+ "new_title": "World Matchplay 2026 results: Luke Littler throws nine-darter in thrilling win over Nathan Aspinall",
+ "old_text": "- Published\nWorld number one Luke Littler threw a thrilling nine-darter as he booked his place in the quarter-finals of the World Matchplay with a 11-8 win over Nathan Aspinall.\nLittler began the contest at Winter Gardens in Blackpool in sensational fashion with a perfect leg, finishing on double 15.\nThe Warrington teenager cupped his ears to lap up the adulation of a delirious crowd while fellow Englishman Aspinall laughed in disbelief before he gave Littler a high five.\nExcitement levels were raised further in the fourth leg when Littler had double 15 remaining for a second nine-darter, only for his arrow to land just the wrong side of the wire.\nAspinall turned to the crowd and jokingly offered up his darts to see if anyone else wanted to give the 19-year-old a game.\nHe refused to allow Littler to pull away, though, and managed to haul himself back on terms at 7-7 only for the defending champion to reel off the next three legs.\nAspinall briefly rallied again but when he missed tops in the 19th leg, Littler was able to checkout 52 as he sealed victory with an incredible 113.68 average - the second highest in the tournament's history - featuring a total of 14 180s.\n\"The nine-darter just happened. These guys [the crowd] were booing me at the beginning and then they started cheering me on!\" Littler told Sky Sports.\n\"It felt amazing and that was probably the best game Nathan and I have played against each other - it's never over against Nathan because he never gives up.\n\"That's two unbelievable performances from myself here. Hopefully I can pick up the title again, but I just have to focus on who I play next.\"\nLittler will face Josh Rock, who impressed in a 11-6 victory over Stephen Bunting. The pair met in last year's Matchplay semi-final.\nElsewhere, Michael van Gerwen's campaign ended as he suffered a 14-12 defeat to fellow Dutchman Dirk van Duijvenbode.\nVan Gerwen had battled back from 8-4 down to level the match at 10-all but Van Duijvenbode closed out the contest.\nScotland's Gary Anderson also progressed to the last eight with an 11-7 win over Welshman Jonny Clayton.\nTuesday's World Matchplay results\nNumbers in brackets indicate seedings\n- (5) Jonny Clayton 7-11 Gary Anderson (12)\n- (4) Michael van Gerwen 12-14 Dirk van Duijvenbode\n- (1) Luke Littler 11-8 Nathan Aspinall (16)\n- (8) Josh Rock 11-6 Stephen Bunting (9)\nWednesday's Matchplay schedule\nRound two - action from 19:15 BST\n- Cameron Menzies v Ross Smith (15)\n- (7) Gerwyn Price v Rob Cross\n- (3) Gian van Veen v Wessel Nijman (14)\n- (6) James Wade v Ryan Searle (11)",
+ "new_text": "- Published\nWorld number one Luke Littler threw a thrilling nine-darter as he booked his place in the quarter-finals of the World Matchplay with an 11-8 win over Nathan Aspinall.\nLittler began the contest at Winter Gardens in Blackpool in sensational fashion with a perfect leg, finishing on double 15.\nThe Warrington teenager cupped his ears to lap up the adulation of a delirious crowd while fellow Englishman Aspinall laughed in disbelief before he gave Littler a high five.\nExcitement levels were raised further in the fourth leg when Littler had double 15 remaining for a second nine-darter, only for his arrow to land just the wrong side of the wire.\nAspinall turned to the crowd and jokingly offered up his darts to see if anyone else wanted to give the 19-year-old a game.\nHe refused to allow Littler to pull away, though, and managed to haul himself back on terms at 7-7 only for the defending champion to reel off the next three legs.\nAspinall briefly rallied again but when he missed tops in the 19th leg, Littler was able to checkout 52 as he sealed victory with an incredible 113.68 average - the second highest in the tournament's history - featuring a total of 14 180s.\n\"The nine-darter just happened. These guys [the crowd] were booing me at the beginning and then they started cheering me on!\" Littler told Sky Sports.\n\"It felt amazing and that was probably the best game Nathan and I have played against each other - it's never over against Nathan because he never gives up.\n\"That's two unbelievable performances from myself here. Hopefully I can pick up the title again, but I just have to focus on who I play next.\"\nLittler will face Josh Rock, who impressed in a 11-6 victory over Stephen Bunting. The pair met in last year's Matchplay semi-final.\nElsewhere, Michael van Gerwen's campaign ended as he suffered a 14-12 defeat to fellow Dutchman Dirk van Duijvenbode.\nVan Gerwen had battled back from 8-4 down to level the match at 10-all but Van Duijvenbode closed out the contest.\nScotland's Gary Anderson also progressed to the last eight with an 11-7 win over Welshman Jonny Clayton.\nTuesday's World Matchplay results\nNumbers in brackets indicate seedings\n- (5) Jonny Clayton 7-11 Gary Anderson (12)\n- (4) Michael van Gerwen 12-14 Dirk van Duijvenbode\n- (1) Luke Littler 11-8 Nathan Aspinall (16)\n- (8) Josh Rock 11-6 Stephen Bunting (9)\nWednesday's Matchplay schedule\nRound two - action from 19:15 BST\n- Cameron Menzies v Ross Smith (15)\n- (7) Gerwyn Price v Rob Cross\n- (3) Gian van Veen v Wessel Nijman (14)\n- (6) James Wade v Ryan Searle (11)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "he booked his place in the quarter-finals of the World Matchplay with"
+    ],
+    [
+     "del",
+     "a"
+    ],
+    [
+     "ins",
+     "an"
+    ],
+    [
+     "eq",
+     "11-8 win over Nathan Aspinall. Littler began the contest at Winter Gardens"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0045,
+  "numbers_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}
