@@ -1,0 +1,326 @@
+{
+ "id": "583b5924675c1a6d-5ad6ec01-c994e7d2",
+ "url": "https://www.independent.co.uk/news/world/americas/crime/wisconsin-police-shooting-victim-response-b3020236.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-23T13:20:38Z",
+ "date": "2026-07-23",
+ "old_title": "Wisconsin police shooting fuels anger and questions about how 'execution' unfolded",
+ "new_title": "Wisconsin police shooting fuels anger and questions about how 'execution' unfolded",
+ "old_text": "A fatal police shooting in Madison, Wisconsin, has fueled anger in the community as harrowing footage appeared to show the moment an officer killed a man at point-blank range in the middle of the street.\nThe victim, believed to be in his 30s and has not yet been identified, was seen in the cellphone footage struggling with several Madison Police Department officers before one of them fired the fatal shot Wednesday afternoon.\n\"This was an execution, and it never should have happened,\" said Fran Hong, a Democratic state representative running for governor.\nCitizens reacted to the tragedy by marching on the State Capitol to protest, chanting, \"Arrest the cops!\" and later took over the stage at a downtown summer concert to draw attention to the killing, prompting the organizers to cancel the performance underway.\nMadison Police Chief John Patterson warned the public against leaping to conclusions about the circumstances surrounding his death based on footage widely shared on social media.\nHere is everything we know about the case so far\nWhat happened?\nBystanders have shared disturbing footage of the shooting, that took place Wednesday at the busy intersection of South Baldwin and Williamson Streets around 1:34 p.m.\nIt showed the man, who police said was suspected of stealing bicycles and was armed with a knife, being pinned to the ground by several officers.\nA struggle ensued and an officer yelled, \"taser, taser taser,\" but was unable to discharge the weapon, police said.\nOfficers wrestled the man to the floor, when one of them pulled out his weapon and appeared to fire several shots at close range. The victim was then seen slumped on the ground and did not move again.\nThe Madison Police Department said in a statement that they had been responding to a report alleging that someone had been seen attempting to break into parked cars in the city's Marquette neighborhood.\nFour officers then pursued the suspect, who fled on a bicycle, leading to a \"physical struggle\" at the intersection during which, police allege, the man resisted arrest and injured one of the officers with a \"fix-blade knife,\" prompting them to Taser him, which proved \"unsuccessful.\"\nThe injured officer, who the MPD said is \"considered a veteran,\" then fatally shot the suspect, who was subsequently taken to hospital and pronounced dead.\nA second officer was injured in the episode but police have not said how, only that they do not believe his wound was caused by the knife.\nThe four officers involved have since been placed on administrative leave according to procedure and the Wisconsin Department of Justice Division of Criminal Investigation has commenced an independent probe.\nHow has the community reacted?\nPolice Chief Patterson appealed for calm at a press conference in the aftermath, recounting the official narrative and pointing out that video of the shooting seen online only offered one side of the story.\nHe offered few details about the victim's identity, other than to say he was a man believed to be in his 30s.\nIncumbent Wisconsin Gov. Tony Evers called for \"transparency and accountability\" on X, expressing his sympathies for the victim's family and saying that any protest should be conducted \"peacefully and respectfully.\"",
+ "new_text": "A fatal police shooting in Madison, Wisconsin, has fueled anger in the community as harrowing footage appeared to show the moment an officer killed a man at point-blank range in the middle of the street.\nThe victim, believed to be in his 30s and has not yet been identified, was seen in the cellphone footage struggling with several Madison Police Department officers before one of them fired the fatal shot Wednesday afternoon.\n\"This was an execution, and it never should have happened,\" said Fran Hong, a Democratic state representative running for governor.\nHundreds of citizens reacted to the tragedy by marching on the State Capitol to protest, chanting, \"Arrest the cops!\" They later took over the stage at a downtown summer concert to draw attention to the killing, prompting the organizers to cancel the performance underway.\nMadison Police Chief John Patterson warned the public against leaping to conclusions about the circumstances surrounding his death based on footage widely shared on social media.\nHere is everything we know about the case so far\nWhat happened?\nBystanders have shared disturbing footage of the shooting that took place Wednesday at the busy intersection of Madison's South Baldwin and Williamson Streets around 1:34 p.m.\nMadison Police Department said officers were responding to a report alleging that someone had been seen attempting to break into parked cars in the city's Marquette neighborhood, according to a statement.\nThe video showed the man, who police said was armed with a knife, being pinned to the ground by several officers after a pursuit on foot.\nA \"physical struggle\" ensued and an officer yelled, \"Taser, Taser Taser,\" but was unable to discharge the weapon, police said.\nOfficers wrestled the man to the floor, when one of them pulled out his weapon and appeared to fire several shots at close range. The victim was then seen slumped on the ground and did not move again. He was taken to the hospital and pronounced dead.\nThe Madison Police Department described the officer who fatally shot the man as \"a veteran,\" and said he fired after being injured by the deceased, who \"pulled out a fixed blade knife\" while resisting arrest.\nA second officer was injured in the incident but police have not said how, only that they do not believe his wound was caused by the knife.\nThe four officers involved have since been placed on administrative leave according to procedure and the Wisconsin Department of Justice Division of Criminal Investigation has commenced an independent probe.\nPolice Chief Patterson appealed for calm at a press conference in the aftermath, recounting the official narrative and pointing out that video of the shooting seen online only offered one side of the story.\nMadison police officers do not wear body cameras, so there is no bodycam footage of the shooting, Patterson said.\nHow has the community reacted?\nHundreds of people took to the streets Wednesday evening to protest the killing.\nHong, a Democratic primary candidates in Wisconsin's governor's race, attended on a vigil and spoke to demonstrators through a megaphone, videos on social media showed.\n\"This state sanctioned violence was an execution,\" she told a crowd.\nIncumbent Wisconsin Gov. Tony Evers called for \"transparency and accountability\" on X, expressing his sympathies for the victim's family and saying that any protest should be conducted \"peacefully and respectfully.\"\n\"Each incident reopens deep wounds, raises difficult questions, and reminds us of the urgent work that remains to build trust, transparency, and accountability in our systems,\" said Milwaukee County Executive David Crowley, who is also running for governor.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "have happened,\" said Fran Hong, a Democratic state representative running for governor."
+    ],
+    [
+     "del",
+     "Citizens"
+    ],
+    [
+     "ins",
+     "Hundreds of citizens"
+    ],
+    [
+     "eq",
+     "reacted to the tragedy by marching on the State Capitol to protest, chanting, \"Arrest the cops!\""
+    ],
+    [
+     "del",
+     "and"
+    ],
+    [
+     "ins",
+     "They"
+    ],
+    [
+     "eq",
+     "later took over the stage at a downtown summer concert to draw"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "case so far What happened? Bystanders have shared disturbing footage of the"
+    ],
+    [
+     "del",
+     "shooting,"
+    ],
+    [
+     "ins",
+     "shooting"
+    ],
+    [
+     "eq",
+     "that took place Wednesday at the busy intersection of"
+    ],
+    [
+     "ins",
+     "Madison's"
+    ],
+    [
+     "eq",
+     "South Baldwin and Williamson Streets around 1:34 p.m."
+    ],
+    [
+     "del",
+     "It"
+    ],
+    [
+     "ins",
+     "Madison Police Department said officers were responding to a report alleging that someone had been seen attempting to break into parked cars in the city's Marquette neighborhood, according to a statement. The video"
+    ],
+    [
+     "eq",
+     "showed the man, who police said"
+    ],
+    [
+     "del",
+     "was suspected of stealing bicycles and"
+    ],
+    [
+     "eq",
+     "was armed with a knife, being pinned to the ground by several"
+    ],
+    [
+     "del",
+     "officers."
+    ],
+    [
+     "ins",
+     "officers after a pursuit on foot."
+    ],
+    [
+     "eq",
+     "A"
+    ],
+    [
+     "del",
+     "struggle"
+    ],
+    [
+     "ins",
+     "\"physical struggle\""
+    ],
+    [
+     "eq",
+     "ensued and an officer yelled,"
+    ],
+    [
+     "del",
+     "\"taser, taser taser,\""
+    ],
+    [
+     "ins",
+     "\"Taser, Taser Taser,\""
+    ],
+    [
+     "eq",
+     "but was unable to discharge the weapon, police said. Officers wrestled the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "was then seen slumped on the ground and did not move again."
+    ],
+    [
+     "ins",
+     "He was taken to the hospital and pronounced dead."
+    ],
+    [
+     "eq",
+     "The Madison Police Department"
+    ],
+    [
+     "del",
+     "said in a statement that they had been responding to a report alleging that someone had been seen attempting to break into parked cars in"
+    ],
+    [
+     "ins",
+     "described"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "city's Marquette neighborhood. Four officers then pursued the suspect,"
+    ],
+    [
+     "ins",
+     "officer"
+    ],
+    [
+     "eq",
+     "who"
+    ],
+    [
+     "del",
+     "fled on a bicycle, leading to a \"physical struggle\" at the intersection during which, police allege, the man resisted arrest and injured one of the officers with a \"fix-blade knife,\" prompting them to Taser him, which proved \"unsuccessful.\" The injured officer, who the MPD said is \"considered a veteran,\" then"
+    ],
+    [
+     "eq",
+     "fatally shot the"
+    ],
+    [
+     "del",
+     "suspect,"
+    ],
+    [
+     "ins",
+     "man as \"a veteran,\" and said he fired after being injured by the deceased,"
+    ],
+    [
+     "eq",
+     "who"
+    ],
+    [
+     "del",
+     "was subsequently taken to hospital and pronounced dead."
+    ],
+    [
+     "ins",
+     "\"pulled out a fixed blade knife\" while resisting arrest."
+    ],
+    [
+     "eq",
+     "A second officer was injured in the"
+    ],
+    [
+     "del",
+     "episode"
+    ],
+    [
+     "ins",
+     "incident"
+    ],
+    [
+     "eq",
+     "but police have not said how, only that they do not believe"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Department of Justice Division of Criminal Investigation has commenced an independent probe."
+    ],
+    [
+     "del",
+     "How has the community reacted?"
+    ],
+    [
+     "eq",
+     "Police Chief Patterson appealed for calm at a press conference in the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of the shooting seen online only offered one side of the story."
+    ],
+    [
+     "del",
+     "He offered few details about"
+    ],
+    [
+     "ins",
+     "Madison police officers do not wear body cameras, so there is no bodycam footage of"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "victim's identity, other than"
+    ],
+    [
+     "ins",
+     "shooting, Patterson said. How has the community reacted? Hundreds of people took"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "say he"
+    ],
+    [
+     "ins",
+     "the streets Wednesday evening to protest the killing. Hong, a Democratic primary candidates in Wisconsin's governor's race, attended on a vigil and spoke to demonstrators through a megaphone, videos on social media showed. \"This state sanctioned violence"
+    ],
+    [
+     "eq",
+     "was"
+    ],
+    [
+     "ins",
+     "an execution,\" she told"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "man believed to be in his 30s."
+    ],
+    [
+     "ins",
+     "crowd."
+    ],
+    [
+     "eq",
+     "Incumbent Wisconsin Gov. Tony Evers called for \"transparency and accountability\" on X,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "family and saying that any protest should be conducted \"peacefully and respectfully.\""
+    ],
+    [
+     "ins",
+     "\"Each incident reopens deep wounds, raises difficult questions, and reminds us of the urgent work that remains to build trust, transparency, and accountability in our systems,\" said Milwaukee County Executive David Crowley, who is also running for governor."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.6113,
+  "numbers_changed": [
+   "30"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 4,
+  "blocks_added": 3,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.9,
+ "similarity": 0.9849,
+ "adjudicated_by": "rules"
+}

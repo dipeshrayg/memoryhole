@@ -1,0 +1,120 @@
+{
+ "id": "3449698f3e9b02b5-8192dc41-a7e6ad18",
+ "url": "https://www.independent.co.uk/news/world/americas/us-politics/vance-secret-service-agent-leak-b3020207.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-23T13:20:36Z",
+ "date": "2026-07-23",
+ "old_title": "Secret Service agent suspected of JD Vance leak put on leave: report",
+ "new_title": "Secret Service agent suspected of JD Vance leak put on leave: report",
+ "old_text": "A Secret Service agent assigned to Vice President JD Vance has been placed on administrative leave after allegedly leaking information about the vice president to the media, according to a new report.\nThe agent is believed to have been a source for an MS NOW story this month about agents on Vance's team being \"fed up\" with \"inappropriate\" travel requests, CNN reported, citing sources familiar with the matter.\nAs part of the story, the outlet reported on the vice president's travel plans, including a planned helicopter trip with his son that was later called off. The Secret Service and the FBI took notice of the story, and were angered at the publication of operational details, one source said.\nThe agent, who has not been identified, is now subject to an internal agency review while on administrative leave, CNN reported. It's unclear if they could face legal repercussions.\nThe Independent has contacted the Secret Service, the White House and MS NOW for comment.\nThis is a breaking story...\nJoin our commenting forum\nJoin thought-provoking conversations, follow other Independent readers and see their replies",
+ "new_text": "A Secret Service agent assigned to Vice President JD Vance has been placed on administrative leave after allegedly leaking information about the vice president to the media, according to a new report.\nThe agent is believed to have been a source for an MS NOW story this month about agents on Vance's team being \"fed up\" with \"inappropriate\" travel requests, CNN reported, citing sources familiar with the matter.\nAs part of the story, MS NOW reported on the vice president's travel plans, including a planned helicopter trip with his son that was later called off. The Secret Service and the FBI took notice of the story, and were angered at the publication of operational details, one source said.\nThe agent - who has not been identified - is now subject to an internal agency review while on administrative leave, CNN reported. It's unclear if they could face legal repercussions.\nThe Independent has contacted the Secret Service, the White House and MS NOW for comment.\nThe move comes as the Trump administration has sought to curb leaks to the press and penalize what it considers false reporting or the disclosure of sensitive information.\nEarlier this month, the Department of Justice issued subpoenas to journalists at The New York Times after the newspaper reported on security concerns about the president's Qatari-gifted Air Force One.\nIn a statement to The Independent at the time, the DOJ said its investigation is aimed not at reporters but at those who leak classified information. A Times spokesperson said the subpoenas \"should shock the conscience of any American who believes in the Constitution and the press freedom it protects.\"\nAlso in June, Axios reported that White House officials believe someone in the president's inner circle may have provided New York Times reporters with recordings of secure conversations inside the Situation Room. Times reporters Maggie Haberman and Jonathan Swan published a book that month that recounted discussions in the Situation Room.\nIn May, the Trump administration proposed a government-wide mandate to require all federal workers to sign non-disclosure agreements to prevent the dissemination of \"confidential government information\" to reporters.\nShortly after the war with Iran began in late February, Trump wrote on Truth Social that media outlets publishing false information from Iranian officials should be charged with treason, which is punishable by death.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "reported, citing sources familiar with the matter. As part of the story,"
+    ],
+    [
+     "del",
+     "the outlet"
+    ],
+    [
+     "ins",
+     "MS NOW"
+    ],
+    [
+     "eq",
+     "reported on the vice president's travel plans, including a planned helicopter trip"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "were angered at the publication of operational details, one source said. The"
+    ],
+    [
+     "del",
+     "agent,"
+    ],
+    [
+     "ins",
+     "agent -"
+    ],
+    [
+     "eq",
+     "who has not been"
+    ],
+    [
+     "del",
+     "identified,"
+    ],
+    [
+     "ins",
+     "identified -"
+    ],
+    [
+     "eq",
+     "is now subject to an internal agency review while on administrative leave,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "contacted the Secret Service, the White House and MS NOW for comment."
+    ],
+    [
+     "del",
+     "This"
+    ],
+    [
+     "ins",
+     "The move comes as the Trump administration has sought to curb leaks to the press and penalize what it considers false reporting or the disclosure of sensitive information. Earlier this month, the Department of Justice issued subpoenas to journalists at The New York Times after the newspaper reported on security concerns about the president's Qatari-gifted Air Force One. In a statement to The Independent at the time, the DOJ said its investigation"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "ins",
+     "aimed not at reporters but at those who leak classified information. A Times spokesperson said the subpoenas \"should shock the conscience of any American who believes in the Constitution and the press freedom it protects.\" Also in June, Axios reported that White House officials believe someone in the president's inner circle may have provided New York Times reporters with recordings of secure conversations inside the Situation Room. Times reporters Maggie Haberman and Jonathan Swan published"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "breaking story... Join our commenting forum Join thought-provoking conversations, follow other Independent readers and see their replies"
+    ],
+    [
+     "ins",
+     "book that month that recounted discussions in the Situation Room. In May, the Trump administration proposed a government-wide mandate to require all federal workers to sign non-disclosure agreements to prevent the dissemination of \"confidential government information\" to reporters. Shortly after the war with Iran began in late February, Trump wrote on Truth Social that media outlets publishing false information from Iranian officials should be charged with treason, which is punishable by death."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.3571,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 3,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.013,
+ "similarity": 0.9512,
+ "adjudicated_by": "rules"
+}
