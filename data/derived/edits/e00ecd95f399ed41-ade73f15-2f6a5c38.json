@@ -1,0 +1,48 @@
+{
+ "id": "e00ecd95f399ed41-ade73f15-2f6a5c38",
+ "url": "https://www.bbc.co.uk/sport/football/videos/cddj0m5pzglo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-23T12:19:51Z",
+ "date": "2026-07-23",
+ "old_title": "World Cup 2026: Stars shine at World Cup final half-time show",
+ "new_title": "World Cup 2026: Stars shine at World Cup final half-time show",
+ "old_text": "Stars shine at the World Cup final half-time show\nMadonna, BTS, Justin Bieber, and Shakira entertain the crowd at half-time in the World Cup final, with a special appearance from Ronaldo and Ronaldinho at the New York New Jersey Stadium.\nAvailable to UK users only.",
+ "new_text": "Stars shine at the World Cup final half-time show\nThere was an error\nMadonna, BTS, Justin Bieber, and Shakira entertain the crowd at half-time in the World Cup final, with a special appearance from Ronaldo and Ronaldinho at the New York New Jersey Stadium.\nAvailable to UK users only.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Stars shine at the World Cup final half-time show"
+    ],
+    [
+     "ins",
+     "There was an error"
+    ],
+    [
+     "eq",
+     "Madonna, BTS, Justin Bieber, and Shakira entertain the crowd at half-time in"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0889,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9802,
+ "adjudicated_by": "rules"
+}

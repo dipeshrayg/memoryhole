@@ -1,17 +1,17 @@
 {
- "last_run": "2026-07-23T11:54:25Z",
+ "last_run": "2026-07-23T12:19:30Z",
  "sources": [
   {
    "name": "BBC News",
    "ok": true,
-   "checked": 29,
+   "checked": 30,
    "changed": 5,
    "error": null
   },
   {
    "name": "The Guardian",
    "ok": true,
-   "checked": 3,
+   "checked": 4,
    "changed": 0,
    "error": null
   },
@@ -25,15 +25,15 @@
   {
    "name": "Al Jazeera",
    "ok": true,
-   "checked": 36,
-   "changed": 1,
+   "checked": 38,
+   "changed": 0,
    "error": null
   },
   {
    "name": "Deutsche Welle",
    "ok": true,
-   "checked": 33,
-   "changed": 4,
+   "checked": 34,
+   "changed": 1,
    "error": null
   },
   {
@@ -47,14 +47,14 @@
    "name": "ABC News (Australia)",
    "ok": true,
    "checked": 36,
-   "changed": 3,
+   "changed": 2,
    "error": null
   },
   {
    "name": "The Independent",
    "ok": true,
-   "checked": 35,
-   "changed": 6,
+   "checked": 40,
+   "changed": 10,
    "error": null
   },
   {
@@ -81,7 +81,7 @@
   {
    "name": "GOV.UK announcements",
    "ok": true,
-   "checked": 20,
+   "checked": 21,
    "changed": 0,
    "error": null
   },
@@ -103,7 +103,7 @@
    "name": "BBC Business",
    "ok": true,
    "checked": 2,
-   "changed": 0,
+   "changed": 1,
    "error": null
   },
   {
@@ -123,16 +123,16 @@
   {
    "name": "Yahoo Finance",
    "ok": true,
-   "checked": 5,
+   "checked": 8,
    "changed": 0,
    "error": null
   },
   {
    "name": "Mining.com",
-   "ok": true,
-   "checked": 5,
+   "ok": false,
+   "checked": 0,
    "changed": 0,
-   "error": null
+   "error": "feed returned HTTP 403"
   },
   {
    "name": "BBC Science",
@@ -151,8 +151,8 @@
   {
    "name": "BBC Sport",
    "ok": true,
-   "checked": 27,
-   "changed": 13,
+   "checked": 28,
+   "changed": 15,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "name": "Guardian Culture",
    "ok": true,
-   "checked": 28,
+   "checked": 29,
    "changed": 0,
    "error": null
   },
@@ -201,19 +201,19 @@
    "name": "Ars Technica",
    "ok": true,
    "checked": 20,
-   "changed": 0,
+   "changed": 1,
    "error": null
   },
   {
    "name": "Variety",
    "ok": true,
-   "checked": 30,
-   "changed": 1,
+   "checked": 32,
+   "changed": 0,
    "error": null
   }
  ],
- "articles_checked": 564,
- "edits_found": 45,
- "duration_s": 1131.5,
- "total_edits": 344
+ "articles_checked": 577,
+ "edits_found": 47,
+ "duration_s": 1144.0,
+ "total_edits": 391
 }

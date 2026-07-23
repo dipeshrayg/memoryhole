@@ -1,0 +1,44 @@
+{
+ "id": "3cbc7a999c8f141b-80b6220e-077288b2",
+ "url": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-07-23T12:30:22Z",
+ "date": "2026-07-23",
+ "old_title": "Co-founder of firm hacked by rogue OpenAI models says it is 'a wake-up call'",
+ "new_title": "Co-founder of firm hacked by rogue OpenAI models says it is 'a wake-up call'",
+ "old_text": "The co-founder of Hugging Face, a technology start-up that was hacked after some of OpenAI's most advanced artificial intelligence (AI) models went rogue, said on Thursday that the incident is \"a wake-up call\" for the industry.\nThomas Wolf told BBC's Newsday radio programme that \"this will be one of the most common types of cyber attacks we see\", but that most firms are not aware that the \"game has changed\".\nThe BBC has contacted OpenAI for comment.\nThe ChatGPT-maker said on Tuesday that its AI models broke out of a secure test environment during a trial and launched a cyber attack. The firm said the incident was \"unprecedented\" and that it was conducting an investigation with Hugging Face.\nAI agents are able to operate alone to accomplish tasks after human instruction.\nWolf said that Hugging Face initially had no idea where the attack originated when signs of it surfaced in mid-July but that the company was able to contain the breach.\nHugging Face is one of the world's largest open-source hubs for sharing AI models and is often used by tech developers and researchers.\nWolf said the breach was \"very different\" from the usual cyber attacks that Hugging Face often faces and that OpenAI quickly informed the company that its models were behind the hack.\nIn a \"very short time\" there were 17,000 attacks on Hugging Face's network from various IP (Internet Protocol) addresses, said Wolf, who is also the firm's chief science officer.\nWolf said it was a warning to other companies that they must strengthen their cybersecurity defences to counter such attacks.\nThe hack is \"worrying\" because it suggests OpenAI's models ignored the typical safeguards that would prevent an AI program from committing a cyber attack, said Nate Soares from the Machine Intelligence Research Institute.\n\"In some sense, it knew that this was not what the creators intended. It just didn't care,\" he added.\nOther organisations have also taken note of the incident.\nA UK government spokesperson said the country's AI Security Institute was studying how the AI system behaved in the incident and that it was continuing to work with OpenAI and other labs to strengthen safeguards.\nThey urged organisations to ramp up their cyber security measures by taking steps such as enrolling in the government-backed Cyber Essentials certification scheme.\nThe incident has come at a crucial time for the industry after the US government last month ordered American tech firm Anthropic to restrict access to its AI models over national security concerns. The Department of Commerce lifted the restrictions several weeks later.\nPeople in the industry have also raised security concerns over the widespread use of open-source models in China, allowing anyone to install and customise AI tools released by major developers.\nChinese start-up Moonshot AI will release its Kimi K3 open-source model on 27 July. Since debuting last week, it has drawn industry attention, with many viewing it as a strong competitor to leading Western AI systems.\nBut on Wednesday a White House adviser accused Moonshot of a \"large scale\" effort to steal the capabilities of top US AI models.",
+ "new_text": "- Published\nThe co-founder of Hugging Face, a technology start-up that was hacked after some of OpenAI's most advanced artificial intelligence (AI) models went rogue, said on Thursday that the incident is \"a wake-up call\" for the industry.\nThomas Wolf told BBC's Newsday radio programme that \"this will be one of the most common types of cyber attacks we see\", but that most firms are not aware that the \"game has changed\".\nThe BBC has contacted OpenAI for comment.\nThe ChatGPT-maker said on Tuesday that its AI models broke out of a secure test environment during a trial and launched a cyber attack. The firm said the incident was \"unprecedented\" and that it was conducting an investigation with Hugging Face.\nAI agents are able to operate alone to accomplish tasks after human instruction.\nWolf said that Hugging Face initially had no idea where the attack originated when signs of it surfaced in mid-July but that the company was able to contain the breach.\nHugging Face is one of the world's largest open-source hubs for sharing AI models and is often used by tech developers and researchers.\nWolf said the breach was \"very different\" from the usual cyber attacks that Hugging Face often faces and that OpenAI quickly informed the company that its models were behind the hack.\nIn a \"very short time\" there were 17,000 attacks on Hugging Face's network from various IP (Internet Protocol) addresses, said Wolf, who is also the firm's chief science officer.\nWolf said it was a warning to other companies that they must strengthen their cybersecurity defences to counter such attacks.\nThe hack is \"worrying\" because it suggests OpenAI's models ignored the typical safeguards that would prevent an AI program from committing a cyber attack, said Nate Soares from the Machine Intelligence Research Institute.\n\"In some sense, it knew that this was not what the creators intended. It just didn't care,\" he added.\nOther organisations have also taken note of the incident.\nA UK government spokesperson said the country's AI Security Institute was studying how the AI system behaved in the incident and that it was continuing to work with OpenAI and other labs to strengthen safeguards.\nThey urged organisations to ramp up their cyber security measures by taking steps such as enrolling in the government-backed Cyber Essentials certification scheme.\nThe incident has come at a crucial time for the industry after the US government last month ordered American tech firm Anthropic to restrict access to its AI models over national security concerns. The Department of Commerce lifted the restrictions several weeks later.\nPeople in the industry have also raised security concerns over the widespread use of open-source models in China, allowing anyone to install and customise AI tools released by major developers.\nChinese start-up Moonshot AI will release its Kimi K3 open-source model on 27 July. Since debuting last week, it has drawn industry attention, with many viewing it as a strong competitor to leading Western AI systems.\nBut on Wednesday a White House adviser accused Moonshot of a \"large scale\" effort to steal the capabilities of top US AI models.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "- Published"
+    ],
+    [
+     "eq",
+     "The co-founder of Hugging Face, a technology start-up that was hacked after"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0039,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9957,
+ "adjudicated_by": "rules"
+}

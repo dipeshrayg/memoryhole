@@ -1,0 +1,44 @@
+{
+ "id": "3911e5df3ddbd2a4-fd24d318-2840a1df",
+ "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c74g58vzjj4o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-07-23T12:32:27Z",
+ "date": "2026-07-23",
+ "old_title": "Nations Championship: England's Ben Earl calls for brutal change after \"brutal\" schedule",
+ "new_title": "Nations Championship: England's Ben Earl calls for brutal change after \"brutal\" schedule",
+ "old_text": "Ben Earl has called for a change to the Nations Championship format after England's \"brutal\" schedule in the summer leg of the inaugural competition.\nEngland had to play three Tests in three different continents on successive weekends and accumulated 25,000 miles of travel.\nVictory over Argentina on Saturday keeps Steve Borthwick's team in the hunt for a place in the final on 29 November at Twickenham's Allianz Stadium.\nHowever, four long haul and four short haul flights in the past four weeks have contributed to players losing sleep and a reduced training schedule.\n\"It's been brutal, there's no two ways about it,\" England number 8 Earl said.\n\"We've been speaking about it â why would we not all be playing in one country? So you just don't travel, you go to one nation and have that festival feel.\n\"I'm not paid to make those decisions but it has been tough. It's been tough coming at the end of what's been quite a long season anyway for most of us.\n\"It's been back and forth, coming back to England, seeing your families and then going away again.\n\"It has seemed a bit weird but it's just something we're going to have to get used to because I think it's just the beginning.\"\nThe competition resumes later in the year for the autumn leg with England next in action against Australia on 8 November.",
+ "new_text": "- Published\nBen Earl has called for a change to the Nations Championship format after England's \"brutal\" schedule in the summer leg of the inaugural competition.\nEngland had to play three Tests in three different continents on successive weekends and accumulated 25,000 miles of travel.\nVictory over Argentina on Saturday keeps Steve Borthwick's team in the hunt for a place in the final on 29 November at Twickenham's Allianz Stadium.\nHowever, four long haul and four short haul flights in the past four weeks have contributed to players losing sleep and a reduced training schedule.\n\"It's been brutal, there's no two ways about it,\" England number 8 Earl said.\n\"We've been speaking about it â why would we not all be playing in one country? So you just don't travel, you go to one nation and have that festival feel.\n\"I'm not paid to make those decisions but it has been tough. It's been tough coming at the end of what's been quite a long season anyway for most of us.\n\"It's been back and forth, coming back to England, seeing your families and then going away again.\n\"It has seemed a bit weird but it's just something we're going to have to get used to because I think it's just the beginning.\"\nThe competition resumes later in the year for the autumn leg with England next in action against Australia on 8 November.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "- Published"
+    ],
+    [
+     "eq",
+     "Ben Earl has called for a change to the Nations Championship format"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0086,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9889,
+ "adjudicated_by": "rules"
+}
