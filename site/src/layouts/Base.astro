@@ -318,6 +318,9 @@ const FAVICON = 'data:image/svg+xml,' + encodeURIComponent(FAVICON_SVG);
     background: var(--card); border: 1px solid var(--line); border-radius: 10px;
     color: var(--fg); box-shadow: var(--shadow); transition: box-shadow 0.15s, transform 0.15s;
   }
+  /* author `display: block` above beats the UA [hidden] rule at equal
+     specificity — this reasserts it with a more specific selector. */
+  .edit-card[hidden] { display: none; }
   .edit-card::before {
     content: ""; position: absolute; left: 0; top: 0.6rem; bottom: 0.6rem; width: 3px;
     border-radius: 999px; background: var(--line);
