@@ -1,0 +1,324 @@
+{
+ "id": "acee6620df6d55e1-edfae9d8-52b0a94d",
+ "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-markets-weigh-ai-capex-widening-mideast-attacks-084444369.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-07-24T08:45:29Z",
+ "date": "2026-07-24",
+ "old_title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as markets weigh AI capex, widening Mideast attacks",
+ "new_title": "Stock market today: Nasdaq drops over 2%, Dow and S&P 500 tumble as Big Tech tanks, oil hits $100",
+ "old_text": "Stock market today: Dow, S&P 500, Nasdaq futures slip as markets weigh AI capex, widening Mideast attacks\nUS stock futures stepped lower on Thursday as investors digested the latest spending outlooks from Alphabet (GOOG) and Tesla (TSLA), and eyed surging oil prices in the wake of expanded attacks in the Middle East.\nFutures on the Dow Jones Industrial Average (YM=F) and on the S&P 500 (ES=F) both fell around 0.3%. Contracts for the tech-heavy Nasdaq-100 (NQ=F) dropped 0.4%, after Wall Street stocks retreated on Wednesday amid a flurry of earnings reports.\nBig Tech stocks were under pressure on Thursday morning, led by declines in shares of Alphabet and Tesla after the two \"Magnificent Seven\" heavyweights reported results after Wednesday's market close.\nAlphabet posted a strong quarter fundamentally, but the Google parent's raised capex outlook comes as investors scrutinize AI's return on investment. Tesla CEO Elon Musk also said 2026 would be a \"massive capex year\" for the company, highlighting a focus on Optimus robots, robotaxis, and data centers.\nThe latest escalation in the Middle East, meanwhile, shows no signs of relenting, and oil prices continued to climb on Thursday. Brent crude (BZ=F) oil futures, the international benchmark, jumped to $97 per barrel, closing in on crossing the key $100 level. West Texas Intermediate futures (CL=F), the US benchmark, rose to $89 per barrel after Iran-backed Houthis said they had attacked tankers in the Red Sea.\nAs the US-Iran war has widened, rising oil prices spurred a sell-off in bonds, sending the 10-year (^TNX) and 30-year Treasury yields (^TYX) to their highest levels since May amid renewed inflation concerns. The latest pressure from oil has pushed back against easing bets that the Federal Reserve would hike interest rates this year.\nInvestors are expecting an update on initial jobless claims at 8:30 a.m. ET and a raft of earnings, including from Intel (INTC), T-Mobile US (TMUS), Lockheed Martin (LMT), and others.",
+ "new_text": "US stocks were hammered on Thursday as the latest AI spending outlooks from Alphabet (GOOG) and Tesla (TSLA) spooked investors, and oil prices surged above $100 in the wake of expanded attacks in the Middle East.\nThe Nasdaq Composite (^IXIC) suffered the worst of the losses, tumbling 2.1% and briefly breaking below 25,000 for the first time since May.\nThe Dow Jones Industrial Average (^DJI) dropped 0.9%, meanwhile, and the S&P 500 (^GSPC) fell by 1.2%, building on a stock retreat on Wednesday amid a flurry of earnings reports.\nBig Tech stocks sold off, led by declines in Alphabet and Tesla shares after the two \"Magnificent Seven\" heavyweights reported results after Wednesday's market close.\nAlphabet posted a strong quarter fundamentally, but the Google parent's raised capex outlook comes as investors scrutinize AI's return on investment. Tesla CEO Elon Musk also said 2026 would be a \"massive capex year\" for the company, highlighting a focus on Optimus robots, robotaxis, and data centers.\nThe latest escalation in the Middle East, meanwhile, shows no signs of relenting, and oil prices continued to climb on Thursday. Brent crude (BZ=F) oil futures, the international benchmark, crossed the key $100 level. West Texas Intermediate futures (CL=F), the US benchmark, also rose after Iran-backed Houthis said they had attacked tankers in the Red Sea.\nAs the US-Iran war has widened, rising oil prices spurred a sell-off in bonds, sending the 10-year (^TNX) to its highest level in a year and a half amid renewed inflation concerns. The latest pressure from oil has pushed back against easing bets that the Federal Reserve would hike interest rates this year.\nOn the economic data front, initial jobless claims unexpectedly dropped to their lowest level since 1969. Claims fell to 187,000 for the week, against expectations of 210,000 first-time claims. In the corporate world, a raft of earnings awaits investors, including from Intel (INTC), T-Mobile US (TMUS), Lockheed Martin (LMT), and others.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Stock market today: Dow, S&P 500, Nasdaq futures slip as markets weigh AI capex, widening Mideast attacks"
+    ],
+    [
+     "eq",
+     "US"
+    ],
+    [
+     "del",
+     "stock futures stepped lower"
+    ],
+    [
+     "ins",
+     "stocks were hammered"
+    ],
+    [
+     "eq",
+     "on Thursday as"
+    ],
+    [
+     "del",
+     "investors digested"
+    ],
+    [
+     "eq",
+     "the latest"
+    ],
+    [
+     "ins",
+     "AI"
+    ],
+    [
+     "eq",
+     "spending outlooks from Alphabet (GOOG) and Tesla"
+    ],
+    [
+     "del",
+     "(TSLA),"
+    ],
+    [
+     "ins",
+     "(TSLA) spooked investors,"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "eyed surging"
+    ],
+    [
+     "eq",
+     "oil prices"
+    ],
+    [
+     "ins",
+     "surged above $100"
+    ],
+    [
+     "eq",
+     "in the wake of expanded attacks in the Middle East."
+    ],
+    [
+     "del",
+     "Futures on"
+    ],
+    [
+     "ins",
+     "The Nasdaq Composite (^IXIC) suffered"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "ins",
+     "worst of the losses, tumbling 2.1% and briefly breaking below 25,000 for the first time since May. The"
+    ],
+    [
+     "eq",
+     "Dow Jones Industrial Average"
+    ],
+    [
+     "del",
+     "(YM=F)"
+    ],
+    [
+     "ins",
+     "(^DJI) dropped 0.9%, meanwhile,"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "on"
+    ],
+    [
+     "eq",
+     "the S&P 500"
+    ],
+    [
+     "del",
+     "(ES=F) both"
+    ],
+    [
+     "ins",
+     "(^GSPC)"
+    ],
+    [
+     "eq",
+     "fell"
+    ],
+    [
+     "del",
+     "around 0.3%. Contracts for the tech-heavy Nasdaq-100 (NQ=F) dropped 0.4%, after Wall Street stocks retreated"
+    ],
+    [
+     "ins",
+     "by 1.2%, building on a stock retreat"
+    ],
+    [
+     "eq",
+     "on Wednesday amid a flurry of earnings reports. Big Tech stocks"
+    ],
+    [
+     "del",
+     "were under pressure on Thursday morning,"
+    ],
+    [
+     "ins",
+     "sold off,"
+    ],
+    [
+     "eq",
+     "led by declines in"
+    ],
+    [
+     "del",
+     "shares of"
+    ],
+    [
+     "eq",
+     "Alphabet and Tesla"
+    ],
+    [
+     "ins",
+     "shares"
+    ],
+    [
+     "eq",
+     "after the two \"Magnificent Seven\" heavyweights reported results after Wednesday's market close."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to climb on Thursday. Brent crude (BZ=F) oil futures, the international benchmark,"
+    ],
+    [
+     "del",
+     "jumped to $97 per barrel, closing in on crossing"
+    ],
+    [
+     "ins",
+     "crossed"
+    ],
+    [
+     "eq",
+     "the key $100 level. West Texas Intermediate futures (CL=F), the US benchmark,"
+    ],
+    [
+     "ins",
+     "also"
+    ],
+    [
+     "eq",
+     "rose"
+    ],
+    [
+     "del",
+     "to $89 per barrel"
+    ],
+    [
+     "eq",
+     "after Iran-backed Houthis said they had attacked tankers in the Red Sea."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "rising oil prices spurred a sell-off in bonds, sending the 10-year (^TNX)"
+    ],
+    [
+     "ins",
+     "to its highest level in a year"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "30-year Treasury yields (^TYX) to their highest levels since May"
+    ],
+    [
+     "ins",
+     "a half"
+    ],
+    [
+     "eq",
+     "amid renewed inflation concerns. The latest pressure from oil has pushed back"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "easing bets that the Federal Reserve would hike interest rates this year."
+    ],
+    [
+     "del",
+     "Investors are expecting an update on"
+    ],
+    [
+     "ins",
+     "On the economic data front,"
+    ],
+    [
+     "eq",
+     "initial jobless claims"
+    ],
+    [
+     "del",
+     "at 8:30 a.m. ET and"
+    ],
+    [
+     "ins",
+     "unexpectedly dropped to their lowest level since 1969. Claims fell to 187,000 for the week, against expectations of 210,000 first-time claims. In the corporate world,"
+    ],
+    [
+     "eq",
+     "a raft of"
+    ],
+    [
+     "del",
+     "earnings,"
+    ],
+    [
+     "ins",
+     "earnings awaits investors,"
+    ],
+    [
+     "eq",
+     "including from Intel (INTC), T-Mobile US (TMUS), Lockheed Martin (LMT), and others."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5705,
+  "numbers_changed": [
+   "0.3",
+   "0.4",
+   "0.9",
+   "1.2",
+   "187,000",
+   "1969",
+   "2.1",
+   "210,000",
+   "25,000",
+   "30",
+   "500",
+   "8",
+   "89",
+   "97"
+  ],
+  "market_figures_changed": [
+   "$100",
+   "$89",
+   "$97",
+   "0.3%",
+   "0.4%",
+   "0.9%",
+   "1.2%",
+   "2.1%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "FACTUAL",
+ "score": 1.75,
+ "similarity": 0.8828,
+ "adjudicated_by": "rules"
+}

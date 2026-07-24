@@ -1,0 +1,118 @@
+{
+ "id": "aa51f5d3c29f24d2-a7c34d56-23750dce",
+ "url": "https://www.bbc.co.uk/sport/football/articles/cr5934j1jmdo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-07-24T08:47:40Z",
+ "date": "2026-07-24",
+ "old_title": "Wolves: Striker Tolu Arokodare forces training to be cancelled",
+ "new_title": "Wolves: Striker Tolu Arokodare forces training to be cancelled",
+ "old_text": "- Published\nWolves striker Tolu Arokodare forced the cancellation of a training session after he refused to leave the pitch.\nBBC Sport has been told the 25-year-old Nigeria international sat down and demanded the club let him move to Fiorentina.\nWolves have rejected a bid from the Serie A side, having accepted an offer from Turkish club Trabzonspor.\nArokodare's actions led to new boss Cesar Peixoto terminating the session on Monday.\nThe striker was not involved in Wednesday's friendly at Maidenhead United as Wolves continue their pre-season plans.\nOn social media on Wednesday evening, Arokodare wrote: \"Throughout my career, I have always taken great pride in conducting myself professionally and maintaining the highest training standards.\n\"My commitment has always been to prepare myself as well as possible so that I can contribute to my team-mates and the club whenever I am called upon.\n\"I remain under contract with Wolves, and my only intention is to fulfil my responsibilities professionally by training, doing my job, and contributing to the team in accordance with that contract.\"\nThe latest incident is another flashpoint in the forward's career at Molineux after he was disciplined in April following a confrontation with young forward Mateus Mane.\nArokodare signed for Â£24m from Genk last summer but scored just three league goals as Wolves finished bottom of the Premier League and were relegated.\nAnd the incident presents an early challenge for Peixoto just weeks into his reign after he replaced Rob Edwards in a surprise move last month.\nThe 46-year-old, capped once by Portugal in his playing career, moved from Gil Vicente and will be aiming to return Wolves to the Premier League at the first attempt.",
+ "new_text": "- Published\nWolves striker Tolu Arokodare forced the cancellation of a training session after he refused to leave the pitch.\nWolves have rejected a bid from Fiorentina for the forward, having accepted an offer from Turkish club Trabzonspor.\nWhile Arokodare has denied that he refused to train, sources have said that he allegedly inserted himself into a training session which he was not due to be involved in.\nThe striker was not involved in Wednesday's friendly at Maidenhead United as Wolves continued their pre-season plans.\nOn social media on Wednesday evening, Arokodare wrote: \"Throughout my career, I have always taken great pride in conducting myself professionally and maintaining the highest training standards.\n\"My commitment has always been to prepare myself as well as possible so that I can contribute to my team-mates and the club whenever I am called upon.\n\"I remain under contract with Wolves, and my only intention is to fulfil my responsibilities professionally by training, doing my job, and contributing to the team in accordance with that contract.\"\nThe latest incident is another flashpoint in the forward's career at Molineux after he was disciplined in April following a confrontation with young forward Mateus Mane.\nArokodare signed for Â£24m from Genk last summer but scored just three league goals as Wolves finished bottom of the Premier League and were relegated.\nAnd the incident presents an early challenge for Peixoto just weeks into his reign after he replaced Rob Edwards in a surprise move last month.\nThe 46-year-old, capped once by Portugal in his playing career, moved from Gil Vicente and will be aiming to return Wolves to the Premier League at the first attempt.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "cancellation of a training session after he refused to leave the pitch."
+    ],
+    [
+     "del",
+     "BBC Sport has been told the 25-year-old Nigeria international sat down and demanded the club let him move to Fiorentina."
+    ],
+    [
+     "eq",
+     "Wolves have rejected a bid from"
+    ],
+    [
+     "ins",
+     "Fiorentina for"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "Serie A side,"
+    ],
+    [
+     "ins",
+     "forward,"
+    ],
+    [
+     "eq",
+     "having accepted an offer from Turkish club Trabzonspor."
+    ],
+    [
+     "del",
+     "Arokodare's actions led"
+    ],
+    [
+     "ins",
+     "While Arokodare has denied that he refused"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "new boss Cesar Peixoto terminating the"
+    ],
+    [
+     "ins",
+     "train, sources have said that he allegedly inserted himself into a training"
+    ],
+    [
+     "eq",
+     "session"
+    ],
+    [
+     "del",
+     "on Monday."
+    ],
+    [
+     "ins",
+     "which he was not due to be involved in."
+    ],
+    [
+     "eq",
+     "The striker was not involved in Wednesday's friendly at Maidenhead United as Wolves"
+    ],
+    [
+     "del",
+     "continue"
+    ],
+    [
+     "ins",
+     "continued"
+    ],
+    [
+     "eq",
+     "their pre-season plans. On social media on Wednesday evening, Arokodare wrote: \"Throughout"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2401,
+  "numbers_changed": [
+   "25"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 0.9313,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,239 @@
+{
+ "id": "dedc5a4790cf6224-7d86ba07-c3118aa7",
+ "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-24T08:34:55Z",
+ "date": "2026-07-24",
+ "old_title": "Saudis must normalise ties with Israel for nuclear deal, says Trump",
+ "new_title": "Saudis must recognise Israel for nuclear deal, says Trump",
+ "old_text": "- Published\nThe landmark nuclear deal announced between the US and Saudi Arabia is dependent on Riyadh joining the Abraham Accords, in other words recognising the state of Israel, US President Donald Trump has said.\n\"The Civil Nuclear Deal (There will be no enrichment of material!)... which pertains only to non-military use... will be approved, but is totally subject to Saudi Arabia joining the very respected and successful Abraham Accords,\" Trump said in a post on Truth Social.\nTrump's remarks come after criticism from experts that the deal could run the risk of future nuclear proliferation in an already unstable region.\nThe nuclear issue has been at the centre of the months-long US-Israeli conflict with Iran.\nIn 2020, Trump brokered the Abraham Accords, which secured the historic normalisation of relations between Israel and two Arab nations, the United Arab Emirates (UAE) and Bahrain.\nSudan and Morocco have since normalised relations with Israel.\nThis breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version.\nYou can receive Breaking News on a smartphone or tablet via the BBC News App. You can also follow @BBCBreaking on X, external to get the latest alerts.",
+ "new_text": "- Published\nThe deal between the US and Saudi Arabia to help the Gulf kingdom develop nuclear energy is dependent on Riyadh recognising the State of Israel, President Donald Trump has said.\n\"The Civil Nuclear Deal (There will be no enrichment of material!)... which pertains only to non-military use... will be approved, but is totally subject to Saudi Arabia joining the very respected and successful Abraham Accords,\" Trump said on Truth Social.\nIt was not immediately clear if the condition of joining the accords was stipulated in the text of the nuclear deal - which has not been released - or that Saudi Arabia had agreed to that condition.\nSaudi Arabia has not responded to Trump's remarks so far.\nWhite House press secretary Karoline Leavitt said on Thursday that Trump had discussed the condition to Saudi leaders on numerous previous occasions.\n\"He has said if they don't join the Abraham Accords, the deal is off,\" she said. \"So we'll continue to have those conversations with our Saudi counterparts moving forward.\"\nTrump's comments come come after criticism from experts that the US-Saudi deal announced on Wednesday could run the risk of future nuclear proliferation in an already unstable region.\nSome Republican and Democratic lawmakers expressed similar concerns, though Trump's Republican Party controls both the upper and lower chambers and opponents of the deal do not appear to have the votes needed to block it.\nAccording to the US Department of Energy, it includes a \"peaceful nuclear co-operation agreement\" and a \"bilateral safeguards agreement\".\n\"Together, these two agreements lay the legal foundation for a decades-long, multi-billion-dollar partnership that advances several priority economic and strategic objectives, including nuclear nonproliferation,\" a statement from the department said.\nIt said the agreement would be sent to the US Congress for review.\nThe International Atomic Energy Agency (IAEA) said on Thursday that it was aware of US and Saudi plans for a \"bilateral civil nuclear cooperation agreement and the plan to ask the IAEA to implement verification measures in relation to this\".\n\"We look forward to receiving the request for such verification and to working with the US and KSA [Kingdom of Saudi Arabia] in ensuring the implementation of those measures.\"\nDuring Trump's first term as US president, the United Arab Emirates (UAE) and Bahrain signed the Abraham Accords, resulting in a historic normalisation of relations between Israel and two Arab nations - the first in decades.\nSudan, Morocco and Kazakhstan have since also signed them, too.\nSaudi Arabia has previously said it will not do so without the establishment of a Palestinian state, but the White House said the deal would be off if Riyadh did not join the accords.\nIsrael has welcomed Trump's statement.\nPosting on X, Prime Minister Benjamin Netanyahu's office said Saudi Arabia joining the accords \"would be an historic leap forward for peace in the Middle East\".\nThe statement did not mention the nuclear deal. However, Israeli Economy Minister Nir Barkat said previously his country \"can manage it\" if Saudi Arabia had nuclear power for peaceful means.\nOthers were more critical. Former Israeli defence minister Avigdor Lieberman, told the paper: \"Every military nuclear program begins with a civilian one.\"\nIsrael itself is widely believed to have nuclear weapons, but it neither confirms nor denies that this is the case.\nThe US-Saudi deal is described as a \"peaceful nuclear co-operation agreement\" that will provide \"great access for American companies in the Saudi nuclear energy programme\" by the US energy department.\nThe nuclear issue has been at the centre of the months-long US-Israeli conflict with Iran which has for years denied Western accusations that it aims to acquire nuclear weapons.\nSaudi Arabia's de facto ruler, Crown Prince Mohammed bin Salman, told CBS News in 2018 that his own nation was not planning to acquire a nuclear weapon, but that \"without a doubt if Iran developed a nuclear bomb, we will follow suit as soon as possible\".\nEarlier US media reports suggested the deal could allow Saudi Arabia to enrich uranium in the future - which can be used as fuel for power plants, but also potentially to make nuclear bombs. However, Trump's remarks appear to deny this.\nRosemary Kelanic, the director of the Middle East programme at the US-based Defense Priorities think tank, said it would be \"quite shocking\" if the US were to allow Saudi Arabia uranium enrichment facilities.\n\"The US has never done that before. We have never helped another country enrich on their own soil,\" she said, adding that this was because \"if you can produce your own nuclear fuel, you become a much bigger risk\" for building nuclear weapons.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published The"
+    ],
+    [
+     "del",
+     "landmark nuclear"
+    ],
+    [
+     "eq",
+     "deal"
+    ],
+    [
+     "del",
+     "announced"
+    ],
+    [
+     "eq",
+     "between the US and Saudi Arabia"
+    ],
+    [
+     "ins",
+     "to help the Gulf kingdom develop nuclear energy"
+    ],
+    [
+     "eq",
+     "is dependent on Riyadh"
+    ],
+    [
+     "del",
+     "joining the Abraham Accords, in other words"
+    ],
+    [
+     "eq",
+     "recognising the"
+    ],
+    [
+     "del",
+     "state"
+    ],
+    [
+     "ins",
+     "State"
+    ],
+    [
+     "eq",
+     "of Israel,"
+    ],
+    [
+     "del",
+     "US"
+    ],
+    [
+     "eq",
+     "President Donald Trump has said. \"The Civil Nuclear Deal (There will be"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Saudi Arabia joining the very respected and successful Abraham Accords,\" Trump said"
+    ],
+    [
+     "del",
+     "in a post"
+    ],
+    [
+     "eq",
+     "on Truth Social."
+    ],
+    [
+     "ins",
+     "It was not immediately clear if the condition of joining the accords was stipulated in the text of the nuclear deal - which has not been released - or that Saudi Arabia had agreed to that condition. Saudi Arabia has not responded to"
+    ],
+    [
+     "eq",
+     "Trump's remarks"
+    ],
+    [
+     "ins",
+     "so far. White House press secretary Karoline Leavitt said on Thursday that Trump had discussed the condition to Saudi leaders on numerous previous occasions. \"He has said if they don't join the Abraham Accords, the deal is off,\" she said. \"So we'll continue to have those conversations with our Saudi counterparts moving forward.\" Trump's comments come"
+    ],
+    [
+     "eq",
+     "come after criticism from experts that the"
+    ],
+    [
+     "ins",
+     "US-Saudi"
+    ],
+    [
+     "eq",
+     "deal"
+    ],
+    [
+     "ins",
+     "announced on Wednesday"
+    ],
+    [
+     "eq",
+     "could run the risk of future nuclear proliferation in an already unstable region."
+    ],
+    [
+     "ins",
+     "Some Republican and Democratic lawmakers expressed similar concerns, though Trump's Republican Party controls both the upper and lower chambers and opponents of the deal do not appear to have the votes needed to block it. According to the US Department of Energy, it includes a \"peaceful nuclear co-operation agreement\" and a \"bilateral safeguards agreement\". \"Together, these two agreements lay the legal foundation for a decades-long, multi-billion-dollar partnership that advances several priority economic and strategic objectives, including nuclear nonproliferation,\" a statement from the department said. It said the agreement would be sent to the US Congress for review. The International Atomic Energy Agency (IAEA) said on Thursday that it was aware of US and Saudi plans for a \"bilateral civil nuclear cooperation agreement and the plan to ask the IAEA to implement verification measures in relation to this\". \"We look forward to receiving the request for such verification and to working with the US and KSA [Kingdom of Saudi Arabia] in ensuring the implementation of those measures.\" During Trump's first term as US president, the United Arab Emirates (UAE) and Bahrain signed the Abraham Accords, resulting in a historic normalisation of relations between Israel and two Arab nations - the first in decades. Sudan, Morocco and Kazakhstan have since also signed them, too. Saudi Arabia has previously said it will not do so without the establishment of a Palestinian state, but the White House said the deal would be off if Riyadh did not join the accords. Israel has welcomed Trump's statement. Posting on X, Prime Minister Benjamin Netanyahu's office said Saudi Arabia joining the accords \"would be an historic leap forward for peace in the Middle East\". The statement did not mention the nuclear deal. However, Israeli Economy Minister Nir Barkat said previously his country \"can manage it\" if Saudi Arabia had nuclear power for peaceful means. Others were more critical. Former Israeli defence minister Avigdor Lieberman, told the paper: \"Every military nuclear program begins with a civilian one.\" Israel itself is widely believed to have nuclear weapons, but it neither confirms nor denies that this is the case. The US-Saudi deal is described as a \"peaceful nuclear co-operation agreement\" that will provide \"great access for American companies in the Saudi nuclear energy programme\" by the US energy department."
+    ],
+    [
+     "eq",
+     "The nuclear issue has been at the centre of the months-long US-Israeli conflict with"
+    ],
+    [
+     "del",
+     "Iran. In 2020, Trump brokered"
+    ],
+    [
+     "ins",
+     "Iran which has for years denied Western accusations that it aims to acquire nuclear weapons. Saudi Arabia's de facto ruler, Crown Prince Mohammed bin Salman, told CBS News in 2018 that his own nation was not planning to acquire a nuclear weapon, but that \"without a doubt if Iran developed a nuclear bomb, we will follow suit as soon as possible\". Earlier US media reports suggested"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "Abraham Accords,"
+    ],
+    [
+     "ins",
+     "deal could allow Saudi Arabia to enrich uranium in the future -"
+    ],
+    [
+     "eq",
+     "which"
+    ],
+    [
+     "del",
+     "secured"
+    ],
+    [
+     "ins",
+     "can be used as fuel for power plants, but also potentially to make nuclear bombs. However, Trump's remarks appear to deny this. Rosemary Kelanic,"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "historic normalisation"
+    ],
+    [
+     "ins",
+     "director"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "relations between Israel and two Arab nations,"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "United Arab Emirates (UAE) and Bahrain. Sudan and Morocco"
+    ],
+    [
+     "ins",
+     "Middle East programme at the US-based Defense Priorities think tank, said it would be \"quite shocking\" if the US were to allow Saudi Arabia uranium enrichment facilities. \"The US has never done that before. We"
+    ],
+    [
+     "eq",
+     "have"
+    ],
+    [
+     "del",
+     "since normalised relations with Israel. This breaking news story is being updated and more details will be published shortly. Please refresh the page"
+    ],
+    [
+     "ins",
+     "never helped another country enrich on their own soil,\" she said, adding that this was because \"if you can produce your own nuclear fuel, you become a much bigger risk\""
+    ],
+    [
+     "eq",
+     "for"
+    ],
+    [
+     "del",
+     "the fullest version. You can receive Breaking News on a smartphone or tablet via the BBC News App. You can also follow @BBCBreaking on X, external to get the latest alerts."
+    ],
+    [
+     "ins",
+     "building nuclear weapons."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 3.7475,
+  "numbers_changed": [
+   "2018",
+   "2020"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 6,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.148,
+ "similarity": 0.8786,
+ "adjudicated_by": "rules"
+}

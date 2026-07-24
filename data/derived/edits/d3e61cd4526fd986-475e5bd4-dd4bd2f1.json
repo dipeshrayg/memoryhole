@@ -1,0 +1,48 @@
+{
+ "id": "d3e61cd4526fd986-475e5bd4-dd4bd2f1",
+ "url": "https://www.bbc.co.uk/sport/darts/articles/cqjxv0v1dlpo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-07-24T08:47:46Z",
+ "date": "2026-07-24",
+ "old_title": "World Matchplay 2026: Cameron Menzies receives medical care, Gerwyn Price, James Wade and Gian van Veen win",
+ "new_title": "World Matchplay 2026: Cameron Menzies receives medical care, Gerwyn Price, James Wade and Gian van Veen win",
+ "old_text": "- Published\nCameron Menzies needed medical attention after being taken ill during his World Matchplay second-round match against Ross Smith in Blackpool on Wednesday.\nWhile leading the game 2-1, Scotland's Menzies stepped away from the oche and appeared unsteady on his feet as England's Smith and the referee guided him safely off stage.\nIt was later confirmed that Menzies was cleared by medics backstage but was unable to return to the stage to continue, and so forfeited the match.\nThe PDC said: \"Cameron experienced high blood pressure, which caused him to feel dizzy and subsequently faint.\n\"Following an assessment by the on-site medical team, Cameron was deemed well enough to return to his accommodation.\n\"We wish Cameron all the best and look forward to seeing him back in action soon.\"\nElsewhere, seventh seed Gerwyn Price knocked out fellow former world champion Ross Cross with a dominant display.\nFrom 2-3 down, the Welshman won six legs in a row to take control of the match and then eased to an 11-5 win to set up a quarter-final match with Smith.\nWorld number three Gian van Veen booked his quarter-final spot by overcoming fellow Dutchman Wessel Nijman in a tie-break.\nIn a back-and-forth encounter, both players landed 100-plus checkouts to prolong the match but it was Van Veen who came out on top 14-12 in a thriller.\nSixth seed James Wade completed the last-eight line-up at the Matchplay with a comfortable victory over fellow Englishman Ryan Searle, the 11th seed.\nWade, who won the competition in 2007, will take on Van Veen in his 14th Matchplay quarter-final after the 11-8 win.\nWednesday's World Matchplay results\nNumbers in brackets indicate seedings\n- Cameron Menzies 1-2 Ross Smith (15) - Smith won by walkover\n- (3) Gian van Veen 14-12 Wessel Nijman (14)\n- (7) Gerwyn Price 11-5 Rob Cross\n- (6) James Wade 11-8 Ryan Searle (11)\nThursday's Matchplay schedule\nQuarter-final - action from 20:00 BST\n- Luke Littler v Josh Rock\n- Gary Anderson v Dirk van Duijvenbode",
+ "new_text": "- Published\nCameron Menzies needed medical attention after being taken ill during his World Matchplay second-round match against Ross Smith in Blackpool on Wednesday.\nWhile leading the game 2-1, Scotland's Menzies stepped away from the oche and appeared unsteady on his feet as England's Smith and the referee guided him safely off stage.\nIt was later confirmed that Menzies was cleared by medics backstage but was unable to return to the stage to continue, and so forfeited the match.\nThe PDC said: \"Cameron experienced high blood pressure, which caused him to feel dizzy and subsequently faint.\n\"Following an assessment by the on-site medical team, Cameron was deemed well enough to return to his accommodation.\n\"We wish Cameron all the best and look forward to seeing him back in action soon.\"\n\"Just a quick message to say thank you to everyone for all the messages,\" Menzies wrote on Facebook.\n\"Unfortunately, I wasn't well enough to continue the match. It's obviously not how I wanted my World Matchplay to end, especially after playing some of the best darts of my career over the last few weeks.\n\"I'm grateful to the medical team for looking after me, to Ross for checking on me, and to everyone at the Winter Gardens for their support. A big good luck to Ross for the rest of the tournament. I wish him all the best.\n\"Hopefully I'll be back doing what I love very soon. Thanks again for all your support, it really does mean a lot.\"\nElsewhere, seventh seed Gerwyn Price knocked out fellow former world champion Ross Cross with a dominant display.\nFrom 2-3 down, the Welshman won six legs in a row to take control of the match and then eased to an 11-5 win to set up a quarter-final match with Smith.\nWorld number three Gian van Veen booked his quarter-final spot by overcoming fellow Dutchman Wessel Nijman in a tie-break.\nIn a back-and-forth encounter, both players landed 100-plus checkouts to prolong the match but it was Van Veen who came out on top 14-12 in a thriller.\nSixth seed James Wade completed the last-eight line-up at the Matchplay with a comfortable victory over fellow Englishman Ryan Searle, the 11th seed.\nWade, who won the competition in 2007, will take on Van Veen in his 14th Matchplay quarter-final after the 11-8 win.\nWednesday's World Matchplay results\nNumbers in brackets indicate seedings\n- Cameron Menzies 1-2 Ross Smith (15) - Smith won by walkover\n- (3) Gian van Veen 14-12 Wessel Nijman (14)\n- (7) Gerwyn Price 11-5 Rob Cross\n- (6) James Wade 11-8 Ryan Searle (11)\nThursday's Matchplay schedule\nQuarter-final - action from 20:00 BST\n- Luke Littler v Josh Rock\n- Gary Anderson v Dirk van Duijvenbode",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the best and look forward to seeing him back in action soon.\""
+    ],
+    [
+     "ins",
+     "\"Just a quick message to say thank you to everyone for all the messages,\" Menzies wrote on Facebook. \"Unfortunately, I wasn't well enough to continue the match. It's obviously not how I wanted my World Matchplay to end, especially after playing some of the best darts of my career over the last few weeks. \"I'm grateful to the medical team for looking after me, to Ross for checking on me, and to everyone at the Winter Gardens for their support. A big good luck to Ross for the rest of the tournament. I wish him all the best. \"Hopefully I'll be back doing what I love very soon. Thanks again for all your support, it really does mean a lot.\""
+    ],
+    [
+     "eq",
+     "Elsewhere, seventh seed Gerwyn Price knocked out fellow former world champion Ross"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3571,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.186,
+ "similarity": 0.8474,
+ "adjudicated_by": "rules"
+}

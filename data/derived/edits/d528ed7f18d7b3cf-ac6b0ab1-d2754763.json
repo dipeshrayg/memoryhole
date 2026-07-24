@@ -1,0 +1,256 @@
+{
+ "id": "d528ed7f18d7b3cf-ac6b0ab1-d2754763",
+ "url": "https://finance.yahoo.com/markets/stocks/article/tesla-stock-slides-after-profit-miss-full-year-capex-spend-of-25-billion-confirmed-110300122.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-07-24T08:45:27Z",
+ "date": "2026-07-24",
+ "old_title": "Tesla stock slides after profit miss; full-year capex spend of $25 billion confirmed",
+ "new_title": "Tesla tumbles 14% to 11-month low as profit miss, capex spending outlook weighs on stock",
+ "old_text": "Tesla (TSLA) stock fell early Thursday after the EV pioneer reported mixed second quarter results that missed Wall Street expectations. However, its cash burn rate was less than expected. Investors may be looking for more on its physical AI build-outs.\nTesla reported Q2 revenue of $28.24 after the closing bell on Wednesday, versus the $26.32 billion expected per Bloomberg consensus, up 26% from a year ago. Tesla posted adjusted earnings per share of $0.33 compared with the $0.50 estimated. Adjusted EBITDA came in at $3.2 billion, versus $4 billion expected.\nTesla stock slid by more than 7% in premarket trading on Thursday as investors weighed the earnings miss alongside the revenue beat.\nTesla said Optimus humanoid robot production remains on track for later this year. \"The initial Optimus builds will be used in our Optimus Academy for training data collection and further functionality development,\" the company said in a statement, but Tesla did not indicate when the latest version of Optimus would be revealed.\nTesla also confirmed that its robotaxi rollout spanned seven major metro areas. \"We expanded the unsupervised operation area in Austin and launched unsupervised rides in Miami, Orlando, and Tampa in July,\" the company said. \"Preparation for expansion of our Robotaxi service to additional U.S. metros continued, including testing, permitting and first responder training.\"\n\"We'll continue to scale very rapidly with Robotaxi - more than 10% growth in miles driven per week,\" CEO Elon Musk said on the earnings call, acknowledging that safety considerations will limit its growth.\nFull self-driving active subscriptions climbed to 1.48 million, up 56% from a year ago, Tesla said.\nTesla's free cash flow burn continued in the quarter, though it was less than expected, coming in at -$1.09 billion versus -$3.64 billion estimated. Musk added that 2026 would be a \"massive capex year,\" and CFO Vaibhav Taneja confirmed that Tesla's capex would be \"more than $25 billion\" this year. Analysts expected full-year capital expenditures to hit $25.16 billion.\nTesla is spending aggressively on capital expenditures across several fronts at once: Optimus humanoid robot production, the AI data center build-out, and the Cybercab production ramp-up. Those are the bets that justify Tesla's rich valuation, but they are also consuming cash right as the auto business is improving.\nTesla and Musk's other company, SpaceX (SPCX), collaborate on certain projects like Terafab and AI initiatives, which has led to speculation the two companies may merge. When asked about it, Musk said while there was \"overlap\" across the two companies, \"we can't talk about combining companies on an earnings call. It's got to be done with the appropriate process.\"",
+ "new_text": "Tesla (TSLA) stock sold off on Thursday, hitting its lowest close since August 2025 after the EV maker reported mixed second quarter results that missed Wall Street expectations. Cash burn and production of physical AI products like Cybercab and Optimus could be concerns.\nTesla reported Q2 revenue of $28.24 after the closing bell on Wednesday, versus the $26.32 billion expected per Bloomberg consensus, up 26% from a year ago. Tesla posted adjusted earnings per share of $0.33, below the $0.50 estimate. Adjusted EBITDA came in at $3.2 billion, versus $4 billion expected.\nTesla stock closed down 14.5% on Thursday to $319.69, its lowest close since August 5, 2025, as investors weighed the earnings miss alongside the company's physical AI efforts.\nTesla said Optimus humanoid robot production remains on track for later this year, though key details were missing.\n\"The initial Optimus builds will be used in our Optimus Academy for training data collection and further functionality development,\" the company said in a statement, but Tesla did not indicate when the latest version of Optimus would be revealed, nor when volume production would be achieved.\nTesla also confirmed that its Robotaxi rollout spanned seven major metro areas. \"We expanded the unsupervised operation area in Austin and launched unsupervised rides in Miami, Orlando, and Tampa in July,\" the company said. \"Preparation for expansion of our Robotaxi service to additional U.S. metros continued, including testing, permitting and first responder training.\"\n\"We'll continue to scale very rapidly with Robotaxi - more than 10% growth in miles driven per week,\" CEO Elon Musk said on the earnings call, acknowledging that safety considerations will limit its growth.\n\"TSLA noted Cybercab/robotaxi production began at Giga Texas with Cybercab now at 380K + unsupervised miles across 7 cities, and we believe the key is no major incidents, although we believe the number of cybercabs/Robotaxis (~25-50) are significantly smaller than Waymo (2-3K),\" Mizuho analyst Vijay Rakesh said in a note late Wednesday night.\nMizuho, however, cut its Tesla price target to $450 from $480, citing near-term challenges like tariffs and loss of tax credits.\nFull self-driving active subscriptions climbed to 1.48 million, up 56% from a year ago, Tesla said.\nTesla's free cash flow burn continued in the quarter, though it was less than expected, coming in at -$1.09 billion versus -$3.64 billion estimated. Musk added that 2026 would be a \"massive capex year,\" and CFO Vaibhav Taneja confirmed that Tesla's capex would be \"more than $25 billion\" this year. Analysts expected full-year capital expenditures to hit $25.16 billion.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Tesla (TSLA) stock"
+    ],
+    [
+     "del",
+     "fell early Thursday"
+    ],
+    [
+     "ins",
+     "sold off on Thursday, hitting its lowest close since August 2025"
+    ],
+    [
+     "eq",
+     "after the EV"
+    ],
+    [
+     "del",
+     "pioneer"
+    ],
+    [
+     "ins",
+     "maker"
+    ],
+    [
+     "eq",
+     "reported mixed second quarter results that missed Wall Street expectations."
+    ],
+    [
+     "del",
+     "However, its cash"
+    ],
+    [
+     "ins",
+     "Cash"
+    ],
+    [
+     "eq",
+     "burn"
+    ],
+    [
+     "del",
+     "rate was less than expected. Investors may be looking for more on its"
+    ],
+    [
+     "ins",
+     "and production of"
+    ],
+    [
+     "eq",
+     "physical AI"
+    ],
+    [
+     "del",
+     "build-outs."
+    ],
+    [
+     "ins",
+     "products like Cybercab and Optimus could be concerns."
+    ],
+    [
+     "eq",
+     "Tesla reported Q2 revenue of $28.24 after the closing bell on Wednesday,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "26% from a year ago. Tesla posted adjusted earnings per share of"
+    ],
+    [
+     "del",
+     "$0.33 compared with"
+    ],
+    [
+     "ins",
+     "$0.33, below"
+    ],
+    [
+     "eq",
+     "the $0.50"
+    ],
+    [
+     "del",
+     "estimated."
+    ],
+    [
+     "ins",
+     "estimate."
+    ],
+    [
+     "eq",
+     "Adjusted EBITDA came in at $3.2 billion, versus $4 billion expected. Tesla stock"
+    ],
+    [
+     "del",
+     "slid by more than 7% in premarket trading"
+    ],
+    [
+     "ins",
+     "closed down 14.5%"
+    ],
+    [
+     "eq",
+     "on Thursday"
+    ],
+    [
+     "ins",
+     "to $319.69, its lowest close since August 5, 2025,"
+    ],
+    [
+     "eq",
+     "as investors weighed the earnings miss alongside the"
+    ],
+    [
+     "del",
+     "revenue beat."
+    ],
+    [
+     "ins",
+     "company's physical AI efforts."
+    ],
+    [
+     "eq",
+     "Tesla said Optimus humanoid robot production remains on track for later this"
+    ],
+    [
+     "del",
+     "year."
+    ],
+    [
+     "ins",
+     "year, though key details were missing."
+    ],
+    [
+     "eq",
+     "\"The initial Optimus builds will be used in our Optimus Academy for"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Tesla did not indicate when the latest version of Optimus would be"
+    ],
+    [
+     "del",
+     "revealed."
+    ],
+    [
+     "ins",
+     "revealed, nor when volume production would be achieved."
+    ],
+    [
+     "eq",
+     "Tesla also confirmed that its"
+    ],
+    [
+     "del",
+     "robotaxi"
+    ],
+    [
+     "ins",
+     "Robotaxi"
+    ],
+    [
+     "eq",
+     "rollout spanned seven major metro areas. \"We expanded the unsupervised operation area"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "on the earnings call, acknowledging that safety considerations will limit its growth."
+    ],
+    [
+     "ins",
+     "\"TSLA noted Cybercab/robotaxi production began at Giga Texas with Cybercab now at 380K + unsupervised miles across 7 cities, and we believe the key is no major incidents, although we believe the number of cybercabs/Robotaxis (~25-50) are significantly smaller than Waymo (2-3K),\" Mizuho analyst Vijay Rakesh said in a note late Wednesday night. Mizuho, however, cut its Tesla price target to $450 from $480, citing near-term challenges like tariffs and loss of tax credits."
+    ],
+    [
+     "eq",
+     "Full self-driving active subscriptions climbed to 1.48 million, up 56% from a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "billion\" this year. Analysts expected full-year capital expenditures to hit $25.16 billion."
+    ],
+    [
+     "del",
+     "Tesla is spending aggressively on capital expenditures across several fronts at once: Optimus humanoid robot production, the AI data center build-out, and the Cybercab production ramp-up. Those are the bets that justify Tesla's rich valuation, but they are also consuming cash right as the auto business is improving. Tesla and Musk's other company, SpaceX (SPCX), collaborate on certain projects like Terafab and AI initiatives, which has led to speculation the two companies may merge. When asked about it, Musk said while there was \"overlap\" across the two companies, \"we can't talk about combining companies on an earnings call. It's got to be done with the appropriate process.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.6397,
+  "numbers_changed": [
+   "14.5",
+   "2",
+   "2025",
+   "25",
+   "3",
+   "319.69",
+   "380",
+   "450",
+   "480",
+   "5",
+   "50"
+  ],
+  "market_figures_changed": [
+   "$0.33",
+   "$0.33,",
+   "$319.69,",
+   "$450",
+   "$480,",
+   "14.5%",
+   "7%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 1,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.411,
+ "similarity": 0.9182,
+ "adjudicated_by": "rules"
+}

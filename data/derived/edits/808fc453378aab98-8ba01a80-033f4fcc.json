@@ -1,0 +1,176 @@
+{
+ "id": "808fc453378aab98-8ba01a80-033f4fcc",
+ "url": "https://finance.yahoo.com/technology/live/tech-stocks-live-tech-heavy-nasdaq-climbs-ahead-of-big-tech-earnings-kickoff-164334720.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-07-24T08:45:34Z",
+ "date": "2026-07-24",
+ "old_title": "Tech stocks live: Tesla earnings miss, Google spending soars sending both stocks lower",
+ "new_title": "Tech stocks live: Intel reports blowout earnings as Tesla and Google fall",
+ "old_text": "Big Tech earnings season kicked off Wednesday with Google (GOOG, GOOGL) and Tesla (TSLA) and investors didn't like what they heard. Intel (INTC) will follow on Thursday.\nTesla reported mixed second-quarter results; however, its cash burn rate was less than expected. Investors may be looking for more on its physical AI buildouts.\nTesla reported Q2 revenue of $28.24 vs. $26.32 billion per Bloomberg consensus, up 26% from a year ago. Tesla posted adjusted EPS of $0.33 vs $0.50 estimated. That sent shares diving as much as 7% in pre-market action.\nGoogle parent Alphabet (GOOG, GOOGL) beat Wall Street's expectations on the top and bottom lines as cloud revenue increased 82% year over year, but raised its top line capex to $205 billion, giving Wall Street pause, sending the stock down 5%\nIntel's stock has been riding the AI data center growth story to new highs, though it's since come off those highs as traders rotated out of the semiconductor sector. But it could get another boost if the company announces any new customers for its foundry business.\nOn Thursday, AMD (AMD) will host its Advancing AI event in San Francisco, where it's expected to announce updates to its product lines across its data center unit.",
+ "new_text": "Big Tech earnings season kicked off Wednesday with Google (GOOG, GOOGL) and Tesla (TSLA), and investors didn't like what they heard. Tesla tumbled 14% on Thursday to 11-month low as profit miss, capex spending outlook weigh on stock. Google fell more than 6% on capex growth expectations despite its earnings beat.\nThat wasn't the case for Intel, which reported its second quarter earnings after the bell on Thursday. Its results blew past Wall Street's expectations on both the top and bottom lines, and topped third quarter guidance estimates, sending the stock up more than 6% in after-hours trade.\nAlso on Thursday, AMD (AMD) officially launched its Helios rackscale system, with CEO Lisa Su announcing that the AI platform is in full production during the company's Advancing AI event in San Francisco, Calif.\nThe server cabinet combines 72 AMD Instinct MI455X graphics processing units (GPUs) with the company's Epyc central processing units (CPUs) into a rack designed to compete directly with Nvidia's (NVDA) Grace Blackwell and Vera Rubin-powered NVL72 rackscale systems. Nvidia's offering also has 72 GPUs.\nAMD stock slipped more than 2% throughout Su's keynote.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Tech earnings season kicked off Wednesday with Google (GOOG, GOOGL) and Tesla"
+    ],
+    [
+     "del",
+     "(TSLA)"
+    ],
+    [
+     "ins",
+     "(TSLA),"
+    ],
+    [
+     "eq",
+     "and investors didn't like what they heard."
+    ],
+    [
+     "del",
+     "Intel (INTC) will follow"
+    ],
+    [
+     "ins",
+     "Tesla tumbled 14% on Thursday to 11-month low as profit miss, capex spending outlook weigh on stock. Google fell more than 6% on capex growth expectations despite its earnings beat. That wasn't the case for Intel, which reported its second quarter earnings after the bell"
+    ],
+    [
+     "eq",
+     "on Thursday."
+    ],
+    [
+     "del",
+     "Tesla reported mixed second-quarter results; however, its cash burn rate was less than expected. Investors may be looking for more on its physical AI buildouts. Tesla reported Q2 revenue of $28.24 vs. $26.32 billion per Bloomberg consensus, up 26% from a year ago. Tesla posted adjusted EPS of $0.33 vs $0.50 estimated. That sent shares diving as much as 7% in pre-market action. Google parent Alphabet (GOOG, GOOGL) beat"
+    ],
+    [
+     "ins",
+     "Its results blew past"
+    ],
+    [
+     "eq",
+     "Wall Street's expectations on"
+    ],
+    [
+     "ins",
+     "both"
+    ],
+    [
+     "eq",
+     "the top and bottom"
+    ],
+    [
+     "del",
+     "lines as cloud revenue increased 82% year over year, but raised its top line capex to $205 billion, giving Wall Street pause,"
+    ],
+    [
+     "ins",
+     "lines, and topped third quarter guidance estimates,"
+    ],
+    [
+     "eq",
+     "sending the stock"
+    ],
+    [
+     "del",
+     "down 5% Intel's stock has been riding the AI data center growth story to new highs, though it's since come off those highs as traders rotated out of the semiconductor sector. But it could get another boost if the company announces any new customers for its foundry business. On"
+    ],
+    [
+     "ins",
+     "up more than 6% in after-hours trade. Also on"
+    ],
+    [
+     "eq",
+     "Thursday, AMD (AMD)"
+    ],
+    [
+     "del",
+     "will host"
+    ],
+    [
+     "ins",
+     "officially launched"
+    ],
+    [
+     "eq",
+     "its"
+    ],
+    [
+     "ins",
+     "Helios rackscale system, with CEO Lisa Su announcing that the AI platform is in full production during the company's"
+    ],
+    [
+     "eq",
+     "Advancing AI event in San Francisco,"
+    ],
+    [
+     "del",
+     "where it's expected"
+    ],
+    [
+     "ins",
+     "Calif. The server cabinet combines 72 AMD Instinct MI455X graphics processing units (GPUs) with the company's Epyc central processing units (CPUs) into a rack designed"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "announce updates to its product lines across its data center unit."
+    ],
+    [
+     "ins",
+     "compete directly with Nvidia's (NVDA) Grace Blackwell and Vera Rubin-powered NVL72 rackscale systems. Nvidia's offering also has 72 GPUs. AMD stock slipped more than 2% throughout Su's keynote."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.4732,
+  "numbers_changed": [
+   "0.33",
+   "0.50",
+   "11",
+   "14",
+   "205",
+   "26",
+   "26.32",
+   "28.24",
+   "455",
+   "5",
+   "6",
+   "7",
+   "72",
+   "82"
+  ],
+  "market_figures_changed": [
+   "$0.33",
+   "$0.50",
+   "$205 billion",
+   "$26.32 billion",
+   "$28.24",
+   "14%",
+   "2%",
+   "26%",
+   "5%",
+   "6%",
+   "7%",
+   "82%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 2,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.6,
+ "similarity": 0.7901,
+ "adjudicated_by": "rules"
+}

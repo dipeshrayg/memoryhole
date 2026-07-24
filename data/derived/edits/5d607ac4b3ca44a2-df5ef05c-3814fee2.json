@@ -1,0 +1,66 @@
+{
+ "id": "5d607ac4b3ca44a2-df5ef05c-3814fee2",
+ "url": "https://www.npr.org/2026/07/23/nx-s1-5902963/number-of-cyclosporiasis-cases-in-the-u-s-has-surpassed-previous-records-cdc-says",
+ "domain": "www.npr.org",
+ "source": "NPR Health",
+ "country": "United States",
+ "category": "health",
+ "lang": "en",
+ "detected_at": "2026-07-24T08:51:51Z",
+ "date": "2026-07-24",
+ "old_title": "Number of cyclosporiasis cases in the U.S. has surpassed previous records, CDC says",
+ "new_title": "Number of cyclosporiasis cases in the U.S. has surpassed previous records, CDC says",
+ "old_text": "Number of cyclosporiasis cases in the U.S. has surpassed previous records, CDC saysIt can take weeks to confirm a single case of intestinal illness caused by the cyclospora parasite, but the CDC's tally for this year now stands at over 4,100.\nIt can take weeks to confirm a single case of intestinal illness caused by the cyclospora parasite, but the CDC's tally for this year now stands at over 4,100.",
+ "new_text": "Number of cyclosporiasis cases in the U.S. has surpassed previous records, CDC says\nIt can take weeks to confirm a single case of intestinal illness caused by the cyclospora parasite, but the CDC's tally for this year now stands at over 4,100.\nA MARTÍNEZ, HOST:\nThe nation's outbreak of cyclosporiasis has far surpassed previous records. The CDC counts more than 4,100 cases in the U.S. so far this year. And as NPR's Yuki Noguchi reports, health officials are working through a backlog.\nYUKI NOGUCHI, BYLINE: The clusters of people sick with the diarrhea-causing parasite keep growing. The country's largest is in Michigan and Ohio, where health officials say thousands of cases began with iceberg lettuce from Taylor Farms in Mexico. So how many are actually sick right now? That's hard to pinpoint because of a lag in reporting. To confirm each case requires positive stool testing for cyclospora plus an interview with a state public health worker. Results are then reviewed before the CDC is notified. That process can take over a month.\nIt's slower these days, says Rutgers food safety expert Donald Schaffner. He says the Trump administration's deep cuts last year left public health generally with less money and fewer staff to handle surging caseloads.\nDONALD SCHAFFNER: Realize, too, both at CDC and at FDA, these have been agencies that have been shaken up. And, you know, there's maybe fewer people there. There's less well-trained people there. And good people have been fired, and good people have left.\nNOGUCHI: All this fuels consumers' uncertainty about when the outbreak might end.\nYuki Noguchi, NPR News.\n(SOUNDBITE OF MUSIC)\nCopyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.\nAccuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR's programming is the audio record.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Number of cyclosporiasis cases in the U.S. has surpassed previous records, CDC"
+    ],
+    [
+     "del",
+     "saysIt can take weeks to confirm a single case of intestinal illness caused by the cyclospora parasite, but the CDC's tally for this year now stands at over 4,100."
+    ],
+    [
+     "ins",
+     "says"
+    ],
+    [
+     "eq",
+     "It can take weeks to confirm a single case of intestinal illness"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "but the CDC's tally for this year now stands at over 4,100."
+    ],
+    [
+     "ins",
+     "A MARTÍNEZ, HOST: The nation's outbreak of cyclosporiasis has far surpassed previous records. The CDC counts more than 4,100 cases in the U.S. so far this year. And as NPR's Yuki Noguchi reports, health officials are working through a backlog. YUKI NOGUCHI, BYLINE: The clusters of people sick with the diarrhea-causing parasite keep growing. The country's largest is in Michigan and Ohio, where health officials say thousands of cases began with iceberg lettuce from Taylor Farms in Mexico. So how many are actually sick right now? That's hard to pinpoint because of a lag in reporting. To confirm each case requires positive stool testing for cyclospora plus an interview with a state public health worker. Results are then reviewed before the CDC is notified. That process can take over a month. It's slower these days, says Rutgers food safety expert Donald Schaffner. He says the Trump administration's deep cuts last year left public health generally with less money and fewer staff to handle surging caseloads. DONALD SCHAFFNER: Realize, too, both at CDC and at FDA, these have been agencies that have been shaken up. And, you know, there's maybe fewer people there. There's less well-trained people there. And good people have been fired, and good people have left. NOGUCHI: All this fuels consumers' uncertainty about when the outbreak might end. Yuki Noguchi, NPR News. (SOUNDBITE OF MUSIC) Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information. Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR's programming is the audio record."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 4.5857,
+  "numbers_changed": [
+   "2026"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.02,
+ "similarity": 0.875,
+ "adjudicated_by": "rules"
+}

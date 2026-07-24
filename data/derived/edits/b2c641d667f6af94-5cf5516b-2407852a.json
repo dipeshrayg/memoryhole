@@ -1,0 +1,96 @@
+{
+ "id": "b2c641d667f6af94-5cf5516b-2407852a",
+ "url": "https://www.independent.co.uk/sport/darts/cameron-menzies-ill-world-matchplay-latest-b3020069.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-24T08:40:55Z",
+ "date": "2026-07-24",
+ "old_title": "Cameron Menzies provides health update after falling ill on World Matchplay stage",
+ "new_title": "Cameron Menzies provides health update after falling ill on World Matchplay stage",
+ "old_text": "Cameron Menzies was taken ill during his World Matchplay second-round match against Ross Smith in Blackpool on Wednesday and required medical attention on stage.\nThe Scot, who beat world number two Luke Humphries in the previous round, was leading 2-1 but appeared to become unsteady on his feet and had to be helped off the stage by his opponent.\nMenzies was cleared by medics backstage, it was subsequently confirmed, but was forced to forfeit the match as he was not able to continue.\nThe PDC said: \"Cameron experienced high blood pressure, which caused him to feel dizzy and subsequently faint.\n\"Following an assessment by the on-site medical team, Cameron was deemed well enough to return to his accommodation.\n\"We wish Cameron all the best and look forward to seeing him back in action soon.\"\nMenzies later reassured fans over his condition, taking to social media to thank those who had wished him well.\n\"Thanks to everyone who's checked in and sent messages,\" he wrote on Facebook. \"I'm okay.\"\nSeventh seed Gerwyn Price knocked out fellow former world champion Ross Cross with a fine performance.\nThe Welshman recovered from 3-2 down to triumph in six consecutive legs en route to an eventual 11-5 victory.\nWorld number three Gian van Veen secured his spot in the quarter-final, edging out fellow Dutchman Wessel Nijman.\nBoth players made 100-plus checkouts to prolong the match but it was Van Veen who came out on top 14-12 in a gripping encounter.",
+ "new_text": "Cameron Menzies was taken ill during his World Matchplay second-round match against Ross Smith in Blackpool on Wednesday and required medical attention on stage.\nThe Scot, who beat world number two Luke Humphries in the previous round, was leading 2-1 but appeared to become unsteady on his feet and had to be helped off the stage by his opponent.\nMenzies was cleared by medics backstage, it was subsequently confirmed, but was forced to forfeit the match as he was not able to continue.\nThe PDC said: \"Cameron experienced high blood pressure, which caused him to feel dizzy and subsequently faint.\n\"Following an assessment by the on-site medical team, Cameron was deemed well enough to return to his accommodation.\n\"We wish Cameron all the best and look forward to seeing him back in action soon.\"\nMenzies later reassured fans over his condition, taking to social media to thank those who had wished him well.\n\"Just a quick message to say thank you to everyone for all the messages,\" Menzies wrote on Facebook.\n\"Unfortunately, I wasn't well enough to continue the match. It's obviously not how I wanted my World Matchplay to end, especially after playing some of the best darts of my career over the last few weeks.\n\"I'm grateful to the medical team for looking after me, to Ross for checking on me, and to everyone at the Winter Gardens for their support. A big good luck to Ross for the rest of the tournament. I wish him all the best.\n\"Hopefully I'll be back doing what I love very soon. Thanks again for all your support, it really does mean a lot.\"\nSeventh seed Gerwyn Price knocked out fellow former world champion Ross Cross with a fine performance.\nThe Welshman recovered from 3-2 down to triumph in six consecutive legs en route to an eventual 11-5 victory.\nWorld number three Gian van Veen secured his spot in the quarter-final, edging out fellow Dutchman Wessel Nijman.\nBoth players made 100-plus checkouts to prolong the match but it was Van Veen who came out on top 14-12 in a gripping encounter.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "taking to social media to thank those who had wished him well."
+    ],
+    [
+     "del",
+     "\"Thanks"
+    ],
+    [
+     "ins",
+     "\"Just a quick message to say thank you"
+    ],
+    [
+     "eq",
+     "to everyone"
+    ],
+    [
+     "del",
+     "who's checked in and sent"
+    ],
+    [
+     "ins",
+     "for all the"
+    ],
+    [
+     "eq",
+     "messages,\""
+    ],
+    [
+     "del",
+     "he"
+    ],
+    [
+     "ins",
+     "Menzies"
+    ],
+    [
+     "eq",
+     "wrote on Facebook."
+    ],
+    [
+     "ins",
+     "\"Unfortunately, I wasn't well enough to continue the match. It's obviously not how I wanted my World Matchplay to end, especially after playing some of the best darts of my career over the last few weeks."
+    ],
+    [
+     "eq",
+     "\"I'm"
+    ],
+    [
+     "del",
+     "okay.\""
+    ],
+    [
+     "ins",
+     "grateful to the medical team for looking after me, to Ross for checking on me, and to everyone at the Winter Gardens for their support. A big good luck to Ross for the rest of the tournament. I wish him all the best. \"Hopefully I'll be back doing what I love very soon. Thanks again for all your support, it really does mean a lot.\""
+    ],
+    [
+     "eq",
+     "Seventh seed Gerwyn Price knocked out fellow former world champion Ross Cross"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4939,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 1,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 2.4,
+ "similarity": 0.7958,
+ "adjudicated_by": "rules"
+}

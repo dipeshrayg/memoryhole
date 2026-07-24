@@ -1,0 +1,128 @@
+{
+ "id": "3510c6cc3d470161-a47ba29c-b287b9b3",
+ "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+ "domain": "www.theguardian.com",
+ "source": "The Guardian",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-24T08:35:05Z",
+ "date": "2026-07-24",
+ "old_title": "Two Russian men jailed in Angola for terrorism and spying",
+ "new_title": "Two Russian men jailed in Angola for terrorism and spying",
+ "old_text": "Two Russian men have been found guilty by an Angolan court of terrorism and spying, after being accused of planning a coup and helping to organise deadly demonstrations in the southern African country last year.\nLev Lakshtanov and Igor Ratchin were sentenced to eight and 11 years in jail respectively. They had denied the charges, claiming they were in Angola for cultural and business activities.\nFrom 28-30 July 2025, a minibus taxi strike over fuel price hikes descended into riots and looting, in which 22 people were killed and more than 1,600 arrested according to official figures.\nAngola's security forces were accused of firing live ammunition at protesters; the government said its \"progressive\" use of force was justified. Human Rights Watch had previously said Angola used \"excessive force\" when it used rubber bullets and teargas to break up a peaceful protest against rising fuel prices on 12 July 2025.\nAngolan prosecutors said Lakshtanov and Ratchin wanted to influence next year's presidential elections, including by funding Angola's largest opposition party, the National Union for the Total Independence of Angola (UNITA), or by forcing a leadership change within the Popular Movement for the Liberation of Angola (MPLA), which has ruled the country since independence from Portugal in 1975.\nProsecutors also claimed the men were linked to Africa Politology, a Russian disinformation and propaganda network that emerged from the Wagner mercenary group.\nAfrica Politology was taken over by Russia's Foreign Intelligence Service (SVR) after the death of Wagner chief Yevgeny Prigozhin in 2023, according to an investigation by media outlets including Forbidden Stories. Wagner was rebranded as Africa Corps and absorbed by Russia's military.\nAngola, whose economy is highly dependent on oil exports, has historically been close with Russia. During the cold war years of Angola's 1975-2002 civil war, the Soviet Union and Cuba supported the MPLA, while the US and apartheid South Africa backed its opponents, including UNITA. However, Angola's president, João Lourenço, has improved relations with the US and Europe since taking power in 2017.\nIn the last decade, Russia has increased its presence in Africa. The Wagner group and then Africa Corps have provided security for the Central African Republic's president, Faustin-Archange Touadéra, since 2017.\nIn 2021, Wagner forces arrived in Mali to support the military junta. Africa Corps also backs the military regimes in neighbouring Niger and Burkina Faso. Since 2023, Russian troops have also been deployed in Equatorial Guinea, Libya and Sudan, according to a US Congress report.\nMadagascar's president, Michael Randrianirina, has also boosted ties with Russia since taking power in a coup in October 2025. There are Russians in his presidential guard and a weekly programme about Madagascar-Russia relations was launched earlier this month on national television.\nTwo Angolans were also tried alongside the Russians. Sports journalist Carlos Tomé received a two-year suspended prison sentence. Francisco de Oliveira, the secretary-general of UNITA's youth wing, was acquitted.\nProsecutors have appealed against those sentences, according to the Portuguese news agency Lusa. Lakshtanov and Ratchin have also appealed against their sentences, but will remain in detention while the appeal is processed, Lusa reported.\nRussia's embassy in Angola did not immediately respond to a request for comment.\nAgence France-Press contributed to this report",
+ "new_text": "Two Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a coup and helping to organise deadly demonstrations in the southern African country last year.\nLev Lakshtanov and Igor Ratchin were sentenced to eight and 11 years in jail respectively. They had denied the charges, claiming they were in Angola for cultural and business activities.\nFrom 28-30 July 2025, a minibus taxi strike over fuel price hikes descended into riots and looting, in which 22 people were killed and more than 1,600 arrested according to official figures.\nAngola's security forces were accused of firing live ammunition at protesters; the government said its \"progressive\" use of force was justified. Human Rights Watch had previously said Angola employed \"excessive force\" when it used rubber bullets and teargas to break up a peaceful protest against rising fuel prices on 12 July 2025.\nAngolan prosecutors said Lakshtanov and Ratchin wanted to influence next year's presidential elections, including by funding Angola's largest opposition party, the National Union for the Total Independence of Angola (UNITA), or by forcing a leadership change within the Popular Movement for the Liberation of Angola (MPLA), which has ruled the country since independence from Portugal in 1975.\nProsecutors also claimed the men were linked to Africa Politology, a Russian disinformation and propaganda network that emerged from the Wagner mercenary group.\nAfrica Politology was taken over by Russia's Foreign Intelligence Service (SVR) after the death of the Wagner chief Yevgeny Prigozhin in 2023, according to an investigation by media outlets including Forbidden Stories. Wagner was rebranded as Africa Corps and absorbed by Russia's military.\nAngola, whose economy is highly dependent on oil exports, has historically been close with Russia. During the cold war years of Angola's 1975-2002 civil war, the Soviet Union and Cuba supported the MPLA, while the US and apartheid South Africa backed its opponents, including UNITA. However, Angola's president, João Lourenço, has improved relations with the US and Europe since taking power in 2017.\nIn the last decade, Russia has increased its presence in Africa. The Wagner group and then Africa Corps have provided security for the Central African Republic's president, Faustin-Archange Touadéra, since 2017.\nIn 2021, Wagner forces arrived in Mali to support the military junta. Africa Corps also backs the military regimes in neighbouring Niger and Burkina Faso. Since 2023, Russian troops have also been deployed in Equatorial Guinea, Libya and Sudan, according to a US Congress report.\nMadagascar's president, Michael Randrianirina, has also boosted ties with Russia since taking power in a coup in October 2025. There are Russians in his presidential guard and a weekly programme about Madagascar-Russia relations was launched earlier this month on national television.\nTwo Angolans were also tried alongside the Russians. The sports journalist Carlos Tomé received a two-year suspended prison sentence. Francisco de Oliveira, the secretary-general of UNITA's youth wing, was acquitted.\nProsecutors have appealed against those sentences, according to the Portuguese news agency Lusa. Lakshtanov and Ratchin have also appealed against their sentences, but will remain in detention while the appeal is processed, according to Lusa.\nRussia's embassy in Angola did not immediately respond to a request for comment.\nAgence France-Press contributed to this report",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "men have been found guilty by an Angolan court of terrorism and"
+    ],
+    [
+     "del",
+     "spying,"
+    ],
+    [
+     "ins",
+     "spying"
+    ],
+    [
+     "eq",
+     "after being accused of planning a coup and helping to organise deadly"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "use of force was justified. Human Rights Watch had previously said Angola"
+    ],
+    [
+     "del",
+     "used"
+    ],
+    [
+     "ins",
+     "employed"
+    ],
+    [
+     "eq",
+     "\"excessive force\" when it used rubber bullets and teargas to break up"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "taken over by Russia's Foreign Intelligence Service (SVR) after the death of"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "Wagner chief Yevgeny Prigozhin in 2023, according to an investigation by media"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "month on national television. Two Angolans were also tried alongside the Russians."
+    ],
+    [
+     "del",
+     "Sports"
+    ],
+    [
+     "ins",
+     "The sports"
+    ],
+    [
+     "eq",
+     "journalist Carlos Tomé received a two-year suspended prison sentence. Francisco de Oliveira,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "their sentences, but will remain in detention while the appeal is processed,"
+    ],
+    [
+     "del",
+     "Lusa reported."
+    ],
+    [
+     "ins",
+     "according to Lusa."
+    ],
+    [
+     "eq",
+     "Russia's embassy in Angola did not immediately respond to a request for comment. Agence France-Press contributed to this report"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0244,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9982,
+ "adjudicated_by": "rules"
+}

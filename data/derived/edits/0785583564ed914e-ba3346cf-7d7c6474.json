@@ -1,0 +1,120 @@
+{
+ "id": "0785583564ed914e-ba3346cf-7d7c6474",
+ "url": "https://www.dw.com/en/eu-fines-google-€890-million-over-competition-rules/a-78082850?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-24T08:38:35Z",
+ "date": "2026-07-24",
+ "old_title": "EU fines Google €890 million over competition rules",
+ "new_title": "EU fines Google €890 million over competition rules",
+ "old_text": "The European Union has imposed fines of €890 million ($1.015 billion) on US tech giant Google for violating EU digital regulations.\nThe European Commission said it found that Google had preferenced its ubiquitious search engine and its Play app store in ways that unfairly harmed competition.\nWhat did the EU say about the fine?\n\"We found that Google harms businesses offering similar services, such as shopping or sports, by not granting them the same level of prominence on Google Search,\" Digital Commissioner Henna Virkkunen said.\n\"We also found that Google has restricted app developers from offering cheaper offers to customers in the Google Play app store,\" she said.\nThe commission stressed that Google could face further fines if it does not take steps to comply with regulations.\n\"The best products should succeed because they're better, not because they're owned by the company running the search engine,\" Competition Commissioner Teresa Ribera said. \"European consumers have a right to be told by app developers where to sign up to the best offers, even when the app store owner does not get a cut.\"\nThe EU has described Google and its parent company Alphabet as a \"gatekeeper\" alongside other major US firms - namely Amazon, Apple, Meta and Microsft - and China's ByteDance, saying that the companies control access for consumers.\nTop Google executive Kent Walker criticized the fine, describing it as \"product degradation driven by a small group of self-serving complainants.\"\nHe said that the penalty would \"strip away real-time search features Europeans love - like instant pricing and direct availability for hotels, flights, and restaurants - and dismantle safety protections on Google Play.\"\nWhat is the EU's policy on Big Tech and competition?\nThe European Union has been working to rein in Big Tech companies in the face of larget market shares held by major US and Chinese firms.\nThe European Commission already imposed a €4.3 billion penalty on Google in 2018, accusing the company of abusing Android system's market dominance by requiring phone makers to pre-install Google Search and the Google Chrome web browser. The firm lost its appeal against the fine in February.\nThe EU has also fined tech firms under safety regulations, with Chinese retailer Ali Express being hit with a €550 million fine earlier this month after the bloc had found shortcomings in the firm's efforts to curb illegal, unsafe and counterfeit goods.\nOn July 10, the EU threatened social media giant Meta with a heavy fine unless it changes \"addictive design\" used on the platforms Facebook and Instagram.\nEdited by: Dmytro Hubenko\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "The European Union has imposed fines of €890 million ($1.015 billion) on US tech giant Google for violating EU digital regulations.\nThe European Commission said it found that Google had given preference to its ubiquitous search engine and its Play app store in ways that unfairly harmed competition.\nWhat did the EU say about the fine?\n\"We found that Google harms businesses offering similar services, such as shopping or sports, by not granting them the same level of prominence on Google Search,\" Digital Commissioner Henna Virkkunen said.\n\"We also found that Google has restricted app developers from offering cheaper offers to customers in the Google Play app store,\" she said.\nThe commission stressed that Google could face further fines if it does not take steps to comply with regulations.\n\"The best products should succeed because they're better, not because they're owned by the company running the search engine,\" Competition Commissioner Teresa Ribera said. \"European consumers have a right to be told by app developers where to sign up to the best offers, even when the app store owner does not get a cut.\"\nThe EU has described Google and its parent company Alphabet as a \"gatekeeper\" alongside other major US firms - namely Amazon, Apple, Meta and Microsoft - and China's ByteDance, saying that the companies control access for consumers.\nTop Google executive Kent Walker criticized the fine, describing it as \"product degradation driven by a small group of self-serving complainants.\"\nHe said that the penalty would \"strip away real-time search features Europeans love - like instant pricing and direct availability for hotels, flights, and restaurants - and dismantle safety protections on Google Play.\"\nHow has the US responded to the EU fine?\nUS Trade Representative Jamieson Greer said the fine drove trade uncertainty.\n\"The EU often claims that it is looking for stability and predictability in our trading relationship, but these actions are driving massive uncertainty for US exports of goods and services to Europe,\" Greer said in a statement.\nWhat is the EU's policy on Big Tech and competition?\nThe European Union has been working to rein in Big Tech companies in the face of the largest market shares held by major US and Chinese firms.\nThe European Commission already imposed a €4.3 billion penalty on Google in 2018, accusing the company of abusing Android system's market dominance by requiring phone makers to pre-install Google Search and the Google Chrome web browser. The firm lost its appeal against the fine in February.\nThe EU has also fined tech firms under safety regulations, with Chinese retailer Ali Express being hit with a €550 million fine earlier this month after the bloc had found shortcomings in the firm's efforts to curb illegal, unsafe and counterfeit goods.\nOn July 10, the EU threatened social media giant Meta with a heavy fine unless it changes \"addictive design\" used on the platforms Facebook and Instagram.\nEdited by: Dmytro Hubenko\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "EU digital regulations. The European Commission said it found that Google had"
+    ],
+    [
+     "del",
+     "preferenced"
+    ],
+    [
+     "ins",
+     "given preference to"
+    ],
+    [
+     "eq",
+     "its"
+    ],
+    [
+     "del",
+     "ubiquitious"
+    ],
+    [
+     "ins",
+     "ubiquitous"
+    ],
+    [
+     "eq",
+     "search engine and its Play app store in ways that unfairly harmed"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "\"gatekeeper\" alongside other major US firms - namely Amazon, Apple, Meta and"
+    ],
+    [
+     "del",
+     "Microsft"
+    ],
+    [
+     "ins",
+     "Microsoft"
+    ],
+    [
+     "eq",
+     "- and China's ByteDance, saying that the companies control access for consumers."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "hotels, flights, and restaurants - and dismantle safety protections on Google Play.\""
+    ],
+    [
+     "ins",
+     "How has the US responded to the EU fine? US Trade Representative Jamieson Greer said the fine drove trade uncertainty. \"The EU often claims that it is looking for stability and predictability in our trading relationship, but these actions are driving massive uncertainty for US exports of goods and services to Europe,\" Greer said in a statement."
+    ],
+    [
+     "eq",
+     "What is the EU's policy on Big Tech and competition? The European"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "been working to rein in Big Tech companies in the face of"
+    ],
+    [
+     "del",
+     "larget"
+    ],
+    [
+     "ins",
+     "the largest"
+    ],
+    [
+     "eq",
+     "market shares held by major US and Chinese firms. The European Commission"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1438,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 0.9981,
+ "adjudicated_by": "rules"
+}

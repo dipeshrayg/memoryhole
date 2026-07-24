@@ -1,0 +1,162 @@
+{
+ "id": "43f18a87dafe49e6-d8408750-5d66d59b",
+ "url": "https://www.abc.net.au/news/2026-07-23/lloyd-street-bridge-redesign-approved-after-four-year-delay/106951130",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-24T08:39:42Z",
+ "date": "2026-07-24",
+ "old_title": "One of WA's longest bridges to be built after Indigenous dispute resolved",
+ "new_title": "One of WA's longest bridges to be built after Indigenous dispute resolved",
+ "old_text": "One of Western Australia's longest bridges will be built to fix a road to nowhere in Perth's east - resolving a four-year-long deadlock over fears the bridge would destroy an ancient rock shelter and billabong.\nThe state government began work on the Great Eastern Highway Bypass Interchanges project in 2021 to create a \"free-flowing gateway\" into Perth's Hills.\nBuilding the Lloyd Street Bridge across the Helena River from Midland to Hazelmere was just one part of the almost $400 million project.\nFour-lane roads on either side of the river were built, but construction came to a halt in 2022 when traditional owners raised concerns about an ancient rock shelter and billabong in its path.\n\"We're not against development but we are against destruction of our traditional sites and the river is our cultural heritage site,\" the group's spokesman Greg Ugle said at the time.\n\"My connection is here, it was a playground for us, for Noongar kids.\"\nSince then, the surrounding suburbs have surged with traffic, and the unfinished cul-de-sacs became dumping grounds for rubbish and a racetrack for hoons.\nNew bridge settled\nThe government has announced it has struck an agreement with traditional owners on a new design, with construction pegged to begin by the end of the year.\nTransport Minister Rita Saffioti said it would avoid the culturally significant sites with support piers positioned away from the sensitive areas.\n\"The state could have referred [the traditional owner's application] to the Federal Government for formal determination and continued to build the previous design, against the wishes of the Traditional Owners and other community representatives,\" she said.\n\"Instead, our government, Main Roads, and the City of Swan listened, worked with the Traditional Owners to get a better understanding of their concerns and set out to work towards a design the whole community could be proud of.\"\nMs Saffioti said the four-lane bridge will be 180 metres long - one of the longest multi-span bridges in the state.\nA state government spokesperson has confirmed the Lloyd Street Bridge is part of a package of works including upgrades to the Great Eastern Highway Bypass and Abernethy Road intersection, with a total current budget of $180 million.",
+ "new_text": "Perth's road to nowhere deadlock resolved after four-year-delay over Aboriginal heritage concerns\nIn short:\nA four-year dispute over Indigenous cultural heritage has been resolved, paving the way for a $180 million traffic bridge to complete an infamous \"road to nowhere\" in Midland.\nThe new 180-metre Lloyd Street Bridge avoids a culturally significant rock shelter and billabong near the Helena River after an agreement with traditional owners.\nThe Transport Minister says construction could begin by the end of the year.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "One of Western Australia's longest bridges will be built to fix a"
+    ],
+    [
+     "ins",
+     "Perth's"
+    ],
+    [
+     "eq",
+     "road to nowhere"
+    ],
+    [
+     "ins",
+     "deadlock resolved after four-year-delay over Aboriginal heritage concerns In short: A four-year dispute over Indigenous cultural heritage has been resolved, paving the way for a $180 million traffic bridge to complete an infamous \"road to nowhere\""
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "Perth's east - resolving a four-year-long deadlock over fears the bridge would destroy an ancient rock shelter and billabong."
+    ],
+    [
+     "ins",
+     "Midland."
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "state government began work on the Great Eastern Highway Bypass Interchanges project in 2021 to create a \"free-flowing gateway\" into Perth's Hills. Building the"
+    ],
+    [
+     "ins",
+     "new 180-metre"
+    ],
+    [
+     "eq",
+     "Lloyd Street Bridge"
+    ],
+    [
+     "del",
+     "across the Helena River from Midland to Hazelmere was just one part of the almost $400 million project. Four-lane roads on either side of the river were built, but construction came to"
+    ],
+    [
+     "ins",
+     "avoids"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "halt in 2022 when traditional owners raised concerns about an ancient"
+    ],
+    [
+     "ins",
+     "culturally significant"
+    ],
+    [
+     "eq",
+     "rock shelter and billabong"
+    ],
+    [
+     "del",
+     "in its path. \"We're not against development but we are against destruction of our traditional sites and"
+    ],
+    [
+     "ins",
+     "near"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "river is our cultural heritage site,\" the group's spokesman Greg Ugle said at the time. \"My connection is here, it was a playground for us, for Noongar kids.\" Since then, the surrounding suburbs have surged with traffic, and the unfinished cul-de-sacs became dumping grounds for rubbish and a racetrack for hoons. New bridge settled The government has announced it has struck"
+    ],
+    [
+     "ins",
+     "Helena River after"
+    ],
+    [
+     "eq",
+     "an agreement with traditional"
+    ],
+    [
+     "del",
+     "owners on a new design, with"
+    ],
+    [
+     "ins",
+     "owners. The Transport Minister says"
+    ],
+    [
+     "eq",
+     "construction"
+    ],
+    [
+     "del",
+     "pegged to"
+    ],
+    [
+     "ins",
+     "could"
+    ],
+    [
+     "eq",
+     "begin by the end of the year."
+    ],
+    [
+     "del",
+     "Transport Minister Rita Saffioti said it would avoid the culturally significant sites with support piers positioned away from the sensitive areas. \"The state could have referred [the traditional owner's application] to the Federal Government for formal determination and continued to build the previous design, against the wishes of the Traditional Owners and other community representatives,\" she said. \"Instead, our government, Main Roads, and the City of Swan listened, worked with the Traditional Owners to get a better understanding of their concerns and set out to work towards a design the whole community could be proud of.\" Ms Saffioti said the four-lane bridge will be 180 metres long - one of the longest multi-span bridges in the state. A state government spokesperson has confirmed the Lloyd Street Bridge is part of a package of works including upgrades to the Great Eastern Highway Bypass and Abernethy Road intersection, with a total current budget of $180 million."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.0742,
+  "numbers_changed": [
+   "2021",
+   "2022",
+   "400"
+  ],
+  "market_figures_changed": [
+   "$400 m"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 5,
+  "blocks_added": 1,
+  "blocks_removed": 3,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 2.9,
+ "similarity": 0.7198,
+ "adjudicated_by": "rules"
+}
