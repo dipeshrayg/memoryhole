@@ -1,0 +1,88 @@
+{
+ "id": "0b2e72623461d009-6dbb4ddc-aae68856",
+ "url": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-07-25T08:25:02Z",
+ "date": "2026-07-25",
+ "old_title": "UK mortgage rates rise to highest level for a month as global tensions persist",
+ "new_title": "UK mortgage rates rise to highest level for more than a month",
+ "old_text": "- Published\nUK average mortgage rates have risen back to the level of a month ago as renewed tensions in the Middle East feed through to homeowners.\nLenders' funding costs have increased as markets judge that a prolonged conflict reduces the possibility of interest rate cuts by central banks.\nThe five biggest High Street banks are among a host of lenders which have increased their interest rates on new fixed deals in recent days.\nRecent projections by the Bank of England suggest just over five million homeowners should expect their monthly mortgage repayments to increase by the end of 2028.\nMortgage rates had been falling as a ceasefire between the US and Iran initially appeared to hold.\nBut fresh strikes and Houthi militia attacks on oil tankers in the Red Sea reignited fears over global energy supplies.\nOil prices hit $100 a barrel for the first time since May on Thursday after several days of increases, stoking fears of higher inflation and a lower likelihood of interest rate cuts.\nAverage rate still below Iran war peak\nMore than eight in 10 mortgage customers have fixed-rate deals.\nThe interest rate on this kind of mortgage does not change until the deal expires, usually after two or five years, and a new one is chosen to replace it.\nThe average rate on a new two-year fixed deal is 5.58%, according to financial information service Moneyfacts. Although it has risen consistently in recent days, it remains below the Iran war peak in April of 5.9%.\nThe average rate on a five-year fixed deal is 5.6%.\n\"It will be incredibly frustrating for borrowers to see rates rise back up to where they were a month ago. The positive progress over recent weeks now feels all but lost, but what the market needs is a period of stability,\" said Rachel Springall, finance expert at Moneyfacts.\nShe said 100 deals had been pulled temporarily as lenders reconsider their pricing plans.\nShe suggested that anyone who needed to remortgage this year could lock in a new deal now with their existing lender ahead of time, but should also seek help from a broker to see whether there are better deals elsewhere.\n\"Brokers are an anchor during turbulent times as they can help borrowers keep abreast of changes and be there step by step when going through a mortgage application,\" she said.\nBorrowers had been heartened by the regular falls in mortgage rates during June and early July, but brokers say the latest changes are evidence of the uncertainty in the sector.\n\"Any borrower hoping for rate cuts to become an ongoing trend will need to rethink,\" said David Hollingworth, of L&C Mortgages.\n\"Momentum has performed an about turn and now clearly shifted to fixed rates rising in the near term at least.\"",
+ "new_text": "- Published\nUK average mortgage rates have risen back to the level of a month ago as renewed tensions in the Middle East feed through to homeowners.\nLenders' funding costs have increased as markets judge that a prolonged conflict reduces the possibility of interest rate cuts by central banks.\nThe five biggest High Street banks are among a host of lenders which have increased their interest rates on new fixed deals in recent days.\nRecent projections by the Bank of England suggest just over five million homeowners should expect their monthly mortgage repayments to increase by the end of 2028.\nMortgage rates had been falling as a ceasefire between the US and Iran initially appeared to hold.\nBut fresh strikes and Houthi militia attacks on oil tankers in the Red Sea reignited fears over global energy supplies.\nOil prices hit $100 a barrel for the first time since May on Thursday after several days of increases, stoking fears of higher inflation and a lower likelihood of interest rate cuts.\nAverage rate still below Iran war peak\nMore than eight in 10 mortgage customers have fixed-rate deals.\nThe interest rate on this kind of mortgage does not change until the deal expires, usually after two or five years, and a new one is chosen to replace it.\nThe average rate on a new two-year fixed deal is 5.59%, according to financial information service Moneyfacts.\nAlthough it has risen consistently in recent days and is the highest since 19 June, it remains below the Iran war peak in April of 5.9%.\nThe average rate on a five-year fixed deal is 5.61%, a level last seen on 7 June.\nHSBC has also announced it will raise its mortgage rates on Monday.\n\"It will be incredibly frustrating for borrowers to see rates rise back up to where they were a month ago. The positive progress over recent weeks now feels all but lost, but what the market needs is a period of stability,\" said Rachel Springall, finance expert at Moneyfacts.\nShe said 100 deals had been pulled temporarily as lenders reconsider their pricing plans.\nShe suggested that anyone who needed to remortgage this year could lock in a new deal now with their existing lender ahead of time, but should also seek help from a broker to see whether there are better deals elsewhere.\n\"Brokers are an anchor during turbulent times as they can help borrowers keep abreast of changes and be there step by step when going through a mortgage application,\" she said.\nBorrowers had been heartened by the regular falls in mortgage rates during June and early July, but brokers say the latest changes are evidence of the uncertainty in the sector.\n\"Any borrower hoping for rate cuts to become an ongoing trend will need to rethink,\" said David Hollingworth, of L&C Mortgages.\n\"Momentum has performed an about turn and now clearly shifted to fixed rates rising in the near term at least.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "replace it. The average rate on a new two-year fixed deal is"
+    ],
+    [
+     "del",
+     "5.58%,"
+    ],
+    [
+     "ins",
+     "5.59%,"
+    ],
+    [
+     "eq",
+     "according to financial information service Moneyfacts. Although it has risen consistently in recent"
+    ],
+    [
+     "del",
+     "days,"
+    ],
+    [
+     "ins",
+     "days and is the highest since 19 June,"
+    ],
+    [
+     "eq",
+     "it remains below the Iran war peak in April of 5.9%. The average rate on a five-year fixed deal is"
+    ],
+    [
+     "del",
+     "5.6%."
+    ],
+    [
+     "ins",
+     "5.61%, a level last seen on 7 June. HSBC has also announced it will raise its mortgage rates on Monday."
+    ],
+    [
+     "eq",
+     "\"It will be incredibly frustrating for borrowers to see rates rise back"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0688,
+  "numbers_changed": [
+   "19",
+   "5.58",
+   "5.59",
+   "5.6",
+   "5.61",
+   "7"
+  ],
+  "market_figures_changed": [
+   "5.58%",
+   "5.59%",
+   "5.6%",
+   "5.61%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "FACTUAL",
+ "score": 1.25,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

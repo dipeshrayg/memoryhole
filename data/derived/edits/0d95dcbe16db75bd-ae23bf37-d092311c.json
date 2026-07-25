@@ -1,0 +1,112 @@
+{
+ "id": "0d95dcbe16db75bd-ae23bf37-d092311c",
+ "url": "https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-25T08:14:05Z",
+ "date": "2026-07-25",
+ "old_title": "Angela Rayner rules out rent controls in England",
+ "new_title": "Angela Rayner rules out rent controls in England",
+ "old_text": "- Published\nHousing Secretary Angela Rayner has said Prime Minister Andy Burnham is not looking at bringing in rent controls in England.\nShe told BBC Breakfast that changes made through the Renters' Rights Act, which came into effect in May, were \"already having a significant impact on the market\".\nShe added that controls which had been implemented in some areas of the UK over the past few years had not \"necessarily brought rents down\".\nIn 2023 when he was the mayor of Greater Manchester, Burnham called for freezes to private sector rents until the cost of living crisis was over.\nBut Rayner told the BBC on Friday: \"I don't think that rent freezes, rent controls, is a way forward at the moment.\n\"Three years ago, Andy called for that because there was a significant crisis in the rental market.\n\"We implemented between then the Renters' Rights Act which is giving renters more power and control.\"\nTemporary rent controls were introduced in Scotland in October 2022 but expired last year.\nGreen Party leader Zack Polanski has said he wants to see rent controls brought in for all rented property in England, while Sir Sadiq Khan, the mayor of London, has long called on the government to implement a cap.\nThe Renters' Rights Act was brought in to give more stability and security to the 11 million people who rent from private landlords.\nUnder the legislation, fixed-term tenancies have been banned and it is now significantly harder for landlords to evict tenants.\nRents can also only be increased once a year to the property's \"open market rent\".\nRayner was also asked about the government's target of building 1.5 million new homes by the end of the parliament in 2029.\nShe told BBC Radio 4's Today programme that the target had become more challenging to meet, pointing to increased construction costs as one of the reasons for that.\n\"1.5 million homes is a difficult target. It was when I made the target, but I'm going to keep the target, and I'm not going to be defeated,\" she said.\nDuring Burnham's bid to replace Sir Keir Starmer as Labour leader and prime minister, he promised to deliver the biggest programme of council house building in decades.\nHe has also long talked about implementing reforms to property taxes, including stamp duty and council tax - though he has not specified what exactly he would change while in government.",
+ "new_text": "- Published\nHousing Secretary Angela Rayner has said Prime Minister Andy Burnham is not looking at bringing in rent controls in England.\nShe told BBC Breakfast that changes made through the Renters' Rights Act, which came into effect in May, were \"already having a significant impact on the market\".\nShe added that controls which had been implemented in some areas of the UK over the past few years had not \"necessarily brought rents down\".\nIn 2023 when he was the mayor of Greater Manchester, Burnham called for freezes to private sector rents until the cost of living crisis was over.\nBut Rayner told the BBC on Friday: \"I don't think that rent freezes, rent controls, is a way forward at the moment.\n\"Three years ago, Andy called for that because there was a significant crisis in the rental market.\n\"We implemented between then the Renters' Rights Act which is giving renters more power and control.\"\nTemporary rent controls were introduced in Scotland in October 2022 but expired last year.\nUnder new legislation, ministers in Holyrood will be able to designate certain places in Scotland as rent control areas - expected to come in by 2027.\nCouncils will be able to cap rent increases on some properties at a maximum of 6%.\nGreen Party leader Zack Polanski has said he wants to see rent controls brought in for all rented property in England.\nResponding to Rayner's interview, he described Burnham as \"continuity Starmer\", posting on X: \"The new prime minister talks a lot of about helping with the cost of living crisis. This is the one single measure that would help the most and save billions. All talk.\"\nJeremy Corbyn, who pledged to bring in rent controls during the 2019 general election when he was the Labour leader, described Rayner's announcement as \"extremely disappointing\".\n\"There is no hope of ending homelessness if we do not stand up to vested interests and take action against extortionate private rents.\n\"We need rent controls, and we need them now.\"\nSir Sadiq Khan, the mayor of London, has also long called on the government to implement a cap.\nBut Gareth Bacon, the Conservative's shadow housing minister, said rent controls would be \"disastrous\" and \"intensify the damage done by Labour's agenda that has driven landlords from the market and reduced choice for renters\".\n\"Labour are clearly divided. Burnham's pick for housing secretary has disowned a policy he himself has repeatedly backed,\" he said.\nThe term rent controls describes a range of measures a government can implement - from capping price increases to freezing them for a period of time.\nLandlord groups say they may exacerbate the housing crisis by putting owners off renting out property.\nThe Renters' Rights Act was brought in to give more stability and security to the 11 million people who rent from private landlords.\nUnder the legislation, fixed-term tenancies have been banned and it is now significantly harder for landlords to evict tenants.\nRents can also only be increased once a year to the property's \"open market rent\".\nRayner was also asked about the government's target of building 1.5 million new homes by the end of the parliament in 2029.\nShe told BBC Radio 4's Today programme that the target had become more challenging to meet, pointing to increased construction costs as one of the reasons for that.\n\"1.5 million homes is a difficult target. It was when I made the target, but I'm going to keep the target, and I'm not going to be defeated,\" she said.\nThe Tories say the target is a \"dead letter because of her party's taxes and red tape\".\nDuring Burnham's bid to replace Sir Keir Starmer as Labour leader and prime minister, he promised to deliver the biggest programme of council house building in decades.\nHe has also long talked about implementing reforms to property taxes, including stamp duty and council tax - though he has not specified what exactly he would change while in government.\nBurnham has pledged to lead a \"cost of living government\" and has announced a series of measures in his first week in office which he said were designed to give people \"breathing space\".\nThe measures include cutting VAT on household energy bills from October and restoring a Â£2 bus fare cap in England, except London, from January 2027.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "controls were introduced in Scotland in October 2022 but expired last year."
+    ],
+    [
+     "ins",
+     "Under new legislation, ministers in Holyrood will be able to designate certain places in Scotland as rent control areas - expected to come in by 2027. Councils will be able to cap rent increases on some properties at a maximum of 6%."
+    ],
+    [
+     "eq",
+     "Green Party leader Zack Polanski has said he wants to see rent controls brought in for all rented property in"
+    ],
+    [
+     "del",
+     "England, while"
+    ],
+    [
+     "ins",
+     "England. Responding to Rayner's interview, he described Burnham as \"continuity Starmer\", posting on X: \"The new prime minister talks a lot of about helping with the cost of living crisis. This is the one single measure that would help the most and save billions. All talk.\" Jeremy Corbyn, who pledged to bring in rent controls during the 2019 general election when he was the Labour leader, described Rayner's announcement as \"extremely disappointing\". \"There is no hope of ending homelessness if we do not stand up to vested interests and take action against extortionate private rents. \"We need rent controls, and we need them now.\""
+    ],
+    [
+     "eq",
+     "Sir Sadiq Khan, the mayor of London, has"
+    ],
+    [
+     "ins",
+     "also"
+    ],
+    [
+     "eq",
+     "long called on the government to implement a cap."
+    ],
+    [
+     "ins",
+     "But Gareth Bacon, the Conservative's shadow housing minister, said rent controls would be \"disastrous\" and \"intensify the damage done by Labour's agenda that has driven landlords from the market and reduced choice for renters\". \"Labour are clearly divided. Burnham's pick for housing secretary has disowned a policy he himself has repeatedly backed,\" he said. The term rent controls describes a range of measures a government can implement - from capping price increases to freezing them for a period of time. Landlord groups say they may exacerbate the housing crisis by putting owners off renting out property."
+    ],
+    [
+     "eq",
+     "The Renters' Rights Act was brought in to give more stability and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "keep the target, and I'm not going to be defeated,\" she said."
+    ],
+    [
+     "ins",
+     "The Tories say the target is a \"dead letter because of her party's taxes and red tape\"."
+    ],
+    [
+     "eq",
+     "During Burnham's bid to replace Sir Keir Starmer as Labour leader and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "he has not specified what exactly he would change while in government."
+    ],
+    [
+     "ins",
+     "Burnham has pledged to lead a \"cost of living government\" and has announced a series of measures in his first week in office which he said were designed to give people \"breathing space\". The measures include cutting VAT on household energy bills from October and restoring a Â£2 bus fare cap in England, except London, from January 2027."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.794,
+  "numbers_changed": [
+   "2",
+   "2019",
+   "2027",
+   "6"
+  ],
+  "market_figures_changed": [
+   "6%",
+   "£2"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 4,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.109,
+ "similarity": 0.9352,
+ "adjudicated_by": "rules"
+}

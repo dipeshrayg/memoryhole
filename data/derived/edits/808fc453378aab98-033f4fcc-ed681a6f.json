@@ -1,0 +1,198 @@
+{
+ "id": "808fc453378aab98-033f4fcc-ed681a6f",
+ "url": "https://finance.yahoo.com/technology/live/tech-stocks-live-tech-heavy-nasdaq-climbs-ahead-of-big-tech-earnings-kickoff-164334720.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-07-25T08:26:19Z",
+ "date": "2026-07-25",
+ "old_title": "Tech stocks live: Intel reports blowout earnings as Tesla and Google fall",
+ "new_title": "Tech stocks live: Huang, Nadella, and other CEOs defend open-source AI as US threatens crackdown",
+ "old_text": "Big Tech earnings season kicked off Wednesday with Google (GOOG, GOOGL) and Tesla (TSLA), and investors didn't like what they heard. Tesla tumbled 14% on Thursday to 11-month low as profit miss, capex spending outlook weigh on stock. Google fell more than 6% on capex growth expectations despite its earnings beat.\nThat wasn't the case for Intel, which reported its second quarter earnings after the bell on Thursday. Its results blew past Wall Street's expectations on both the top and bottom lines, and topped third quarter guidance estimates, sending the stock up more than 6% in after-hours trade.\nAlso on Thursday, AMD (AMD) officially launched its Helios rackscale system, with CEO Lisa Su announcing that the AI platform is in full production during the company's Advancing AI event in San Francisco, Calif.\nThe server cabinet combines 72 AMD Instinct MI455X graphics processing units (GPUs) with the company's Epyc central processing units (CPUs) into a rack designed to compete directly with Nvidia's (NVDA) Grace Blackwell and Vera Rubin-powered NVL72 rackscale systems. Nvidia's offering also has 72 GPUs.\nAMD stock slipped more than 2% throughout Su's keynote.",
+ "new_text": "Tech stocks live: Huang, Nadella, and other CEOs defend open-source AI as US threatens crackdown\nTech stocks fell on Friday following a sharp sell-off the day before as markets weighed new tariffs, Intel's (INTC) quarterly results, and a debate over China's open-source models.\nThis week, Nvidia (NVDA) CEO Jensen Huang, Microsoft (MSFT) CEO Satya Nadella, and AMD (AMD) CEO Lisa Su voiced support for the open-source models created by Chinese startups, which allow users to customize the software, unlike the proprietary, or closed, models preferred by US startups OpenAI (OPAI.PVT), Anthropic (ANTH.PVT), and Google (GOOG, GOOGL).\nIn tech earnings news, Intel stock fell almost 8%, despite announcing better-than-anticipated earnings and an upbeat outlook for the current quarter after the bell on Thursday. The chipmaker is benefiting from the AI boom thanks to its central processing units (CPUs), which are key to running AI agents.\nIntel's report came after Google (GOOG, GOOGL) and Tesla (TSLA) announced their own earnings on Wednesday. But investors weren't as keen on what those companies had to say. Google said it will increase its spending this year and in 2027. They were similarly unimpressed with Tesla, which missed on profit expectations and also said it would spend more than expected.\nOn Thursday, AMD (AMD) officially launched its Helios rackscale system, with CEO Lisa Su announcing that the AI platform is in full production during the company's Advancing AI event in San Francisco, Calif. The system is a direct competitor to Nvidia's (NVDA) own Grace Blackwell and Vera Rubin-based NVL72 rackscale systems.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Big"
+    ],
+    [
+     "eq",
+     "Tech"
+    ],
+    [
+     "ins",
+     "stocks live: Huang, Nadella, and other CEOs defend open-source AI as US threatens crackdown Tech stocks fell on Friday following a sharp sell-off the day before as markets weighed new tariffs, Intel's (INTC) quarterly results, and a debate over China's open-source models. This week, Nvidia (NVDA) CEO Jensen Huang, Microsoft (MSFT) CEO Satya Nadella, and AMD (AMD) CEO Lisa Su voiced support for the open-source models created by Chinese startups, which allow users to customize the software, unlike the proprietary, or closed, models preferred by US startups OpenAI (OPAI.PVT), Anthropic (ANTH.PVT), and Google (GOOG, GOOGL). In tech"
+    ],
+    [
+     "eq",
+     "earnings"
+    ],
+    [
+     "del",
+     "season kicked off Wednesday with"
+    ],
+    [
+     "ins",
+     "news, Intel stock fell almost 8%, despite announcing better-than-anticipated earnings and an upbeat outlook for the current quarter after the bell on Thursday. The chipmaker is benefiting from the AI boom thanks to its central processing units (CPUs), which are key to running AI agents. Intel's report came after"
+    ],
+    [
+     "eq",
+     "Google (GOOG, GOOGL) and Tesla"
+    ],
+    [
+     "del",
+     "(TSLA),"
+    ],
+    [
+     "ins",
+     "(TSLA) announced their own earnings on Wednesday. But investors weren't as keen on what those companies had to say. Google said it will increase its spending this year"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "investors didn't like what they heard. Tesla tumbled 14%"
+    ],
+    [
+     "ins",
+     "in 2027. They were similarly unimpressed with Tesla, which missed"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "Thursday to 11-month low as"
+    ],
+    [
+     "eq",
+     "profit"
+    ],
+    [
+     "del",
+     "miss, capex spending outlook weigh on stock. Google fell"
+    ],
+    [
+     "ins",
+     "expectations and also said it would spend"
+    ],
+    [
+     "eq",
+     "more than"
+    ],
+    [
+     "del",
+     "6% on capex growth expectations despite its earnings beat. That wasn't the case for Intel, which reported its second quarter earnings after the bell on Thursday. Its results blew past Wall Street's expectations on both the top and bottom lines, and topped third quarter guidance estimates, sending the stock up more than 6% in after-hours trade. Also on"
+    ],
+    [
+     "ins",
+     "expected. On"
+    ],
+    [
+     "eq",
+     "Thursday, AMD (AMD) officially launched its Helios rackscale system, with CEO Lisa"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "production during the company's Advancing AI event in San Francisco, Calif. The"
+    ],
+    [
+     "del",
+     "server cabinet combines 72 AMD Instinct MI455X graphics processing units (GPUs) with the company's Epyc central processing units (CPUs) into"
+    ],
+    [
+     "ins",
+     "system is"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "rack designed"
+    ],
+    [
+     "ins",
+     "direct competitor"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "compete directly with"
+    ],
+    [
+     "eq",
+     "Nvidia's (NVDA)"
+    ],
+    [
+     "ins",
+     "own"
+    ],
+    [
+     "eq",
+     "Grace Blackwell and Vera"
+    ],
+    [
+     "del",
+     "Rubin-powered"
+    ],
+    [
+     "ins",
+     "Rubin-based"
+    ],
+    [
+     "eq",
+     "NVL72 rackscale systems."
+    ],
+    [
+     "del",
+     "Nvidia's offering also has 72 GPUs. AMD stock slipped more than 2% throughout Su's keynote."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.773,
+  "numbers_changed": [
+   "11",
+   "14",
+   "2",
+   "2027",
+   "455",
+   "6",
+   "72",
+   "8"
+  ],
+  "market_figures_changed": [
+   "14%",
+   "2%",
+   "6%",
+   "8%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.6,
+ "similarity": 0.6725,
+ "adjudicated_by": "rules"
+}

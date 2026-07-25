@@ -1,0 +1,96 @@
+{
+ "id": "61f7002037bb92ff-4ec55e17-fa8e2175",
+ "url": "https://www.bbc.co.uk/sport/football/articles/cm2gdnz5x50o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-07-25T08:28:39Z",
+ "date": "2026-07-25",
+ "old_title": "Cristian Volpato: Australia midfielder allegedly tests positive for cocaine after speeding in Sydney",
+ "new_title": "Cristian Volpato: Australia midfielder allegedly tests positive for cocaine after speeding in Sydney",
+ "old_text": "- Published\nSocceroos World Cup star Cristian Volpato has allegedly tested positive for cocaine after police twice stopped him for speeding in Sydney on the same night.\nThe 22-year-old Australia midfielder was stopped in a BMW Coupe on the Anzac Bridge at 11:05pm local time on Thursday night after he was caught travelling between 86-94km/h in a 60km/h zone, police said.\nHe was subjected to a roadside breath test, which returned a negative result.\nHowever, Volpato allegedly returned a positive result for cocaine when he was stopped two hours later for travelling at 109km/h in the same 60km/h zone.\nNew South Wales state police said Volpato was issued an infringement notice for excess speed, while his international driver's licence was suspended for six months - which means he cannot drive in New South Wales.\nThe police also said their inquiries will continue and a secondary sample of oral fluid was taken for further analysis.\nVolpato played in three of Australia's four World Cup matches as they reached the round of 32, where they were knocked out by Egypt in a penalty shootout.\nHaving represented Italy at youth level, he switched allegiances to Australia in May just before the Socceroos announced their squad for the tournament.\nVolpato has played at Serie A side Sassuolo since 2023 and he made 24 league appearances for the club as they finished 11th last season.\nBBC Sport has approached Football Australia and Sassuolo for comment.",
+ "new_text": "- Published\nAustralia World Cup star Cristian Volpato has allegedly tested positive for cocaine after police twice stopped him for speeding in Sydney on the same night.\nThe 22-year-old Socceroos midfielder was stopped in a BMW Coupe on the Anzac Bridge at 11:05pm local time on Thursday night after he was caught travelling between 86-94km/h in a 60km/h zone, police said.\nHe was subjected to a roadside breath test, which returned a negative result.\nHowever, Volpato allegedly returned a positive result for cocaine when he was stopped two hours later for travelling at 109km/h in the same 60km/h zone.\nNew South Wales state police said Volpato was issued an infringement notice for excess speed, while his international driver's licence was suspended for six months - which means he cannot drive in New South Wales.\nThe police also said their inquiries will continue and a secondary sample of oral fluid was taken for further analysis.\nVolpato played in three of Australia's four World Cup matches as they reached the round of 32, where they were knocked out by Egypt in a penalty shootout.\nHaving represented Italy at youth level, he switched allegiances to Australia in May just before the Socceroos announced their squad for the tournament.\nVolpato has played at Serie A side Sassuolo since 2023 and he made 24 league appearances for the club as they finished 11th last season.\n\"We have been in contact with the player and continue to monitor the matter and support the player throughout this process,\" governing body Football Australia said.\nPlayers' union Professional Footballers Australia said it was \"aware of reports concerning Cristian Volpato and will ensure he is supported\".\nBBC Sport has approached Sassuolo for comment.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "Socceroos"
+    ],
+    [
+     "ins",
+     "Australia"
+    ],
+    [
+     "eq",
+     "World Cup star Cristian Volpato has allegedly tested positive for cocaine after"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "stopped him for speeding in Sydney on the same night. The 22-year-old"
+    ],
+    [
+     "del",
+     "Australia"
+    ],
+    [
+     "ins",
+     "Socceroos"
+    ],
+    [
+     "eq",
+     "midfielder was stopped in a BMW Coupe on the Anzac Bridge at"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "24 league appearances for the club as they finished 11th last season."
+    ],
+    [
+     "ins",
+     "\"We have been in contact with the player and continue to monitor the matter and support the player throughout this process,\" governing body Football Australia said. Players' union Professional Footballers Australia said it was \"aware of reports concerning Cristian Volpato and will ensure he is supported\"."
+    ],
+    [
+     "eq",
+     "BBC Sport has approached"
+    ],
+    [
+     "del",
+     "Football Australia and"
+    ],
+    [
+     "eq",
+     "Sassuolo for comment."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2208,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 0.9915,
+ "adjudicated_by": "rules"
+}

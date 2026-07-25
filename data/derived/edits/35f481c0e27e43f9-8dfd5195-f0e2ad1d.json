@@ -1,0 +1,87 @@
+{
+ "id": "35f481c0e27e43f9-8dfd5195-f0e2ad1d",
+ "url": "https://www.abc.net.au/news/2026-07-24/former-naval-officer-faces-court-martial/106956016",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-25T08:19:59Z",
+ "date": "2026-07-25",
+ "old_title": "Defence minister confirms former senior naval officer faces court martial",
+ "new_title": "Defence minister confirms former senior naval officer faces court martial",
+ "old_text": "Defence Minister Richard Marles confirms former senior naval officer faces court martial\nIn short:\nA former senior naval officer will face charges in a military trial set down for up to six weeks from September 14.\nA military court has issued a non-publication order suppressing their name, saying the accused should be referred to only under a pseudonym.\nDefence Minister Richard Marles said the military tribunal was the \"appropriate\" setting for the case and would not comment further.",
+ "new_text": "Defence Minister Richard Marles confirms former senior naval officer faces court martial\nFri 24 Jul 2026 at 5:45pm\nIn short:\nA former senior naval officer will face charges in a military trial set down for up to six weeks from September 14.\nA military court has issued a non-publication order suppressing their name.\nThe defence minister said a military tribunal was the \"appropriate\" setting for the case and would not comment further.\nDefence Minister Richard Marles has confirmed that a former senior naval officer is facing a court martial, although a military court has ordered their identity remain suppressed.\nAustralian daily digital newspaper The Nightly reported earlier this week that the former officer is facing charges connected to \"lucrative military contracts\" awarded in Western Australia.\nIt is not clear exactly when the alleged wrongdoing occurred, but The Nightly reported the matters under investigation took place before the Albanese government won power in 2022.\nThe former officer will face eight charges in a military trial set down for up to six weeks from September 14 in front of Judge Advocate Major General Michael Cowen.\nOne defence source confirmed to the ABC that the former officer held a senior position within the military hierarchy.\nBut the judge advocate has issued a non-publication order suppressing their name, saying the accused should be referred to only under a pseudonym: \"Star Ranked Officer in the Royal Australian Navy, Officer Brown\".\nA \"star ranked officer\" refers to the senior ranks of the navy, which includes vice-admirals, rear-admirals and commodores.\nThe Department of Defence has also declined to provide details about the case because of legal and privacy obligations.\nMilitary tribunal 'appropriate' setting for case, minister says\nMr Marles was asked this morning if it was appropriate for the matter to be handled by a military tribunal rather than a civilian court, which is more open to the public.\n\"The answer ... is that is appropriate,\" he told reporters in Adelaide.\n\"But because this is now in a legal process there's not much I can really add to this, in a public way.\n\"We now let those processes play out.\"\nAnd when he was asked if he was alarmed by the development, Mr Marles repeated that the legal process should be allowed to \"play out\".\n\"A court martial is a legal process. So it's important that play out,\" he said.\n\"And I think that should play out without commentary from me.\"\nThe Greens spokesperson on Defence, David Shoebridge, said there was \"no credible reason to hide the identity of the accused senior naval officer or the details of alleged offences\".\n\"This is a court martial, overseen by very senior officers who are certainly capable of seeing past, and not being deflected by, media reporting of the trial,\" he said.\n\"Secrecy works for the interests of the government and Defence, but not for the public who deserve transparency and accountability.\n\"How are the public meant to have confidence in Defence's massive spending when Defence does not have confidence in public institutions and instead pushes corruption cases into closed military courts?\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Defence Minister Richard Marles confirms former senior naval officer faces court martial"
+    ],
+    [
+     "ins",
+     "Fri 24 Jul 2026 at 5:45pm"
+    ],
+    [
+     "eq",
+     "In short: A former senior naval officer will face charges in a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "September 14. A military court has issued a non-publication order suppressing their"
+    ],
+    [
+     "del",
+     "name, saying the accused should be referred to only under"
+    ],
+    [
+     "ins",
+     "name. The defence minister said"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "pseudonym. Defence Minister Richard Marles said the"
+    ],
+    [
+     "eq",
+     "military tribunal was the \"appropriate\" setting for the case and would not comment further."
+    ],
+    [
+     "ins",
+     "Defence Minister Richard Marles has confirmed that a former senior naval officer is facing a court martial, although a military court has ordered their identity remain suppressed. Australian daily digital newspaper The Nightly reported earlier this week that the former officer is facing charges connected to \"lucrative military contracts\" awarded in Western Australia. It is not clear exactly when the alleged wrongdoing occurred, but The Nightly reported the matters under investigation took place before the Albanese government won power in 2022. The former officer will face eight charges in a military trial set down for up to six weeks from September 14 in front of Judge Advocate Major General Michael Cowen. One defence source confirmed to the ABC that the former officer held a senior position within the military hierarchy. But the judge advocate has issued a non-publication order suppressing their name, saying the accused should be referred to only under a pseudonym: \"Star Ranked Officer in the Royal Australian Navy, Officer Brown\". A \"star ranked officer\" refers to the senior ranks of the navy, which includes vice-admirals, rear-admirals and commodores. The Department of Defence has also declined to provide details about the case because of legal and privacy obligations. Military tribunal 'appropriate' setting for case, minister says Mr Marles was asked this morning if it was appropriate for the matter to be handled by a military tribunal rather than a civilian court, which is more open to the public. \"The answer ... is that is appropriate,\" he told reporters in Adelaide. \"But because this is now in a legal process there's not much I can really add to this, in a public way. \"We now let those processes play out.\" And when he was asked if he was alarmed by the development, Mr Marles repeated that the legal process should be allowed to \"play out\". \"A court martial is a legal process. So it's important that play out,\" he said. \"And I think that should play out without commentary from me.\" The Greens spokesperson on Defence, David Shoebridge, said there was \"no credible reason to hide the identity of the accused senior naval officer or the details of alleged offences\". \"This is a court martial, overseen by very senior officers who are certainly capable of seeing past, and not being deflected by, media reporting of the trial,\" he said. \"Secrecy works for the interests of the government and Defence, but not for the public who deserve transparency and accountability. \"How are the public meant to have confidence in Defence's massive spending when Defence does not have confidence in public institutions and instead pushes corruption cases into closed military courts?\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 6.0,
+  "numbers_changed": [
+   "14",
+   "2022",
+   "2026",
+   "24",
+   "45",
+   "5"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.857,
+ "similarity": 0.9021,
+ "adjudicated_by": "rules"
+}
