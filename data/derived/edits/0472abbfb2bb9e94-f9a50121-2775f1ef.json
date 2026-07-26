@@ -1,0 +1,52 @@
+{
+ "id": "0472abbfb2bb9e94-f9a50121-2775f1ef",
+ "url": "https://www.bbc.co.uk/sport/articles/c151qlnzw05o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-26T08:34:31Z",
+ "date": "2026-07-26",
+ "old_title": "Commonwealth Games 2026: Gabriel Langton injury overshadows gymnastics silver",
+ "new_title": "Commonwealth Games 2026: Gabriel Langton fall overshadows gymnastics silver",
+ "old_text": "- Published\nA sickening injury to England's Gabriel Langton overshadowed his team's silver medal in the men's team gymnastics final at the Commonwealth Games in Glasgow.\nThe 19-year-old, from the City of Birmingham Gymnastics Club, needed lengthy treatment on the mat after a horrible fall in the final rotation of the evening at The Arena.\nLangton fell head first to the floor after missing his catch on the horizontal metal bar, three metres in the air, leading to a lengthy delay to the action as he was tended to by up to a dozen medical staff.\nHe was eventually led away on a trolley after being moved on to a stretcher with his head and neck braced and left to huge applause from the packed crowd who had spent much of the previous 10 minutes in hushed silence.\nLangton was seen to be conscious and moving his legs and arms before leaving the arena floor, while team officials later said he was moving and speaking to doctors.\nIn a statement, Team England said: \"We are grateful to the medical teams who responded immediately to provide assistance.\n\"He has been taken to hospital and we will share more information when it is available.\"\nWhen competition resumed, his England team-mates were unable to overhaul their deficit to Canada who claimed their first gold medal in the event in 20 years, having finished second to England at the past two games.\nLangton, a late call-up to Team England in the place of the injured six-time Olympic medallist Max Whitlock, was unable to join his teammates on the podium as England collected their silver medals.\nTeam-mate Luke Whitehouse, who was first on to the apparatus after the competition restarted and posted a relatively low score of 11.700, said: \"When something like that happens, you've just got to forget about it and reset. I just had to focus on my routine one skill at a time.\"\nWhitehouse added: \"From what we've heard, he's doing OK. Gymnastics is such a dangerous sport and things like this remind us of that. It's one of those things you have to put out of your mind.\"\nFelix Dolci, who helped Canada to gold and led qualifying for the all-around competition, said: \"It's terrible but it goes to show that gymnastics is a very, very difficult and complicated sport. It's dangerous you know sometimes.\n\"All our thoughts go to Gabriel and the team. Pushing through this is definitely not easy, England stayed focussed, they stayed in the zone, a huge shout out to them because that's not an easy one.\n\"For any gymnast that was on the field of play, seeing this not only is difficult, but something you never want to see. It goes to show how hard the sport is.\"\nHamish Carter from Team Scotland - who narrowly missed out on a bronze medal to Australia in the final rotation - said: \"I didn't actually see what happened. I'm just so happy that he's alright and, having experienced that, anything could have happened.\n\"We've walked away with no medal but I'm thinking of Gabe in this moment.\"",
+ "new_text": "- Published\nA sickening fall for England's Gabriel Langton overshadowed his team's silver medal in the men's team gymnastics final at the Commonwealth Games in Glasgow.\nThe 19-year-old, from the City of Birmingham Gymnastics Club, needed lengthy treatment on the mat after a horrible fall in the final rotation of the evening at The Arena.\nLangton fell head first to the floor after missing his catch on the horizontal metal bar, three metres in the air, leading to a lengthy delay to the action as he was tended to by up to a dozen medical staff.\nHe was eventually led away on a trolley after being moved on to a stretcher with his head and neck braced and left to huge applause from the packed crowd who had spent much of the previous 10 minutes in hushed silence.\nLangton was seen to be conscious and moving his legs and arms before leaving the arena floor, while team officials later said he was moving and speaking to doctors.\nIn a statement, Team England said: \"We are grateful to the medical teams who responded immediately to provide assistance.\n\"He has been taken to hospital and we will share more information when it is available.\"\nWhen competition resumed, his England team-mates were unable to overhaul their deficit to Canada who claimed their first gold medal in the event in 20 years, having finished second to England at the past two games.\nLangton, a late call-up to Team England in the place of the injured six-time Olympic medallist Max Whitlock, was unable to join his teammates on the podium as England collected their silver medals.\nTeam-mate Luke Whitehouse, who was first on to the apparatus after the competition restarted and posted a relatively low score of 11.700, said: \"When something like that happens, you've just got to forget about it and reset. I just had to focus on my routine one skill at a time.\"\nWhitehouse added: \"From what we've heard, he's doing OK. Gymnastics is such a dangerous sport and things like this remind us of that. It's one of those things you have to put out of your mind.\"\nFelix Dolci, who helped Canada to gold and led qualifying for the all-around competition, said: \"It's terrible but it goes to show that gymnastics is a very, very difficult and complicated sport. It's dangerous you know sometimes.\n\"All our thoughts go to Gabriel and the team. Pushing through this is definitely not easy, England stayed focussed, they stayed in the zone, a huge shout out to them because that's not an easy one.\n\"For any gymnast that was on the field of play, seeing this not only is difficult, but something you never want to see. It goes to show how hard the sport is.\"\nHamish Carter from Team Scotland - who narrowly missed out on a bronze medal to Australia in the final rotation - said: \"I didn't actually see what happened. I'm just so happy that he's alright and, having experienced that, anything could have happened.\n\"We've walked away with no medal but I'm thinking of Gabe in this moment.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published A sickening"
+    ],
+    [
+     "del",
+     "injury to"
+    ],
+    [
+     "ins",
+     "fall for"
+    ],
+    [
+     "eq",
+     "England's Gabriel Langton overshadowed his team's silver medal in the men's team"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0077,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9921,
+ "adjudicated_by": "rules"
+}

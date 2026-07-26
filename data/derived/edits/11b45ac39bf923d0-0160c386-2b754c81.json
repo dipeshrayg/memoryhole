@@ -1,0 +1,138 @@
+{
+ "id": "11b45ac39bf923d0-0160c386-2b754c81",
+ "url": "https://variety.com/2026/film/news/guillermo-del-toro-no-ai-pans-labyrinth-rerelease-1236815109/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-07-26T08:55:00Z",
+ "date": "2026-07-26",
+ "old_title": "Guillermo del Toro said 'Absolutely No Goddamn AI' in 'Pan's Labyrinth' 3D Re-Release: 'We're Protecting a Lineage of Art'",
+ "new_title": "Guillermo del Toro Says There Is 'Absolutely No Goddamn AI' in 'Pan's Labyrinth' 3D Re-Release: 'We're Protecting a Lineage of Art'",
+ "old_text": "Guillermo del Toro had one rule when bringing \"Pan's Labyrinth\" back to theaters for its 20th anniversary: \"No goddamn AI.\"\nThe filmmaker returned to San Diego Comic-Con to discuss the film's 20th anniversary, which returns to theaters Oct. 9 in 3D and HDR for the first time.\nThe filmmaker said he converted \"Pan's Labyrinth\" into 3D by hand and opted not to use AI.\n\"Obviously I said, 'Absolutely no goddamn AI,'\" he said, which was met with the audience's applause. \"What we're protecting is the beauty and the redeeming power of art. It's not about who gets the job. We are protecting a lineage of art. If we cut a generation of people from learning their craft, you're cutting the rest of the history of that medium away from them for what?\"\nPopular on Variety\nWhen doing the conversion, del Toro said he had two options: to do it quick, or to do it good.\n\"I chose good. You have to put in time. You have to do every element by hand. A human made a decision of depth,\" he said.\nDuring the panel, del Toro teased a documentary that explores the process of creating the original film, which features appearances and commentary from Jacob Elordi, Cate Blanchett and Charlie Day.\nAlso offered in 2D HDR, Cineverse and Fathom 4K will bring the re-release to the big screen, with each version being overseen by del Toro himself. Tickets will be available to purchase on Sept. 9.\n\"Pan's Labyrinth\" follows a young girl named Ofelia (Ivana Baquero), who travels into a fantasy world after fleeing the danger of 1944 Francoist Spain in the aftermath of the Spanish Civil War. While there, she befriends a mysterious faun and navigates the realm of deadly beasts. Starring alongside Baquero are Doug Jones, Maribel Verdú and Sergi López.\n\"Pan's Labyrinth\" earned $83 million worldwide at the box office in 2006 and received six Oscar nominations and three wins for best makeup, cinematography and art direction.\nDel Toro returned to Cannes Film Festival earlier this year to debut a 4K restoration of the film, which was met with several minutes of applause. Two decades ago, the film made Cannes history of the longest standing ovation, totaling 22 minutes.",
+ "new_text": "Guillermo del Toro had one rule when bringing \"Pan's Labyrinth\" back to theaters for its 20th anniversary: \"No goddamn AI.\"\nThe filmmaker returned to San Diego Comic-Con on July 24 to discuss the film's 20th anniversary, which will include a return to theaters Oct. 9, with the screenings in 3D and HDR for the first time.\nThe filmmaker said he converted \"Pan's Labyrinth\" into 3D by hand and opted not to use AI.\n\"Obviously I said, 'Absolutely no goddamn AI,'\" he said, which was met with the audience's applause. \"What we're protecting is the beauty and the redeeming power of art. It's not about who gets the job. We are protecting a lineage of art. If we cut a generation of people from learning their craft, you're cutting the rest of the history of that medium away from them for what?\"\nPopular on Variety\nWhen doing the conversion, del Toro said he had two options: to do it quick or to do it good.\n\"I chose good. You have to put in time. You have to do every element by hand. A human made a decision of depth,\" he said.\nDuring the panel, del Toro teased a documentary that explores the process of creating the original film, which features appearances and commentary from Jacob Elordi, Cate Blanchett and Charlie Day.\nAlso offered in 2D HDR, Cineverse and Fathom 4K will bring the re-release to the big screen, with each version being overseen by del Toro himself. Tickets will be available to purchase on Sept. 9.\n\"Pan's Labyrinth\" follows a young girl named Ofelia (Ivana Baquero), who travels into a fantasy world after fleeing the danger of 1944 Francoist Spain in the aftermath of the Spanish Civil War. While there, she befriends a mysterious faun and navigates the realm of deadly beasts. Starring alongside Baquero are Doug Jones, Maribel Verdú and Sergi López.\n\"Pan's Labyrinth\" earned $83 million worldwide at the box office in 2006 and received six Oscar nominations and three wins for best makeup, cinematography and art direction.\nDel Toro returned to the Cannes Film Festival earlier this year to debut a 4K restoration of the film, which was met with several minutes of applause. Two decades ago, the film made Cannes history with the longest ever standing ovation, totaling 22 minutes.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "20th anniversary: \"No goddamn AI.\" The filmmaker returned to San Diego Comic-Con"
+    ],
+    [
+     "ins",
+     "on July 24"
+    ],
+    [
+     "eq",
+     "to discuss the film's 20th anniversary, which"
+    ],
+    [
+     "del",
+     "returns"
+    ],
+    [
+     "ins",
+     "will include a return"
+    ],
+    [
+     "eq",
+     "to theaters Oct."
+    ],
+    [
+     "del",
+     "9"
+    ],
+    [
+     "ins",
+     "9, with the screenings"
+    ],
+    [
+     "eq",
+     "in 3D and HDR for the first time. The filmmaker said he"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the conversion, del Toro said he had two options: to do it"
+    ],
+    [
+     "del",
+     "quick,"
+    ],
+    [
+     "ins",
+     "quick"
+    ],
+    [
+     "eq",
+     "or to do it good. \"I chose good. You have to put"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "wins for best makeup, cinematography and art direction. Del Toro returned to"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "Cannes Film Festival earlier this year to debut a 4K restoration of"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "several minutes of applause. Two decades ago, the film made Cannes history"
+    ],
+    [
+     "del",
+     "of"
+    ],
+    [
+     "ins",
+     "with"
+    ],
+    [
+     "eq",
+     "the longest"
+    ],
+    [
+     "ins",
+     "ever"
+    ],
+    [
+     "eq",
+     "standing ovation, totaling 22 minutes."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0511,
+  "numbers_changed": [
+   "24"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9852,
+ "adjudicated_by": "rules"
+}

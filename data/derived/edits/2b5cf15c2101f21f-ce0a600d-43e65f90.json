@@ -1,0 +1,52 @@
+{
+ "id": "2b5cf15c2101f21f-ce0a600d-43e65f90",
+ "url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-07-26T08:48:58Z",
+ "date": "2026-07-26",
+ "old_title": "President Donald Trump says NBA star LeBron James 'maybe a racist'",
+ "new_title": "President Donald Trump says NBA star LeBron James 'maybe a racist'",
+ "old_text": "- Published\nUnited States President Donald Trump said LeBron James might be \"a racist\" when asked if the basketball star is the \"best ever\" to play the sport.\nJames, 41, announced on Friday he is set to continue his glittering career with the Philadelphia 76ers.\nWhen asked about the move in a White House news conference later, Trump explained why he believed Michael Jordan was the better player.\nJordan, 63, won six NBA titles with the Chicago Bulls in the 1990s and NBA Most Valuable Player (MVP) five times.\nWhen asked whether Jordan or James was the \"best ever\", Trump said: \"Michael Jordan is a guy that's a friend of mine. I play golf with him. He's a really good guy.\n\"I think LeBron is, maybe he's a racist, but maybe he doesn't like Trump. I don't know. I only like people that like me, so I would say Michael Jordan all the way.\"\nJames, who has not responded to Trump's comment, has been a regular critic of Trump during his terms as president and endorsed Democrat candidates Hillary Clinton, Joe Biden and Kamala Harris when they ran against him.\nIn 2017 he referred to Trump as \"a bum\" following a row over invitations to the White House for NBA-winning teams.\nJames has won four NBA titles with the Miami Heat (twice), the Cleveland Cavaliers and the Los Angeles Lakers.\nHe has been named the league's MVP four times and is the NBA's all-time leader in points and games played.\nJames will be looking to secure a fifth title with the 76ers following his announcement on Friday that he is heading to Philadelphia.\nThey now boast the talents of James and All-Stars Joel Embiid, Tyrese Maxey and Jaylen Brown.\n\"I believe I can help make the Philadelphia 76ers a championship team,\" James said in a lengthy post on social media.",
+ "new_text": "- Published\nUnited States President Donald Trump said LeBron James might be \"a racist\" when asked if the basketball star is the \"best ever\" to play the sport.\nJames, 41, announced on Friday he is set to continue his glittering career with the Philadelphia 76ers.\nWhen asked about the move in a White House news conference later, Trump explained why he believed Michael Jordan was the better player.\nJordan, 63, won six NBA titles with the Chicago Bulls in the 1990s and NBA Most Valuable Player (MVP) five times.\nWhen asked whether Jordan or James was the \"best ever\", Trump said: \"Michael Jordan is a guy that's a friend of mine. I play golf with him. He's a really good guy.\n\"I think LeBron is, maybe he's a racist, but maybe he doesn't like Trump. I don't know. I only like people that like me, so I would say Michael Jordan all the way.\"\nJames, who has not responded to Trump's comment, has been a regular critic of Trump during his terms as president and endorsed Democratic candidates Hillary Clinton, Joe Biden and Kamala Harris when they ran against him.\nIn 2017 he referred to Trump as \"a bum\" following a row over invitations to the White House for NBA-winning teams.\nJames has won four NBA titles with the Miami Heat (twice), the Cleveland Cavaliers and the Los Angeles Lakers.\nHe has been named the league's MVP four times and is the NBA's all-time leader in points and games played.\nJames will be looking to secure a fifth title with the 76ers following his announcement on Friday that he is heading to Philadelphia.\nThey now boast the talents of James and All-Stars Joel Embiid, Tyrese Maxey and Jaylen Brown.\n\"I believe I can help make the Philadelphia 76ers a championship team,\" James said in a lengthy post on social media.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "a regular critic of Trump during his terms as president and endorsed"
+    ],
+    [
+     "del",
+     "Democrat"
+    ],
+    [
+     "ins",
+     "Democratic"
+    ],
+    [
+     "eq",
+     "candidates Hillary Clinton, Joe Biden and Kamala Harris when they ran against"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0065,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9999,
+ "adjudicated_by": "rules"
+}
