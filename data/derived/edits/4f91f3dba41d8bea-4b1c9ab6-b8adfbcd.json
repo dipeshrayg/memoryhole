@@ -1,0 +1,282 @@
+{
+ "id": "4f91f3dba41d8bea-4b1c9ab6-b8adfbcd",
+ "url": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-27T10:01:51Z",
+ "date": "2026-07-27",
+ "old_title": "France and Spain fires force more than 200,000 to flee homes",
+ "new_title": "France and Spain fires force more than 300,000 to flee homes",
+ "old_text": "France and Spain fires force more than 200,000 to flee homes\nDevastating wildfires in Spain and France have forced more than 200,000 people to evacuate.\nAcross France, more than 167,000 people had been evacuated, French Prime Minister Sébastien Lecornu said on Saturday night, as some 30 fires burned simultaneously.\nThe most devastating fires are in the Southwest, in the Gironde and Landes regions, French President Emmanuel Macron said on social media Saturday.\nThe Gironde fire, near the popular tourist destination of Bordeaux, was not contained as of Saturday night.\nMore than 242,000 acres have been burned in France this year - a historic record - the country's interior minister Laurent Nuñez said Saturday, according to Politico Europe.\nPrime Minister Lecornu warned that the coming hours could be difficult.\n\"The situation remains particularly critical in the Gironde department. The abrupt change in weather conditions yesterday has profoundly altered the fire's dynamics,\" Lecornu wrote in a social media post. \"After a slight improvement overnight and this morning, the forecast is once again unfavorable.\"\nThe fires have also affected the Tour de France, the country's annual cycling race, which ends Sunday. The route for the race's final stage was shortened because security and police for the event were reassigned to assist with the fires, organizers said.\nIn Spain, at least one person from Manises, a town in Valencia, has died from the fires, local officials said.\nIn Avila and near Madrid, about 60,000 people were evacuated, Spain's Interior Ministry reported Saturday. Interior Minister Fernando Grande-Marlaska on Friday declared a national state of emergency because of the wildfires. More than 29,000 people have been evacuated from the Madrid area while more than 20,000 are confined. In the Ávila province, more than 30,000 people have been evacuated and at least 8,000 are confined.\nSpanish Prime Minister Pedro Sánchez said in a video posted to social media on Saturday that the government is working to provide shelter for those who evacuated or were confined because of the fires.",
+ "new_text": "France and Spain fires force more than 300,000 to flee homes\nDevastating wildfires in Spain and France have forced more than 300,000 people to evacuate their homes.\nIn France, around 50,000 people were evacuated overnight into Sunday, bringing the total to over 250,000, according to the country's interior minister, Laurent Nuñez.\nThe most devastating fires are in the Southwest, in the Gironde and Landes regions, French President Emmanuel Macron said on social media Saturday.\nThe Gironde fire, near the popular tourist destination of Bordeaux, was not contained as of Sunday morning, Nuñez said, adding that 2,500 firefighters are battling the fire, while similar numbers of military and police assist with evacuations.\nMore than 242,000 acres have been burned in France this year - a historic record - Nuñez said Saturday, according to Politico Europe.\nThe fires have also affected the Tour de France, the country's annual cycling race, which ends Sunday. The route for the race's final stage was shortened because security and police for the event were reassigned to assist with the fires, organizers said.\nIn Spain, at least one person from Manises, a town in Valencia, has died from the fires, local officials said.\nIn a separate fire near the capital, Madrid, about 60,000 people have been evacuated, Spain's Interior Ministry reported on Sunday. Interior Minister Fernando Grande-Marlaska has declared a national state of emergency because of the wildfires. More than 29,000 people have been evacuated from the Madrid area, while more than 20,000 are confined. In the Ávila province northwest of Madrid, more than 25,000 people have been evacuated and more than 8,000 are confined.\nSpanish Prime Minister Pedro Sánchez said in a video posted to social media on Saturday that the government is working to provide shelter for those affected by the fires.\nFires have burned over 300,000 acres already this year in Spain, up from an annual average of 250,000 acres over the past decade, Sánchez said.\nNPR's Robbie Griffiths contributed to this report.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "France and Spain fires force more than"
+    ],
+    [
+     "del",
+     "200,000"
+    ],
+    [
+     "ins",
+     "300,000"
+    ],
+    [
+     "eq",
+     "to flee homes Devastating wildfires in Spain and France have forced more than"
+    ],
+    [
+     "del",
+     "200,000"
+    ],
+    [
+     "ins",
+     "300,000"
+    ],
+    [
+     "eq",
+     "people to"
+    ],
+    [
+     "del",
+     "evacuate. Across"
+    ],
+    [
+     "ins",
+     "evacuate their homes. In"
+    ],
+    [
+     "eq",
+     "France,"
+    ],
+    [
+     "del",
+     "more than 167,000"
+    ],
+    [
+     "ins",
+     "around 50,000"
+    ],
+    [
+     "eq",
+     "people"
+    ],
+    [
+     "del",
+     "had been evacuated, French Prime Minister Sébastien Lecornu said on Saturday night, as some 30 fires burned simultaneously."
+    ],
+    [
+     "ins",
+     "were evacuated overnight into Sunday, bringing the total to over 250,000, according to the country's interior minister, Laurent Nuñez."
+    ],
+    [
+     "eq",
+     "The most devastating fires are in the Southwest, in the Gironde and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "near the popular tourist destination of Bordeaux, was not contained as of"
+    ],
+    [
+     "del",
+     "Saturday night."
+    ],
+    [
+     "ins",
+     "Sunday morning, Nuñez said, adding that 2,500 firefighters are battling the fire, while similar numbers of military and police assist with evacuations."
+    ],
+    [
+     "eq",
+     "More than 242,000 acres have been burned in France this year - a historic record -"
+    ],
+    [
+     "del",
+     "the country's interior minister Laurent"
+    ],
+    [
+     "eq",
+     "Nuñez said Saturday, according to Politico Europe."
+    ],
+    [
+     "del",
+     "Prime Minister Lecornu warned that the coming hours could be difficult. \"The situation remains particularly critical in the Gironde department. The abrupt change in weather conditions yesterday has profoundly altered the fire's dynamics,\" Lecornu wrote in a social media post. \"After a slight improvement overnight and this morning, the forecast is once again unfavorable.\""
+    ],
+    [
+     "eq",
+     "The fires have also affected the Tour de France, the country's annual"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "town in Valencia, has died from the fires, local officials said. In"
+    ],
+    [
+     "del",
+     "Avila and"
+    ],
+    [
+     "ins",
+     "a separate fire"
+    ],
+    [
+     "eq",
+     "near"
+    ],
+    [
+     "ins",
+     "the capital,"
+    ],
+    [
+     "eq",
+     "Madrid, about 60,000 people"
+    ],
+    [
+     "del",
+     "were"
+    ],
+    [
+     "ins",
+     "have been"
+    ],
+    [
+     "eq",
+     "evacuated, Spain's Interior Ministry reported"
+    ],
+    [
+     "del",
+     "Saturday."
+    ],
+    [
+     "ins",
+     "on Sunday."
+    ],
+    [
+     "eq",
+     "Interior Minister Fernando Grande-Marlaska"
+    ],
+    [
+     "del",
+     "on Friday"
+    ],
+    [
+     "ins",
+     "has"
+    ],
+    [
+     "eq",
+     "declared a national state of emergency because of the wildfires. More than 29,000 people have been evacuated from the Madrid"
+    ],
+    [
+     "del",
+     "area"
+    ],
+    [
+     "ins",
+     "area,"
+    ],
+    [
+     "eq",
+     "while more than 20,000 are confined. In the Ávila"
+    ],
+    [
+     "del",
+     "province,"
+    ],
+    [
+     "ins",
+     "province northwest of Madrid,"
+    ],
+    [
+     "eq",
+     "more than"
+    ],
+    [
+     "del",
+     "30,000"
+    ],
+    [
+     "ins",
+     "25,000"
+    ],
+    [
+     "eq",
+     "people have been evacuated and"
+    ],
+    [
+     "del",
+     "at least"
+    ],
+    [
+     "ins",
+     "more than"
+    ],
+    [
+     "eq",
+     "8,000 are confined. Spanish Prime Minister Pedro Sánchez said in a video"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "on Saturday that the government is working to provide shelter for those"
+    ],
+    [
+     "del",
+     "who evacuated or were confined because of"
+    ],
+    [
+     "ins",
+     "affected by"
+    ],
+    [
+     "eq",
+     "the fires."
+    ],
+    [
+     "ins",
+     "Fires have burned over 300,000 acres already this year in Spain, up from an annual average of 250,000 acres over the past decade, Sánchez said. NPR's Robbie Griffiths contributed to this report."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.6175,
+  "numbers_changed": [
+   "167,000",
+   "2,500",
+   "200,000",
+   "25,000",
+   "250,000",
+   "30",
+   "30,000",
+   "300,000",
+   "50,000"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 2,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.849,
+ "similarity": 0.9285,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,101 @@
+{
+ "id": "1a57f65efaf957e5-bff6e833-4824ce52",
+ "url": "https://www.dw.com/en/vietnamese-vessel-sinks-in-south-china-sea-23-missing/a-78118211?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-27T10:04:07Z",
+ "date": "2026-07-27",
+ "old_title": "Vietnamese vessel sinks in South China Sea, 23 missing",
+ "new_title": "Vietnamese vessel sinks in South China Sea, 17 missing",
+ "old_text": "Rescuers were searching on Sunday for 23 people, missing after a Vietnamese ship sank in the South China Sea, China's state media reported.\nAuthorities in the Chinese island province of Hainan said the cargo vessel Khoi Nguyen 18 ran into trouble near Yongshu Reef, also known as Fiery Cross Reef, state broadcaster CCTV said.\nThe ship was carrying 62 crew members, and 39 people were rescued from the water.\nWhat we know about the sinking incident\nA Chinese rescue ship, the Nanhai Jiu 115, first spotted what was believed to be a distress flare from the vessel shortly before 6:30 pm on Saturday (1030 GMT).\nThe Khoi Nguyen 18 is a Vietnamese-registered ship measuring just under 70 meters (230 feet) in length, according to state news agency Xinhua.\nIt added that six Chinese vessels, a rescue helicopter and a Vietnamese vessel were involved in the search-and-rescue operations.\nTerritorial disputes in South China Sea\nBeijing claims sovereignty over almost the entire South China Sea, despite the 2016 international ruling, initiated by the Philippines against China, that its assertion has no legal basis.\nOne of the most highly contested areas is the Spratly Islands, which China calls the Nansha Islands, where China has built runways and militarized artificial islands.\nBut Beijing's sweeping claims to the busy waterway overlap with those of other countries, including Vietnam, the Philippines, Brunei, Malaysia and Taiwan.\nEdited by: Kieran Burke\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "Rescuers were searching on Sunday for 17 people missing after a Vietnamese ship sank in the South China Sea, China's state media reported.\nAuthorities in the Chinese island province of Hainan said the cargo vessel Khoi Nguyen 18 ran into trouble near Yongshu Reef, also known as Fiery Cross Reef, state broadcaster CCTV said.\nThe ship was carrying 62 crew members, and 45 people were rescued from the water.\nVietnamese authorities arrived at the scene immediately after the cargo ship \"sank while operating in bad weather conditions in the East Sea,\" Foreign Ministry Spokesperson Pham Thu Hang said in a statement to AFP news agency.\nWhat we know about the sinking incident\nA Chinese rescue ship, the Nanhai Jiu 115, first spotted what was believed to be a distress flare from the vessel shortly before 6:30 pm on Saturday (1030 GMT).\nThe Khoi Nguyen 18 is a Vietnamese-registered ship measuring just under 70 meters (230 feet) in length, according to state news agency Xinhua.\nIt added that six Chinese vessels, a rescue helicopter and a Vietnamese vessel were involved in the search-and-rescue operations.\nHang said that authorities and fishing vessels were \"actively searching for the remaining people.\"\nTerritorial disputes in South China Sea\nBeijing claims sovereignty over almost the entire South China Sea, despite the 2016 international ruling, initiated by the Philippines against China, that its assertion has no legal basis.\nOne of the most highly contested areas is the Spratly Islands, which China calls the Nansha Islands, where China has built runways and militarized artificial islands.\nBut Beijing's sweeping claims to the busy waterway overlap with those of other countries, including Vietnam, the Philippines, Brunei, Malaysia and Taiwan.\nEdited by: Kieran Burke\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Rescuers were searching on Sunday for"
+    ],
+    [
+     "del",
+     "23 people,"
+    ],
+    [
+     "ins",
+     "17 people"
+    ],
+    [
+     "eq",
+     "missing after a Vietnamese ship sank in the South China Sea, China's"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "state broadcaster CCTV said. The ship was carrying 62 crew members, and"
+    ],
+    [
+     "del",
+     "39"
+    ],
+    [
+     "ins",
+     "45"
+    ],
+    [
+     "eq",
+     "people were rescued from the water."
+    ],
+    [
+     "ins",
+     "Vietnamese authorities arrived at the scene immediately after the cargo ship \"sank while operating in bad weather conditions in the East Sea,\" Foreign Ministry Spokesperson Pham Thu Hang said in a statement to AFP news agency."
+    ],
+    [
+     "eq",
+     "What we know about the sinking incident A Chinese rescue ship, the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "rescue helicopter and a Vietnamese vessel were involved in the search-and-rescue operations."
+    ],
+    [
+     "ins",
+     "Hang said that authorities and fishing vessels were \"actively searching for the remaining people.\""
+    ],
+    [
+     "eq",
+     "Territorial disputes in South China Sea Beijing claims sovereignty over almost the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2,
+  "numbers_changed": [
+   "17",
+   "23",
+   "39",
+   "45"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.533,
+ "similarity": 0.9062,
+ "adjudicated_by": "rules"
+}

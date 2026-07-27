@@ -1,0 +1,38 @@
+CRISPR makes prostate cancer vulnerable to immunotherapy
+- Date:
+- July 26, 2026
+- Source:
+- University of Rochester Medicine
+- Summary:
+- Scientists used CRISPR to make prostate cancer cells easier for the immune system to detect and destroy. The experimental treatment dramatically improved the effects of immunotherapy in mice and may offer hope for other hard-to-treat tumors.
+- Share:
+Prostate cancer is notoriously difficult to treat with immunotherapy, a type of cancer treatment that helps the immune system identify and destroy tumors. Now, researchers have developed an experimental RNA targeting technology that may make prostate tumors far more vulnerable to an immune attack.
+Most prostate tumors are considered "immune cold" because they attract very few T cells (a type of immune cell). Without enough T cells entering the tumor, immunotherapy has little chance of working. In laboratory studies, scientists used a CRISPR-based tool to change RNA inside prostate cancer cells, effectively making the tumors more visible and attractive to cancer-fighting immune cells.
+The findings, published in Nature Biomedical Engineering, showed that the technology improved the response of prostate tumors to immune checkpoint therapy in mice. More immune cells entered the tumors, where they attacked and destroyed cancer cells.
+"Immune therapy is a monumentally different way to treat cancer, and a great way because you don't have to give patients terrible drugs that kill the cancer but harm healthy cells in the process," said Eric J. Wagner, PhD, co-author of the study from the University of Rochester Medicine. "The problem is that some cancers respond well to immune therapy, but others develop resistance or don't respond at all. Our tool strengthens the immune system's ability to make the cancer go away and could be used in conjunction with existing immunotherapies in prostate and potentially other immune-cold tumor types."
+Why Prostate Cancer Resists Immunotherapy
+The work grew out of a discovery Wagner's team made 12 years ago. While studying glioblastoma (brain cancer), the researchers found that many mRNAs (messenger RNAs) in tumor cells were shorter than normal. Later studies by Wagner's group and other scientists showed that this shortening occurs across many types of cancer and may help tumors adapt, survive, and escape treatment.
+mRNA carries genetic instructions from DNA to the cell's protein-making machinery, which turns the information into proteins the body needs to function. Shortened mRNAs tend to be more stable. Like animals that make themselves smaller for protection (think hedgehogs and pangolins), compact mRNAs have less exposed surface area and are less likely to be "eaten" by enzymes inside the cell.
+Short mRNAs are also harder for cells to regulate. Because they remain active for longer periods, they can continue producing large amounts of protein and may spread their effects without normal cellular controls.
+The Immune Signal Cancer Cells Destroy
+One reason a tumor can become immune cold is the loss of the MHC-1 complex. This complex acts like a molecular signal that helps T cells recognize tumor cells. Without it, malignant cells become much harder for the immune system to identify and kill.
+The researchers uncovered a chain of events that helps explain how prostate cancer shuts down this signal:
+- There is a specific protein (SPSB1) that destroys the MHC-1 complex.
+- In prostate cancer, the mRNA that carries the instructions to create this protein is shortened. Consequently, it produces more protein.
+- More SPSB1 protein means less of the MHC-1 complex.
+- Less of the MHC-1 complex makes immune therapy futile, because there's no magnet to attract T cells to the tumor.
+CRISPR Restores the Tumor's Immune Magnet
+The collaborative research team, led by scientists from Duke University School of Medicine, created a first-of-its-kind therapy designed to restore the normal length of the mRNA that produces SPSB1. Using an RNA-based CRISPR Cas13 system, the researchers forced the shortened SPSB1 mRNA to re-lengthen.
+CRISPR tools often work by cutting DNA or RNA. In this case, however, the system was engineered to attach to a specific section of the mRNA rather than cut it. By binding to that location, the tool prevented cancer cells from reaching and shortening the end, or tail, of the molecule.
+Keeping the mRNA at its normal, longer length reduced the amount of SPSB1 protein produced by the cancer cells. This allowed the MHC-1 complex to return.
+Once the MHC-1 complex was restored, immune checkpoint therapy became much more effective against the prostate tumors. The researchers also performed a detailed analysis of the results and found no detectable off-target effects from the experimental CRISPR treatment.
+"No one has ever done this before. It's an excellent preclinical model showing that mRNAs can be forced to re-lengthen and when they do, there's therapeutic benefit," said Wagner, professor of Biochemistry and Biophysics and co-director of the Center for RNA Biology. "Cancer is super smart at evolving, but it's not a magician. If we can hit it with immunotherapy and another synergistic drug that pumps up the immune response, we could potentially cure it. It won't be able to evolve fast enough."
+Testing the Technology in Other Cold Tumors
+Wagner, who is also a member of Wilmot Cancer Institute's Genetics, Epigenetics and Metabolism research program, now plans to investigate whether the approach can work in other immune cold cancers.
+His team recently received pilot funding from Wilmot and Roswell Park Comprehensive Cancer Center to test the technology in pancreatic cancer, another tumor type that often responds poorly to immunotherapy.
+The research was funded by the National Cancer Institute at the National Institutes of Health.
+Story Source:
+Materials provided by University of Rochester Medicine. Note: Content may be edited for style and length.
+Journal Reference:
+- Furong Huang, Fuwen Yuan, Kexin Li, Ya Cui, Lei Li, Wenbin Ye, Zhifen Cui, Jingyue Yan, Qiang Chen, Christopher Nicchitta, Yuebao Zhang, William Hankey, Jeffrey Everitt, Kai-Lieh Huang, Mu-En Wang, Ming Chen, Jiaoti Huang, Hongyan Wang, Eric J. Wagner, Xin Lu, Yizhou Dong, Wei Li, Qianben Wang. Programmable mRNA 3â2UTR engineering restores MHC-I and overcomes immune evasion in prostate cancer. Nature Biomedical Engineering, 2026; DOI: 10.1038/s41551-026-01720-9
+Cite This Page:

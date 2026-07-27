@@ -1,0 +1,52 @@
+{
+ "id": "efb9085ea19bb21f-b5988f4b-6a4e435c",
+ "url": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-07-27T10:18:30Z",
+ "date": "2026-07-27",
+ "old_title": "White House report says Trump can usher in a \"new golden age\" of science",
+ "new_title": "White House report says Trump can usher in a \"new golden age\" of science",
+ "old_text": "On Tuesday, the White House Office of Science and Technology Policy (OSTP) released a report entitled \"Science: A New Golden Age,\" in which it lays out how it has viewed science, found it lacking, and believes the Trump administration is in the perfect position to fix things. It's a bit unexpected coming from an administration that has been proposing crippling funding cuts to research and trying to enable political appointees to terminate grants awarded based on scientific merit.\nThe report presents itself as the spiritual successor of \"Science, the Endless Frontier,\" a policy document that laid out the case for government-funded science in the wake of World War II. The New Golden Age (SNGA) says that, while the concepts promoted by the original remain vital, the circumstances have changed such that we need major revisions to how the government is implementing things.\nThe result is an odd mix. It completely ignores or glosses over many things that the administration is doing to harm scientific progress. In some cases, it identifies issues that have already been discussed as problems within the scientific community. Elsewhere, it's a mixture of political grievances, ideas without a solid intellectual foundation, and an injection of Silicon Valley's perspective on innovation (Michael Kratsios, the director of the OSTP, formerly worked with Peter Thiel). As a result, it's unlikely to have anything like the impact of \"Science, the Endless Frontier.\"\nLacking internal coherence\nThe report is trying to make the case that US government-funded science has some structural problems, serious enough that they require major changes to the entire enterprise. (It also makes a positive argument, namely that developments in AI necessitate a new approach, which we'll come back to.) Some of those concerns are real and had been discussed within the research community previously.\nOne of the real problems it discusses is the amount of time researchers need to spend on writing grants and performing administrative tasks, taking away from their time doing research. SNGA promises to relieve this by simplifying regulations and streamlining the grant application process. But it's also remarkably vague, in that its authors do not identify a single regulation that is in need of reform.",
+ "new_text": "On Tuesday, the White House Office of Science and Technology Policy (OSTP) released a report entitled \"Science: A New Golden Age,\" in which it lays out how it has viewed science, found it lacking, and believes the Trump administration is in the perfect position to fix things. It's a bit unexpected coming from an administration that has been proposing crippling funding cuts to research and trying to enable political appointees to terminate grants awarded based on scientific merit.\nThe report presents itself as the spiritual successor of \"Science, the Endless Frontier,\" a policy document that laid out the case for government-funded science in the wake of World War II. The New Golden Age (SNGA) says that, while the concepts promoted by the original remain vital, the circumstances have changed such that we need major revisions to how the government is implementing things.\nThe result is an odd mix. It completely ignores or glosses over many things that the administration is doing to harm scientific progress. In some cases, it identifies issues that have already been discussed as problems within the scientific community, but misrepresents them. Elsewhere, it's a mixture of political grievances, ideas without a solid intellectual foundation, and an injection of Silicon Valley's perspective on innovation (Michael Kratsios, the director of the OSTP, formerly worked with Peter Thiel). As a result, it's unlikely to have anything like the impact of \"Science, the Endless Frontier.\"\nLacking internal coherence\nThe report is trying to make the case that US government-funded science has some structural problems, serious enough that they require major changes to the entire enterprise. (It also makes a positive argument, namely that developments in AI necessitate a new approach, which we'll come back to.) Some of those concerns are real and had been discussed within the research community previously.\nOne of the real problems it discusses is the amount of time researchers need to spend on writing grants and performing administrative tasks, taking away from their time doing research. SNGA promises to relieve this by simplifying regulations and streamlining the grant application process. But it's also remarkably vague, in that its authors do not identify a single regulation that is in need of reform.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "identifies issues that have already been discussed as problems within the scientific"
+    ],
+    [
+     "del",
+     "community."
+    ],
+    [
+     "ins",
+     "community, but misrepresents them."
+    ],
+    [
+     "eq",
+     "Elsewhere, it's a mixture of political grievances, ideas without a solid intellectual"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0138,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9922,
+ "adjudicated_by": "rules"
+}

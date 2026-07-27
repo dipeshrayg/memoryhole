@@ -1,0 +1,108 @@
+{
+ "id": "bb0a1b34954d2249-8f476738-c0c5c53a",
+ "url": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-27T10:00:44Z",
+ "date": "2026-07-27",
+ "old_title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
+ "new_title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
+ "old_text": "- Published\nAndy Burnham says he would be prepared to call out Donald Trump to defend Britain's \"national interest before anything else\" if it is the right thing to do, in his first major interview as prime minister.\nSpeaking exclusively to the BBC, Burnham said he had had a good first exchange with Trump, finding him to be \"really warm\".\nBut asked twice if he would trust the US president, he did not say, answering, \"it's a changing world isn't it, and you just obviously have to call things as they develop\".\nIn the interview, to be broadcast in full on Monday, he said: \"I can't at any point say that I won't take a different opinion from him [Trump], that I will need to voice a different idea that is right for Britain.\"\nBurnham said: \"My strength is remaining close to people, close to the public, that will not change as prime minister.\"\nAsked if he would call out Trump if it was the right thing, he said, \"of course\", going on to say: \"You have to defend your own national interest before anything else. That's what you're required to do if you're to do this job properly.\"\nBurnham also said he had had \"concern\" about the president starting the conflict with Iran, and he \"wouldn't hold back from saying what I think is right\".\nThe prime minister would not commit to a date when the government would spend 3% of GDP on defence. His Chancellor John Healey resigned from the previous government saying that unless a commitment was made to spend that amount by 2030, the country would not be safe.\nBut Burnham said: \"I appointed my new chancellor very aware of what he had said about the critical importance of defence spending and the position that he had taken about that.\n\"The first challenge facing us both is to ensure that the defence investment plan is fully funded and that's the thing that's right in front of us and we need to work that through as we go towards the budget later this year.\"\nAsked again specifically about the commitment to increase defence spending to 3% of GDP, he said: \"We've got to work out the way of doing that.\"\nBurnham, for the first time, explicitly dismissed the idea of an early general election before 2029, saying: \"I'm going to rule it out... I don't think people want it.\" He said his focus instead was on \"getting the country back where it should be\".\nWatch the full interview on BBC iPlayer on Monday from 06:00 and on Panorama on BBC One on Monday at 20:00 BST.",
+ "new_text": "- Published\nAndy Burnham says he would be prepared to call out Donald Trump to defend Britain's \"national interest before anything else\" if it is the right thing to do, in his first major interview as prime minister.\nSpeaking exclusively to the BBC, Burnham said he had had a good first exchange with Trump, finding him to be \"really warm\".\nBut asked twice if he would trust the US president, he did not say, answering, \"it's a changing world isn't it, and you just obviously have to call things as they develop\".\nIn the interview, to be broadcast in full on Monday, he said: \"I can't at any point say that I won't take a different opinion from him [Trump], that I will need to voice a different idea that is right for Britain.\"\nBurnham said: \"My strength is remaining close to people, close to the public, that will not change as prime minister.\"\nAsked if he would call out Trump if it was the right thing, he said, \"of course\", going on to say: \"You have to defend your own national interest before anything else. That's what you're required to do if you're to do this job properly.\"\nBurnham also said he had had \"concern\" about the president starting the conflict with Iran, and he \"wouldn't hold back from saying what I think is right\".\nResponding to Burnham's comments, Shadow Home Secretary Chris Philp said: \"Clearly, the US is a long standing ally. We need to have good relations with them but if they do something we disagree with, we should honestly say so.\"\nThe prime minister would not commit to a date when the government would spend 3% of GDP on defence. His Chancellor John Healey resigned from the previous government saying that unless a commitment was made to spend that amount by 2030, the country would not be safe.\nBut Burnham said: \"I appointed my new chancellor very aware of what he had said about the critical importance of defence spending and the position that he had taken about that.\n\"The first challenge facing us both is to ensure that the defence investment plan is fully funded and that's the thing that's right in front of us and we need to work that through as we go towards the budget later this year.\"\nAsked again specifically about the commitment to increase defence spending to 3% of GDP, he said: \"We've got to work out the way of doing that.\"\nBurnham, for the first time, explicitly dismissed the idea of an early general election before 2029, saying: \"I'm going to rule it out... I don't think people want it.\" He said his focus instead was on \"getting the country back where it should be\".\nPhilp said the Conservatives were ready to fight an election whenever it happens.\n\"It pretty clear to me we are back in business and that the polls suggest that we are pretty much neck and neck with other parties\" he said.\nWatch the full interview, BBC Panorama 'Andy Burnham: the Laura Kuenssberg Interview' on iPlayer from 06:00 on Monday and BBC One on Monday at 20:00 BST.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "and he \"wouldn't hold back from saying what I think is right\"."
+    ],
+    [
+     "ins",
+     "Responding to Burnham's comments, Shadow Home Secretary Chris Philp said: \"Clearly, the US is a long standing ally. We need to have good relations with them but if they do something we disagree with, we should honestly say so.\""
+    ],
+    [
+     "eq",
+     "The prime minister would not commit to a date when the government"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "focus instead was on \"getting the country back where it should be\"."
+    ],
+    [
+     "ins",
+     "Philp said the Conservatives were ready to fight an election whenever it happens. \"It pretty clear to me we are back in business and that the polls suggest that we are pretty much neck and neck with other parties\" he said."
+    ],
+    [
+     "eq",
+     "Watch the full"
+    ],
+    [
+     "del",
+     "interview"
+    ],
+    [
+     "ins",
+     "interview, BBC Panorama 'Andy Burnham: the Laura Kuenssberg Interview'"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "BBC"
+    ],
+    [
+     "eq",
+     "iPlayer"
+    ],
+    [
+     "ins",
+     "from 06:00"
+    ],
+    [
+     "eq",
+     "on Monday"
+    ],
+    [
+     "del",
+     "from 06:00"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "on Panorama on"
+    ],
+    [
+     "eq",
+     "BBC One on Monday at 20:00 BST."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2232,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.9,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

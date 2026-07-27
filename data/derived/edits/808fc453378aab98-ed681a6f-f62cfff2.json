@@ -1,0 +1,44 @@
+{
+ "id": "808fc453378aab98-ed681a6f-f62cfff2",
+ "url": "https://finance.yahoo.com/technology/live/tech-stocks-live-tech-heavy-nasdaq-climbs-ahead-of-big-tech-earnings-kickoff-164334720.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-07-27T10:12:02Z",
+ "date": "2026-07-27",
+ "old_title": "Tech stocks live: Huang, Nadella, and other CEOs defend open-source AI as US threatens crackdown",
+ "new_title": "Tech stocks live: Huang, Nadella, and other CEOs defend open-source AI as US threatens crackdown",
+ "old_text": "Tech stocks live: Huang, Nadella, and other CEOs defend open-source AI as US threatens crackdown\nTech stocks fell on Friday following a sharp sell-off the day before as markets weighed new tariffs, Intel's (INTC) quarterly results, and a debate over China's open-source models.\nThis week, Nvidia (NVDA) CEO Jensen Huang, Microsoft (MSFT) CEO Satya Nadella, and AMD (AMD) CEO Lisa Su voiced support for the open-source models created by Chinese startups, which allow users to customize the software, unlike the proprietary, or closed, models preferred by US startups OpenAI (OPAI.PVT), Anthropic (ANTH.PVT), and Google (GOOG, GOOGL).\nIn tech earnings news, Intel stock fell almost 8%, despite announcing better-than-anticipated earnings and an upbeat outlook for the current quarter after the bell on Thursday. The chipmaker is benefiting from the AI boom thanks to its central processing units (CPUs), which are key to running AI agents.\nIntel's report came after Google (GOOG, GOOGL) and Tesla (TSLA) announced their own earnings on Wednesday. But investors weren't as keen on what those companies had to say. Google said it will increase its spending this year and in 2027. They were similarly unimpressed with Tesla, which missed on profit expectations and also said it would spend more than expected.\nOn Thursday, AMD (AMD) officially launched its Helios rackscale system, with CEO Lisa Su announcing that the AI platform is in full production during the company's Advancing AI event in San Francisco, Calif. The system is a direct competitor to Nvidia's (NVDA) own Grace Blackwell and Vera Rubin-based NVL72 rackscale systems.",
+ "new_text": "Tech stocks fell on Friday following a sharp sell-off the day before as markets weighed new tariffs, Intel's (INTC) quarterly results, and a debate over China's open-source models.\nThis week, Nvidia (NVDA) CEO Jensen Huang, Microsoft (MSFT) CEO Satya Nadella, and AMD (AMD) CEO Lisa Su voiced support for the open-source models created by Chinese startups, which allow users to customize the software, unlike the proprietary, or closed, models preferred by US startups OpenAI (OPAI.PVT), Anthropic (ANTH.PVT), and Google (GOOG, GOOGL).\nIn tech earnings news, Intel stock fell almost 8%, despite announcing better-than-anticipated earnings and an upbeat outlook for the current quarter after the bell on Thursday. The chipmaker is benefiting from the AI boom thanks to its central processing units (CPUs), which are key to running AI agents.\nIntel's report came after Google (GOOG, GOOGL) and Tesla (TSLA) announced their own earnings on Wednesday. But investors weren't as keen on what those companies had to say. Google said it will increase its spending this year and in 2027. They were similarly unimpressed with Tesla, which missed on profit expectations and also said it would spend more than expected.\nOn Thursday, AMD (AMD) officially launched its Helios rackscale system, with CEO Lisa Su announcing that the AI platform is in full production during the company's Advancing AI event in San Francisco, Calif. The system is a direct competitor to Nvidia's (NVDA) own Grace Blackwell and Vera Rubin-based NVL72 rackscale systems.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Tech stocks live: Huang, Nadella, and other CEOs defend open-source AI as US threatens crackdown"
+    ],
+    [
+     "eq",
+     "Tech stocks fell on Friday following a sharp sell-off the day before"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0588,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.183,
+ "similarity": 0.9395,
+ "adjudicated_by": "rules"
+}

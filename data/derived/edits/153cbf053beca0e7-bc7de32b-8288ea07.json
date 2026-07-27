@@ -1,0 +1,84 @@
+{
+ "id": "153cbf053beca0e7-bc7de32b-8288ea07",
+ "url": "https://finance.yahoo.com/technology/ai/articles/blackstone-ai-bet-fuels-blowout-040100398.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-07-27T10:12:14Z",
+ "date": "2026-07-27",
+ "old_title": "Blackstone's AI Bet Fuels Blowout Growth While Rivals Grapple With \"Zombie Funds\"",
+ "new_title": "Blackstone's AI Bet Fuels Blowout Growth While Rivals Grapple With \"Zombie Funds\"",
+ "old_text": "Concerned about an AI bubble? Sign up for The Daily Upside for smart and actionable market news, built for investors.\nBlackstone knows what the characters on The Walking Dead took a couple of seasons to learn: In a zombie apocalypse, you should always have an exit plan.\nThe investment giant announced blowout earnings on Thursday, driven in part by a healthy rate of private equity exits and realizations. That makes it the envy of the private equity industry, which is contending with a record number of unsellable \"zombie funds\" that have lived on far past their intended lifespan, per an analysis in The Wall Street Journal.\nREAD ALSO: 'Modelmaxxing' Replaces 'Tokenmaxxing' for Firms Grappling With AI Costs and Defense Contractors Amass Record Backlogs as Military Spending Ramps Up\nLifespan-Maxxing\nBlackstone's secret? Selling the one thing that's hot: AI infrastructure. In particular, offloading a trio of data center assets last month to Digital Realty Trust for $3.5 billion, enough to drive its real estate division's highest revenue in four years. The firm netted $31 billion in realizations in the quarter, and $144 billion in the past 12 months. \"Our outstanding results are proof of our early, strategic decision to lean into AI, its infrastructure and compute shortage,\" President Jonathan Gray said Thursday. Paired with appreciation of other AI investments, the exits helped boost distributable earnings 26% year-over-year to $1.98 billion, or $1.52 per share, blowing past analysts' expectations of $1.35 per share.\nIt's a stark contrast with the stagnation elsewhere in the private equity universe. Frenzied dealmaking in the ultra-low-interest-rate past and overly optimistic valuations are coming back to bite, with buyers now reluctant to pay high prices and, worse, high interest rates. It's creating a historic bulk of unsellable assets and aging portfolios:\n- The industry held an estimated $3.9 trillion of unsold portfolio companies as of last year, according to Preqin data seen by the WSJ, meaning some three-quarters of all North American private equity assets on balance sheets were locked up. The net value of assets stuck in funds at least a decade old is now at a record $348 billion, 100 times as high as the amount in 2005.\n- That's led to funds existing past their intended lifespan, hence the \"zombie fund\" label. A June survey from Coller Capital found that 54% of firms expect the number of such funds in their portfolios to increase in the next two years.",
+ "new_text": "Concerned about an AI bubble? Sign up for The Daily Upside for smart and actionable market news, built for investors.\nBlackstone knows what the characters on The Walking Dead took a couple of seasons to learn: In a zombie apocalypse, you should always have an exit plan.\nThe investment giant announced blowout earnings on Thursday, driven in part by a healthy rate of private equity exits and realizations. That makes it the envy of the private equity industry, which is contending with a record number of unsellable \"zombie funds\" that have lived on far past their intended lifespan, per an analysis in The Wall Street Journal.\nREAD ALSO: Meta, Microsoft and Amazon Test Limits of Investor Appetite for AI Spending and Mounting US Budget Deficit Complicates Fed's Interest Rate Choices\nLifespan-Maxxing\nBlackstone's secret? Selling the one thing that's hot: AI infrastructure. In particular, offloading a trio of data center assets last month to Digital Realty Trust for $3.5 billion, enough to drive its real estate division's highest revenue in four years. The firm netted $31 billion in realizations in the quarter, and $144 billion in the past 12 months. \"Our outstanding results are proof of our early, strategic decision to lean into AI, its infrastructure and compute shortage,\" President Jonathan Gray said Thursday. Paired with appreciation of other AI investments, the exits helped boost distributable earnings 26% year-over-year to $1.98 billion, or $1.52 per share, blowing past analysts' expectations of $1.35 per share.\nIt's a stark contrast with the stagnation elsewhere in the private equity universe. Frenzied dealmaking in the ultra-low-interest-rate past and overly optimistic valuations are coming back to bite, with buyers now reluctant to pay high prices and, worse, high interest rates. It's creating a historic bulk of unsellable assets and aging portfolios:\n- The industry held an estimated $3.9 trillion of unsold portfolio companies as of last year, according to Preqin data seen by the WSJ, meaning some three-quarters of all North American private equity assets on balance sheets were locked up. The net value of assets stuck in funds at least a decade old is now at a record $348 billion, 100 times as high as the amount in 2005.\n- That's led to funds existing past their intended lifespan, hence the \"zombie fund\" label. A June survey from Coller Capital found that 54% of firms expect the number of such funds in their portfolios to increase in the next two years.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "intended lifespan, per an analysis in The Wall Street Journal. READ ALSO:"
+    ],
+    [
+     "del",
+     "'Modelmaxxing' Replaces 'Tokenmaxxing'"
+    ],
+    [
+     "ins",
+     "Meta, Microsoft and Amazon Test Limits of Investor Appetite"
+    ],
+    [
+     "eq",
+     "for"
+    ],
+    [
+     "del",
+     "Firms Grappling With"
+    ],
+    [
+     "eq",
+     "AI"
+    ],
+    [
+     "del",
+     "Costs"
+    ],
+    [
+     "ins",
+     "Spending"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "Defense Contractors Amass Record Backlogs as Military Spending Ramps Up"
+    ],
+    [
+     "ins",
+     "Mounting US Budget Deficit Complicates Fed's Interest Rate Choices"
+    ],
+    [
+     "eq",
+     "Lifespan-Maxxing Blackstone's secret? Selling the one thing that's hot: AI infrastructure. In"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0891,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 0.9338,
+ "adjudicated_by": "rules"
+}
