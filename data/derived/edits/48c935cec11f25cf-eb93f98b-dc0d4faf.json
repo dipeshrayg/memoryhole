@@ -1,0 +1,66 @@
+{
+ "id": "48c935cec11f25cf-eb93f98b-dc0d4faf",
+ "url": "https://www.npr.org/2026/07/27/nx-s1-5906455/more-than-2-000-measles-cases-reported-in-the-u-s-so-far-outpacing-2025s-total",
+ "domain": "www.npr.org",
+ "source": "NPR Health",
+ "country": "United States",
+ "category": "health",
+ "lang": "en",
+ "detected_at": "2026-07-28T09:00:00Z",
+ "date": "2026-07-28",
+ "old_title": "More than 2,000 measles cases reported in the U.S. so far, outpacing 2025's total",
+ "new_title": "More than 2,000 measles cases reported in the U.S. so far, outpacing 2025's total",
+ "old_text": "More than 2,000 measles cases reported in the U.S. so far, outpacing 2025's total\nMore than 2,000 measles cases reported in the U.S. so far, outpacing 2025's total\nAudio will be available later today.\nNPR's A Martinez asks Dr. Jennifer Nuzzo of Brown University why there have been more measles cases this year so far than in all of last year, and what can be done to stop the resurgence.",
+ "new_text": "More than 2,000 measles cases reported in the U.S. so far, outpacing 2025's total\nNPR's A Martinez asks Dr. Jennifer Nuzzo of Brown University why there have been more measles cases this year so far than in all of last year, and what can be done to stop the resurgence.\nA MARTÍNEZ, HOST:\nThere are more than 2,300 confirmed cases of measles in the U.S. so far this year. That is slightly more than the total number of cases for all of last year, according to the CDC. Dr. Jennifer Nuzzo has been tracking this year's spike in measles. She's an epidemiologist who heads the Pandemic Center at the Brown University School of Public Health. Dr., measles was officially eliminated from the U.S. in 2000. How did this resurgence happen?\nJENNIFER NUZZO: Well, we've been seeing a slow progress towards measles circulating again because people are, you know, not vaccinating their kids as much as they used to be. But really, it's taken off quite extraordinarily since the beginning of 2025. And some of that is because of a lot of rhetoric right now that's been happening politically about vaccines and suggesting that they may not be safe, which is not true, suggesting that they may not work, which is definitely not true. And that has led to explosive outbreaks throughout the country - recurring outbreaks - to the point where we are now looking at measles being reestablished as a disease that kids could get if they're not vaccinated.\nMARTÍNEZ: So you expect the U.S. will lose that eliminated status?\nNUZZO: By all measure, we should lose that status. Measles has continued to be transmitted since the beginning of 2025. It shows no signs of stopping. States that had an outbreak that burnt itself out have seen outbreaks again. It's basically like Whac-A-Mole at this point.\nMARTÍNEZ: All right. And just to be clear, eliminated means a disease has gone from a region, eradicated it means it's a global - it's gone completely, right?\nNUZZO: Yeah, it basically means you drive your domestic transmission down to zero. We still had measles when we - since we eliminated it in the year 2000, but they were sporadic cases imported when people traveled to other places.\nMARTÍNEZ: Why is this resurgence in measles cases so serious?\nNUZZO: Well, measles is a really terrible disease. You don't want to get measles, you don't want your children to get measles. First of all, it's a deadly disease. It kills, you know, a decent number of people. It puts a lot of people in the hospital, and that's bad for everybody. It's bad for the people who are there with measles. It's also bad for patients who now have a hospital that has to deal with the stress of measles. It's bad for societies because it costs tens of thousands of dollars per measles case. And if your child has measles as a toddler and recovers, you still have to worry about a very rare but fatal complication that can occur as much as a decade later. And that's a really terrible state to be in.\nMARTÍNEZ: If someone is vaccinated from the measles or their whole families are vaccinated, are they safe? Are they OK?\nNUZZO: Yeah, so the great thing about the measles vaccine is it's one of the best vaccines we have. It's one of the safest vaccines we have. It's also one of the most effective. And it really does a great job of keeping people from getting sick with measles, certainly keeping people out of the hospital, keeping them from dying, which is the most important thing, but it does a pretty great job of reducing transmission, and that's how we have been able to eliminate it more than 25 years ago.\nMARTÍNEZ: The Senate is considering the nomination of Dr. Erika Schwartz to lead the CDC. Her boss would be Health Secretary RFK Jr. He's pushed some conspiracy theories about vaccines. Quickly, Dr., if you can, if she is confirmed - if Dr. Schwartz is confirmed - what does she have to do to reverse the rise of measles?\nNUZZO: She has to issue an unequivocable statement that supports measles vaccination as the only way to protect people from measles - that it's the only proven way to protect yourself from measles. We can't mince words here. We can't suggest that there are, you know, more cons than there are pros. None of that is true. And unfortunately, you know, confusing rhetoric coming out of the Department of Health and Human Services has complicated the issue in the midst of a deadly outbreak.\nMARTÍNEZ: Dr. Jennifer Nuzzo directs the Pandemic Center at the Brown University School of Public Health. Dr., thanks.\nNUZZO: Thanks so much.\n(SOUNDBITE OF MUSIC)\nCopyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.\nAccuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR's programming is the audio record.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "2,000 measles cases reported in the U.S. so far, outpacing 2025's total"
+    ],
+    [
+     "del",
+     "More than 2,000 measles cases reported in the U.S. so far, outpacing 2025's total Audio will be available later today."
+    ],
+    [
+     "eq",
+     "NPR's A Martinez asks Dr. Jennifer Nuzzo of Brown University why there"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of last year, and what can be done to stop the resurgence."
+    ],
+    [
+     "ins",
+     "A MARTÍNEZ, HOST: There are more than 2,300 confirmed cases of measles in the U.S. so far this year. That is slightly more than the total number of cases for all of last year, according to the CDC. Dr. Jennifer Nuzzo has been tracking this year's spike in measles. She's an epidemiologist who heads the Pandemic Center at the Brown University School of Public Health. Dr., measles was officially eliminated from the U.S. in 2000. How did this resurgence happen? JENNIFER NUZZO: Well, we've been seeing a slow progress towards measles circulating again because people are, you know, not vaccinating their kids as much as they used to be. But really, it's taken off quite extraordinarily since the beginning of 2025. And some of that is because of a lot of rhetoric right now that's been happening politically about vaccines and suggesting that they may not be safe, which is not true, suggesting that they may not work, which is definitely not true. And that has led to explosive outbreaks throughout the country - recurring outbreaks - to the point where we are now looking at measles being reestablished as a disease that kids could get if they're not vaccinated. MARTÍNEZ: So you expect the U.S. will lose that eliminated status? NUZZO: By all measure, we should lose that status. Measles has continued to be transmitted since the beginning of 2025. It shows no signs of stopping. States that had an outbreak that burnt itself out have seen outbreaks again. It's basically like Whac-A-Mole at this point. MARTÍNEZ: All right. And just to be clear, eliminated means a disease has gone from a region, eradicated it means it's a global - it's gone completely, right? NUZZO: Yeah, it basically means you drive your domestic transmission down to zero. We still had measles when we - since we eliminated it in the year 2000, but they were sporadic cases imported when people traveled to other places. MARTÍNEZ: Why is this resurgence in measles cases so serious? NUZZO: Well, measles is a really terrible disease. You don't want to get measles, you don't want your children to get measles. First of all, it's a deadly disease. It kills, you know, a decent number of people. It puts a lot of people in the hospital, and that's bad for everybody. It's bad for the people who are there with measles. It's also bad for patients who now have a hospital that has to deal with the stress of measles. It's bad for societies because it costs tens of thousands of dollars per measles case. And if your child has measles as a toddler and recovers, you still have to worry about a very rare but fatal complication that can occur as much as a decade later. And that's a really terrible state to be in. MARTÍNEZ: If someone is vaccinated from the measles or their whole families are vaccinated, are they safe? Are they OK? NUZZO: Yeah, so the great thing about the measles vaccine is it's one of the best vaccines we have. It's one of the safest vaccines we have. It's also one of the most effective. And it really does a great job of keeping people from getting sick with measles, certainly keeping people out of the hospital, keeping them from dying, which is the most important thing, but it does a pretty great job of reducing transmission, and that's how we have been able to eliminate it more than 25 years ago. MARTÍNEZ: The Senate is considering the nomination of Dr. Erika Schwartz to lead the CDC. Her boss would be Health Secretary RFK Jr. He's pushed some conspiracy theories about vaccines. Quickly, Dr., if you can, if she is confirmed - if Dr. Schwartz is confirmed - what does she have to do to reverse the rise of measles? NUZZO: She has to issue an unequivocable statement that supports measles vaccination as the only way to protect people from measles - that it's the only proven way to protect yourself from measles. We can't mince words here. We can't suggest that there are, you know, more cons than there are pros. None of that is true. And unfortunately, you know, confusing rhetoric coming out of the Department of Health and Human Services has complicated the issue in the midst of a deadly outbreak. MARTÍNEZ: Dr. Jennifer Nuzzo directs the Pandemic Center at the Brown University School of Public Health. Dr., thanks. NUZZO: Thanks so much. (SOUNDBITE OF MUSIC) Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information. Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR's programming is the audio record."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 11.9143,
+  "numbers_changed": [
+   "2,000",
+   "2,300",
+   "2000",
+   "2026",
+   "25"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.388,
+ "similarity": 0.8137,
+ "adjudicated_by": "rules"
+}

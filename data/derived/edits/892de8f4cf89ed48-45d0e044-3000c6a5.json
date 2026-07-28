@@ -1,0 +1,171 @@
+{
+ "id": "892de8f4cf89ed48-45d0e044-3000c6a5",
+ "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-07-28T08:52:39Z",
+ "date": "2026-07-28",
+ "old_title": "Chipmaker CXMT becomes mainland China's most valuable listed firm",
+ "new_title": "Chipmaker CXMT becomes mainland China's most valuable listed firm",
+ "old_text": "- Published\nShares in China's biggest memory chip maker have surged by more than 470% as they made their debut on the Shanghai Stock Exchange's tech-heavy Star Market.\nThe surge has pushed ChangXin Memory Technologies' (CXMT) stock market valuation to around 3.3 trillion yuan ($487.3bn; Â£364.9bn), making it the most valuable listed company in mainland China.\nThe spectacular debut comes despite a sharp sell-off in technology stocks around the world this month.\nCXMT manufactures dynamic random-access memory (Dram) chips that power artificial intelligence (AI) data centres, mobile phones, PCs, tablets and other devices.\nThe firm, which was founded in 2016 by Chairman Zhu Yiming, is headquartered in Hefei, Anhui Province in eastern China.\nThe company has said it plans to use most of the proceeds from the initial public offering (IPO) to boost production of memory chips and carry out more research and developments.\nThe stellar performance of its IPO will offer some comfort to Chinese financial officials, who have been rolling out measures to help curb a stock market slump that wiped out more than $1.5tn in recent weeks.\nAnalysts said the jump was also being driven by demand for the shares far outstripping supply.\n\"The reason for the extraordinary bounce this morning is that only 7% of the shares are available for trading,\" Anna Macdonald, investment strategy director at Hargreaves Lansdown told the BBC's Today programme.\nIt also highlights Chinese investors' strong appetite for a homegrown chipmaker, as the government in Beijing pushes ahead with plans to make its technology industry self-reliant.\nSouth Korean tech giants Samsung Electronics and SK Hynix and US-based Micron dominate the Dram market, with the three companies accounting for around 90% of global production.\nEarlier this month, SK Hynix raised $26.5bn (Â£19.8bn) in its New York share offering, marking the largest ever listing by a foreign firm in the US.\nThe company, a key supplier to AI chip giant Nvidia, said it had sold 177.9 million American depositary shares for $149 each.\nThe shares surged as much as 17% on Friday in their first day of trading on the Nasdaq but have since given up some of that gain.\nSK Hynix saw its market value top $1tn in its home country in May, lifted by the boom in demand for AI chips.",
+ "new_text": "- Published\nShares in China's biggest memory chip maker have soared by nearly 470% as they made their debut on the Shanghai Stock Exchange's tech-heavy Star Market.\nThe surge has pushed ChangXin Memory Technologies' (CXMT) stock market valuation to around 3.3 trillion yuan ($487bn; Â£365bn), making it the most valuable listed company in mainland China.\nThe spectacular debut comes despite a sharp sell-off in technology stocks around the world this month.\nCXMT manufactures dynamic random-access memory (Dram) chips that power AI data centres, mobile phones, PCs, tablets and other devices.\nThe firm, which was founded in 2016 by Chairman Zhu Yiming, is headquartered in Hefei, Anhui Province in eastern China.\nThe company has said it plans to use most of the proceeds from the initial public offering (IPO) to boost production and carry out more research and development.\nThe stellar performance of its IPO will offer some comfort to Chinese financial officials, who have been rolling out measures to help curb a stock market slump that wiped out more than $1.5tn in recent weeks.\nAnalysts said the jump was also being driven by demand for the shares far outstripping supply.\n\"The reason for the extraordinary bounce this morning is that only 7% of the shares are available for trading,\" Anna Macdonald, investment strategy director at Hargreaves Lansdown told the BBC's Today programme.\nIt also highlights Chinese investors' strong appetite for a homegrown chipmaker, as the government in Beijing pushes ahead with plans to make its technology industry self-reliant.\nSouth Korean tech giants Samsung Electronics and SK Hynix and US-based Micron dominate the Dram market, with the three companies accounting for around 90% of global production.\nEarlier this month, SK Hynix raised $26.5bn (Â£19.8bn) in its New York share offering, marking the largest ever listing by a foreign firm in the US.\nThe company, a key supplier to AI chip giant Nvidia, said it had sold 177.9 million American depositary shares for $149 each.\nThe shares surged as much as 17% in their first day of trading on the Nasdaq but have since given up some of that gain.\nSK Hynix saw its market value top $1tn in its home country in May, lifted by the boom in demand for AI chips.\nOnce an affordable component used to build devices, memory prices have more than doubled in recent months - and are still rising.\nSome big tech firms have hiked the price of popular gadgets, such as tablets and video game consoles, to cope with rising component costs.\nEllie Wong, an analyst at technology research firm TrendForce, told Reuters, external such price increases were expected to continue until the end of 2027.\n\"Amid persistent supply shortages, many customers are seeking to diversify their memory supplier base, which should significantly benefit CXMT and create more business opportunities,\" she said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published Shares in China's biggest memory chip maker have"
+    ],
+    [
+     "del",
+     "surged"
+    ],
+    [
+     "ins",
+     "soared"
+    ],
+    [
+     "eq",
+     "by"
+    ],
+    [
+     "del",
+     "more than"
+    ],
+    [
+     "ins",
+     "nearly"
+    ],
+    [
+     "eq",
+     "470% as they made their debut on the Shanghai Stock Exchange's tech-heavy"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "ChangXin Memory Technologies' (CXMT) stock market valuation to around 3.3 trillion yuan"
+    ],
+    [
+     "del",
+     "($487.3bn; Â£364.9bn),"
+    ],
+    [
+     "ins",
+     "($487bn; Â£365bn),"
+    ],
+    [
+     "eq",
+     "making it the most valuable listed company in mainland China. The spectacular"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "world this month. CXMT manufactures dynamic random-access memory (Dram) chips that power"
+    ],
+    [
+     "del",
+     "artificial intelligence (AI)"
+    ],
+    [
+     "ins",
+     "AI"
+    ],
+    [
+     "eq",
+     "data centres, mobile phones, PCs, tablets and other devices. The firm, which"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of the proceeds from the initial public offering (IPO) to boost production"
+    ],
+    [
+     "del",
+     "of memory chips"
+    ],
+    [
+     "eq",
+     "and carry out more research and"
+    ],
+    [
+     "del",
+     "developments."
+    ],
+    [
+     "ins",
+     "development."
+    ],
+    [
+     "eq",
+     "The stellar performance of its IPO will offer some comfort to Chinese"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "depositary shares for $149 each. The shares surged as much as 17%"
+    ],
+    [
+     "del",
+     "on Friday"
+    ],
+    [
+     "eq",
+     "in their first day of trading on the Nasdaq but have since"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "country in May, lifted by the boom in demand for AI chips."
+    ],
+    [
+     "ins",
+     "Once an affordable component used to build devices, memory prices have more than doubled in recent months - and are still rising. Some big tech firms have hiked the price of popular gadgets, such as tablets and video game consoles, to cope with rising component costs. Ellie Wong, an analyst at technology research firm TrendForce, told Reuters, external such price increases were expected to continue until the end of 2027. \"Amid persistent supply shortages, many customers are seeking to diversify their memory supplier base, which should significantly benefit CXMT and create more business opportunities,\" she said."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3061,
+  "numbers_changed": [
+   "2027",
+   "364.9",
+   "365",
+   "487",
+   "487.3"
+  ],
+  "market_figures_changed": [
+   "$487.3bn",
+   "$487bn",
+   "£364.9bn",
+   "£365bn"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.25,
+ "similarity": 0.9912,
+ "adjudicated_by": "rules"
+}

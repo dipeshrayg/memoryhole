@@ -1,0 +1,264 @@
+{
+ "id": "00be5bb11e296da5-0bed633c-2b46b37f",
+ "url": "https://www.aljazeera.com/news/2026/7/27/macron-calls-crisis-meeting-of-french-cabinet-as-blaze-approaches-bordeaux?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-28T08:45:15Z",
+ "date": "2026-07-28",
+ "old_title": "Macron calls crisis meeting of French cabinet as blaze approaches Bordeaux",
+ "new_title": "Macron holds crisis meeting of French Cabinet as blaze approaches Bordeaux",
+ "old_text": "President Emmanuel Macron has called a crisis meeting of the French cabinet to coordinate efforts to contain massive wildfires ravaging the country's southwest, as firefighters race to prevent the flames from reaching the historic city of Bordeaux.\nForecasts that another heatwave will hit France later in the week have added to the urgency of Monday's meeting.\nRecommended Stories\nlist of 3 items- list 1 of 3Photos: Wildfires in France drive 250,000 people from their homes\n- list 2 of 3Heatwave drives major wildfires across North Africa\n- list 3 of 3What's causing the unprecedented wildfires in Europe?\nFirefighters battled the blaze throughout the night, and the provincial authority of Gironde, the wine-growing region that includes Bordeaux, said the situation remained \"broadly stable\".\nBordeaux Mayor Thomas Cazenave said on Sunday that the fire \"is still at the gates of the metropolitan area\".\nAt their closest point, the flames were 15km (9 miles) from metropolitan Bordeaux, which is home to about 850,000 people.\nFootage of the wildfires shows scenes of widespread destruction, with thick clouds of smoke obscuring the sky and large areas of forest where the trees are engulfed by flames.\n\"This is a fire of a size never seen before,\" said Jerome Steffe, the mayor of Cestas, a suburb just outside Bordeaux city.\nWildfires in France and Spain have caused widespread disruption, upending lives and forcing more than 300,000 people to flee their homes. The blazes come as Europe experiences record-breaking temperatures, with scientists warning that extreme heat is drying out the continent.\nEurope has already experienced three heatwaves this summer, which have fuelled the wildfires. Several countries have set new temperature records.\nIn Spain, more than 75,000 people have been evacuated from their homes. Some of the worst blazes are getting closer to Madrid but have \"slowed their advance\", the regional government said on Monday.\n\"It looked like the apocalypse,\" said 35-year-old Rocio Dominguez, who fled her house in Chapineria, west of Madrid, with her two dogs. \"You couldn't see anything. Everything was covered in ash.\"\nAuthorities say they will begin allowing some people evacuated from Madrid to return to their homes.",
+ "new_text": "President Emmanuel Macron has attended an emergency cabinet meeting to coordinate efforts to contain massive wildfires ravaging southwest France, as early signs emerged that the blazes may be starting to slow.\nMacron did not immediately comment following the meeting on Monday. However, Interior Minister Laurent Nunez said that the wildfires had not \"progressed during the night\", but cautioned that authorities had to remain \"very concentrated, very determined, to go at any moment\".\nRecommended Stories\nlist of 3 items- list 1 of 3Photos: Wildfires in France drive 250,000 people from their homes\n- list 2 of 3Heatwave drives major wildfires across North Africa\n- list 3 of 3What's causing the unprecedented wildfires in Europe?\nForecasts that another heatwave will hit France later in the week added to the urgency of Monday's meeting.\nFirefighters battled the blaze throughout the night and the provincial authority of Gironde, the wine-growing region that includes Bordeaux, said the situation remained \"broadly stable\".\nBordeaux Mayor Thomas Cazenave said on Sunday that the fire \"is still at the gates of the metropolitan area\".\nAt their closest point, the flames were 15km (9 miles) from metropolitan Bordeaux, home to about 850,000 people.\nVideo of the wildfires shows scenes of widespread destruction, with thick clouds of smoke obscuring the sky and large areas of forest where the trees are engulfed by flames.\n\"This is a fire of a size never seen before,\" said Jerome Steffe, the mayor of Cestas, a suburb just outside Bordeaux city.\nWildfires in France and Spain have caused widespread disruption, upending lives and forcing more than 300,000 people to flee their homes. The blazes come as Europe swelters in record-breaking temperatures, with scientists warning that extreme heat is drying out the continent.\nEurope has already experienced three heatwaves this summer, which have fuelled the wildfires. Several countries have set new temperature records.\nThe blazes in France have been so intense that they have triggered a phenomenon known as pyrocumulonimbus clouds.\nThese huge fire-generated clouds can produce thunderstorms and carry hot air, smoke and moisture into the upper troposphere and lower stratosphere (UTLS). According to the Harvard School of Engineering and Applied Sciences, the magnitude of smoke plumes reaching the UTLS has, on some occasions, surpassed that caused by volcanic eruptions over the past decade.\nIn Spain, more than 75,000 people have been evacuated from their homes. Some of the worst blazes are getting closer to Madrid but have \"slowed their advance\", the regional government said on Monday.\n\"It looked like the apocalypse,\" said 35-year-old Rocio Dominguez, who fled her house in Chapineria, west of the capital, with her two dogs. \"You couldn't see anything. Everything was covered in ash.\"\nAuthorities say they will begin allowing some evacuees from Madrid to return to their homes.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "President Emmanuel Macron has"
+    ],
+    [
+     "del",
+     "called a crisis"
+    ],
+    [
+     "ins",
+     "attended an emergency cabinet"
+    ],
+    [
+     "eq",
+     "meeting"
+    ],
+    [
+     "del",
+     "of the French cabinet"
+    ],
+    [
+     "eq",
+     "to coordinate efforts to contain massive wildfires ravaging"
+    ],
+    [
+     "ins",
+     "southwest France, as early signs emerged that"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "country's southwest, as firefighters race"
+    ],
+    [
+     "ins",
+     "blazes may be starting"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "prevent"
+    ],
+    [
+     "ins",
+     "slow. Macron did not immediately comment following"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "flames from reaching"
+    ],
+    [
+     "ins",
+     "meeting on Monday. However, Interior Minister Laurent Nunez said that"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "historic city of Bordeaux. Forecasts"
+    ],
+    [
+     "ins",
+     "wildfires had not \"progressed during the night\", but cautioned"
+    ],
+    [
+     "eq",
+     "that"
+    ],
+    [
+     "del",
+     "another heatwave will hit France later in the week have added"
+    ],
+    [
+     "ins",
+     "authorities had"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "the urgency of Monday's meeting."
+    ],
+    [
+     "ins",
+     "remain \"very concentrated, very determined, to go at any moment\"."
+    ],
+    [
+     "eq",
+     "Recommended Stories list of 3 items- list 1 of 3Photos: Wildfires in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Africa - list 3 of 3What's causing the unprecedented wildfires in Europe?"
+    ],
+    [
+     "ins",
+     "Forecasts that another heatwave will hit France later in the week added to the urgency of Monday's meeting."
+    ],
+    [
+     "eq",
+     "Firefighters battled the blaze throughout the"
+    ],
+    [
+     "del",
+     "night,"
+    ],
+    [
+     "ins",
+     "night"
+    ],
+    [
+     "eq",
+     "and the provincial authority of Gironde, the wine-growing region that includes Bordeaux,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "their closest point, the flames were 15km (9 miles) from metropolitan Bordeaux,"
+    ],
+    [
+     "del",
+     "which is"
+    ],
+    [
+     "eq",
+     "home to about 850,000 people."
+    ],
+    [
+     "del",
+     "Footage"
+    ],
+    [
+     "ins",
+     "Video"
+    ],
+    [
+     "eq",
+     "of the wildfires shows scenes of widespread destruction, with thick clouds of"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "than 300,000 people to flee their homes. The blazes come as Europe"
+    ],
+    [
+     "del",
+     "experiences"
+    ],
+    [
+     "ins",
+     "swelters in"
+    ],
+    [
+     "eq",
+     "record-breaking temperatures, with scientists warning that extreme heat is drying out the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "which have fuelled the wildfires. Several countries have set new temperature records."
+    ],
+    [
+     "ins",
+     "The blazes in France have been so intense that they have triggered a phenomenon known as pyrocumulonimbus clouds. These huge fire-generated clouds can produce thunderstorms and carry hot air, smoke and moisture into the upper troposphere and lower stratosphere (UTLS). According to the Harvard School of Engineering and Applied Sciences, the magnitude of smoke plumes reaching the UTLS has, on some occasions, surpassed that caused by volcanic eruptions over the past decade."
+    ],
+    [
+     "eq",
+     "In Spain, more than 75,000 people have been evacuated from their homes."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "said 35-year-old Rocio Dominguez, who fled her house in Chapineria, west of"
+    ],
+    [
+     "del",
+     "Madrid,"
+    ],
+    [
+     "ins",
+     "the capital,"
+    ],
+    [
+     "eq",
+     "with her two dogs. \"You couldn't see anything. Everything was covered in ash.\" Authorities say they will begin allowing some"
+    ],
+    [
+     "del",
+     "people evacuated"
+    ],
+    [
+     "ins",
+     "evacuees"
+    ],
+    [
+     "eq",
+     "from Madrid to return to their homes."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5524,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.248,
+ "similarity": 0.9536,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,261 @@
+{
+ "id": "a44475d035ad6363-5984d167-70b3845c",
+ "url": "https://www.bbc.co.uk/news/articles/cy4k892z44jo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-28T08:43:04Z",
+ "date": "2026-07-28",
+ "old_title": "Two people die after large emergency response on Newquay beach",
+ "new_title": "Father and daughter die after being pulled from sea at Newquay",
+ "old_text": "- Published\nA man and a woman have died after getting into trouble in the sea off a popular beach.\nThe two people were pulled from the water off Fistral Beach in Newquay, Cornwall, at about 21:45 BST on Sunday, about 15 minutes after HM Coastguard said rescue personnel were called.\nDevon and Cornwall Police said both were confirmed dead at the scene.\nSearch and rescue teams from Newquay, Padstow and St Agnes took part in the operation, along with lifeboats from Newquay RNLI and a coastguard helicopter.\nPolice said their families had been informed and a file would be prepared for the coroner.\n\"Our thoughts are with them at this extremely difficult time,\" officers added.\nFistral Beach is one of busiest beaches in the country and a surfing hotspot.\nThe beach is known as the home of British surfing and often hosts major national and international competitions such as Boardmasters.\nFollow BBC Cornwall on X, external, Facebook, external and Instagram, external. Send your story ideas to spotlight@bbc.co.uk, external.",
+ "new_text": "- Published\nA father and daughter died after getting into trouble in the sea off a popular beach, police have confirmed.\nEmergency services including the RNLI and coastguard were called to Fistral Beach in Newquay, Cornwall, at about 21:45 BST on Sunday after reports two people had been pulled from the water.\nDevon and Cornwall Police said a woman in her 30s and a man in his 60s, from Doncaster, South Yorkshire, were pronounced dead at the scene.\nThe force added officers were trying to locate a handbag belonging to the woman. Anyone with information has been asked to contact police. Officers also said a file would now be prepared for HM Coroner.\nA cordon was put in place while emergency services carried out their work, but it has since been removed.\nPolice said she it was understood the woman entered the water carrying a bag described as orange or peach in colour with a shoulder strap.\nThe handbag is believed to be leather-style, measuring about 30cm by 30cm (12in by 12in) and thought to contain several personal items with significant sentimental value.\n\"At what is an incredibly difficult time for the family, they would take great comfort in being reunited with these belongings if possible,\" said the force.\nNewquay Mayor Drew Creek said the news was \"awful\" and \"everyone in Newquay was feeling sombre\".\n\"We're all feeling the loss of the individuals yesterday,\" he added.\n\"They were down on holiday, we understand, and [this is] not the way you would want anyone's holiday here in Newquay to be.\n\"Our thoughts and our feelings go out to the families affected.\n\"We heard the helicopter quite low over the bay and, of course, whenever you hear that as a resident, your heart sinks because you know that they are out there for a reason, and I suppose our worst fears were realised this morning when we woke up to the news.\"\nCreek said it was a \"challenging time\" for the community and expressed \"a huge thank you\" to emergency services and rescue teams.\nFistral Beach is one of busiest beaches in the country and a surfing hotspot.\nThe beach is known as the home of British surfing and often hosts major national and international competitions such as Boardmasters.\nRoss Macleod, water safety manager at the RNLI, offered \"condolences to all the friends and family of all of the families involved\".\nThe deaths were a \"tragic reminder around how dangerous open water can be\", he added.\nMacleod said with warm weather drawing more people to beaches and other open water locations, it was important to be aware of the risks and urged people to visit lifeguarded beaches where possible and to swim between the red and yellow flags.\nHe said cold water, changing sea conditions and rip currents could catch out even experienced swimmers.\nFollow BBC Cornwall on X, external, Facebook, external and Instagram, external. Send your story ideas to spotlight@bbc.co.uk, external.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published A"
+    ],
+    [
+     "del",
+     "man"
+    ],
+    [
+     "ins",
+     "father"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "a woman have"
+    ],
+    [
+     "ins",
+     "daughter"
+    ],
+    [
+     "eq",
+     "died after getting into trouble in the sea off a popular"
+    ],
+    [
+     "del",
+     "beach. The two people"
+    ],
+    [
+     "ins",
+     "beach, police have confirmed. Emergency services including the RNLI and coastguard"
+    ],
+    [
+     "eq",
+     "were"
+    ],
+    [
+     "del",
+     "pulled from the water off"
+    ],
+    [
+     "ins",
+     "called to"
+    ],
+    [
+     "eq",
+     "Fistral Beach in Newquay, Cornwall, at about 21:45 BST on"
+    ],
+    [
+     "del",
+     "Sunday, about 15 minutes"
+    ],
+    [
+     "ins",
+     "Sunday"
+    ],
+    [
+     "eq",
+     "after"
+    ],
+    [
+     "del",
+     "HM Coastguard said rescue personnel were called."
+    ],
+    [
+     "ins",
+     "reports two people had been pulled from the water."
+    ],
+    [
+     "eq",
+     "Devon and Cornwall Police said"
+    ],
+    [
+     "del",
+     "both"
+    ],
+    [
+     "ins",
+     "a woman in her 30s and a man in his 60s, from Doncaster, South Yorkshire,"
+    ],
+    [
+     "eq",
+     "were"
+    ],
+    [
+     "del",
+     "confirmed"
+    ],
+    [
+     "ins",
+     "pronounced"
+    ],
+    [
+     "eq",
+     "dead at the scene."
+    ],
+    [
+     "del",
+     "Search and rescue teams from Newquay, Padstow and St Agnes took part in"
+    ],
+    [
+     "ins",
+     "The force added officers were trying to locate a handbag belonging to"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "operation, along"
+    ],
+    [
+     "ins",
+     "woman. Anyone"
+    ],
+    [
+     "eq",
+     "with"
+    ],
+    [
+     "del",
+     "lifeboats from Newquay RNLI and a coastguard helicopter. Police"
+    ],
+    [
+     "ins",
+     "information has been asked to contact police. Officers also"
+    ],
+    [
+     "eq",
+     "said"
+    ],
+    [
+     "del",
+     "their families had been informed and"
+    ],
+    [
+     "eq",
+     "a file would"
+    ],
+    [
+     "ins",
+     "now"
+    ],
+    [
+     "eq",
+     "be prepared for"
+    ],
+    [
+     "ins",
+     "HM Coroner. A cordon was put in place while emergency services carried out their work, but it has since been removed. Police said she it was understood"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "coroner."
+    ],
+    [
+     "ins",
+     "woman entered the water carrying a bag described as orange or peach in colour with a shoulder strap. The handbag is believed to be leather-style, measuring about 30cm by 30cm (12in by 12in) and thought to contain several personal items with significant sentimental value. \"At what is an incredibly difficult time for the family, they would take great comfort in being reunited with these belongings if possible,\" said the force. Newquay Mayor Drew Creek said the news was \"awful\" and \"everyone in Newquay was feeling sombre\". \"We're all feeling the loss of the individuals yesterday,\" he added. \"They were down on holiday, we understand, and [this is] not the way you would want anyone's holiday here in Newquay to be."
+    ],
+    [
+     "eq",
+     "\"Our thoughts"
+    ],
+    [
+     "ins",
+     "and our feelings go out to the families affected. \"We heard the helicopter quite low over the bay and, of course, whenever you hear that as a resident, your heart sinks because you know that they"
+    ],
+    [
+     "eq",
+     "are"
+    ],
+    [
+     "del",
+     "with them at"
+    ],
+    [
+     "ins",
+     "out there for a reason, and I suppose our worst fears were realised"
+    ],
+    [
+     "eq",
+     "this"
+    ],
+    [
+     "del",
+     "extremely difficult time,\" officers added."
+    ],
+    [
+     "ins",
+     "morning when we woke up to the news.\" Creek said it was a \"challenging time\" for the community and expressed \"a huge thank you\" to emergency services and rescue teams."
+    ],
+    [
+     "eq",
+     "Fistral Beach is one of busiest beaches in the country and a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "surfing and often hosts major national and international competitions such as Boardmasters."
+    ],
+    [
+     "ins",
+     "Ross Macleod, water safety manager at the RNLI, offered \"condolences to all the friends and family of all of the families involved\". The deaths were a \"tragic reminder around how dangerous open water can be\", he added. Macleod said with warm weather drawing more people to beaches and other open water locations, it was important to be aware of the risks and urged people to visit lifeguarded beaches where possible and to swim between the red and yellow flags. He said cold water, changing sea conditions and rip currents could catch out even experienced swimmers."
+    ],
+    [
+     "eq",
+     "Follow BBC Cornwall on X, external, Facebook, external and Instagram, external. Send your story ideas to spotlight@bbc.co.uk, external."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 2.6686,
+  "numbers_changed": [
+   "12",
+   "15",
+   "30",
+   "60"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 4,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.6,
+ "similarity": 0.7326,
+ "adjudicated_by": "rules"
+}

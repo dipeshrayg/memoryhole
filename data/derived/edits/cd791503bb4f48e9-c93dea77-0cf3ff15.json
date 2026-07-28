@@ -1,0 +1,162 @@
+{
+ "id": "cd791503bb4f48e9-c93dea77-0cf3ff15",
+ "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-07-28T09:01:25Z",
+ "date": "2026-07-28",
+ "old_title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+ "new_title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+ "old_text": "It's been nearly five years since Ridley Scott first announced his plans for a TV spinoff of his sci-fi masterpiece Blade Runner (1982) and the 2017 sequel Blade Runner 2049. It's finally here-or almost, anyway. Prime Video debuted the first teaser for the new ten-episode series, Blade Runner 2099, at San Diego Comic-Con on Friday. We also got a teaser for the third season of Prime Video's Rings of Power and a new trailer for HBO's Lanterns.\nYeoh and Schafer joined show runner Silka Luisa (Shining Girls) onstage for the big reveal, which also included an exclusive clip shown to the audience. Luisa told Entertainment Weekly that the series stays true to the original's \"noir principles... and there's a mystery at the heart of the show that looks both forwards and backwards in terms of mythology.\" An uprising has occurred and the humans lost, which means they are now the hunted second-class citizens. \"The show is really imagining what comes after us, and what does it mean to be human in a world where humanity is no longer relevant,\" said Luisa.\nPer the official synopsis:\nFifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that could collapse their fragile city.\nThe incomparable Michelle Yeoh stars as Olwen, the dying Replicant, along with Hunter Schafer (Euphoria) as Cora. The cast also includes Hugo Hamlet as Buster Friendly, as well as Dmitri Abold, Lewis Gribben, Katelyn Rose Downey, Daniel Rigby, Johnny Harris, Amy Lennox, Sheila Atim, Matthew Needham, Tom Burke, and Maurizio Lombardi-all in as-yet-undisclosed roles.\nBlade Runner 2099 will premiere on November 25, 2026, on Prime Video.\nRings of Power S3\nPrime Video made a major investment in The Rings of Power when it acquired the rights to the source material from the Tolkien estate, even committing to multiple seasons upfront. We're now coming up on S3 and based on the teaser the streaming platform unveiled at SDCC, we'll finally get to see Sauron (Charlie Vickers) forging the One Ring.",
+ "new_text": "It has been nearly five years since Ridley Scott first announced his plans for a TV spinoff of his sci-fi masterpiece Blade Runner (1982) and the 2017 sequel Blade Runner 2049. It's finally here-or almost, anyway. Prime Video debuted the first teaser for the new 10-episode series, Blade Runner 2099, at San Diego Comic-Con on Friday. We also got a teaser for the third season of Prime Video's Rings of Power and a new trailer for HBO's Lanterns.\nCo-stars Michelle Yeoh and Hunter Schafer (Euphoria) joined show runner Silka Luisa (Shining Girls) onstage for the big reveal, which also included an exclusive clip shown to the audience. Luisa told Entertainment Weekly that the series stays true to the original's \"noir principles... and there's a mystery at the heart of the show that looks both forwards and backwards in terms of mythology.\" An uprising has occurred and the humans lost, which means they are now the hunted second-class citizens. \"The show is really imagining what comes after us, and what does it mean to be human in a world where humanity is no longer relevant,\" said Luisa.\nPer the official synopsis:\nFifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that could collapse their fragile city.\nYeoh stars as Olwen, the dying Replicant, while Schafer plays Cora. The cast also includes Hugo Hamlet as Buster Friendly, as well as Dmitri Abold, Lewis Gribben, Katelyn Rose Downey, Daniel Rigby, Johnny Harris, Amy Lennox, Sheila Atim, Matthew Needham, Tom Burke, and Maurizio Lombardi-all in as-yet-undisclosed roles.\nBlade Runner 2099 will premiere on November 25, 2026, on Prime Video.\nRings of Power S3\nPrime Video made a major investment in The Rings of Power when it acquired the rights to the source material from the Tolkien estate, even committing to multiple seasons upfront. We're now coming up on S3, and based on the teaser the streaming platform unveiled at SDCC, we'll finally get to see Sauron (Charlie Vickers) forging the One Ring.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "It's"
+    ],
+    [
+     "ins",
+     "It has"
+    ],
+    [
+     "eq",
+     "been nearly five years since Ridley Scott first announced his plans for"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "here-or almost, anyway. Prime Video debuted the first teaser for the new"
+    ],
+    [
+     "del",
+     "ten-episode"
+    ],
+    [
+     "ins",
+     "10-episode"
+    ],
+    [
+     "eq",
+     "series, Blade Runner 2099, at San Diego Comic-Con on Friday. We also"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Prime Video's Rings of Power and a new trailer for HBO's Lanterns."
+    ],
+    [
+     "ins",
+     "Co-stars Michelle"
+    ],
+    [
+     "eq",
+     "Yeoh and"
+    ],
+    [
+     "ins",
+     "Hunter"
+    ],
+    [
+     "eq",
+     "Schafer"
+    ],
+    [
+     "ins",
+     "(Euphoria)"
+    ],
+    [
+     "eq",
+     "joined show runner Silka Luisa (Shining Girls) onstage for the big reveal,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "down a runaway hiding a truth that could collapse their fragile city."
+    ],
+    [
+     "del",
+     "The incomparable Michelle"
+    ],
+    [
+     "eq",
+     "Yeoh stars as Olwen, the dying Replicant,"
+    ],
+    [
+     "del",
+     "along with Hunter"
+    ],
+    [
+     "ins",
+     "while"
+    ],
+    [
+     "eq",
+     "Schafer"
+    ],
+    [
+     "del",
+     "(Euphoria) as"
+    ],
+    [
+     "ins",
+     "plays"
+    ],
+    [
+     "eq",
+     "Cora. The cast also includes Hugo Hamlet as Buster Friendly, as well"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "estate, even committing to multiple seasons upfront. We're now coming up on"
+    ],
+    [
+     "del",
+     "S3"
+    ],
+    [
+     "ins",
+     "S3,"
+    ],
+    [
+     "eq",
+     "and based on the teaser the streaming platform unveiled at SDCC, we'll finally get to see Sauron (Charlie Vickers) forging the One Ring."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0561,
+  "numbers_changed": [
+   "10"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9711,
+ "adjudicated_by": "rules"
+}

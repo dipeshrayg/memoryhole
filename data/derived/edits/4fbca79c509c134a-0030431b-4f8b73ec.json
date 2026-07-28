@@ -1,0 +1,112 @@
+{
+ "id": "4fbca79c509c134a-0030431b-4f8b73ec",
+ "url": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-07-28T09:01:33Z",
+ "date": "2026-07-28",
+ "old_title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
+ "new_title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
+ "old_text": "Apple TV is fast eclipsing HBO as the go-to platform for prestige TV, especially science fiction, with standout fare like Slow Horses, Severance, Foundation, For All Mankind, Murderbot, Silo, Pluribus, and Widow's Bay, among others. Add the upcoming Neuromancer series to that list, an adaption of William Gibson's hugely influential 1984 cyberpunk novel of the same name. The streaming platform released a short teaser during San Diego Comic-Con, and visually it looks fantastic, even based on one minute of footage.\nSaturday's various SDCC panels also gave us a teaser for Prime Video's Carrie; trailers for Dark Matter S2 and Matchbox: The Movie; and a bit of Marvel casting news.\nFans of Gibson's book already know the Neuromancer story; we'll have to wait and see how closely the series will adhere to the novel. Per the official logline, the series \"follows a damaged, top-rung super-hacker named Case who is thrust into a web of digital espionage with his partner Molly, a razor-girl assassin with mirrored eyes, aiming to pull a heist on a corporate dynasty with untold secrets.\" Callum Taylor, best known as Theseus Scamander in the Fantastic Beasts franchise, stars as Case, alongside Briana Middleton (The Inheritance) as Molly.\nThe cast also includes a blond-haired Mark Strong as Armitage; Joseph Lee as Hideo; Clemence Poesy as Marie-France Tessier; Peter Sarsgaard as John Ashpool; Emma Laird as Linda Lee; Max Irons as Jean Tessier-Ashpool; Dane DeHaan as Peter Riviera; Marc Menchaca as Dixie Flatline; Andre de Shields as Julius Deane; and Isabella Pappas as Mitchell.\nNeuromancer premieres on January 22, 2027, on Apple TV+.\nCarrie\nI'm a staunch fan of Mike Flanagan's burgeoning horror portfolio, and he has a particular affinity for the works of Stephen King, as evidenced by his film adaptations of Gerald's Game and Doctor Sleep. But I confess to being a wee bit skeptical about his new Prime Video miniseries based on Carrie, King's most famous character, immortalized by Sissy Spacek in the 1976 film. We don't need another disappointing remake so what story is there left to tell-especially stretched out over six episodes?",
+ "new_text": "Apple TV is fast eclipsing HBO as the go-to platform for prestige TV, especially science fiction, with standout fare like Slow Horses, Severance, Foundation, For All Mankind, Murderbot, Silo, Pluribus, and Widow's Bay, among others. Add the upcoming Neuromancer series to that list, an adaptation of William Gibson's hugely influential 1984 cyberpunk novel of the same name. The streaming platform released a short teaser during San Diego Comic-Con, and visually it looks fantastic, even based on one minute of footage.\nSaturday's various SDCC panels also gave us a teaser for Prime Video's Carrie; trailers for Dark Matter S2 and Matchbox: The Movie; and a bit of Marvel casting news.\nFans of Gibson's book already know the Neuromancer story; we'll have to wait to see how closely the series will adhere to the novel. Per the official logline, the series \"follows a damaged, top-rung super-hacker named Case who is thrust into a web of digital espionage with his partner, Molly, a razor-girl assassin with mirrored eyes, aiming to pull a heist on a corporate dynasty with untold secrets.\" Callum Taylor, best known as Theseus Scamander in the Fantastic Beasts franchise, stars as Case, alongside Briana Middleton (The Inheritance) as Molly.\nThe cast also includes a blond-haired Mark Strong as Armitage; Joseph Lee as Hideo; Clemence Poesy as Marie-France Tessier; Peter Sarsgaard as John Ashpool; Emma Laird as Linda Lee; Max Irons as Jean Tessier-Ashpool; Dane DeHaan as Peter Riviera; Marc Menchaca as Dixie Flatline; Andre de Shields as Julius Deane; and Isabella Pappas as Mitchell.\nNeuromancer premieres on January 22, 2027, on Apple TV+.\nCarrie\nI'm a staunch fan of Mike Flanagan's burgeoning horror portfolio, and he has a particular affinity for the works of Stephen King, as evidenced by his film adaptations of Gerald's Game and Doctor Sleep. But I confess to being a wee bit skeptical about his new Prime Video miniseries based on Carrie, King's most famous character, immortalized by Sissy Spacek in the 1976 film. We don't need another disappointing remake, so what story is there left to tell-especially stretched out over six episodes?",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Bay, among others. Add the upcoming Neuromancer series to that list, an"
+    ],
+    [
+     "del",
+     "adaption"
+    ],
+    [
+     "ins",
+     "adaptation"
+    ],
+    [
+     "eq",
+     "of William Gibson's hugely influential 1984 cyberpunk novel of the same name."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of Gibson's book already know the Neuromancer story; we'll have to wait"
+    ],
+    [
+     "del",
+     "and"
+    ],
+    [
+     "ins",
+     "to"
+    ],
+    [
+     "eq",
+     "see how closely the series will adhere to the novel. Per the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Case who is thrust into a web of digital espionage with his"
+    ],
+    [
+     "del",
+     "partner"
+    ],
+    [
+     "ins",
+     "partner,"
+    ],
+    [
+     "eq",
+     "Molly, a razor-girl assassin with mirrored eyes, aiming to pull a heist"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "by Sissy Spacek in the 1976 film. We don't need another disappointing"
+    ],
+    [
+     "del",
+     "remake"
+    ],
+    [
+     "ins",
+     "remake,"
+    ],
+    [
+     "eq",
+     "so what story is there left to tell-especially stretched out over six episodes?"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0231,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9962,
+ "adjudicated_by": "rules"
+}

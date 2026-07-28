@@ -1,0 +1,320 @@
+{
+ "id": "e26e957329cad3ab-857fd082-dc82690b",
+ "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-27-dow-sp-500-nasdaq-080412540.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-07-28T08:54:55Z",
+ "date": "2026-07-28",
+ "old_title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil tumbles, investors brace for busy week",
+ "new_title": "Stock market today: Dow rises, Nasdaq slips as Nvidia leads chip stocks lower, oil prices plunge",
+ "old_text": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil tumbles, investors brace for busy week\nUS stock futures surged on Monday morning as oil sank and markets entered the busiest week of the quarter, jam-packed with more Big Tech earnings and a Federal Reserve decision.\nFutures on the Dow Jones Industrial Average (YM=F) and on the S&P 500 (ES=F) both gained 0.8%. Contracts for the Nasdaq-100 (NQ=F) jumped roughly 1.6% after a choppy week that sent the indexes lower.\nMarket sentiment got a lift over the weekend as the US and Iran paused fighting, raising hopes that peace negotiations could restart after two weeks of attacks. Oil prices tumbled nearly 7% amid renewed optimism about a pathway to end the war, with Brent crude futures trading below $86 a barrel at last check.\nA continued decline in oil prices could take some pressure off the Federal Reserve, which is set to deliver an interest rate decision on Wednesday. The central bank is expected to hold rates steady as officials monitor progress on inflation, though a rate hike is not off the table in one of the least-telegraphed Fed decisions in years.\nTop of mind, meanwhile, will be a wave of earnings reports, including a host of Big Tech earnings from Microsoft (MSFT), Meta Platforms (META), Apple (AAPL), and Amazon (AMZN). All eyes will be on capital expenditure guidance and AI monetization after Alphabet's (GOOG, GOOGL) and Tesla's (TSLA) capex caused a meltdown in the tech sector.\nAmong other corporates, AstraZeneca (AZN) and Nucor Corporation (NUE) kick off the week's earnings calendar, which features SK Hynix (SKHY), Coca-Cola (KO), Starbucks (SBUX), Procter & Gamble (PG), and Arm Holdings (ARM), and concludes with ExxonMobil (XOM) and Chevron (CVX).",
+ "new_text": "US stocks were mixed on Monday, with chip stocks selling off. Oil prices sank, offsetting tech weakness, as markets kicked off the busiest week of the quarter, jam-packed with more Big Tech earnings and a Federal Reserve decision.\nThe Dow Jones Industrial Average (^DJI) gained almost 0.5%, while the S&P 500 (^GSPC) was little changed. The tech-heavy Nasdaq Composite (^IXIC) dropped nearly 0.2% after a choppy week sent the indexes lower.\nMarket sentiment wavered over growing concerns of circular financing, with Nvidia (NVDA) shares tumbling more than 4%. Meanwhile, the Information reported that a Chinese state-backed company began mass-producing a key piece of chipmaking equipment, sending shares of ASML (ASML) down by over 5%.\nTech weakness counteracted optimism from the US and Iran's pause in fighting, which raised hopes that peace negotiations could resume after two weeks of attacks. Oil prices tumbled over 9% amid renewed optimism about a path to end the war, with Brent crude (BZ=F) futures trading below $88 a barrel at last check.\nA continued decline in oil prices could take some pressure off the Federal Reserve, which is set to deliver an interest rate decision on Wednesday. The central bank is expected to hold rates steady as officials monitor progress on inflation, though a rate hike is not off the table in one of the least-telegraphed Fed decisions in years.\nTop of mind, meanwhile, will be a wave of earnings reports, including Big Tech reports from Microsoft (MSFT), Meta Platforms (META), Apple (AAPL), and Amazon (AMZN). All eyes will be on capital expenditure guidance and AI monetization after capex from Alphabet (GOOG, GOOGL) and Tesla (TSLA) triggered a meltdown in the tech sector.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Stock market today: Dow, S&P 500, Nasdaq futures rise"
+    ],
+    [
+     "ins",
+     "US stocks were mixed on Monday, with chip stocks selling off. Oil prices sank, offsetting tech weakness,"
+    ],
+    [
+     "eq",
+     "as"
+    ],
+    [
+     "del",
+     "oil tumbles, investors brace for busy week US stock futures surged on Monday morning as oil sank and"
+    ],
+    [
+     "eq",
+     "markets"
+    ],
+    [
+     "del",
+     "entered"
+    ],
+    [
+     "ins",
+     "kicked off"
+    ],
+    [
+     "eq",
+     "the busiest week of the quarter, jam-packed with more Big Tech earnings and a Federal Reserve decision."
+    ],
+    [
+     "del",
+     "Futures on the"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "Dow Jones Industrial Average"
+    ],
+    [
+     "del",
+     "(YM=F) and on"
+    ],
+    [
+     "ins",
+     "(^DJI) gained almost 0.5%, while"
+    ],
+    [
+     "eq",
+     "the S&P 500"
+    ],
+    [
+     "del",
+     "(ES=F) both gained 0.8%. Contracts for the Nasdaq-100 (NQ=F) jumped roughly 1.6%"
+    ],
+    [
+     "ins",
+     "(^GSPC) was little changed. The tech-heavy Nasdaq Composite (^IXIC) dropped nearly 0.2%"
+    ],
+    [
+     "eq",
+     "after a choppy week"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "eq",
+     "sent the indexes lower. Market sentiment"
+    ],
+    [
+     "del",
+     "got"
+    ],
+    [
+     "ins",
+     "wavered over growing concerns of circular financing, with Nvidia (NVDA) shares tumbling more than 4%. Meanwhile, the Information reported that"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "lift"
+    ],
+    [
+     "ins",
+     "Chinese state-backed company began mass-producing a key piece of chipmaking equipment, sending shares of ASML (ASML) down by"
+    ],
+    [
+     "eq",
+     "over"
+    ],
+    [
+     "del",
+     "the weekend as"
+    ],
+    [
+     "ins",
+     "5%. Tech weakness counteracted optimism from"
+    ],
+    [
+     "eq",
+     "the US and"
+    ],
+    [
+     "del",
+     "Iran paused"
+    ],
+    [
+     "ins",
+     "Iran's pause in"
+    ],
+    [
+     "eq",
+     "fighting,"
+    ],
+    [
+     "del",
+     "raising"
+    ],
+    [
+     "ins",
+     "which raised"
+    ],
+    [
+     "eq",
+     "hopes that peace negotiations could"
+    ],
+    [
+     "del",
+     "restart"
+    ],
+    [
+     "ins",
+     "resume"
+    ],
+    [
+     "eq",
+     "after two weeks of attacks. Oil prices tumbled"
+    ],
+    [
+     "del",
+     "nearly 7%"
+    ],
+    [
+     "ins",
+     "over 9%"
+    ],
+    [
+     "eq",
+     "amid renewed optimism about a"
+    ],
+    [
+     "del",
+     "pathway"
+    ],
+    [
+     "ins",
+     "path"
+    ],
+    [
+     "eq",
+     "to end the war, with Brent crude"
+    ],
+    [
+     "ins",
+     "(BZ=F)"
+    ],
+    [
+     "eq",
+     "futures trading below"
+    ],
+    [
+     "del",
+     "$86"
+    ],
+    [
+     "ins",
+     "$88"
+    ],
+    [
+     "eq",
+     "a barrel at last check. A continued decline in oil prices could"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Top of mind, meanwhile, will be a wave of earnings reports, including"
+    ],
+    [
+     "del",
+     "a host of"
+    ],
+    [
+     "eq",
+     "Big Tech"
+    ],
+    [
+     "del",
+     "earnings"
+    ],
+    [
+     "ins",
+     "reports"
+    ],
+    [
+     "eq",
+     "from Microsoft (MSFT), Meta Platforms (META), Apple (AAPL), and Amazon (AMZN). All eyes will be on capital expenditure guidance and AI monetization after"
+    ],
+    [
+     "del",
+     "Alphabet's"
+    ],
+    [
+     "ins",
+     "capex from Alphabet"
+    ],
+    [
+     "eq",
+     "(GOOG, GOOGL) and"
+    ],
+    [
+     "del",
+     "Tesla's"
+    ],
+    [
+     "ins",
+     "Tesla"
+    ],
+    [
+     "eq",
+     "(TSLA)"
+    ],
+    [
+     "del",
+     "capex caused"
+    ],
+    [
+     "ins",
+     "triggered"
+    ],
+    [
+     "eq",
+     "a meltdown in the tech sector."
+    ],
+    [
+     "del",
+     "Among other corporates, AstraZeneca (AZN) and Nucor Corporation (NUE) kick off the week's earnings calendar, which features SK Hynix (SKHY), Coca-Cola (KO), Starbucks (SBUX), Procter & Gamble (PG), and Arm Holdings (ARM), and concludes with ExxonMobil (XOM) and Chevron (CVX)."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.7153,
+  "numbers_changed": [
+   "0.2",
+   "0.5",
+   "0.8",
+   "1.6",
+   "100",
+   "4",
+   "5",
+   "500",
+   "7",
+   "86",
+   "88",
+   "9"
+  ],
+  "market_figures_changed": [
+   "$86",
+   "$88",
+   "0.2%",
+   "0.5%",
+   "0.8%",
+   "1.6%",
+   "4%",
+   "5%",
+   "7%",
+   "9%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.15,
+ "similarity": 0.7718,
+ "adjudicated_by": "rules"
+}
