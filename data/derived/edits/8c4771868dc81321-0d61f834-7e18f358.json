@@ -1,0 +1,126 @@
+{
+ "id": "8c4771868dc81321-0d61f834-7e18f358",
+ "url": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-07-29T08:56:45Z",
+ "date": "2026-07-29",
+ "old_title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+ "new_title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+ "old_text": "- Published\nShares in major chip firms have fallen sharply in the US and Asia as a sell-off in artificial intelligence-related stocks deepened.\nTrading on South Korea's benchmark Kospi index was paused temporarily on Tuesday morning after sliding by 8%. It fell further after the 20-minute halt was lifted, closing 10.8% lower.\nThe slump was led by technology firms, with Samsung Electronics and SK Hynix both falling by more than 13%.\nIt comes after AI chip giant Nvidia fell by 5% in New York on Monday, meaning it lost its position as the world's most valuable listed company to Apple.\nThe tech-heavy Kospi has been halted multiple times so far this year under a stock market mechanism known as a circuit breaker, which is designed to calm panic selling.\nThe index had more than doubled from the start of the year to mid-June but has since lost around a third of its value.\nIn recent months stock market trading has been particularly volatile in South Korea as it has attracted large numbers of retail investors.\nOn Monday, US-listed shares in SK Hynix fell by 7.5% to well below the $149 (Â£112.11) offer price when it made a record-breaking debut on the Nasdaq on 9 July.\nJapan's Nikkei 225, which is also dominated by tech companies, closed almost 4% lower.\nNvidia shares fell on Monday after the Wall Street Journal reported that it is in talks to provide around $250bn for OpenAI as part of a massive data-centre project.\nThe BBC has contacted Nvidia and OpenAI for comment.\nThe decline allowed Apple to overtake Nvidia as the world's most valuable company after the iPhone maker rose by about 25% this year.\nJun Bei Liu, the founder of investment firm Ten Cap, told the BBC that there are concerns about the amount of money being poured into AI development as well as increasing competition from China.\nAgainst that backdrop, investors are \"taking some profit off the table\" but are likely to reinvest in these stocks after the US holiday season, she said.\nShares in China's biggest memory chip maker, ChangXin Memory Technologies (CXMT), soared by nearly 470% as they made their debut in Shanghai on Monday.\nThe company said said it plans to use most of the proceeds from the initial public offering (IPO) to boost production and carry out more research and development.\nCXMT manufactures dynamic random-access memory (Dram) chips that power AI data centres, mobile phones, PCs, tablets and other devices.",
+ "new_text": "- Published\nShares in major chip firms have fallen sharply in the US and Asia as a sell-off in artificial intelligence-related stocks deepened.\nTrading on South Korea's benchmark Kospi index was paused temporarily on Tuesday morning after sliding by 8%. It fell further after the 20-minute halt was lifted, closing 10.8% lower.\nThe slump was led by technology firms, with Samsung Electronics and SK Hynix both falling by more than 13%.\nIt comes after AI chip giant Nvidia fell by 5% in New York on Monday, meaning it lost its position as the world's most valuable listed company to Apple.\nThe tech-heavy Kospi has been halted multiple times so far this year under a stock market mechanism known as a circuit breaker, which is designed to calm panic selling.\nThe index had more than doubled from the start of the year to mid-June but has since lost around a third of its value.\nIn recent months stock market trading has been particularly volatile in South Korea as it has attracted large numbers of retail investors.\nOn Monday, US-listed shares in SK Hynix fell by 7.5% to well below the $149 (Â£112.11) offer price when it made a record-breaking debut on the Nasdaq on 9 July.\nJapan's Nikkei 225, which is also dominated by tech companies, closed almost 4% lower.\nJane Sydenham, investment director at investment manager Rathbones, said the Asian market slump came after \"phenomenal rises\" over the last few months.\nShe said the Korean market in particular is \"very concentrated\" with a lot of investment in Samsung and SK Synix, both of which fell sharply.\nIn addition, a lot of Korean investors buy stocks with debt, which \"exaggerates the movements when we get a correction like this\".\nSydenham said the sell-off was triggered by Nvidia, whose shares fell on Monday after the Wall Street Journal reported that it is in talks to provide around $250bn for OpenAI as part of a massive data-centre project.\nThe BBC has contacted Nvidia and OpenAI for comment.\nThe decline allowed Apple to overtake Nvidia as the world's most valuable company after the iPhone maker rose by about 25% this year.\nCheng Chye Hsern, head of investments at wealth manager Providend, said Apple is one the few tech firms \"not taking part in the AI race\".\nHe said this makes the stock appealing to investors who are concerned about the billions its rivals are spending on data centres.\nSydenham said AI spending among tech firms is \"something that's been testing investors' nerves on and off in the last couple of months\".\n\"Is it going to earn a proper return in the future? That's what investors are worried about.\"\nJun Bei Liu, the founder of investment firm Ten Cap, told the BBC there are also worries about increasing competition from China.\nAs such, she said investors are \"taking some profit off the table\" but are likely to reinvest in these stocks after the US holiday season, she said.\nShares in China's biggest memory chip maker, ChangXin Memory Technologies (CXMT), soared by nearly 470% as they made their debut in Shanghai on Monday.\nThe company said said it plans to use most of the proceeds from the initial public offering (IPO) to boost production and carry out more research and development.\nCXMT manufactures dynamic random-access memory (Dram) chips that power AI data centres, mobile phones, PCs, tablets and other devices.\nThe big European stock markets all shrugged off the AI spending concerns when they opened on Tuesday.\nThe UK's FTSE 100 index, France's Cac 40, and the German Dax 40 have relatively less exposure to AI and were all around 0.6% up a couple of hours after trading began.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "225, which is also dominated by tech companies, closed almost 4% lower."
+    ],
+    [
+     "del",
+     "Nvidia"
+    ],
+    [
+     "ins",
+     "Jane Sydenham, investment director at investment manager Rathbones, said the Asian market slump came after \"phenomenal rises\" over the last few months. She said the Korean market in particular is \"very concentrated\" with a lot of investment in Samsung and SK Synix, both of which fell sharply. In addition, a lot of Korean investors buy stocks with debt, which \"exaggerates the movements when we get a correction like this\". Sydenham said the sell-off was triggered by Nvidia, whose"
+    ],
+    [
+     "eq",
+     "shares fell on Monday after the Wall Street Journal reported that it"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "valuable company after the iPhone maker rose by about 25% this year."
+    ],
+    [
+     "ins",
+     "Cheng Chye Hsern, head of investments at wealth manager Providend, said Apple is one the few tech firms \"not taking part in the AI race\". He said this makes the stock appealing to investors who are concerned about the billions its rivals are spending on data centres. Sydenham said AI spending among tech firms is \"something that's been testing investors' nerves on and off in the last couple of months\". \"Is it going to earn a proper return in the future? That's what investors are worried about.\""
+    ],
+    [
+     "eq",
+     "Jun Bei Liu, the founder of investment firm Ten Cap, told the BBC"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "eq",
+     "there are"
+    ],
+    [
+     "del",
+     "concerns"
+    ],
+    [
+     "ins",
+     "also worries"
+    ],
+    [
+     "eq",
+     "about"
+    ],
+    [
+     "del",
+     "the amount of money being poured into AI development as well as"
+    ],
+    [
+     "eq",
+     "increasing competition from China."
+    ],
+    [
+     "del",
+     "Against that backdrop,"
+    ],
+    [
+     "ins",
+     "As such, she said"
+    ],
+    [
+     "eq",
+     "investors are \"taking some profit off the table\" but are likely to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "that power AI data centres, mobile phones, PCs, tablets and other devices."
+    ],
+    [
+     "ins",
+     "The big European stock markets all shrugged off the AI spending concerns when they opened on Tuesday. The UK's FTSE 100 index, France's Cac 40, and the German Dax 40 have relatively less exposure to AI and were all around 0.6% up a couple of hours after trading began."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5791,
+  "numbers_changed": [
+   "0.6",
+   "100",
+   "40"
+  ],
+  "market_figures_changed": [
+   "0.6%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 3,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.25,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

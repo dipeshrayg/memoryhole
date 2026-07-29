@@ -1,0 +1,178 @@
+{
+ "id": "4aaf3dd2f20f22a1-e6ff1f31-eeb3f7ce",
+ "url": "https://www.bbc.co.uk/weather/articles/cx2lvg855x8o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-07-29T08:58:41Z",
+ "date": "2026-07-29",
+ "old_title": "July full Moon: How and when to see the 2026 Buck Moon",
+ "new_title": "July full Moon: How and when to see the 2026 Buck Moon",
+ "old_text": "- Published\nThe July full Moon, also known as the Buck Moon, will light up the night sky across the UK in the coming week.\nThe second of three full Moons this summer, it is set to peak at 15:36 BST on 29 July.\nThe exact moment of its maximum fullness will be missed across the UK as the Moon will be just below the horizon.\nHowever, skygazers won't miss out; it will still appear as-full to the naked eye overnight on Tuesday and Wednesday.\nWhy is it called the Buck Moon?\nAs with the other full Moons across the year, it gets its name from events happening in nature around the same time.\nFull Moons were given nicknames around the world as people used them to help keep track of time and monitor the changing seasons.\nThe July full Moon gets its name from the time of year when male deer, or bucks, rapidly grow a new set of antlers.\nThe Royal Observatory in Greenwich also refers to this Moon as the Thunder Moon, due to the summer storms that often happen in this month.\nWill I be able to see it?\nBased on current forecast models, there is a good chance of seeing the Buck Moon across much of the UK on the night of 29 July â particularly in central, southern and eastern areas where skies are expected to remain largely clear.\nNorthern and western parts of the UK may see a little more cloud at times, but widespread cloud or prolonged rain doesn't look likely.\nAcross England, the weather will remain settled with largely clear skies after dark.\nIt will remain very mild overnight with light winds and only a little patchy cloud, so viewing conditions should be favourable.\nFor Scotland, Wales and Northern Ireland, the weather is expected to be a little more mixed, with variable cloud, the odd shower and some clear spells.\nScotland is likely to see the largest amount of cloud, especially in western areas. Eastern and northern districts will have better luck with clear spells between any showers.\nWhat else is happening in the summer sky?\nThe Buck Moon is just one of a number of celestial sights to look for this summer.\nThe Perseid meteor shower is also active throughout the rest of July and much of August.\nThe peak takes place overnight on 12 August into the predawn hours of 13 August.\nThe shower will also coincide with a spectacular solar eclipse, external.\nThe 12 August eclipse will be the first total solar eclipse visible over mainland Europe since 1999, with Spain and northern Portugal being the only places to see totality.\nIn the UK, we will be able to see a partial eclipse when the Moon will cover around 90% of the Sun at its peak.\nA partial lunar eclipse will then follow in the early hours of 28 August.",
+ "new_text": "- Published\nThe July full Moon, also known as the Buck Moon, will light up the night sky across the UK on Wednesday.\nThe second of three full Moons this summer, it is set to peak at 15:36 BST on 29 July.\nThe exact moment of its maximum fullness will be missed across the UK as the Moon will be just below the horizon.\nHowever, skygazers won't miss out; it will still appear as-full to the naked eye overnight on Tuesday and Wednesday.\nWhy is it called the Buck Moon?\nAs with the other full Moons across the year, it gets its name from events happening in nature around the same time.\nFull Moons were given nicknames around the world as people used them to help keep track of time and monitor the changing seasons.\nThe July full Moon gets its name from the time of year when male deer, or bucks, rapidly grow a new set of antlers.\nThe Royal Observatory in Greenwich also refers to this Moon as the Thunder Moon, due to the summer storms that often happen in this month.\nWill I be able to see it?\nBased on current forecast models there is a good chance of seeing the Buck Moon across much of the UK on Wednesday night.\nFor most of England the weather will be very mild, with light winds and largely clear skies after dark so viewing conditions should be favourable.\nAcross north-west England and Wales the remnants of a cold weather front might obscure the sky, but very little rain is expected and the cloud could break.\nIn Northern Ireland the weather is expected to be a little more mixed, with variable cloud, the odd shower and some clear spells.\nScotland though is likely to see the largest amount of cloud, especially in western areas. Eastern and northern districts will have better luck with clear spells between any showers.\nWhat else is happening in the summer sky?\nThe Buck Moon is just one of a number of celestial sights to look for this summer.\nThe Perseid meteor shower is also active throughout the rest of July and much of August.\nThe peak takes place overnight on 12 August into the predawn hours of 13 August.\nThe shower will also coincide with a spectacular solar eclipse, external.\nThe 12 August eclipse will be the first total solar eclipse visible over mainland Europe since 1999, with Spain and northern Portugal being the only places to see totality.\nIn the UK, we will be able to see a partial eclipse when the Moon will cover around 90% of the Sun at its peak.\nA partial lunar eclipse will then follow in the early hours of 28 August.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the Buck Moon, will light up the night sky across the UK"
+    ],
+    [
+     "del",
+     "in the coming week."
+    ],
+    [
+     "ins",
+     "on Wednesday."
+    ],
+    [
+     "eq",
+     "The second of three full Moons this summer, it is set to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "month. Will I be able to see it? Based on current forecast"
+    ],
+    [
+     "del",
+     "models,"
+    ],
+    [
+     "ins",
+     "models"
+    ],
+    [
+     "eq",
+     "there is a good chance of seeing the Buck Moon across much of the UK on"
+    ],
+    [
+     "del",
+     "the night"
+    ],
+    [
+     "ins",
+     "Wednesday night. For most"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "29 July â particularly in central, southern and eastern areas where skies are expected to remain largely clear. Northern and western parts of the UK may see a little more cloud at times, but widespread cloud or prolonged rain doesn't look likely. Across England,"
+    ],
+    [
+     "ins",
+     "England"
+    ],
+    [
+     "eq",
+     "the weather will"
+    ],
+    [
+     "del",
+     "remain settled"
+    ],
+    [
+     "ins",
+     "be very mild,"
+    ],
+    [
+     "eq",
+     "with"
+    ],
+    [
+     "ins",
+     "light winds and"
+    ],
+    [
+     "eq",
+     "largely clear skies after"
+    ],
+    [
+     "del",
+     "dark. It will remain very mild overnight with light winds and only a little patchy cloud,"
+    ],
+    [
+     "ins",
+     "dark"
+    ],
+    [
+     "eq",
+     "so viewing conditions should be favourable."
+    ],
+    [
+     "del",
+     "For Scotland,"
+    ],
+    [
+     "ins",
+     "Across north-west England and"
+    ],
+    [
+     "eq",
+     "Wales"
+    ],
+    [
+     "ins",
+     "the remnants of a cold weather front might obscure the sky, but very little rain is expected"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "ins",
+     "the cloud could break. In"
+    ],
+    [
+     "eq",
+     "Northern"
+    ],
+    [
+     "del",
+     "Ireland,"
+    ],
+    [
+     "ins",
+     "Ireland"
+    ],
+    [
+     "eq",
+     "the weather is expected to be a little more mixed, with variable cloud, the odd shower and some clear spells. Scotland"
+    ],
+    [
+     "ins",
+     "though"
+    ],
+    [
+     "eq",
+     "is likely to see the largest amount of cloud, especially in western"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2386,
+  "numbers_changed": [
+   "29"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 0.9926,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,189 @@
+{
+ "id": "73144f787cc44713-055fc8eb-50e7de34",
+ "url": "https://www.npr.org/2026/07/28/nx-s1-5909368/new-hiv-treatment-options-offer-some-hope-amid-u-s-funding-cuts",
+ "domain": "www.npr.org",
+ "source": "NPR Health",
+ "country": "United States",
+ "category": "health",
+ "lang": "en",
+ "detected_at": "2026-07-29T09:02:34Z",
+ "date": "2026-07-29",
+ "old_title": "New HIV treatment options offer some hope amid U.S. funding cuts",
+ "new_title": "Amid U.S. funding cuts, the International AIDS Conference faces an uncertain future",
+ "old_text": "New HIV treatment options offer some hope amid U.S. funding cuts\nNew HIV treatment options offer some hope amid U.S. funding cuts\nAudio will be available later today.\nThe 26th International AIDS conference convenes this week. U.S. funding for HIV/AIDS work is being delayed or cut altogether, but there are also promising treatments on the horizon.",
+ "new_text": "Amid U.S. funding cuts, the International AIDS Conference faces an uncertain future\n\"Rethink. Rebuild. Rise.\"\nThat's the theme of this year's International AIDS conference, which began this week in Rio de Janeiro.\n\"Rethink\" is perhaps an understatement.\nThis year, there are encouraging signs regarding the ongoing epidemic - even though 1.2 million people acquired the virus in 2025, the number of AIDS-related deaths was 547,000, the lowest number in 30 years.\nYet the fate of the global campaign to end AIDS as a public health threat by 2030 is now in doubt, as the Trump administration's aid cuts have taken a tremendous toll.\n\"The question is no longer whether [we] can end AIDS, the question is whether we choose to end AIDS,\" Winnie Byanyima, the executive director of the agency UNAIDS, said at a press conference on Monday. \"When prevention disappears, infections rise. When treatment is interrupted, people die.\"\n\"The HIV pandemic is not over,\" she said. \"Without urgent action, it could resurge.\"\nEven the future of her agency, which leads the global effort to conquer the disease, is uncertain. The U.N. secretary-general proposed sunsetting the organization by year's end as part of an effort to shrink the U.N. system. After pushback, a final decision has not yet been made.\nAgainst this uncertain backdrop, the some 6,000 HIV researchers, professionals and activists at the conference are indeed rethinking: How do they address the funding disruptions and cuts by the United States, the single-largest funder of global HIV/AIDS programming, whose $6.7 billion support dropped to $4.6 billion last year? How do they respond to new research that points up deep disparities in who has access to care - and ensure that new medications for people living with HIV, which have shown great promise in trials, reach everyone in need?\n\"The last year has been a year of mixed feelings,\" Dr. Kenneth Ngure, a public health expert and president-elect of the International AIDS Society, told NPR. \"We have had very good scientific advances of the new products, yet the funding cuts have also taken us back.\"\nA focus on PEPFAR\nOver the five days of the conference, the focus will be on the impact of cuts to the President's Emergency Plan for AIDS Relief (PEPFAR), the acclaimed program launched by President George W. Bush.\nThe Trump administration slashed 30% of PEPFAR's $4.7 million funding last year. Congress attempted to reinstate the funding to previous levels, but the State Department, which runs PEPFAR, only reported spending 70% of available funds.\nAfter this year's back-and-forth, another funding milestone looms: The Trump administration has announced it will permanently cease PEPFAR funding by early 2027.\nAs the conference kicks off, new surveys of PEPFAR grantees are being shared, indicating the impact of these cuts and delays.\nThe nonprofit amfAR, devoted to AIDS research, education and prevention, will present the results of its survey of recipients of PEPFAR funding conducted between November 2025 and April 2026.\nAmong the findings:\nMost organizations reported scaling back services in response to the cuts and restrictions on the usage of their funding.\nA total of 1,714 clinics, drop-in centers and other providers shut down.\nCommunity-based programs were more affected than those provided by large international aid groups.\nPrevention programs aimed at men who have sex with men, transgender people, sex workers and people who inject drugs were hard-hit.\n\"The PEPFAR that survived is not necessarily the PEPFAR that existed before,\" says Elise Lankiewicz, a policy associate for amfAR.\nAsked to respond to these findings, the State Department sent a statement to NPR saying that it could not verify the amfAR report but called its methodology \"flawed.\"\nThe statement further noted that the Trump administration has \"strengthened PEPFAR through clear strategic direction.\"\nAlso on the agenda: New treatments\nThe week's conference will also include presentations on successes, including trials of two HIV medications: A twice-yearly injection and a weekly pill.\nOver the course of a year, the trials showed that lenacapavir injections had \"superior efficacy\" in preventing HIV transmission compared to daily oral medications, the researchers wrote. The weekly pills were also shown to be just as effective as a daily dose and had relatively few side effects.\nThese options make it easier for people living with HIV to keep their viral load suppressed to a level that is undetectable, protecting their health and preventing them from passing HIV on to their partners. The medications can also be used preventively, for people at a high risk of contracting HIV.\nYet the funding cuts could keep this medication out of reach for many people living with HIV, says Dr. Kenneth Ngure of the International AIDS Society.\n\"We are not too sure whether these products will be able to be scaled up, and whether they are going to reach the people who need them most,\" he says.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "New HIV treatment options offer some hope amid"
+    ],
+    [
+     "ins",
+     "Amid"
+    ],
+    [
+     "eq",
+     "U.S. funding"
+    ],
+    [
+     "ins",
+     "cuts, the International AIDS Conference faces an uncertain future \"Rethink. Rebuild. Rise.\" That's the theme of this year's International AIDS conference, which began this week in Rio de Janeiro. \"Rethink\" is perhaps an understatement. This year, there are encouraging signs regarding the ongoing epidemic - even though 1.2 million people acquired the virus in 2025, the number of AIDS-related deaths was 547,000, the lowest number in 30 years. Yet the fate of the global campaign to end AIDS as a public health threat by 2030 is now in doubt, as the Trump administration's aid"
+    ],
+    [
+     "eq",
+     "cuts"
+    ],
+    [
+     "del",
+     "New"
+    ],
+    [
+     "ins",
+     "have taken a tremendous toll. \"The question is no longer whether [we] can end AIDS, the question is whether we choose to end AIDS,\" Winnie Byanyima, the executive director of the agency UNAIDS, said at a press conference on Monday. \"When prevention disappears, infections rise. When treatment is interrupted, people die.\" \"The"
+    ],
+    [
+     "eq",
+     "HIV"
+    ],
+    [
+     "del",
+     "treatment options offer"
+    ],
+    [
+     "ins",
+     "pandemic is not over,\" she said. \"Without urgent action, it could resurge.\" Even the future of her agency, which leads the global effort to conquer the disease, is uncertain. The U.N. secretary-general proposed sunsetting the organization by year's end as part of an effort to shrink the U.N. system. After pushback, a final decision has not yet been made. Against this uncertain backdrop, the"
+    ],
+    [
+     "eq",
+     "some"
+    ],
+    [
+     "del",
+     "hope amid U.S."
+    ],
+    [
+     "ins",
+     "6,000 HIV researchers, professionals and activists at the conference are indeed rethinking: How do they address the funding disruptions and cuts by the United States, the single-largest funder of global HIV/AIDS programming, whose $6.7 billion support dropped to $4.6 billion last year? How do they respond to new research that points up deep disparities in who has access to care - and ensure that new medications for people living with HIV, which have shown great promise in trials, reach everyone in need? \"The last year has been a year of mixed feelings,\" Dr. Kenneth Ngure, a public health expert and president-elect of the International AIDS Society, told NPR. \"We have had very good scientific advances of the new products, yet the"
+    ],
+    [
+     "eq",
+     "funding cuts"
+    ],
+    [
+     "del",
+     "Audio"
+    ],
+    [
+     "ins",
+     "have also taken us back.\" A focus on PEPFAR Over the five days of the conference, the focus"
+    ],
+    [
+     "eq",
+     "will be"
+    ],
+    [
+     "ins",
+     "on the impact of cuts to the President's Emergency Plan for AIDS Relief (PEPFAR), the acclaimed program launched by President George W. Bush. The Trump administration slashed 30% of PEPFAR's $4.7 million funding last year. Congress attempted to reinstate the funding to previous levels, but the State Department, which runs PEPFAR, only reported spending 70% of"
+    ],
+    [
+     "eq",
+     "available"
+    ],
+    [
+     "del",
+     "later today."
+    ],
+    [
+     "ins",
+     "funds. After this year's back-and-forth, another funding milestone looms:"
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "26th"
+    ],
+    [
+     "ins",
+     "Trump administration has announced it will permanently cease PEPFAR funding by early 2027. As the conference kicks off, new surveys of PEPFAR grantees are being shared, indicating the impact of these cuts and delays. The nonprofit amfAR, devoted to AIDS research, education and prevention, will present the results of its survey of recipients of PEPFAR funding conducted between November 2025 and April 2026. Among the findings: Most organizations reported scaling back services in response to the cuts and restrictions on the usage of their funding. A total of 1,714 clinics, drop-in centers and other providers shut down. Community-based programs were more affected than those provided by large international aid groups. Prevention programs aimed at men who have sex with men, transgender people, sex workers and people who inject drugs were hard-hit. \"The PEPFAR that survived is not necessarily the PEPFAR that existed before,\" says Elise Lankiewicz, a policy associate for amfAR. Asked to respond to these findings, the State Department sent a statement to NPR saying that it could not verify the amfAR report but called its methodology \"flawed.\" The statement further noted that the Trump administration has \"strengthened PEPFAR through clear strategic direction.\" Also on the agenda: New treatments The week's conference will also include presentations on successes, including trials of two HIV medications: A twice-yearly injection and a weekly pill. Over the course of a year, the trials showed that lenacapavir injections had \"superior efficacy\" in preventing HIV transmission compared to daily oral medications, the researchers wrote. The weekly pills were also shown to be just as effective as a daily dose and had relatively few side effects. These options make it easier for people living with HIV to keep their viral load suppressed to a level that is undetectable, protecting their health and preventing them from passing HIV on to their partners. The medications can also be used preventively, for people at a high risk of contracting HIV. Yet the funding cuts could keep this medication out of reach for many people living with HIV, says Dr. Kenneth Ngure of the"
+    ],
+    [
+     "eq",
+     "International AIDS"
+    ],
+    [
+     "del",
+     "conference convenes this week. U.S. funding for HIV/AIDS work is being delayed or cut altogether, but there"
+    ],
+    [
+     "ins",
+     "Society. \"We"
+    ],
+    [
+     "eq",
+     "are"
+    ],
+    [
+     "del",
+     "also promising treatments on"
+    ],
+    [
+     "ins",
+     "not too sure whether these products will be able to be scaled up, and whether they are going to reach"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "horizon."
+    ],
+    [
+     "ins",
+     "people who need them most,\" he says."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 14.8036,
+  "numbers_changed": [
+   "1,714",
+   "1.2",
+   "2025",
+   "2026",
+   "2027",
+   "2030",
+   "26",
+   "30",
+   "4.6",
+   "4.7",
+   "547,000",
+   "6,000",
+   "6.7",
+   "70"
+  ],
+  "market_figures_changed": [
+   "$4.6 billion",
+   "$4.7 m",
+   "$6.7 billion",
+   "30%",
+   "70%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 6,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.6,
+ "similarity": 0.6389,
+ "adjudicated_by": "rules"
+}

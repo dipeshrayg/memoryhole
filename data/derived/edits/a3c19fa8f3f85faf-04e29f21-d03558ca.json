@@ -1,0 +1,52 @@
+{
+ "id": "a3c19fa8f3f85faf-04e29f21-d03558ca",
+ "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Technology",
+ "country": "United Kingdom",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-07-29T08:59:03Z",
+ "date": "2026-07-29",
+ "old_title": "Some people's chats with Claude AI found publicly available online",
+ "new_title": "Some people's chats with Claude AI found publicly available online",
+ "old_text": "- Published\nHundreds of user conversations with Anthropic's popular artificial intelligence (AI) chatbot Claude were found to have been available to essentially anyone online.\nLinks to the chats, some of which included personal and work information, would show up if a user of a search engine like Google used a site-specific search term.\nThe searches showed Claude chats for which a user had decided to \"share\" a link had been saved by search engines like Google, leaving them accessible to the broader public.\nThe search availability of the chat logs was removed over the weekend, but many were saved and shared widely online.\nA spokeswoman for Anthropic said that Claude users maintained control over if and when to share conversations they had with the chatbot.\nShe said links to conversations were \"not guessable or discoverable unless people choose to share them themselves\".\n\"When someone shares a conversation, they are making that content publicly accessible, and like other public web content, it may be archived by third-party services,\" the spokeswoman added.\nThe share option within Claude tells a user that \"anyone with the link\" may view the contents of that link, but does not explicitly state that the link may end up in Google and search results.\nUsers on Reddit initially discovered, external the publicly available chats, which covered more than 200 conversations with Claude across at least 25 pages of search results - some taking place just weeks ago.\nIn the conversations, users prompted the chatbot to respond to a wide array of topics.\nChat logs include a user asking Claude last year whether it wanted \"to help me or do you want to help anthropic more?\". The chatbot responded in part, saying \"I experience something like wanting to help you\".\nIn one conversation from April, a user prompted Claude to draft an unpublished blog post about cloud security involving details of a corporate project. In another from last month, a user asked Claude how to \"become become Nine-tailed fox?\", before clarifying they wanted to literally transform from human to the creature.\nClaude first tried to show the user an AI-generated image claiming they had been given \"fully functional fox powers!\".\nOther conversations with Claude included users seeking help with their resumes, including their names, contact information and work history. Some users even conducted what appeared to be proprietary research for their work, such as in healthcare, including transcripts of private conversations.\nWhen OpenAI last year experienced an almost identical issue with ChatGPT chat logs being made publicly accessible, external, the company ultimately changed, external the ease with which such logs were accessible.\nGrok, the AI chatbot within X, the social platform owned by Elon Musk, also last year saw hundreds of thousands of chat logs made publicly available though online search.\nA spokesman for Google made clear to the BBC that the company does not control \"what pages are made public on the web,\" saying instead that action comes from websites.\n\"We give site owners clear controls to decide whether pages can be crawled or indexed, and we always respect those directives.\"\nAs the search indexing of the chat logs is no longer occurring, it is likely Anthropic used available tools to quickly block the chat log links from search results. Google's process for a website owner to block a link, external is straightforward, but must be initiated by a website owner.\nOther search engines like Bing, Brave and Duck Duck Go, through which the Claude chat logs also appeared, were approached for comment.",
+ "new_text": "- Published\nHundreds of user conversations with Anthropic's popular artificial intelligence (AI) chatbot Claude were found to have been available to essentially anyone online.\nLinks to the chats, some of which included personal and work information, would show up if a user of a search engine like Google used a site-specific search term.\nThe searches showed Claude chats for which a user had decided to \"share\" a link had been saved by search engines like Google, leaving them accessible to the broader public.\nThe search availability of the chat logs was removed over the weekend, but many were saved and shared widely online.\nA spokeswoman for Anthropic said that Claude users maintained control over if and when to share conversations they had with the chatbot.\nShe said links to conversations were \"not guessable or discoverable unless people choose to share them themselves\".\n\"When someone shares a conversation, they are making that content publicly accessible, and like other public web content, it may be archived by third-party services,\" the spokeswoman added.\nThe share option within Claude tells a user that \"anyone with the link\" may view the contents of that link, but does not explicitly state that the link may end up in Google and search results.\nUsers on Reddit initially discovered, external the publicly available chats, which covered more than 200 conversations with Claude across at least 25 pages of search results - some taking place just weeks ago.\nIn the conversations, users prompted the chatbot to respond to a wide array of topics.\nChat logs include a user asking Claude last year whether it wanted \"to help me or do you want to help anthropic more?\". The chatbot responded in part, saying \"I experience something like wanting to help you\".\nIn one conversation from April, a user prompted Claude to draft an unpublished blog post about cloud security involving details of a corporate project. In another from last month, a user asked Claude how to \"become become Nine-tailed fox?\", before clarifying they wanted to literally transform from human to the creature.\nClaude first tried to show the user an AI-generated image claiming they had been given \"fully functional fox powers!\".\nOther conversations with Claude included users seeking help with their CVs, including their names, contact information and work history. Some users even conducted what appeared to be proprietary research for their work, such as in healthcare, including transcripts of private conversations.\nWhen OpenAI last year experienced an almost identical issue with ChatGPT chat logs being made publicly accessible, external, the company ultimately changed, external the ease with which such logs were accessible.\nGrok, the AI chatbot within X, the social platform owned by Elon Musk, also last year saw hundreds of thousands of chat logs made publicly available though online search.\nA spokesman for Google made clear to the BBC that the company does not control \"what pages are made public on the web,\" saying instead that action comes from websites.\n\"We give site owners clear controls to decide whether pages can be crawled or indexed, and we always respect those directives.\"\nAs the search indexing of the chat logs is no longer occurring, it is likely Anthropic used available tools to quickly block the chat log links from search results. Google's process for a website owner to block a link, external is straightforward, but must be initiated by a website owner.\nOther search engines like Bing, Brave and Duck Duck Go, through which the Claude chat logs also appeared, were approached for comment.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "fox powers!\". Other conversations with Claude included users seeking help with their"
+    ],
+    [
+     "del",
+     "resumes,"
+    ],
+    [
+     "ins",
+     "CVs,"
+    ],
+    [
+     "eq",
+     "including their names, contact information and work history. Some users even conducted"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0034,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

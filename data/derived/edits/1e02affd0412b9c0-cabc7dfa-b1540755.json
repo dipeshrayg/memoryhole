@@ -1,0 +1,140 @@
+{
+ "id": "1e02affd0412b9c0-cabc7dfa-b1540755",
+ "url": "https://www.independent.co.uk/arts-entertainment/tv/news/bbc-breakfast-naga-munchetty-exit-b3022815.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-29T08:53:39Z",
+ "date": "2026-07-29",
+ "old_title": "BBC Breakfast star to leave after 17 years: 'It has been a privilege'",
+ "new_title": "BBC Breakfast star to leave after 17 years: 'It has been a privilege'",
+ "old_text": "The BBC has announced that Naga Munchetty will be leaving BBC Breakfast after 17 years on the show.\nMunchetty, who first joined BBC Breakfast as a stand-in presenter back in 2009, will be heading to BBC Radio 5 Live, where she will present its flagship morning programme from January 2027. The move follows a series of personnel and schedule changes on the show, with weekend host Rachel Burden announcing earlier this month that she would also be leaving the programme.\nIn a statement, Munchetty said that she's \"thrilled\" to be joining 5 Live Breakfast. \"Live news, great conversations and connecting with audiences are what I love most about broadcasting, and 5 Live does all of that brilliantly,\" she said.\n\"It has been a privilege to be part of the BBC Breakfast TV team for the past 17 years, working alongside an incredibly talented and hard-working group of journalists who are not only outstanding colleagues but also great friends. Presenting a flagship programme on 5 Live is an opportunity that was simply too good to pass up. It will take a huge amount of work and require 100% of my focus and energy, and I'm really looking forward to throwing myself into the role.\"\nHaving presented the station's weekday mid-morning programme since 2021, Munchetty added that she's \"excited to build\" on her existing relationship with listeners. \"Between now and January, I'll continue presenting the two programmes I love,\" she said. \"I'm sure there will be plenty of news to cover, and it will very much be business as usual.\"\nAs for the current hosts of 5Live Breakfast, Rick Edwards and Burden announced on Tuesday (28 July) that they would be stepping down from the show in December. Instead, Burden will host the weekday mid-morning programme, while Edwards continues to present Fighting Talk, which airs on the station on Saturday mornings.\nMore to follow.",
+ "new_text": "The BBC has announced that Naga Munchetty will be leaving BBC Breakfast after 17 years on the show.\nMunchetty, who first joined BBC Breakfast as a stand-in presenter back in 2009, will be heading to BBC Radio 5 Live, where she will present its flagship morning programme from January 2027.\nLast year, the BBC reportedly launched an investigation into allegations of bullying levelled at Munchetty. At the time, the broadcaster gave no details and said it \"did not comment on individual HR matters\". The BBC has not said that the bullying investigation was related to her exit.\nIn a statement, Munchetty said that she's \"thrilled\" to be joining 5 Live Breakfast. \"Live news, great conversations and connecting with audiences are what I love most about broadcasting, and 5 Live does all of that brilliantly,\" she said.\n\"It has been a privilege to be part of the BBC Breakfast TV team for the past 17 years, working alongside an incredibly talented and hard-working group of journalists who are not only outstanding colleagues but also great friends.\n\"Presenting a flagship programme on 5 Live is an opportunity that was simply too good to pass up. It will take a huge amount of work and require 100% of my focus and energy, and I'm really looking forward to throwing myself into the role.\"\nHaving presented the station's weekday mid-morning programme since 2021, Munchetty added that she's \"excited to build\" on her existing relationship with listeners. \"Between now and January, I'll continue presenting the two programmes I love,\" she said. \"I'm sure there will be plenty of news to cover, and it will very much be business as usual.\"\nMunchetty was reportedly placed under review in August last year following complaints of bullying over a three-year period. She was accused of bullying a female colleague at BBC Breakfast and making a sex joke off-air, according to The Sun. The outcome of the investigation is currently unknown.\nThe move follows a series of personnel and schedule changes on the show, with weekend host Rachel Burden announcing earlier this month that she would also be leaving the series.\nAs for the current hosts of 5Live Breakfast, Rick Edwards and Burden announced on Tuesday (28 July) that they would be stepping down from the show in December. Instead, Burden will host the weekday mid-morning programme, while Edwards continues to present Fighting Talk, which airs on the station on Saturday mornings.\n\"After 15 years hosting 5 Live Breakfast, I've decided it's time for a change - and I'm really excited about launching my new show on the station,\" Burden said. \"It's been an absolute joy and privilege to be part of our listeners' mornings for all these years. We have been through life-changing events together - from the pandemic to huge political moments, and great sporting journeys.\n\"They are my extended family, and we'll carry on doing what we do best - telling stories, sharing experiences and working out the world together. Just this time, on a little bit more sleep.\"\nEdwards added that his five years on the show look \"inconsequential\" next to Burden's 15.\n\"I'll really miss our wonderful audience, I'll miss the fantastic team, I'll miss regularly eating cake before dawn, but most of all I'll miss Rach - a colleague who has become a friend, and also a mentor, because she's so much older than me,\" he added.\n\"Two things I am of course looking forward to are not waking up at 3.45am, and vaping without fear of violent recrimination.\"\nMunchetty is set to broadcast live from Salford for three days a week, while the remaining two will be from London. She'll also be joined by a new co-host on 5 Live Breakfast, who will be announced later in the year.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Live, where she will present its flagship morning programme from January 2027."
+    ],
+    [
+     "ins",
+     "Last year, the BBC reportedly launched an investigation into allegations of bullying levelled at Munchetty. At the time, the broadcaster gave no details and said it \"did not comment on individual HR matters\"."
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "move follows a series of personnel and schedule changes on"
+    ],
+    [
+     "ins",
+     "BBC has not said that"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "show, with weekend host Rachel Burden announcing earlier this month that she would also be leaving the programme."
+    ],
+    [
+     "ins",
+     "bullying investigation was related to her exit."
+    ],
+    [
+     "eq",
+     "In a statement, Munchetty said that she's \"thrilled\" to be joining 5"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of journalists who are not only outstanding colleagues but also great friends."
+    ],
+    [
+     "del",
+     "Presenting"
+    ],
+    [
+     "ins",
+     "\"Presenting"
+    ],
+    [
+     "eq",
+     "a flagship programme on 5 Live is an opportunity that was simply"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "news to cover, and it will very much be business as usual.\""
+    ],
+    [
+     "ins",
+     "Munchetty was reportedly placed under review in August last year following complaints of bullying over a three-year period. She was accused of bullying a female colleague at BBC Breakfast and making a sex joke off-air, according to The Sun. The outcome of the investigation is currently unknown. The move follows a series of personnel and schedule changes on the show, with weekend host Rachel Burden announcing earlier this month that she would also be leaving the series."
+    ],
+    [
+     "eq",
+     "As for the current hosts of 5Live Breakfast, Rick Edwards and Burden"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to present Fighting Talk, which airs on the station on Saturday mornings."
+    ],
+    [
+     "del",
+     "More"
+    ],
+    [
+     "ins",
+     "\"After 15 years hosting 5 Live Breakfast, I've decided it's time for a change - and I'm really excited about launching my new show on the station,\" Burden said. \"It's been an absolute joy and privilege"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "follow."
+    ],
+    [
+     "ins",
+     "be part of our listeners' mornings for all these years. We have been through life-changing events together - from the pandemic to huge political moments, and great sporting journeys. \"They are my extended family, and we'll carry on doing what we do best - telling stories, sharing experiences and working out the world together. Just this time, on a little bit more sleep.\" Edwards added that his five years on the show look \"inconsequential\" next to Burden's 15. \"I'll really miss our wonderful audience, I'll miss the fantastic team, I'll miss regularly eating cake before dawn, but most of all I'll miss Rach - a colleague who has become a friend, and also a mentor, because she's so much older than me,\" he added. \"Two things I am of course looking forward to are not waking up at 3.45am, and vaping without fear of violent recrimination.\" Munchetty is set to broadcast live from Salford for three days a week, while the remaining two will be from London. She'll also be joined by a new co-host on 5 Live Breakfast, who will be announced later in the year."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.2083,
+  "numbers_changed": [
+   "15",
+   "3.45",
+   "5"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 4,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 0.9456,
+ "adjudicated_by": "rules"
+}

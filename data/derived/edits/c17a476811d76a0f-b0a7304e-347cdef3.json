@@ -1,0 +1,197 @@
+{
+ "id": "c17a476811d76a0f-b0a7304e-347cdef3",
+ "url": "https://www.abc.net.au/news/2026-07-28/magnitude-7-1-earthquake-hits-japan-kumamoto-prefecture/106968604",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-29T08:52:49Z",
+ "date": "2026-07-29",
+ "old_title": "Breaking: Magnitude-7.1 quake hits Japan, sparks tsunami warnings",
+ "new_title": "Multiple people feared dead in collapsed shopping mall following Japan quake",
+ "old_text": "Japan's Kyushu island hit by two strong earthquakes within an hour\nIn short:\nJapan's Kyushu island has been struck by two strong earthquakes within an hour.\nAn initial magnitude-7.1 quake hit the Kumamoto prefecture at 4:35pm local time, before another magnitude-6.1 tremor struck 45 minutes later.\nWhat's next?\nThe initial tremor sparked tsunami alerts for at least two prefectures, with waves of up to one metre expected.",
+ "new_text": "In short:\nJapan's Kyushu island has been struck by two strong earthquakes within an hour and dozens of after shocks.\n\"Many people\" have been trapped at the Aeon Mall shopping centre after the complex's second floor collapsed and two women have been confirmed as dead.\nWhat's next?\nJapan's prime minister says a major rescue operation will continue through the night after human casualties, building collapses and road damage had been reported.\nJapan's south-western Kyushu island has been struck by two strong earthquakes within an hour, with multiple people presumed dead after an explosion at a shopping centre.\nAn initial magnitude-7.1 quake hit the Kumamoto south-western prefecture at 4:35pm local time (5:35pm AEST) on Tuesday.\nThe magnitude was later revised down to 6.8, according to the US Geological Survey.\nThe prefecture was then struck by 26 additional aftershocks ranging in magnitude between 3.3 and 4.5, before a magnitude-6.1 tremor was recorded at 5:12pm (6:12pm AEST).\nLoading...The quakes hit just south of the town of Uki, near the prefecture's capital city, local authorities reported.\n\"Human casualties, building collapses, road damage, fires... have been confirmed so far,\" Japan's Prime Minister Sanae Takaichi said.\n\"I extend my heartfelt sympathies to everyone affected by this disaster.\"\nA major rescue operation is underway at the Aeon Mall shopping centre where \"many people\" have been trapped after the complex's second floor collapsed and two women have been confirmed dead, Japan's public broadcaster NHK is reporting, citing local officials.\nPolice said \"quite a few\" were presumed dead in the incident, broadcaster TBS reported.\nAn Aeon spokesperson said customers and employees were evacuated right after the initial quake and that the exact cause of the ensuing explosion was unclear.\nBetween 20 and 30 workers trapped at the mall could not be reached, according to broadcaster NHK.\nThe shopping centre, which had about 200 shops and businesses inside, had only recently reopened after it was badly damaged in the magnitude 7.3 Kumamoto earthquake in April 2016.\nKazuya Tsurunaga told TBS he heard the explosion while cleaning up dishes broken by the earthquake inside a pub about 300 metres from the Aeon mall.\n\"It was a huge impact,\" he said.\n\"A large cloud of smoke billowed up, and because the wind happened to be blowing and the wind direction was towards the shop, the area around us was in a state like volcanic ash was falling.\"\nMultiple people were also unaccounted-for after a chimney collapsed at a Nippon Paper Industries factory, NHK reported.\nSeismology authorities from Geoscience Australia and the United States Geological Survey reported the initial quake struck at a depth of 10 kilometres below the sea's surface.\nA tsunami warning for a wave measuring 1 metre was issued after the earthquake, the JMA said.\nThe warning was lifted about two hours later.\nJapan's Meteorological Agency (JMA) has recorded at least 75 additional quakes in the Kumamoto Prefecture, which could remain a concern for about a week after the initial earthquake.\nUrgent response\nThe Japanese government also issued emergency earthquake warnings for Kumamoto, Nagasaki, Kagoshima, Fukuoka, Saga, Oita, and Miyazaki prefectures, all on Japan's southern Kyushu island.\nThe tremor caused power outages for at least 48,000 households in the Kumamoto prefecture, and fires broke out in several locations, broadcaster NHK reported.\nMs Takaichi also confirmed a meeting of the country's Emergency Assembly Team was called in the Countermeasures Room to assess the quake.\nShe said local fire stations were responding to the incidents and urged all people to stay away from the coast.\n\"The investigation team was dispatched from the government cabinet office and human and physical casualties have been investigated,\" Ms Takaichi told the media.\n\"There are places where power outages are taking place. I urge people to take shelter and evacuate to safe places.\"\nNHK reported that police are seeking the whereabouts of nine people and that a train was derailed during the earthquake.\nMs Takaichi released a statement on X urging local government ministries and emergency response agencies to immediately assess damage and prioritise any necessary rescue of residents.\nKyushu Electric Power said there were no reports of irregularities at its Sendai and Genkai nuclear power stations after the earthquake.\nJapan's Nuclear Regulation Authority said no abnormalities were found at three nearby nuclear power plants.\nThe UN nuclear watchdog said on Tuesday that Japan's nuclear regulation authority has informed it that there is no damage or safety issues at the Sendai nuclear power plant after a 7.1-magnitude earthquake hit Japan's southern Kumamoto prefecture.\n\"The IAEA will continue to monitor the situation,\" said the watchdog in a post on X.\nTrain operator JR Kyushu said it had suspended services, including its high-speed Shinkansen trains, following the quake.\nKumamoto airport has also shut its runway, as airlines diverted and cancelled flights, with the airport planning \"to resume normal operations\" on Wednesday.\nLoading...Earthquake-prone area\nJapan is one of the world's most earthquake-prone countries, with a tremor occurring at least every five minutes.\nLocated along the \"Ring of Fire\" of volcanoes and oceanic trenches partly encircling the Pacific Basin, Japan accounts for about 20 per cent of the world's earthquakes of magnitude-6 or more.\nKumamoto was hit with a deadly quake in 2016 that left more than 50 people dead, 1,800 injured and tens of thousands of homes damaged or destroyed.\nAP/Reuters",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Japan's Kyushu island hit by two strong earthquakes within an hour"
+    ],
+    [
+     "eq",
+     "In short: Japan's Kyushu island has been struck by two strong earthquakes within an"
+    ],
+    [
+     "del",
+     "hour."
+    ],
+    [
+     "ins",
+     "hour and dozens of after shocks. \"Many people\" have been trapped at the Aeon Mall shopping centre after the complex's second floor collapsed and two women have been confirmed as dead. What's next? Japan's prime minister says a major rescue operation will continue through the night after human casualties, building collapses and road damage had been reported. Japan's south-western Kyushu island has been struck by two strong earthquakes within an hour, with multiple people presumed dead after an explosion at a shopping centre."
+    ],
+    [
+     "eq",
+     "An initial magnitude-7.1 quake hit the Kumamoto"
+    ],
+    [
+     "ins",
+     "south-western"
+    ],
+    [
+     "eq",
+     "prefecture at 4:35pm local"
+    ],
+    [
+     "del",
+     "time,"
+    ],
+    [
+     "ins",
+     "time (5:35pm AEST) on Tuesday. The magnitude was later revised down to 6.8, according to the US Geological Survey. The prefecture was then struck by 26 additional aftershocks ranging in magnitude between 3.3 and 4.5,"
+    ],
+    [
+     "eq",
+     "before"
+    ],
+    [
+     "del",
+     "another"
+    ],
+    [
+     "ins",
+     "a"
+    ],
+    [
+     "eq",
+     "magnitude-6.1 tremor"
+    ],
+    [
+     "ins",
+     "was recorded at 5:12pm (6:12pm AEST). Loading...The quakes hit just south of the town of Uki, near the prefecture's capital city, local authorities reported. \"Human casualties, building collapses, road damage, fires... have been confirmed so far,\" Japan's Prime Minister Sanae Takaichi said. \"I extend my heartfelt sympathies to everyone affected by this disaster.\" A major rescue operation is underway at the Aeon Mall shopping centre where \"many people\" have been trapped after the complex's second floor collapsed and two women have been confirmed dead, Japan's public broadcaster NHK is reporting, citing local officials. Police said \"quite a few\" were presumed dead in the incident, broadcaster TBS reported. An Aeon spokesperson said customers and employees were evacuated right after the initial quake and that the exact cause of the ensuing explosion was unclear. Between 20 and 30 workers trapped at the mall could not be reached, according to broadcaster NHK. The shopping centre, which had about 200 shops and businesses inside, had only recently reopened after it was badly damaged in the magnitude 7.3 Kumamoto earthquake in April 2016. Kazuya Tsurunaga told TBS he heard the explosion while cleaning up dishes broken by the earthquake inside a pub about 300 metres from the Aeon mall. \"It was a huge impact,\" he said. \"A large cloud of smoke billowed up, and because the wind happened to be blowing and the wind direction was towards the shop, the area around us was in a state like volcanic ash was falling.\" Multiple people were also unaccounted-for after a chimney collapsed at a Nippon Paper Industries factory, NHK reported. Seismology authorities from Geoscience Australia and the United States Geological Survey reported the initial quake"
+    ],
+    [
+     "eq",
+     "struck"
+    ],
+    [
+     "del",
+     "45 minutes"
+    ],
+    [
+     "ins",
+     "at a depth of 10 kilometres below the sea's surface. A tsunami warning for a wave measuring 1 metre was issued after the earthquake, the JMA said. The warning was lifted about two hours"
+    ],
+    [
+     "eq",
+     "later."
+    ],
+    [
+     "del",
+     "What's next?"
+    ],
+    [
+     "ins",
+     "Japan's Meteorological Agency (JMA) has recorded at least 75 additional quakes in the Kumamoto Prefecture, which could remain a concern for about a week after the initial earthquake. Urgent response"
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "initial"
+    ],
+    [
+     "ins",
+     "Japanese government also issued emergency earthquake warnings for Kumamoto, Nagasaki, Kagoshima, Fukuoka, Saga, Oita, and Miyazaki prefectures, all on Japan's southern Kyushu island. The"
+    ],
+    [
+     "eq",
+     "tremor"
+    ],
+    [
+     "del",
+     "sparked tsunami alerts"
+    ],
+    [
+     "ins",
+     "caused power outages"
+    ],
+    [
+     "eq",
+     "for at least"
+    ],
+    [
+     "del",
+     "two prefectures,"
+    ],
+    [
+     "ins",
+     "48,000 households in the Kumamoto prefecture, and fires broke out in several locations, broadcaster NHK reported. Ms Takaichi also confirmed a meeting of the country's Emergency Assembly Team was called in the Countermeasures Room to assess the quake. She said local fire stations were responding to the incidents and urged all people to stay away from the coast. \"The investigation team was dispatched from the government cabinet office and human and physical casualties have been investigated,\" Ms Takaichi told the media. \"There are places where power outages are taking place. I urge people to take shelter and evacuate to safe places.\" NHK reported that police are seeking the whereabouts of nine people and that a train was derailed during the earthquake. Ms Takaichi released a statement on X urging local government ministries and emergency response agencies to immediately assess damage and prioritise any necessary rescue of residents. Kyushu Electric Power said there were no reports of irregularities at its Sendai and Genkai nuclear power stations after the earthquake. Japan's Nuclear Regulation Authority said no abnormalities were found at three nearby nuclear power plants. The UN nuclear watchdog said on Tuesday that Japan's nuclear regulation authority has informed it that there is no damage or safety issues at the Sendai nuclear power plant after a 7.1-magnitude earthquake hit Japan's southern Kumamoto prefecture. \"The IAEA will continue to monitor the situation,\" said the watchdog in a post on X. Train operator JR Kyushu said it had suspended services, including its high-speed Shinkansen trains, following the quake. Kumamoto airport has also shut its runway, as airlines diverted and cancelled flights,"
+    ],
+    [
+     "eq",
+     "with"
+    ],
+    [
+     "del",
+     "waves"
+    ],
+    [
+     "ins",
+     "the airport planning \"to resume normal operations\" on Wednesday. Loading...Earthquake-prone area Japan is one"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "up to one metre expected."
+    ],
+    [
+     "ins",
+     "the world's most earthquake-prone countries, with a tremor occurring at least every five minutes. Located along the \"Ring of Fire\" of volcanoes and oceanic trenches partly encircling the Pacific Basin, Japan accounts for about 20 per cent of the world's earthquakes of magnitude-6 or more. Kumamoto was hit with a deadly quake in 2016 that left more than 50 people dead, 1,800 injured and tens of thousands of homes damaged or destroyed. AP/Reuters"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 13.0448,
+  "numbers_changed": [
+   "1",
+   "1,800",
+   "10",
+   "12",
+   "20",
+   "200",
+   "2016",
+   "26",
+   "3.3",
+   "30",
+   "300",
+   "35",
+   "4.5",
+   "45",
+   "48,000",
+   "5",
+   "50",
+   "6",
+   "6.8",
+   "7.1"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 7,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.532,
+ "similarity": 0.8147,
+ "adjudicated_by": "rules"
+}

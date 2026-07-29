@@ -1,0 +1,56 @@
+{
+ "id": "a16f3624f5d562d4-89f24ab9-cd8db43c",
+ "url": "https://www.france24.com/en/tv-shows/sports/20260728-zinedine-zidane-to-be-officially-introduced-as-france-head-coach",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-29T08:52:01Z",
+ "date": "2026-07-29",
+ "old_title": "Sports - Zinedine Zidane to be officially introduced as France head coach",
+ "new_title": "Sports - Zinedine Zidane to be officially introduced as France head coach",
+ "old_text": "Zinedine Zidane to be officially introduced as France head coach\nIssued on:\nMore than 120 journalists and photographers are expected at the headquarters of the French Football Federation for the presentation of Zinédine Zidane as manager of the French national team.\nItalian football is sinking deeper into crisis. Vinicius Jr could be leaving Real Madrid. In tennis, several French players have made a big leap up the ATP rankings. Victor Wembanyama and the Spurs have resumed training.",
+ "new_text": "Zinedine Zidane to be officially introduced as France head coach\nIssued on:\nMore than 120 journalists and photographers are expected at the headquarters of the French Football Federation for the presentation of Zinédine Zidane as the new manager of the French national team.\nAlso in this edition:\nItalian football is sinking deeper into crisis. Vinicius Jr could be leaving Real Madrid. In tennis, several French players have made a big leap up the ATP rankings. Victor Wembanyama and the Spurs have resumed training.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "of the French Football Federation for the presentation of Zinédine Zidane as"
+    ],
+    [
+     "ins",
+     "the new"
+    ],
+    [
+     "eq",
+     "manager of the French national team."
+    ],
+    [
+     "ins",
+     "Also in this edition:"
+    ],
+    [
+     "eq",
+     "Italian football is sinking deeper into crisis. Vinicius Jr could be leaving"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0779,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9959,
+ "adjudicated_by": "rules"
+}

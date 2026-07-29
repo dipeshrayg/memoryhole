@@ -1,0 +1,104 @@
+{
+ "id": "88ed943b6ea6919f-df4ca704-3afb5834",
+ "url": "https://www.abc.net.au/news/2026-07-28/ocean-search-for-missing-baby-boy-suspended-at-port-macdonnell/106967786",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-29T08:52:55Z",
+ "date": "2026-07-29",
+ "old_title": "Breaking: Ocean search for missing baby boy suspended because of rough weather",
+ "new_title": "Ocean search for missing baby boy suspended because of rough weather",
+ "old_text": "The search for a three-month-old baby boy still missing after the bodies of his mother and sister were recovered from waters off SA's South East has been suspended because of weather conditions, police say.\nPolice said it was too dangerous to continue the search off Port MacDonnell, and it was halted about 3:30pm on Tuesday but that it would resume tomorrow morning.\nSuperintendent Trent Cox, officer in charge of the Limestone Coast Region, said while police held grave concerns, they would leave \"no stone unturned\".\n\"The information we have from survivability experts is that it is very, very unlikely the missing baby has survived,\" he said.\n\"[But] we will continue to search until the expert advice tells us that there is no prospect of finding the child alive.\"\nThe girl who died was 23 months old, while their mother was a 36-year-old from Compton, near Mount Gambier.\nTheir bodies were recovered on Monday.\n\"We are keeping a very open mind as to the circumstances that led to the mother and daughter being in the water, and the other child being missing,\" Superintendent Cox said.\n\"There are a number of scenarios we're investigating.\"\nPolice said today's weather conditions had been challenging, and that high winds had meant the search was confined to land.\nEarlier, authorities said the missing boy was \"about\" two months old, and Superintendent Cox later described him as a three-month-old.\nThe tragedy first came to light about 11:15am on Monday, when emergency services were called to Cape Northumberland, a headland near Port MacDonnell distinguished by rugged cliffs.\nPolice said the woman's car - a white Isuzu MU-X, with South Australian registration S592 BJR - was found \"abandoned with its engine running\".\nSA Premier Peter Malinauskas today sounded a note of caution, warning that there was a need to be \"careful not to jump to conclusions\".\n\"It's very difficult at this point in time to understand exactly what transpired here,\" Mr Malinauskas said.\n\"There are a number of theories that the police are actively investigating.\"\nLoading",
+ "new_text": "In short:\nA three-month-old boy remains missing after the bodies of his 23-month-old sister and 36-year-old mother were recovered from waters off South Australia's far south-eastern coast on Monday.\nEmergency services resumed their search today but police say weather conditions made it too dangerous to continue.\nWhat's next?\nPolice say while there is very little chance the boy has survived, they will resume their search tomorrow morning.\nThe search for a three-month-old baby boy still missing after the bodies of his mother and sister were recovered from waters off SA's South East has been suspended because of weather conditions, police say.\nPolice said it was too dangerous to continue the search off Port MacDonnell, and it was halted about 3:30pm on Tuesday but that it would resume tomorrow morning.\nSuperintendent Trent Cox, officer in charge of the Limestone Coast Region, said while police held grave concerns, they would leave \"no stone unturned\".\n\"The information we have from survivability experts is that it is very, very unlikely the missing baby has survived,\" he said.\n\"[But] we will continue to search until the expert advice tells us that there is no prospect of finding the child alive.\"\nThe girl who died was 23 months old, while their mother was a 36-year-old from Compton, near Mount Gambier.\nTheir bodies were recovered on Monday.\n\"We are keeping a very open mind as to the circumstances that led to the mother and daughter being in the water, and the other child being missing,\" Superintendent Cox said.\n\"There are a number of scenarios we're investigating.\"\nPolice said today's weather conditions had been challenging, and that high winds had meant the search was confined to land.\n\"[Conditions] did not enable us to get water assets on the water,\" Superintendent Cox said.\nEarlier, authorities said the missing boy was \"about\" two months old, and Superintendent Cox later described him as a three-month-old.\nPolice investigating 'number of theories'\nThe tragedy first came to light about 11:15am on Monday, when emergency services were called to Cape Northumberland, a headland near Port MacDonnell distinguished by rugged cliffs.\nPolice said the woman's car - a white Isuzu MU-X, with South Australian registration S592 BJR - was found \"abandoned with its engine running\".\nThey said there was \"no information to suggest\" anyone else was involved in the incident.\nSA Premier Peter Malinauskas today sounded a note of caution, warning that there was a need to be \"careful not to jump to conclusions\".\n\"It's very difficult at this point in time to understand exactly what transpired here,\" Mr Malinauskas said.\n\"There are a number of theories that the police are actively investigating.\"\nPolice have asked anyone with information about the woman's car, or with dash cam footage that could assist, to contact them.\nThe search and investigation has involved SES volunteers, SA Police's Water Operations Unit, Major Crime investigators, the Forensic Response Section and other maritime agencies.\nSuperintendent Cox said weather conditions were expected to be more favourable on Wednesday.\n\"The forecast is that it's not as extreme as today - still challenging. It's an exposed area,\" he said.\n\"We'll be out there at first light again, we'll hold a briefing for our emergency services personnel and volunteers who are assisting, as well as the police.\"\nThe search was expected to resume about 8am.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "In short: A three-month-old boy remains missing after the bodies of his 23-month-old sister and 36-year-old mother were recovered from waters off South Australia's far south-eastern coast on Monday. Emergency services resumed their search today but police say weather conditions made it too dangerous to continue. What's next? Police say while there is very little chance the boy has survived, they will resume their search tomorrow morning."
+    ],
+    [
+     "eq",
+     "The search for a three-month-old baby boy still missing after the bodies"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and that high winds had meant the search was confined to land."
+    ],
+    [
+     "ins",
+     "\"[Conditions] did not enable us to get water assets on the water,\" Superintendent Cox said."
+    ],
+    [
+     "eq",
+     "Earlier, authorities said the missing boy was \"about\" two months old, and Superintendent Cox later described him as a three-month-old."
+    ],
+    [
+     "ins",
+     "Police investigating 'number of theories'"
+    ],
+    [
+     "eq",
+     "The tragedy first came to light about 11:15am on Monday, when emergency"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Australian registration S592 BJR - was found \"abandoned with its engine running\"."
+    ],
+    [
+     "ins",
+     "They said there was \"no information to suggest\" anyone else was involved in the incident."
+    ],
+    [
+     "eq",
+     "SA Premier Peter Malinauskas today sounded a note of caution, warning that"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "\"There are a number of theories that the police are actively investigating.\""
+    ],
+    [
+     "del",
+     "Loading"
+    ],
+    [
+     "ins",
+     "Police have asked anyone with information about the woman's car, or with dash cam footage that could assist, to contact them. The search and investigation has involved SES volunteers, SA Police's Water Operations Unit, Major Crime investigators, the Forensic Response Section and other maritime agencies. Superintendent Cox said weather conditions were expected to be more favourable on Wednesday. \"The forecast is that it's not as extreme as today - still challenging. It's an exposed area,\" he said. \"We'll be out there at first light again, we'll hold a briefing for our emergency services personnel and volunteers who are assisting, as well as the police.\" The search was expected to resume about 8am."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.638,
+  "numbers_changed": [
+   "23",
+   "36",
+   "8"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.827,
+ "similarity": 0.9322,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,164 @@
+{
+ "id": "b229c18f44acd0d0-abf66af3-6e75ce33",
+ "url": "https://www.dw.com/en/zelenskyy-to-meet-trump-as-ukraine-seeks-stronger-air-defense/a-78138704?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-29T08:51:30Z",
+ "date": "2026-07-29",
+ "old_title": "Zelenskyy to meet Trump as Ukraine seeks air defense systems",
+ "new_title": "Zelenskyy visits Trump as Ukraine seeks stronger air defense",
+ "old_text": "Ukrainian President Volodymyr Zelenskyy arrived in the United States ahead of talks with President Donald Trump on Tuesday, saying Kyiv's top priority was securing stronger air defense and strategic cooperation as Russia intensified attacks.\n\"Our number-one priority is anti-ballistic defense and strategic cooperation with America. Peace needs to be brought closer,\" Zelenskyy said in a post on X after arriving in the US.\nThe two leaders are due to meet at the White House before attending a tribute to Senator Lindsey Graham, a staunch supporter of Ukraine, who passed away earlier this month.\nUS-Ukraine ties improving\nThe long-strained relations between Trump and Zelenskyy have improved in recent weeks.\nSince returning to office in January last year, Trump largely stopped direct US arms shipments to Ukraine, instead allowing European allies to buy American weapons and supply them to Kyiv.\nHowever, Washington remains a key ally, providing intelligence and access to the Starlink satellite network used by Ukrainian frontline troops to communicate.\nIn a sign of improving ties, Trump, in a meeting with Zelenskyy in Turkey earlier this month, pledged to help Ukraine produce Patriot air defense systems, saying Kyiv would be able to produce them \"pretty quickly.\"\nThis has been a long-running request from Kyiv in order to counter Russian missile attacks.\nKyiv and Moscow ramp up long-range strikes\nThe Trump-Zelenskyy meeting comes as more than four years have passed since Russia's full-scale invasion of Ukraine.\nAmid stalled diplomatic efforts to end the war, both sides have stepped up long-range strikes.\nRussia said on Tuesday that more than 390 Ukrainian drones targeted the Moscow region overnight, damaging residential buildings.\nRussian state media also reported that Russian forces struck two vessels, including a ship in the Black Sea that Moscow claimed was transporting military supplies for Ukraine, according to Reuters.\nEdited by: Dmytro Hubenko\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "Ukrainian President Volodymyr Zelenskyy arrived in the United States for talks with President Donald Trump on Tuesday, saying Kyiv's top priority was securing stronger air defense and strategic cooperation as Russia intensified attacks.\nTrump welcomed Zelenskyy to the White House late on Tuesday morning local time, ahead of the funeral for Senator Lindsey Graham, a staunch supporter of Ukraine, who passed away earlier this month.\nImages taken from behind the fences at the White House showed Zelenskyy exiting a car ready to enter the building.\nWhite House press secretary Karoline Leavitt described the meeting, which was behind closed doors, as \"positive and productive.\"\nZelenskyy thanked Trump for the \"good meeting,\" hailing the Republican administration's support to Kyiv in its war against Russia.\n\"The President and I discussed licenses for Patriot interceptor production and several other ideas that could help,\" said Zelenskyy on X. \"We also spoke about diplomacy - it's important that the diplomatic process be reinvigorated.\"\nLater, Trump said on his Truth Social platform that the meeting \"went very well!\"\n\"Our number-one priority is anti-ballistic defense and strategic cooperation with America. Peace needs to be brought closer,\" Zelenskyy had said in a post on X after arriving in the US.\nUS-Ukraine deal on Patriot production recently announced\nThe long-strained relations between Trump and Zelenskyy have shown modest signs of improvement in recent weeks.\nSince returning to office in January last year, Trump largely stopped direct US arms shipments to Ukraine, instead leavingEuropean allies to buy American weapons and supply them to Kyiv.\nHowever, Washington remains a key ally, providing intelligence and access to the Starlink satellite network used by Ukrainian frontline troops to communicate.\nIn a sign of improving ties, Trump, in a meeting with Zelenskyy in Turkey earlier this month, pledged to help Ukraine produce Patriot air defense systems, and said Kyiv would be able to produce them \"pretty quickly.\"\nThis has been a long-running request from Kyiv in order to counter Russian missile attacks.\nKyiv and Moscow ramp up long-range strikes\nMore than four years have passed since Russia's full-scale invasion of Ukraine.\nAmid stalled diplomatic efforts to end the war brokered by the Trump administration, both sides have stepped up long-range strikes.\nRussia said on Tuesday that more than 390 Ukrainian drones targeted the Moscow region overnight, damaging residential buildings.\nRussian state media also reported that Russian forces struck two vessels, including a ship in the Black Sea that Moscow claimed was transporting military supplies for Ukraine, according to Reuters.\nEdited by: Dmytro Hubenko\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Ukrainian President Volodymyr Zelenskyy arrived in the United States"
+    ],
+    [
+     "del",
+     "ahead of"
+    ],
+    [
+     "ins",
+     "for"
+    ],
+    [
+     "eq",
+     "talks with President Donald Trump on Tuesday, saying Kyiv's top priority was securing stronger air defense and strategic cooperation as Russia intensified attacks."
+    ],
+    [
+     "ins",
+     "Trump welcomed Zelenskyy to the White House late on Tuesday morning local time, ahead of the funeral for Senator Lindsey Graham, a staunch supporter of Ukraine, who passed away earlier this month. Images taken from behind the fences at the White House showed Zelenskyy exiting a car ready to enter the building. White House press secretary Karoline Leavitt described the meeting, which was behind closed doors, as \"positive and productive.\" Zelenskyy thanked Trump for the \"good meeting,\" hailing the Republican administration's support to Kyiv in its war against Russia. \"The President and I discussed licenses for Patriot interceptor production and several other ideas that could help,\" said Zelenskyy on X. \"We also spoke about diplomacy - it's important that the diplomatic process be reinvigorated.\" Later, Trump said on his Truth Social platform that the meeting \"went very well!\""
+    ],
+    [
+     "eq",
+     "\"Our number-one priority is anti-ballistic defense and strategic cooperation with America. Peace needs to be brought closer,\" Zelenskyy"
+    ],
+    [
+     "ins",
+     "had"
+    ],
+    [
+     "eq",
+     "said in a post on X after arriving in the US."
+    ],
+    [
+     "del",
+     "The two leaders are due to meet at the White House before attending a tribute to Senator Lindsey Graham, a staunch supporter of Ukraine, who passed away earlier this month."
+    ],
+    [
+     "eq",
+     "US-Ukraine"
+    ],
+    [
+     "del",
+     "ties improving"
+    ],
+    [
+     "ins",
+     "deal on Patriot production recently announced"
+    ],
+    [
+     "eq",
+     "The long-strained relations between Trump and Zelenskyy have"
+    ],
+    [
+     "del",
+     "improved"
+    ],
+    [
+     "ins",
+     "shown modest signs of improvement"
+    ],
+    [
+     "eq",
+     "in recent weeks. Since returning to office in January last year, Trump largely stopped direct US arms shipments to Ukraine, instead"
+    ],
+    [
+     "del",
+     "allowing European"
+    ],
+    [
+     "ins",
+     "leavingEuropean"
+    ],
+    [
+     "eq",
+     "allies to buy American weapons and supply them to Kyiv. However, Washington"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "earlier this month, pledged to help Ukraine produce Patriot air defense systems,"
+    ],
+    [
+     "del",
+     "saying"
+    ],
+    [
+     "ins",
+     "and said"
+    ],
+    [
+     "eq",
+     "Kyiv would be able to produce them \"pretty quickly.\" This has been"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to counter Russian missile attacks. Kyiv and Moscow ramp up long-range strikes"
+    ],
+    [
+     "del",
+     "The Trump-Zelenskyy meeting comes as more"
+    ],
+    [
+     "ins",
+     "More"
+    ],
+    [
+     "eq",
+     "than four years have passed since Russia's full-scale invasion of Ukraine. Amid stalled diplomatic efforts to end the"
+    ],
+    [
+     "del",
+     "war,"
+    ],
+    [
+     "ins",
+     "war brokered by the Trump administration,"
+    ],
+    [
+     "eq",
+     "both sides have stepped up long-range strikes. Russia said on Tuesday that"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5903,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.201,
+ "similarity": 0.8698,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "2d18a6c738f37e6b-0d7c19c9-d9e5f5ea",
+ "url": "https://variety.com/2026/film/news/zendaya-spider-man-brand-new-day-premiere-dress-law-roach-1236822294/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-07-29T09:04:53Z",
+ "date": "2026-07-29",
+ "old_title": "Zendaya Stuns 'Spider-Man: Brand New Day' Premiere in 'Abstract' Spider-Inspired Look: 'It's Like This Metamorphosis'",
+ "new_title": "Zendaya Stuns 'Spider-Man: Brand New Day' Premiere in 'Abstract' Spider-Inspired Look: 'It's Like This Metamorphosis'",
+ "old_text": "Zendaya stunned the red carpet at the \"Spider-Man: Brand New Day\" Los Angeles premiere in a black satin Ashi Studio corset with a sweeping architectural train, putting an exclamation point on a press tour that the young star used as her personal runway.\n\"It's kind of an abstract way to present the spider,\" Law Roach, Zendaya's longtime stylist, told Variety of the look during the Monday night premiere. \"You know, in our mind, it's like this metamorphosis of this woman into this thing. And the jewelry is Boucheron.\"\nWhile Roach said he \"can't pick a favorite\" look from the tour, he shouted out the archival spiderweb dress from John Galliano's 1997 \"Circus\" collection that Zendaya rocked in June at the London premiere of the Marvel sequel.\nWhen asked about his plans for the \"Dune: Part Three\" press tour, Roach was tight-lipped on details, but shared, \"'Dune' is a bit away, but it's gonna be great. I'm excited.\"\nZendaya made headlines last month by skipping the couture and wearing a vintage Spider-Man T-shirt to a \"Brand New Day\" fan event in Paris. Roach scooped up the shirt on eBay for just $34.99. After the look when live, Roach posted the listing for the tee on his Instagram Story with the caption, \"Style doesn't always have to cost a fortune.\"\nZendaya stars alongside her husband, Tom Holland, in \"Brand New Day,\" which sees Peter Parker navigate a world in which his friends and family have forgotten him. Other cast members include Mark Ruffalo, Jon Bernthal, Jacob Batalon, Sadie Sink, Liza Colón-Zayas and Tramell Tillman. Destin Daniel Cretton serves as director.\n\"Spider-Man: Brand New Day\" hits theaters on July 31.",
+ "new_text": "Zendaya stunned the red carpet at the \"Spider-Man: Brand New Day\" Los Angeles premiere in a black satin Ashi Studio corset with a sweeping architectural train, putting an exclamation point on a press tour that the young star used as her personal runway.\n\"It's kind of an abstract way to present the spider,\" Law Roach, Zendaya's longtime stylist, told Variety of the look during the Monday night premiere. \"You know, in our mind, it's like this metamorphosis of this woman into this thing. And the jewelry is Boucheron.\"\nZendaya's shoes were Christian Louboutin. Her makeup artist Ernesto Casillas used Prada Beauty products, including Dimensions Eyeshadow in Profusion + Primula, Reflection Glossy Balm Universal and Prada Balm in Universal Green.\nWhile Roach said he \"can't pick a favorite\" look from the tour, he shouted out the archival spiderweb dress from John Galliano's 1997 \"Circus\" collection that Zendaya rocked in June at the London premiere of the Marvel sequel.\nWhen asked about his plans for the \"Dune: Part Three\" press tour, Roach was tight-lipped on details, but shared, \"'Dune' is a bit away, but it's gonna be great. I'm excited.\"\nZendaya made headlines last month by skipping the couture and wearing a vintage Spider-Man T-shirt to a \"Brand New Day\" fan event in Paris. Roach scooped up the shirt on eBay for just $34.99. After the look when live, Roach posted the listing for the tee on his Instagram Story with the caption, \"Style doesn't always have to cost a fortune.\"\nZendaya stars alongside her husband, Tom Holland, in \"Brand New Day,\" which sees Peter Parker navigate a world in which his friends and family have forgotten him. Other cast members include Mark Ruffalo, Jon Bernthal, Jacob Batalon, Sadie Sink, Liza Colón-Zayas and Tramell Tillman. Destin Daniel Cretton serves as director.\n\"Spider-Man: Brand New Day\" hits theaters on July 31.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "metamorphosis of this woman into this thing. And the jewelry is Boucheron.\""
+    ],
+    [
+     "ins",
+     "Zendaya's shoes were Christian Louboutin. Her makeup artist Ernesto Casillas used Prada Beauty products, including Dimensions Eyeshadow in Profusion + Primula, Reflection Glossy Balm Universal and Prada Balm in Universal Green."
+    ],
+    [
+     "eq",
+     "While Roach said he \"can't pick a favorite\" look from the tour,"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1119,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.815,
+ "similarity": 0.9092,
+ "adjudicated_by": "rules"
+}
