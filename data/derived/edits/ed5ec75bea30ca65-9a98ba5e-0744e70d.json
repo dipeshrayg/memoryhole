@@ -1,0 +1,66 @@
+{
+ "id": "ed5ec75bea30ca65-9a98ba5e-0744e70d",
+ "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-07-30T08:50:38Z",
+ "date": "2026-07-30",
+ "old_title": "JFrog tries to spin OpenAI 0-day exploit of its app into a success story",
+ "new_title": "JFrog tries to spin OpenAI 0-day exploit of its app into a success story",
+ "old_text": "Last week's unprecedented security event in which two OpenAI security hacking models trespassed into the network of fellow AI company Hugging Face was enabled by exploiting one or more zero-day vulnerabilities in Artifactory, JFrog, the product's developer, said Monday.\nIn an incident mimicking a dystopian sci-fi novel, two OpenAI models broke out of the restricted environment meant to keep them from accessing the Internet during an internal test, the AI company revealed last week. The models went on to breach Hugging Face's network and steal confidential information and credentials. OpenAI said its agent achieved the feat by exploiting a previously unknown vulnerability. The company called the event \"unprecedented,\" and outsiders largely agreed.\nNot the triumph made out to be\nOpenAI said the models exploited multiple attack vectors, including stolen credentials and zero-days, to gain remote code execution capabilities, but until now, the vulnerable software was unknown. JFrog's Monday disclosure said the product was a self-managed instance Artifactory, a repository management system that secures and streamlines customers' software development operations. JFrog says Artifactory is used by more than 7,500 developer Teams, 80 percent of which work for Fortune 100 companies.\n\"During an internal evaluation of frontier cyber capabilities, OpenAI's models, running deliberately without production safeguards in an isolated research environment, autonomously discovered and employed chained vulnerabilities to escape its sandbox, reach the open internet, and extract evaluation answers from Hugging Face's infrastructure,\" JFrog CTO Yoav Landman wrote. The executive went on to say that the company learned of the zero-days from OpenAI.\nThe company said Monday that it fixed the exploited vulnerabilities, but it didn't identify them or provide other important details, such as the conditions under which the vulnerabilities can be exploited. Such details are standard in many vulnerability disclosures because they're necessary for customers to assess risks. In an email, a company representative declined to provide the details.\nRelease notes published Monday for version Artifactory 7.161.15 listed the CVE designations for nine patched vulnerabilities. The disclosure made no mention that any of them had been actively exploited in the wild. External sources, however, show that three of them-CVE-2026-65617, CVE-2026-65923, and CVE-2026-66018-were privately reported by OpenAI researcher Khai Tran. It's likely that at least two of them were the zero-days OpenAI's models exploited, but without confirmation, it's impossible to say so definitively.",
+ "new_text": "Last week's unprecedented security event in which two OpenAI security hacking models trespassed into the network of fellow AI company Hugging Face was enabled by exploiting one or more zero-day vulnerabilities in Artifactory, JFrog, the product's developer, said Monday.\nIn an incident mimicking a dystopian sci-fi novel, two OpenAI models broke out of the restricted environment meant to keep them from accessing the Internet during an internal test, the AI company revealed last week. The models went on to breach Hugging Face's network and steal confidential information and credentials. OpenAI said its agent achieved the feat by exploiting a previously unknown vulnerability. The company called the event \"unprecedented,\" and outsiders largely agreed.\nNot the triumph it was made out to be\nOpenAI said the models exploited multiple attack vectors, including stolen credentials and zero-days, to gain remote code execution capabilities, but until now, the vulnerable software was unknown. JFrog's Monday disclosure said the product was a self-managed instance Artifactory, a repository management system that secures and streamlines customers' software development operations. JFrog says Artifactory is used by more than 7,500 developer Teams, 80 percent of which work for Fortune 100 companies.\n\"During an internal evaluation of frontier cyber capabilities, OpenAI's models, running deliberately without production safeguards in an isolated research environment, autonomously discovered and employed chained vulnerabilities to escape its sandbox, reach the open internet, and extract evaluation answers from Hugging Face's infrastructure,\" JFrog CTO Yoav Landman wrote. The executive went on to say that the company learned of the zero-days from OpenAI.\nThe company said Monday that it fixed the exploited vulnerabilities, but it didn't identify them or provide other important details, such as the conditions under which the vulnerabilities can be exploited. Such details are standard in many vulnerability disclosures because they're necessary for customers to assess risks. In an email, a company representative declined to provide the details.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "company called the event \"unprecedented,\" and outsiders largely agreed. Not the triumph"
+    ],
+    [
+     "ins",
+     "it was"
+    ],
+    [
+     "eq",
+     "made out to be OpenAI said the models exploited multiple attack vectors,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "risks. In an email, a company representative declined to provide the details."
+    ],
+    [
+     "del",
+     "Release notes published Monday for version Artifactory 7.161.15 listed the CVE designations for nine patched vulnerabilities. The disclosure made no mention that any of them had been actively exploited in the wild. External sources, however, show that three of them-CVE-2026-65617, CVE-2026-65923, and CVE-2026-66018-were privately reported by OpenAI researcher Khai Tran. It's likely that at least two of them were the zero-days OpenAI's models exploited, but without confirmation, it's impossible to say so definitively."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1963,
+  "numbers_changed": [
+   "2026",
+   "65617",
+   "65923",
+   "66018",
+   "7.161.15"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9905,
+ "adjudicated_by": "rules"
+}

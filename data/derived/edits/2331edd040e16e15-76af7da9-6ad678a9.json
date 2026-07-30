@@ -1,0 +1,128 @@
+{
+ "id": "2331edd040e16e15-76af7da9-6ad678a9",
+ "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-07-30T08:43:21Z",
+ "date": "2026-07-30",
+ "old_title": "OpenAI says its rogue AI tried to hack other companies",
+ "new_title": "OpenAI says its rogue AI tried to hack other companies",
+ "old_text": "- Published\nOpenAI has revealed a cyber-attack carried out by rogue ChatGPT agents went further than just one company.\nHugging Face was thought to be the only victim of the unprecedented hack - but OpenAI now admits its bot attacked several \"public services\".\nThe out-of-control AI found four logins online which allowed it to access four separate, unnamed services.\nMeanwhile, in an emergency briefing with hundreds of cyber security professionals, Hugging Face has described what it was like to be on the receiving end of the world's first fully autonomous AI hack.\nThe firm described how the AI worked at superhuman speed but also made strange decisions and mistakes that no human hacker would have made.\nHugging Face, which is like an app store for AI tools, said the hacking agents worked relentlessly with thousands of different methods trialled simultaneously.\nThe company first revealed that it had been hacked, external by someone using powerful autonomous AI on 16 July and reported it to police.\nNearly a week later, OpenAI admitted it was its AI that had escaped a closed environment and attacked Hugging Face on its own during a test.\nIt was trying to find the answers to a hacking exam it had been set by OpenAI, and targeted Hugging Face.\nOn Wednesday OpenAI updated its statement to include the extra detail that the hack went further than first thought.\n\"The models identified and used publicly exposed credentials at the account-level on other publicly-available services. This includes four accounts on four services as part of the Hugging Face incident,\" the company said.\nOpenAI would did not immediately respond to a request for clarity on whether \"public services\" means companies.\nClumsy behaviours\nOn Tuesday, the industry body the Cloud Security Alliance (CSA) wrote-up a report , externalbased on the emergency meeting with Hugging Face on Friday - which Hugging Face itself has reviewed.\n\"The agents followed inefficient routes and exhibited clumsy behaviours that no human would choose\", the CSA wrote.\nThe agents repeated actions that they had already completed - a sign of an agentic AI losing its thread and context.\nThe agents also hallucinated reams of incoherent commands and text and were sloppy and did not cover their tracks well.\nBut among the errors and strange behaviour, Hugging Face warned the AI agents made brilliant technical moves and were able to rapidly adapt to new scenarios in the days-long hack.\nJurassic Park\nIt took three days for them to be discovered inside the Hugging Face IT network and it took the company's AI and cyber-security experts many hours to contain and eject the AI agents - something standard companies might struggle with.\nThe company would not say how much the hack cost it but said staff worked for many hours to rebuild about a third of their infrastructure.\nHugging Face has been praised for its transparency in telling the AI and cyber industry what happened.\nThe CSA warned the incident shows that AI \"agents... find a way\" - a reference to the film Jurassic Park, where dinosaurs escape their enclosures.\n\"They are objective-driven, set their own sub-goals, adapt in real time to bypass defences, and operate with a machine-speed persistence that can overwhelm manual operations,\" the paper reads.\nCyber security officer Ritesh Patel was on the Hugging Face briefing call with around 450 others and says the industry is working hard to address the new threat of rogue AI agents.\n\"This is the reality of autonomous agents powered by frontier models: they are relentlessly persistent, sometimes highly noisy, and will try every possible path to achieve their goal, which can easily overwhelm traditional defences,\" he said.\nEthical hacker Valentina Palmiotti - better known as Chompie - reviewed the CSA report and says the way the agents hack might seem haphazard but it is clearly effective.\n\"They throw out a bunch of stuff and see what sticks,\" she said.\n\"But they also don't get bored, they don't sleep and can be infinitely tenacious.\"\nRogue history\nThis is not the first time AI agents have been shown to go \"rogue\".\nIn the CSA's report it references previous examples like in September 2024 when an earlier model of ChatGPT escaped its container to get an answer it needed for another test.\nThat event was contained in OpenAI's own IT systems and \"largely celebrated at the time\", the CSA noted.\nBut \"rogue\" behaviour \"is the standard, not the exception,\" the paper claimed.\nIt warned cyber-security professionals around the world they needed to adapt to the new normal of swarms of AI agents working at speed in strange and clumsy ways that might lead to more breaches.\nThe paper also urged people who use or develop AI agents to be responsible in how they control them, calling for some way for cyber-security defenders to find out who is the ultimate owner of agents to increase transparency.\nPrevious reports suggest it took OpenAI four days , externalto realise its AI had hacked Hugging Face.\nOpenAI said it would release the findings of its own investigation soon to help people learn from the event.",
+ "new_text": "- Published\nOpenAI has revealed a cyber-attack carried out by rogue ChatGPT agents went further than just one company.\nHugging Face was thought to be the only victim of the unprecedented hack - but OpenAI now admits its bot attacked several \"publicly-available services\".\nThe out-of-control AI found four logins online which allowed it to access four separate, unnamed services.\nMeanwhile, in an emergency briefing with hundreds of cyber security professionals, Hugging Face has described what it was like to be on the receiving end of the world's first fully autonomous AI hack.\nThe firm described how the AI worked at superhuman speed but also made strange decisions and mistakes that no human hacker would have made.\nHugging Face, which is like an app store for AI tools, said the hacking agents worked relentlessly with thousands of different methods trialled simultaneously.\nThe company first revealed that it had been hacked, external by someone using powerful autonomous AI on 16 July and reported it to police.\nNearly a week later, OpenAI admitted it was its AI that had escaped a closed environment and attacked Hugging Face on its own during a test.\nIt was trying to find the answers to a hacking exam it had been set by OpenAI, and targeted Hugging Face.\nOn Wednesday OpenAI updated its statement to include the extra detail that the hack went further than first thought.\n\"The models identified and used publicly exposed credentials at the account-level on other publicly-available services. This includes four accounts on four services,\" the company said.\nOpenAI did not clarify whether \"publicly-available services\" means companies - but it said the new attacks were not the same level of severity as the Hugging Face hack.\nClumsy behaviours\nOn Tuesday, the industry body the Cloud Security Alliance (CSA) wrote-up a report , externalbased on the emergency meeting with Hugging Face on Friday - which Hugging Face itself has reviewed.\n\"The agents followed inefficient routes and exhibited clumsy behaviours that no human would choose\", the CSA wrote.\nThe agents repeated actions that they had already completed - a sign of an agentic AI losing its thread and context.\nThe agents also hallucinated reams of incoherent commands and text and were sloppy and did not cover their tracks well.\nBut among the errors and strange behaviour, Hugging Face warned the AI agents made brilliant technical moves and were able to rapidly adapt to new scenarios in the days-long hack.\nJurassic Park\nIt took three days for them to be discovered inside the Hugging Face IT network and it took the company's AI and cyber-security experts many hours to contain and eject the AI agents - something standard companies might struggle with.\nThe company would not say how much the hack cost it but said staff worked for many hours to rebuild about a third of their infrastructure.\nHugging Face has been praised for its transparency in telling the AI and cyber industry what happened.\nThe CSA warned the incident shows that AI \"agents... find a way\" - a reference to the film Jurassic Park, where dinosaurs escape their enclosures.\n\"They are objective-driven, set their own sub-goals, adapt in real time to bypass defences, and operate with a machine-speed persistence that can overwhelm manual operations,\" the paper reads.\nCyber security officer Ritesh Patel was on the Hugging Face briefing call with around 450 others and says the industry is working hard to address the new threat of rogue AI agents.\n\"This is the reality of autonomous agents powered by frontier models: they are relentlessly persistent, sometimes highly noisy, and will try every possible path to achieve their goal, which can easily overwhelm traditional defences,\" he said.\nEthical hacker Valentina Palmiotti - better known as Chompie - reviewed the CSA report and says the way the agents hack might seem haphazard but it is clearly effective.\n\"They throw out a bunch of stuff and see what sticks,\" she said.\n\"But they also don't get bored, they don't sleep and can be infinitely tenacious.\"\nRogue history\nThis is not the first time AI agents have been shown to go \"rogue\".\nIn the CSA's report it references previous examples like in September 2024 when an earlier model of ChatGPT escaped its container to get an answer it needed for another test.\nThat event was contained in OpenAI's own IT systems and \"largely celebrated at the time\", the CSA noted.\nBut \"rogue\" behaviour \"is the standard, not the exception,\" the paper claimed.\nIt warned cyber-security professionals around the world they needed to adapt to the new normal of swarms of AI agents working at speed in strange and clumsy ways that might lead to more breaches.\nThe paper also urged people who use or develop AI agents to be responsible in how they control them, calling for some way for cyber-security defenders to find out who is the ultimate owner of agents to increase transparency.\nPrevious reports suggest it took OpenAI four days , externalto realise its AI had hacked Hugging Face.\nOpenAI said it would release the findings of its own investigation soon to help people learn from the event.\nAdditional reporting by Osmond Chia",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the unprecedented hack - but OpenAI now admits its bot attacked several"
+    ],
+    [
+     "del",
+     "\"public"
+    ],
+    [
+     "ins",
+     "\"publicly-available"
+    ],
+    [
+     "eq",
+     "services\". The out-of-control AI found four logins online which allowed it to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the account-level on other publicly-available services. This includes four accounts on four"
+    ],
+    [
+     "del",
+     "services as part of the Hugging Face incident,\""
+    ],
+    [
+     "ins",
+     "services,\""
+    ],
+    [
+     "eq",
+     "the company said. OpenAI"
+    ],
+    [
+     "del",
+     "would"
+    ],
+    [
+     "eq",
+     "did not"
+    ],
+    [
+     "del",
+     "immediately respond to a request for clarity on"
+    ],
+    [
+     "ins",
+     "clarify"
+    ],
+    [
+     "eq",
+     "whether"
+    ],
+    [
+     "del",
+     "\"public"
+    ],
+    [
+     "ins",
+     "\"publicly-available"
+    ],
+    [
+     "eq",
+     "services\" means"
+    ],
+    [
+     "del",
+     "companies."
+    ],
+    [
+     "ins",
+     "companies - but it said the new attacks were not the same level of severity as the Hugging Face hack."
+    ],
+    [
+     "eq",
+     "Clumsy behaviours On Tuesday, the industry body the Cloud Security Alliance (CSA)"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of its own investigation soon to help people learn from the event."
+    ],
+    [
+     "ins",
+     "Additional reporting by Osmond Chia"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0579,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 1,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.5,
+ "similarity": 0.996,
+ "adjudicated_by": "rules"
+}

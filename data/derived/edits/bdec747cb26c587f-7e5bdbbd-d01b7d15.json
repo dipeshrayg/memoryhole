@@ -1,0 +1,626 @@
+{
+ "id": "bdec747cb26c587f-7e5bdbbd-d01b7d15",
+ "url": "https://www.theguardian.com/uk-news/2026/jul/29/datacentre-projects-fees-grid-access-connection-queue-ofgem",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-07-30T08:44:06Z",
+ "date": "2026-07-30",
+ "old_title": "Datacentre projects could face fees for grid access to ease connection queue, Ofgem says",
+ "new_title": "Datacentre projects face fees for grid access to ease connection queue, Ofgem says",
+ "old_text": "Datacentre projects in Britain will be forced to put down significant upfront fees to secure an energy connection under proposals to ease an electricity grid logjam.\nOfgem, the sector watchdog, said there were 315 datacentres currently queueing to connect up, representing 73GW of demand. This is almost 30GW above the entire country's peak energy demand of 45GW.\nUnder the energy regulator for Great Britain's proposals to thin out speculative schemes, projects will be required to lodge significant upfront fees or financial security via letters of credit, bonds or cash deposits. This will be demanded when a project receives a connection offer and returned when the datacentre is switched on.\nOfgem is proposing that datacentre providers, who include companies such as Amazon and Microsoft, put down pledges of £350m to reserve 500MW of grid capacity. The proposals are aiming at tackling one of the biggest obstacles to building the datacentres at the core of Britain's AI ambitions: connections to a power source.\nDatacentres are the central nervous systems of AI tools such as chatbots but they have increasingly sizeable energy needs as their usage and capability grows.\nOfgem said projects would be required to hit targets during the connection application process and would be removed from the queue if they did not meet them. The watchdog added that \"hard milestones\" would include securing customers and financial backing, and it stressed it wanted to ensure limited grid capacity went to \"projects most likely to be built, not projects preserving options\".\nThe proposals will now undergo a consultation process, Ofgem said, to test their feasibility.\nOfgem revealed in February there had been a \"surge in demand\" for connection applications in general between November 2024 and June last year, with a significant number coming from datacentres. It said there were 140 proposed datacentres with energy demands of 50GW. Both numbers that have risen since then, according to data released by Ofgem on Wednesday.\nThe boom in datacentre demand comes amid a wider backlog in power generation and storage schemes waiting for a grid connection.\nLast year the grid operator, Neso, announced it was reforming the queue for renewable developers to be hooked up, clearing hundreds of dubious \"zombie\" projects - those without the right planning permissions or financing to move forward - to make way for schemes with the best chance of delivering on time.\nConcerns over datacentre grid connections are not confined to Britain. The Uptime Institute, which inspects and rates datacentres, has identified 250 global datacentre projects exceeding 100MW in energy demand - equivalent to the energy needs of about 300,000 homes - that have been announced between 2021 and 2024.\nUptime believes half of those projects will either not happen or their completion will be delayed. Even in that scenario, there will still be an \"unprecedented and rapid\" increase in the power required over the next five years, according to Uptime.",
+ "new_text": "Datacentre projects in Britain will be forced to pay hundreds of millions of pounds to plug into the power grid under proposals to tackle a growing electricity connection logjam.\nOfgem, the sector watchdog, said it was taking action to discourage \"speculative\" datacentre projects from causing unnecessary delays to the grid connection queue, which includes hospitals, schools and housing developments.\nThere are 315 datacentres queueing to connect, representing 73GW of demand, according to Ofgem. This has increased by almost 50% in the last year to almost 30GW above the entire country's peak energy demand of 45GW.\nThe energy regulator for Great Britain said it planned to introduce a new \"datacentre commitment fee\" that would be equivalent to between 2.5% and 7.5% of the average cost of a project in order to secure a date for grid connection.\nThis would be returned once the datacentre was switched on, or forfeited if the project failed to move forward.\nThis means datacentre providers, which include companies such as Amazon and Microsoft, could be required to put down pledges of £350m to reserve 500MW of grid capacity for their new facilities.\nDevelopers would also be required to hit \"hard milestones\" in advance of their connection date or be removed from the queue to ensure the country's limited grid capacity went to \"projects most likely to be built, not projects preserving options\".\nThe proposals intend to tackle one of the biggest obstacles to building the datacentres at the core of Britain's AI ambitions: connections to a power source.\nDatacentres are the central nervous systems of AI tools such as chatbots, but they have increasingly sizeable energy needs as their usage and capability grows. Some projects are exploring private, on-site power generation as a temporary solution to avoid the lengthy wait for a grid connection, but most developers would prefer to draw power from the grid too.\nThe rising number of datacentres seeking a grid connection has followed the UK government's stated aim to \"lead in the age of AI\", and has coincided with a wider boom in demand for electricity to cut the use of fossil fuels.\nOfgem has faced a wider backlog of power generation and storage schemes which face years of delays to secure connection to the grid, yet are vital to meet the country's growing electricity demand.\nThe government-owned National Energy System Operator, which runs the grid, used reforms last year to clear hundreds of dubious \"zombie\" projects from the queue to make way for clean electricity schemes with the best chance of achieving the government's energy targets.\nTackling the datacentre queue will be more complicated, however, because there is little consensus within government over how much data capacity the UK will need in the coming years, despite the drive to create AI growth zones across the country to support their development.\nThe energy system operator's most conservative forecasts for Great Britain's datacentre capacity by the end of the decade stand at 3.7GW, and their top-end estimates are 6.7GW. The government's own \"compute roadmap\" calls for \"at least 6GW of AI-capable datacentre capacity by 2030\".\nMeanwhile, experts have said the UK is likely to miss its target of creating a virtually carbon-free electricity system by 2030, raising the risk of greater than expected reliance on gas-fired power plants to fill a potential supply shortfall.\nMichael Shanks, the energy minister, said: \"Britain needs a grid connections system that works for the 21st century and allows businesses to invest and grow, creating jobs across the country.\n\"That's why this government reformed the connections process and why Ofgem's actions will help ensure that viable, connection-ready projects can get going and not be held up by speculative applications.\"\nConcerns over datacentre grid connections are not confined to Britain. The Uptime Institute, which inspects and rates datacentres, has identified 250 global projects exceeding 100MW in energy demand - equivalent to the energy needs of about 300,000 homes - announced between 2021 and 2024.\nUptime believes half of those projects will either not happen or their completion will be delayed, but that even in that scenario there will still be an \"unprecedented and rapid\" increase in the power required over the next five years.\nOfgem's proposals will now undergo a consultation process to test their feasibility.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Datacentre projects in Britain will be forced to"
+    ],
+    [
+     "del",
+     "put down significant upfront fees"
+    ],
+    [
+     "ins",
+     "pay hundreds of millions of pounds"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "secure an energy connection"
+    ],
+    [
+     "ins",
+     "plug into the power grid"
+    ],
+    [
+     "eq",
+     "under proposals to"
+    ],
+    [
+     "del",
+     "ease an"
+    ],
+    [
+     "ins",
+     "tackle a growing"
+    ],
+    [
+     "eq",
+     "electricity"
+    ],
+    [
+     "del",
+     "grid"
+    ],
+    [
+     "ins",
+     "connection"
+    ],
+    [
+     "eq",
+     "logjam. Ofgem, the sector watchdog, said"
+    ],
+    [
+     "del",
+     "there were"
+    ],
+    [
+     "ins",
+     "it was taking action to discourage \"speculative\" datacentre projects from causing unnecessary delays to the grid connection queue, which includes hospitals, schools and housing developments. There are"
+    ],
+    [
+     "eq",
+     "315 datacentres"
+    ],
+    [
+     "del",
+     "currently"
+    ],
+    [
+     "eq",
+     "queueing to"
+    ],
+    [
+     "del",
+     "connect up,"
+    ],
+    [
+     "ins",
+     "connect,"
+    ],
+    [
+     "eq",
+     "representing 73GW of"
+    ],
+    [
+     "del",
+     "demand."
+    ],
+    [
+     "ins",
+     "demand, according to Ofgem."
+    ],
+    [
+     "eq",
+     "This"
+    ],
+    [
+     "del",
+     "is"
+    ],
+    [
+     "ins",
+     "has increased by almost 50% in the last year to"
+    ],
+    [
+     "eq",
+     "almost 30GW above the entire country's peak energy demand of 45GW."
+    ],
+    [
+     "del",
+     "Under the"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "energy regulator for Great"
+    ],
+    [
+     "del",
+     "Britain's proposals"
+    ],
+    [
+     "ins",
+     "Britain said it planned"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "thin out speculative schemes, projects will"
+    ],
+    [
+     "ins",
+     "introduce a new \"datacentre commitment fee\" that would"
+    ],
+    [
+     "eq",
+     "be"
+    ],
+    [
+     "del",
+     "required"
+    ],
+    [
+     "ins",
+     "equivalent"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "lodge significant upfront fees or financial security via letters"
+    ],
+    [
+     "ins",
+     "between 2.5% and 7.5%"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "credit, bonds or cash deposits. This will be demanded when"
+    ],
+    [
+     "ins",
+     "the average cost of"
+    ],
+    [
+     "eq",
+     "a project"
+    ],
+    [
+     "del",
+     "receives"
+    ],
+    [
+     "ins",
+     "in order to secure"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "connection offer and"
+    ],
+    [
+     "ins",
+     "date for grid connection. This would be"
+    ],
+    [
+     "eq",
+     "returned"
+    ],
+    [
+     "del",
+     "when"
+    ],
+    [
+     "ins",
+     "once"
+    ],
+    [
+     "eq",
+     "the datacentre"
+    ],
+    [
+     "del",
+     "is"
+    ],
+    [
+     "ins",
+     "was"
+    ],
+    [
+     "eq",
+     "switched"
+    ],
+    [
+     "del",
+     "on. Ofgem is proposing that"
+    ],
+    [
+     "ins",
+     "on, or forfeited if the project failed to move forward. This means"
+    ],
+    [
+     "eq",
+     "datacentre providers,"
+    ],
+    [
+     "del",
+     "who"
+    ],
+    [
+     "ins",
+     "which"
+    ],
+    [
+     "eq",
+     "include companies such as Amazon and Microsoft,"
+    ],
+    [
+     "ins",
+     "could be required to"
+    ],
+    [
+     "eq",
+     "put down pledges of £350m to reserve 500MW of grid"
+    ],
+    [
+     "del",
+     "capacity."
+    ],
+    [
+     "ins",
+     "capacity for their new facilities. Developers would also be required to hit \"hard milestones\" in advance of their connection date or be removed from the queue to ensure the country's limited grid capacity went to \"projects most likely to be built, not projects preserving options\"."
+    ],
+    [
+     "eq",
+     "The proposals"
+    ],
+    [
+     "del",
+     "are aiming at tackling"
+    ],
+    [
+     "ins",
+     "intend to tackle"
+    ],
+    [
+     "eq",
+     "one of the biggest obstacles to building the datacentres at the core"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "source. Datacentres are the central nervous systems of AI tools such as"
+    ],
+    [
+     "del",
+     "chatbots"
+    ],
+    [
+     "ins",
+     "chatbots,"
+    ],
+    [
+     "eq",
+     "but they have increasingly sizeable energy needs as their usage and capability grows."
+    ],
+    [
+     "del",
+     "Ofgem said"
+    ],
+    [
+     "ins",
+     "Some"
+    ],
+    [
+     "eq",
+     "projects"
+    ],
+    [
+     "ins",
+     "are exploring private, on-site power generation as a temporary solution to avoid the lengthy wait for a grid connection, but most developers"
+    ],
+    [
+     "eq",
+     "would"
+    ],
+    [
+     "del",
+     "be required"
+    ],
+    [
+     "ins",
+     "prefer"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "hit targets during the connection application process and would be removed"
+    ],
+    [
+     "ins",
+     "draw power"
+    ],
+    [
+     "eq",
+     "from the"
+    ],
+    [
+     "del",
+     "queue if they did not meet them."
+    ],
+    [
+     "ins",
+     "grid too."
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "watchdog added that \"hard milestones\" would include securing customers"
+    ],
+    [
+     "ins",
+     "rising number of datacentres seeking a grid connection has followed the UK government's stated aim to \"lead in the age of AI\","
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "financial backing, and it stressed it wanted to ensure limited grid capacity went to \"projects most likely to be built, not projects preserving options\". The proposals will now undergo a consultation process, Ofgem said, to test their feasibility. Ofgem revealed in February there had been a \"surge in demand\" for connection applications in general between November 2024 and June last year,"
+    ],
+    [
+     "ins",
+     "has coincided"
+    ],
+    [
+     "eq",
+     "with a"
+    ],
+    [
+     "del",
+     "significant number coming from datacentres. It said there were 140 proposed datacentres with energy demands of 50GW. Both numbers that have risen since then, according to data released by Ofgem on Wednesday. The"
+    ],
+    [
+     "ins",
+     "wider"
+    ],
+    [
+     "eq",
+     "boom in"
+    ],
+    [
+     "del",
+     "datacentre"
+    ],
+    [
+     "eq",
+     "demand"
+    ],
+    [
+     "del",
+     "comes amid"
+    ],
+    [
+     "ins",
+     "for electricity to cut the use of fossil fuels. Ofgem has faced"
+    ],
+    [
+     "eq",
+     "a wider backlog"
+    ],
+    [
+     "del",
+     "in"
+    ],
+    [
+     "ins",
+     "of"
+    ],
+    [
+     "eq",
+     "power generation and storage schemes"
+    ],
+    [
+     "del",
+     "waiting for a grid connection. Last"
+    ],
+    [
+     "ins",
+     "which face years of delays to secure connection to the grid, yet are vital to meet the country's growing electricity demand. The government-owned National Energy System Operator, which runs the grid, used reforms last"
+    ],
+    [
+     "eq",
+     "year"
+    ],
+    [
+     "del",
+     "the grid operator, Neso, announced it was reforming the queue for renewable developers"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "be hooked up, clearing"
+    ],
+    [
+     "ins",
+     "clear"
+    ],
+    [
+     "eq",
+     "hundreds of dubious \"zombie\" projects"
+    ],
+    [
+     "del",
+     "- those without"
+    ],
+    [
+     "ins",
+     "from"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "right planning permissions or financing to move forward -"
+    ],
+    [
+     "ins",
+     "queue"
+    ],
+    [
+     "eq",
+     "to make way for"
+    ],
+    [
+     "ins",
+     "clean electricity"
+    ],
+    [
+     "eq",
+     "schemes with the best chance of"
+    ],
+    [
+     "del",
+     "delivering"
+    ],
+    [
+     "ins",
+     "achieving the government's energy targets. Tackling the datacentre queue will be more complicated, however, because there is little consensus within government over how much data capacity the UK will need in the coming years, despite the drive to create AI growth zones across the country to support their development. The energy system operator's most conservative forecasts for Great Britain's datacentre capacity by the end of the decade stand at 3.7GW, and their top-end estimates are 6.7GW. The government's own \"compute roadmap\" calls for \"at least 6GW of AI-capable datacentre capacity by 2030\". Meanwhile, experts have said the UK is likely to miss its target of creating a virtually carbon-free electricity system by 2030, raising the risk of greater than expected reliance"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "time."
+    ],
+    [
+     "ins",
+     "gas-fired power plants to fill a potential supply shortfall. Michael Shanks, the energy minister, said: \"Britain needs a grid connections system that works for the 21st century and allows businesses to invest and grow, creating jobs across the country. \"That's why this government reformed the connections process and why Ofgem's actions will help ensure that viable, connection-ready projects can get going and not be held up by speculative applications.\""
+    ],
+    [
+     "eq",
+     "Concerns over datacentre grid connections are not confined to Britain. The Uptime Institute, which inspects and rates datacentres, has identified 250 global"
+    ],
+    [
+     "del",
+     "datacentre"
+    ],
+    [
+     "eq",
+     "projects exceeding 100MW in energy demand - equivalent to the energy needs of about 300,000 homes -"
+    ],
+    [
+     "del",
+     "that have been"
+    ],
+    [
+     "eq",
+     "announced between 2021 and 2024. Uptime believes half of those projects will either not happen or their completion will be"
+    ],
+    [
+     "del",
+     "delayed. Even"
+    ],
+    [
+     "ins",
+     "delayed, but that even"
+    ],
+    [
+     "eq",
+     "in that"
+    ],
+    [
+     "del",
+     "scenario,"
+    ],
+    [
+     "ins",
+     "scenario"
+    ],
+    [
+     "eq",
+     "there will still be an \"unprecedented and rapid\" increase in the power required over the next five"
+    ],
+    [
+     "del",
+     "years, according"
+    ],
+    [
+     "ins",
+     "years. Ofgem's proposals will now undergo a consultation process"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "Uptime."
+    ],
+    [
+     "ins",
+     "test their feasibility."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.4854,
+  "numbers_changed": [
+   "140",
+   "2.5",
+   "2024",
+   "2030",
+   "21",
+   "3.7",
+   "6",
+   "6.7",
+   "7.5"
+  ],
+  "market_figures_changed": [
+   "2.5%",
+   "50%",
+   "7.5%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 2,
+  "blocks_added": 4,
+  "blocks_removed": 2,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.285,
+ "similarity": 0.8559,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,238 @@
+{
+ "id": "c9e3c9f1256ac993-48d88c03-1f53b7f0",
+ "url": "https://www.npr.org/2026/07/29/nx-s1-5911613/japan-earthquake-updates",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-30T08:36:32Z",
+ "date": "2026-07-30",
+ "old_title": "Rescuers search for the missing after Japan earthquake as death toll rises to 13",
+ "new_title": "Death toll rises to 18 as rescuers comb through quake rubble in southwestern Japan",
+ "old_text": "Rescuers search for the missing after Japan earthquake as death toll rises to 13\nKUMAMOTO, Japan - Soldiers and emergency workers combed through a badly damaged shopping mall and collapsed houses looking for trapped survivors Wednesday after a powerful earthquake that killed at least 13 people and left many missing in southwestern Japan.\nBullet train services and some airport operations remained suspended and damage was still being assessed a day after the magnitude 7.1 earthquake struck the Kumamoto area on the southern main island of Kyushu.\n\"There are people who are still waiting to be rescued, and it's a race against time,\" Prime Minister Sanae Takaichi said. \"We will go all out to find and rescue as many people as we can.\"\nAbout 36,900 homes were still without electricity, 9,500 homes were without gas and communication networks were not working in some areas, chief government spokesman Minoru Kihara told reporters.\nMore than 9,000 people left their homes to stay in more than 500 shelters, and he said power sources were being added so the evacuation centers had air conditioning. Japan has had an ongoing heat wave, and temperatures in the area were forecast to exceed 32 Celsius (90 Fahrenheit).\nJapan's Self Defense Forces joined rescue workers in the search and rescue operations at the badly damaged Aeon Mall in the town of Kashima. The building's second floor collapsed, trapping people, after an explosion suspected to have been caused by a gas leak. The number of people who still may be trapped was not available.\nA chimney collapsed at the Nippon Paper Industries Co.'s Yatsushiro factory, trapping people under the debris, the Kumamoto emergency team said. As of Wednesday, seven people were feared still trapped. Two survivors and two bodies were removed, officials said.\nTakaichi said the federal government was preparing to deliver food and other necessities to hard-hit areas. She also offered her condolences to the victims and sympathy to their relatives, while urging those affected by the quake to take care of themselves under the hot weather.\nThe Kyushu Shinkansen bullet train remained suspended Wednesday. Aso Kumamoto Airport was resuming operations after closing one runway Tuesday, but officials said some flights may be canceled.\nStone walls were damaged at Kumamoto Castle, a main tourist destination that was badly damaged in the 2016 quake and is still being repaired, Kyodo News reported.\n\"The shaking reminded me of the Kumamoto quake (10 years ago) and I was frightened,\" said Hiroki Shimoda, an official at Mifune town hall, who saw roof tiles of nearby homes crash to the ground. Kumamoto was hit with a deadly quake in 2016 that killed at least 50 people.",
+ "new_text": "Death toll rises to 18 as rescuers comb through quake rubble in southwestern Japan\nKUMAMOTO, Japan - Soldiers and emergency workers combed through a badly damaged shopping mall and collapsed houses looking for trapped survivors Wednesday after a powerful earthquake that killed at least 18 people, including a foreigner, in southwestern Japan.\nThe magnitude 7.1 earthquake that hit a day earlier in the Kumamoto area on the southern main island of Kyushu also left at least 62 people injured, six of them seriously, the prefectural government said. The tally has been steadily growing, fanning fears it may continue to rise.\nThe sweltering weather heightened worries about the survivors as rescuers braved the heat. It remained unclear how many people might still be missing.\nSome of the most serious damage was at the Aeon Mall shopping center in Kashima city, which was bustling with thousands of people when the quake happened. The company said some 3,000 customers were evacuated to a parking lot before a gas explosion happened in another part of the mall, where some people were still working.\nThe mall's second floor collapsed, trapping people. Witnesses said the explosion shook the area as much as the quake.\nThree people remained missing, while four deaths were confirmed at the mall site, according to Aeon President Akio Yoshida.\n\"We take it seriously that an explosion happened and precious lives were lost,\" Yoshida told a news conference in Kumamoto, where he bowed deeply along with two other executives.\nJapanese media footage of the mall showed that part of the ceiling had caved in, and metal pieces and other debris were scattered about as helmeted and masked rescue workers searched the area.\nKiyoshi Matsunaga, 74, who lives in the mall's neighborhood and was at a supermarket just a few blocks away, said he thought he was going to die.\nHe stopped in his tracks when the shaking began while he was pushing his cart toward a cash register. Things scattered from the shelves. He could not move, he recalled.\n\"I was frightened,\" he said.\nIn nearby Yatsushino, a chimney collapse at a Nippon Paper Industries factory killed five people while seven others were rescued from the debris, according to the Kumamoto prefectural government disaster team.\nFour people were still believed to be trapped there, it said.\nIn the first reported death of a foreign national, a Vietnamese technical intern was killed after a crane fell on him at a factory where he worked, according to the Vietnamese government. He had arrived in Japan in January. Seven other Vietnamese technical interns at the factory evacuated safely\nSeparately, a Vietnamese woman married to one of the workers was injured when a wall collapsed and was being treated at a hospital.\nNearly 34,900 homes were still without electricity and some 15,000 homes without running water, Kumamoto officials said. More than 8,800 people left their homes to stay in over 400 shelters, where power sources were being added to provide air conditioning.\nAerial police footage showed some homes in residential areas were completely flattened, including a few that crumbled into a nearby river.\nJapan's Self Defense Forces joined rescue workers in the search and rescue operations. Hundreds of professionals were helping with the effort, including firefighters from Taiwan.\n\"There are people who are still waiting to be rescued, and it's a race against time,\" Prime Minister Sanae Takaichi said. \"We will go all out to find and rescue as many people as we can.\"\nTakaichi said the federal government was preparing to deliver food and other necessities to hard-hit areas. She also offered her condolences to the victims and sympathy to their relatives, while urging those affected by the quake to take care of themselves under the hot weather.\nBullet train services remained suspended. Although operations at Aso Kumamoto Airport resumed Wednesday, some airlines canceled flights as a precautionary measure.\nKumamoto was hit with a deadly quake in 2016 that killed at least 50 people. Japan is one of the most quake-prone nations in the world.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Rescuers search for the missing after Japan earthquake as death"
+    ],
+    [
+     "ins",
+     "Death"
+    ],
+    [
+     "eq",
+     "toll rises to"
+    ],
+    [
+     "del",
+     "13"
+    ],
+    [
+     "ins",
+     "18 as rescuers comb through quake rubble in southwestern Japan"
+    ],
+    [
+     "eq",
+     "KUMAMOTO, Japan - Soldiers and emergency workers combed through a badly damaged"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "for trapped survivors Wednesday after a powerful earthquake that killed at least"
+    ],
+    [
+     "del",
+     "13 people and left many missing"
+    ],
+    [
+     "ins",
+     "18 people, including a foreigner,"
+    ],
+    [
+     "eq",
+     "in southwestern Japan."
+    ],
+    [
+     "del",
+     "Bullet train services and some airport operations remained suspended and damage was still being assessed a day after the"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "magnitude 7.1 earthquake"
+    ],
+    [
+     "del",
+     "struck"
+    ],
+    [
+     "ins",
+     "that hit a day earlier in"
+    ],
+    [
+     "eq",
+     "the Kumamoto area on the southern main island of"
+    ],
+    [
+     "del",
+     "Kyushu."
+    ],
+    [
+     "ins",
+     "Kyushu also left at least 62 people injured, six of them seriously, the prefectural government said. The tally has been steadily growing, fanning fears it may continue to rise. The sweltering weather heightened worries about the survivors as rescuers braved the heat. It remained unclear how many people might still be missing. Some of the most serious damage was at the Aeon Mall shopping center in Kashima city, which was bustling with thousands of people when the quake happened. The company said some 3,000 customers were evacuated to a parking lot before a gas explosion happened in another part of the mall, where some people were still working. The mall's second floor collapsed, trapping people. Witnesses said the explosion shook the area as much as the quake. Three people remained missing, while four deaths were confirmed at the mall site, according to Aeon President Akio Yoshida. \"We take it seriously that an explosion happened and precious lives were lost,\" Yoshida told a news conference in Kumamoto, where he bowed deeply along with two other executives. Japanese media footage of the mall showed that part of the ceiling had caved in, and metal pieces and other debris were scattered about as helmeted and masked rescue workers searched the area. Kiyoshi Matsunaga, 74, who lives in the mall's neighborhood and was at a supermarket just a few blocks away, said he thought he was going to die. He stopped in his tracks when the shaking began while he was pushing his cart toward a cash register. Things scattered from the shelves. He could not move, he recalled. \"I was frightened,\" he said. In nearby Yatsushino, a chimney collapse at a Nippon Paper Industries factory killed five people while seven others were rescued from the debris, according to the Kumamoto prefectural government disaster team. Four people were still believed to be trapped there, it said. In the first reported death of a foreign national, a Vietnamese technical intern was killed after a crane fell on him at a factory where he worked, according to the Vietnamese government. He had arrived in Japan in January. Seven other Vietnamese technical interns at the factory evacuated safely Separately, a Vietnamese woman married to one of the workers was injured when a wall collapsed and was being treated at a hospital. Nearly 34,900 homes were still without electricity and some 15,000 homes without running water, Kumamoto officials said. More than 8,800 people left their homes to stay in over 400 shelters, where power sources were being added to provide air conditioning. Aerial police footage showed some homes in residential areas were completely flattened, including a few that crumbled into a nearby river. Japan's Self Defense Forces joined rescue workers in the search and rescue operations. Hundreds of professionals were helping with the effort, including firefighters from Taiwan."
+    ],
+    [
+     "eq",
+     "\"There are people who are still waiting to be rescued, and it's"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "all out to find and rescue as many people as we can.\""
+    ],
+    [
+     "del",
+     "About 36,900 homes were still without electricity, 9,500 homes were without gas and communication networks were not working in some areas, chief government spokesman Minoru Kihara told reporters. More than 9,000 people left their homes to stay in more than 500 shelters, and he said power sources were being added so the evacuation centers had air conditioning. Japan has had an ongoing heat wave, and temperatures in the area were forecast to exceed 32 Celsius (90 Fahrenheit). Japan's Self Defense Forces joined rescue workers in the search and rescue operations at the badly damaged Aeon Mall in the town of Kashima. The building's second floor collapsed, trapping people, after an explosion suspected to have been caused by a gas leak. The number of people who still may be trapped was not available. A chimney collapsed at the Nippon Paper Industries Co.'s Yatsushiro factory, trapping people under the debris, the Kumamoto emergency team said. As of Wednesday, seven people were feared still trapped. Two survivors and two bodies were removed, officials said."
+    ],
+    [
+     "eq",
+     "Takaichi said the federal government was preparing to deliver food and other"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "by the quake to take care of themselves under the hot weather."
+    ],
+    [
+     "del",
+     "The Kyushu Shinkansen bullet"
+    ],
+    [
+     "ins",
+     "Bullet"
+    ],
+    [
+     "eq",
+     "train"
+    ],
+    [
+     "ins",
+     "services"
+    ],
+    [
+     "eq",
+     "remained"
+    ],
+    [
+     "del",
+     "suspended Wednesday."
+    ],
+    [
+     "ins",
+     "suspended. Although operations at"
+    ],
+    [
+     "eq",
+     "Aso Kumamoto Airport"
+    ],
+    [
+     "del",
+     "was resuming operations after closing one runway Tuesday, but officials said"
+    ],
+    [
+     "ins",
+     "resumed Wednesday,"
+    ],
+    [
+     "eq",
+     "some"
+    ],
+    [
+     "ins",
+     "airlines canceled"
+    ],
+    [
+     "eq",
+     "flights"
+    ],
+    [
+     "del",
+     "may be canceled. Stone walls were damaged at Kumamoto Castle,"
+    ],
+    [
+     "ins",
+     "as"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "main tourist destination that was badly damaged in the 2016 quake and is still being repaired, Kyodo News reported. \"The shaking reminded me of the Kumamoto quake (10 years ago) and I was frightened,\" said Hiroki Shimoda, an official at Mifune town hall, who saw roof tiles of nearby homes crash to the ground."
+    ],
+    [
+     "ins",
+     "precautionary measure."
+    ],
+    [
+     "eq",
+     "Kumamoto was hit with a deadly quake in 2016 that killed at least 50 people."
+    ],
+    [
+     "ins",
+     "Japan is one of the most quake-prone nations in the world."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.8258,
+  "numbers_changed": [
+   "10",
+   "13",
+   "15,000",
+   "18",
+   "2016",
+   "3,000",
+   "32",
+   "34,900",
+   "36,900",
+   "400",
+   "500",
+   "62",
+   "74",
+   "8,800",
+   "9,000",
+   "9,500",
+   "90"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 1,
+  "blocks_added": 1,
+  "blocks_removed": 2,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.1,
+ "similarity": 0.7791,
+ "adjudicated_by": "rules"
+}

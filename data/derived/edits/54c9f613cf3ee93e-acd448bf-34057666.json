@@ -1,0 +1,121 @@
+{
+ "id": "54c9f613cf3ee93e-acd448bf-34057666",
+ "url": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-07-30T08:45:31Z",
+ "date": "2026-07-30",
+ "old_title": "Amboseli elephant deaths: Kenya Wildlife Service launches urgent inquiry after 14 carcasses found",
+ "new_title": "Amboseli elephant deaths: Kenya Wildlife Service launches urgent inquiry after 14 carcasses found",
+ "old_text": "- Published\nAn urgent investigation has been launched into the mysterious deaths of 14 elephants in southern Kenya near the Amboseli National Park.\nThe Kenya Wildlife Service (KWS) told the BBC that experts were examining the carcasses and said that tissue samples had been sent to laboratories to determine whether the deaths were caused by disease, poisoning or another factor.\nThe park and its surrounds are known as the Amboseli ecosystem, a vast area that straddles the border with Tanzania, which is famous for its wildlife.\nOfficials say this is the first time in decades that elephant mortalities on this scale have been recorded in the region where they have successfully cracked down on poaching.\nKWS says there is currently no evidence pointing to a single cause of death.\nThe carcasses include elephants of different ages and sexes, suggesting the deaths are not limited to a single family or demographic.\nThe wildlife agency's head of communication, Duncan Wanyama, told local media the bodies had been found at different locations surrounding the Amboseli National Park, around 15km (nine miles) to 30km from its boundaries.\nAccording to figures from the Amboseli Trust for Elephants, which monitors the movements of the animals, there were more than 2,000 elephants in the Amboseli ecosystem as of 2025.",
+ "new_text": "- Published\nAn urgent investigation has been launched into the mysterious deaths of 15 elephants in southern Kenya near the Amboseli National Park.\nThe Kenya Wildlife Service (KWS) told the BBC that experts were examining the carcasses and said that tissue samples had been sent to laboratories to determine whether the deaths were caused by disease, poisoning or another factor.\nThe park and its surrounds are known as the Amboseli ecosystem, a vast area that straddles the border with Tanzania, which is famous for its wildlife.\nOfficials say this is the first time in decades that elephant mortalities on this scale have been recorded in the region where they have successfully cracked down on poaching.\nKWS says there is currently no evidence pointing to a single cause of death.\nThe carcasses include elephants of different ages and sexes, suggesting the deaths are not limited to a single family or demographic.\nThe KWS said the deaths occurred over a month between 24 June and 24 July 2026.\nThe wildlife authorities also confirmed to the BBC all the deaths had been recorded outside the Amboseli National Park.\nEarlier, KWS's head of communication Duncan Wanyama told local media the bodies had been found at different locations surrounding the park, around 15km (nine miles) to 30km from its boundaries.\nAccording to figures from the Amboseli Trust for Elephants, which monitors the movements of the animals, there were more than 2,000 elephants in the Amboseli ecosystem as of 2025.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Published An urgent investigation has been launched into the mysterious deaths of"
+    ],
+    [
+     "del",
+     "14"
+    ],
+    [
+     "ins",
+     "15"
+    ],
+    [
+     "eq",
+     "elephants in southern Kenya near the Amboseli National Park. The Kenya Wildlife"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the deaths are not limited to a single family or demographic. The"
+    ],
+    [
+     "ins",
+     "KWS said the deaths occurred over a month between 24 June and 24 July 2026. The"
+    ],
+    [
+     "eq",
+     "wildlife"
+    ],
+    [
+     "del",
+     "agency's"
+    ],
+    [
+     "ins",
+     "authorities also confirmed to the BBC all the deaths had been recorded outside the Amboseli National Park. Earlier, KWS's"
+    ],
+    [
+     "eq",
+     "head of"
+    ],
+    [
+     "del",
+     "communication,"
+    ],
+    [
+     "ins",
+     "communication"
+    ],
+    [
+     "eq",
+     "Duncan"
+    ],
+    [
+     "del",
+     "Wanyama,"
+    ],
+    [
+     "ins",
+     "Wanyama"
+    ],
+    [
+     "eq",
+     "told local media the bodies had been found at different locations surrounding the"
+    ],
+    [
+     "del",
+     "Amboseli National Park,"
+    ],
+    [
+     "ins",
+     "park,"
+    ],
+    [
+     "eq",
+     "around 15km (nine miles) to 30km from its boundaries. According to figures"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.217,
+  "numbers_changed": [
+   "14",
+   "15",
+   "2026",
+   "24"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9836,
+ "adjudicated_by": "rules"
+}

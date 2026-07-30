@@ -1,0 +1,276 @@
+{
+ "id": "19ac64982a8006d2-ca044821-ca6e0618",
+ "url": "https://news.un.org/feed/view/en/story/2026/07/1168038",
+ "domain": "news.un.org",
+ "source": "UN News",
+ "country": "International",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-30T08:41:51Z",
+ "date": "2026-07-30",
+ "old_title": "Forced online scams: IOM warns trafficking networks are booming",
+ "new_title": "Forced online scams: IOM warns trafficking networks are booming",
+ "old_text": "Forced online scams: IOM warns trafficking networks are booming\nA job advert can hide a criminal network, and a single click can lead to a nightmare. Hundreds of thousands of people are trafficked every year on the promise of legitimate work abroad, only to be held captive and forced into online scam operations.\nThe UN International Organization for Migration (IOM) issued an alert *on Tuesday over the rapidly expanding, multibillion-dollar criminal industry that turns job seekers into forced cybercriminals.\nInternational enterprise\n\"We're seeing victims from over 80 different countries being trafficked into the scam centres, which are specifically playing out across Asia,\" said Amy Pope, IOM Director General, briefing journalists in Geneva.\nUN News's Dan Dickinson went on assignment two years ago to the region and produced a hard-hitting series you can read here on the scam farms, facilitated by the UN crime-fighting agency, UNODC\nRecruiters target people who speak good English and often hold degrees, she said, advertising what look like ordinary jobs on social media.\nOnce victims arrive, they are locked inside compounds, stripped of their passports and phones, and put under constant watch.\nMany are beaten or threatened and forced - through violence and debt bondage - to run scam operations targeting people worldwide. \"They're often subjected to physical or mental abuse. They are often unable to leave,\" Ms. Pope said.\n'Too good to be true'\nThe warning signs are there for anyone willing to look, she added: \"What often presents as something that looks like an ideal job opportunity is just too good to be true.\" One red flag IOM has identified is travel on a tourist visa rather than a work permit - a question every applicant should ask before departure.\nCrucially, IOM insists that people forced to run scams from inside these compounds are trafficking victims, not criminals, and should be protected rather than prosecuted. \"We're seeing many of the survivors of trafficking actually being identified as criminals, but in reality, they are the victims of this crime,\" Ms Pope said.\nThough the scam centres are based in Asia, traffickers recruit globally through social media. Between 2022 and 2025, IOM assisted more than 3,500 victims of forced criminality in South-East Asia, drawn from 39 countries - most from Indonesia, India, Sri Lanka, Ethiopia, Kenya and Bangladesh.\nStaggering scam\nRescue is only the start of recovery: survivors often return home facing trauma, stigma, debt, missing documents and fear of prosecution.\nThe scale is staggering. New UN Office on Drugs and Crime data put 2025 losses from scam offences across East and South-East Asia, Australia and New Zealand at between $88.3 billion and $114.1 billion - dwarfing the resources devoted to fighting trafficking. \"Unless we take the issue quite seriously, we anticipate it will continue to grow,\" Ms Pope warned.\nIOM is calling for greater investment in victim protection, safe return and reintegration, and wider public awareness of traffickers' tactics.\n*IOM released its latest findings ahead of World Day Against Trafficking in Persons, marked on 30 July",
+ "new_text": "Forced online scams: IOM warns trafficking networks are booming\nA job advert can hide a criminal network, and a single click can lead to a nightmare. Hundreds of thousands of people are trafficked every year on the promise of legitimate work abroad, only to be held captive and forced into online scam operations.\nThe UN International Organization for Migration (IOM) issued an alert* on Tuesday over the rapidly expanding, multibillion-dollar criminal industry that turns job seekers into forced cybercriminals.\nInternational enterprise\n\"We're seeing victims from over 80 different countries being trafficked into the scam centres, which are specifically playing out across Asia,\" said Amy Pope, IOM Director General, briefing journalists in Geneva.\nUN News's Dan Dickinson went on assignment two years ago to the region and produced a hard-hitting series you can read here on the scam farms, facilitated by the UN crime-fighting agency, UNODC.\nRecruiters target people who speak English well and often hold degrees, she said, advertising what look like ordinary jobs on social media.\nOnce victims arrive, they are locked inside compounds, stripped of their passports and phones and put under constant watch.\nMany are beaten or threatened and forced through violence and debt bondage to run scam operations targeting people worldwide. \"They're often subjected to physical or mental abuse. They are often unable to leave,\" Ms. Pope said.\n'Too good to be true'\nThe warning signs are there for anyone willing to look, she added.\n\"What often presents as something that looks like an ideal job opportunity is just too good to be true,\" she said.\nOne red flag IOM has identified is travel on a tourist visa rather than a work permit, a question every applicant should ask before departure.\nCrucially, IOM insists that people forced to run scams from inside these compounds are trafficking victims, not criminals, and should be protected rather than prosecuted.\n\"We're seeing many of the survivors of trafficking actually being identified as criminals, but in reality, they are the victims of this crime,\" Ms. Pope said.\nThough the scam centres are based in Asia, traffickers recruit globally through social media. Between 2022 and 2025, IOM assisted more than 3,500 victims of forced criminality in South-East Asia, drawn from 39 countries, mostly from Indonesia, India, Sri Lanka, Ethiopia, Kenya and Bangladesh.\nStaggering scam\nRescue is only the start of recovery. Survivors often return home facing trauma, stigma, debt, missing documents and fear of prosecution.\nThe scale is staggering. New UN Office on Drugs and Crime data put 2025 losses from scam offences across East and South-East Asia, Australia and New Zealand at between $88.3 billion and $114.1 billion, dwarfing the resources devoted to fighting trafficking.\n\"Unless we take the issue quite seriously, we anticipate it will continue to grow,\" Ms. Pope warned.\nIOM is calling for greater investment in victim protection, safe return and reintegration and wider public awareness of traffickers' tactics.\n* IOM released its latest findings ahead of World Day Against Trafficking in Persons, marked on 30 July",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "online scam operations. The UN International Organization for Migration (IOM) issued an"
+    ],
+    [
+     "del",
+     "alert *on"
+    ],
+    [
+     "ins",
+     "alert* on"
+    ],
+    [
+     "eq",
+     "Tuesday over the rapidly expanding, multibillion-dollar criminal industry that turns job seekers"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "read here on the scam farms, facilitated by the UN crime-fighting agency,"
+    ],
+    [
+     "del",
+     "UNODC"
+    ],
+    [
+     "ins",
+     "UNODC."
+    ],
+    [
+     "eq",
+     "Recruiters target people who speak"
+    ],
+    [
+     "del",
+     "good"
+    ],
+    [
+     "eq",
+     "English"
+    ],
+    [
+     "ins",
+     "well"
+    ],
+    [
+     "eq",
+     "and often hold degrees, she said, advertising what look like ordinary jobs"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "victims arrive, they are locked inside compounds, stripped of their passports and"
+    ],
+    [
+     "del",
+     "phones,"
+    ],
+    [
+     "ins",
+     "phones"
+    ],
+    [
+     "eq",
+     "and put under constant watch. Many are beaten or threatened and forced"
+    ],
+    [
+     "del",
+     "-"
+    ],
+    [
+     "eq",
+     "through violence and debt bondage"
+    ],
+    [
+     "del",
+     "-"
+    ],
+    [
+     "eq",
+     "to run scam operations targeting people worldwide. \"They're often subjected to physical"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "true' The warning signs are there for anyone willing to look, she"
+    ],
+    [
+     "del",
+     "added:"
+    ],
+    [
+     "ins",
+     "added."
+    ],
+    [
+     "eq",
+     "\"What often presents as something that looks like an ideal job opportunity is just too good to be"
+    ],
+    [
+     "del",
+     "true.\""
+    ],
+    [
+     "ins",
+     "true,\" she said."
+    ],
+    [
+     "eq",
+     "One red flag IOM has identified is travel on a tourist visa rather than a work"
+    ],
+    [
+     "del",
+     "permit -"
+    ],
+    [
+     "ins",
+     "permit,"
+    ],
+    [
+     "eq",
+     "a question every applicant should ask before departure. Crucially, IOM insists that"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "as criminals, but in reality, they are the victims of this crime,\""
+    ],
+    [
+     "del",
+     "Ms"
+    ],
+    [
+     "ins",
+     "Ms."
+    ],
+    [
+     "eq",
+     "Pope said. Though the scam centres are based in Asia, traffickers recruit"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "than 3,500 victims of forced criminality in South-East Asia, drawn from 39"
+    ],
+    [
+     "del",
+     "countries - most"
+    ],
+    [
+     "ins",
+     "countries, mostly"
+    ],
+    [
+     "eq",
+     "from Indonesia, India, Sri Lanka, Ethiopia, Kenya and Bangladesh. Staggering scam Rescue is only the start of"
+    ],
+    [
+     "del",
+     "recovery: survivors"
+    ],
+    [
+     "ins",
+     "recovery. Survivors"
+    ],
+    [
+     "eq",
+     "often return home facing trauma, stigma, debt, missing documents and fear of"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "South-East Asia, Australia and New Zealand at between $88.3 billion and $114.1"
+    ],
+    [
+     "del",
+     "billion -"
+    ],
+    [
+     "ins",
+     "billion,"
+    ],
+    [
+     "eq",
+     "dwarfing the resources devoted to fighting trafficking. \"Unless we take the issue quite seriously, we anticipate it will continue to grow,\""
+    ],
+    [
+     "del",
+     "Ms"
+    ],
+    [
+     "ins",
+     "Ms."
+    ],
+    [
+     "eq",
+     "Pope warned. IOM is calling for greater investment in victim protection, safe return and"
+    ],
+    [
+     "del",
+     "reintegration,"
+    ],
+    [
+     "ins",
+     "reintegration"
+    ],
+    [
+     "eq",
+     "and wider public awareness of traffickers' tactics."
+    ],
+    [
+     "del",
+     "*IOM"
+    ],
+    [
+     "ins",
+     "* IOM"
+    ],
+    [
+     "eq",
+     "released its latest findings ahead of World Day Against Trafficking in Persons, marked on 30 July"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0838,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9982,
+ "adjudicated_by": "rules"
+}

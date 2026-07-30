@@ -1,0 +1,68 @@
+{
+ "id": "9ff825ef0c5859d6-326abeed-02171bbc",
+ "url": "https://www.france24.com/en/tv-shows/sports/20260729-new-era-for-france-as-zin%C3%A9dine-zidane-takes-charge-of-national-team",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-30T08:38:43Z",
+ "date": "2026-07-30",
+ "old_title": "Sports - New era for France as Zidane takes charge of national team",
+ "new_title": "Sports - New era for France as Zidane takes charge of national team",
+ "old_text": "New era for France as Zidane takes charge of national team\nIssued on:\nZinédine Zidane has been officially appointed as the new manager of the French men's national team. He has signed a four-year contract, with Euro 2028 and the 2030 World Cup as his objectives.\nIn Italy, Roberto Mancini returns as national team manager. RC Lens are continuing their strong pre-season form. Bradley Barcola could be set to leave Paris Saint-Germain for Liverpool. In tennis, Arthur Fils is causing concern, whilst Adrian Mannarino is causing a surprise. In the NBA, Draymond Green has extended his contract with the Golden State Warriors.",
+ "new_text": "New era for France as Zidane takes charge of national team\nIssued on:\nZinédine Zidane has been officially appointed as the new manager of the French men's national team. He has signed a four-year contract, with Euro 2028 and the 2030 World Cup as his objectives.\nAlso in this edition:\nIn Italy, Roberto Mancini returns as national team manager. RC Lens are continuing their strong pre-season form. Bradley Barcola could be set to leave Paris Saint-Germain for Liverpool. In tennis, Arthur Fils is causing concern, while Adrian Mannarino is causing a surprise. In the NBA, Draymond Green has extended his contract with the Golden State Warriors.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "contract, with Euro 2028 and the 2030 World Cup as his objectives."
+    ],
+    [
+     "ins",
+     "Also in this edition:"
+    ],
+    [
+     "eq",
+     "In Italy, Roberto Mancini returns as national team manager. RC Lens are"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "leave Paris Saint-Germain for Liverpool. In tennis, Arthur Fils is causing concern,"
+    ],
+    [
+     "del",
+     "whilst"
+    ],
+    [
+     "ins",
+     "while"
+    ],
+    [
+     "eq",
+     "Adrian Mannarino is causing a surprise. In the NBA, Draymond Green has extended his contract with the Golden State Warriors."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0588,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9955,
+ "adjudicated_by": "rules"
+}

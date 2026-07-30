@@ -1,0 +1,214 @@
+{
+ "id": "b844194e87d3715b-929f5588-ae16549f",
+ "url": "https://www.dw.com/en/europe-wildfires-france-expands-mass-evacuations-as-spain-battles-record-blaze/a-78153758?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-30T08:38:05Z",
+ "date": "2026-07-30",
+ "old_title": "France expands mass evacuations as Spain battles wildfires",
+ "new_title": "Spain lets wildfire evacuees return, severe heat hits France",
+ "old_text": "As Spain battled its largest wildfire on record and France carried out one of Europe's biggest evacuations since World War II, scientists warned that extreme wildfires are becoming more frequent worldwide.\nOn Tuesday, French authorities evacuated another 4,000 people from Atlantic coast resorts adding to the 220,000 other people fleeing a blazing wildfire in southwest France.\nFresh fires broke out near the Atlantic resort of Grand Crohot west of Bordeaux, prompting authorities to deploy 23 planes and helicopters to contain the flames.\n\"The situation remains complicated. We're not out of the woods,\" said Sophie Brocas, the top government official in the coastal region of Gironde, where Grand Crohot and Bordeaux are located.\nThe Gironde wildfire has burned an area four times the size of Paris, and resisted the firefighting efforts of a dozen countries.\nEvacuees allowed to return in Spain\nIn Spain, there was a respite for the evacuees as thousands of residents were allowed to return home after firefighters managed to contain major blazes.\nHowever, authorities remained on alert for a fourth summer heatwave with temperatures expected to exceed 40 degrees Celsius (104 degrees Fahrenheit) on Wednesday.\nThe biggest concern for firefighters in Spain was two large fires that had at times come close to merging into a single blaze in wooded hills to the west of Madrid.\nIn Avila, to the northwest of Madrid, a pyrocumulonimbus cloud was seen over the blaze. Scientists describe these clouds as fire-generated thunderstorms forming over intense heat sources like wildfires or volcanic eruptions.\n\"We are feeling a lot of anger and helplessness. It's something inhuman,\" 48-year-old gardener David Gonzalez said about the destruction caused by the fires in Avila.\nExperts fear that incoming heat waves might cause the blazing fires to worsen.\nClimate change exacerbating wildfires\nScientists say climate change is fueling hotter, drier summers that are intensifying wildfires across Europe. The warmer temperatures are also extending fire seasons and making these blazes harder to control, straining the resources of European nations.\nCurrently, the European Union only coordinates the deployment of extra resources pooled from its member states when a country requests emergency help. As fires on the continent grow more extreme, however, the bloc called for greater investment in forest management and wildfire prevention.\nBrussels is purchasing its own permanent firefighting fleet.\n\"Climate change is accelerating. So, our response must evolve just as quickly,\" Hadja Lahbib, the EU's Crisis Management Commissioner, told Reuters.\nEdited by: Darko Janjevic\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "As Spain battled its largest wildfire on record and France struggled to contain a blaze four times the size of Paris, scientists warned that extreme wildfires were becoming more frequent worldwide.\nEvacuees allowed to return in Spain\nSpain started lifting evacuation orders for various places in the Avila province on Wednesday, having taken similar steps in the Madrid province on Tuesday.\nInterior Minister Francisco Martin Aguirre announced progressively reduced restrictions for a variety of places after conditions overnight allowed firefighters to make gains, saying tens of thousands had been able to return home.\nSanchez: 'Next 12 hours will be very important'\n\"Today, I believe we are closer to that final objective\" of \"defeating the fire,\" Prime Minister Pedro Sanchez told reporters in televised comments at a command center in the town of Navalarnero near the fire zone.\n\"Things are progressing favorably, with the greatest of caution,\" he said, predicting that \"the next 12 hours will be very imporant - they will be decisive for consolidating the work that has been done.\"\nFor a week, Spain has been fighting two large fires that had at times come close to merging into a single blaze in wooded hills west of Madrid.\nHowever, authorities remain on alert, with highs consistently above 35 degrees Celsius (95 degrees Fahrenheit) forecast every day in the Madrid area this week.\nHeat warnings across most of France, including fire flashpoint Gironde\nOn France's southwestern Atlantic coast, temperatures and winds picked up once more on Wednesday, threatening to fan the flames.\nTemperature warnings were in place for most of the country, with the most severe on the eastern border and in the southwestern areas hardest hit by fires, including the Gironde region. The Meteo France weather service forecast highs of 40 Celsius in the Bordeaux area in the afternoon.\nFrench authorities have been forced to relocate around 220,000 people in total amid the fires, many of them from holiday resorts on the coast - like Lacanau and Grand Cohot on Tuesday.\nMore than 2,200 firefighters and over 20 aircraft remained mobilized, backed by crews from across France and European partners.\n\"We strike quickly and strike hard at any new smoke emissions,\" Gironde fire commander Matthieu Jomain said.\nThe Gironde wildfire has burned an area four times the size of Paris, and resisted the firefighting efforts of a dozen countries.\nClimate change exacerbating wildfires\nScientists say climate change is fueling hotter, drier summers that are intensifying wildfires across Europe. The warmer temperatures are also extending fire seasons and making these blazes harder to control, straining the resources of European nations.\nCurrently, the European Union only coordinates the deployment of extra resources pooled from its member states when a country requests emergency help. As fires on the continent grow more extreme, however, the bloc called for greater investment in forest management and wildfire prevention.\nBrussels is purchasing its own permanent firefighting fleet.\n\"Climate change is accelerating. So, our response must evolve just as quickly,\" Hadja Lahbib, the EU's Crisis Management Commissioner, told Reuters.\nEdited by: Sean Sinico\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "As Spain battled its largest wildfire on record and France"
+    ],
+    [
+     "del",
+     "carried out one"
+    ],
+    [
+     "ins",
+     "struggled to contain a blaze four times the size"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "Europe's biggest evacuations since World War II,"
+    ],
+    [
+     "ins",
+     "Paris,"
+    ],
+    [
+     "eq",
+     "scientists warned that extreme wildfires"
+    ],
+    [
+     "del",
+     "are"
+    ],
+    [
+     "ins",
+     "were"
+    ],
+    [
+     "eq",
+     "becoming more frequent worldwide."
+    ],
+    [
+     "ins",
+     "Evacuees allowed to return in Spain Spain started lifting evacuation orders for various places in the Avila province on Wednesday, having taken similar steps in the Madrid province on Tuesday. Interior Minister Francisco Martin Aguirre announced progressively reduced restrictions for a variety of places after conditions overnight allowed firefighters to make gains, saying tens of thousands had been able to return home. Sanchez: 'Next 12 hours will be very important' \"Today, I believe we are closer to that final objective\" of \"defeating the fire,\" Prime Minister Pedro Sanchez told reporters in televised comments at a command center in the town of Navalarnero near the fire zone. \"Things are progressing favorably, with the greatest of caution,\" he said, predicting that \"the next 12 hours will be very imporant - they will be decisive for consolidating the work that has been done.\" For a week, Spain has been fighting two large fires that had at times come close to merging into a single blaze in wooded hills west of Madrid. However, authorities remain on alert, with highs consistently above 35 degrees Celsius (95 degrees Fahrenheit) forecast every day in the Madrid area this week. Heat warnings across most of France, including fire flashpoint Gironde"
+    ],
+    [
+     "eq",
+     "On"
+    ],
+    [
+     "del",
+     "Tuesday,"
+    ],
+    [
+     "ins",
+     "France's southwestern Atlantic coast, temperatures and winds picked up once more on Wednesday, threatening to fan the flames. Temperature warnings were in place for most of the country, with the most severe on the eastern border and in the southwestern areas hardest hit by fires, including the Gironde region. The Meteo France weather service forecast highs of 40 Celsius in the Bordeaux area in the afternoon."
+    ],
+    [
+     "eq",
+     "French authorities"
+    ],
+    [
+     "del",
+     "evacuated another 4,000"
+    ],
+    [
+     "ins",
+     "have been forced to relocate around 220,000"
+    ],
+    [
+     "eq",
+     "people"
+    ],
+    [
+     "ins",
+     "in total amid the fires, many of them"
+    ],
+    [
+     "eq",
+     "from"
+    ],
+    [
+     "del",
+     "Atlantic"
+    ],
+    [
+     "ins",
+     "holiday resorts on the"
+    ],
+    [
+     "eq",
+     "coast"
+    ],
+    [
+     "del",
+     "resorts adding to the 220,000 other people fleeing a blazing wildfire in southwest France. Fresh fires broke out near the Atlantic resort of"
+    ],
+    [
+     "ins",
+     "- like Lacanau and"
+    ],
+    [
+     "eq",
+     "Grand"
+    ],
+    [
+     "del",
+     "Crohot west of Bordeaux, prompting authorities to deploy 23 planes"
+    ],
+    [
+     "ins",
+     "Cohot on Tuesday. More than 2,200 firefighters"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "helicopters to contain the flames. \"The situation remains complicated. We're not out of the woods,\" said Sophie Brocas, the top government official in the coastal region of Gironde, where Grand Crohot"
+    ],
+    [
+     "ins",
+     "over 20 aircraft remained mobilized, backed by crews from across France"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "Bordeaux are located."
+    ],
+    [
+     "ins",
+     "European partners. \"We strike quickly and strike hard at any new smoke emissions,\" Gironde fire commander Matthieu Jomain said."
+    ],
+    [
+     "eq",
+     "The Gironde wildfire has burned an area four times the size of Paris, and resisted the firefighting efforts of a dozen countries."
+    ],
+    [
+     "del",
+     "Evacuees allowed to return in Spain In Spain, there was a respite for the evacuees as thousands of residents were allowed to return home after firefighters managed to contain major blazes. However, authorities remained on alert for a fourth summer heatwave with temperatures expected to exceed 40 degrees Celsius (104 degrees Fahrenheit) on Wednesday. The biggest concern for firefighters in Spain was two large fires that had at times come close to merging into a single blaze in wooded hills to the west of Madrid. In Avila, to the northwest of Madrid, a pyrocumulonimbus cloud was seen over the blaze. Scientists describe these clouds as fire-generated thunderstorms forming over intense heat sources like wildfires or volcanic eruptions. \"We are feeling a lot of anger and helplessness. It's something inhuman,\" 48-year-old gardener David Gonzalez said about the destruction caused by the fires in Avila. Experts fear that incoming heat waves might cause the blazing fires to worsen."
+    ],
+    [
+     "eq",
+     "Climate change exacerbating wildfires Scientists say climate change is fueling hotter, drier"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "quickly,\" Hadja Lahbib, the EU's Crisis Management Commissioner, told Reuters. Edited by:"
+    ],
+    [
+     "del",
+     "Darko Janjevic"
+    ],
+    [
+     "ins",
+     "Sean Sinico"
+    ],
+    [
+     "eq",
+     "Don't let the algorithm hide the news. If you rely on our"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.2848,
+  "numbers_changed": [
+   "104",
+   "12",
+   "2,200",
+   "20",
+   "23",
+   "35",
+   "4,000",
+   "48",
+   "95"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 2,
+  "blocks_added": 2,
+  "blocks_removed": 2,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.6,
+ "similarity": 0.7433,
+ "adjudicated_by": "rules"
+}
