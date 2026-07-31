@@ -1,0 +1,31 @@
+{
+ "id": "e312eac4f1c1bcce-63254aa2-585841b9",
+ "url": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-07-31T09:12:58Z",
+ "date": "2026-07-31",
+ "old_title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
+ "new_title": "Attitude control issues leave Swift rescue mission spinning in orbit",
+ "old_text": "Nearly a month since its launch, a first-of-its-kind commercial satellite built to save NASA's Swift gamma-ray telescope from a fiery reentry is having problems of its own, the agency announced Tuesday.\nThe Link satellite developed by Katalyst Space Technologies \"experienced issues with attitude control\" over the weekend, NASA said, causing the spacecraft to spin and resulting in sporadic communications.\n\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable, and there is some loss of functionality in its cold gas thruster system,\" NASA said.\nReaction wheels work by discharging momentum to control the pointing, or attitude, of a spacecraft in orbit. They are standard components on many satellites. The Link servicing satellite's cold gas thruster system is used for finer control, particularly as it nears the mission's target: NASA's Swift observatory.\nHigh risk, high reward\nThe Link mission began July 3 with a ride to orbit aboard an air-launched Northrop Grumman Pegasus XL rocket. NASA and Katalyst reported good progress in the first weeks of the mission, with successful deployment of the satellite's power-generating solar arrays and stable contact with ground controllers at Katalyst's operations center. The spacecraft's xenon-fueled electric thrusters also completed their first firings in orbit.\nThe electric thrusters are one of the most critical elements of the rescue mission. They are used for orbit raising to allow Link to rendezvous with the Swift satellite some 200 miles above Earth. Once Link attaches itself to Swift with a set of three robotic arms, the electric thrusters will turn on again to raise Swift's orbit and save it from destruction. Katalyst is now calling upon the electric thrusters to stabilize the Link spacecraft's attitude, something they were not intended to do.\nWithout a rescue, Swift is on track to reenter the atmosphere and burn up in the next few months. The Neil Gehrels Swift Observatory is nearly 22 years old and is operating well beyond its originally intended lifetime. The spacecraft cannot save itself because it lacks its own propulsion system. NASA officials want to keep Swift going because it is one of the only missions in the agency's fleet tuned to detect gamma-ray bursts, the most powerful explosions in the known Universe. NASA is paying Katalyst $30 million for the rescue service.",
+ "new_text": "Nearly a month since its launch, a first-of-its-kind commercial satellite built to save NASA's Swift gamma-ray telescope from a fiery reentry is having problems of its own, the agency announced Tuesday.\nThe Link satellite developed by Katalyst Space Technologies \"experienced issues with attitude control\" over the weekend, NASA said, causing the spacecraft to spin and resulting in sporadic communications.\n\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable, and there is some loss of functionality in its cold gas thruster system,\" NASA said.\nReaction wheels work by discharging momentum to control the pointing, or attitude, of a spacecraft in orbit. They are standard components on many satellites. The Link servicing satellite's cold gas thruster system is used for finer control, particularly as it nears the mission's target: NASA's Swift observatory.\nHigh risk, high reward\nThe Link mission began July 3 with a ride to orbit aboard an air-launched Northrop Grumman Pegasus XL rocket. NASA and Katalyst reported good progress in the first weeks of the mission, with successful deployment of the satellite's power-generating solar arrays and stable contact with ground controllers at Katalyst's operations center. The spacecraft's xenon-fueled electric thrusters also completed their first firings in orbit.\nThe electric thrusters are one of the most critical elements of the rescue mission. They are used for orbit raising to allow Link to rendezvous with the Swift satellite some 200 miles above Earth. Once Link attaches itself to Swift with a set of three robotic arms, the electric thrusters will turn on again to raise Swift's orbit and save it from destruction. Katalyst is now calling upon the electric thrusters to stabilize the Link spacecraft's attitude, something they were not intended to do.\nWithout a rescue, Swift is on track to reenter the atmosphere and burn up in the next few months. The Neil Gehrels Swift Observatory is nearly 22 years old and is operating well beyond its originally intended lifetime. The spacecraft cannot save itself because it lacks its own propulsion system. NASA officials want to keep Swift going because it is one of the only missions in the agency's fleet tuned to detect gamma-ray bursts, the most powerful explosions in the known Universe. NASA is paying Katalyst $30 million for the rescue service.",
+ "hunks": [],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

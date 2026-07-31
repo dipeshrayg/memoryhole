@@ -1,0 +1,84 @@
+{
+ "id": "024a88de85c2cc94-6ed309bb-662c805d",
+ "url": "https://news.un.org/feed/view/en/story/2026/07/1168015",
+ "domain": "news.un.org",
+ "source": "UN News",
+ "country": "International",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-07-31T09:03:30Z",
+ "date": "2026-07-31",
+ "old_title": "'I am somebody': Street-smart youth take their declaration to the UN",
+ "new_title": "'I am somebody': Street-smart youth take their declaration to the UN",
+ "old_text": "'I am somebody': Street-smart youth take their declaration to the UN\nWhen Samantha Richards and Angela Hifume walked into the Hall of Flags at United Nations Headquarters last week, they carried more than a folder of paper. They carried the voices of hundreds of street-connected children who had never expected anyone to listen.\nThe two young leaders, both alumnae of Street Child United (SCU), were presenting the United Declaration of the Street Child World Cup 2026 - a document built around football, and around the campaign message \"I Am Somebody\".\nA pitch, not a pity party\nMs. Richards grew up navigating difficulties at home that took a toll on her mental health and left her, at times, in risky situations.\nFootball changed that trajectory. \"Growing up, I had some difficulties at home,\" she said. \"But football gave me friendships, leadership skills, and an outlet to speak up.\"\nThrough SCU she met other footballers chasing an education and followed them - becoming the first in her family to earn a college degree. \"Sport is a catalyst for mental health advocacy, and it's ok to speak up when you're struggling, just like I did,\" she said.\nMs. Hifume's route to New York started in the Philippine foster care system, where isolation bred sadness and loneliness.\n\"In foster care, it's so easy to think that you're nothing more than a foster kid,\" she said. SCU gave her something else: a team to lead, a stage to speak from and, eventually, a scholarship to study in the United States and a PhD offer from Oxford University. \"Football gave me the gift of curiosity about the rest of the world beyond the game,\" she said.\nTwenty-eight teams, one declaration\nThe declaration itself was forged far from UN corridors, in Oaxtepec, Mexico, where 28 teams competed in this year's Street Child World Cup.\nDelegates from each side drafted and endorsed the text at the tournament, distilling their demands into five priorities: legal identity, education, protection from violence, gender equality and a genuine say in decisions that affect their lives.\nSCU is part of the UN's Football for the Goals initiative, which uses the sport to advance the Sustainable Development Goals (SDGs).\nBringing the declaration to New York - which co-hosted the World Cup final - days after Ms. Richards spoke on a panel in the General Assembly Hall, gave that grassroots process rare access to a global stage.\nNo longer invisible\nFor Ms. Richards, the moment closed a loop. \"Standing in the Hall of Flags and the General Assembly wasn't just about me,\" she said. \"It was about every young person who's ever been made to feel invisible. Through football, I found my voice, and today we showed that our voices belong in these spaces.\"\nMs. Hifume framed it as an argument for investment over neglect. \"This Declaration is about making sure every street-connected child knows they matter,\" she said. \"When we invest in children, they become leaders.\"\nBoth insist the real test starts now, once the applause in the Hall of Flags fades.\nThey want governments and agencies to treat the declaration's five demands as a checklist, not a souvenir, and to keep listening to street-connected children well beyond the tournament that produced it.\nAs Ms. Richards put it, the declaration rests on a simple recognition: \"we are all somebody.\"",
+ "new_text": "'I am somebody': Street-smart youth take their declaration to the UN\nWhen Samantha Richards and Angela Hifume walked into the Hall of Flags at United Nations Headquarters last week, they carried more than a folder of paper. They carried the voices of hundreds of street-connected children who had never expected anyone to listen.\nThe two young leaders, both alumnae of Street Child United (SCU), were presenting the United Declaration of the Street Child World Cup 2026 - a document built around football, and around the campaign message \"I Am Somebody\".\nA pitch, not a pity party\nMs. Richards grew up navigating difficulties at home that took a toll on her mental health and left her, at times, in risky situations.\nFootball changed that trajectory. \"Growing up, I had some difficulties at home,\" she said. \"But football gave me friendships, leadership skills, and an outlet to speak up.\"\nThrough SCU she met other footballers chasing an education and followed them - becoming the first in her family to earn a college degree. \"Sport is a catalyst for mental health advocacy, and it's ok to speak up when you're struggling, just like I did,\" she said.\nMs. Hifume's route to New York started in the Philippine foster care system, where isolation bred sadness and loneliness.\n\"In foster care, it's so easy to think that you're nothing more than a foster kid,\" she said. SCU gave her something else: a team to lead, a stage to speak from and, eventually, she had the opportunity to study abroad, learn from many different communities around the world, and become deeply involved in community organizing, nonprofit work, and philanthropy.\nTwenty-eight teams, one declaration\nThe declaration itself was forged far from UN corridors, in Oaxtepec, Mexico, where 28 teams competed in this year's Street Child World Cup.\nDelegates from each side drafted and endorsed the text at the tournament, distilling their demands into five priorities: legal identity, education, protection from violence, gender equality and a genuine say in decisions that affect their lives.\nSCU is part of the UN's Football for the Goals initiative, which uses the sport to advance the Sustainable Development Goals (SDGs).\nBringing the declaration to New York - which co-hosted the World Cup final - days after Ms. Richards spoke on a panel in the General Assembly Hall, gave that grassroots process rare access to a global stage.\nNo longer invisible\nFor Ms. Richards, the moment closed a loop. \"Standing in the Hall of Flags and the General Assembly wasn't just about me,\" she said. \"It was about every young person who's ever been made to feel invisible. Through football, I found my voice, and today we showed that our voices belong in these spaces.\"\nMs. Hifume framed it as an argument for investment over neglect. \"This Declaration is about making sure every street-connected child knows they matter,\" she said. \"When we invest in children, they become leaders.\"\nBoth insist the real test starts now, once the applause in the Hall of Flags fades.\nThey want governments and agencies to treat the declaration's five demands as a checklist, not a souvenir, and to keep listening to street-connected children well beyond the tournament that produced it.\nAs Ms. Richards put it, the declaration rests on a simple recognition: \"we are all somebody.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "else: a team to lead, a stage to speak from and, eventually,"
+    ],
+    [
+     "del",
+     "a scholarship"
+    ],
+    [
+     "ins",
+     "she had the opportunity"
+    ],
+    [
+     "eq",
+     "to study"
+    ],
+    [
+     "ins",
+     "abroad, learn from many different communities around the world, and become deeply involved"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "the United States"
+    ],
+    [
+     "ins",
+     "community organizing, nonprofit work,"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "a PhD offer from Oxford University. \"Football gave me the gift of curiosity about the rest of the world beyond the game,\" she said."
+    ],
+    [
+     "ins",
+     "philanthropy."
+    ],
+    [
+     "eq",
+     "Twenty-eight teams, one declaration The declaration itself was forged far from UN"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0919,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 1,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.5,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,316 @@
+{
+ "id": "11c05871bc95d369-cfe9d9cd-7e22bd5a",
+ "url": "https://www.theguardian.com/football/2026/jul/30/eddie-howe-leaves-newcastle-united-premier-league",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-07-31T09:10:08Z",
+ "date": "2026-07-31",
+ "old_title": "Eddie Howe leaves Newcastle United after almost five years in charge",
+ "new_title": "Eddie Howe leaves Newcastle United with Matthias Jaissle set to replace him",
+ "old_text": "Eddie Howe has left his role as Newcastle United head coach after 231 games and just under five years at St James' Park.\nHis exit comes in the wake of a 4-1 defeat by Bristol City in a pre-season friendly at Ashton Gate on Wednesday evening, after which he hinted at changes at the club. \"There has been a lot of change at the football club and potentially more to come,\" he said when asked about his optimism ahead of the new season.\nHowe was hired in November 2021 to replace Steve Bruce as the manager of Premier League club. In January 2023, the 48-year-old former Bournemouth manager guided Newcastle to Carabao Cup triumph, their first major silverware since 1955. Howe oversaw Champions League qualifications via a fourth-place league finish in 2022-23.\nDespite considerable investment from their Saudi backers, Newcastle underperformed last season, finishing in 12th place last season, a slump from fifth place in the previous campaign. From 7 January, they won just five of their last 17 league games.\nThe club have been depleted by the departures of Sandro Tonali to Tottenham and England forward Anthony Gordon to Barcelona in recent weeks. Speculation continues over the future of captain Bruno Guimaraes.\nThe club are due to be heading to south-east Spain later this week to step up their preparations for the new season. Included on their itinerary is a visit to La Liga side Valencia on Saturday 8 August for their annual Trofeu Taronja (Orange Cup) game.\n-\nThis story will be updated",
+ "new_text": "Eddie Howe has left Newcastle after losing control of transfers and is likely to be replaced by the German coach Matthias Jaissle, who is in charge of the Saudi Arabian club Al-Ahli.\nAlthough the timing of Howe's abrupt departure after almost five years in charge at St James' Park is unexpected, his position had been uncertain for some time. He is understood to have told Newcastle's Saudi Arabian owners he wanted to leave more than a fortnight ago and the parting is said to be \"amicable\".\nSources have suggested the 48-year-old told directors he was utterly drained and wanted to take a break from football after a transformative Tyneside tenure in which Newcastle won the League Cup in 2025 and twice qualified for the Champions League.\nIn recent months, Howe has become disillusioned after seeing his previously strong powerbase and ability to dictate transfer policy diminished significantly. Already this summer Ross Wilson, the third sporting director of his managerial tenure, has presided over the sale of Anthony Gordon and Sandro Tonali to Barcelona and Tottenham respectively. A year ago the team's key striker Alexander Isak departed for Liverpool.\nNot that Howe gave any indication of the events about to unfold when he spoke to reporters after Wednesday night's 4-1 pre-season friendly defeat at Bristol City. \"Every day as Newcastle manager is a great day for me,\" he said. \"I absolutely love the football club and that will never change. There has been a lot of change at the football club and potentially more to come. [But] I think there's always reasons to be optimistic. I believe great things are possible every season. I see no reason for it be any different this year.\"\nOn Thursday morning the Newcastle hierarchy's negotiations with Jaissle were said to be at an advanced stage and the club's players had a day off interrupted by news that that there would be a change of manager. Given that Al-Ahli are also owned by Saudi Arabia's Public Investment Fund, Jaissle's split from his club is unlikely to prove problematic.\nThe 38-year-old had a brief playing career as a defender with Hoffenheim and has been in charge of Al-Ahli since 2023, presiding over 90 wins, 25 draws and 23 defeats. Along the way he has won a Saudi Super Cup and two Asian Champions Leagues. In his first major head coaching role, at RB Salzburg, he won two league titles and the Austrian Cup in two seasons.\nAfter Newcastle finished a disappointing 12th in the Premier League last season some fans were calling for Howe's dismissal but the former Bournemouth manager appeared to have convinced PIF to offer him another chance during a high level summit meeting at a Northumberland country house hotel in April.\nHe is understood to have reiterated his commitment to the job after returning from holiday in June but subsequently became disenchanted by the events of a turbulent summer. Quite apart from the exits of Gordon and Tonali, it has featured doubt surrounding the future of the Brazil midfielder Bruno Guimarães, who is said to be closing in on an £80m move to Arsenal.\nAt Bristol City on Wednesday night, Howe admitted he had \"lost control\" of transfers and did not know if Guimarães would board the team's flight to south-east Spain before a training Camp at La Manga on Friday.\nWhile Guimarães is understood to have told Newcastle he wants to join Arsenal this summer, Howe had developed increasing reservations about a new, PIF approved, policy of signing largely young players with high resale potential priced, broadly, in the £20m-£40m bracket. With Newcastle operating under a Uefa settlement agreement, Wilson believes it is the best way to remain within football's spending rules.\nSo far this summer the sporting director has recruited four promising yet inexperienced players aged 20 or under in Ewen Jaouen, Bazoumana Touré, Aladji Bamba and Sean Steur. Howe feared expectations had been raised earlier this year when his chief executive David Hopkinson claimed he wanted Newcastle to \"be in the conversation\" about the identity of the best clubs in the world by 2030. Howe told friends things \"no longer felt right\".\nAlthough Howe acquired a number of critics as results, increasingly, disappointed last season, he will long be remembered with affection and gratitude at St James' Park. After succeeding Steve Bruce as manager in November 2021 he led Newcastle to two Carabao Cup finals and in winning the second - against Liverpool - last year secured the club's first significant domestic silverware for 70 years.\nWith his assistant, Jason Tindall, also expected to leave, the squad are likely to be placed under the caretaker charge of first team coach, Graeme Jones, for the trip to La Manga.The club hope that Jaissle will soon join them. With the former Nottingham Forest manager Vítor Pereira poised to replace him at Al-Ahli, the expectation is that the German will take the helm well before Newcastle's training camp concludes.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Eddie Howe has left"
+    ],
+    [
+     "del",
+     "his role as"
+    ],
+    [
+     "eq",
+     "Newcastle"
+    ],
+    [
+     "del",
+     "United head"
+    ],
+    [
+     "ins",
+     "after losing control of transfers and is likely to be replaced by the German"
+    ],
+    [
+     "eq",
+     "coach"
+    ],
+    [
+     "ins",
+     "Matthias Jaissle, who is in charge of the Saudi Arabian club Al-Ahli. Although the timing of Howe's abrupt departure"
+    ],
+    [
+     "eq",
+     "after"
+    ],
+    [
+     "del",
+     "231 games and just under"
+    ],
+    [
+     "ins",
+     "almost"
+    ],
+    [
+     "eq",
+     "five years"
+    ],
+    [
+     "ins",
+     "in charge"
+    ],
+    [
+     "eq",
+     "at St James'"
+    ],
+    [
+     "del",
+     "Park. His exit comes"
+    ],
+    [
+     "ins",
+     "Park is unexpected, his position had been uncertain for some time. He is understood to have told Newcastle's Saudi Arabian owners he wanted to leave more than a fortnight ago and the parting is said to be \"amicable\". Sources have suggested the 48-year-old told directors he was utterly drained and wanted to take a break from football after a transformative Tyneside tenure"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "ins",
+     "which Newcastle won"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "wake"
+    ],
+    [
+     "ins",
+     "League Cup in 2025 and twice qualified for the Champions League. In recent months, Howe has become disillusioned after seeing his previously strong powerbase and ability to dictate transfer policy diminished significantly. Already this summer Ross Wilson, the third sporting director"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "a"
+    ],
+    [
+     "ins",
+     "his managerial tenure, has presided over the sale of Anthony Gordon and Sandro Tonali to Barcelona and Tottenham respectively. A year ago the team's key striker Alexander Isak departed for Liverpool. Not that Howe gave any indication of the events about to unfold when he spoke to reporters after Wednesday night's"
+    ],
+    [
+     "eq",
+     "4-1"
+    ],
+    [
+     "del",
+     "defeat by Bristol City in a"
+    ],
+    [
+     "eq",
+     "pre-season friendly"
+    ],
+    [
+     "ins",
+     "defeat"
+    ],
+    [
+     "eq",
+     "at"
+    ],
+    [
+     "del",
+     "Ashton Gate on Wednesday evening, after which"
+    ],
+    [
+     "ins",
+     "Bristol City. \"Every day as Newcastle manager is a great day for me,\""
+    ],
+    [
+     "eq",
+     "he"
+    ],
+    [
+     "del",
+     "hinted at changes at"
+    ],
+    [
+     "ins",
+     "said. \"I absolutely love"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "club. \"There"
+    ],
+    [
+     "ins",
+     "football club and that will never change. There"
+    ],
+    [
+     "eq",
+     "has been a lot of change at the football club and potentially more to"
+    ],
+    [
+     "del",
+     "come,\""
+    ],
+    [
+     "ins",
+     "come. [But] I think there's always reasons to be optimistic. I believe great things are possible every season. I see no reason for it be any different this year.\" On Thursday morning the Newcastle hierarchy's negotiations with Jaissle were said to be at an advanced stage and the club's players had a day off interrupted by news that that there would be a change of manager. Given that Al-Ahli are also owned by Saudi Arabia's Public Investment Fund, Jaissle's split from his club is unlikely to prove problematic. The 38-year-old had a brief playing career as a defender with Hoffenheim and has been in charge of Al-Ahli since 2023, presiding over 90 wins, 25 draws and 23 defeats. Along the way"
+    ],
+    [
+     "eq",
+     "he"
+    ],
+    [
+     "del",
+     "said when asked about"
+    ],
+    [
+     "ins",
+     "has won a Saudi Super Cup and two Asian Champions Leagues. In"
+    ],
+    [
+     "eq",
+     "his"
+    ],
+    [
+     "del",
+     "optimism ahead"
+    ],
+    [
+     "ins",
+     "first major head coaching role, at RB Salzburg, he won two league titles and the Austrian Cup in two seasons. After Newcastle finished a disappointing 12th in the Premier League last season some fans were calling for Howe's dismissal but the former Bournemouth manager appeared to have convinced PIF to offer him another chance during a high level summit meeting at a Northumberland country house hotel in April. He is understood to have reiterated his commitment to the job after returning from holiday in June but subsequently became disenchanted by the events of a turbulent summer. Quite apart from the exits of Gordon and Tonali, it has featured doubt surrounding the future"
+    ],
+    [
+     "eq",
+     "of the"
+    ],
+    [
+     "del",
+     "new season."
+    ],
+    [
+     "ins",
+     "Brazil midfielder Bruno Guimarães, who is said to be closing in on an £80m move to Arsenal. At Bristol City on Wednesday night,"
+    ],
+    [
+     "eq",
+     "Howe"
+    ],
+    [
+     "del",
+     "was hired"
+    ],
+    [
+     "ins",
+     "admitted he had \"lost control\" of transfers and did not know if Guimarães would board the team's flight to south-east Spain before a training Camp at La Manga on Friday. While Guimarães is understood to have told Newcastle he wants to join Arsenal this summer, Howe had developed increasing reservations about a new, PIF approved, policy of signing largely young players with high resale potential priced, broadly, in the £20m-£40m bracket. With Newcastle operating under a Uefa settlement agreement, Wilson believes it is the best way to remain within football's spending rules. So far this summer the sporting director has recruited four promising yet inexperienced players aged 20 or under in Ewen Jaouen, Bazoumana Touré, Aladji Bamba and Sean Steur. Howe feared expectations had been raised earlier this year when his chief executive David Hopkinson claimed he wanted Newcastle to \"be in the conversation\" about the identity of the best clubs in the world by 2030. Howe told friends things \"no longer felt right\". Although Howe acquired a number of critics as results, increasingly, disappointed last season, he will long be remembered with affection and gratitude at St James' Park. After succeeding Steve Bruce as manager"
+    ],
+    [
+     "eq",
+     "in November 2021"
+    ],
+    [
+     "ins",
+     "he led Newcastle to two Carabao Cup finals and in winning the second - against Liverpool - last year secured the club's first significant domestic silverware for 70 years. With his assistant, Jason Tindall, also expected to leave, the squad are likely to be placed under the caretaker charge of first team coach, Graeme Jones, for the trip to La Manga.The club hope that Jaissle will soon join them. With the former Nottingham Forest manager Vítor Pereira poised"
+    ],
+    [
+     "eq",
+     "to replace"
+    ],
+    [
+     "del",
+     "Steve Bruce as"
+    ],
+    [
+     "ins",
+     "him at Al-Ahli,"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "manager of Premier League club. In January 2023,"
+    ],
+    [
+     "ins",
+     "expectation is that"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "48-year-old former Bournemouth manager guided Newcastle to Carabao Cup triumph, their first major silverware since 1955. Howe oversaw Champions League qualifications via a fourth-place league finish in 2022-23. Despite considerable investment from their Saudi backers, Newcastle underperformed last season, finishing in 12th place last season, a slump from fifth place in"
+    ],
+    [
+     "ins",
+     "German will take"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "previous campaign. From 7 January, they won just five of their last 17 league games. The club have been depleted by the departures of Sandro Tonali to Tottenham and England forward Anthony Gordon to Barcelona in recent weeks. Speculation continues over the future of captain Bruno Guimaraes. The club are due to be heading to south-east Spain later this week to step up their preparations for the new season. Included on their itinerary is a visit to La Liga side Valencia on Saturday 8 August for their annual Trofeu Taronja (Orange Cup) game. - This story will be updated"
+    ],
+    [
+     "ins",
+     "helm well before Newcastle's training camp concludes."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 3.8588,
+  "numbers_changed": [
+   "17",
+   "1955",
+   "20",
+   "2022",
+   "2025",
+   "2030",
+   "231",
+   "25",
+   "38",
+   "40",
+   "7",
+   "70",
+   "8",
+   "80",
+   "90"
+  ],
+  "market_figures_changed": [
+   "£20m",
+   "£40m",
+   "£80m"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 7,
+  "blocks_removed": 2,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.6,
+ "similarity": 0.773,
+ "adjudicated_by": "rules"
+}

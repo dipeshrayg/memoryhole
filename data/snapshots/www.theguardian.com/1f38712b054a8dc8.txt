@@ -1,0 +1,10 @@
+Anthropic said on Thursday its AI Claude model hacked systems of three organizations during testing, days after rival OpenAI revealed a rogue agent had gone on a days-long hacking spree at AI firm Hugging Face.
+Claude gained unauthorized access to the systems during cybersecurity evaluations after a misconfiguration allowed the models to reach the internet from testing environments that were supposed to be isolated, Anthropic said.
+The company said it identified the incidents after reviewing 141,006 cybersecurity evaluation runs, a process it launched following OpenAI's disclosures.
+The breaches signal that AI's expanding capabilities are already fueling the security threat experts have long feared and that even top developers can be caught off-guard by flaws their models can exploit.
+"Claude compromised the impacted organizations' infrastructure using basic techniques, such as exploiting weak passwords and unauthenticated endpoints," it said.
+Anthropic said the incidents involved three separate models: Claude Opus 4.7, Claude Mythos 5 and an internal research model. The earliest cases dated back to April and occurred in evaluation environments that lacked what the company described as standard safeguards.
+The breaches occurred during the so-called "capture the flag" exercises, in which models were tasked with finding hidden information in simulated networks. The company said its prompts told the models they had no internet access, but a misunderstanding with its evaluation partner Irregular left the systems connected to the public internet.
+Two of the organizations were unaware of the activity before being contacted, Anthropic said, adding that it was still trying to reach the third.
+"We discovered these incidents after a proactive review of our cybersecurity evaluation transcripts," the company said in a statement.
+The findings underscore the need for stronger controls in both internal and third-party testing environments as AI models become increasingly capable of carrying out real-world cyber activities, Anthropic said.

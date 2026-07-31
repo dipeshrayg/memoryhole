@@ -1,0 +1,21 @@
+- Published
+US technology firm Anthropic says its artificial intelligence (AI) models hacked into the systems of three organisations during a cybersecurity test due to an error that gave them access to the internet.
+It comes just days after rival OpenAI said that its models had breached the systems of other companies, including AI tools hub Hugging Face.
+The announcement prompted Anthropic to check whether its own models had carried out similar attacks. It says it uncovered three cases that have since been reported to the affected companies.
+Anthropic, which did not name the organisations, urged other AI labs to perform similar reviews to better understand the risks of their models' capabilities.
+Anthropic said in a statement, external that it reviewed more than 140,000 tests to find evidence that Claude - its family of AI models - could access the internet from testing environments that were designed to be sealed off.
+The tests include so-called "capture-the-flag" evaluations in which Claude was tasked with obtaining information by breaching other systems - a common way that experts assess a model's hacking capabilities.
+A "misconfiguration" on systems run by Anthropic and its testing partner left the models with live internet access, allowing them to breach other systems, the San Francisco-based firm said.
+Anthropic said the earliest incidents date back to April and that it is "approaching the fixes as if the responsibility were ours alone."
+Neither Anthropic nor the organisations that were breached had noticed the intrusions at the time.
+Anthropic said it could have reviewed its records more thoroughly and added that the findings gave the firm "cautious optimism" that such risks can be overcome with more investment and tighter measures.
+"The broader lesson is not necessarily that AI has developed a fundamentally new attack capability," cyber security expert David Allott told the BBC.
+"Instead, it is that AI agents can combine capabilities, obtain credentials and system access to take actions autonomously, while adapting scope and scale at machine speed," he added.
+The incidents come as tech firms pour billions of dollars into developing AI agents that can independently perform tasks ranging from research and customer support to cybersecurity.
+A string of AI-driven cyberattacks has fuelled calls for tighter safeguards and oversight of the technology, over concerns about the risks posed by increasingly powerful autonomous systems.
+US President Donald Trump said on Wednesday that Washington is considering measures to rein in AI tools after recent cybersecurity incidents.
+Over the last week, OpenAI has taken responsibility for at least two hacking incidents involving its platforms breaching the rules of what they were directed to do.
+On 21 July, the ChatGPT-maker said its agent - an AI system that can operate alone after human instruction - went rogue and escaped its test limits to hack into Hugging Face.
+OpenAI said the incident was "unprecedented", and it was investigating with Hugging Face, whose boss co-founder Thomas Wolf told the BBC that the incident is "a wake-up call" for the industry.
+The incidents have been viewed with some scepticism as OpenAI and Anthropic prepare for blockbuster stock market listings that are expected to value each firm at around $1tn (Â£740bn).
+An OpenAI spokesperson has said "we recognise there are a lot of questions and speculative details circulating" about the incident. They added that "we plan to publish a technical report of our learnings in the coming weeks".

@@ -1,0 +1,52 @@
+{
+ "id": "d6a3779e1d22cbda-9e3ba8f3-f7b9615c",
+ "url": "https://www.theguardian.com/football/2026/jul/28/abusive-chanting-immigrants-england-football-matches-on-rise-kick-it-out",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-07-31T09:10:03Z",
+ "date": "2026-07-31",
+ "old_title": "Abusive chanting against immigrants in English football on rise, new data reveals",
+ "new_title": "Abusive chanting against immigrants in English football on rise, new data reveals",
+ "old_text": "Abusive chanting against immigrants has become a feature of football matches in England, according to new data from Kick It Out.\nLast season 39 reports of anti-immigrant chanting were made to the anti-discrimination charity, more than the previous two seasons combined. Phrases such as \"stop the boats\" and \"send them back\" were reported as being heard \"at all levels of the game\", Kick It Out said.\nThe growth in anti-immigrant rhetoric was consistent with a broader rise in reports of discrimination, at matches and online. Kick It Out received 1,744 reports of discriminatory behaviour in total during the 2025-26 season, a record and a 25% increase on the previous campaign.\nThe number of reported incidents increased across every type of discrimination to new highs. Reports of racism remained the most common, rising 19% year-on-year, the 792 reports making up 45% of the total. Complaints of sexist behaviour rose 12% to 216, homophobia rose 46% to 203, antisemitism rose 43% to 93, ableism rose 20% to 89, and Islamophobia rose 88% to 60. Kick it Out said all six areas had seen their biggest totals in five years.\nReports of abuse in grassroots football rose for a fifth consecutive year, up by 33% in 2025-26 to a record 248 reports. Equally, the 98 reports of abuse against match officials was the same as the past three seasons combined.\nSamuel Okafor, chief executive at Kick It Out, said such behaviour at matches and in online spaces was matched by a rise in hateful rhetoric elsewhere in British society, but he praised the willingness of supporters - and players - to speak out.\n\"These figures show that discrimination remains deeply embedded across the game at a time when we're also seeing rises in hate crime and divisive political rhetoric in Britain,\" he said. \"But they also show that people are more willing to stand up to abuse when they see it, and it's encouraging to see professional players set that example last season.\"\nFor example, in March, a 60-year-old man was given a suspended sentence for sending offensive messages to the England Women defender Jess Carter, who went public over the attacks during the European Championship last year. In the men's game, Antoine Semenyo drew attention to the racist abuse he had received over the course of the season, with a charge of racially aggravated behaviour against one man scheduled to go to trial in September.\nKick It Out's findings concur with those reported by the UK Football Policing Unit last week. The police said that some of the increase could be explained by improved reporting mechanisms, with misogynist abuse only introduced as a separate category of discrimination at the start of last season. Both police and Kick It Out have called on online platforms to do more to stop abuse.\nOkafor said: \"We will continue to work with football authorities, clubs, leagues, regulators and government to ensure we match the courage shown to report abuse with clear and consistent action so that football is welcoming to everyone.\"",
+ "new_text": "Abusive chanting against immigrants has become a feature of football matches in England, according to new data from Kick It Out.\nLast season 39 reports of anti-immigrant abuse were made to the anti-discrimination charity, more than the previous two seasons combined. Phrases such as \"stop the boats\" and \"send them back\" were reported as being heard \"at all levels of the game\", Kick It Out said.\nThe growth in anti-immigrant rhetoric was consistent with a broader rise in reports of discrimination, at matches and online. Kick It Out received 1,744 reports of discriminatory behaviour in total during the 2025-26 season, a record and a 25% increase on the previous campaign.\nThe number of reported incidents increased across every type of discrimination to new highs. Reports of racism remained the most common, rising 19% year-on-year, the 792 reports making up 45% of the total. Complaints of sexist behaviour rose 12% to 216, homophobia rose 46% to 203, antisemitism rose 43% to 93, ableism rose 20% to 89, and Islamophobia rose 88% to 60. Kick it Out said all six areas had seen their biggest totals in five years.\nReports of abuse in grassroots football rose for a fifth consecutive year, up by 33% in 2025-26 to a record 248 reports. Equally, the 98 reports of abuse against match officials was the same as the past three seasons combined.\nSamuel Okafor, chief executive at Kick It Out, said such behaviour at matches and in online spaces was matched by a rise in hateful rhetoric elsewhere in British society, but he praised the willingness of supporters - and players - to speak out.\n\"These figures show that discrimination remains deeply embedded across the game at a time when we're also seeing rises in hate crime and divisive political rhetoric in Britain,\" he said. \"But they also show that people are more willing to stand up to abuse when they see it, and it's encouraging to see professional players set that example last season.\"\nFor example, in March, a 60-year-old man was given a suspended sentence for sending offensive messages to the England Women defender Jess Carter, who went public over the attacks during the European Championship last year. In the men's game, Antoine Semenyo drew attention to the racist abuse he had received over the course of the season, with a charge of racially aggravated behaviour against one man scheduled to go to trial in September.\nKick It Out's findings concur with those reported by the UK Football Policing Unit last week. The police said that some of the increase could be explained by improved reporting mechanisms, with misogynist abuse only introduced as a separate category of discrimination at the start of last season. Both police and Kick It Out have called on online platforms to do more to stop abuse.\nOkafor said: \"We will continue to work with football authorities, clubs, leagues, regulators and government to ensure we match the courage shown to report abuse with clear and consistent action so that football is welcoming to everyone.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "new data from Kick It Out. Last season 39 reports of anti-immigrant"
+    ],
+    [
+     "del",
+     "chanting"
+    ],
+    [
+     "ins",
+     "abuse"
+    ],
+    [
+     "eq",
+     "were made to the anti-discrimination charity, more than the previous two seasons"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.004,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9954,
+ "adjudicated_by": "rules"
+}

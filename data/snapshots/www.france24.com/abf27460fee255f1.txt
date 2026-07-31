@@ -1,0 +1,25 @@
+Anthropic says Claude models accessed outside systems during testing
+Anthropic said three versions of its Claude AI model gained unauthorised access to external organisations during safety tests after a configuration error exposed them to the internet, days after OpenAI disclosed similar security failures. The incident is likely to intensify concerns over increasingly autonomous AI systems and calls for stronger safeguards around the industry's most advanced models.
+Anthropic's artificial intelligence (AI) models "gained unauthorised access" to three outside organisations during testing that was supposed to keep them away from "real-world" systems, the company said on Thursday.
+The announcement comes just days after rival OpenAI first revealed that its models improperly accessed the internet and went rogue during security testing.
+Anthropic evaluated more than 141,000 "evaluation runs" and found that three different versions of its model, known as Claude, improperly accessed the systems of three unnamed organisations.
+Read moreWhy Anthropic's most powerful AI models are back online
+Unlike the incident involving OpenAI's technology, Anthropic's models had access to the internet "due to a misunderstanding between us and our evaluation partner," called Irregular, Anthropic said in a blog post.
+Nonetheless, Claude used "basic techniques, such as exploiting weak passwords and unauthenticated endpoints," the blog continued.
+The models involved included one of its most powerful ones known as Mythos 5, which has only been released to a limited number of approved partners.
+Anthropic is working with Irregular to assess the situation, it said, and the company has contacted or attempted to contact all three impacted organisations.
+Rogue agents
+OpenAI and Anthropic have both released their most powerful models this year, known as Sol and Mythos, respectively, boosting concerns across the industry about safety and security.
+Those concerns also revolve around so-called AI agents, which are software products that are designed to perform tasks autonomously.
+OpenAI admitted last week that its models broke out of their confined environment during testing, connected to the internet, and infiltrated Hugging Face, a site where developers store and share their code.
+Days later, OpenAI said it found three additional incidents.
+OpenAI CEO Sam Altman said on a podcast this week that the company had "paused" its own testing after the incident while it improved the security around its "sandboxing", which is the process of isolating software in a controlled environment for testing.
+The incident also triggered a petition signed by over 1,000 employees at cutting-edge AI companies calling on the US government to help slow the release of the most advanced AI models.
+Anthropic CEO Dario Amodei was among those who signed the petition.
+Titled "Pacing the Frontier," the petition requests "that the US government support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development".
+Altman did not sign the petition, but during the podcast, he suggested the tech industry might need to slow down development of advanced models.
+"We may have to pace the rate of AI development to give ourselves enough time for society to harden around some of these new capability levels," Altman said.
+Earlier this year, the Trump administration invoked national security concerns to block OpenAI and Anthropic from launching their newest models but ultimately indicated it was satisfied with assurances about their safety, leading to their release.
+In June, Trump signed an executive order creating a voluntary framework under which AI developers will share advanced models with the government before public release.
+Under the framework, developers such as OpenAI, Anthropic and Google would give the government access to their most powerful models for up to 30 days before planned release.
+(FRANCE 24 with AFP)

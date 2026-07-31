@@ -1,0 +1,376 @@
+{
+ "id": "e7027f896291fdc6-4d61a180-6ddde501",
+ "url": "https://www.theguardian.com/business/2026/jul/30/shell-profits-double-jump-oil-gas-prices",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-07-31T09:06:27Z",
+ "date": "2026-07-31",
+ "old_title": "Shell's profits more than double after jump in oil and gas prices",
+ "new_title": "Shell's profits more than double after jump in oil and gas prices",
+ "old_text": "Shell more than doubled its profit in its second quarter of the year, as Europe's biggest oil and gas company reaped the benefits from the jump in oil and gas prices triggered by war in the Middle East.\nThe FTSE 100 company's net profit hit $9.84bn (£7.4bn) in the three months to June, more than double compared with the same period last year.\nWholesale energy prices have soared because of the conflict in the Middle East, boosting profit margins and activity on Shell's trading desks.\nThe global oil price has climbed from about $61 a barrel in January to highs of $126 at the end of April, owing to disruptions to flows of oil and gas through the strait of Hormuz. Brent crude, the international benchmark, traded at $93.18 a barrel on Thursday.\nWael Sawan, Shell's chief executive, said there had been \"severe disruption in global energy markets\" due to the war, as the company also reported a 30% drop in production from its integrated gas division on the same quarter last year.\nThe fall in production follows a strike that damaged its assets at the Ras Laffan liquefied natural gas (LNG) complex in Qatar in March. Repairs to the plant are expected to take about a year.\nShell's surging profits reignited calls from environmental campaigners for taxes to fund support for the households hardest hit by the rise in energy costs.\nRudy Schulkind, a political campaigner at Greenpeace, said the environmental group was \"running out of words to describe the obscenity\" of huge profits at Shell.\n\"Europe is engulfed by apocalyptic wildfires, communities across Asia are reeling from devastating floods, and the UK battles through drought and yet more dangerous heat,\" he said. \"These aren't anomalies, they're the defining story of the fossil fuel age. Shell takes the profits, and the rest of us pick up the catastrophic bill.\"\nSchulkind called on the government to implement a windfall tax on big oil companies and to use the revenue \"to help households with the cost of living, strengthen our resilience against extreme weather, and supercharge the transition to clean, affordable energy\".\nRobert Palmer, deputy director at the campaign group Uplift, accused Shell of \"maniacal behaviour\" for \"putting its profits ahead of the health of our planet\".\n\"As families and firefighters across Europe battle devastating wildfires, Shell is cashing in on Trump's war and doubling down on oil and gas,\" Palmer said. \"The world is literally on fire and Shell wants to add more fuel.\"\nShares in Shell rose 1.5% in early trading on Thursday, to £33.72, the highest since early June.",
+ "new_text": "Shell has posted its second highest quarterly earnings on record as the energy market surge caused by the Middle East crisis helped to double its net profit to almost $10bn in the three months to June.\nEurope's biggest oil and gas company reported a quarterly profit of $9.8bn (£7.4bn), more than double the figure for the second quarter last year and the highest since its record-high earnings in the months after Russia's invasion of Ukraine.\nThe company behind plans to develop the Jackdaw gasfield in the North Sea revealed its earnings before a planned meeting between Britain's new prime minister, Andy Burnham, and Shell's chief executive, Wael Sawan, who is expected to urge the government to develop North Sea projects.\nSawan told CNBC: \"The prime minister's office has reached out, and we're hoping to schedule a discussion soon ... The biggest thing that can be done at the moment is to continue to support the development of the North Sea, to continue to invest in renewables, to continue to provide targeted support to those who need it in these difficult times.\n\"These are difficult times, undoubtedly, and I think the government, from everything we pick up publicly, is trying to do what it can to be able to support. And [the] UK is our headquarters, is our home, and we will offer any support that we can to the government as they try to navigate these difficult waters.\"\nRobert Palmer, the deputy director at the campaign group Uplift, which opposes North Sea development, accused Shell of \"maniacal behaviour\" for \"putting its profits ahead of the health of our planet\".\n\"As families and firefighters across Europe battle devastating wildfires, Shell is cashing in on Trump's war and doubling down on oil and gas,\" he said. \"The world is literally on fire and Shell wants to add more fuel.\"\nThe severe disruption in global energy markets since the US-Israeli attacks on Iran in late February led to a 30% drop in Shell's gas production in the last quarter compared with the same period a year ago, after its gas-to-liquids plant in Qatar was damaged by Iranian drones.\nThe company was more than able to offset the lost earnings, however, as a result of higher global market prices and savvy trading. In its liquified natural gas business, earnings grew to $2.7bn in the second quarter, up 55% from last year. Its chemicals and products business, which is home to its oil trading desk, reported earnings of $2.3bn, up sharply from $118m a year ago and the division's highest quarterly profit since 2021.\n\"We have one of the world's largest and strongest trading capabilities,\" Sawan told CNBC. \"And that allows us to deal with times like this.\"\nThe global oil price has climbed from about $61 a barrel in January to highs of $126 at the end of April, after Iran's de facto blockade on flows of oil and gas through the strait of Hormuz. The market volatility has included some of the sharpest price swings on record, which traders are able to use to amplify their profits. Brent crude, the international benchmark, was trading at just over $90 a barrel on Thursday.\nShell's oil rival BP has reportedly warned staff that a potential oversupply of oil and gas could lead to lower market prices to come, as it set out plans to cut another 700 jobs from its global operations following cuts of 7,000 last year.\nThe Financial Times said it had seen an email to staff from BP's production boss, Gordon Birrell, in which he set out plans to streamline the business and said BP had to be \"competitive at the bottom of the cycle, not just the top\".\nShell's surging profits reignited calls from environmental campaigners for taxes to fund support for the households hardest hit by the rise in energy costs.\nRudy Schulkind, a political campaigner at Greenpeace, said the environmental group was \"running out of words to describe the obscenity\" of huge profits at Shell.\n\"Europe is engulfed by apocalyptic wildfires, communities across Asia are reeling from devastating floods, and the UK battles through drought and yet more dangerous heat,\" he said. \"These aren't anomalies, they're the defining story of the fossil fuel age. Shell takes the profits, and the rest of us pick up the catastrophic bill.\"\nSchulkind called on the government to implement a windfall tax on big oil companies and to use the revenue \"to help households with the cost of living, strengthen our resilience against extreme weather, and supercharge the transition to clean, affordable energy\".\nShares in Shell rose 1.5% in early trading on Thursday to £33.72, the highest since early June.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Shell"
+    ],
+    [
+     "del",
+     "more than doubled its profit in"
+    ],
+    [
+     "ins",
+     "has posted"
+    ],
+    [
+     "eq",
+     "its second"
+    ],
+    [
+     "del",
+     "quarter of"
+    ],
+    [
+     "ins",
+     "highest quarterly earnings on record as"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "year, as"
+    ],
+    [
+     "ins",
+     "energy market surge caused by the Middle East crisis helped to double its net profit to almost $10bn in the three months to June."
+    ],
+    [
+     "eq",
+     "Europe's biggest oil and gas company"
+    ],
+    [
+     "del",
+     "reaped the benefits from the jump in oil and gas prices triggered by war in the Middle East. The FTSE 100 company's net"
+    ],
+    [
+     "ins",
+     "reported a quarterly"
+    ],
+    [
+     "eq",
+     "profit"
+    ],
+    [
+     "del",
+     "hit $9.84bn (£7.4bn) in the three months to June,"
+    ],
+    [
+     "ins",
+     "of $9.8bn (£7.4bn),"
+    ],
+    [
+     "eq",
+     "more than double"
+    ],
+    [
+     "ins",
+     "the figure for the second quarter last year and the highest since its record-high earnings in the months after Russia's invasion of Ukraine. The company behind plans to develop the Jackdaw gasfield in the North Sea revealed its earnings before a planned meeting between Britain's new prime minister, Andy Burnham, and Shell's chief executive, Wael Sawan, who is expected to urge the government to develop North Sea projects. Sawan told CNBC: \"The prime minister's office has reached out, and we're hoping to schedule a discussion soon ... The biggest thing that can be done at the moment is to continue to support the development of the North Sea, to continue to invest in renewables, to continue to provide targeted support to those who need it in these difficult times. \"These are difficult times, undoubtedly, and I think the government, from everything we pick up publicly, is trying to do what it can to be able to support. And [the] UK is our headquarters, is our home, and we will offer any support that we can to the government as they try to navigate these difficult waters.\" Robert Palmer, the deputy director at the campaign group Uplift, which opposes North Sea development, accused Shell of \"maniacal behaviour\" for \"putting its profits ahead of the health of our planet\". \"As families and firefighters across Europe battle devastating wildfires, Shell is cashing in on Trump's war and doubling down on oil and gas,\" he said. \"The world is literally on fire and Shell wants to add more fuel.\" The severe disruption in global energy markets since the US-Israeli attacks on Iran in late February led to a 30% drop in Shell's gas production in the last quarter"
+    ],
+    [
+     "eq",
+     "compared with the same period"
+    ],
+    [
+     "ins",
+     "a year ago, after its gas-to-liquids plant in Qatar was damaged by Iranian drones. The company was more than able to offset the lost earnings, however, as a result of higher global market prices and savvy trading. In its liquified natural gas business, earnings grew to $2.7bn in the second quarter, up 55% from"
+    ],
+    [
+     "eq",
+     "last year."
+    ],
+    [
+     "del",
+     "Wholesale energy prices"
+    ],
+    [
+     "ins",
+     "Its chemicals and products business, which is home to its oil trading desk, reported earnings of $2.3bn, up sharply from $118m a year ago and the division's highest quarterly profit since 2021. \"We"
+    ],
+    [
+     "eq",
+     "have"
+    ],
+    [
+     "del",
+     "soared because"
+    ],
+    [
+     "ins",
+     "one"
+    ],
+    [
+     "eq",
+     "of the"
+    ],
+    [
+     "del",
+     "conflict in the Middle East, boosting profit margins"
+    ],
+    [
+     "ins",
+     "world's largest"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "activity on Shell's"
+    ],
+    [
+     "ins",
+     "strongest"
+    ],
+    [
+     "eq",
+     "trading"
+    ],
+    [
+     "del",
+     "desks."
+    ],
+    [
+     "ins",
+     "capabilities,\" Sawan told CNBC. \"And that allows us to deal with times like this.\""
+    ],
+    [
+     "eq",
+     "The global oil price has climbed from about $61 a barrel in January to highs of $126 at the end of April,"
+    ],
+    [
+     "del",
+     "owing to disruptions to"
+    ],
+    [
+     "ins",
+     "after Iran's de facto blockade on"
+    ],
+    [
+     "eq",
+     "flows of oil and gas through the strait of Hormuz."
+    ],
+    [
+     "ins",
+     "The market volatility has included some of the sharpest price swings on record, which traders are able to use to amplify their profits."
+    ],
+    [
+     "eq",
+     "Brent crude, the international benchmark,"
+    ],
+    [
+     "del",
+     "traded"
+    ],
+    [
+     "ins",
+     "was trading"
+    ],
+    [
+     "eq",
+     "at"
+    ],
+    [
+     "del",
+     "$93.18"
+    ],
+    [
+     "ins",
+     "just over $90"
+    ],
+    [
+     "eq",
+     "a barrel on Thursday."
+    ],
+    [
+     "del",
+     "Wael Sawan,"
+    ],
+    [
+     "eq",
+     "Shell's"
+    ],
+    [
+     "del",
+     "chief executive, said there had been \"severe disruption in global energy markets\" due"
+    ],
+    [
+     "ins",
+     "oil rival BP has reportedly warned staff that a potential oversupply of oil and gas could lead"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "the war,"
+    ],
+    [
+     "ins",
+     "lower market prices to come,"
+    ],
+    [
+     "eq",
+     "as"
+    ],
+    [
+     "del",
+     "the company also reported a 30% drop in production"
+    ],
+    [
+     "ins",
+     "it set out plans to cut another 700 jobs"
+    ],
+    [
+     "eq",
+     "from its"
+    ],
+    [
+     "del",
+     "integrated gas division on the same quarter"
+    ],
+    [
+     "ins",
+     "global operations following cuts of 7,000"
+    ],
+    [
+     "eq",
+     "last year. The"
+    ],
+    [
+     "del",
+     "fall"
+    ],
+    [
+     "ins",
+     "Financial Times said it had seen an email to staff from BP's production boss, Gordon Birrell,"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "production follows a strike that damaged its assets"
+    ],
+    [
+     "ins",
+     "which he set out plans to streamline the business and said BP had to be \"competitive"
+    ],
+    [
+     "eq",
+     "at the"
+    ],
+    [
+     "del",
+     "Ras Laffan liquefied natural gas (LNG) complex in Qatar in March. Repairs to"
+    ],
+    [
+     "ins",
+     "bottom of"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "plant are expected to take about a year."
+    ],
+    [
+     "ins",
+     "cycle, not just the top\"."
+    ],
+    [
+     "eq",
+     "Shell's surging profits reignited calls from environmental campaigners for taxes to fund"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "resilience against extreme weather, and supercharge the transition to clean, affordable energy\"."
+    ],
+    [
+     "del",
+     "Robert Palmer, deputy director at the campaign group Uplift, accused Shell of \"maniacal behaviour\" for \"putting its profits ahead of the health of our planet\". \"As families and firefighters across Europe battle devastating wildfires, Shell is cashing in on Trump's war and doubling down on oil and gas,\" Palmer said. \"The world is literally on fire and Shell wants to add more fuel.\""
+    ],
+    [
+     "eq",
+     "Shares in Shell rose 1.5% in early trading on"
+    ],
+    [
+     "del",
+     "Thursday,"
+    ],
+    [
+     "ins",
+     "Thursday"
+    ],
+    [
+     "eq",
+     "to £33.72, the highest since early June."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.6937,
+  "numbers_changed": [
+   "10",
+   "100",
+   "118",
+   "2.3",
+   "2.7",
+   "2021",
+   "55",
+   "7,000",
+   "700",
+   "9.8",
+   "9.84",
+   "90",
+   "93.18"
+  ],
+  "market_figures_changed": [
+   "$10bn",
+   "$118m",
+   "$2.3bn",
+   "$2.7bn",
+   "$9.84bn",
+   "$9.8bn",
+   "$90",
+   "$93.18",
+   "55%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 4,
+  "blocks_added": 3,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 2.9,
+ "similarity": 0.548,
+ "adjudicated_by": "rules"
+}

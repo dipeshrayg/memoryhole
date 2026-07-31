@@ -1,0 +1,44 @@
+{
+ "id": "3584c79fbc77b6c9-b2d8ec56-29c43cc5",
+ "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-07-31T09:13:10Z",
+ "date": "2026-07-31",
+ "old_title": "Who wins and who loses after US bans foreign robots?",
+ "new_title": "Who wins and who loses after US bans foreign robots?",
+ "old_text": "Humanoid robots and four-legged robots made in China fall squarely under a new ban imposed by the US Federal Communications Commission on foreign-made robots. But the sweeping prohibition covers a wide variety of robots manufactured anywhere abroad, including the newest robot vacuum cleaners.\nThe Trump administration's FCC justified the ban on foreign-made robots by referencing cybersecurity vulnerabilities previously discovered in robots specifically made by Chinese companies. On July 28, the federal agency added \"foreign-produced advanced robotic devices\" to its Covered List of technologies \"deemed to pose an unacceptable risk to the national security of the US or the safety and security of US persons.\"\nHowever, the FCC cannot update the Covered List on its own initiative and is required by law to follow the direction of a \"qualifying national security authority.\" The agency describes the White House as having \"convened an executive branch interagency body\" that \"included appropriate national security agencies,\" which determined foreign-made robots as presenting a national security risk.\nSo what foreign-made robots are prohibited? The ban defines \"advanced robotic devices\" as being \"a mechanical mobile device, including autonomous mobile robots, humanoid robots, and quadrupeds\" that can move around on the ground and operate either autonomously on their own or remotely under the control of a human.\nThe definition also describes covered robots as having sensors capable of perceiving the robot's environment, network connectivity such as Bluetooth or satellite connections with speeds surpassing 200 kbps in either direction, and software or AI models running onboard the robot or remotely from cloud computing servers.\nSuch an import ban would apply to some of the most affordable robots primarily produced by Chinese companies, including Unitree's humanoid robots that are used by robotics labs and researchers for tasks such as experimental robot surgeries. US consumers would also likely lose access to the newest robot vacuum cleaners that are mainly manufactured by Chinese companies such as Roborock.",
+ "new_text": "Humanoid robots and four-legged robots made in China fall squarely under a new ban imposed by the US Federal Communications Commission on foreign-made robots. But the sweeping prohibition covers a wide variety of robots manufactured anywhere abroad, including the newest robot vacuum cleaners.\nThe Trump administration's FCC justified the ban on foreign-made robots by referencing cybersecurity vulnerabilities previously discovered in robots specifically made by Chinese companies. On July 28, the federal agency added \"foreign-produced advanced robotic devices\" to its Covered List of technologies \"deemed to pose an unacceptable risk to the national security of the US or the safety and security of US persons.\"\nHowever, the FCC cannot update the Covered List on its own initiative and is required by law to follow the direction of a \"qualifying national security authority.\" The agency describes the White House as having \"convened an executive branch interagency body\" that \"included appropriate national security agencies,\" which determined foreign-made robots as presenting a national security risk.\nSo what foreign-made robots are prohibited? The ban defines \"advanced robotic devices\" as being \"a mechanical mobile device, including autonomous mobile robots, humanoid robots, and quadrupeds\" that can move around on the ground and operate either autonomously on their own or remotely under the control of a human.\nThe definition also describes covered robots as having sensors capable of perceiving the robot's environment, network connectivity such as Bluetooth or satellite connections with speeds surpassing 200 kbps in either direction, and software or AI models running onboard the robot or remotely from cloud computing servers.\nSuch an import ban would apply to some of the most affordable robots primarily produced by Chinese companies, including Unitree's humanoid robots that are used by robotics labs and researchers for tasks such as experimental robot surgeries. US consumers would also likely lose access to the newest robot vacuum cleaners that are mainly manufactured by Chinese companies such as Roborock.\nThe ban also broadly applies to foreign-made robots produced by countries nominally allied to the United States, including Japan, South Korea, and Germany.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "vacuum cleaners that are mainly manufactured by Chinese companies such as Roborock."
+    ],
+    [
+     "ins",
+     "The ban also broadly applies to foreign-made robots produced by countries nominally allied to the United States, including Japan, South Korea, and Germany."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.073,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

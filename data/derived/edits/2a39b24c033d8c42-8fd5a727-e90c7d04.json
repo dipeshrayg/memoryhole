@@ -1,0 +1,320 @@
+{
+ "id": "2a39b24c033d8c42-8fd5a727-e90c7d04",
+ "url": "https://www.bbc.co.uk/sport/boxing/articles/czxewy7zl46o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-07-31T09:08:56Z",
+ "date": "2026-07-31",
+ "old_title": "Commonwealth Games 2026: Aziz Abdul, grandson of Idi Amin, disqualified for headbutt in Glasgow",
+ "new_title": "Commonwealth Games 2026: Aziz Abdul, grandson of Idi Amin, disqualified for headbutt in Glasgow",
+ "old_text": "- Published\nUgandan boxer Aziz Abdul - the grandson of dictator Idi Amin - was disqualified from his fight at the Commonwealth Games after appearing to headbutt his English opponent.\nThe 25-year-old was punished after lifting his head into Damar Thomas' chin as the pair grappled in the third round.\nAbdul later claimed the judges were against him because he is a \"black African\".\n\"When you watch the previous fights of England their boxers create a lot of fouls,\" he said.\n\"I land a heavy punch on him, they never count. Instead of counting they deduct me.\n\"I am black African. He is in homeland.\"\nBefore the super-heavyweight bout Abdul told the BBC he wanted to become the new 'King of Scotland' - in reference to Amin declaring himself that name in 1976.\nAfter taking power in a coup in 1971, Amin ran a brutal regime during which an estimated half a million people were killed. He was also known as the Butcher of Uganda.\nAbdul, who never met his grandfather, was chasing Uganda's first Commonwealth boxing medal since Auckland in 1990 - something which would have been guaranteed had he beaten Thomas.\nInstead, he was given warnings in the previous two rounds and was trailing on all of the judges' scorecards.\n\"All I can say about this is the decision is not right, I am not happy,\" he said.\n\"He elbowed me. He caught me with the elbow.\n\"It [the head movement] was not intentional. I was trying to come back.\n\"How can I headbutt someone? I would not.\n\"He was the person they wanted to win. He was the winner before.\n\"I knew if I did not get knockout I could not win the fight.\"\nBBC Sport has contacted Commonwealth Games organisers and World Boxing for a response to Abdul's comments.\nThomas, who is now guaranteed at least a bronze medal, said it was \"not the way\" he wanted to win.\n\"I can't change what happened today but I can control how I box on Friday,\" he said.\nAmin, himself a boxer, harboured a fascination with Scotland after serving in the King's African Rifles in his 20s.\nAt the height of the regime, he was fond of wearing a kilt and playing the bagpipes - and even declared himself \"King of Scotland\" in 1976.\nSome years later, those predilections even spawned an Oscar-winning film, The Last King of Scotland, starring Forest Whitaker and James McAvoy.\nIn a previous interview, Abdul said he was \"inspired\" by Amin, although it was not entirely clear whether he was talking about his boxing feats or not.\nSpeaking to the BBC, he refused to answer when asked if he was proud to be the dictator's grandson, but he did address the question of how he feels when he is linked to someone with such a sinister reputation.",
+ "new_text": "- Published\nClaims made by boxer Aziz Abdul - the grandson of Ugandan dictator Idi Amin - that racism was behind his disqualification at the Commonwealth Games have been rejected by the president of the event organisers.\nAbdul was ruled to have headbutted England boxer Damar Thomas as the pair grappled during the third round of their fight.\nThe 25-year-old claimed the judges were against him because he is a \"black African\" and, answering questions from BBC Sport, referred to Thomas by using a racial slur.\n\"When you watch the previous fights of England their boxers create a lot of fouls,\" said Abdul.\n\"I land a heavy punch on him, they never count. Instead of counting they deduct me.\n\"I am black African. He is in homeland.\"\nCommonwealth Sport president Donald Rukare, who is also from Uganda, said: \"We at Commonwealth Sport believe every athlete is treated fairly and in a non-discriminatory manner.\n\"We are inclusive. That is a field-of-play decision and that is something that was said in the heat of the moment.\"\nBefore the super-heavyweight bout, Abdul told the BBC he wanted to become the new 'King of Scotland' - in reference to Amin giving himself that name in 1976.\nAfter taking power in a coup in 1971, Amin ran a brutal regime during which an estimated half a million people were killed. He was also known as the Butcher of Uganda.\nAbdul, who never met his grandfather, was chasing Uganda's first Commonwealth boxing medal since Auckland in 1990 - something which would have been guaranteed had he beaten Thomas.\nInstead, he was given warnings in the previous two rounds and was trailing on all of the judges' scorecards.\n\"All I can say about this is the decision is not right, I am not happy,\" he said.\n\"He elbowed me. He caught me with the elbow. It [the head movement] was not intentional. I was trying to come back. How can I headbutt someone? I would not.\n\"He was the person they wanted to win. He was the winner before. I knew if I did not get knockout I could not win the fight.\"\nRukare raised the prospect of Abdul facing punishment from the Ugandan team.\n\"We have a team manager and chef de mission and I am sure the appropriate channels will be followed,\" he said.\n\"We have a code of conduct. I don't represent Uganda here. I am sure that matter will be handled appropriately with our own code of conduct.\"\nThomas, who is now guaranteed at least a bronze medal, said it was \"not the way\" he wanted to win.\n\"I can't change what happened today but I can control how I box on Friday,\" he said.\nAmin - himself a boxer - harboured a fascination with Scotland after serving in the King's African Rifles in his 20s.\nAt the height of the regime, he was fond of wearing a kilt and playing the bagpipes - and even declared himself \"King of Scotland\" in 1976.\nSome years later, those predilections even spawned an Oscar-winning film, The Last King of Scotland, starring Forest Whitaker and James McAvoy.\nIn a previous interview, Abdul said he was \"inspired\" by Amin, although it was not entirely clear whether he was talking about his boxing feats or not.\nSpeaking to the BBC, he refused to answer when asked if he was proud to be the dictator's grandson, but he did address the question of how he feels when he is linked to someone with such a sinister reputation.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "Ugandan"
+    ],
+    [
+     "ins",
+     "Claims made by"
+    ],
+    [
+     "eq",
+     "boxer Aziz Abdul - the grandson of"
+    ],
+    [
+     "ins",
+     "Ugandan"
+    ],
+    [
+     "eq",
+     "dictator Idi Amin -"
+    ],
+    [
+     "ins",
+     "that racism"
+    ],
+    [
+     "eq",
+     "was"
+    ],
+    [
+     "del",
+     "disqualified from"
+    ],
+    [
+     "ins",
+     "behind"
+    ],
+    [
+     "eq",
+     "his"
+    ],
+    [
+     "del",
+     "fight"
+    ],
+    [
+     "ins",
+     "disqualification"
+    ],
+    [
+     "eq",
+     "at the Commonwealth Games"
+    ],
+    [
+     "del",
+     "after appearing"
+    ],
+    [
+     "ins",
+     "have been rejected by the president of the event organisers. Abdul was ruled"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "headbutt his English opponent. The 25-year-old was punished after lifting his head into"
+    ],
+    [
+     "ins",
+     "have headbutted England boxer"
+    ],
+    [
+     "eq",
+     "Damar"
+    ],
+    [
+     "del",
+     "Thomas' chin"
+    ],
+    [
+     "ins",
+     "Thomas"
+    ],
+    [
+     "eq",
+     "as the pair grappled"
+    ],
+    [
+     "del",
+     "in"
+    ],
+    [
+     "ins",
+     "during"
+    ],
+    [
+     "eq",
+     "the third"
+    ],
+    [
+     "del",
+     "round. Abdul later"
+    ],
+    [
+     "ins",
+     "round of their fight. The 25-year-old"
+    ],
+    [
+     "eq",
+     "claimed the judges were against him because he is a \"black"
+    ],
+    [
+     "del",
+     "African\"."
+    ],
+    [
+     "ins",
+     "African\" and, answering questions from BBC Sport, referred to Thomas by using a racial slur."
+    ],
+    [
+     "eq",
+     "\"When you watch the previous fights of England their boxers create a lot of fouls,\""
+    ],
+    [
+     "del",
+     "he said."
+    ],
+    [
+     "ins",
+     "said Abdul."
+    ],
+    [
+     "eq",
+     "\"I land a heavy punch on him, they never count. Instead of counting they deduct me. \"I am black African. He is in homeland.\""
+    ],
+    [
+     "ins",
+     "Commonwealth Sport president Donald Rukare, who is also from Uganda, said: \"We at Commonwealth Sport believe every athlete is treated fairly and in a non-discriminatory manner. \"We are inclusive. That is a field-of-play decision and that is something that was said in the heat of the moment.\""
+    ],
+    [
+     "eq",
+     "Before the super-heavyweight"
+    ],
+    [
+     "del",
+     "bout"
+    ],
+    [
+     "ins",
+     "bout,"
+    ],
+    [
+     "eq",
+     "Abdul told the BBC he wanted to become the new 'King of Scotland' - in reference to Amin"
+    ],
+    [
+     "del",
+     "declaring"
+    ],
+    [
+     "ins",
+     "giving"
+    ],
+    [
+     "eq",
+     "himself that name in 1976. After taking power in a coup in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "happy,\" he said. \"He elbowed me. He caught me with the elbow."
+    ],
+    [
+     "del",
+     "\"It"
+    ],
+    [
+     "ins",
+     "It"
+    ],
+    [
+     "eq",
+     "[the head movement] was not intentional. I was trying to come back."
+    ],
+    [
+     "del",
+     "\"How"
+    ],
+    [
+     "ins",
+     "How"
+    ],
+    [
+     "eq",
+     "can I headbutt someone? I would not. \"He was the person they wanted to win. He was the winner before."
+    ],
+    [
+     "del",
+     "\"I"
+    ],
+    [
+     "ins",
+     "I"
+    ],
+    [
+     "eq",
+     "knew if I did not get knockout I could not win the fight.\""
+    ],
+    [
+     "del",
+     "BBC Sport has contacted Commonwealth Games organisers"
+    ],
+    [
+     "ins",
+     "Rukare raised the prospect of Abdul facing punishment from the Ugandan team. \"We have a team manager"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "World Boxing for"
+    ],
+    [
+     "ins",
+     "chef de mission and I am sure the appropriate channels will be followed,\" he said. \"We have"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "response to Abdul's comments."
+    ],
+    [
+     "ins",
+     "code of conduct. I don't represent Uganda here. I am sure that matter will be handled appropriately with our own code of conduct.\""
+    ],
+    [
+     "eq",
+     "Thomas, who is now guaranteed at least a bronze medal, said it"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "today but I can control how I box on Friday,\" he said."
+    ],
+    [
+     "del",
+     "Amin,"
+    ],
+    [
+     "ins",
+     "Amin -"
+    ],
+    [
+     "eq",
+     "himself a"
+    ],
+    [
+     "del",
+     "boxer,"
+    ],
+    [
+     "ins",
+     "boxer -"
+    ],
+    [
+     "eq",
+     "harboured a fascination with Scotland after serving in the King's African Rifles"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4473,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 1,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.803,
+ "similarity": 0.8279,
+ "adjudicated_by": "rules"
+}
