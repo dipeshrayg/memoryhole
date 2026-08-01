@@ -1,0 +1,50 @@
+{
+ "id": "95a5d741af18e761-37eedba2-40336e88",
+ "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-missed-38-elon-musk-213818116.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-01T08:39:45Z",
+ "date": "2026-08-01",
+ "old_title": "Tesla Missed by 38% But Elon Musk Is Not Worried. Here's What TSLA Investors Should Make of That.",
+ "new_title": "Tesla Missed by 38% But Elon Musk Is Not Worried. Here's What TSLA Investors Should Make of That.",
+ "old_text": "Tesla (TSLA) is an electric vehicle (EV) and clean energy company led by CEO Elon Musk. Founded in 2003 and based in Austin, Texas, the company designs, manufactures, and sells EVs alongside energy storage and generation products, including Megapack and solar solutions. Tesla operates across two core segments: Automotive - which includes vehicle sales, regulatory credits, and Full Self-Driving (FSD) subscriptions - and Energy Generation and Storage.\nRapidly emerging businesses including Tesla's robotaxi service, Optimus humanoid robots, and artificial intelligence (AI) computing infrastructure are increasingly shaping the company's long-term valuation narrative. That's positioning Tesla as a full-stack autonomous technology and energy platform. Let's take a closer look.\nMore News from Barchart\nTesla Stock Struggles\nShares of Tesla have a 52-week range of $297.82 to $498.83, with TSLA stock delivering a 2% gain over the past 12 months. Shares closed at $319.69 on July 23, falling more than 14% in a single session following a sharp earnings miss. Tesla stock is now well below its 52-week high, changing hands at around $313 per share, with a market capitalization of approximately $1.17 trillion.\nCompared to the S&P 500 Consumer Discretionary Index ($SRCD), which has broadly held up in 2026 on resilient consumer spending, TSLA stock has meaningfully underperformed its benchmark so far this year. Shares have been weighed down by margin compression, aggressive capital expenditures, and investor frustration over execution timelines for Cybertruck and Optimus, even as vehicle deliveries hit a record.\nTesla Posts Weak Q2 Results\nTesla reported second-quarter 2026 revenue of $28.24 billion this past week, up 26% year-over-year (YOY), beating the analyst consensus of $25.7 billion. Non-GAAP EPS, however, came in at $0.33, badly missing the $0.53 analyst estimate and sending shares lower in after-hours trading. Vehicle deliveries reached a record 480,126 units, up 25% YOY and far exceeding analyst expectations of approximately 406,600, while active FSD subscriptions surged 56% YOY to 1.48 million. Tesla also crossed $100 billion in trailing 12-month revenue for the first time.\nOperating income collapsed 57% YOY to $398 million, with operating margin narrowing sharply to 1.4% from 4.1% a year ago, while operating expenses jumped 47% to $4.35 billion as Tesla ramped up spending on AI, Optimus, and Robotaxi infrastructure. Free cash flow turned negative at -$1.1 billion, with capital expenditures surging 142% YOY to $5.8 billion. Gross margin held at 16.8%, while regulatory credit sales - historically a high-margin earnings booster - collapsed during the quarter, compounding the profitability disappointment. Cash and short-term investments stood at $43.52 billion.",
+ "new_text": "Tesla (TSLA) is an electric vehicle (EV) and clean energy company led by CEO Elon Musk. Founded in 2003 and based in Austin, Texas, the company designs, manufactures, and sells EVs alongside energy storage and generation products, including Megapack and solar solutions. Tesla operates across two core segments: Automotive - which includes vehicle sales, regulatory credits, and Full Self-Driving (FSD) subscriptions - and Energy Generation and Storage.\nRapidly emerging businesses including Tesla's robotaxi service, Optimus humanoid robots, and artificial intelligence (AI) computing infrastructure are increasingly shaping the company's long-term valuation narrative. That's positioning Tesla as a full-stack autonomous technology and energy platform. Let's take a closer look.\nMore News from Barchart\n- What Do Monday Morning's Markets Bring to Mind?\n- Dear Bloom Energy Stock Fans, Mark Your Calendars for July 28\n- Crude Oil Prices Plunge as Supply Threats Ease\n- Tired of missing midday reversals? The FREE Barchart Brief newsletter keeps you in the know. Sign up now!\nTesla Stock Struggles\nShares of Tesla have a 52-week range of $297.82 to $498.83, with TSLA stock delivering a 2% gain over the past 12 months. Shares closed at $319.69 on July 23, falling more than 14% in a single session following a sharp earnings miss. Tesla stock is now well below its 52-week high, changing hands at around $313 per share, with a market capitalization of approximately $1.17 trillion.\nCompared to the S&P 500 Consumer Discretionary Index ($SRCD), which has broadly held up in 2026 on resilient consumer spending, TSLA stock has meaningfully underperformed its benchmark so far this year. Shares have been weighed down by margin compression, aggressive capital expenditures, and investor frustration over execution timelines for Cybertruck and Optimus, even as vehicle deliveries hit a record.\nTesla Posts Weak Q2 Results\nTesla reported second-quarter 2026 revenue of $28.24 billion this past week, up 26% year-over-year (YOY), beating the analyst consensus of $25.7 billion. Non-GAAP EPS, however, came in at $0.33, badly missing the $0.53 analyst estimate and sending shares lower in after-hours trading. Vehicle deliveries reached a record 480,126 units, up 25% YOY and far exceeding analyst expectations of approximately 406,600, while active FSD subscriptions surged 56% YOY to 1.48 million. Tesla also crossed $100 billion in trailing 12-month revenue for the first time.\nOperating income collapsed 57% YOY to $398 million, with operating margin narrowing sharply to 1.4% from 4.1% a year ago, while operating expenses jumped 47% to $4.35 billion as Tesla ramped up spending on AI, Optimus, and Robotaxi infrastructure. Free cash flow turned negative at -$1.1 billion, with capital expenditures surging 142% YOY to $5.8 billion. Gross margin held at 16.8%, while regulatory credit sales - historically a high-margin earnings booster - collapsed during the quarter, compounding the profitability disappointment. Cash and short-term investments stood at $43.52 billion.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "and energy platform. Let's take a closer look. More News from Barchart"
+    ],
+    [
+     "ins",
+     "- What Do Monday Morning's Markets Bring to Mind? - Dear Bloom Energy Stock Fans, Mark Your Calendars for July 28 - Crude Oil Prices Plunge as Supply Threats Ease - Tired of missing midday reversals? The FREE Barchart Brief newsletter keeps you in the know. Sign up now!"
+    ],
+    [
+     "eq",
+     "Tesla Stock Struggles Shares of Tesla have a 52-week range of $297.82"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1178,
+  "numbers_changed": [
+   "28"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9605,
+ "adjudicated_by": "rules"
+}

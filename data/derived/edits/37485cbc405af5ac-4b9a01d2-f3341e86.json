@@ -1,0 +1,134 @@
+{
+ "id": "37485cbc405af5ac-4b9a01d2-f3341e86",
+ "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-01T08:38:04Z",
+ "date": "2026-08-01",
+ "old_title": "Sainsbury's agrees to sell Argos for Â£120m",
+ "new_title": "Sainsbury's agrees to sell Argos for Â£120m",
+ "old_text": "- Published\nSainsbury's has agreed to sell Argos for Â£120m as the supermarket chain aims to focus on its core food business.\nSainsbury's said it would be \"business as usual\" for customers, staff, and suppliers. Shoppers will see no change as Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.\nThe buyer, Swift Partners, is a company which has been created to buy the brand and includes former Co-operative Group boss Richard Pennycook.\nThere are Argos 667 shops across the UK, with 201 operating as standalone stores and 466 operating within Sainsbury's. It also has more than 450 collection points.\nSwift Partners' Pennycook said he believed \"strongly in Argos's future and see real opportunities to invest and build on its progress\".\nThe deal is expected to be completed in February next year.\nSainsbury's bought Argos â as well as Homebase, Habitat, and all the other retail brands owned by Home Retail Group â in 2016 for Â£1.4bn.\nFounded in 1973, Argos opened shops where customers browsed its catalogues and placed their orders, with products being delivered to tills from warehouses connected to the stores.\nThe Argos catalogue, once described by comedian Bill Bailey as the \"laminated book of dreams\", used to be a physical book.\nArgos no longer prints this hefty tome, with its full range now available online instead. In store, customers can browse the product collection on tablet computers.\nRetail analyst Clive Black said he had always questioned whether Argos was \"wholly aligned\" with Sainsbury's grocery business, describing the supermarket group's attempt to sell Argos as \"challenging and prolonged\".\nHe said Argos has been a \"suboptimal performer from a financial perspective\".\nIn Sainsbury's latest results for the first three months of this year, group-wide sales were up 3.1%, although sales for Argos specifically had dipped 0.5%.\nBally Auluk, national officer at Usdaw, a union which represents Argos workers, said the announcement would create uncertainty, but that it welcomed Swift's commitment to \"keeping the model of store in stores, standalone stores and local fulfilment centres\".",
+ "new_text": "- Published\nSainsbury's has agreed to sell Argos for Â£120m after a long process of trying to offload it as the supermarket chain aims to focus on its main food business.\nSainsbury's said it would be \"business as usual\" for Argos customers, staff, and suppliers. Shoppers will see no change as Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.\nThe buyer, Swift Partners, is a company that has been created to buy the brand and includes former Co-operative Group boss Richard Pennycook.\nThere are 667 Argos shops across the UK, with 201 operating as standalone stores and 466 operating within Sainsbury's. It also has more than 450 collection points.\nFounded in 1973, Argos opened shops where customers browsed its catalogues and placed their orders, with products being delivered to tills from warehouses connected to the stores.\nThe Argos catalogue, once described by comedian Bill Bailey as the \"laminated book of dreams\", used to be a physical book.\nArgos no longer prints this hefty tome, with its full range now available online instead. In store, customers can browse the product collection on tablet computers.\nSainsbury's has been trying to sell Argos - which has been seen as an underperforming brand - for some time.\nSainsbury's bought Argos â together with Habitat and all the other retail brands owned by Home Retail Group â in 2016 for Â£1.4bn. It then sold Argos financial services, which runs the Argos card, for around Â£720m in 2024.\nIn September last year, its talks to sell the rest of Argos to Chinese online retailer JD.com fell through.\nSainsbury's chief executive Simon Roberts said that all of Argos's nearly 14,000 staff would be transferred over to Swift Partners as part of the deal.\nHe also confirmed that Argos would continue to operate in Sainsbury's shops; Nectar will continue to be used across both Argos and Sainsbury's; and Sainsbury's will continue to sell Habitat products\nSwift Partners' Pennycook said he believed \"strongly in Argos's future and see real opportunities to invest and build on its progress\".\nThe deal is expected to be completed in February next year.\nPennycook said there was the potential to open new standalone Argos shops â and did not rule out the possibility of the return of its print catalogue.\n'Suboptimal performance'\nRetail expert Catherine Shuttleworth said Argos has been a \"distraction\" from Sainsbury's main food business.\nShe said having new owners focused entirely on it gives Argos the potential to be a \"really digital-first business\".\nShe praised the user-friendliness of its app and said its click-and-collect model, where customers can order something online and pick it up from an Argos shop the same day, means it can give a \"bloody nose\" to online retail giants like Amazon.\nRetail analyst Clive Black said he had always questioned whether Argos was \"wholly aligned\" with Sainsbury's grocery business, describing the supermarket group's attempt to sell Argos as \"challenging and prolonged\".\nHe said Argos has been a \"suboptimal performer from a financial perspective\".\nIn Sainsbury's latest results for the first three months of this year, group-wide sales were up 3.1%, although sales for Argos specifically had dipped 0.5%.\nBally Auluk, national officer at Usdaw, a union which represents Argos workers, said the announcement would create uncertainty, but that it welcomed Swift's commitment to \"keeping the model of store in stores, standalone stores and local fulfilment centres\".",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published Sainsbury's has agreed to sell Argos for Â£120m"
+    ],
+    [
+     "ins",
+     "after a long process of trying to offload it"
+    ],
+    [
+     "eq",
+     "as the supermarket chain aims to focus on its"
+    ],
+    [
+     "del",
+     "core"
+    ],
+    [
+     "ins",
+     "main"
+    ],
+    [
+     "eq",
+     "food business. Sainsbury's said it would be \"business as usual\" for"
+    ],
+    [
+     "ins",
+     "Argos"
+    ],
+    [
+     "eq",
+     "customers, staff, and suppliers. Shoppers will see no change as Argos will"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "products, and offer Nectar points. The buyer, Swift Partners, is a company"
+    ],
+    [
+     "del",
+     "which"
+    ],
+    [
+     "ins",
+     "that"
+    ],
+    [
+     "eq",
+     "has been created to buy the brand and includes former Co-operative Group boss Richard Pennycook. There are"
+    ],
+    [
+     "ins",
+     "667"
+    ],
+    [
+     "eq",
+     "Argos"
+    ],
+    [
+     "del",
+     "667"
+    ],
+    [
+     "eq",
+     "shops across the UK, with 201 operating as standalone stores and 466 operating within Sainsbury's. It also has more than 450 collection points."
+    ],
+    [
+     "del",
+     "Swift Partners' Pennycook said he believed \"strongly in Argos's future and see real opportunities to invest and build on its progress\". The deal is expected to be completed in February next year. Sainsbury's bought Argos â as well as Homebase, Habitat, and all the other retail brands owned by Home Retail Group â in 2016 for Â£1.4bn."
+    ],
+    [
+     "eq",
+     "Founded in 1973, Argos opened shops where customers browsed its catalogues and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "instead. In store, customers can browse the product collection on tablet computers."
+    ],
+    [
+     "ins",
+     "Sainsbury's has been trying to sell Argos - which has been seen as an underperforming brand - for some time. Sainsbury's bought Argos â together with Habitat and all the other retail brands owned by Home Retail Group â in 2016 for Â£1.4bn. It then sold Argos financial services, which runs the Argos card, for around Â£720m in 2024. In September last year, its talks to sell the rest of Argos to Chinese online retailer JD.com fell through. Sainsbury's chief executive Simon Roberts said that all of Argos's nearly 14,000 staff would be transferred over to Swift Partners as part of the deal. He also confirmed that Argos would continue to operate in Sainsbury's shops; Nectar will continue to be used across both Argos and Sainsbury's; and Sainsbury's will continue to sell Habitat products Swift Partners' Pennycook said he believed \"strongly in Argos's future and see real opportunities to invest and build on its progress\". The deal is expected to be completed in February next year. Pennycook said there was the potential to open new standalone Argos shops â and did not rule out the possibility of the return of its print catalogue. 'Suboptimal performance' Retail expert Catherine Shuttleworth said Argos has been a \"distraction\" from Sainsbury's main food business. She said having new owners focused entirely on it gives Argos the potential to be a \"really digital-first business\". She praised the user-friendliness of its app and said its click-and-collect model, where customers can order something online and pick it up from an Argos shop the same day, means it can give a \"bloody nose\" to online retail giants like Amazon."
+    ],
+    [
+     "eq",
+     "Retail analyst Clive Black said he had always questioned whether Argos was"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.0088,
+  "numbers_changed": [
+   "14,000",
+   "2024",
+   "720"
+  ],
+  "market_figures_changed": [
+   "£720m"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 1,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.587,
+ "similarity": 0.9388,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,328 @@
+{
+ "id": "a6d12130c066cc77-e58436bf-593a4ad9",
+ "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-01T08:28:09Z",
+ "date": "2026-08-01",
+ "old_title": "Anthropic's Claude AI escapes tests to hack three organisations",
+ "new_title": "Anthropic's Claude AI escapes tests to hack three organisations",
+ "old_text": "- Published\nUS technology firm Anthropic says its artificial intelligence (AI) models hacked into the systems of three organisations during a cybersecurity test due to an error that gave them access to the internet.\nIt comes just days after rival OpenAI said that its models had breached the systems of other companies, including AI tools hub Hugging Face.\nThe announcement prompted Anthropic to check whether its own models had carried out similar attacks. It says it uncovered three cases that have since been reported to the affected companies.\nAnthropic, which did not name the organisations, urged other AI labs to perform similar reviews to better understand the risks of their models' capabilities.\nAnthropic said in a statement, external that it reviewed more than 140,000 tests to find evidence that Claude - its family of AI models - could access the internet from testing environments that were designed to be sealed off.\nThe tests include so-called \"capture-the-flag\" evaluations in which Claude was tasked with obtaining information by breaching other systems - a common way that experts assess a model's hacking capabilities.\nA \"misconfiguration\" on systems run by Anthropic and its testing partner left the models with live internet access, allowing them to breach other systems, the San Francisco-based firm said.\nAnthropic said the earliest incidents date back to April and that it is \"approaching the fixes as if the responsibility were ours alone.\"\nNeither Anthropic nor the organisations that were breached had noticed the intrusions at the time.\nAnthropic said it could have reviewed its records more thoroughly and added that the findings gave the firm \"cautious optimism\" that such risks can be overcome with more investment and tighter measures.\n\"The broader lesson is not necessarily that AI has developed a fundamentally new attack capability,\" cyber security expert David Allott told the BBC.\n\"Instead, it is that AI agents can combine capabilities, obtain credentials and system access to take actions autonomously, while adapting scope and scale at machine speed,\" he added.\nThe incidents come as tech firms pour billions of dollars into developing AI agents that can independently perform tasks ranging from research and customer support to cybersecurity.\nA string of AI-driven cyberattacks has fuelled calls for tighter safeguards and oversight of the technology, over concerns about the risks posed by increasingly powerful autonomous systems.\nUS President Donald Trump said on Wednesday that Washington is considering measures to rein in AI tools after recent cybersecurity incidents.\nOver the last week, OpenAI has taken responsibility for at least two hacking incidents involving its platforms breaching the rules of what they were directed to do.\nOn 21 July, the ChatGPT-maker said its agent - an AI system that can operate alone after human instruction - went rogue and escaped its test limits to hack into Hugging Face.\nOpenAI said the incident was \"unprecedented\", and it was investigating with Hugging Face, whose boss co-founder Thomas Wolf told the BBC that the incident is \"a wake-up call\" for the industry.\nThe incidents have been viewed with some scepticism as OpenAI and Anthropic prepare for blockbuster stock market listings that are expected to value each firm at around $1tn (Â£740bn).\nAn OpenAI spokesperson has said \"we recognise there are a lot of questions and speculative details circulating\" about the incident. They added that \"we plan to publish a technical report of our learnings in the coming weeks\".",
+ "new_text": "- Published\nUS technology firm Anthropic says its AI models hacked into the systems of three organisations on their own, during a private security experiment.\nThe models found a weakness in what was supposed to be an isolated test environment and connected to the internet.\nIt comes just days after rival OpenAI said that its models had breached the systems of other companies, including AI tools hub Hugging Face.\nThe announcement prompted Anthropic to check whether its own systems had carried out similar attacks. It says it uncovered three cases which have since been reported to the affected companies.\nAnthropic, which did not name the organisations, urged other AI labs to perform similar reviews to better understand the risks of their models' capabilities.\nAnthropic said in a statement, external it reviewed more than 140,000 tests to find evidence Claude - its family of AI models - had managed to get online even though it was supposed to be in an isolated test environment, cut off from the internet.\nThe tests included exercises in which Claude was tasked with obtaining \"secret\" information hidden on another machine on the closed-off network.\nIt was then told to get the information by breaking into the machine and finding it - a common way that experts assess a model's hacking capabilities.\nA \"misconfiguration\" on systems run by Anthropic and its testing partner left the models with live internet access.\nTreating it all as still part of the same exercise, Claude then connected to the internet and breached the systems of three real organisations rather than just test ones, the San Francisco-based firm said.\nAnthropic said the earliest incidents date back to April and that it is \"approaching the fixes as if the responsibility were ours alone.\"\nNeither Anthropic nor the organisations that were breached had noticed the intrusions at the time.\nAnthropic said it could have reviewed its records more thoroughly and added that the findings gave the firm \"cautious optimism\" that such risks can be overcome with more investment and tighter measures.\n'Doing what they're told'\nProfessor Gina Neff, head of the Minderoo Centre at the University of Cambridge, said the review showed \"AI models doing what people told them to\".\n\"The moral of this story is not to fear robots that will take over, but the companies behind powerful AI agents who are making the decisions about what is safe for the rest of us,\" she said.\n\"It also shows why independent testing and government oversight is crucial.\"\nMeanwhile, cyber-security expert David Allott from Veeam Software told the BBC the lesson to take from the cyber-attacks was \"not necessarily that AI has developed a fundamentally new attack capability\".\n\"Instead, it is that AI agents can combine capabilities, obtain credentials and system access to take actions autonomously, while adapting scope and scale at machine speed,\" he said.\nThe incidents come as tech firms pour billions of dollars into developing AI agents that can independently perform tasks ranging from research and customer support to cyber-security.\nA string of AI-driven cyber-attacks has fuelled calls for tighter safeguards and oversight of the technology, over concerns about the risks posed by increasingly powerful autonomous systems.\nUS President Donald Trump said on Wednesday that Washington is considering measures to rein in AI tools after recent cybersecurity incidents.\nOver the last week, OpenAI has taken responsibility for at least two hacking incidents involving its platforms breaching the rules of what they were directed to do.\nOn 21 July, the ChatGPT-maker said its agent - an AI system that can operate alone after human instruction - went rogue and escaped its test limits to hack into Hugging Face.\nOpenAI said the incident was \"unprecedented\", and it was investigating with Hugging Face, whose boss co-founder Thomas Wolf told the BBC that the incident is \"a wake-up call\" for the industry.\nThe incidents have been viewed with some scepticism as OpenAI and Anthropic prepare for blockbuster stock market listings that are expected to value each firm at around $1tn (Â£740bn).\nAn OpenAI spokesperson has said \"we recognise there are a lot of questions and speculative details circulating\" about the incident. They added that \"we plan to publish a technical report of our learnings in the coming weeks\".",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published US technology firm Anthropic says its"
+    ],
+    [
+     "del",
+     "artificial intelligence (AI)"
+    ],
+    [
+     "ins",
+     "AI"
+    ],
+    [
+     "eq",
+     "models hacked into the systems of three organisations"
+    ],
+    [
+     "ins",
+     "on their own,"
+    ],
+    [
+     "eq",
+     "during a"
+    ],
+    [
+     "del",
+     "cybersecurity"
+    ],
+    [
+     "ins",
+     "private security experiment. The models found a weakness in what was supposed to be an isolated"
+    ],
+    [
+     "eq",
+     "test"
+    ],
+    [
+     "del",
+     "due to an error that gave them access"
+    ],
+    [
+     "ins",
+     "environment and connected"
+    ],
+    [
+     "eq",
+     "to the internet. It comes just days after rival OpenAI said that"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "hub Hugging Face. The announcement prompted Anthropic to check whether its own"
+    ],
+    [
+     "del",
+     "models"
+    ],
+    [
+     "ins",
+     "systems"
+    ],
+    [
+     "eq",
+     "had carried out similar attacks. It says it uncovered three cases"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "ins",
+     "which"
+    ],
+    [
+     "eq",
+     "have since been reported to the affected companies. Anthropic, which did not"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the risks of their models' capabilities. Anthropic said in a statement, external"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "eq",
+     "it reviewed more than 140,000 tests to find evidence"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "eq",
+     "Claude - its family of AI models -"
+    ],
+    [
+     "del",
+     "could access the internet from testing environments that were designed"
+    ],
+    [
+     "ins",
+     "had managed to get online even though it was supposed"
+    ],
+    [
+     "eq",
+     "to be"
+    ],
+    [
+     "del",
+     "sealed off."
+    ],
+    [
+     "ins",
+     "in an isolated test environment, cut off from the internet."
+    ],
+    [
+     "eq",
+     "The tests"
+    ],
+    [
+     "del",
+     "include so-called \"capture-the-flag\" evaluations"
+    ],
+    [
+     "ins",
+     "included exercises"
+    ],
+    [
+     "eq",
+     "in which Claude was tasked with obtaining"
+    ],
+    [
+     "ins",
+     "\"secret\" information hidden on another machine on the closed-off network. It was then told to get the"
+    ],
+    [
+     "eq",
+     "information by"
+    ],
+    [
+     "del",
+     "breaching other systems"
+    ],
+    [
+     "ins",
+     "breaking into the machine and finding it"
+    ],
+    [
+     "eq",
+     "- a common way that experts assess a model's hacking capabilities. A"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "by Anthropic and its testing partner left the models with live internet"
+    ],
+    [
+     "del",
+     "access, allowing them"
+    ],
+    [
+     "ins",
+     "access. Treating it all as still part of the same exercise, Claude then connected"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "breach other systems,"
+    ],
+    [
+     "ins",
+     "the internet and breached the systems of three real organisations rather than just test ones,"
+    ],
+    [
+     "eq",
+     "the San Francisco-based firm said. Anthropic said the earliest incidents date back"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "that such risks can be overcome with more investment and tighter measures."
+    ],
+    [
+     "ins",
+     "'Doing what they're told' Professor Gina Neff, head of the Minderoo Centre at the University of Cambridge, said the review showed \"AI models doing what people told them to\"."
+    ],
+    [
+     "eq",
+     "\"The"
+    ],
+    [
+     "del",
+     "broader lesson"
+    ],
+    [
+     "ins",
+     "moral of this story"
+    ],
+    [
+     "eq",
+     "is not"
+    ],
+    [
+     "ins",
+     "to fear robots that will take over, but the companies behind powerful AI agents who are making the decisions about what is safe for the rest of us,\" she said. \"It also shows why independent testing and government oversight is crucial.\" Meanwhile, cyber-security expert David Allott from Veeam Software told the BBC the lesson to take from the cyber-attacks was \"not"
+    ],
+    [
+     "eq",
+     "necessarily that AI has developed a fundamentally new attack"
+    ],
+    [
+     "del",
+     "capability,\" cyber security expert David Allott told the BBC."
+    ],
+    [
+     "ins",
+     "capability\"."
+    ],
+    [
+     "eq",
+     "\"Instead, it is that AI agents can combine capabilities, obtain credentials and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "take actions autonomously, while adapting scope and scale at machine speed,\" he"
+    ],
+    [
+     "del",
+     "added."
+    ],
+    [
+     "ins",
+     "said."
+    ],
+    [
+     "eq",
+     "The incidents come as tech firms pour billions of dollars into developing"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "that can independently perform tasks ranging from research and customer support to"
+    ],
+    [
+     "del",
+     "cybersecurity."
+    ],
+    [
+     "ins",
+     "cyber-security."
+    ],
+    [
+     "eq",
+     "A string of AI-driven"
+    ],
+    [
+     "del",
+     "cyberattacks"
+    ],
+    [
+     "ins",
+     "cyber-attacks"
+    ],
+    [
+     "eq",
+     "has fuelled calls for tighter safeguards and oversight of the technology, over"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.451,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 1,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.047,
+ "similarity": 0.9539,
+ "adjudicated_by": "rules"
+}

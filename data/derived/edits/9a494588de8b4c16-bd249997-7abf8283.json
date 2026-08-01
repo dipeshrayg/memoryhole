@@ -1,0 +1,64 @@
+{
+ "id": "9a494588de8b4c16-bd249997-7abf8283",
+ "url": "https://www.france24.com/en/sport/20260731-fifa-vows-to-proceed-with-private-investor-plan-consultation-as-opposition-spreads",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-01T08:32:13Z",
+ "date": "2026-08-01",
+ "old_title": "FIFA vows to proceed with private investor plan consultation as opposition spreads",
+ "new_title": "FIFA vows to proceed with private investor plan consultation as opposition spreads",
+ "old_text": "FIFA vows to proceed with private investor plan consultation as opposition spreads\nFIFA has pledged to push ahead with consultations for a plan to allow private investors to buy a stake in a potential commercial subsidiary of the world football governing body despite stinging criticisms. Europe's UEFA has threatened to boycott the World Cup and other FIFA competitions over the proposal.\nWorld football governing body FIFA hit back at critics on Friday, vowing to press ahead with an \"open and democratic\" consultation with stakeholders on a proposed private investment plan.\nEuropean football's governing body UEFA said it was ready to boycott the World Cup over the proposal to create a commercial subsidiary to run FIFA's biggest events and allow private investors to acquire stakes in the company.\nIn a statement, FIFA said all of its member associations should have a chance to consider the plan.\n\"Nobody is selling football,\" FIFA said in the statement.\n\"This is not something FIFA would ever entertain.\"\nRead moreInfantino defends FIFA investment plan amid mounting backlash\nFIFA said it had heard the feedback from confederations including UEFA and CONCACAF - the governing body for North and Central America.\n\"We respect the feedback and concern aired in public and reaffirm our commitment to an open and democratic consultation,\" the statement said.\n\"Our planned consultation process was disrupted by incorrect media reports. We will proceed with this consultation process to ensure that each (member association) has the ability to express its vote based on facts.\"\nFIFA has said the plan could raise up to $4.2 billion based on a valuation of $20 billion for the FIFA Forward Enterprise (FFE) initiative.\nPotential investors reportedly include Thrive Capital, an investment company founded and led by Joshua Kushner, brother of US President Donald Trump's son-in-law Jared, as well as an arm of JP Morgan Chase, the US bank that attempted to finance the failed breakaway European Super League.\nIf approved, the project could provide each of FIFA's 211 member associations with a one-off payment of $20 million in early 2027 and increase their funding allocation for the 2027-2030 cycle from $8.0 million to $20 million.\n(FRANCE 24 with AFP)",
+ "new_text": "FIFA vows to proceed with private investor plan consultation as opposition spreads\nFIFA has pledged to push ahead with consultations for a plan to allow private investors to buy a stake in a potential commercial subsidiary of the world football governing body despite stinging criticisms. Europe's UEFA has threatened to boycott the World Cup and other FIFA competitions over the proposal.\nWorld football governing body FIFA hit back at critics on Friday, vowing to press ahead with an \"open and democratic\" consultation with stakeholders on a proposed private investment plan.\nEuropean football's governing body UEFA said it was ready to boycott the World Cup over the proposal to create a commercial subsidiary to run FIFA's biggest events and allow private investors to acquire stakes in the company.\nCarlos Cordeiro, senior advisor to FIFA president Gianni Infantino, resigned with immediate effect on Friday to protest the proposal, calling the plan \"a bad deal for football\".\n\"Let me be clear: I had no involvement in this proposal, and I oppose it unequivocally,\" Cordeiro said in a statement. \"It is a bad deal for FIFA's Member Associations, a bad deal for football, and a bad deal for the long-term future of the game.\"\nIn a statement, FIFA said all of its member associations should have a chance to consider the plan.\n\"Nobody is selling football,\" FIFA said in the statement.\n\"This is not something FIFA would ever entertain.\"\nRead moreInfantino defends FIFA investment plan amid mounting backlash\nFIFA said it had heard the feedback from confederations including UEFA and CONCACAF - the governing body for North and Central America.\n\"We respect the feedback and concern aired in public and reaffirm our commitment to an open and democratic consultation,\" the statement said.\n\"Our planned consultation process was disrupted by incorrect media reports. We will proceed with this consultation process to ensure that each (member association) has the ability to express its vote based on facts.\"\nFIFA has said the plan could raise up to $4.2 billion based on a valuation of $20 billion for the FIFA Forward Enterprise (FFE) initiative.\nPotential investors reportedly include Thrive Capital, an investment company founded and led by Joshua Kushner, brother of US President Donald Trump's son-in-law Jared, as well as an arm of JP Morgan Chase, the US bank that attempted to finance the failed breakaway European Super League.\nIf approved, the project could provide each of FIFA's 211 member associations with a one-off payment of $20 million in early 2027 and increase their funding allocation for the 2027-2030 cycle from $8.0 million to $20 million.\n(FRANCE 24 with AFP and Reuters)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "biggest events and allow private investors to acquire stakes in the company."
+    ],
+    [
+     "ins",
+     "Carlos Cordeiro, senior advisor to FIFA president Gianni Infantino, resigned with immediate effect on Friday to protest the proposal, calling the plan \"a bad deal for football\". \"Let me be clear: I had no involvement in this proposal, and I oppose it unequivocally,\" Cordeiro said in a statement. \"It is a bad deal for FIFA's Member Associations, a bad deal for football, and a bad deal for the long-term future of the game.\""
+    ],
+    [
+     "eq",
+     "In a statement, FIFA said all of its member associations should have"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the 2027-2030 cycle from $8.0 million to $20 million. (FRANCE 24 with"
+    ],
+    [
+     "del",
+     "AFP)"
+    ],
+    [
+     "ins",
+     "AFP and Reuters)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2145,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.862,
+ "similarity": 0.9014,
+ "adjudicated_by": "rules"
+}

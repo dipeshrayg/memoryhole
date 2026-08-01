@@ -1,0 +1,52 @@
+{
+ "id": "be2af2727d2461af-0ece098e-475dc147",
+ "url": "https://www.npr.org/2026/07/31/nx-s1-5901900/morning-news-brief",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-01T08:29:22Z",
+ "date": "2026-08-01",
+ "old_title": "Morning news brief",
+ "new_title": "Morning news brief",
+ "old_text": "Morning news brief\nMorning news brief\nAudio will be available later today.\nPresident Trump says he may pull Todd Blanche's nomination, Trump says a deal has been made to disarm Hamas and withdraw Israeli forces from Gaza, the U.S. economy is growing, but at a slower pace.",
+ "new_text": "Morning news briefPresident Trump says he may pull Todd Blanche's nomination, Trump says a deal has been made to disarm Hamas and withdraw Israeli forces from Gaza, the U.S. economy is growing, but at a slower pace.\nPresident Trump says he may pull Todd Blanche's nomination, Trump says a deal has been made to disarm Hamas and withdraw Israeli forces from Gaza, the U.S. economy is growing, but at a slower pace.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Morning news"
+    ],
+    [
+     "del",
+     "brief Morning news brief Audio will be available later today."
+    ],
+    [
+     "ins",
+     "briefPresident Trump says he may pull Todd Blanche's nomination, Trump says a deal has been made to disarm Hamas and withdraw Israeli forces from Gaza, the U.S. economy is growing, but at a slower pace."
+    ],
+    [
+     "eq",
+     "President Trump says he may pull Todd Blanche's nomination, Trump says a"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.9574,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.913,
+ "similarity": 0.8929,
+ "adjudicated_by": "rules"
+}

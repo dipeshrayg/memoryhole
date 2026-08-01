@@ -1,0 +1,52 @@
+{
+ "id": "961078111550864d-aa18f76a-f4a5c892",
+ "url": "https://www.aljazeera.com/sports/2026/7/30/infantino-insists-fifas-world-cup-plan-is-proposal-and-not-obligation?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-01T08:30:14Z",
+ "date": "2026-08-01",
+ "old_title": "Infantino insists FIFA's World Cup plan is proposal and not 'obligation'",
+ "new_title": "Infantino insists FIFA's World Cup plan is proposal and not 'obligation'",
+ "old_text": "FIFA President Gianni Infantino has called the plan to sell stakes in the World Cup a proposal but \"not an obligation\", after the idea provoked a furious response from a number of football authorities.\nFIFA announced plans this week to create a $20bn subsidiary to run the World Cup and its other events, and said it will offer stakes of up to 20% in it to external investors.\nRecommended Stories\nlist of 4 items- list 1 of 4Indian Premier League's business value skyrockets to $20bn\n- list 2 of 4Is FIFA selling parts of the World Cup to private investors?\n- list 3 of 4Viral finger-clicker suspended as cricket storm remains in global spotlight\n- list 4 of 4Messi returns to MLS training 10 days after World Cup final heartbreak\nThe proposal drew strong criticism from the sport's regional confederations, which said they were blindsided by the plan by world football's governing body to bring private investors into the sport.\nBut Infantino said strengthening the commercial side of the game is the natural next step in this evolution.\n\"It's part of a democratic process - a consultation process - and, above all, it is an opportunity but not an obligation, and, as I said, it kicks off the consultation process,\" Infantino said in a video provided by FIFA on Wednesday.\nFIFA is one of the world's wealthiest sporting organisations, generating billions of dollars in revenue, largely from broadcasting rights, sponsorship and other commercial deals linked to the World Cup.\nInfantino insisted in his remarks that fans will remain the cornerstone of football and said, \"FIFA obviously continues to govern football without any external interference.\n\"And the flagship tournament it organises, like the FIFA World Cup or the FIFA Women's World Cup, will always remain.\"",
+ "new_text": "FIFA President Gianni Infantino has called the plan to sell stakes in the World Cup a proposal but \"not an obligation\", after the idea provoked a furious response from a number of football authorities.\nFIFA announced plans this week to create a $20bn subsidiary to run the World Cup and its other events, and said it will offer stakes of up to 20% in it to external investors.\nRecommended Stories\nlist of 4 items\n- list 1 of 4Indian Premier League's business value skyrockets to $20bn\n- list 2 of 4Is FIFA selling parts of the World Cup to private investors?\n- list 3 of 4Viral finger-clicker suspended as cricket storm remains in global spotlight\n- list 4 of 4Messi returns to MLS training 10 days after World Cup final heartbreak\nThe proposal drew strong criticism from the sport's regional confederations, which said they were blindsided by the plan by world football's governing body to bring private investors into the sport.\nBut Infantino said strengthening the commercial side of the game is the natural next step in this evolution.\n\"It's part of a democratic process - a consultation process - and, above all, it is an opportunity but not an obligation, and, as I said, it kicks off the consultation process,\" Infantino said in a video provided by FIFA on Wednesday.\nFIFA is one of the world's wealthiest sporting organisations, generating billions of dollars in revenue, largely from broadcasting rights, sponsorship and other commercial deals linked to the World Cup.\nInfantino insisted in his remarks that fans will remain the cornerstone of football and said, \"FIFA obviously continues to govern football without any external interference.\n\"And the flagship tournament it organises, like the FIFA World Cup or the FIFA Women's World Cup, will always remain.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "to 20% in it to external investors. Recommended Stories list of 4"
+    ],
+    [
+     "del",
+     "items-"
+    ],
+    [
+     "ins",
+     "items -"
+    ],
+    [
+     "eq",
+     "list 1 of 4Indian Premier League's business value skyrockets to $20bn -"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0102,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

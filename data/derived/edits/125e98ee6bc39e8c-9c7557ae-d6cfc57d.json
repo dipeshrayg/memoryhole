@@ -1,0 +1,106 @@
+{
+ "id": "125e98ee6bc39e8c-9c7557ae-d6cfc57d",
+ "url": "https://www.aljazeera.com/news/2026/7/31/us-government-mislabels-countries-on-map-of-africa-at-global-conference?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-01T08:30:28Z",
+ "date": "2026-08-01",
+ "old_title": "US government mislabels countries on map of Africa at global conference",
+ "new_title": "US government mislabels countries on map of Africa at global conference",
+ "old_text": "United States officials attending a major health conference in Brazil mislabeled the African countries they showed on a map, causing an online stir and a subsequent admission of error from the Department of State.\nAttendees at the AIDS 2026 conference in Rio de Janeiro earlier this week took videos and screenshots of the highly inaccurate African map and posted them online, garnering thousands of views - and ridicule from netizens.\nRecommended Stories\nlist of 4 items- list 1 of 4After OpenAI disclosure, Anthropic says Claude also hacked outside systems\n- list 2 of 4'First somewhat optimistic day' in France since fire outbreak says prefect\n- list 3 of 4Families sleep in cars after homes destroyed in Japan earthquake\n- list 4 of 4Four bodies located after 10 climbers go missing on Pakistani peak\nVideo footage reviewed by the Reuters news agency showed the map pop up halfway through a presentation of the US State Department's controversial new health agreements with African countries, following the Trump administration's unprecedented and deadly aid cuts.\nThe map appeared to show Nigeria in the Sahara while Mozambique, which is in southeastern Africa, was placed in the eastern Horn of Africa.\nIvory Coast, in West Africa, was placed on the opposite side of the continent.\nBoundaries on the map were also mere blobs and did not represent any real countries.\nTop US health envoy Jeff Graham, who heads the President's Emergency Plan for AIDS Relief (PEPFAR), was speaking at the conference. His past deployments included Ghana and Ethiopia, according to his State Department profile.\nReuters found that the map contained a watermark showing it was likely created with OpenAI tools. The company said it is investigating the incident.\nThe US State Department acknowledged \"an unfortunate error\" on Thursday.\nIn a statement, it said the map was produced by a team member who hastily modified slides just before the event.\n\"We take full responsibility for the confusion and misrepresentation it caused for attendees, including our African partners,\" the statement read, adding that discussions were \"substantive and constructive\" despite the error and that it remains committed to fighting AIDS.\nBefore the Trump administration's deadly decision to pause HIV funding last year pending a review, PEPFAR supported up to 20 million people across the world, and especially in Africa, with life-saving antiretrovirals (ART). The programme was launched under the George Bush administration.\nPEPFAR's core work has resumed, but the US is still scaling back HIV prevention and surveillance. Washington also plans to end the program in South Africa, which suffers the world's largest HIV burden.",
+ "new_text": "United States officials attending a major health conference in Brazil mislabeled the African countries they showed on a map, causing an online stir and a subsequent admission of error from the Department of State.\nAttendees at the AIDS 2026 conference in Rio de Janeiro earlier this week took videos and screenshots of the highly inaccurate African map and posted them online, garnering thousands of views - and ridicule from netizens.\nRecommended Stories\nlist of 3 items\n- list 1 of 3'US, China, India can all fit into Africa': On a quest to fix the world map\n- list 2 of 3Berlin Conference: How Europe carved up Africa 140 years ago\n- list 3 of 3Map quiz: How well do you know Africa's 54 countries?This article will be opened in a new browser window\nVideo footage reviewed by the Reuters news agency showed the map pop up halfway through a presentation of the US State Department's controversial new health agreements with African countries, following the Trump administration's unprecedented and deadly aid cuts.\nThe map appeared to show Nigeria in the Sahara while Mozambique, which is in southeastern Africa, was placed in the eastern Horn of Africa.\nIvory Coast, in West Africa, was placed on the opposite side of the continent.\nBoundaries on the map were also mere blobs and did not represent any real countries.\nTop US health envoy Jeff Graham, who heads the President's Emergency Plan for AIDS Relief (PEPFAR), was speaking at the conference. His past deployments included Ghana and Ethiopia, according to his State Department profile.\nReuters found that the map contained a watermark showing it was likely created with OpenAI tools. The company said it is investigating the incident.\nThe US State Department acknowledged \"an unfortunate error\" on Thursday.\nIn a statement, it said the map was produced by a team member who hastily modified slides just before the event.\n\"We take full responsibility for the confusion and misrepresentation it caused for attendees, including our African partners,\" the statement read, adding that discussions were \"substantive and constructive\" despite the error and that it remains committed to fighting AIDS.\nBefore the Trump administration's deadly decision to pause HIV funding last year pending a review, PEPFAR supported up to 20 million people across the world, and especially in Africa, with life-saving antiretrovirals (ART). The programme was launched under the George Bush administration.\nPEPFAR's core work has resumed, but the US is still scaling back HIV prevention and surveillance. Washington also plans to end the program in South Africa, which suffers the world's largest HIV burden.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "thousands of views - and ridicule from netizens. Recommended Stories list of"
+    ],
+    [
+     "del",
+     "4 items-"
+    ],
+    [
+     "ins",
+     "3 items -"
+    ],
+    [
+     "eq",
+     "list 1 of"
+    ],
+    [
+     "del",
+     "4After OpenAI disclosure, Anthropic says Claude also hacked outside systems"
+    ],
+    [
+     "ins",
+     "3'US, China, India can all fit into Africa': On a quest to fix the world map"
+    ],
+    [
+     "eq",
+     "- list 2 of"
+    ],
+    [
+     "del",
+     "4'First somewhat optimistic day' in France since fire outbreak says prefect"
+    ],
+    [
+     "ins",
+     "3Berlin Conference: How Europe carved up Africa 140 years ago"
+    ],
+    [
+     "eq",
+     "- list 3 of"
+    ],
+    [
+     "del",
+     "4Families sleep"
+    ],
+    [
+     "ins",
+     "3Map quiz: How well do you know Africa's 54 countries?This article will be opened"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "cars after homes destroyed in Japan earthquake - list 4 of 4Four bodies located after 10 climbers go missing on Pakistani peak"
+    ],
+    [
+     "ins",
+     "a new browser window"
+    ],
+    [
+     "eq",
+     "Video footage reviewed by the Reuters news agency showed the map pop"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2207,
+  "numbers_changed": [
+   "10",
+   "140",
+   "3",
+   "4",
+   "54"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.8899,
+ "adjudicated_by": "rules"
+}

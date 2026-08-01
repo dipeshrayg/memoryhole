@@ -1,0 +1,53 @@
+{
+ "id": "dd7c4594d52c6578-021e043f-76dc8cd6",
+ "url": "https://finance.yahoo.com/technology/articles/toyota-doubles-down-evs-while-033300077.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-01T08:39:53Z",
+ "date": "2026-08-01",
+ "old_title": "Toyota doubles down on EVs while rivals retreat",
+ "new_title": "Toyota doubles down on EVs while rivals retreat",
+ "old_text": "There is a particular kind of business decision that only looks brilliant in hindsight, and only after everyone who made the opposite call has finished writing off the difference. It rarely feels brave at the time. It usually feels like being the last person in the room who did not get the memo.\nThe American electric vehicle market spent most of the past decade running on a subsidy. That credit, worth $7,500 per car, expired on Sept. 30, 2025, and the correction arrived exactly on schedule. Automakers sold 462,892 all-electric vehicles in the first half of 2026, down 23.8% from the same period a year earlier, according to Cox Automotive.\nThe industry response was a stampede for the exits. Carmakers have booked nearly $70 billion in write-downs as they scrap and postpone electric programs, reported Automotive News. Honda alone canceled three North American electric projects and now expects its first annual net loss since 1957.\nOne automaker did not flinch. Toyota (TM) confirmed this month that it will keep rolling out new battery-electric models through the rest of the year, even as it trims spending elsewhere in the lineup.\nWhy Toyota kept spending on electric vehicles\nThe company will \"slow its product interventions in some model lines to save money,\" reported Automotive News, while continuing its EV rollout and leaning harder into hybrids.\nRead that carefully, because it is a resource-allocation decision wearing a product plan as a costume. Toyota is not spending more. It is spending the same money on different things, and the electric column is the one that survived the knife.\nMore Automotives:\nThe 2027 Highlander makes the point better than any executive quote could. Toyota redesigned its three-row family hauler as an electric-only vehicle, with a launch window running from later this year into the first quarter of 2027, according to Automotive News.\nThat is not a compliance car parked in a corner of the showroom. The Highlander is a school-run vehicle for suburban families with two kids and a dog. Committing it to batteries only, in the same quarter rivals were canceling flagship EVs, tells you what Toyota believes about where demand lands in 2028.\nWhat Toyota hybrid sales reveal about real demand\nElectrified vehicles accounted for 57.4% of Toyota's U.S. volume in June on sales of 122,063 units, a 35% jump from a year earlier, according to Toyota. More than half of everything the company sold in America last month had a battery in it somewhere.",
+ "new_text": "There is a particular kind of business decision that only looks brilliant in hindsight, and only after everyone who made the opposite call has finished writing off the difference. It rarely feels brave at the time. It usually feels like being the last person in the room who did not get the memo.\nThe American electric vehicle market spent most of the past decade running on a subsidy. That credit, worth $7,500 per car, expired on Sept. 30, 2025, and the correction arrived exactly on schedule. Automakers sold 462,892 all-electric vehicles in the first half of 2026, down 23.8% from the same period a year earlier, according to Cox Automotive.\nThe industry response was a stampede for the exits. Carmakers have booked nearly $70 billion in write-downs as they scrap and postpone electric programs, reported Automotive News. Honda alone canceled three North American electric projects and now expects its first annual net loss since 1957.\nOne automaker did not flinch. Toyota (TM) confirmed this month that it will keep rolling out new battery-electric models through the rest of the year, even as it trims spending elsewhere in the lineup.\nWhy Toyota kept spending on electric vehicles\nThe company will \"slow its product interventions in some model lines to save money,\" reported Automotive News, while continuing its EV rollout and leaning harder into hybrids.\nRead that carefully, because it is a resource-allocation decision wearing a product plan as a costume. Toyota is not spending more. It is spending the same money on different things, and the electric column is the one that survived the knife.\nMore Automotives:\n- GM displays Q2 growth in key areas Tesla would be jealous of\n- Down 99%, popular EV stock is ripe bankruptcy candidate\n- Elon Musk just got a new rival on three fronts\nThe 2027 Highlander makes the point better than any executive quote could. Toyota redesigned its three-row family hauler as an electric-only vehicle, with a launch window running from later this year into the first quarter of 2027, according to Automotive News.\nThat is not a compliance car parked in a corner of the showroom. The Highlander is a school-run vehicle for suburban families with two kids and a dog. Committing it to batteries only, in the same quarter rivals were canceling flagship EVs, tells you what Toyota believes about where demand lands in 2028.\nWhat Toyota hybrid sales reveal about real demand\nElectrified vehicles accounted for 57.4% of Toyota's U.S. volume in June on sales of 122,063 units, a 35% jump from a year earlier, according to Toyota. More than half of everything the company sold in America last month had a battery in it somewhere.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the electric column is the one that survived the knife. More Automotives:"
+    ],
+    [
+     "ins",
+     "- GM displays Q2 growth in key areas Tesla would be jealous of - Down 99%, popular EV stock is ripe bankruptcy candidate - Elon Musk just got a new rival on three fronts"
+    ],
+    [
+     "eq",
+     "The 2027 Highlander makes the point better than any executive quote could."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0825,
+  "numbers_changed": [
+   "2",
+   "99"
+  ],
+  "market_figures_changed": [
+   "99%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.25,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "cb66a26e20ae6aa0-12d8f79d-b8687c22",
+ "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-01T08:40:11Z",
+ "date": "2026-08-01",
+ "old_title": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
+ "new_title": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
+ "old_text": "Some stock drops look like bad news on the surface. Some are, yes, but some also tell a completely different story underneath.\nAnd I think American Express (AXP) investors have been handed the latter. The payments giant beat earnings expectations, raised its full-year revenue guidance, and reported its strongest card member spending growth in three years. The stock fell anyway.\nThis kind of reaction can frustrate shareholders and even confuse casual observers. But for \"Mad Money\" host Jim Cramer, it's a pattern he's seen before, and one he thinks is creating a clear opening.\nI think it's a terrific opportunity in one of the best-run companies on earth.\nAmerican Express CEO Steve Squeri echoed that confidence in the company's Q2 2026 earnings statement, noting: \"Six months into the year, we're seeing stronger momentum than we expected.\"\nJim Cramer on why the market read the AXP earnings wrong\nCramer's argument comes down to a single distinction. And it is one the market appears to have missed.\nAmerican Express beat earnings expectations in Q2 2026 and raised its full-year revenue growth guidance to approximately 10%, according to a company statement. Earnings per share (EPS) came in at $4.53, up 11% year-over-year (YoY). Net income reached $3.11 billion, up 8% from the same period a year earlier.\nSo why did the stock fall?\nThe answer lies in what management chose not to do. Instead of accelerating share repurchases, which would have boosted EPS more quickly, Squeri announced the company would reinvest its outperformance into growth initiatives.\nMore Jim Cramer:\nFull-year EPS guidance remained unchanged at $17.30 to $17.90. Investors read the unchanged EPS range as a red flag. Cramer read it differently in his few words.\nThe 176-year-old American Express is prioritizing long-term growth over boosting earnings per share, and that's exactly why I also think the stock is a buy.\nInvesting.com's earnings call transcript data showed a 36% return on equity during the quarter. That's evidence that the strategy is working. Return on equity measures how efficiently a company converts shareholder money into profit, and 36% is fair.\n\"Based on Steve Squeri's track record, I think he deserves the benefit of the doubt here, which is why I'd be a buyer,\" Cramer said.",
+ "new_text": "Some stock drops look like bad news on the surface. Some are, yes, but some also tell a completely different story underneath.\nAnd I think American Express (AXP) investors have been handed the latter. The payments giant beat earnings expectations, raised its full-year revenue guidance, and reported its strongest card member spending growth in three years. The stock fell anyway.\nThis kind of reaction can frustrate shareholders and even confuse casual observers. But for \"Mad Money\" host Jim Cramer, it's a pattern he's seen before, and one he thinks is creating a clear opening.\nI think it's a terrific opportunity in one of the best-run companies on earth.\nAmerican Express CEO Steve Squeri echoed that confidence in the company's Q2 2026 earnings statement, noting: \"Six months into the year, we're seeing stronger momentum than we expected.\"\nJim Cramer on why the market read the AXP earnings wrong\nCramer's argument comes down to a single distinction. And it is one the market appears to have missed.\nAmerican Express beat earnings expectations in Q2 2026 and raised its full-year revenue growth guidance to approximately 10%, according to a company statement. Earnings per share (EPS) came in at $4.53, up 11% year-over-year (YoY). Net income reached $3.11 billion, up 8% from the same period a year earlier.\nSo why did the stock fall?\nThe answer lies in what management chose not to do. Instead of accelerating share repurchases, which would have boosted EPS more quickly, Squeri announced the company would reinvest its outperformance into growth initiatives.\nMore Jim Cramer:\n- Jim Cramer's cryptic comments on key AI supplier turn heads\n- Jim Cramer says investors are getting the Mag 7 all wrong\n- Jim Cramer recommends buying these 5 stocks\n- Jim Cramer's net worth: How much does 'Mad Money's' stock-picking superhost make?\nFull-year EPS guidance remained unchanged at $17.30 to $17.90. Investors read the unchanged EPS range as a red flag. Cramer read it differently in his few words.\nThe 176-year-old American Express is prioritizing long-term growth over boosting earnings per share, and that's exactly why I also think the stock is a buy.\nInvesting.com's earnings call transcript data showed a 36% return on equity during the quarter. That's evidence that the strategy is working. Return on equity measures how efficiently a company converts shareholder money into profit, and 36% is fair.\n\"Based on Steve Squeri's track record, I think he deserves the benefit of the doubt here, which is why I'd be a buyer,\" Cramer said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the company would reinvest its outperformance into growth initiatives. More Jim Cramer:"
+    ],
+    [
+     "ins",
+     "- Jim Cramer's cryptic comments on key AI supplier turn heads - Jim Cramer says investors are getting the Mag 7 all wrong - Jim Cramer recommends buying these 5 stocks - Jim Cramer's net worth: How much does 'Mad Money's' stock-picking superhost make?"
+    ],
+    [
+     "eq",
+     "Full-year EPS guidance remained unchanged at $17.30 to $17.90. Investors read the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1186,
+  "numbers_changed": [
+   "5",
+   "7"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

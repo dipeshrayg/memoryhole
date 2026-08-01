@@ -1,0 +1,52 @@
+{
+ "id": "b2a94a73dcde7bf4-d59286dc-a20ce68d",
+ "url": "https://www.aljazeera.com/news/2026/7/31/israeli-forces-blow-up-structures-near-lebanons-beaufort-castle?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-01T08:30:22Z",
+ "date": "2026-08-01",
+ "old_title": "Israeli forces blow up structures near Lebanon's Beaufort Castle",
+ "new_title": "Israeli forces blow up structures near Lebanon's Beaufort Castle",
+ "old_text": "Israeli forces have carried out a series of powerful detonations near Lebanon's UNESCO-listed Beaufort Castle, as they continue to occupy southern Lebanon despite a United States-brokered \"ceasefire\" agreement.\nIsraeli Prime Minister Benjamin Netanyahu and Defence Minister Israel Katz said in a statement on Friday that the army blew up a tunnel system in the Beaufort area that they claimed formed a key part of Hezbollah's plan to infiltrate communities in the Galilee.\nRecommended Stories\nlist of 4 items- list 1 of 4'Just want to go back': Lebanese await return as army enters 'pilot zone'\n- list 2 of 4Trump push for Syrian intervention against Hezbollah 'short-sighted'\n- list 3 of 4Israel carries out blasts across south Lebanon despite 'ceasefire' deal\n- list 4 of 4Lebanon's displaced endure 'exhaustion and despair'\nThey said about \"700 tons of explosives\" were used in the operation, describing it as part of an ongoing campaign to dismantle Hezbollah's infrastructure in southern Lebanon.\n\"Israeli forces triggered very powerful explosions around midnight,\" in the area near the \"Beaufort fortress\", Lebanon's official National News Agency (NNA) said.\nAn NNA correspondent reported that the violent explosions shattered windows in several homes in the town of Qlayaa due to the force of the blasts and the shockwaves felt by residents throughout the area.\nThe Crusader-era castle, located in the southern area occupied by Israel, was added last week to UNESCO's List of World Heritage in Danger.\nEarlier, NNA also reported that Israeli forces demolished and destroyed a number of caves and houses in the vicinity of al-Mansouri and Majdal Zoun in the Tyre district using several shells.\nNNA added that Israeli forces carried out very large explosions at midnight in the areas of Yohmor al-Shaqif, Arnoun and Kfar Tebnit, the sound of which was reportedly heard across the southern regions.\nThese developments come despite the signing of a US-sponsored framework agreement between Israel and Lebanon in Washington on June 26.\nMeanwhile, on Thursday, Lebanese President Joseph Aoun visited Turkish President Recep Tayyip Erdogan in Ankara to speak with a number of officials.\nIn a joint news conference, Aoun said: \"This is what we are determined to achieve: an Israeli withdrawal from all Lebanese territory, the return of our displaced people to their villages, and their simultaneous return to their state and homeland.\"\nErdogan said: \"We wish to join any force that guarantees the stability and security of the region, including any alternative force in Lebanon.\"\nHe added that \"our support for the Lebanese Armed Forces will continue uninterrupted\", and that \"we are ready to assist in the reconstruction of southern Lebanon\".\nSpeaking with Turkiye Today, Lebanese Druze leader Walid Jumblatt criticised the recent agreement between Lebanon and Israel, arguing that it does not stipulate a complete withdrawal of Israeli forces from southern Lebanon, but merely speaks of \"redeployment\", which he described as a \"major trap\".\nIsraeli forces have advanced more than 10km (6.2 miles) into Lebanese territory in their latest operations in the south of the country. Since March 2, Israeli attacks on Lebanon have killed 4,333 people and injured 12,236 others, according to Lebanon's Health Ministry.",
+ "new_text": "Israeli forces have carried out a series of powerful detonations near Lebanon's UNESCO-listed Beaufort Castle, as they continue to occupy southern Lebanon despite a United States-brokered \"ceasefire\" agreement.\nIsraeli Prime Minister Benjamin Netanyahu and Defence Minister Israel Katz said in a statement on Friday that the army blew up a tunnel system in the Beaufort area that they claimed formed a key part of Hezbollah's plan to infiltrate communities in the Galilee.\nRecommended Stories\nlist of 4 items\n- list 1 of 4'Just want to go back': Lebanese await return as army enters 'pilot zone'\n- list 2 of 4Trump push for Syrian intervention against Hezbollah 'short-sighted'\n- list 3 of 4Israel carries out blasts across south Lebanon despite 'ceasefire' deal\n- list 4 of 4Lebanon's displaced endure 'exhaustion and despair'\nThey said about \"700 tons of explosives\" were used in the operation, describing it as part of an ongoing campaign to dismantle Hezbollah's infrastructure in southern Lebanon.\n\"Israeli forces triggered very powerful explosions around midnight,\" in the area near the \"Beaufort fortress\", Lebanon's official National News Agency (NNA) said.\nAn NNA correspondent reported that the violent explosions shattered windows in several homes in the town of Qlayaa due to the force of the blasts and the shockwaves felt by residents throughout the area.\nThe Crusader-era castle, located in the southern area occupied by Israel, was added last week to UNESCO's List of World Heritage in Danger.\nEarlier, NNA also reported that Israeli forces demolished and destroyed a number of caves and houses in the vicinity of al-Mansouri and Majdal Zoun in the Tyre district using several shells.\nNNA added that Israeli forces carried out very large explosions at midnight in the areas of Yohmor al-Shaqif, Arnoun and Kfar Tebnit, the sound of which was reportedly heard across the southern regions.\nThese developments come despite the signing of a US-sponsored framework agreement between Israel and Lebanon in Washington on June 26.\nMeanwhile, on Thursday, Lebanese President Joseph Aoun visited Turkish President Recep Tayyip Erdogan in Ankara to speak with a number of officials.\nIn a joint news conference, Aoun said: \"This is what we are determined to achieve: an Israeli withdrawal from all Lebanese territory, the return of our displaced people to their villages, and their simultaneous return to their state and homeland.\"\nErdogan said: \"We wish to join any force that guarantees the stability and security of the region, including any alternative force in Lebanon.\"\nHe added that \"our support for the Lebanese Armed Forces will continue uninterrupted\", and that \"we are ready to assist in the reconstruction of southern Lebanon\".\nSpeaking with Turkiye Today, Lebanese Druze leader Walid Jumblatt criticised the recent agreement between Lebanon and Israel, arguing that it does not stipulate a complete withdrawal of Israeli forces from southern Lebanon, but merely speaks of \"redeployment\", which he described as a \"major trap\".\nIsraeli forces have advanced more than 10km (6.2 miles) into Lebanese territory in their latest operations in the south of the country. Since March 2, Israeli attacks on Lebanon have killed 4,333 people and injured 12,236 others, according to Lebanon's Health Ministry.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "plan to infiltrate communities in the Galilee. Recommended Stories list of 4"
+    ],
+    [
+     "del",
+     "items-"
+    ],
+    [
+     "ins",
+     "items -"
+    ],
+    [
+     "eq",
+     "list 1 of 4'Just want to go back': Lebanese await return as"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0058,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

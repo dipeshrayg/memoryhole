@@ -1,0 +1,56 @@
+{
+ "id": "f50664cfd48cc54a-2d9515c0-edc3e562",
+ "url": "https://www.abc.net.au/news/2026-07-31/charlie-hills-accused-of-grant-whelan-coles-bay-assault-bail/106983316",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-01T08:33:12Z",
+ "date": "2026-08-01",
+ "old_title": "Coles Bay arson accused granted bail in Launceston court",
+ "new_title": "Coles Bay arson accused granted bail in Launceston court",
+ "old_text": "Charlie Hills bailed over alleged Grant Whelan assault, home arson in Coles Bay\nIn short:\nCharlie Hills, 29, is accused of assaulting a 76-year-old man, alongside two other men, in the early hours of July 11 at a Coles Bay property, on Tasmania's east coast.\nMr Hills has been granted bail, with a $10,000 surety.\nJason Byrnes, 33, and Hayden Morrison, 31, are also accused of attempted aggravated burglary, aggravated burglary, aggravated armed robbery, aggravated assault, arson and motor vehicle stealing.",
+ "new_text": "Charlie Hills bailed over alleged Grant Whelan assault, home arson in Coles Bay\nIn short:\nCharlie Hills, 29, is accused of assaulting a 76-year-old man, alongside two other men, in the early hours of July 11 at a Coles Bay property, on Tasmania's east coast.\nMr Hills has been granted bail.\nJason Byrnes, 33, and Hayden Morrison, 31, are also accused of attempted aggravated burglary, aggravated burglary, aggravated armed robbery, aggravated assault, arson and motor vehicle stealing.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Coles Bay property, on Tasmania's east coast. Mr Hills has been granted"
+    ],
+    [
+     "del",
+     "bail, with a $10,000 surety."
+    ],
+    [
+     "ins",
+     "bail."
+    ],
+    [
+     "eq",
+     "Jason Byrnes, 33, and Hayden Morrison, 31, are also accused of attempted"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0741,
+  "numbers_changed": [
+   "10,000"
+  ],
+  "market_figures_changed": [
+   "$10,000"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9959,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,72 @@
+{
+ "id": "7e14c01cbdd6bcb3-bd3c1ac5-fc224db7",
+ "url": "https://www.independent.co.uk/sport/football/fifa-world-cup-sale-infantino-afc-uefa-concacaf-b3025187.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-01T08:34:07Z",
+ "date": "2026-08-01",
+ "old_title": "Asian Football Confederation rejects Fifa's World Cup plan",
+ "new_title": "Asian Football Confederation rejects Fifa's World Cup plan",
+ "old_text": "Fifa's contentious proposal to sell stakes in a World Cup company appears to have been dealt a decisive blow, following the Asian Football Confederation's (AFC) decision to join Uefa and Concacaf in rejecting the plan.\nThe future of Fifa president Gianni Infantino now seems increasingly uncertain. The AFC's statement not only condemned the plan but also highlighted \"fundamental weaknesses in Fifa's consultation and decision-making processes that must now be addressed\".\nIt is understood that the 41 nations comprising Concacaf, representing North and Central America and the Caribbean, are losing, or have already lost, confidence in Infantino's leadership. Meanwhile, Uefa has vowed to boycott Fifa competitions should the proposal not be withdrawn.\nInfantino had previously stated that the creation of a new company to manage the World Cup and other Fifa competitions would require the approval of a majority of Fifa's 211 member associations. With the collective opposition of the AFC's 47 members, Concacaf's 41, and Uefa's 55, a formidable bloc of 143 nations now stands against the plan, making its passage highly improbable.\nThe proposal involved establishing Fifa Forward Enterprise (FFE) and selling a 20 per cent stake to private investors, with Joshua Kushner's Thrive Eternal reportedly earmarked as the lead investor group. Joshua Kushner is the brother of Jared Kushner, who is the son-in-law of United States President Donald Trump.\nBoth the AFC and Uefa have expressed dismay that member associations were reportedly unaware of the plans until media reports surfaced.\nThe AFC's statement read: \"The AFC stands in solidarity with Uefa and Concacaf in expressing serious concerns over FIFA's proposal to introduce private investment into Fifa's flagship competitions and the decision-making process around FFE.\"\nIt continued: \"The fact that the situation has reached the point where the real possibility of a Fifa World Cup boycott has entered public discourse should concern everyone who cares about the future of our game. Football should never have been placed in such a position.\"\nThe confederation further elaborated on its concerns: \"While the immediate debate centres on FFE, the AFC considers this issue extends far beyond a single proposal. Rather, it has exposed fundamental weaknesses in Fifa's consultation and decision-making processes that must now be addressed.\n\"While the AFC notes FIFA's latest clarification on the proposal, the central concerns surrounding governance, institutional process and meaningful consultation remain unanswered.\"\nFifa has been approached for comment regarding these developments.",
+ "new_text": "Fifa's contentious proposal to sell stakes in a World Cup company appears to have been dealt a decisive blow, following the Asian Football Confederation's (AFC) decision to join Uefa and Concacaf in rejecting the plan.\nThe future of Fifa president Gianni Infantino now seems increasingly uncertain. The AFC's statement not only condemned the plan but also highlighted \"fundamental weaknesses in Fifa's consultation and decision-making processes that must now be addressed\".\nIt is understood that the 41 nations comprising Concacaf, representing North and Central America and the Caribbean, are losing, or have already lost, confidence in Infantino's leadership. Meanwhile, Uefa has vowed to boycott Fifa competitions should the proposal not be withdrawn.\nInfantino had previously stated that the creation of a new company to manage the World Cup and other Fifa competitions would require the approval of a majority of Fifa's 211 member associations. With the collective opposition of the AFC's 47 members, Concacaf's 41, and Uefa's 55, a formidable bloc of 143 nations now stands against the plan, making its passage highly improbable.\nThe proposal involved establishing Fifa Forward Enterprise (FFE) and selling a 20 per cent stake to private investors, with Joshua Kushner's Thrive Eternal reportedly earmarked as the lead investor group. Joshua Kushner is the brother of Jared Kushner, who is the son-in-law of United States President Donald Trump.\nBoth the AFC and Uefa have expressed dismay that member associations were reportedly unaware of the plans until media reports surfaced.\nThe AFC's statement read: \"The AFC stands in solidarity with Uefa and Concacaf in expressing serious concerns over Fifa's proposal to introduce private investment into Fifa's flagship competitions and the decision-making process around FFE.\"\nIt continued: \"The fact that the situation has reached the point where the real possibility of a Fifa World Cup boycott has entered public discourse should concern everyone who cares about the future of our game. Football should never have been placed in such a position.\"\nThe confederation further elaborated on its concerns: \"While the immediate debate centres on FFE, the AFC considers this issue extends far beyond a single proposal. Rather, it has exposed fundamental weaknesses in Fifa's consultation and decision-making processes that must now be addressed.\n\"While the AFC notes Fifa's latest clarification on the proposal, the central concerns surrounding governance, institutional process and meaningful consultation remain unanswered.\"\nFifa has been approached for comment regarding these developments.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "stands in solidarity with Uefa and Concacaf in expressing serious concerns over"
+    ],
+    [
+     "del",
+     "FIFA's"
+    ],
+    [
+     "ins",
+     "Fifa's"
+    ],
+    [
+     "eq",
+     "proposal to introduce private investment into Fifa's flagship competitions and the decision-making"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and decision-making processes that must now be addressed. \"While the AFC notes"
+    ],
+    [
+     "del",
+     "FIFA's"
+    ],
+    [
+     "ins",
+     "Fifa's"
+    ],
+    [
+     "eq",
+     "latest clarification on the proposal, the central concerns surrounding governance, institutional process"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0101,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

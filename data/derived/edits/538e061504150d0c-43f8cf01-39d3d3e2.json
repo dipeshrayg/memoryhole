@@ -1,0 +1,72 @@
+{
+ "id": "538e061504150d0c-43f8cf01-39d3d3e2",
+ "url": "https://variety.com/2026/film/global/m-appeal-balcanica-matilda-de-angelis-venice-1236824007/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-08-01T08:47:38Z",
+ "date": "2026-08-01",
+ "old_title": "'Balcanica,' Starring Matilda De Angelis, Picked Up by M-Appeal Ahead of Venice World Premiere (EXCLUSIVE)",
+ "new_title": "'Balcanica,' Starring Matilda De Angelis, Picked Up by M-Appeal Ahead of Venice World Premiere (EXCLUSIVE)",
+ "old_text": "Berlin-based sales outfit M-Appeal has picked up international sales rights to Nicola Sorcinelli's \"Balcanica,\" starring Matilda De Angelis, which will have its world premiere in competition at the 23rd Giornate degli Autori, also known as Venice Days, held alongside the 83rd Venice Intl. Film Festival.\n\"Balcanica\" follows the journey of the orchestra conductor Nasar and his tuba-playing son Jalil across the Balkans, after leaving Afghanistan, where music has been banned. Their path eventually crosses that of Greta, an Italian doctor whose empathy and resilience shine through the situation. As their journeys continue to intertwine, the three must face the life changing choices the moment demands.\nThe film stars Italian actress Matilda De Angelis, known for her leading role in the Netflix series \"The Law According to Lidia Poët,\" Silver Bear winner Babak Karimi, celebrated for his performance in Asghar Farhadi's \"A Separation,\" winner of the Golden Bear at the 2011 Berlinale and the 2012 Academy Award for Best Foreign Language Film, and rising talent Ivar Wafaei. The screenplay is written by Sorcinelli and Andrea Brusa.\nPopular on Variety\n\"Balcanica\" is produced by Nightswim and Fremantle's Wildside, in co-production with This and That Productions and Antitalent, and in association with M74 and Nieminen Film.\nSorcinelli said that \"Balcanica,\" her debut feature film, is \"a story about a vital journey, denied freedoms and the deeply human need to keep searching for one's place in the world. Bringing it to Venice is a joy that is difficult to put into words.\"\nMaren Kroymann, CEO of M-Appeal, described the film as \"a powerful story of human connection and empathy in impossible situations.\" She added that Sorcinelli \"has crafted a timely, emotional and universal story that deserves to be seen everywhere, brought to life by an incredible cast.\"",
+ "new_text": "Berlin-based sales outfit M-Appeal has picked up international sales rights to Nicola Sorcinelli's \"Balcanica,\" starring Matilda De Angelis, which will have its world premiere in competition at the 23rd Giornate degli Autori, also known as Venice Days, held alongside the 83rd Venice Intl. Film Festival.\n\"Balcanica\" follows the journey of the orchestra conductor Nazar and his tuba-playing son Jalil across the Balkans, after leaving Afghanistan, where music has been banned. Their path eventually crosses that of Greta, an Italian doctor whose empathy and resilience shine through the situation. As their journeys continue to intertwine, the three must face the life changing choices the moment demands.\nThe film stars Italian actress Matilda De Angelis, known for her leading role in the Netflix series \"The Law According to Lidia Poët,\" Silver Bear winner Babak Karimi, celebrated for his performance in Asghar Farhadi's \"A Separation,\" winner of the Golden Bear at the 2011 Berlinale and the 2012 Academy Award for Best Foreign Language Film, and rising talent Ivar Wafaei. The screenplay is written by Sorcinelli and Andrea Brusa.\nPopular on Variety\n\"Balcanica\" is produced by Nightswim and Fremantle's Wildside, in co-production with This and That Productions and Antitalent, and in association with M74 and Nieminen Film.\nSorcinelli said that \"Balcanica,\" his debut feature film, is \"a story about a vital journey, denied freedoms and the deeply human need to keep searching for one's place in the world. Bringing it to Venice is a joy that is difficult to put into words.\"\nMaren Kroymann, CEO of M-Appeal, described the film as \"a powerful story of human connection and empathy in impossible situations.\" She added that Sorcinelli \"has crafted a timely, emotional and universal story that deserves to be seen everywhere, brought to life by an incredible cast.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Venice Intl. Film Festival. \"Balcanica\" follows the journey of the orchestra conductor"
+    ],
+    [
+     "del",
+     "Nasar"
+    ],
+    [
+     "ins",
+     "Nazar"
+    ],
+    [
+     "eq",
+     "and his tuba-playing son Jalil across the Balkans, after leaving Afghanistan, where"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and in association with M74 and Nieminen Film. Sorcinelli said that \"Balcanica,\""
+    ],
+    [
+     "del",
+     "her"
+    ],
+    [
+     "ins",
+     "his"
+    ],
+    [
+     "eq",
+     "debut feature film, is \"a story about a vital journey, denied freedoms"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0137,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9986,
+ "adjudicated_by": "rules"
+}

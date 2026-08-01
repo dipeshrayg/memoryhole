@@ -1,0 +1,53 @@
+{
+ "id": "dd01799eaeb6bf70-39e76ade-f328382a",
+ "url": "https://finance.yahoo.com/economy/policy/articles/markets-react-feds-july-interest-210558874.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-01T08:40:13Z",
+ "date": "2026-08-01",
+ "old_title": "Markets react to Fed's July interest rate decision",
+ "new_title": "Markets react to Fed's July interest rate decision",
+ "old_text": "On July 29, the Federal Reserve announced its decision on interest rates following its two-day policy meeting.\nAs expected, the central bank decided to keep the benchmark interest rate unchanged in the 3.50%-3.75% range.\nThough the Fed's newly appointed chair, Kevin Warsh, has emphasized the goal of lowering inflation to 2%, he hasn't outlined a detailed plan.\nEarlier, President Donald Trump called Warsh \"fantastic\" and reiterated that the Fed should lower the rates, \"He wants to do the right thing. I know what he wants to do.\"\nBut he sharply criticized other Fed officials as \"very political\" who \"perhaps have bad intentions.\" The president said,\n\"We should have the lowest interest rate in the world, like it used to be 30 years ago.\"\nHowever, the Warsh-led FOMC committee has decided to keep rates steady this time.\nTrending on TheStreet Roundtable:\nBitcoin, XRP react to FOMC decision\nFollowing the Federal Open Market Committee's (FOMC) latest interest rate decision, Bitcoin (BTC) and XRP were trading at $64,268.33 and $1.08 at the time of writing.\nEthereum (ETH) and Solana (SOL) were trading at $1,917.43 and $73.97.\nThe Crypto Fear & Greed Index by CoinGlass stood at 28 at the time of writing, reflecting \"Fear\" among crypto traders. However, the sentiment has gotten better after weeks of \"Extreme Fear\" among traders.\nThis story was originally published by TheStreet on Jul 29, 2026, where it first appeared in the Federal Reserve & FOMC News section. Add TheStreet as a Preferred Source by clicking here.",
+ "new_text": "On July 29, the Federal Reserve announced its decision on interest rates following its two-day policy meeting.\nAs expected, the central bank decided to keep the benchmark interest rate unchanged in the 3.50%-3.75% range.\nThough the Fed's newly appointed chair, Kevin Warsh, has emphasized the goal of lowering inflation to 2%, he hasn't outlined a detailed plan.\nEarlier, President Donald Trump called Warsh \"fantastic\" and reiterated that the Fed should lower the rates, \"He wants to do the right thing. I know what he wants to do.\"\nBut he sharply criticized other Fed officials as \"very political\" who \"perhaps have bad intentions.\" The president said,\n\"We should have the lowest interest rate in the world, like it used to be 30 years ago.\"\nHowever, the Warsh-led FOMC committee has decided to keep rates steady this time.\nTrending on TheStreet Roundtable:\n- Elon Musk warns America will 1,000% go bankrupt and fail as a country\n- Visa CEO discloses dynamic investment plan during earnings call\n- Analysts hike Robinhood stock price target ahead of July 29 earnings\nBitcoin, XRP react to FOMC decision\nFollowing the Federal Open Market Committee's (FOMC) latest interest rate decision, Bitcoin (BTC) and XRP were trading at $64,268.33 and $1.08 at the time of writing.\nEthereum (ETH) and Solana (SOL) were trading at $1,917.43 and $73.97.\nThe Crypto Fear & Greed Index by CoinGlass stood at 28 at the time of writing, reflecting \"Fear\" among crypto traders. However, the sentiment has gotten better after weeks of \"Extreme Fear\" among traders.\nThis story was originally published by TheStreet on Jul 29, 2026, where it first appeared in the Federal Reserve & FOMC News section. Add TheStreet as a Preferred Source by clicking here.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "has decided to keep rates steady this time. Trending on TheStreet Roundtable:"
+    ],
+    [
+     "ins",
+     "- Elon Musk warns America will 1,000% go bankrupt and fail as a country - Visa CEO discloses dynamic investment plan during earnings call - Analysts hike Robinhood stock price target ahead of July 29 earnings"
+    ],
+    [
+     "eq",
+     "Bitcoin, XRP react to FOMC decision Following the Federal Open Market Committee's"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1446,
+  "numbers_changed": [
+   "1,000",
+   "29"
+  ],
+  "market_figures_changed": [
+   "1,000%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.25,
+ "similarity": 0.9411,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "6bd9a1ea2fe3e1ee-25d5800b-b32761ca",
+ "url": "https://www.aljazeera.com/sports/2026/7/27/yan-diomande-real-madrid-agree-terms-transfer-deal-football-leipzig?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-01T08:29:48Z",
+ "date": "2026-08-01",
+ "old_title": "Report: Real Madrid agree terms with RB Leipzig winger Yan Diomande",
+ "new_title": "Report: Real Madrid agree terms with RB Leipzig winger Yan Diomande",
+ "old_text": "La Liga giants Real Madrid have agreed personal terms with RB Leipzig winger Yan Diomande, the BBC reported on Monday, after Paris Saint-Germain (PSG) and Liverpool withdrew their interest.\nDiomande, who plays on the right flank, was the Ivory Coast's standout player at the FIFA World Cup 2026, where he also made his debut, as the West African nation reached the round of 32.\nRecommended Stories\nlist of 4 items- list 1 of 4Pogacar's Tour de France reign continues with record-equalling fifth title\n- list 2 of 4World's oldest professional footballer scores first goal in years\n- list 3 of 4Formula One returns to Malaysia as Sepang circuit hosts Bahrain Grand Prix\n- list 4 of 4F1 needs better balance between business and sport, says Norris\nThe 19-year-old has taken Europe by storm since joining the German club from Spanish side Leganes a year ago. Known for his outstanding pace, strong dribbling and athleticism, the 1.8-metre (5 feet, 11 inches) attacking winger is a frequent goal threat.\nDiomande scored 12 league goals and bagged eight assists as Leipzig finished third in a highly successful 2025-26 Bundesliga campaign, confirming their UEFA Champions League berth for the upcoming season. He was also voted the Bundesliga's best young player of the season.\nBoth Premier League club Liverpool and reigning French champions PSG had their bids rejected, with the BBC reporting the Paris club's final offer for Diomande on Sunday estimated at a whopping 102.5 million pounds ($136.75m).\n\"Madrid have since agreed personal terms, said to be modelled on England midfielder Jude Bellingham's contract as they are incentivised on performances and effectively improve year-on-year,\" the report added.",
+ "new_text": "La Liga giants Real Madrid have agreed personal terms with RB Leipzig winger Yan Diomande, the BBC reported on Monday, after Paris Saint-Germain (PSG) and Liverpool withdrew their interest.\nDiomande, who plays on the right flank, was the Ivory Coast's standout player at the FIFA World Cup 2026, where he also made his debut, as the West African nation reached the round of 32.\nRecommended Stories\nlist of 4 items\n- list 1 of 4Pogacar's Tour de France reign continues with record-equalling fifth title\n- list 2 of 4World's oldest professional footballer scores first goal in years\n- list 3 of 4Formula One returns to Malaysia as Sepang circuit hosts Bahrain Grand Prix\n- list 4 of 4F1 needs better balance between business and sport, says Norris\nThe 19-year-old has taken Europe by storm since joining the German club from Spanish side Leganes a year ago. Known for his outstanding pace, strong dribbling and athleticism, the 1.8-metre (5 feet, 11 inches) attacking winger is a frequent goal threat.\nDiomande scored 12 league goals and bagged eight assists as Leipzig finished third in a highly successful 2025-26 Bundesliga campaign, confirming their UEFA Champions League berth for the upcoming season. He was also voted the Bundesliga's best young player of the season.\nBoth Premier League club Liverpool and reigning French champions PSG had their bids rejected, with the BBC reporting the Paris club's final offer for Diomande on Sunday estimated at a whopping 102.5 million pounds ($136.75m).\n\"Madrid have since agreed personal terms, said to be modelled on England midfielder Jude Bellingham's contract as they are incentivised on performances and effectively improve year-on-year,\" the report added.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "African nation reached the round of 32. Recommended Stories list of 4"
+    ],
+    [
+     "del",
+     "items-"
+    ],
+    [
+     "ins",
+     "items -"
+    ],
+    [
+     "eq",
+     "list 1 of 4Pogacar's Tour de France reign continues with record-equalling fifth"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.011,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

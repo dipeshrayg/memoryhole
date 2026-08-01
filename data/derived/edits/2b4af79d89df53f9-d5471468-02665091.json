@@ -1,0 +1,52 @@
+{
+ "id": "2b4af79d89df53f9-d5471468-02665091",
+ "url": "https://www.aljazeera.com/news/2026/7/27/death-toll-from-pakistan-monsoon-rains-floods-tops-100?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-01T08:29:50Z",
+ "date": "2026-08-01",
+ "old_title": "Death toll from Pakistan monsoon rains, floods tops 100",
+ "new_title": "Death toll from Pakistan monsoon rains, floods tops 100",
+ "old_text": "Heavy rains and flooding in Pakistan have killed at least 107 people, injured 344 others and damaged hundreds of homes since the start of the monsoon season in June, authorities said, warning of more downpours later this week.\nThe National Disaster Management Authority (NDMA) told local media on Sunday that the death toll from rain-related incidents since late June has reached 107.\nRecommended Stories\nlist of 3 items- list 1 of 3Monsoon-driven flash flooding kills at least 20 in Afghanistan\n- list 2 of 3'Collapsed': Roadblocks, internet blackout leave Pakistani Kashmir in limbo\n- list 3 of 3Car bomb attack kills 27 in northwest Pakistan\nKhyber Pakhtunkhwa has recorded the highest number of deaths, 55, followed by Punjab with 36.\nMore than half of the deaths were caused by house or roof collapses, the NDMA said.\nIn Lahore, the provincial capital of Punjab and Pakistan's second-largest city, authorities have set up at least 17 flood relief camps to house evacuated residents, the Dawn newspaper reported.\nAn unnamed senior official at the Punjab Irrigation Department told Dawn on Saturday that the situation was \"very alarming\", with \"a vast area of around 400sq km [154sq miles]\" now under water across the Lahore and Gujranwala divisions of Punjab.\nThe official said, \"The current situation resembles an inland sea because of the vast expanse of floodwater.\"\nPunjab's Chief Minister Maryam Nawaz Sharif said on X that emergency responders had been deployed across the province and that teams were actively working to drain floodwaters.\nThe Pakistan Meteorological Department said on Sunday that no \"flood-generating activity is expected\" until Tuesday, though \"a fresh wet spell is likely to commence\" from Wednesday in upper catchments of all big rivers in Islamabad, upper Punjab, Pakistan-administered Kashmir, Khyber Pakhtunkhwa, and Gilgit-Baltistan.\nIt added that Punjab's Ravi River was currently flowing at a \"medium flood level\" and that \"most major rivers are flowing at normal to low flood levels\".\nAl Jazeera's Kamal Hyder, reporting from Punjab, said authorities were urging residents to avoid low-lying areas.\n\"So far the monsoon has brought pounding rain. Cloudbursts have brought hundreds of millimetres of rain in a short span, inundating the provincial capital [Lahore] and other major cities of Punjab,\" Hyder said. \"All eyes now will be on the rivers.\"\nPakistan's disorganised urban planning, a result of rapid rural-to-urban migration, has led to sprawling slums that are particularly vulnerable to flooding.\nIn 2025, heavy flooding in Pakistan killed 1,037 people, displaced two million people, and killed millions of livestock, as well as causing significant damage to standing crops.\n\"This is just the middle of the monsoon season, which is likely to continue until September,\" Hyder said. \"That will keep everybody on their toes.\"",
+ "new_text": "Heavy rains and flooding in Pakistan have killed at least 107 people, injured 344 others and damaged hundreds of homes since the start of the monsoon season in June, authorities said, warning of more downpours later this week.\nThe National Disaster Management Authority (NDMA) told local media on Sunday that the death toll from rain-related incidents since late June has reached 107.\nRecommended Stories\nlist of 3 items\n- list 1 of 3Monsoon-driven flash flooding kills at least 20 in Afghanistan\n- list 2 of 3'Collapsed': Roadblocks, internet blackout leave Pakistani Kashmir in limbo\n- list 3 of 3Car bomb attack kills 27 in northwest Pakistan\nKhyber Pakhtunkhwa has recorded the highest number of deaths, 55, followed by Punjab with 36.\nMore than half of the deaths were caused by house or roof collapses, the NDMA said.\nIn Lahore, the provincial capital of Punjab and Pakistan's second-largest city, authorities have set up at least 17 flood relief camps to house evacuated residents, the Dawn newspaper reported.\nAn unnamed senior official at the Punjab Irrigation Department told Dawn on Saturday that the situation was \"very alarming\", with \"a vast area of around 400sq km [154sq miles]\" now under water across the Lahore and Gujranwala divisions of Punjab.\nThe official said, \"The current situation resembles an inland sea because of the vast expanse of floodwater.\"\nPunjab's Chief Minister Maryam Nawaz Sharif said on X that emergency responders had been deployed across the province and that teams were actively working to drain floodwaters.\nThe Pakistan Meteorological Department said on Sunday that no \"flood-generating activity is expected\" until Tuesday, though \"a fresh wet spell is likely to commence\" from Wednesday in upper catchments of all big rivers in Islamabad, upper Punjab, Pakistan-administered Kashmir, Khyber Pakhtunkhwa, and Gilgit-Baltistan.\nIt added that Punjab's Ravi River was currently flowing at a \"medium flood level\" and that \"most major rivers are flowing at normal to low flood levels\".\nAl Jazeera's Kamal Hyder, reporting from Punjab, said authorities were urging residents to avoid low-lying areas.\n\"So far the monsoon has brought pounding rain. Cloudbursts have brought hundreds of millimetres of rain in a short span, inundating the provincial capital [Lahore] and other major cities of Punjab,\" Hyder said. \"All eyes now will be on the rivers.\"\nPakistan's disorganised urban planning, a result of rapid rural-to-urban migration, has led to sprawling slums that are particularly vulnerable to flooding.\nIn 2025, heavy flooding in Pakistan killed 1,037 people, displaced two million people, and killed millions of livestock, as well as causing significant damage to standing crops.\n\"This is just the middle of the monsoon season, which is likely to continue until September,\" Hyder said. \"That will keep everybody on their toes.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "incidents since late June has reached 107. Recommended Stories list of 3"
+    ],
+    [
+     "del",
+     "items-"
+    ],
+    [
+     "ins",
+     "items -"
+    ],
+    [
+     "eq",
+     "list 1 of 3Monsoon-driven flash flooding kills at least 20 in Afghanistan"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0067,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

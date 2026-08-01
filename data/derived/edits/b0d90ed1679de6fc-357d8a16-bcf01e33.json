@@ -1,0 +1,56 @@
+{
+ "id": "b0d90ed1679de6fc-357d8a16-bcf01e33",
+ "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
+ "domain": "www.theguardian.com",
+ "source": "The Guardian",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-01T08:28:29Z",
+ "date": "2026-08-01",
+ "old_title": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
+ "new_title": "Fifteen elephant deaths in Kenya may be due to cyanide poisoning",
+ "old_text": "The recent deaths of 15 elephants near a park in southern Kenya in the past month were likely caused by the animals ingesting pesticides used on nearby tomato farms, the Kenya Wildlife Service (KWS) has said.\nErustus Kanga, the agency's director general, told Citizen TV that analysis of samples collected from the carcasses had found traces of cyanide, a chemical compound used in farming as a predator control poison and a pest fumigant, which has also been used by poachers.\n\"Cyanide is a highly toxic chemical,\" he said. \"If elephants consume cyanide, they cannot survive a day or two.\"\nThe deaths occurred in the Kimana sanctuary and Kuku Group ranch areas around Amboseli national park, an area covering 392 sq km (96,865 acres) and that, together with other neighbouring conservancies are home to more than 1,600 elephants.\nKimana town is a leading tomato producer and a place where researchers at the Route to Food Initiative, a food rights programme, have previously reported the use of a cyanide substance on the crop.\nIsaac Lekolool, the head of veterinary and capture services at KWS, told Citizen TV that the stomach contents of one member of a herd that roamed Kimana sanctuary included \"lots of tomatoes,\" suggesting agrochemical poisoning.\nKanga warned that the effects could reach a wider population, as livestock may also eat from farms in the area.\n\"We have the goats, we have the cattle that are there. Eventually, if this cyanide is truly the one that is in the system, then we are going to see a bigger impact.\"\nOn Tuesday, KWS announced it was investigating the deaths of the elephants from 24 June and 24 July in Amboseli. It said 10 of the elephants had shown signs of partial paralysis before dying and that preliminary tests had detected a potential toxic substance.\nBenson Leyian, the CEO of Big Life Foundation, a conservation organisation that operates in the area surrounding Amboseli national park, said the elephant deaths were a cause for concern.\n\"Thanks to decades of community-centred conservation, the Amboseli elephant population is one of the best protected in Africa, and elephant poaching has been virtually eliminated here. Aside from losses during periods of severe drought, we haven't seen a cluster of elephant deaths like this for some time,\" he said.\nIn a statement, the International Fund for Animal Welfare described the deaths as \"deeply alarming\", adding the incident \"reinforces why we must continue investing in science, monitoring, and collaborative conservation efforts\".\n\"Every elephant lost is significant - not only for the species, but for the health of the ecosystems they help sustain and the communities that live alongside them,\" it said.\nFarmers and herders in Kenya have in the past poisoned wildlife in retaliation for eating their crops and livestock.\nIn Zimbabwe, poachers have killed dozens of elephants by lacing watering holes and salt licks with the chemical compound.\nThe Amboseli ecosystem is a major source of tourism revenue, but tensions have been building in recent months as local leaders demand the handover of the park's management and operations to the government of Kajiado county, where it is located. Earlier this month, a court suspended the county government's takeover.",
+ "new_text": "The recent deaths of 15 elephants near a park in southern Kenya were likely caused by the animals ingesting pesticides used on tomato farms, the Kenya Wildlife Service (KWS) has said.\nErustus Kanga, the agency's director general, told Citizen TV that analysis of samples collected from the carcasses had found traces of cyanide, a chemical compound used in farming as a predator control poison and a pest fumigant, which has also been used by poachers.\n\"Cyanide is a highly toxic chemical,\" he said. \"If elephants consume cyanide, they cannot survive a day or two.\"\nThe deaths occurred in the Kimana sanctuary and Kuku Group ranch areas around Amboseli national park, an area covering 392 sq km (96,865 acres) and that, together with other neighbouring conservancies are home to more than 1,600 elephants.\nKimana town is a leading tomato producer and a place where researchers at the Route to Food Initiative, a food rights programme, have previously reported the use of a cyanide substance on the crop.\nIsaac Lekolool, the head of veterinary and capture services at KWS, told Citizen TV that the stomach contents of one member of a herd that roamed Kimana sanctuary included \"lots of tomatoes,\" suggesting agrochemical poisoning.\nKanga warned that the effects could reach a wider population, as livestock may also eat from farms in the area.\n\"We have the goats, we have the cattle that are there. Eventually, if this cyanide is truly the one that is in the system, then we are going to see a bigger impact.\"\nOn Tuesday, KWS announced it was investigating the deaths of the elephants from 24 June and 24 July in Amboseli. It said 10 of the elephants had shown signs of partial paralysis before dying and that preliminary tests had detected a potential toxic substance.\nBenson Leyian, the CEO of Big Life Foundation, a conservation organisation that operates in the area surrounding Amboseli national park, said the elephant deaths were a cause for concern.\n\"Thanks to decades of community-centred conservation, the Amboseli elephant population is one of the best protected in Africa, and elephant poaching has been virtually eliminated here. Aside from losses during periods of severe drought, we haven't seen a cluster of elephant deaths like this for some time,\" he said.\nIn a statement, the International Fund for Animal Welfare described the deaths as \"deeply alarming\", adding the incident \"reinforces why we must continue investing in science, monitoring, and collaborative conservation efforts\".\n\"Every elephant lost is significant - not only for the species, but for the health of the ecosystems they help sustain and the communities that live alongside them,\" it said.\nFarmers and herders in Kenya have in the past poisoned wildlife in retaliation for eating their crops and livestock.\nIn Zimbabwe, poachers have killed dozens of elephants by lacing watering holes and salt licks with the chemical compound.\nThe Amboseli ecosystem is a major source of tourism revenue, but tensions have been building in recent months as local leaders demand the handover of the park's management and operations to the government of Kajiado county, where it is located. Earlier this month, a court suspended the county government's takeover.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "The recent deaths of 15 elephants near a park in southern Kenya"
+    ],
+    [
+     "del",
+     "in the past month"
+    ],
+    [
+     "eq",
+     "were likely caused by the animals ingesting pesticides used on"
+    ],
+    [
+     "del",
+     "nearby"
+    ],
+    [
+     "eq",
+     "tomato farms, the Kenya Wildlife Service (KWS) has said. Erustus Kanga, the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0094,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9949,
+ "adjudicated_by": "rules"
+}
