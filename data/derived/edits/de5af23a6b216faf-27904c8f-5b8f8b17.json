@@ -1,0 +1,60 @@
+{
+ "id": "de5af23a6b216faf-27904c8f-5b8f8b17",
+ "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-03T09:55:39Z",
+ "date": "2026-08-03",
+ "old_title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+ "new_title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+ "old_text": "- Published\nAt least three people have been killed and 21 injured after a homemade explosive device was detonated at an Italian restaurant in Moscow, Russian state media reports, quoting security officials.\nThe blast happened at about 20:00 local time (17:00 GMT) on Kudrinskaya square near the city centre.\nThe National Anti-Terrorist Committee said a woman carrying the explosives tried to enter the restaurant but was stopped by a security guard.\nThe device detonated, killing the woman, the guard and a visitor to the Balzi Rossi restaurant, which had been holding a private function.\nAuthorities have not said who they believe was the target, but many Muscovites will suspect a link to the war in Ukraine.\nIn recent years, several senior Russian military figures have been assassinated in and around the Russian capital. Moscow has blamed Kyiv for those attacks.\nInitial reports said the blast happened in the establishment's kitchen but the restaurant later issued a statement saying \"there was a problem outside\".\nThe restaurant is located in one of Moscow's famous Stalin-era skyscrapers, with roads around the square briefly closed.\nDozens of cyclists had been gathering nearby for an evening ride through the city but the event was cancelled.\nVideo released by Russia's RIA news agency showed heavily armed law enforcement officers at the scene, which had been closed off to members of the public.",
+ "new_text": "- Published\nAt least three people have been killed and 21 injured after a homemade explosive device was detonated at an Italian restaurant in Moscow, Russian state media reports, quoting security officials.\nThe blast happened at about 20:00 local time (17:00 GMT) on Kudrinskaya square near the city centre.\nThe National Anti-Terrorist Committee said a woman carrying the explosives tried to enter the restaurant but was stopped by a security guard.\nThe device detonated, killing the woman, the guard and a visitor to the Balzi Rossi restaurant, which had been holding a private function.\nAuthorities have not said who they believe was the target, but many Muscovites will suspect a link to the war in Ukraine.\nThe mayor of Moscow, Sergei Sobyanin, said the blast was \"a cruel act of terror which took human lives\".\nHe gave no other details, other than to say law-enforcement agencies were working to establish what had happened.\nIn recent years, several senior Russian military figures have been assassinated in and around the Russian capital. Moscow has blamed Kyiv for those attacks.\nInitial reports said the blast happened in the establishment's kitchen but the restaurant later issued a statement saying \"there was a problem outside\".\nThe restaurant is located in one of Moscow's famous Stalin-era skyscrapers, with roads around the square briefly closed.\nDozens of cyclists had been gathering nearby for an evening ride through the city but the event was cancelled.\nVideo released by Russia's RIA news agency showed heavily armed law enforcement officers at the scene, which had been closed off to members of the public.\nThe Balzi Rossi restaurant apologised on social media for its initial post after the explosion, saying it had been removed \"as it was highly inappropriate given the circumstances\".\nState media reported that it had originally posted on Instagram that everything was safe on the premises.\nThe restaurant said it had taken measures to ensure it would not happen again, and said staff were focused on assisting guests and emergency services at the time.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "but many Muscovites will suspect a link to the war in Ukraine."
+    ],
+    [
+     "ins",
+     "The mayor of Moscow, Sergei Sobyanin, said the blast was \"a cruel act of terror which took human lives\". He gave no other details, other than to say law-enforcement agencies were working to establish what had happened."
+    ],
+    [
+     "eq",
+     "In recent years, several senior Russian military figures have been assassinated in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the scene, which had been closed off to members of the public."
+    ],
+    [
+     "ins",
+     "The Balzi Rossi restaurant apologised on social media for its initial post after the explosion, saying it had been removed \"as it was highly inappropriate given the circumstances\". State media reported that it had originally posted on Instagram that everything was safe on the premises. The restaurant said it had taken measures to ensure it would not happen again, and said staff were focused on assisting guests and emergency services at the time."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4867,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.908,
+ "similarity": 0.9686,
+ "adjudicated_by": "rules"
+}

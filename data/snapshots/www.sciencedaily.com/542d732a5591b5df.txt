@@ -1,0 +1,49 @@
+Mathematicians prove perfectly fair elections are impossible
+- Date:
+- August 2, 2026
+- Source:
+- University of Cambridge
+- Summary:
+- Mathematicians have shown that no electoral system can perfectly balance local representation, proportional national results, and a fixed-size parliament once enough parties compete. A newly proposed voting method could soften these unavoidable trade-offs and produce outcomes that are much closer to fair.
+- Share:
+Mathematicians have concluded that a perfectly fair election system is impossible in a specific mathematical sense. No voting method can always ensure that local victories produce local seats, national seat totals accurately reflect overall vote shares, and the size of parliament remains fixed.
+Researchers from the University of Cambridge and the University of Copenhagen examined proportional representation and first-past-the-post systems. Their analysis found that every method for electing a national legislature involves compromises, usually among local representation, national proportionality, and the total number of parliamentary seats.
+Election Systems Under Growing Pressure
+Several northern European elections over the past decade have demonstrated these tensions. The problem has become more visible as voters increasingly divide their support among a larger number of political parties.
+In Denmark, the left bloc won the 2022 election despite receiving fewer votes than the right bloc, even though the country uses proportional representation. In Germany, efforts to preserve both local representation and proportionality caused the Bundestag to expand sharply before reforms were introduced in 2023. In the UK, the 2024 general election produced the country's least proportional result on record, with Labour securing 63% of the seats after receiving 33.7% of the vote.
+Although a completely 'fair' electoral system may not exist, the researchers argue that countries can still manage the conflict between regional representation, proportionality, and parliamentary size more effectively. Their findings are published in the Annals of Operations Research.
+The Danish Election That Inspired the Study
+The project began after Denmark's 2022 national election, when votes and seats failed to correspond for the first time in 75 years.
+Like many European countries, Denmark uses a two-tier or proportional system. Voters first elect local representatives. Additional 'leveling' seats are then distributed to bring each party's share of parliamentary seats closer to its share of the national vote.
+As political support becomes spread across more parties, however, more 'leveling' seats are required to preserve proportionality. Denmark had 40 such seats available in 2022, but that number was no longer sufficient to produce a fully proportional result.
+"Essentially, it almost broke the system," said study co-author Dr Frederik Ravn Klausen, from Cambridge's Department of Pure Mathematics and Mathematical Statistics. "The end result was that the Social Democrats got one seat more than their votes corresponded to. Of course that is nothing by UK standards, but in a two-tier system, that isn't meant to happen. It increased the drama that this single seat decided the election."
+Klausen and co-author Sebastian Tim Holdum of the University of Copenhagen developed an impossibility theorem showing how rising political fragmentation is placing electoral systems under increasing strain, with consequences that can directly affect who governs.
+Three Goals That Cannot Always Coexist
+The researchers compared electoral systems around the world, including the UK's first-past-the-post model and the proportional systems used throughout much of Europe.
+They identified three central features of what many people would consider a 'fair' system:
+- Regionality: everyone who wins a local seat keeps it
+- Proportionality: national seat totals match national vote shares
+- Fixed parliament size: the number of seats doesn't change from election to election
+"We found that once there are a certain number of political parties, one of these three components has to give, otherwise the maths simply don't work," said Klausen. "It's not corruption or conspiracy, it's simply mathematics."
+How Countries Make Different Compromises
+Governments have responded to this mathematical constraint by choosing which principle they are prepared to weaken.
+In Germany, the Bundestag expanded from 598 seats to 736 seats in 2021 because the number of leveling seats needed to preserve proportionality continued to rise. Reforms introduced in 2023 prevented the legislature from expanding indefinitely, but they also removed the guarantee that every local winner would enter parliament. Sweden is among the countries using a similar approach.
+The UK makes a different trade-off. Under its first-past-the-post system, proportionality is the principle most often sacrificed.
+For much of the past century, British politics functioned largely as a two-party system. As additional parties have emerged and attracted significant support across the political spectrum, the gap between votes and seats has become more pronounced.
+In 2024, Reform UK received 14.3% of the national vote but secured only five of the 650 seats. Labour, by comparison, won 411 seats with 33.7% of the vote.
+"In the next British election, the votes-to-seats mismatch could be even bigger," said Klausen.
+Several former British territories inherited the same electoral model and have also faced pressure to change it. Canada has retained first-past-the-post despite repeated reform efforts. New Zealand adopted proportional representation in 1993, but the New Zealand House of Representatives does not have a fixed parliament size.
+A Mathematical Proposal for Fairer Elections
+Klausen and Holdum have also proposed a possible alternative supported by their mathematical analysis. Their algorithm, called 'geographically ranked guaranteed proportionality', is designed to work around some of the limitations built into existing electoral systems.
+Under the proposal, each party's national seat total would be determined entirely by its overall vote share. A party receiving 20% of the vote would therefore receive 20% of the seats, regardless of where those votes were cast.
+Individual constituencies would then be ranked according to how strongly each candidate performed locally. Seats would be awarded by moving down that ranking until each party had filled its national allocation.
+The method would guarantee proportionality, but it would weaken regionality. A candidate could win comfortably in a local constituency and still fail to enter parliament if their party had already filled its quota with stronger performances elsewhere.
+No Perfect System, but Better Ones Are Possible
+"Our results show that as discussions around proportional representation in the UK get more attention, there is no such thing as a 'perfect' system," said Klausen. "However, one can still say that some systems perform better than others. That either proportionality, regionality, or fixed parliament size must be sacrificed is no excuse. One can have all three principles approximately, yet many systems do not."
+The findings suggest that mathematical limits cannot be eliminated, but they do not prevent countries from designing electoral systems that balance the three competing goals more successfully.
+Frederik Ravn Klausen is a Member of Clare Hall, Cambridge.
+Story Source:
+Materials provided by University of Cambridge. Note: Content may be edited for style and length.
+Journal Reference:
+- Sebastian Tim Holdum, Frederik Ravn Klausen. Impossibility theorem for two-tier electoral systems. Annals of Operations Research, 2026; DOI: 10.1007/s10479-026-07344-1
+Cite This Page:

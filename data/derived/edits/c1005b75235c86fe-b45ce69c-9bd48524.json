@@ -1,0 +1,148 @@
+{
+ "id": "c1005b75235c86fe-b45ce69c-9bd48524",
+ "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-03T09:56:47Z",
+ "date": "2026-08-03",
+ "old_title": "Trump says he's cancelling Iran strikes, deal pending",
+ "new_title": "Trump says he's cancelling Iran strikes, deal pending",
+ "old_text": "Trump says he's cancelling Iran strikes, deal pending\nPresident Trump said on social media late Saturday that Iran and other Middle Eastern countries have asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\"\nNews reports had previously suggested that the U.S. and Israel were preparing to target Iran's energy infrastructure this weekend.\nTrump, in his Truth social post Saturday night, said the U.S. \"is locked and loaded and ready to go against the Islamic Republic of Iran\" but based on the request from Tehran and others had agreed to \"cancel the attack, subject to being able to rapidly make a DEAL.\" He said Israel was part of the commitment.\nTrump said the deal \"would include the Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran's nuclear threat.\"\nIran, which says its nuclear program is for purely peaceful purposes, has not yet commented on the claim.\nMehr, a semi-official news agency sponsored by the Iranian government, dismissed Trump's claims as \"simply a new lie,\" citing unnamed Iranian military officials.\nIt's the latest abrupt U-turn since the U.S. and Israel launched the war on Iran in February.\nAn AP poll this week has found that almost two-thirds of Americans say the war is not worth the fight.\nNPR's Krishnadev Calamur in Washington and Frank Langfitt in Tel Aviv contributed to reporting.",
+ "new_text": "Trump says he's cancelling Iran strikes, deal pending\nPresident Trump said on social media late Saturday that Iran and other Middle Eastern countries asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\"\nNews reports had previously suggested that the U.S. and Israel were preparing to target Iran's energy infrastructure this weekend.\nTrump, in his Truth Social post Saturday night, said the U.S. \"is locked and loaded and ready to go against the Islamic Republic of Iran\" but based on the request from Tehran and others had agreed to \"cancel the attack, subject to being able to rapidly make a DEAL.\" He said Israel was part of that commitment.\nTrump said the deal \"would include the Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran's nuclear threat.\"\nWhile Trump did not name the countries he said had asked him to hold off, a statement carried by Saudi Arabia's state news agency on Sunday said that Crown Prince Mohammed bin Salman has spoken with the U.S. leader.\nThe crown prince \"emphasized the necessity of prioritizing dialogue to de-escalate tensions and the importance of exerting all possible efforts to achieve a truce...for preserving the security and stability of the region and prevent it from being drawn into a wider conflict whose repercussions would affect regional and international security and stability,\" according to the statement.\nIran, which says its nuclear program is for purely peaceful purposes, had not yet responded to Trump's comments.\nMehr, a semi-official news agency sponsored by the Iranian government, dismissed Trump's claims as \"simply a new lie,\" citing unnamed Iranian military officials.\nIt's the latest abrupt U-turn since the U.S. and Israel launched strikes on Iran in February.\nAn AP poll this week has found that almost two-thirds of Americans who responded say the war is not worth the fight.\nNPR's Krishnadev Calamur in Washington and Frank Langfitt in Tel Aviv contributed to reporting.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "on social media late Saturday that Iran and other Middle Eastern countries"
+    ],
+    [
+     "del",
+     "have"
+    ],
+    [
+     "eq",
+     "asked the U.S. \"to hold off any attack\" on Iran because \"the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "preparing to target Iran's energy infrastructure this weekend. Trump, in his Truth"
+    ],
+    [
+     "del",
+     "social"
+    ],
+    [
+     "ins",
+     "Social"
+    ],
+    [
+     "eq",
+     "post Saturday night, said the U.S. \"is locked and loaded and ready"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "able to rapidly make a DEAL.\" He said Israel was part of"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "ins",
+     "that"
+    ],
+    [
+     "eq",
+     "commitment. Trump said the deal \"would include the Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran's nuclear threat.\""
+    ],
+    [
+     "ins",
+     "While Trump did not name the countries he said had asked him to hold off, a statement carried by Saudi Arabia's state news agency on Sunday said that Crown Prince Mohammed bin Salman has spoken with the U.S. leader. The crown prince \"emphasized the necessity of prioritizing dialogue to de-escalate tensions and the importance of exerting all possible efforts to achieve a truce...for preserving the security and stability of the region and prevent it from being drawn into a wider conflict whose repercussions would affect regional and international security and stability,\" according to the statement."
+    ],
+    [
+     "eq",
+     "Iran, which says its nuclear program is for purely peaceful purposes,"
+    ],
+    [
+     "del",
+     "has"
+    ],
+    [
+     "ins",
+     "had"
+    ],
+    [
+     "eq",
+     "not yet"
+    ],
+    [
+     "del",
+     "commented on the claim."
+    ],
+    [
+     "ins",
+     "responded to Trump's comments."
+    ],
+    [
+     "eq",
+     "Mehr, a semi-official news agency sponsored by the Iranian government, dismissed Trump's"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "officials. It's the latest abrupt U-turn since the U.S. and Israel launched"
+    ],
+    [
+     "del",
+     "the war"
+    ],
+    [
+     "ins",
+     "strikes"
+    ],
+    [
+     "eq",
+     "on Iran in February. An AP poll this week has found that almost two-thirds of Americans"
+    ],
+    [
+     "ins",
+     "who responded"
+    ],
+    [
+     "eq",
+     "say the war is not worth the fight. NPR's Krishnadev Calamur in Washington and Frank Langfitt in Tel Aviv contributed to reporting."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4894,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.45,
+ "similarity": 0.8005,
+ "adjudicated_by": "rules"
+}
