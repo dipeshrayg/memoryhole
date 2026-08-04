@@ -1,0 +1,52 @@
+{
+ "id": "99a4d12e359bf06a-663f2598-9627a486",
+ "url": "https://www.bbc.co.uk/sport/football/articles/cdewr8w0r80o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-08-04T08:56:42Z",
+ "date": "2026-08-04",
+ "old_title": "Women's Super League: Manchester United boss Marc Skinner leaves role",
+ "new_title": "Women's Super League: Manchester United boss Marc Skinner leaves role",
+ "old_text": "- Published\nManchester United manager Marc Skinner has left his position by mutual consent before the start of the Women's Super League season.\nThe 43-year-old has been in charge of United for five years and led them to their first major trophy with victory in the Women's FA Cup final in 2024.\nHe helped them reach the Women's Champions League group stages for the first time last year, while they finished runners-up in three domestic cup finals.\nSkinner's departure comes a month before the start of the season with United set to travel to London City Lionesses on 4 September (19:00 BST).\nThe former Birmingham City head coach has raised concerns over a lack of investment in the squad and United have had a quiet summer.\nUnited have changed their recruitment approach this year, targeting younger players in the hope of securing sustainable, long-term success.\nBBC Sport reported in July that the girls' academy would train at Carrington - the club's main training facility - this season.\nHowever, supporters have grown frustrated at the lack of spending in the transfer window with rivals Manchester City, Arsenal and Chelsea adding to their squads.\nLondon City Lionesses, who finished fifth last season, signed two-time Ballon d'Or winner Alexia Putellas, while Lyon defender Alice Sombath joined Tottenham.\nIt is understood the club and Skinner held discussions in the summer and a mutual agreement for his departure was reached.\nSources at the club say they are advanced in their search for a replacement with background checks on potential candidates already completed.\nOne of the key requirements for Skinner's replacement is a coach with a history of developing players.\nAnalysis - A breakdown in relationships\nSkinner's time at United has been full of ups and downs and he was never able to win over a passionate fanbase.\nCriticism hit an all-time high in 2024 when supporters took banners to Leigh Sports Village calling for Skinner's sacking.\nHe replaced former England defender Casey Stoney in 2021, who quit over frustrations at a lack of investment from the club.\nThat is an issue that has raised its head continually throughout Skinner's reign as he often pointed to the lack of squad depth following defeats to top-three rivals.\nUnited owner Sir Jim Ratcliffe faced backlash for his comments on the women's team and there was outrage at their training facilities in 2024, which Skinner defended at the time.\nSkinner did not have the same resources compared with other managers in the WSL and a smaller playing budget but was able to disrupt the usual order, leading United to two top-three finishes during his five-year spell at the club.\nThat meant they qualified for the Champions League â only making it out of the qualifying rounds last year.\nHowever, he has been criticised by supporters on many occasions for a lack of bravery in big matches, stubbornness with his team selection and fewer homegrown players progressing from the academy and into the first team.\nTheir failure to qualify for the Champions League this season impacted their transfer window and despite signing a new contract last year - which tied Skinner down until 2027, with the option of a further year - it felt like relationships were no longer harmonious.\nWhile Skinner previously backed the club in the face of criticism, he challenged more last season on spending and it was clear he wanted more backing.",
+ "new_text": "- Published\nManchester United manager Marc Skinner has left his position by mutual consent before the start of the Women's Super League season.\nThe 43-year-old has been in charge of United for five years and led them to their first major trophy with victory in the Women's FA Cup final in 2024.\nHe helped them reach the Women's Champions League group stages for the first time last year, while they finished runners-up in three domestic cup finals.\nSkinner's departure comes a month before the start of the season with United set to travel to London City Lionesses on 4 September (19:00 BST).\nThe former Birmingham City head coach has raised concerns over a lack of investment in the squad and United have had a quiet summer.\nUnited have changed their recruitment approach this year, targeting younger players in the hope of securing sustainable, long-term success.\nBBC Sport reported in July that the girls' academy would train at Carrington - the club's main training facility - this season.\nHowever, supporters have grown frustrated at the lack of spending in the transfer window with rivals Manchester City, Arsenal and Chelsea adding to their squads.\nLondon City Lionesses, who finished sixth last season, signed two-time Ballon d'Or winner Alexia Putellas, while Lyon defender Alice Sombath joined Tottenham.\nIt is understood the club and Skinner held discussions in the summer and a mutual agreement for his departure was reached.\nSources at the club say they are advanced in their search for a replacement with background checks on potential candidates already completed.\nOne of the key requirements for Skinner's replacement is a coach with a history of developing players.\nAnalysis - A breakdown in relationships\nSkinner's time at United has been full of ups and downs and he was never able to win over a passionate fanbase.\nCriticism hit an all-time high in 2024 when supporters took banners to Leigh Sports Village calling for Skinner's sacking.\nHe replaced former England defender Casey Stoney in 2021, who quit over frustrations at a lack of investment from the club.\nThat is an issue that has raised its head continually throughout Skinner's reign as he often pointed to the lack of squad depth following defeats to top-three rivals.\nUnited owner Sir Jim Ratcliffe faced backlash for his comments on the women's team and there was outrage at their training facilities in 2024, which Skinner defended at the time.\nSkinner did not have the same resources compared with other managers in the WSL and a smaller playing budget but was able to disrupt the usual order, leading United to two top-three finishes during his five-year spell at the club.\nThat meant they qualified for the Champions League â only making it out of the qualifying rounds last year.\nHowever, he has been criticised by supporters on many occasions for a lack of bravery in big matches, stubbornness with his team selection and fewer homegrown players progressing from the academy and into the first team.\nTheir failure to qualify for the Champions League this season impacted their transfer window and despite signing a new contract last year - which tied Skinner down until 2027, with the option of a further year - it felt like relationships were no longer harmonious.\nWhile Skinner previously backed the club in the face of criticism, he challenged more last season on spending and it was clear he wanted more backing.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Arsenal and Chelsea adding to their squads. London City Lionesses, who finished"
+    ],
+    [
+     "del",
+     "fifth"
+    ],
+    [
+     "ins",
+     "sixth"
+    ],
+    [
+     "eq",
+     "last season, signed two-time Ballon d'Or winner Alexia Putellas, while Lyon defender"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0035,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9996,
+ "adjudicated_by": "rules"
+}

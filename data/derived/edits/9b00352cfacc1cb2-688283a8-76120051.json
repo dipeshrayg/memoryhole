@@ -1,0 +1,52 @@
+{
+ "id": "9b00352cfacc1cb2-688283a8-76120051",
+ "url": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-08-04T09:01:10Z",
+ "date": "2026-08-04",
+ "old_title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
+ "new_title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
+ "old_text": "Christopher Nolan's The Odyssey has been a lightning rod for controversy ever since the first casting and design reveals, igniting afresh with each new trailer. The film has garnered plenty of well-deserved accolades (and earnings) since its release, and yet somehow the debates rage on between classicists and the general public alike-all this over an adaptation of an epic poem that's been around since roughly the 8th century BCE.\nMy take: the IMAX scale might be epic, but Nolan gives the story an intimate feel, weaving a captivating, nearly three-hour cinematic spell. While the magic slowly starts to dissipate once one leaves the theater, the powerful imagery will resonate for days. And the film gave me, personally, a fresh perspective on the central character of Odysseus.\n(Spoilers below.)\nMost of us read some version of The Odyssey in high school, so we're familiar with the story: Odysseus (Matt Damon), legendary Greek king of Ithaca, begins the long journey home after 10 years of fighting in the Trojan War. But the journey does not go smoothly, as Odysseus and his men encounter the cyclops Polyphemus (Bill Irwin), the Sirens, and an enchantress named Circe (Samantha Morton), among other obstacles. Meanwhile, his long-suffering wife, Penelope (Anne Hathaway), is warding off hundreds of suitors eager to usurp Odysseus' throne back home. And the wandering king's son and heir, Telemachus (Tom Holland), is convinced his father is still alive and sets off to find him.\nNolan sets the tone by opening with a bard (Travis Scott) beginning to tell the tale of the fall of Troy-at least the idealized heroic version that the bard's audiences are hungry to hear. It's not meant to reproduce ancient Greek oratory tradition, just to evoke some sense of it, and the device is surprisingly effective.\nThe director has also preserved Homer's nonlinear narrative structure, with tales nesting within tales. His depiction of Odysseus is that of a seemingly broken man slowly regaining his fractured memories of the Trojan war and its aftermath in bits and pieces, after spending years under the intoxicating effects of the lotus fruit with Calypso (Charlize Theron) on the island of Ogygia. What has he tried so hard to forget, and why? What difficult truth must he finally face before he can find his way home at last?",
+ "new_text": "Christopher Nolan's The Odyssey has been a lightning rod for controversy ever since the first casting and design reveals, igniting afresh with each new trailer. The film has garnered plenty of well-deserved accolades (and earnings) since its release, and yet somehow the debates rage on between classicists and the general public alike-all this over an adaptation of an epic poem that's been around since roughly the 8th century BCE.\nMy take: the IMAX scale might be epic, but Nolan gives the story an intimate feel, weaving a captivating, nearly three-hour cinematic spell. While the magic slowly starts to dissipate once one leaves the theater, the powerful imagery will resonate for days. And the film gave me, personally, a fresh perspective on the central character of Odysseus.\n(Spoilers below.)\nMost of us read some version of The Odyssey in high school, so we're familiar with the story: Odysseus (Matt Damon), legendary Greek king of Ithaca, begins the long journey home after 10 years of fighting in the Trojan War. But the journey does not go smoothly, as Odysseus and his men encounter the cyclops, Polyphemus (Bill Irwin), the Sirens, and an enchantress named Circe (Samantha Morton), among other obstacles. Meanwhile, his long-suffering wife, Penelope (Anne Hathaway), is warding off hundreds of suitors eager to usurp Odysseus' throne back home. And the wandering king's son and heir, Telemachus (Tom Holland), is convinced his father is still alive and sets off to find him.\nNolan sets the tone by opening with a bard (Travis Scott) beginning to tell the tale of the fall of Troy-at least the idealized heroic version that the bard's audiences are hungry to hear. It's not meant to reproduce ancient Greek oratory tradition, just to evoke some sense of it, and the device is surprisingly effective.\nThe director has also preserved Homer's nonlinear narrative structure, with tales nesting within tales. His depiction of Odysseus is that of a seemingly broken man slowly regaining his fractured memories of the Trojan war and its aftermath in bits and pieces, after spending years under the intoxicating effects of the lotus fruit with Calypso (Charlize Theron) on the island of Ogygia. What has he tried so hard to forget, and why? What difficult truth must he finally face before he can find his way home at last?",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "journey does not go smoothly, as Odysseus and his men encounter the"
+    ],
+    [
+     "del",
+     "cyclops"
+    ],
+    [
+     "ins",
+     "cyclops,"
+    ],
+    [
+     "eq",
+     "Polyphemus (Bill Irwin), the Sirens, and an enchantress named Circe (Samantha Morton),"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0052,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

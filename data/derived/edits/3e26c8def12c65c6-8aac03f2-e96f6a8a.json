@@ -1,0 +1,88 @@
+{
+ "id": "3e26c8def12c65c6-8aac03f2-e96f6a8a",
+ "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-08-04T09:01:08Z",
+ "date": "2026-08-04",
+ "old_title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+ "new_title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+ "old_text": "One week ago, more than 200 miles above the Earth, a refrigerator-size satellite making its way toward an attempted rescue of NASA's $500 million Swift gamma-ray observatory suddenly spun out of control.\nIt didn't look good. The spacecraft, named Link, was rotating on multiple axes, rendering it unable to maintain a reliable communications link with the ground and complicating efforts to arrest the spin. Two of the satellite's three reaction wheels, used for pointing, also stopped working. Through sporadic radio contact, engineers discovered a problem with some of the spacecraft's cold gas thrusters used for finer attitude control.\nThe Link satellite is built, owned, and operated by Katalyst Space Technologies, a satellite servicing startup that won a $30 million contract from NASA to fly up to the Swift observatory, grab onto it, and boost its orbit before succumbing to aerodynamic drag and burning up int he atmosphere.\nThe clock is ticking. In a few months, Swift will be too low for Katalyst to complete the rescue. This is the first time NASA has contracted with a commercial company to service one of its satellites. The space agency gave Katalyst less than a year to put the mission together. The Link satellite launched July 3 to begin the pursuit of Swift, and the mission proceeded mostly according to plan until last Saturday.\n\"When this happened, it was during one of the passes without comms,\" said Ghonhee Lee, CEO of Katalyst, said in an interview with Ars. \"We were, immediately prior, in a very stable configuration.\"\nKatalyst's ground team, working from a control center near Denver, hurried to find a fix and recover the Link satellite. The good news was the spacecraft's other systems remained healthy, including its power supply, three xenon-fueled electric thrusters, and the rendezvous and robotics hardware the Link satellite needs to capture Swift.\nKeeping at it\nArs spoke with Lee, Katalyst's chief executive, on Friday afternoon as the company's ground team worked to stabilize the spacecraft. The first step involves using the satellite's plasma engines to gradually slow the spin. The engines are primarily designed for orbit-raising, but they're also suitable for attitude control because they can vector their thrust with a two-axis gimbal.",
+ "new_text": "One week ago, more than 200 miles above the Earth, a refrigerator-size satellite making its way toward an attempted rescue of NASA's $500 million Swift gamma-ray observatory suddenly spun out of control.\nIt didn't look good. The spacecraft, named Link, was rotating on multiple axes, rendering it unable to maintain a reliable communications link with the ground and complicating efforts to arrest the spin. Two of the satellite's three reaction wheels, used for pointing, also stopped working. Through sporadic radio contact, engineers discovered a problem with some of the spacecraft's cold gas thrusters used for finer attitude control.\nThe Link satellite is built, owned, and operated by Katalyst Space Technologies, a satellite servicing startup that won a $30 million contract from NASA to fly up to the Swift observatory, grab onto it, and boost its orbit before succumbing to aerodynamic drag and burning up in the atmosphere.\nThe clock is ticking. In a few months, Swift will be too low for Katalyst to complete the rescue. This is the first time NASA has contracted with a commercial company to service one of its satellites. The space agency gave Katalyst less than a year to put the mission together. The Link satellite launched July 3 to begin the pursuit of Swift, and the mission proceeded mostly according to plan until last Saturday.\n\"When this happened, it was during one of the passes without comms,\" said Ghonhee Lee, CEO of Katalyst, in an interview with Ars. \"We were, immediately prior, in a very stable configuration.\"\nKatalyst's ground team, working from a control center near Denver, hurried to find a fix and recover the Link satellite. The good news was, the spacecraft's other systems remained healthy, including its power supply, three xenon-fueled electric thrusters, and the rendezvous and robotics hardware the Link satellite needs to capture Swift.\nKeeping at it\nArs spoke with Lee, Katalyst's chief executive, on Friday afternoon as the company's ground team worked to stabilize the spacecraft. The first step involves using the satellite's plasma engines to gradually slow the spin. The engines are primarily designed for orbit-raising, but they're also suitable for attitude control because they can vector their thrust with a two-axis gimbal.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "and boost its orbit before succumbing to aerodynamic drag and burning up"
+    ],
+    [
+     "del",
+     "int he"
+    ],
+    [
+     "ins",
+     "in the"
+    ],
+    [
+     "eq",
+     "atmosphere. The clock is ticking. In a few months, Swift will be"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "one of the passes without comms,\" said Ghonhee Lee, CEO of Katalyst,"
+    ],
+    [
+     "del",
+     "said"
+    ],
+    [
+     "eq",
+     "in an interview with Ars. \"We were, immediately prior, in a very"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to find a fix and recover the Link satellite. The good news"
+    ],
+    [
+     "del",
+     "was"
+    ],
+    [
+     "ins",
+     "was,"
+    ],
+    [
+     "eq",
+     "the spacecraft's other systems remained healthy, including its power supply, three xenon-fueled"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0191,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9998,
+ "adjudicated_by": "rules"
+}

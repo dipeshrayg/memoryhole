@@ -1,0 +1,76 @@
+{
+ "id": "3f36c874baec9d84-a3d74ac4-4bdea516",
+ "url": "https://finance.yahoo.com/markets/stocks/articles/advisors-look-opportunity-private-credit-040100734.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-04T08:55:07Z",
+ "date": "2026-08-04",
+ "old_title": "Advisors Look for Opportunity in Private Credit as Redemptions Continue",
+ "new_title": "Advisors Look for Opportunity in Private Credit as Redemptions Continue",
+ "old_text": "Concerned about an AI bubble? Sign up for The Daily Upside for smart and actionable market news, built for investors.\nSome advisors are giving private credit the old switcheroo.\nWhile it remains one of the most widely used alternative asset strategies among advisors, momentum has slowed significantly. Some six in 10 of the more than 500 advisors recently surveyed by ISS Market Intelligence said they currently have exposure to private credit. But just 23% expect to increase allocations over the next year, far fewer than the 64% who said the same at the end of 2024.\nThe hesitancy may not come as a shock as headline after headline about high-profile bankruptcies and concerns around AI disruption of software companies, which make up a significant portion of private credit debt, are fanning fears. Several firms, including Apollo and Cliffwater, have recently capped redemptions from their private credit funds at 5% of outstanding shares as investors look for the exit.\n\"Many investors are throwing the baby out with the bathwater,\" said Scott Bishop, a financial planner with Presidio Wealth Partners. \"When fear rises, markets often stop distinguishing between strong assets and weak assets, and between strong managers and weak managers. That's typically when experienced credit investors find some of their best opportunities.\"\nREAD ALSO: Has Index Investing Gone Too Far? and The Great Wealth Transfer May Become the Great Alts Boom\nRisk and Reward\nLiquidity is a chief concern when it comes to private credit, per the survey data, and with good reason. Investors may be able to snag higher yields than they'd get in the public debt market, but the tradeoff is locking up their cash for years. That's why it's important to consider the risks:\n- Private credit shouldn't replace an investor's entire bond allocation, but complement it, said Justin Rice, a financial planner with Integrous Wealth Strategies. \"The role of public bonds is often liquidity, stability and portfolio ballast,\" he added. \"The role of private credit is income generation and potentially capturing an illiquidity premium.\"\n- Investors should also question whether a product comes with a manager with the underwriting expertise and discipline to separate opportunity from risk, Bishop said. \"In private markets, manager selection matters more than asset-class labels.\"\nInvestor Error. \"The mistake I see is when investors focus only on the yield and ignore what they're giving up in exchange for it,\" Rice said. In fact, the pullback in private credit may be healthy. When money is flooding into an asset class, investors sometimes stop asking hard questions; a more disciplined environment tends to reward managers with strong underwriting and risk controls rather than simply the highest advertised yield, Rice said. \"Private credit isn't magic.\"\nThis post first appeared on The Daily Upside. To receive financial advisor news, market insights, and practice management essentials, subscribe to our free Advisor Upside newsletter.",
+ "new_text": "Concerned about an AI bubble? Sign up for The Daily Upside for smart and actionable market news, built for investors.\nSome advisors are giving private credit the old switcheroo.\nWhile it remains one of the most widely used alternative asset strategies among advisors, momentum has slowed significantly. Some six in 10 of the more than 500 advisors recently surveyed by ISS Market Intelligence said they currently have exposure to private credit. But just 23% expect to increase allocations over the next year, far fewer than the 64% who said the same at the end of 2024.\nThe hesitancy may not come as a shock as headline after headline about high-profile bankruptcies and concerns around AI disruption of software companies, which make up a significant portion of private credit debt, are fanning fears. Several firms, including Apollo and Cliffwater, have recently capped redemptions from their private credit funds at 5% of outstanding shares as investors look for the exit.\n\"Many investors are throwing the baby out with the bathwater,\" said Scott Bishop, a financial planner with Presidio Wealth Partners. \"When fear rises, markets often stop distinguishing between strong assets and weak assets, and between strong managers and weak managers. That's typically when experienced credit investors find some of their best opportunities.\"\nREAD ALSO: LPL Wants AI to Read Financial Plans so Clients Don't Have To and Here's How Advisors Are Navigating the Private Markets Boom\nRisk and Reward\nLiquidity is a chief concern when it comes to private credit, per the survey data, and with good reason. Investors may be able to snag higher yields than they'd get in the public debt market, but the tradeoff is locking up their cash for years. That's why it's important to consider the risks:\n- Private credit shouldn't replace an investor's entire bond allocation, but complement it, said Justin Rice, a financial planner with Integrous Wealth Strategies. \"The role of public bonds is often liquidity, stability and portfolio ballast,\" he added. \"The role of private credit is income generation and potentially capturing an illiquidity premium.\"\n- Investors should also question whether a product comes with a manager with the underwriting expertise and discipline to separate opportunity from risk, Bishop said. \"In private markets, manager selection matters more than asset-class labels.\"\nInvestor Error. \"The mistake I see is when investors focus only on the yield and ignore what they're giving up in exchange for it,\" Rice said. In fact, the pullback in private credit may be healthy. When money is flooding into an asset class, investors sometimes stop asking hard questions; a more disciplined environment tends to reward managers with strong underwriting and risk controls rather than simply the highest advertised yield, Rice said. \"Private credit isn't magic.\"\nThis post first appeared on The Daily Upside. To receive financial advisor news, market insights, and practice management essentials, subscribe to our free Advisor Upside newsletter.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "when experienced credit investors find some of their best opportunities.\" READ ALSO:"
+    ],
+    [
+     "del",
+     "Has Index Investing Gone Too Far?"
+    ],
+    [
+     "ins",
+     "LPL Wants AI to Read Financial Plans so Clients Don't Have To"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "The Great Wealth Transfer May Become"
+    ],
+    [
+     "ins",
+     "Here's How Advisors Are Navigating"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "Great Alts"
+    ],
+    [
+     "ins",
+     "Private Markets"
+    ],
+    [
+     "eq",
+     "Boom Risk and Reward Liquidity is a chief concern when it comes"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0696,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

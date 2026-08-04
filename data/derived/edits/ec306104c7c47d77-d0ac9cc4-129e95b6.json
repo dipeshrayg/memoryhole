@@ -1,0 +1,68 @@
+{
+ "id": "ec306104c7c47d77-d0ac9cc4-129e95b6",
+ "url": "https://finance.yahoo.com/markets/stocks/articles/kkr-profit-growth-challenges-private-040100508.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-04T08:55:10Z",
+ "date": "2026-08-04",
+ "old_title": "KKR Profit Growth Challenges Private Markets' Negative Narrative",
+ "new_title": "KKR Profit Growth Challenges Private Markets' Negative Narrative",
+ "old_text": "Concerned about an AI bubble? Sign up for The Daily Upside for smart and actionable market news, built for investors.\nKKR keeps on keeping on, despite what you may have heard about private credit market troubles.\nAs many private market firms struggled to sell assets in order to return cash to their eagerly waiting investors, KKR's profits soared in the second quarter, thanks in part to a record $1.29 billion of asset sales. The firm reported profit of $660.1 million, up from $472.4 million during the same period last year. Adjusted earnings of $1.63 per share were higher than the $1.43 that Wall Street was expecting.\n\"A common narrative that investors hear is that our industry isn't returning capital to investors,\" Robert Lewin, chief financial officer at KKR, said on a call with analysts. \"This is just not accurate from a KKR perspective.\"\nREAD ALSO: Wall Street Looks to Zillow, Rocket Mortgage Earnings for Clues on K-Shaped Housing Market and Can Palantir's Sizzling Growth Win Over Market Bears?\nBlue Owl's Blues\nPrivate credit investors (and firms) haven't had an easy ride of late. Many of the major players have capped withdrawals as jittery investors yank their money out of private-market funds. KKR and rivals like Blackstone and Apollo Global Management have businesses that go beyond private credit, which has helped them weather the storm. Blackstone, for instance, attracted second-quarter inflows into its private-equity arm that helped counterbalance dwindling excitement from individual investors about private credit.\nBlue Owl hasn't been so lucky:\n- The firm's new fundraising in the second quarter dropped roughly 16% from the first quarter and 37% from a year ago, the company recently reported. That brought Blue Owl's assets under management to $158.1 billion from $159.2 billion at the end of the first quarter.\n- Likely as a result of those headaches, Blue Owl is taking a page out of its competitors' books. The firm that made a name for itself in the private credit business is now taking a more multi-strategy approach: Three-fourths of its outside capital raised in the last year has gone toward non-direct lending segments such as real assets, The Wall Street Journal reported.\nEarnings On Deck: Wall Street will get some more insight into the state of private credit today when Ares Management reports its second-quarter earnings. Apollo is on deck, with its earnings report coming on Tuesday.\nThis post first appeared on The Daily Upside. To receive razor sharp analysis and perspective on all things finance, economics, and markets, subscribe to our free The Daily Upside newsletter.",
+ "new_text": "Concerned about an AI bubble? Sign up for The Daily Upside for smart and actionable market news, built for investors.\nKKR keeps on keeping on, despite what you may have heard about private credit market troubles.\nAs many private market firms struggled to sell assets in order to return cash to their eagerly waiting investors, KKR's profits soared in the second quarter, thanks in part to a record $1.29 billion of asset sales. The firm reported profit of $660.1 million, up from $472.4 million during the same period last year. Adjusted earnings of $1.63 per share were higher than the $1.43 that Wall Street was expecting.\n\"A common narrative that investors hear is that our industry isn't returning capital to investors,\" Robert Lewin, chief financial officer at KKR, said on a call with analysts. \"This is just not accurate from a KKR perspective.\"\nREAD ALSO: Zach Dell (Yes, That Dell) Charges Up a $13 Billion Backyard Battery Startup and 'Huh?' Markets React to AstraZeneca's Megadeal Talks With Bristol Myers\nBlue Owl's Blues\nPrivate credit investors (and firms) haven't had an easy ride of late. Many of the major players have capped withdrawals as jittery investors yank their money out of private-market funds. KKR and rivals like Blackstone and Apollo Global Management have businesses that go beyond private credit, which has helped them weather the storm. Blackstone, for instance, attracted second-quarter inflows into its private-equity arm that helped counterbalance dwindling excitement from individual investors about private credit.\nBlue Owl hasn't been so lucky:\n- The firm's new fundraising in the second quarter dropped roughly 16% from the first quarter and 37% from a year ago, the company recently reported. That brought Blue Owl's assets under management to $158.1 billion from $159.2 billion at the end of the first quarter.\n- Likely as a result of those headaches, Blue Owl is taking a page out of its competitors' books. The firm that made a name for itself in the private credit business is now taking a more multi-strategy approach: Three-fourths of its outside capital raised in the last year has gone toward non-direct lending segments such as real assets, The Wall Street Journal reported.\nEarnings On Deck: Wall Street will get some more insight into the state of private credit today when Ares Management reports its second-quarter earnings. Apollo is on deck, with its earnings report coming on Tuesday.\nThis post first appeared on The Daily Upside. To receive razor sharp analysis and perspective on all things finance, economics, and markets, subscribe to our free The Daily Upside newsletter.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "analysts. \"This is just not accurate from a KKR perspective.\" READ ALSO:"
+    ],
+    [
+     "del",
+     "Wall Street Looks"
+    ],
+    [
+     "ins",
+     "Zach Dell (Yes, That Dell) Charges Up a $13 Billion Backyard Battery Startup and 'Huh?' Markets React"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "Zillow, Rocket Mortgage Earnings for Clues on K-Shaped Housing Market and Can Palantir's Sizzling Growth Win Over Market Bears?"
+    ],
+    [
+     "ins",
+     "AstraZeneca's Megadeal Talks With Bristol Myers"
+    ],
+    [
+     "eq",
+     "Blue Owl's Blues Private credit investors (and firms) haven't had an easy"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1056,
+  "numbers_changed": [
+   "13"
+  ],
+  "market_figures_changed": [
+   "$13 Billion"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.75,
+ "similarity": 0.8814,
+ "adjudicated_by": "rules"
+}

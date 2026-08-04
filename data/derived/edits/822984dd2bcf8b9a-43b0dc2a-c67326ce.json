@@ -1,0 +1,52 @@
+{
+ "id": "822984dd2bcf8b9a-43b0dc2a-c67326ce",
+ "url": "https://www.france24.com/en/sport/20260801-wiebes-wins-tour-de-france-femmes-opener-to-win-first-yellow-jersey",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-04T08:49:09Z",
+ "date": "2026-08-04",
+ "old_title": "Wiebes wins Tour de France Femmes opener to win first yellow jersey",
+ "new_title": "Wiebes wins Tour de France Femmes opener to win first yellow jersey",
+ "old_text": "Wiebes wins Tour de France Femmes opener to win first yellow jersey\nDutch rider Lorena Wiebes claimed the first yellow jersey of the Tour de France Femmes on Saturday after winning the opening stage in Lausanne, finishing ahead of Mauritian Kim Le Court and European champion Demi Vollering in a sprint finish.\nLorena Wiebes sprinted to victory on the opening stage of the Tour de France Femmes in Lausanne on Saturday to claim the race leader's yellow jersey.\nThe 27-year-old Dutch rider beat Mauritian Kim Le Court into second with European champion Demi Vollering third.\nSprint specialist Wiebes, a two-time former European champion, leads the overall standings by four seconds from Le Court and six seconds to Vollering thanks to bonus seconds on the line.\nThis was Wiebes's 10th Tour stage victory overall and the 132nd victory of her career.\nAmongst the likely overall contenders, Vollering stole a march on some of her rivals by taking four bonus seconds on the line.\nThat gave her an advantage over the last two winners of this race, Pauline Ferrand-Prevot and Kasia Niewiadoma, who finished eighth and ninth respectively in the same time as the stage winner.\nOther potential contenders, Paula Blasi and Anna van der Breggen conceded an extra eight seconds to Vollering, coming home in 12th and 13th.\nRead moreTour de France 2026 routes feature peaks, passes and Montmartre\nFour riders had escaped up the road early on in the 138km stage around Lausanne.\nCzech Nikola Noskova, Spaniard Idoia Eraso, Dutch rider Maud Rijnbeek and Frenchwoman Oceane Mahe built up a maximum lead of six minutes but they were reeled in 6km from the finish.\nSunday's second stage remains in Switzerland and is a hilly 147.9km from Aigle to Geneva.\n(FRANCE 24 with AFP)",
+ "new_text": "Wiebes wins Tour de France Femmes opener to win first yellow jersey\nDutch rider Lorena Wiebes claimed the first yellow jersey of the Tour de France Femmes on Saturday after winning the opening stage in Lausanne, finishing ahead of Mauritian Kim Le Court and European champion Demi Vollering in a sprint finish.\nLorena Wiebes sprinted to victory on the opening stage of the Tour de France Femmes in Lausanne on Saturday to claim the race leader's yellow jersey.\nThe 27-year-old Dutch rider beat Mauritian Kim Le Court into second with European champion Demi Vollering third.\nSprint specialist Wiebes, a two-time former European champion, leads the overall standings by four seconds from Le Court and six seconds to Vollering thanks to bonus seconds on the line.\nThis was Wiebes's 10th Tour stage victory overall and the 132nd victory of her career.\nAmongst the likely overall contenders, Vollering stole a march on some of her rivals by taking four bonus seconds on the line.\nThat gave her an advantage over the last two winners of this race, Pauline Ferrand-Prevot and Kasia Niewiadoma, who finished eighth and ninth respectively in the same time as the stage winner.\nOther potential contenders, Paula Blasi and Anna van der Breggen, conceded an extra eight seconds to Vollering, coming home in 12th and 13th.\nRead moreTour de France 2026 routes feature peaks, passes and Montmartre\nFour riders had escaped up the road early on in the 138km stage around Lausanne.\nCzech Nikola Noskova, Spaniard Idoia Eraso, Dutch rider Maud Rijnbeek and Frenchwoman Oceane Mahe built up a maximum lead of six minutes but they were reeled in 6km from the finish.\nSunday's second stage remains in Switzerland and is a hilly 147.9km from Aigle to Geneva.\n(FRANCE 24 with AFP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the stage winner. Other potential contenders, Paula Blasi and Anna van der"
+    ],
+    [
+     "del",
+     "Breggen"
+    ],
+    [
+     "ins",
+     "Breggen,"
+    ],
+    [
+     "eq",
+     "conceded an extra eight seconds to Vollering, coming home in 12th and"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0068,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

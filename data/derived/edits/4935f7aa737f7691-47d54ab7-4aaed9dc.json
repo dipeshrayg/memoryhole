@@ -1,0 +1,148 @@
+{
+ "id": "4935f7aa737f7691-47d54ab7-4aaed9dc",
+ "url": "https://www.france24.com/en/europe/20260802-at-least-three-killed-in-moscow-restaurant-bombing-russian-officials-say",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-04T08:49:01Z",
+ "date": "2026-08-04",
+ "old_title": "At least three killed in Moscow restaurant bombing, Russian officials say",
+ "new_title": "At least three killed in 'terrorist' bombing of Moscow restaurant, Russian officials say",
+ "old_text": "At least three killed in Moscow restaurant bombing, Russian officials say\nAt least three people have been killed and 21 injured after a homemade explosive device was detonated at an Italian restaurant in Moscow, Russian officials said. Local authorities have not said anything about who they believe was the target of the attack.\nAn explosion Saturday at a Moscow restaurant that killed three people and wounded 21 others was a bombing, Russia's national anti-terrorism committee said, the Tass state news agency reported.\n\"A homemade explosive device blew up at a restaurant in Kudrinskaya Square in Moscow, killing three people,\" said the committee, quoted by the Tass state news agency.\nAn unidentified woman who attempted to carry the explosive device into the restaurant died in the blast as did a security guard and a patron, the news agency said.\nRia Novosti reported the woman attempted to smuggle the bomb into the establishment but the security guard refused to let her in before the bomb exploded.\nThe authorities did not name those killed or injured nor did they say who they thought might have been responsible.\nMore than four years into a full-scale war with Ukraine, Russia's FSB security service said earlier this year that authorities would step up protection for high-ranking military officials after a series of assassinations and attempted killings it blamed on Kyiv.\nThe Kommersant daily newspaper cited its own sources as saying that the bomb had been intended to maim and kill guests who were enjoying themselves on the restaurant's summer terrace outside.\nIt suggested that the bomb had been set off by someone else remotely and that the woman carrying it may not have known that it was an explosive device.\nThe restaurant's website said the venue had been closed on Saturday for a private event.\n(FRANCE 24 with AFP, AP, Reuters)",
+ "new_text": "At least three killed in 'terrorist' bombing of Moscow restaurant, Russian officials say\nAt least three people have been killed and 21 wounded after a homemade explosive device was detonated at a restaurant in Moscow, Russian officials said late Saturday. Moscow Mayor Sergei Sobyanin called the attack a \"brutal terrorist act\" but did not say who he thought was responsible.\nAn explosion Saturday at a Moscow restaurant that killed three people and wounded 21 others was a bombing, Russia's national anti-terrorism committee said, the Tass state news agency reported.\n\"A homemade explosive device blew up at a restaurant in Kudrinskaya Square in Moscow, killing three people,\" said the committee, quoted by the Tass state news agency.\nAn unidentified woman who attempted to carry the explosive device into the restaurant died in the blast as did a security guard and a patron, the news agency said.\nRia Novosti reported the woman attempted to smuggle the bomb into the establishment but the security guard refused to let her in before the bomb exploded.\nMoscow mayor Sergei Sobyanin called the bomb attack a \"brutal terrorist act\" on Sunday.\n\"Yesterday, a brutal terrorist act was committed in Moscow that claimed human lives. The victims are currently in the city's hospitals, where they are receiving all necessary care,\" Sobyanin wrote on social media.\nThe authorities did not name those killed or injured nor did they say who they thought might have been responsible.\nMore than four years into a full-scale war with Ukraine, Russia's FSB security service said earlier this year that authorities would step up protection for high-ranking military officials after a series of assassinations and attempted killings it blamed on Kyiv.\nThe Kommersant daily newspaper cited its own sources as saying that the bomb had been intended to maim and kill guests who were enjoying themselves on the restaurant's summer terrace outside.\nIt suggested that the bomb had been set off by someone else remotely and that the woman carrying it may not have known that it was an explosive device.\nThe restaurant's website said the venue had been closed on Saturday for a private event.\n(FRANCE 24 with AFP, AP, Reuters)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "At least three killed in"
+    ],
+    [
+     "ins",
+     "'terrorist' bombing of"
+    ],
+    [
+     "eq",
+     "Moscow"
+    ],
+    [
+     "del",
+     "restaurant bombing,"
+    ],
+    [
+     "ins",
+     "restaurant,"
+    ],
+    [
+     "eq",
+     "Russian officials say At least three people have been killed and 21"
+    ],
+    [
+     "del",
+     "injured"
+    ],
+    [
+     "ins",
+     "wounded"
+    ],
+    [
+     "eq",
+     "after a homemade explosive device was detonated at"
+    ],
+    [
+     "del",
+     "an Italian"
+    ],
+    [
+     "ins",
+     "a"
+    ],
+    [
+     "eq",
+     "restaurant in Moscow, Russian officials"
+    ],
+    [
+     "del",
+     "said. Local authorities have"
+    ],
+    [
+     "ins",
+     "said late Saturday. Moscow Mayor Sergei Sobyanin called the attack a \"brutal terrorist act\" but did"
+    ],
+    [
+     "eq",
+     "not"
+    ],
+    [
+     "del",
+     "said anything about"
+    ],
+    [
+     "ins",
+     "say"
+    ],
+    [
+     "eq",
+     "who"
+    ],
+    [
+     "del",
+     "they believe"
+    ],
+    [
+     "ins",
+     "he thought"
+    ],
+    [
+     "eq",
+     "was"
+    ],
+    [
+     "del",
+     "the target of the attack."
+    ],
+    [
+     "ins",
+     "responsible."
+    ],
+    [
+     "eq",
+     "An explosion Saturday at a Moscow restaurant that killed three people and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the security guard refused to let her in before the bomb exploded."
+    ],
+    [
+     "ins",
+     "Moscow mayor Sergei Sobyanin called the bomb attack a \"brutal terrorist act\" on Sunday. \"Yesterday, a brutal terrorist act was committed in Moscow that claimed human lives. The victims are currently in the city's hospitals, where they are receiving all necessary care,\" Sobyanin wrote on social media."
+    ],
+    [
+     "eq",
+     "The authorities did not name those killed or injured nor did they"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3016,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.508,
+ "similarity": 0.9104,
+ "adjudicated_by": "rules"
+}

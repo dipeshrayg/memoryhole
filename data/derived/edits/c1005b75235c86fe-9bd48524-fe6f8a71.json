@@ -1,0 +1,64 @@
+{
+ "id": "c1005b75235c86fe-9bd48524-fe6f8a71",
+ "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-04T08:46:35Z",
+ "date": "2026-08-04",
+ "old_title": "Trump says he's cancelling Iran strikes, deal pending",
+ "new_title": "Trump says he's canceling Iran strikes; deal pending",
+ "old_text": "Trump says he's cancelling Iran strikes, deal pending\nPresident Trump said on social media late Saturday that Iran and other Middle Eastern countries asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\"\nNews reports had previously suggested that the U.S. and Israel were preparing to target Iran's energy infrastructure this weekend.\nTrump, in his Truth Social post Saturday night, said the U.S. \"is locked and loaded and ready to go against the Islamic Republic of Iran\" but based on the request from Tehran and others had agreed to \"cancel the attack, subject to being able to rapidly make a DEAL.\" He said Israel was part of that commitment.\nTrump said the deal \"would include the Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran's nuclear threat.\"\nWhile Trump did not name the countries he said had asked him to hold off, a statement carried by Saudi Arabia's state news agency on Sunday said that Crown Prince Mohammed bin Salman has spoken with the U.S. leader.\nThe crown prince \"emphasized the necessity of prioritizing dialogue to de-escalate tensions and the importance of exerting all possible efforts to achieve a truce...for preserving the security and stability of the region and prevent it from being drawn into a wider conflict whose repercussions would affect regional and international security and stability,\" according to the statement.\nIran, which says its nuclear program is for purely peaceful purposes, had not yet responded to Trump's comments.\nMehr, a semi-official news agency sponsored by the Iranian government, dismissed Trump's claims as \"simply a new lie,\" citing unnamed Iranian military officials.\nIt's the latest abrupt U-turn since the U.S. and Israel launched strikes on Iran in February.\nAn AP poll this week has found that almost two-thirds of Americans who responded say the war is not worth the fight.\nNPR's Krishnadev Calamur in Washington and Frank Langfitt in Tel Aviv contributed to reporting.",
+ "new_text": "Trump says he's canceling Iran strikes; deal pending\nPresident Trump said on social media late Saturday that Iran and other Middle Eastern countries asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\"\nNews reports had previously suggested that the U.S. and Israel were preparing to target Iran's energy infrastructure this weekend.\nTrump, in his Truth Social post Saturday night, said the U.S. \"is locked and loaded and ready to go against the Islamic Republic of Iran\" but based on the request from Tehran and others had agreed to \"cancel the attack, subject to being able to rapidly make a DEAL.\" He said Israel was part of that commitment.\nTrump said the deal \"would include the Immediate, Complete, and Total OPENING OF THE HORMUZ STRAIT, and an end to Iran's nuclear threat.\"\nWhile Trump did not name the countries he said had asked him to hold off, a statement carried by Saudi Arabia's state news agency on Sunday said that Crown Prince Mohammed bin Salman has spoken with the U.S. leader.\nThe crown prince \"emphasized the necessity of prioritizing dialogue to de-escalate tensions and the importance of exerting all possible efforts to achieve a truce...for preserving the security and stability of the region and prevent it from being drawn into a wider conflict whose repercussions would affect regional and international security and stability,\" according to the statement.\nIran, which says its nuclear program is for purely peaceful purposes, had not yet responded to Trump's comments.\nMehr, a semi-official news agency sponsored by the Iranian government, dismissed Trump's claims as \"simply a new lie,\" citing unnamed Iranian military officials.\nIt's the latest abrupt U-turn since the U.S. and Israel launched strikes on Iran in February.\nAn AP poll this week has found that almost two-thirds of Americans who responded say the war is not worth the fight.\nNPR's Krishnadev Calamur in Washington and Frank Langfitt in Tel Aviv contributed to reporting.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Trump says he's"
+    ],
+    [
+     "del",
+     "cancelling"
+    ],
+    [
+     "ins",
+     "canceling"
+    ],
+    [
+     "eq",
+     "Iran"
+    ],
+    [
+     "del",
+     "strikes,"
+    ],
+    [
+     "ins",
+     "strikes;"
+    ],
+    [
+     "eq",
+     "deal pending President Trump said on social media late Saturday that Iran"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0121,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9998,
+ "adjudicated_by": "rules"
+}

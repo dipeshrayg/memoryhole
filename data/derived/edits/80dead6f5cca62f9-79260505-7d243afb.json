@@ -1,0 +1,52 @@
+{
+ "id": "80dead6f5cca62f9-79260505-7d243afb",
+ "url": "https://www.abc.net.au/news/2026-08-03/tom-dearden-clears-air-on-cowboys-future/106992486",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-04T08:49:51Z",
+ "date": "2026-08-04",
+ "old_title": "'Lot of nonsense': Dearden clears air on Cowboys future",
+ "new_title": "'Lot of nonsense': Dearden clears air on Cowboys future",
+ "old_text": "In short:\nTom Dearden has said he is committed to the North Queensland Cowboys, where he is contracted until 2029.\nDearden fronted the media on Monday to hose down speculation he was seeking an early exit.\nDearden has played just once since suffering a syndesmosis and ankle fracture in round 10.\nNorth Queensland co-captain Tom Dearden has cleared the air about his future and given the club a boost as he targets returning from injury to inspire a finals run.\nAt the end of the 2023 season Dearden, 26, signed a five-year contract extension through to the end of 2029.\nBut multiple reports in recent weeks linked him to an early exit for personal reasons due to his pregnant partner, Millie Over, living in Sydney.\nDearden fronted the media to refute the reports due to the impact they were having on his personal life.\n\"There's been a fair bit of speculation getting around at the moment. There's been a lot of suggestions that I wanted to move or leave the club,\" Dearden said.\n\"That's not the case at all. I don't feel like I should have to get up here and explain myself against speculation.\n\"It's just been a whole lot of nonsense. I've got my private life with a partner who's pregnant and I'd like for that all to be kept private.\n\"I'm committed to the Cowboys until the end of 2029 and I think it's a bit silly that you have to get up here and speak to a bit of nonsense that's going around.\"\nDearden made it clear that he was \"not recommitting\".\n\"I've always been committed to the Cowboys and none of that has ever changed, so it's a bit disappointing that my partner and family have had to deal with a lot of questions,\" he said.\n\"It's had an impact on the personal life. I've got a pregnant partner and I think when there's speculation getting around like that, people are reading that and it gives them questions to ask and you always have to answer to people.\"\nDearden has played just once since suffering a syndesmosis and ankle fracture in round 10.\nThe injury ruled him out of the State of Origin series and he returned against the Dolphins in round 20 only to tear a muscle in his shin on the other leg.\nDearden played through the match but during the following week discovered the issue.\n\"It's been a frustrating year having to sit out because I love representing the Cowboys,\" Dearden said.\n\"It's a bit of a weird injury but it's tracking pretty well and hopefully I've only got a few more weeks [on the sidelines].\"\nDearden and the club have targeted the round 26 home clash with Wests Tigers in Townsville as his return date, after the Cowboys' round 25 bye.\nNorth Queensland is in ninth position and plays Gold Coast away on Thursday night before an away clash with Parramatta without its influential half.\nAAP",
+ "new_text": "In short:\nTom Dearden has said he is committed to the North Queensland Cowboys, where he is contracted until 2029.\nDearden fronted the media on Monday to hose down speculation he was seeking an early exit.\nThe Cowboys co-captain has played just once since suffering a syndesmosis and ankle fracture in round 10.\nNorth Queensland co-captain Tom Dearden has cleared the air about his future and given the club a boost as he targets returning from injury to inspire a finals run.\nAt the end of the 2023 season Dearden, 26, signed a five-year contract extension through to the end of 2029.\nBut multiple reports in recent weeks linked him to an early exit for personal reasons due to his pregnant partner, Millie Over, living in Sydney.\nDearden fronted the media to refute the reports due to the impact they were having on his personal life.\n\"There's been a fair bit of speculation getting around at the moment. There's been a lot of suggestions that I wanted to move or leave the club,\" Dearden said.\n\"That's not the case at all. I don't feel like I should have to get up here and explain myself against speculation.\n\"It's just been a whole lot of nonsense. I've got my private life with a partner who's pregnant and I'd like for that all to be kept private.\n\"I'm committed to the Cowboys until the end of 2029 and I think it's a bit silly that you have to get up here and speak to a bit of nonsense that's going around.\"\nDearden made it clear that he was \"not recommitting\".\n\"I've always been committed to the Cowboys and none of that has ever changed, so it's a bit disappointing that my partner and family have had to deal with a lot of questions,\" he said.\n\"It's had an impact on the personal life. I've got a pregnant partner and I think when there's speculation getting around like that, people are reading that and it gives them questions to ask and you always have to answer to people.\"\nDearden has played just once since suffering a syndesmosis and ankle fracture in round 10.\nThe injury ruled him out of the State of Origin series and he returned against the Dolphins in round 20 only to tear a muscle in his shin on the other leg.\nDearden played through the match but during the following week discovered the issue.\n\"It's been a frustrating year having to sit out because I love representing the Cowboys,\" Dearden said.\n\"It's a bit of a weird injury but it's tracking pretty well and hopefully I've only got a few more weeks [on the sidelines].\"\nDearden and the club have targeted the round 26 home clash with Wests Tigers in Townsville as his return date, after the Cowboys' round 25 bye.\nNorth Queensland is in ninth position and plays Gold Coast away on Thursday night before an away clash with Parramatta without its influential half.\nAAP",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "on Monday to hose down speculation he was seeking an early exit."
+    ],
+    [
+     "del",
+     "Dearden"
+    ],
+    [
+     "ins",
+     "The Cowboys co-captain"
+    ],
+    [
+     "eq",
+     "has played just once since suffering a syndesmosis and ankle fracture in"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0081,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9781,
+ "adjudicated_by": "rules"
+}

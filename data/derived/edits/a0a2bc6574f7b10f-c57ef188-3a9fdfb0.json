@@ -1,0 +1,316 @@
+{
+ "id": "a0a2bc6574f7b10f-c57ef188-3a9fdfb0",
+ "url": "https://www.independent.co.uk/news/world/americas/spider-man-brand-new-day-office-record-b3025901.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-04T08:50:45Z",
+ "date": "2026-08-04",
+ "old_title": "New Spider-Man movie spins its way to box office record, netting $168m on opening day",
+ "new_title": "New Spider-Man movie spins its way to box office record, netting $168m on opening day",
+ "old_text": "The latest Spidey movie, \"Spider-Man: Brand New Day,\" swung into the record books on Friday, earning a whopping $168 million from 4,487 theaters across North America, becoming the biggest opening day ever for a domestic release.\nThe latest Spider-Man installment shattered the previous record held by 2019's \"Avengers: Endgame,\" which earned $157 million on its opening day in theaters.\nSony projects \"Brand New Day,\" which had an estimated $225 million production budget, will earn about $325 million by Sunday. However, some analysts and rival studios believe the film could exceed expectations and reach closer to $358 million, which would make it one of the biggest North American openings in box office history.\nFor now, \"Endgame\" still holds the record for the biggest domestic opening weekend ever, earning $357 million in its debut. \"Spider-Man: No Way Home\" ranks second with a $260 million opening in 2021, followed by 2018's \"Avengers: Infinity War\" in third place with $257 million. \"Star Wars: The Force Awakens\" rounds out the top four with a $247 million domestic debut in 2015.\nIn \"No Way Home,\" Peter Parker, played by Tom Holland, finds his life turned upside down after he asks Doctor Strange to cast a spell that erases the world's memory of his identity as Spider-Man, accidentally opening the door to threats from other universes. As a result, Peter was left without the support of his closest friends and loved ones, including his girlfriend MJ, played by Zendaya, and his best friend Ned Leeds, played by Jacob Batalon.\nIn \"Brand New Day,\" Peter enters a new chapter as he embraces life as a full-time Spider-Man in a world that no longer remembers him. Struggling with the loss of the personal connections that once anchored him, Peter must rebuild his life while facing new threats. The film expands the cast with new and returning characters, including Sadie Sink, Jon Bernthal, Mark Ruffalo, Liza Colón-Zayas and Tramell Tillman.\nMeanwhile, \"The Odyssey \" ranked second at the Friday box office, earning $14.5 million during its third weekend in North American theaters. The epic adventure is expected to bring in about $51 million over the full weekend, a 43 percent decline from the previous week, pushing its domestic total to around $395 million.\n\"Toy Story 5\" placed third on Friday with $1.8 million in domestic ticket sales. The animated Pixar sequel is projected to earn around $6.2 million for the weekend, bringing its four-week domestic total to about $461 million.",
+ "new_text": "The latest Spidey movie, Spider-Man: Brand New Day, swung into the record books on Friday, earning a whopping $168 million from 4,487 theaters across North America, becoming the biggest opening day ever for a domestic release.\nThe latest Spider-Man installment shattered the previous record held by 2019's Avengers: Endgame, which earned $157 million on its opening day in theaters.\nSony projects Brand New Day, which had an estimated $225 million production budget, will earn about $325 million by Sunday. However, some analysts and rival studios believe the film could exceed expectations and reach closer to $358 million, which would make it one of the biggest North American openings in box office history.\nFor now, Endgame still holds the record for the biggest domestic opening weekend ever, earning $357 million in its debut. Spider-Man: No Way Home ranks second with a $260 million opening in 2021, followed by 2018's Avengers: Infinity War in third place with $257 million. Star Wars: The Force Awakens rounds out the top four with a $247 million domestic debut in 2015.\nIn No Way Home, Peter Parker, played by Tom Holland, finds his life turned upside down after he asks Doctor Strange to cast a spell that erases the world's memory of his identity as Spider-Man, accidentally opening the door to threats from other universes. As a result, Peter was left without the support of his closest friends and loved ones, including his girlfriend MJ, played by Zendaya, and his best friend Ned Leeds, played by Jacob Batalon.\nIn Brand New Day, Peter enters a new chapter as he embraces life as a full-time Spider-Man in a world that no longer remembers him. Struggling with the loss of the personal connections that once anchored him, Peter must rebuild his life while facing new threats. The film expands the cast with new and returning characters, including Sadie Sink, Jon Bernthal, Mark Ruffalo, Liza Colón-Zayas and Tramell Tillman.\nMeanwhile, The Odyssey ranked second at the Friday box office, earning $14.5 million during its third weekend in North American theaters. The epic adventure is expected to bring in about $51 million over the full weekend, a 43 percent decline from the previous week, pushing its domestic total to around $395 million.\nToy Story 5 placed third on Friday with $1.8 million in domestic ticket sales. The animated Pixar sequel is projected to earn around $6.2 million for the weekend, bringing its four-week domestic total to about $461 million.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "The latest Spidey movie,"
+    ],
+    [
+     "del",
+     "\"Spider-Man:"
+    ],
+    [
+     "ins",
+     "Spider-Man:"
+    ],
+    [
+     "eq",
+     "Brand New"
+    ],
+    [
+     "del",
+     "Day,\""
+    ],
+    [
+     "ins",
+     "Day,"
+    ],
+    [
+     "eq",
+     "swung into the record books on Friday, earning a whopping $168 million"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "release. The latest Spider-Man installment shattered the previous record held by 2019's"
+    ],
+    [
+     "del",
+     "\"Avengers: Endgame,\""
+    ],
+    [
+     "ins",
+     "Avengers: Endgame,"
+    ],
+    [
+     "eq",
+     "which earned $157 million on its opening day in theaters. Sony projects"
+    ],
+    [
+     "del",
+     "\"Brand"
+    ],
+    [
+     "ins",
+     "Brand"
+    ],
+    [
+     "eq",
+     "New"
+    ],
+    [
+     "del",
+     "Day,\""
+    ],
+    [
+     "ins",
+     "Day,"
+    ],
+    [
+     "eq",
+     "which had an estimated $225 million production budget, will earn about $325"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of the biggest North American openings in box office history. For now,"
+    ],
+    [
+     "del",
+     "\"Endgame\""
+    ],
+    [
+     "ins",
+     "Endgame"
+    ],
+    [
+     "eq",
+     "still holds the record for the biggest domestic opening weekend ever, earning $357 million in its debut."
+    ],
+    [
+     "del",
+     "\"Spider-Man:"
+    ],
+    [
+     "ins",
+     "Spider-Man:"
+    ],
+    [
+     "eq",
+     "No Way"
+    ],
+    [
+     "del",
+     "Home\""
+    ],
+    [
+     "ins",
+     "Home"
+    ],
+    [
+     "eq",
+     "ranks second with a $260 million opening in 2021, followed by 2018's"
+    ],
+    [
+     "del",
+     "\"Avengers:"
+    ],
+    [
+     "ins",
+     "Avengers:"
+    ],
+    [
+     "eq",
+     "Infinity"
+    ],
+    [
+     "del",
+     "War\""
+    ],
+    [
+     "ins",
+     "War"
+    ],
+    [
+     "eq",
+     "in third place with $257 million."
+    ],
+    [
+     "del",
+     "\"Star"
+    ],
+    [
+     "ins",
+     "Star"
+    ],
+    [
+     "eq",
+     "Wars: The Force"
+    ],
+    [
+     "del",
+     "Awakens\""
+    ],
+    [
+     "ins",
+     "Awakens"
+    ],
+    [
+     "eq",
+     "rounds out the top four with a $247 million domestic debut in 2015. In"
+    ],
+    [
+     "del",
+     "\"No"
+    ],
+    [
+     "ins",
+     "No"
+    ],
+    [
+     "eq",
+     "Way"
+    ],
+    [
+     "del",
+     "Home,\""
+    ],
+    [
+     "ins",
+     "Home,"
+    ],
+    [
+     "eq",
+     "Peter Parker, played by Tom Holland, finds his life turned upside down"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Zendaya, and his best friend Ned Leeds, played by Jacob Batalon. In"
+    ],
+    [
+     "del",
+     "\"Brand"
+    ],
+    [
+     "ins",
+     "Brand"
+    ],
+    [
+     "eq",
+     "New"
+    ],
+    [
+     "del",
+     "Day,\""
+    ],
+    [
+     "ins",
+     "Day,"
+    ],
+    [
+     "eq",
+     "Peter enters a new chapter as he embraces life as a full-time"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Sadie Sink, Jon Bernthal, Mark Ruffalo, Liza Colón-Zayas and Tramell Tillman. Meanwhile,"
+    ],
+    [
+     "del",
+     "\"The"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "Odyssey"
+    ],
+    [
+     "del",
+     "\""
+    ],
+    [
+     "eq",
+     "ranked second at the Friday box office, earning $14.5 million during its"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "from the previous week, pushing its domestic total to around $395 million."
+    ],
+    [
+     "del",
+     "\"Toy"
+    ],
+    [
+     "ins",
+     "Toy"
+    ],
+    [
+     "eq",
+     "Story"
+    ],
+    [
+     "del",
+     "5\""
+    ],
+    [
+     "ins",
+     "5"
+    ],
+    [
+     "eq",
+     "placed third on Friday with $1.8 million in domestic ticket sales. The"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.1,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

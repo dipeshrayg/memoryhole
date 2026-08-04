@@ -1,0 +1,48 @@
+{
+ "id": "bfaad27b0b3791fb-4b5b6bf1-fb05f1bc",
+ "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260731-ugandan-opposition-leader-kizza-besigye-rushed-to-hospital-after-court-collapse",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-04T08:48:57Z",
+ "date": "2026-08-04",
+ "old_title": "Eye on Africa - Ugandan opposition leader Kizza Besigye rushed to hospital after court collapse",
+ "new_title": "Eye on Africa - Ugandan opposition leader Kizza Besigye rushed to hospital after court collapse",
+ "old_text": "Ugandan opposition leader Kizza Besigye rushed to hospital after court collapse\nIssued on:\nIn tonight's edition: Ugandan opposition leader Kizza Besigye is in hospital after collapsing in court, raising fresh concerns over the treatment of political opponents. Ghana proposes sweeping constitutional reforms that could reshape its political landscape. Meanwhile, Benin steps up its campaign to recover looted cultural treasures and colonial archives from France.\nProduced by Clarisse Fortuné and Guillaume Gougeon",
+ "new_text": "Ugandan opposition leader Kizza Besigye rushed to hospital after court collapse\nIssued on:\nIn tonight's edition: Ugandan opposition leader Kizza Besigye is in hospital after collapsing in court, raising fresh concerns over the treatment of political opponents. Also, Ghana proposes sweeping constitutional reforms that could reshape its political landscape. Meanwhile, Benin steps up its campaign to recover looted cultural treasures and colonial archives from France.\nProduced by Clarisse Fortuné and Guillaume Gougeon",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "collapsing in court, raising fresh concerns over the treatment of political opponents."
+    ],
+    [
+     "ins",
+     "Also,"
+    ],
+    [
+     "eq",
+     "Ghana proposes sweeping constitutional reforms that could reshape its political landscape. Meanwhile,"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0141,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9961,
+ "adjudicated_by": "rules"
+}

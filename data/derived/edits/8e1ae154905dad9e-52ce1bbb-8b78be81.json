@@ -1,0 +1,412 @@
+{
+ "id": "8e1ae154905dad9e-52ce1bbb-8b78be81",
+ "url": "https://www.theguardian.com/football/2026/aug/03/manchester-united-women-head-coach-marc-skinner-leaves-role-after-five-years",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-08-04T08:57:46Z",
+ "date": "2026-08-04",
+ "old_title": "Marc Skinner leaves Manchester United Women head coach role amid transfer frustration",
+ "new_title": "Marc Skinner leaves Manchester United Women head coach role amid transfer frustration",
+ "old_text": "Marc Skinner has left his role as Manchester United's head coach by mutual consent after five years, partly because of the club's transfer strategy.\nThe 43-year-old is understood to have initiated the discussions that ultimately led to his departure, having felt that it was the right time to leave the club with United seeking to focus on developing young players, rather than enter into bidding wars with some of the Women's Super League's bigger spenders.\nThe former Birmingham City and Orlando Pride head coach led Manchester United to three consecutive Women's FA Cup finals between 2023 and 2025, winning one - and the club's first major women's trophy - in 2024 at Wembley with a 4-0 victory over Tottenham Hotspur. His side also reached the quarter-finals of the Women's Champions League in 2025-26, as well as the League Cup final.\nHowever, Skinner has repeatedly called for greater investment in the team in the transfer market throughout his tenure and a change in strategy from the club this summer, focused on developing more homegrown players, is understood to have led to his exit.\nSkinner oversaw a second-placed finish in the 2022-23 campaign, the club's highest league position, after a fourth-placed finish in his first season in charge in 2021-22. His side then finished fifth, third and fourth respectively in his final three years in charge. The Englishman has often divided opinion amongst Manchester United supporters, with many supporting him whilst others have vocally called for his departure for several seasons.\nSources have indicated that the women's team has a new direction this summer, focused on building a team sustainably with homegrown players, which the club are understood to feel fits their identity of developing youth. Investments are being made into United's academy.\nBut other sources have told the Guardian that Skinner was increasingly frustrated at seeing other WSL sides outspend United on transfer fees. The sale of French striker Melvine Malard to Chelsea this summer, for a club-record fee in the region of £850,000, has caused concern amongst many supporters about the club's ambition for the upcoming season.\nIt comes whilst London City Lionesses - United's opponents on the season's opening day on 4 September - have spent significantly this summer and recruited the Spain stars Alexia Putellas and Mapi León, as well as France winger Kadidiatou Diani.\nSources close to the club have indicated that they feel such spending is not sustainable yet in the women's game. Ultimately, discussions around these matters have concluded with the club and Skinner mutually agreeing to part ways, before a new campaign where the team can make a fresh start.\nSince it became clear that Skinner would be leaving, the club are understood to have already assessed a shortlist of candidates and they are expected to name Skinner's replacement relatively quickly.\n\"Marc leaves having made a significant contribution to the continued progress of Manchester United Women,\" read a club statement. \"The club places on record its sincere thanks for his professionalism, commitment and dedication throughout his time at United, and wishes him every success in the future.\"",
+ "new_text": "Marc Skinner has left his role as Manchester United's head coach by mutual consent after five years, partly because of the club's transfer strategy. The 43-year-old is understood to have initiated the discussions that led to his departure, having felt it was the right time to leave the club. United are focusing on developing young players, rather than enter into bidding wars with some of the Women's Super League's bigger spenders.\nThe former Birmingham and Orlando head coach led United to three consecutive Women's FA Cup finals between 2023 and 2025, winning one - the club's first major women's trophy - in 2024 at Wembley with a 4-0 victory against Tottenham. They also reached the Women's Champions League quarter‐finals, as well as the League Cup final, in 2025-26.\nSkinner has repeatedly called for greater investment in the team in the transfer market, and a change in strategy from the club this summer has led to his exit. He oversaw a second-placed finish in the 2022-23 campaign, the club's highest league position, after a fourth-placed finish in 2021‐22, his first season in charge. United then finished fifth, third and fourth respectively in his final three years in charge.\nSources have indicated the women's side has a new direction this summer, focused on building a team sustainably with homegrown players, which the club are understood to feel fits their identity of developing youth. Investments are being made into United's academy.\nBut other sources have said Skinner was increasingly frustrated at seeing WSL sides outspend United. The sale of the French striker Melvine Malard to Chelsea this summer, for a club-record fee in the region of £850,000, has caused concern about the club's ambition for the upcoming season.\nIt comes while London City Lionesses - United's opponents on the season's opening day on 4 September - have spent significantly on Spain's Alexia Putellas and Mapi León, as well as the France winger Kadidiatou Diani.\nSources close to the club have indicated that they feel such spending is not sustainable in the women's game. Ultimately, discussions around these matters have concluded with the club and Skinner parting ways before a new campaign when the team can make a fresh start.\nSince it became clear that Skinner would be leaving, the club have put together a shortlist of candidates and are expected to name his replacement relatively quickly.\n\"Marc leaves having made a significant contribution to the continued progress of Manchester United Women,\" United said. \"The club places on record its sincere thanks for his professionalism, commitment and dedication throughout his time at United, and wishes him every success in the future.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "transfer strategy. The 43-year-old is understood to have initiated the discussions that"
+    ],
+    [
+     "del",
+     "ultimately"
+    ],
+    [
+     "eq",
+     "led to his departure, having felt"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "eq",
+     "it was the right time to leave the"
+    ],
+    [
+     "del",
+     "club with"
+    ],
+    [
+     "ins",
+     "club."
+    ],
+    [
+     "eq",
+     "United"
+    ],
+    [
+     "del",
+     "seeking to focus"
+    ],
+    [
+     "ins",
+     "are focusing"
+    ],
+    [
+     "eq",
+     "on developing young players, rather than enter into bidding wars with some of the Women's Super League's bigger spenders. The former Birmingham"
+    ],
+    [
+     "del",
+     "City"
+    ],
+    [
+     "eq",
+     "and Orlando"
+    ],
+    [
+     "del",
+     "Pride"
+    ],
+    [
+     "eq",
+     "head coach led"
+    ],
+    [
+     "del",
+     "Manchester"
+    ],
+    [
+     "eq",
+     "United to three consecutive Women's FA Cup finals between 2023 and 2025, winning one -"
+    ],
+    [
+     "del",
+     "and"
+    ],
+    [
+     "eq",
+     "the club's first major women's trophy - in 2024 at Wembley with a 4-0 victory"
+    ],
+    [
+     "del",
+     "over Tottenham Hotspur. His side"
+    ],
+    [
+     "ins",
+     "against Tottenham. They"
+    ],
+    [
+     "eq",
+     "also reached"
+    ],
+    [
+     "del",
+     "the quarter-finals of"
+    ],
+    [
+     "eq",
+     "the Women's Champions League"
+    ],
+    [
+     "del",
+     "in 2025-26,"
+    ],
+    [
+     "ins",
+     "quarter‐finals,"
+    ],
+    [
+     "eq",
+     "as well as the League Cup"
+    ],
+    [
+     "del",
+     "final. However,"
+    ],
+    [
+     "ins",
+     "final, in 2025-26."
+    ],
+    [
+     "eq",
+     "Skinner has repeatedly called for greater investment in the team in the transfer"
+    ],
+    [
+     "del",
+     "market throughout his tenure"
+    ],
+    [
+     "ins",
+     "market,"
+    ],
+    [
+     "eq",
+     "and a change in strategy from the club this"
+    ],
+    [
+     "del",
+     "summer, focused on developing more homegrown players, is understood to have"
+    ],
+    [
+     "ins",
+     "summer has"
+    ],
+    [
+     "eq",
+     "led to his exit."
+    ],
+    [
+     "del",
+     "Skinner"
+    ],
+    [
+     "ins",
+     "He"
+    ],
+    [
+     "eq",
+     "oversaw a second-placed finish in the 2022-23 campaign, the club's highest league position, after a fourth-placed finish in"
+    ],
+    [
+     "ins",
+     "2021‐22,"
+    ],
+    [
+     "eq",
+     "his first season in"
+    ],
+    [
+     "del",
+     "charge in 2021-22. His side"
+    ],
+    [
+     "ins",
+     "charge. United"
+    ],
+    [
+     "eq",
+     "then finished fifth, third and fourth respectively in his final three years in charge."
+    ],
+    [
+     "del",
+     "The Englishman has often divided opinion amongst Manchester United supporters, with many supporting him whilst others have vocally called for his departure for several seasons."
+    ],
+    [
+     "eq",
+     "Sources have indicated"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "eq",
+     "the women's"
+    ],
+    [
+     "del",
+     "team"
+    ],
+    [
+     "ins",
+     "side"
+    ],
+    [
+     "eq",
+     "has a new direction this summer, focused on building a team sustainably"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "youth. Investments are being made into United's academy. But other sources have"
+    ],
+    [
+     "del",
+     "told the Guardian that"
+    ],
+    [
+     "ins",
+     "said"
+    ],
+    [
+     "eq",
+     "Skinner was increasingly frustrated at seeing"
+    ],
+    [
+     "del",
+     "other"
+    ],
+    [
+     "eq",
+     "WSL sides outspend"
+    ],
+    [
+     "del",
+     "United on transfer fees."
+    ],
+    [
+     "ins",
+     "United."
+    ],
+    [
+     "eq",
+     "The sale of"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "French striker Melvine Malard to Chelsea this summer, for a club-record fee in the region of £850,000, has caused concern"
+    ],
+    [
+     "del",
+     "amongst many supporters"
+    ],
+    [
+     "eq",
+     "about the club's ambition for the upcoming season. It comes"
+    ],
+    [
+     "del",
+     "whilst"
+    ],
+    [
+     "ins",
+     "while"
+    ],
+    [
+     "eq",
+     "London City Lionesses - United's opponents on the season's opening day on 4 September - have spent significantly"
+    ],
+    [
+     "del",
+     "this summer and recruited the Spain stars"
+    ],
+    [
+     "ins",
+     "on Spain's"
+    ],
+    [
+     "eq",
+     "Alexia Putellas and Mapi León, as well as"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "France winger Kadidiatou Diani. Sources close to the club have indicated that they feel such spending is not sustainable"
+    ],
+    [
+     "del",
+     "yet"
+    ],
+    [
+     "eq",
+     "in the women's game. Ultimately, discussions around these matters have concluded with the club and Skinner"
+    ],
+    [
+     "del",
+     "mutually agreeing to part ways,"
+    ],
+    [
+     "ins",
+     "parting ways"
+    ],
+    [
+     "eq",
+     "before a new campaign"
+    ],
+    [
+     "del",
+     "where"
+    ],
+    [
+     "ins",
+     "when"
+    ],
+    [
+     "eq",
+     "the team can make a fresh start. Since it became clear that Skinner would be leaving, the club"
+    ],
+    [
+     "del",
+     "are understood to"
+    ],
+    [
+     "eq",
+     "have"
+    ],
+    [
+     "del",
+     "already assessed"
+    ],
+    [
+     "ins",
+     "put together"
+    ],
+    [
+     "eq",
+     "a shortlist of candidates and"
+    ],
+    [
+     "del",
+     "they"
+    ],
+    [
+     "eq",
+     "are expected to name"
+    ],
+    [
+     "del",
+     "Skinner's"
+    ],
+    [
+     "ins",
+     "his"
+    ],
+    [
+     "eq",
+     "replacement relatively quickly. \"Marc leaves having made a significant contribution to the continued progress of Manchester United Women,\""
+    ],
+    [
+     "del",
+     "read a club statement."
+    ],
+    [
+     "ins",
+     "United said."
+    ],
+    [
+     "eq",
+     "\"The club places on record its sincere thanks for his professionalism, commitment"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2768,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9767,
+ "adjudicated_by": "rules"
+}

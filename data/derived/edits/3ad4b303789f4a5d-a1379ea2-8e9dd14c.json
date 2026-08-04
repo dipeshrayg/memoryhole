@@ -1,0 +1,84 @@
+{
+ "id": "3ad4b303789f4a5d-a1379ea2-8e9dd14c",
+ "url": "https://www.france24.com/en/middle-east/20260802-live-trump-says-us-to-stop-new-strikes-on-iran-calls-for-rapid-deal-on-hormuz",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-04T08:49:03Z",
+ "date": "2026-08-04",
+ "old_title": "Middle East live: Trump holds off on striking Iran, calls for 'rapid' deal to end the conflict",
+ "new_title": "Trump holds off on striking Iran, calls for 'rapid' deal to end the conflict",
+ "old_text": "Middle East live: Trump holds off on striking Iran, calls for 'rapid' deal to end the conflict\nUS President Donald Trump said Saturday that the United States and Israel had agreed to hold off on new strikes on Iran - provided a deal to end the months-long conflict is \"rapidly\" reached. Iran's acting defence minister said his country would \"neither be caught off guard nor remain passive\" in the face of new US threats. Follow our live.\n(FRANCE 24 with AFP, AP, Reuters)",
+ "new_text": "Trump holds off on striking Iran, calls for 'rapid' deal to end the conflict\nPresident Donald Trump said Saturday that the United States and Israel had agreed to hold off on new strikes on Iran - provided a deal to end the months-long conflict is \"rapidly\" reached. Iran's acting defence minister said his country would \"neither be caught off guard nor remain passive\" in the face of new US threats. Read our liveblog to see how events unfolded.\n- The United Kingdom Maritime Trade Operations said Saturday it had received reports of two maritime incidents off Oman, including one in which a tanker was struck by an unknown projectile.\n- Kuwait's army it had detected and destroyed hostile drones in the country's airspace and that what it described as an Iranian attack had targeted several vital facilities.\n- US embassies in capitals across the Middle East on Saturday warned their citizens to beware of \"unforeseen escalation\" in the regional conflict and urged them to be ready to leave.\n(FRANCE 24 with AFP, AP, Reuters)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Middle East live:"
+    ],
+    [
+     "eq",
+     "Trump holds off on striking Iran, calls for 'rapid' deal to end the conflict"
+    ],
+    [
+     "del",
+     "US"
+    ],
+    [
+     "eq",
+     "President Donald Trump said Saturday that the United States and Israel had"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "off guard nor remain passive\" in the face of new US threats."
+    ],
+    [
+     "del",
+     "Follow"
+    ],
+    [
+     "ins",
+     "Read"
+    ],
+    [
+     "eq",
+     "our"
+    ],
+    [
+     "del",
+     "live."
+    ],
+    [
+     "ins",
+     "liveblog to see how events unfolded. - The United Kingdom Maritime Trade Operations said Saturday it had received reports of two maritime incidents off Oman, including one in which a tanker was struck by an unknown projectile. - Kuwait's army it had detected and destroyed hostile drones in the country's airspace and that what it described as an Iranian attack had targeted several vital facilities. - US embassies in capitals across the Middle East on Saturday warned their citizens to beware of \"unforeseen escalation\" in the regional conflict and urged them to be ready to leave."
+    ],
+    [
+     "eq",
+     "(FRANCE 24 with AFP, AP, Reuters)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.241,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.15,
+ "similarity": 0.7831,
+ "adjudicated_by": "rules"
+}
