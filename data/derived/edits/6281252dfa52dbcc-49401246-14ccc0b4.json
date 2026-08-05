@@ -1,0 +1,44 @@
+{
+ "id": "6281252dfa52dbcc-49401246-14ccc0b4",
+ "url": "https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon",
+ "domain": "www.npr.org",
+ "source": "NPR Science",
+ "country": "United States",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-08-05T09:00:24Z",
+ "date": "2026-08-05",
+ "old_title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
+ "new_title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
+ "old_text": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon\nA piece of a SpaceX Falcon 9 rocket is expected to slam into the moon on Wednesday, according to scientists.\nThe piece is expected to hit the moon around 2:35 a.m. ET at more than 5,000 miles per hour, according to analysis by Bill Gray, who develops software that tracks objects in space. It is part of the rocket's upper portion and about the size of a five-story building.\nIt was part of the Falcon 9 rocket that carried two lunar landers and scientific instruments to the moon in January 2025.\nThe piece is expected to hit a sunlit side of the moon facing Earth, which will be partially illuminated, in the northwestern portion near the Einstein Crater, according to Gray. The impact could leave a crater at least 17 meters in diameter, he said.\nSpaceX did not intend for the defunct piece to hit the moon, according to the Associated Press. NPR reached out to SpaceX for comment but has not received a response.\nBrent Garry, a project scientist for the Lunar Reconnaissance Orbiter (LRO) at NASA Goddard Space Flight Center, said the orbiter will pass over the region before and after the impact to get a sense of any changes to the surface.\n\"After the impact we might have a little bit more knowledge of where it is. We can do some additional targeting about a week after the impact and get some targeting over where the site is,\" Garry said in June during a discussion about the upcoming impact held by NASA's Solar System Exploration Research Virtual Institute (SSERVI).\nThe impact may not be visible; even a plume of dust may be difficult for professional telescopes to pick up, according to some researchers.\n\"Rocks ejected by the impact may form a \"plume\" that will be visible against the dark background once they're off the moon,\" Gray wrote on his website. \"As with much in science, the answer is \"we don't know; let's find out\"....Maybe we'll see rocks ejected from the crater.\"\nBut some researchers also say that while viewing may be challenging, it could be visible with sensitive telescopes. It also presents an opportunity for scientists to get a glimpse of impacts to the moon.\n\"Given these are so rare, I would encourage people who are interested and aware of the risks to take a look,\" according to Ben Fernando, postdoctoral fellow and researcher at Los Alamos National Laboratory, who was part of the discussion. \"To be clear, this is not something that you're going to see by pointing a pair of binoculars at the moon, but if you have the right equipment and the right time...why not take a look?\"",
+ "new_text": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon\nA piece of a SpaceX Falcon 9 rocket is expected to slam into the moon on Wednesday, according to scientists.\nThe piece is expected to hit the moon around 2:35 a.m. ET at more than 5,000 miles per hour, according to analysis by Bill Gray, who develops software that tracks objects in space. It is part of the rocket's upper portion and about the size of a five-story building.\nIt was part of the Falcon 9 rocket that carried two lunar landers and scientific instruments to the moon in January 2025.\nThe piece is expected to hit a sunlit side of the moon facing Earth, which will be partially illuminated, in the northwestern portion near the Einstein Crater, according to Gray. The impact could leave a crater at least 17 meters in diameter, he said.\nSpaceX did not intend for the defunct piece to hit the moon, according to the Associated Press. NPR reached out to SpaceX for comment but has not received a response.\nBrent Garry, a project scientist for the Lunar Reconnaissance Orbiter (LRO) at NASA Goddard Space Flight Center, said the orbiter will pass over the region before and after the impact to get a sense of any changes to the surface.\n\"After the impact we might have a little bit more knowledge of where it is. We can do some additional targeting about a week after the impact and get some targeting over where the site is,\" Garry said in June during a discussion about the upcoming impact held by NASA's Solar System Exploration Research Virtual Institute (SSERVI).\nThe impact may not be visible; even a plume of dust may be difficult for professional telescopes to pick up, according to some researchers.\n\"Rocks ejected by the impact may form a \"plume\" that will be visible against the dark background once they're off the moon,\" Gray wrote on his website. \"As with much in science, the answer is \"we don't know; let's find out\"....Maybe we'll see rocks ejected from the crater.\"\nBut some researchers also say that while viewing may be challenging, it could be visible with sensitive telescopes. It also presents an opportunity for scientists to get a glimpse of impacts to the moon.\n\"Given these are so rare, I would encourage people who are interested and aware of the risks to take a look,\" according to Ben Fernando, postdoctoral fellow and researcher at Los Alamos National Laboratory, who was part of the discussion. \"To be clear, this is not something that you're going to see by pointing a pair of binoculars at the moon, but if you have the right equipment and the right time...why not take a look?\"\nMan-made objects is hitting the moon is something we can anticipate happening more in the future, Fernando told NPR. These objects, while striking an uninhabited moon, can be dangerous.\n\"The ejecta [material] produced by these impacts travels multiple miles per second, so it poses a risk to astronauts and future lunar habitats and infrastructure,\" he said. \"Some of it can also escape up into lunar orbit, where it poses a risk to spacecraft.\"\nHe and other scientists are hoping this strike will help them understand more about impacts and the risks to astronauts as well as infrastructure on the lunar surface or in orbit from space debris.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "have the right equipment and the right time...why not take a look?\""
+    ],
+    [
+     "ins",
+     "Man-made objects is hitting the moon is something we can anticipate happening more in the future, Fernando told NPR. These objects, while striking an uninhabited moon, can be dangerous. \"The ejecta [material] produced by these impacts travels multiple miles per second, so it poses a risk to astronauts and future lunar habitats and infrastructure,\" he said. \"Some of it can also escape up into lunar orbit, where it poses a risk to spacecraft.\" He and other scientists are hoping this strike will help them understand more about impacts and the risks to astronauts as well as infrastructure on the lunar surface or in orbit from space debris."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2346,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

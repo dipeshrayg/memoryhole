@@ -1,0 +1,55 @@
+{
+ "id": "a6f67f479a00350c-66ddec6d-57f218f5",
+ "url": "https://www.bbc.co.uk/weather/articles/c62q036nqxyo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-05T08:44:12Z",
+ "date": "2026-08-05",
+ "old_title": "UK weather: Final day of heatwave brings thunderstorm and flash flood risk",
+ "new_title": "Final day of heatwave brings thunderstorm and flash flood risk",
+ "old_text": "- Published\nThe heatwave impacting parts of the UK this week continues into Tuesday with a risk of thunderstorms in some parts.\nPershore in Worcestershire and Cavendish in Suffolk hit three consecutive days of heatwave threshold temperatures on Monday and it is expected more parts of southern and eastern England will reach heatwave criteria on Tuesday.\nAmber and yellow heat health alerts, external are in effect across much of England until 09:00 BST Wednesday, with temperatures expected to reach more than 30C in some areas.\nThe intense heat will be short lived though as a change in the weather pattern is on the way from midweek.\nWhen will the heatwave end?\nDuring Tuesday, a cold front will move southwards across the Midlands and into south-east England. However, it is unlikely to deliver any meaningful rainfall.\nSome areas in the far south-east, including London, Essex, Kent and Surrey, are unlikely to receive any rain at all.\nThis is a pattern that has become all too familiar in recent weeks, as the UK experienced its driest and sunniest July on record.\nAreas of low pressure have tracked to the north of the UK, bringing below-average rainfall and consistently failing to deliver any meaningful rain further south.\nFlash flooding and hail risk\nLow pressure which has recently brought rainfall to Scotland, Northern Ireland and parts of northern England will bring scattered showers and thunderstorms on Tuesday and into Wednesday. However, this is unlikely to alleviate the current drought.\nA yellow thunderstorm warning has been issued by the Met Office for parts of Northern Ireland on Tuesday.\nIt will run from 12:00 to 21:00, when up to 30mm of rain in an hour or two is possible, along with strong winds and the chance of hail.\nAreas that do see a heavy downpour are at risk of flash flooding.\nThe scorched ground, dry grass and soil caused by the lack of rain is likely to cause significant pooling and runoff, as rainfall struggles to get absorbed during brief bursts of heavy rain.\nHail may accompany the most intense downpours which could come as a surprise following the predominantly hot and dry conditions.\nHail is most common in summer months as it needs to develop inside towering cumulonimbus clouds, which are often spawned by intense heat at ground level.\nWill there be another heatwave?\nFollowing one of the driest and hottest stretches of weather in the UK's history, the indications are that August is likely to bring more of the same.\nForecast models suggest low rainfall and above average temperatures will continue for much of the UK, meaning it is unlikely that any of the hosepipe bans affecting more than 20 million people in England and Wales will be lifted soon.\nWisley in Surrey remains the driest location in the UK, having recorded 47 consecutive days without measurable rainfall, while many other parts of the UK have had a fraction of their normal rainfall in June and July.\nFurther spikes of heat are likely, however as August wears on and the sun gradually loses some of its intensity, the likelihood of extreme temperatures in the high 30s lessens.\nBut it is not uncommon to have spells of intense heat reaching 30C or higher even into September.\nYou can see the latest forecast for the coming weeks here.",
+ "new_text": "- Published\nThe heatwave impacting parts of the UK this week continues into Tuesday with a risk of thunderstorms in some parts.\nPershore in Worcestershire and Cavendish in Suffolk hit three consecutive days of heatwave threshold temperatures on Monday and it is expected more parts of southern and eastern England will reach heatwave criteria on Tuesday.\nAmber and yellow heat health alerts, external are in effect across much of England until 09:00 BST Wednesday, with temperatures expected to reach more than 30C in some areas.\nThe intense heat will be short lived though as a change in the weather pattern is on the way from midweek.\nWhen will the heatwave end?\nDuring Tuesday, a cold front will move southwards across the Midlands and into south-east England. However, it is unlikely to deliver any meaningful rainfall.\nSome areas in the far south-east, including London, Essex, Kent and Surrey, are unlikely to receive any rain at all.\nThis is a pattern that has become all too familiar in recent weeks, as the UK experienced its driest and sunniest July on record.\nAreas of low pressure have tracked to the north of the UK, bringing below-average rainfall and consistently failing to deliver any meaningful rain further south.\nFlash flooding and hail risk\nLow pressure which has recently brought rainfall to Scotland, Northern Ireland and parts of northern England will bring scattered showers and thunderstorms on Tuesday and into Wednesday. However, this is unlikely to alleviate the current drought.\nA yellow thunderstorm warning has been issued by the Met Office for parts of Northern Ireland on Tuesday.\nIt runs until 21:00, when up to 30mm of rain in an hour or two is possible, along with strong winds and the chance of hail.\nAreas that do see a heavy downpour are at risk of flash flooding.\nThe scorched ground, dry grass and soil caused by the lack of rain is likely to cause significant pooling and runoff, as rainfall struggles to get absorbed during brief bursts of heavy rain.\nHail may accompany the most intense downpours which could come as a surprise following the predominantly hot and dry conditions.\nHail is most common in summer months as it needs to develop inside towering cumulonimbus clouds, which are often spawned by intense heat at ground level.\nWill there be another heatwave?\nFollowing one of the driest and hottest stretches of weather in the UK's history, the indications are that August is likely to bring more of the same.\nForecast models suggest low rainfall and above average temperatures will continue for much of the UK, meaning it is unlikely that any of the hosepipe bans affecting more than 20 million people in England and Wales will be lifted soon.\nWisley in Surrey remains the driest location in the UK, having recorded 47 consecutive days without measurable rainfall, while many other parts of the UK have had a fraction of their normal rainfall in June and July.\nFurther spikes of heat are likely, however as August wears on and the sun gradually loses some of its intensity, the likelihood of extreme temperatures in the high 30s lessens.\nBut it is not uncommon to have spells of intense heat reaching 30C or higher even into September.\nYou can see the latest forecast for the coming weeks here.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "by the Met Office for parts of Northern Ireland on Tuesday. It"
+    ],
+    [
+     "del",
+     "will run from 12:00 to"
+    ],
+    [
+     "ins",
+     "runs until"
+    ],
+    [
+     "eq",
+     "21:00, when up to 30mm of rain in an hour or two"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0127,
+  "numbers_changed": [
+   "00",
+   "12"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

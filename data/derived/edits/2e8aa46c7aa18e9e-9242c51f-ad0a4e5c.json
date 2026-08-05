@@ -1,0 +1,72 @@
+{
+ "id": "2e8aa46c7aa18e9e-9242c51f-ad0a4e5c",
+ "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-08-05T09:02:34Z",
+ "date": "2026-08-05",
+ "old_title": "US company's AI lets Ukraine's cheap kamikaze drones track targets on their own",
+ "new_title": "US company's AI lets Ukraine's cheap kamikaze drones track targets on their own",
+ "old_text": "Ukrainian drone operators have destroyed many Russian armored vehicles on the ground and even military helicopters in midair using $400 Shrike drones with explosive payloads. Now thousands of such drones are getting upgraded with an AI system capable of autonomously tracking and homing in on moving targets.\nIn mid-July, the Ukrainian military began receiving Shrike drones made by the Ukrainian company SkyFall equipped with AI-powered autonomy hardware and software developed by the US company Auterion. The companies plan to deliver 50,000 drones equipped with Auterion's Skynode S strike kits in the coming months.\nThat allows human operators to manually fly the Shrike first-person view (FPV) drones into a battlefield area, designate a target up to half a mile away and then \"flip the switch to turn it into fire-and-forget terminal guidance mode,\" Lorenz Meier, co-founder and CEO of Auterion, told Ars.\nThe operator can abort a strike or choose a different target as long as they have a radio signal connection with the drone, Meier explained. But the drone can still automatically track and fly into targets without any human guidance, even if it loses its connection with the operator due to buildings or terrain blocking the signal or because of enemy jamming on the same radio frequencies.\nTo home in on targets, Auterion's software relies solely on the visual information available from the Shrike drone's main onboard camera. That means the Shrike drones can track and strike moving targets without any reliance on GPS-a crucial advantage on modern battlefields where GPS jamming has also become common.\nThat could further enhance the success rate of remotely piloted Shrike drones that have already struck many vehicle-size targets since Russia launched the full-scale invasion of Ukraine in 2022, including armored tanks, electronic warfare systems, artillery guns, and rocket launchers. Shrike drones have reportedly taken down two Russian Mi-28 helicopters, each worth as much as $19 million, according to the Kyiv Independent.",
+ "new_text": "Ukrainian drone operators have destroyed many Russian armored vehicles on the ground and even military helicopters in midair using $400 Shrike drones with explosive payloads. Now thousands of such drones are getting upgraded with an AI system capable of autonomously tracking and homing in on moving targets.\nIn mid-July, the Ukrainian military began receiving Shrike drones made by the Ukrainian company SkyFall equipped with AI-powered autonomy hardware and software developed by the US company Auterion. The companies plan to deliver 50,000 drones equipped with Auterion's Skynode S strike kits in the coming months.\nThat allows human operators to manually fly the Shrike first-person view (FPV) drones into a battlefield area, designate a target up to half a mile away, and then \"flip the switch to turn it into fire-and-forget terminal guidance mode,\" Lorenz Meier, co-founder and CEO of Auterion, told Ars.\nThe operator can abort a strike or choose a different target as long as they have a radio signal connection with the drone, Meier explained. But the drone can still automatically track and fly into targets without any human guidance, even if it loses its connection with the operator due to buildings or terrain blocking the signal or because of enemy jamming on the same radio frequencies.\nTo home in on targets, Auterion's software relies solely on the visual information available from the Shrike drone's main onboard camera. That means the Shrike drones can track and strike moving targets without any reliance on GPS-a crucial advantage on modern battlefields, where GPS jamming has also become common.\nThat could further enhance the success rate of remotely piloted Shrike drones that have already struck many vehicle-size targets since Russia launched the full-scale invasion of Ukraine in 2022, including armored tanks, electronic warfare systems, artillery guns, and rocket launchers. Shrike drones have reportedly taken down two Russian Mi-28 helicopters, each worth as much as $19 million, according to the Kyiv Independent.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "into a battlefield area, designate a target up to half a mile"
+    ],
+    [
+     "del",
+     "away"
+    ],
+    [
+     "ins",
+     "away,"
+    ],
+    [
+     "eq",
+     "and then \"flip the switch to turn it into fire-and-forget terminal guidance"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "strike moving targets without any reliance on GPS-a crucial advantage on modern"
+    ],
+    [
+     "del",
+     "battlefields"
+    ],
+    [
+     "ins",
+     "battlefields,"
+    ],
+    [
+     "eq",
+     "where GPS jamming has also become common. That could further enhance the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0125,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,104 @@
+{
+ "id": "ac8cbbb3e68fc661-a204e4da-b398d515",
+ "url": "https://www.independent.co.uk/tech/whatsapp-down-photos-not-sending-b3027016.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-05T08:50:28Z",
+ "date": "2026-08-05",
+ "old_title": "WhatsApp stops sending photos in major outage",
+ "new_title": "WhatsApp stops sending photos in major outage",
+ "old_text": "WhatsApp has been hit by a major outage, during which users found themselves unable to send photos.\nThe messaging app broke overnight UK time - and users found that it was misbehaving in one specific way, not allowing them to send images to friends. Videos and the app's sticker feature also seemed to be affected.\nThe problem appeared to be fixed by the morning.\nBut in the meantime vast numbers of users complained about the problem, according to tracking website Down Detector. It showed a spike in issues around 10.30pm UK time.\nUnlike many other major services, WhatsApp does not operate a status page to give users updates on such outages.\nThe issue appeared to be specifically with delivering multimedia, with many users reporting that normal messages continued to send.\nThe problems also did not appear to extend to other Meta services, such as Facebook and Instagram. Parent company Meta has been moving the various services so the they use the same infrastructure behind-the-scenes, which can sometimes mean that an outage can affect all of its various platforms at once.",
+ "new_text": "WhatsApp has been hit by a major outage, during which users found themselves unable to send photos.\nThe messaging app broke overnight UK time - and users found that it was misbehaving in one specific way, not allowing them to send images to friends. Videos and the app's sticker feature also seemed to be affected.\nThe problem appeared to be fixed by the morning.\nBut in the meantime, vast numbers of users complained about the problem, according to tracking website Down Detector. It showed a spike in issues around 10.30pm UK time.\nUnlike many other major services, WhatsApp, which says it has more than three billion users globally, does not operate a status page to give users updates on such outages.\nThe issue appeared to be specifically with delivering multimedia, with many users reporting that normal messages continued to send.\nThe problems also did not appear to extend to other Meta services, such as Facebook and Instagram. Parent company Meta has been moving the various services so they use the same infrastructure behind the scenes, which can sometimes mean that an outage can affect all of its various platforms at once.\nIn June, WhatsApp announced users would soon get the option of going by usernames instead of phone numbers to address a privacy blind spot.\nThe app said it has started allowing users to reserve unique usernames, which can be used to contact WhatsApp users when the feature is launched later this year.\nWhatsApp has until now allowed users to be contacted by anyone who has their phone number. The app said in a blog post that over the \"coming months\" users will get the option to be found and contacted only by their username, and not their number. It wasn't more specific about the timeline.\n\"We have designed this as a core privacy feature,\" Alice Newton-Rex, WhatsApp's vice president of product, said\nThere won't be a directory of usernames on the app, and the app won't suggest names as you type.\n\"People will need to know your exact username to contact you for the first time,\" she said.\nWhatsApp's current privacy settings are limited to blocking individual users and silencing unknown callers. The app also allows users to add a profile name, but that's only displayed in chat groups for other people who don't have the user's contact info saved.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "The problem appeared to be fixed by the morning. But in the"
+    ],
+    [
+     "del",
+     "meantime"
+    ],
+    [
+     "ins",
+     "meantime,"
+    ],
+    [
+     "eq",
+     "vast numbers of users complained about the problem, according to tracking website"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "spike in issues around 10.30pm UK time. Unlike many other major services,"
+    ],
+    [
+     "del",
+     "WhatsApp"
+    ],
+    [
+     "ins",
+     "WhatsApp, which says it has more than three billion users globally,"
+    ],
+    [
+     "eq",
+     "does not operate a status page to give users updates on such"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and Instagram. Parent company Meta has been moving the various services so"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "eq",
+     "they use the same infrastructure"
+    ],
+    [
+     "del",
+     "behind-the-scenes,"
+    ],
+    [
+     "ins",
+     "behind the scenes,"
+    ],
+    [
+     "eq",
+     "which can sometimes mean that an outage can affect all of its various platforms at once."
+    ],
+    [
+     "ins",
+     "In June, WhatsApp announced users would soon get the option of going by usernames instead of phone numbers to address a privacy blind spot. The app said it has started allowing users to reserve unique usernames, which can be used to contact WhatsApp users when the feature is launched later this year. WhatsApp has until now allowed users to be contacted by anyone who has their phone number. The app said in a blog post that over the \"coming months\" users will get the option to be found and contacted only by their username, and not their number. It wasn't more specific about the timeline. \"We have designed this as a core privacy feature,\" Alice Newton-Rex, WhatsApp's vice president of product, said There won't be a directory of usernames on the app, and the app won't suggest names as you type. \"People will need to know your exact username to contact you for the first time,\" she said. WhatsApp's current privacy settings are limited to blocking individual users and silencing unknown callers. The app also allows users to add a profile name, but that's only displayed in chat groups for other people who don't have the user's contact info saved."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.2167,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.627,
+ "similarity": 0.9405,
+ "adjudicated_by": "rules"
+}

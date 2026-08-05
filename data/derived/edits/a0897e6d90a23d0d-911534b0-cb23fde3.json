@@ -1,0 +1,70 @@
+{
+ "id": "a0897e6d90a23d0d-911534b0-cb23fde3",
+ "url": "https://finance.yahoo.com/technology/ai/articles/booming-aws-revenue-shields-amazon-040100416.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-05T08:55:44Z",
+ "date": "2026-08-05",
+ "old_title": "Booming AWS Revenue Shields Amazon From Meta-Sized Backlash",
+ "new_title": "Booming AWS Revenue Shields Amazon From Meta-Sized Backlash",
+ "old_text": "Concerned about an AI bubble? Sign up for The Daily Upside for smart and actionable market news, built for investors.\nIn an earnings call key to soothing skittish investors, the world's biggest company by revenue arrived with its head in the clouds. And that was just fine by Wall Street.\nShares of Amazon jumped as much as 9% in after-hours trading Thursday after second-quarter earnings results that included rip-roaring cloud revenue, demonstrating the world still can't get enough compute. Investors took it as a sign that generating a return on enormous artificial intelligence investments is possible, which is more than can be said about some fellow hyperscalers.\nREAD ALSO: Zach Dell (Yes, That Dell) Charges Up a $13 Billion Backyard Battery Startup and 'Huh?' Markets React to AstraZeneca's Megadeal Talks With Bristol Myers\nTipping of the Hyperscales\nJittery investors are finally starting to get an idea of what they do and do not like to see from Big Tech hyperscalers. Meta plummeted nearly 8% on Thursday following its after-the-bell earnings call the day before, in which executives increased the lower end of its capex forecast even as AI spending was already eating into its free cash flow. Microsoft, on the other hand, had its best trading day since 2008 on Thursday: Shares of the Windows-maker jumped more than 15% after it held capex guidance steady on Wednesday and reported that demand for AI compute pushed annual revenue for its Azure cloud business past $100 billion for the first time ever in fiscal 2026, which ended in June.\nThe reaction to Amazon's results was considerably closer to investors' reception of Microsoft's performance than to Meta's. CEO Andy Jassy hiked the company's capex guidance about 10% to $220 billion. That's more than both Meta and Microsoft, and roughly on par with Google's recently increased capex guidance (which scared Wall Street last week). But investors, for now, saw enough from a booming cloud business and signs that the AI bet is actually paying off to stay upbeat:\n- Revenue for Amazon Web Services, the largest cloud provider in the world, jumped 37% year over year to $42.2 billion. That's the fifth straight quarter of accelerating AWS growth, and the fastest growth rate in 18 quarters.\n- Meanwhile, Amazon said both AWS's AI business and the company's burgeoning in-house chips business surpassed $25 billion annual run rates in the quarter, with both marking triple-digit growth rates year over year.",
+ "new_text": "Concerned about an AI bubble? Sign up for The Daily Upside for smart and actionable market news, built for investors.\nIn an earnings call key to soothing skittish investors, the world's biggest company by revenue arrived with its head in the clouds. And that was just fine by Wall Street.\nShares of Amazon jumped as much as 9% in after-hours trading Thursday after second-quarter earnings results that included rip-roaring cloud revenue, demonstrating the world still can't get enough compute. Investors took it as a sign that generating a return on enormous artificial intelligence investments is possible, which is more than can be said about some fellow hyperscalers.\nREAD ALSO: Caterpillar's Surging Growth, Fueled by AI, Faces Risks From Data-Center Pushback and S&P Hits Record High as 86% of Members Blow Past Wall Street Forecasts\nTipping of the Hyperscales\nJittery investors are finally starting to get an idea of what they do and do not like to see from Big Tech hyperscalers. Meta plummeted nearly 8% on Thursday following its after-the-bell earnings call the day before, in which executives increased the lower end of its capex forecast even as AI spending was already eating into its free cash flow. Microsoft, on the other hand, had its best trading day since 2008 on Thursday: Shares of the Windows-maker jumped more than 15% after it held capex guidance steady on Wednesday and reported that demand for AI compute pushed annual revenue for its Azure cloud business past $100 billion for the first time ever in fiscal 2026, which ended in June.\nThe reaction to Amazon's results was considerably closer to investors' reception of Microsoft's performance than to Meta's. CEO Andy Jassy hiked the company's capex guidance about 10% to $220 billion. That's more than both Meta and Microsoft, and roughly on par with Google's recently increased capex guidance (which scared Wall Street last week). But investors, for now, saw enough from a booming cloud business and signs that the AI bet is actually paying off to stay upbeat:\n- Revenue for Amazon Web Services, the largest cloud provider in the world, jumped 37% year over year to $42.2 billion. That's the fifth straight quarter of accelerating AWS growth, and the fastest growth rate in 18 quarters.\n- Meanwhile, Amazon said both AWS's AI business and the company's burgeoning in-house chips business surpassed $25 billion annual run rates in the quarter, with both marking triple-digit growth rates year over year.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "is more than can be said about some fellow hyperscalers. READ ALSO:"
+    ],
+    [
+     "del",
+     "Zach Dell (Yes, That Dell) Charges Up a $13 Billion Backyard Battery Startup"
+    ],
+    [
+     "ins",
+     "Caterpillar's Surging Growth, Fueled by AI, Faces Risks From Data-Center Pushback"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "'Huh?' Markets React to AstraZeneca's Megadeal Talks With Bristol Myers"
+    ],
+    [
+     "ins",
+     "S&P Hits Record High as 86% of Members Blow Past Wall Street Forecasts"
+    ],
+    [
+     "eq",
+     "Tipping of the Hyperscales Jittery investors are finally starting to get an"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.116,
+  "numbers_changed": [
+   "13",
+   "86"
+  ],
+  "market_figures_changed": [
+   "$13 Billion",
+   "86%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.75,
+ "similarity": 0.9186,
+ "adjudicated_by": "rules"
+}

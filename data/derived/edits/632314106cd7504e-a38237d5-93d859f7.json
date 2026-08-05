@@ -1,0 +1,52 @@
+{
+ "id": "632314106cd7504e-a38237d5-93d859f7",
+ "url": "https://www.dw.com/en/three-lions-die-of-heatstroke-at-tokyo-zoo/a-78226382?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-05T08:47:35Z",
+ "date": "2026-08-05",
+ "old_title": "Three lions die of heatstroke at Tokyo zoo",
+ "new_title": "Three lions die of heatstroke at Tokyo zoo",
+ "old_text": "Tama Zoo in Tokyo announced on Tuesday that three lions have died in the past week due to suspected complications from heatstroke as Japan swelters.\nOn its website, the zoo said that it was suspending the entire lion exhibit \"due to the emergence of several lions requiring treatment for poor health, primarily characterized by loss of appetite, fatigue, and decreased activity... Some lions became severely ill, exhibiting symptoms such as inability to stand and loss of consciousness,\" before passing away.\nTen of the organization's 16 lions are currently unwell, they said, adding that although lions have evolved to deal with dry African heat, Japanese humidity presents additional challenges.\n'Cruelly hot' days\nJapan has seen temperatures of 40 degrees Celsius (104 Fahrenheit) in recent weeks, leading to the government to adopt the term \"cruelly hot day\" for policy-making purposes.\nNearly 18,600 people were treated for heatstroke in Japanese hospitals in late July, national health officials have confirmed, saying that 45 of the victims had already died before they could be treated.\nThis summer has seen a series of extreme weather events across the globe, which are becoming more frequent as climate change worsens.\nNearby South Korea has also seen a substantial heatwave in recent days, with President Lee Jae\nMyung urging authorities to step up support for the population after some 16 people died from heat-related causes.\nEdited by: Saim Dušan Inayatullah\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "Tama Zoo in Tokyo announced on Tuesday that three lions have died in the past week due to suspected complications from heatstroke as Japan swelters.\nOn its website, the zoo said that it was suspending the entire lion exhibit \"due to the emergence of several lions requiring treatment for poor health, primarily characterized by loss of appetite, fatigue, and decreased activity... Some lions became severely ill, exhibiting symptoms such as inability to stand and loss of consciousness,\" before passing away.\nTen of the organization's 16 lions are currently unwell, they said, adding that although lions have evolved to deal with dry African heat, Japanese humidity presents additional challenges.\n'Cruelly hot' days\nJapan has seen temperatures of 40 degrees Celsius (104 Fahrenheit) in recent weeks, leading to the government to adopt the term \"cruelly hot day\" for policy-making purposes.\nNearly 18,600 people were treated for heatstroke in Japanese hospitals in late July, national health officials have confirmed, saying that 45 of the victims had already died before they could be treated.\nThis summer has seen a series of extreme weather events across the globe, which are becoming more frequent as climate change worsens.\nNearby South Korea has also seen a substantial heat wave in recent days, with President Lee Jae\nMyung urging authorities to step up support for the population after some 16 people died from heat-related causes.\nEdited by: Saim Dušan Inayatullah\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "as climate change worsens. Nearby South Korea has also seen a substantial"
+    ],
+    [
+     "del",
+     "heatwave"
+    ],
+    [
+     "ins",
+     "heat wave"
+    ],
+    [
+     "eq",
+     "in recent days, with President Lee Jae Myung urging authorities to step"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0108,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

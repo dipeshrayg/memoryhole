@@ -1,0 +1,74 @@
+{
+ "id": "d270b1845fe1ac3a-abb5cb34-d7ee32e5",
+ "url": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-05T08:54:07Z",
+ "date": "2026-08-05",
+ "old_title": "Half price rail travel extended to 18-year-olds",
+ "new_title": "Half-price rail travel extended to 18-year-olds",
+ "old_text": "- Published\nEighteen-year-olds will be able to buy half-price train tickets for most services when railcard rules are changed later this month, the Department for Transport (DfT) has announced.\nIt's an extension of the 16-17 Saver railcard which currently expires when the holder turns 18. From 17 August, they will be valid for a full year from the date of purchase.\nIt means 17-year-olds will be able to buy the railcard up until the day before they turn 18, making it valid until the day before they turn 19.\nThe existing rule meant more than 70,000 students each year were an average of Â£175 worse off than those in the same academic year who hadn't yet had their 18th birthday, the DfT said.\nThe 16-17 Saver Railcard costs Â£35 per year and entitles the holder to 50% off most train fares.\nRail minister Lord Hendy claimed this \"common sense change\" is \"exactly what passengers should expect from the railway\".\nHe said the change would \"lower the cost of travel at a critical time for teenagers, whether they're pursuing further education, vocational pathways or getting their footing in the jobs market\".\nJacqueline Starr, chief executive of industry body the Rail Delivery Group, said the change demonstrates the sector's commitment to \"offering better value fares and delivering a more joined-up railway\".\nKaynat Ahmad, vice president for further education at the National Union of Students, described the railcard as \"essential for young people reliant on trains to get to college, work or training\".\nEighteen-year-olds were already entitled to a 16-25 Railcard, but that only entitles them to a third off the cost of travel.\nThe announcement comes after the government said the cap on most single bus fares in England will be cut from Â£3 to Â£2 next year.",
+ "new_text": "- Published\nEighteen-year-olds will be able to buy half-price train tickets for most services when railcard rules are changed later this month, the Department for Transport (DfT) has announced.\nIt's an extension of the 16-17 Saver railcard which currently expires when the holder turns 18. From 17 August, they will be valid for a full year from the date of purchase.\nIt means 17-year-olds will be able to buy the railcard up until the day before they turn 18, making it valid until the day before they turn 19.\nSeventeen-year old Lily-Mae from Blackpool told the BBC the move would save her \"a few hundred [pounds] a year\".\nShe uses the train to travel regularly from Blackpool North to Preston and Manchester.\n\"I have been planning to see my boyfriend and my friends, and it's just not really happened because of the price of the trains,\" she said.\n\"Also getting to college for me is hard as I go to a college in Preston, but I live in a different town, so now I won't have to save as much money to get there.\"\nThe existing rule meant more than 70,000 students each year were an average of Â£175 worse off than those in the same academic year who hadn't yet had their 18th birthday, the DfT said.\nThe 16-17 Saver Railcard costs Â£35 per year and entitles the holder to 50% off most train fares.\nRail minister Lord Hendy claimed this \"common sense change\" is \"exactly what passengers should expect from the railway\".\nHe said the change would \"lower the cost of travel at a critical time for teenagers, whether they're pursuing further education, vocational pathways or getting their footing in the jobs market\".\nJacqueline Starr, chief executive of industry body the Rail Delivery Group, said the change demonstrates the sector's commitment to \"offering better value fares and delivering a more joined-up railway\".\nKaynat Ahmad, vice president for further education at the National Union of Students, described the railcard as \"essential for young people reliant on trains to get to college, work or training\".\nEighteen-year-olds were already entitled to a 16-25 Railcard, but that only entitles them to a third off the cost of travel.\nThe government said the measure would be paid for through increased train ridership, with more passengers as a result of more people being able to access the discounted fares.\nThe announcement comes after the government said the cap on most single bus fares in England will be cut from Â£3 to Â£2 next year.\n'It opens a lot of doors'\nAvery, 17, from Somerset, said the extension was a \"welcome change\".\nHaving a September birthday means Avery is the oldest of their Sixth Form class but also causes them to \"miss out on all the benefits of being young\".\n\"Â£35 a year for half off rail travel really opens a lot of doors,\" they told the BBC.\n\"One trip to London and it's paid itself off since travelling by train in the UK gets so expensive the moment you turn 16.\"\nAdditional reporting by Kris Bramwell.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "turn 18, making it valid until the day before they turn 19."
+    ],
+    [
+     "ins",
+     "Seventeen-year old Lily-Mae from Blackpool told the BBC the move would save her \"a few hundred [pounds] a year\". She uses the train to travel regularly from Blackpool North to Preston and Manchester. \"I have been planning to see my boyfriend and my friends, and it's just not really happened because of the price of the trains,\" she said. \"Also getting to college for me is hard as I go to a college in Preston, but I live in a different town, so now I won't have to save as much money to get there.\""
+    ],
+    [
+     "eq",
+     "The existing rule meant more than 70,000 students each year were an"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "only entitles them to a third off the cost of travel. The"
+    ],
+    [
+     "ins",
+     "government said the measure would be paid for through increased train ridership, with more passengers as a result of more people being able to access the discounted fares. The"
+    ],
+    [
+     "eq",
+     "announcement comes after the government said the cap on most single bus fares in England will be cut from Â£3 to Â£2 next year."
+    ],
+    [
+     "ins",
+     "'It opens a lot of doors' Avery, 17, from Somerset, said the extension was a \"welcome change\". Having a September birthday means Avery is the oldest of their Sixth Form class but also causes them to \"miss out on all the benefits of being young\". \"Â£35 a year for half off rail travel really opens a lot of doors,\" they told the BBC. \"One trip to London and it's paid itself off since travelling by train in the UK gets so expensive the moment you turn 16.\" Additional reporting by Kris Bramwell."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.7297,
+  "numbers_changed": [
+   "16",
+   "17",
+   "35"
+  ],
+  "market_figures_changed": [
+   "£35"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.82,
+ "similarity": 0.8166,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,124 @@
+{
+ "id": "0470677083c90b9b-d9b6c44d-4c8193c9",
+ "url": "https://www.france24.com/en/middle-east/20260804-middle-east-live-cargo-ship-hit-by-unknown-projectile-in-strait-of-hormuz",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-05T08:48:27Z",
+ "date": "2026-08-05",
+ "old_title": "Middle East live: Cargo ship hit by 'unknown projectile' in Strait of Hormuz",
+ "new_title": "US hopeful Hormuz strait deal with Iran will be done 'very shortly'",
+ "old_text": "Middle East live: Cargo ship hit by 'unknown projectile' in Strait of Hormuz\nEarly Tuesday, Britain's maritime security agency UKMTO said that a cargo vessel was struck by an \"unknown projectile\" in the Strait of Hormuz off the coast of Oman. US President Donald Trump said Monday that negotiations with Iran were ongoing despite Tehran's denials and the Islamic Republic was facing a \"last chance before decapitation\". Follow our liveblog for the latest updates.\n- US President Donald Trump said Sunday he decided to hold off on ordering American forces to carry out new strikes against Iran at the urging of Gulf allies Qatar, Saudi Arabia and the United Arab Emirates.\n- Israel has conveyed concerns to the United States on a Gaza plan hailed by President Donald Trump after Hamas said it had agreed on disarmament, Prime Minister Benjamin Netanyahu's office said Monday.\n- Iran's foreign ministry said there were currently no negotiations with the United States, but there were talks with Oman over the management of the strategic Strait of Hormuz.\n(FRANCE 24 with AFP, AP, Reuters)",
+ "new_text": "US hopeful Hormuz strait deal with Iran will be done 'very shortly'\nUS Secretary of State Marco Rubio said Tuesday that while progress had been made in discussions with Iran and Oman on getting more ships through the Strait of Hormuz, no final agreement had been reached. \"There's been progress made in those talks, but not finality yet. We're hoping that will happen very shortly,\" Rubio told reporters at the State Department. Read our liveblog to see how the day's events unfolded.\n- US President Donald Trump said Sunday he decided to hold off on ordering American forces to carry out new strikes against Iran at the urging of Gulf allies Qatar, Saudi Arabia and the United Arab Emirates.\n- Israel has conveyed concerns to the United States on a Gaza plan hailed by Trump after Hamas said it had agreed on disarmament, Prime Minister Benjamin Netanyahu's office said Monday.\n- Iran's foreign ministry said there were currently no negotiations with the United States, but there were talks with Oman over the management of the strategic Strait of Hormuz.\n(FRANCE 24 with AFP, AP, Reuters)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Middle East live: Cargo ship hit by 'unknown projectile'"
+    ],
+    [
+     "ins",
+     "US hopeful Hormuz strait deal with Iran will be done 'very shortly' US Secretary of State Marco Rubio said Tuesday that while progress had been made"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "Strait of Hormuz Early Tuesday, Britain's maritime security agency UKMTO said that a cargo vessel was struck by an \"unknown projectile\" in"
+    ],
+    [
+     "ins",
+     "discussions with Iran and Oman on getting more ships through"
+    ],
+    [
+     "eq",
+     "the Strait of"
+    ],
+    [
+     "del",
+     "Hormuz off"
+    ],
+    [
+     "ins",
+     "Hormuz, no final agreement had been reached. \"There's been progress made in those talks, but not finality yet. We're hoping that will happen very shortly,\" Rubio told reporters at"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "coast of Oman. US President Donald Trump said Monday that negotiations with Iran were ongoing despite Tehran's denials and the Islamic Republic was facing a \"last chance before decapitation\". Follow"
+    ],
+    [
+     "ins",
+     "State Department. Read"
+    ],
+    [
+     "eq",
+     "our liveblog"
+    ],
+    [
+     "del",
+     "for"
+    ],
+    [
+     "ins",
+     "to see how"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "latest updates."
+    ],
+    [
+     "ins",
+     "day's events unfolded."
+    ],
+    [
+     "eq",
+     "- US President Donald Trump said Sunday he decided to hold off"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "conveyed concerns to the United States on a Gaza plan hailed by"
+    ],
+    [
+     "del",
+     "President Donald"
+    ],
+    [
+     "eq",
+     "Trump after Hamas said it had agreed on disarmament, Prime Minister Benjamin"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.7933,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 1,
+  "blocks_added": 0,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.218,
+ "similarity": 0.8753,
+ "adjudicated_by": "rules"
+}

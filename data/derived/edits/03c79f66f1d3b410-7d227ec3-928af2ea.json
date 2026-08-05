@@ -1,0 +1,87 @@
+{
+ "id": "03c79f66f1d3b410-7d227ec3-928af2ea",
+ "url": "https://www.aljazeera.com/news/2026/8/4/us-arrests-suspect-over-spokane-wildfire-as-tens-of-thousands-flee-blaze?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-05T08:46:35Z",
+ "date": "2026-08-05",
+ "old_title": "US arrests suspect over Spokane wildfire as tens of thousands flee blaze",
+ "new_title": "US arrests suspect over Spokane wildfire as tens of thousands flee blaze",
+ "old_text": "US authorities have arrested a man on suspicion of arson in connection with the largest of three wildfires burning around the northwestern city of Spokane in Washington state, where tens of thousands of people have been forced to evacuate.\nAaron Farinacci, 37, was arrested on Monday in connection with the Old Trails fire and charged with first-degree arson. He is being held on a $1m bond after a witness allegedly saw him kneeling in grass where the fire is believed to have started, Spokane County Sheriff John Nowels told reporters on Monday.\nRecommended Stories\nlist of 4 items\n- list 1 of 4Salvadoran man dies in ICE custody at New Jersey detention centre\n- list 2 of 4Pochettino agrees to coach men's US Soccer through 2030 World Cup\n- list 3 of 4Colombia's Petro repeats vote fraud claims days before handing over power\n- list 4 of 4Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal\nThe arrest came as firefighters continued battling blazes that have scorched large areas around Spokane, a city of about 230,000 people near the Idaho border.\nThe fires have burned a combined 8,026 acres (3,248 hectares), according to the federal interagency fire information system InciWeb. Officials said aerial assessments indicate between 700 and 1,110 structures have been destroyed since the fires erupted over the weekend.\nAuthorities said about 65,000 people have been displaced by the fires. No injuries have been reported, although officials are attempting to contact 14 people they have been unable to reach by mobile phone. Sheriff Nowels said they are not currently considered missing.\nScientists say human-caused climate change is increasing the frequency and intensity of wildfires by driving higher temperatures, prolonged drought and drier vegetation.\nDaniel Swain, a climatologist at the University of California, Los Angeles, said eastern Washington had experienced one of its warmest winters on record, resulting in a severe snow drought that helped set the stage for this year's fires.\n\"This is a recurring pattern we're seeing now over and over and over again, starting in the second decade of the 21st century, and now continuing essentially every year,\" Swain said during an online briefing.\nExtreme heat and wildfire conditions are also affecting other parts of the world. Heat alerts remain in place across much of Japan, while South Korea recorded its hottest temperature on record. Wildfires have forced evacuations in parts of Greece and continue to threaten areas of Spain and France. Elsewhere, in North Africa, firefighters have also battled major blazes in Tunisia, Algeria and Morocco.",
+ "new_text": "US authorities have arrested a man on suspicion of arson in connection with the largest of three wildfires burning around the northwestern city of Spokane in Washington state, where tens of thousands of people have been forced to evacuate.\nAaron Farinacci, 37, was arrested on Monday in connection with the Old Trails fire and charged with first-degree arson. He is being held on a $1m bond after a witness allegedly saw him kneeling in grass where the fire is believed to have started, Spokane County Sheriff John Nowels told reporters on Monday.\nRecommended Stories\nlist of 4 items\n- list 1 of 4Salvadoran man dies in ICE custody at New Jersey detention centre\n- list 2 of 4Pochettino agrees to coach men's US Soccer through 2030 World Cup\n- list 3 of 4Colombia's Petro repeats vote fraud claims days before handing over power\n- list 4 of 4Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal\nFarinacci, then 21, went to prison in 2010 for shooting and killing his father in Mesa, Arizona, during a 2010 argument about washing dishes, police said. Farinacci also shot himself but survived.\nHe was charged with murder but pleaded guilty in 2012 to manslaughter and aggravated assault, records show. Farinacci was released from prison in 2020.\nFarinacci's arrest came as firefighters continued battling blazes that have scorched large areas around Spokane, a city of about 230,000 people near the Idaho border.\nThe fires have burned a combined 8,026 acres (3,248 hectares), according to the federal interagency fire information system InciWeb. Officials said aerial assessments indicate between 700 and 1,110 structures have been destroyed since the fires erupted over the weekend.\nAuthorities said about 67,000 people have been displaced by the fires. No major injuries have been reported, although officials are attempting to contact 14 people they have been unable to reach by mobile phone. Sheriff Nowels said they are not currently considered missing.\nScientists say human-caused climate change is increasing the frequency and intensity of wildfires by driving higher temperatures, prolonged drought and drier vegetation.\nDaniel Swain, a climatologist at the University of California, Los Angeles, said eastern Washington had experienced one of its warmest winters on record, resulting in a severe snow drought that helped set the stage for this year's fires.\n\"This is a recurring pattern we're seeing now over and over and over again, starting in the second decade of the 21st century, and now continuing essentially every year,\" Swain said during an online briefing.\nExtreme heat and wildfire conditions are also affecting other parts of the world. Heat alerts remain in place across much of Japan, while South Korea recorded its hottest temperature on record. Wildfires have forced evacuations in parts of Greece and continue to threaten areas of Spain and France. Elsewhere, in North Africa, firefighters have also battled major blazes in Tunisia, Algeria and Morocco.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "of 4Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal"
+    ],
+    [
+     "del",
+     "The"
+    ],
+    [
+     "ins",
+     "Farinacci, then 21, went to prison in 2010 for shooting and killing his father in Mesa, Arizona, during a 2010 argument about washing dishes, police said. Farinacci also shot himself but survived. He was charged with murder but pleaded guilty in 2012 to manslaughter and aggravated assault, records show. Farinacci was released from prison in 2020. Farinacci's"
+    ],
+    [
+     "eq",
+     "arrest came as firefighters continued battling blazes that have scorched large areas"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "been destroyed since the fires erupted over the weekend. Authorities said about"
+    ],
+    [
+     "del",
+     "65,000"
+    ],
+    [
+     "ins",
+     "67,000"
+    ],
+    [
+     "eq",
+     "people have been displaced by the fires. No"
+    ],
+    [
+     "ins",
+     "major"
+    ],
+    [
+     "eq",
+     "injuries have been reported, although officials are attempting to contact 14 people"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1445,
+  "numbers_changed": [
+   "2010",
+   "2012",
+   "2020",
+   "21",
+   "65,000",
+   "67,000"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.644,
+ "similarity": 0.9376,
+ "adjudicated_by": "rules"
+}

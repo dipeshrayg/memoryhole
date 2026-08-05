@@ -1,0 +1,110 @@
+{
+ "id": "f60b58858249576d-6020650b-66dbee0b",
+ "url": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-05T08:54:03Z",
+ "date": "2026-08-05",
+ "old_title": "Spider-Man: Brand New Day sees second-biggest ever global opening weekend",
+ "new_title": "Spider-Man: Brand New Day sees second-biggest ever global opening weekend",
+ "old_text": "- Published\nSpider-Man: Brand New Day brought in $927m (Â£687m) of global ticket sales to make it the second-biggest opening weekend ever as it shot past its estimated $225m production budget.\nThe superhero movie - starring real-life husband and wife Tom Holland and Zendaya - is only behind Avengers: Endgame, which took in more than $1.2bn in its opening weekend in 2019.\nBrand New Day also set a second-best North American record, with box office takings of $335m.\nThe film's strong performance gives a much-needed boost for Marvel Studios ahead of the highly-anticipated December release of Avengers: Doomsday, after a string of Marvel movies under-performed in recent years.\nBrand New Day, which opened in cinemas last week, picks up a few years after 2021's Spider-Man: No Way Home as Peter Parker continues to fight crime in a world that has forgotten he is the masked superhero.\nThe latest instalment of the hugely popular franchise received largely positive reviews, with some calling it Holland's best Spider-Man performance yet.\nBrand New Day made $572m from more than 73,000 screens outside the US, including $121m from China, distributor Sony Pictures said. That included $49m in UK ticket sales over the weekend.\nMarvel Studios president Kevin Feige said the opening of Brand New Day was \"truly phenomenal\", adding that he was grateful to audiences for \"coming out and experiencing our film the way it was meant to be seen.\"\nThe film is Marvel's last big-screen outing before Doomsday, the long-awaited culmination of multiple superhero story arcs after Avengers: Endgame.\nMarvel films released since Endgame have struggled to attract the same broad audiences as they did at their peak.\nBig budget films like The Marvels and Thunderbolts recouped their production costs but were among the studio's lowest-grossing films.\nSpider-Man remains one of Marvel's most lucrative franchises, with No Way Home making nearly $2bn in ticket sales.\nCinema attendance has slowed since the Covid-19 pandemic, which accelerated the shift to home-streaming options like Netflix.\nBut the big screen has staged something of a comeback this year, with the North American box office takings on track to pass $10bn for the first time since 2019.\nThat was helped by blockbuster hits by including Toy Story 5, Michael, and The Super Mario Galaxy Movie - which have made more than $1bn each.\nJuly releases Brand New Day and The Odyssey - director Christopher Nolan's take on the epic Greek poem - are also on track to top the $1bn mark.\nIndie horror flicks Obsession and Backrooms emerged as surprise successes, bringing in more than $390m each despite their modest budgets.",
+ "new_text": "- Published\nSpider-Man: Brand New Day brought in $927m (Â£687m) of global ticket sales to make it the second-biggest opening weekend ever globally.\nThe superhero movie - starring real-life husband and wife Tom Holland and Zendaya - is only behind Avengers: Endgame, which took in more than $1.2bn in its opening weekend in 2019.\nBrand New Day also set a North American record, with box office takings of $360m (Â£268m) making it the biggest opening weekend ever in the US and Canada.\nThe film's strong performance gives a much-needed boost for Marvel Studios ahead of the highly-anticipated December release of Avengers: Doomsday, after a string of Marvel movies under-performed in recent years.\nBrand New Day's early takings mean it shot past its estimated $225m (Â£167m) production budget in its first weekend.\nThe film, which opened in cinemas last week, picks up a few years after 2021's Spider-Man: No Way Home as Peter Parker continues to fight crime in a world that has forgotten he is the masked superhero.\nThe latest instalment of the hugely popular franchise received largely positive reviews, with some calling it Holland's best Spider-Man performance yet.\nBrand New Day made $572m from more than 73,000 screens outside the US, including $121m from China, distributor Sony Pictures said. That included $49m in UK ticket sales over the weekend.\nMarvel Studios president Kevin Feige said the opening of Brand New Day was \"truly phenomenal\", adding that he was grateful to audiences for \"coming out and experiencing our film the way it was meant to be seen.\"\nThe film is Marvel's last big-screen outing before Doomsday, the long-awaited culmination of multiple superhero story arcs after Avengers: Endgame.\nMarvel films released since Endgame have struggled to attract the same broad audiences as they did at their peak.\nBig budget films like The Marvels and Thunderbolts recouped their production costs but were among the studio's lowest-grossing films.\nSpider-Man remains one of Marvel's most lucrative franchises, with No Way Home making nearly $2bn in ticket sales.\nCinema attendance has slowed since the Covid-19 pandemic, which accelerated the shift to home-streaming options like Netflix.\nBut the big screen has staged something of a comeback this year, with the North American box office takings on track to pass $10bn for the first time since 2019.\nThat was helped by blockbuster hits by including Toy Story 5, Michael, and The Super Mario Galaxy Movie - which have made more than $1bn each.\nJuly releases Brand New Day and The Odyssey - director Christopher Nolan's take on the epic Greek poem - are also on track to top the $1bn mark.\nIndie horror flicks Obsession and Backrooms emerged as surprise successes, bringing in more than $390m each despite their modest budgets.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "of global ticket sales to make it the second-biggest opening weekend ever"
+    ],
+    [
+     "del",
+     "as it shot past its estimated $225m production budget."
+    ],
+    [
+     "ins",
+     "globally."
+    ],
+    [
+     "eq",
+     "The superhero movie - starring real-life husband and wife Tom Holland and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "in its opening weekend in 2019. Brand New Day also set a"
+    ],
+    [
+     "del",
+     "second-best"
+    ],
+    [
+     "eq",
+     "North American record, with box office takings of"
+    ],
+    [
+     "del",
+     "$335m."
+    ],
+    [
+     "ins",
+     "$360m (Â£268m) making it the biggest opening weekend ever in the US and Canada."
+    ],
+    [
+     "eq",
+     "The film's strong performance gives a much-needed boost for Marvel Studios ahead"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "after a string of Marvel movies under-performed in recent years. Brand New"
+    ],
+    [
+     "del",
+     "Day,"
+    ],
+    [
+     "ins",
+     "Day's early takings mean it shot past its estimated $225m (Â£167m) production budget in its first weekend. The film,"
+    ],
+    [
+     "eq",
+     "which opened in cinemas last week, picks up a few years after"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1065,
+  "numbers_changed": [
+   "167",
+   "268",
+   "335",
+   "360"
+  ],
+  "market_figures_changed": [
+   "$335m",
+   "$360m",
+   "£167m",
+   "£268m"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.25,
+ "similarity": 0.9818,
+ "adjudicated_by": "rules"
+}
