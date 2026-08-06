@@ -1,0 +1,153 @@
+{
+ "id": "88d90f4224b5f1c7-2b54294c-5d51e0dc",
+ "url": "https://finance.yahoo.com/markets/crypto/articles/invested-1-000-gold-bitcoin-150000514.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-06T08:54:11Z",
+ "date": "2026-08-06",
+ "old_title": "If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today",
+ "new_title": "If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today",
+ "old_text": "If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today\nPick any investor who watched Donald Trump walk back into the White House on January 20, 2025 and decided to put money into the three most talked-about assets surrounding that moment.\nBitcoin, the asset Trump had openly embraced. Gold, the safe haven that has anchored portfolios for centuries. And the TRUMP memecoin, the token bearing the president's name that had launched three days earlier and was already being called the trade of the inauguration.\nHere is what $1,000 in each one looks like today, August 4, 2026.\nBitcoin: Down 40%\nBitcoin opened inauguration day at approximately $102,000. A $1,000 investment bought roughly 0.0098 BTC. Today, with Bitcoin trading near $62,000, that position is worth approximately $607, a loss of 40%.\nThe irony is hard to miss. Trump entered office as the most openly crypto-friendly president in American history. He signed the GENIUS Act. He signed an Executive Order to establish a Strategic Bitcoin Reserve.\nHe called the U.S. the crypto capital of the world. And Bitcoin still lost 40% of its value on his watch.\nWhat makes the Bitcoin loss particularly striking is the context surrounding it. This was not a hostile administration. Trump's team established the first ever Strategic Bitcoin Reserve in March 2025, halting all government Bitcoin sales and signaling long-term institutional commitment at the sovereign level.\nThe policy environment was the most favorable in Bitcoin's history. And yet the price fell from where it stood on the day that all of that became official. The lesson is not that Bitcoin is broken.\nIt is that even the best policy tailwind cannot override a global liquidity squeeze, a hawkish Fed, and overleveraged positions unwinding at scale.\nGold: Up 22%\nGold was trading at approximately $2,697 per ounce on January 20, 2025. A $1,000 investment bought 0.371 ounces.\nAt today's gold price of approximately $3,300, that position is worth $1,224, a gain of 22%. The same presidency that was supposed to supercharge crypto turned out to be gold's best friend.\nTariff wars, US-Iran military strikes, persistent inflation, and a Fed locked into a hawkish position all sent money into gold every time uncertainty spiked.\nThe metal hit an all-time high above $5,500 per ounce earlier this year. Nobody on inauguration day was putting their money into gold to ride a Trump presidency. They should have.",
+ "new_text": "If you invested $1,000 in gold, Bitcoin and $TRUMP on Inauguration Day, here is what each is worth today\nPick any investor who watched Donald Trump walk back into the White House on January 20, 2025 and decided to put money into the three most talked-about assets surrounding that moment.\nBitcoin, the asset Trump had openly embraced. Gold, the safe haven that has anchored portfolios for centuries. And the TRUMP memecoin, the token bearing the president's name that had launched three days earlier and was already being called the trade of the inauguration.\nHere is what $1,000 in each one looks like today, August 4, 2026.\nBitcoin: Down 40%\nBitcoin opened inauguration day at approximately $102,000. A $1,000 investment bought roughly 0.0098 BTC. Today, with Bitcoin trading near $62,000, that position is worth approximately $607, a loss of 40%.\nThe irony is hard to miss. Trump entered office as the most openly crypto-friendly president in American history. He signed the GENIUS Act. He signed an Executive Order to establish a Strategic Bitcoin Reserve.\nHe called the U.S. the crypto capital of the world. And Bitcoin still lost 40% of its value on his watch.\nWhat makes the Bitcoin loss particularly striking is the context surrounding it. This was not a hostile administration. Trump's team established the first ever Strategic Bitcoin Reserve in March 2025, halting all government Bitcoin sales and signaling long-term institutional commitment at the sovereign level.\nThe policy environment was the most favorable in Bitcoin's history. And yet the price fell from where it stood on the day that all of that became official. The lesson is not that Bitcoin is broken.\nIt is that even the best policy tailwind cannot override a global liquidity squeeze, a hawkish Fed, and overleveraged positions unwinding at scale.\nGold: Up 52%\nGold was trading at approximately $2,697 per ounce on January 20, 2025. A $1,000 investment bought 0.371 ounces.\nAt today's gold price of approximately $4,100, that position is worth $1,520, a gain of 52%. The same presidency that was supposed to supercharge crypto turned out to be gold's best friend.\nTariff wars, U.S.-Iran military strikes, persistent inflation, and a Fed locked into a hawkish position all sent money into gold every time uncertainty spiked. The metal has set a string of record highs this year, climbing above $4,100 per ounce. Nobody on inauguration day was putting their money into gold to ride a Trump presidency. They should have.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "squeeze, a hawkish Fed, and overleveraged positions unwinding at scale. Gold: Up"
+    ],
+    [
+     "del",
+     "22%"
+    ],
+    [
+     "ins",
+     "52%"
+    ],
+    [
+     "eq",
+     "Gold was trading at approximately $2,697 per ounce on January 20, 2025. A $1,000 investment bought 0.371 ounces. At today's gold price of approximately"
+    ],
+    [
+     "del",
+     "$3,300,"
+    ],
+    [
+     "ins",
+     "$4,100,"
+    ],
+    [
+     "eq",
+     "that position is worth"
+    ],
+    [
+     "del",
+     "$1,224,"
+    ],
+    [
+     "ins",
+     "$1,520,"
+    ],
+    [
+     "eq",
+     "a gain of"
+    ],
+    [
+     "del",
+     "22%."
+    ],
+    [
+     "ins",
+     "52%."
+    ],
+    [
+     "eq",
+     "The same presidency that was supposed to supercharge crypto turned out to be gold's best friend. Tariff wars,"
+    ],
+    [
+     "del",
+     "US-Iran"
+    ],
+    [
+     "ins",
+     "U.S.-Iran"
+    ],
+    [
+     "eq",
+     "military strikes, persistent inflation, and a Fed locked into a hawkish position all sent money into gold every time uncertainty spiked. The metal"
+    ],
+    [
+     "del",
+     "hit an all-time high"
+    ],
+    [
+     "ins",
+     "has set a string of record highs this year, climbing"
+    ],
+    [
+     "eq",
+     "above"
+    ],
+    [
+     "del",
+     "$5,500"
+    ],
+    [
+     "ins",
+     "$4,100"
+    ],
+    [
+     "eq",
+     "per"
+    ],
+    [
+     "del",
+     "ounce earlier this year."
+    ],
+    [
+     "ins",
+     "ounce."
+    ],
+    [
+     "eq",
+     "Nobody on inauguration day was putting their money into gold to ride a Trump presidency. They should have."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0765,
+  "numbers_changed": [
+   "1,224",
+   "1,520",
+   "22",
+   "3,300",
+   "4,100",
+   "5,500",
+   "52"
+  ],
+  "market_figures_changed": [
+   "$1,224,",
+   "$1,520,",
+   "$3,300,",
+   "$4,100",
+   "$4,100,",
+   "$5,500",
+   "22%",
+   "52%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.25,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

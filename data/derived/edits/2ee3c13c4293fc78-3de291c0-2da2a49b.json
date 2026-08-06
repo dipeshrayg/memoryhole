@@ -1,0 +1,58 @@
+{
+ "id": "2ee3c13c4293fc78-3de291c0-2da2a49b",
+ "url": "https://finance.yahoo.com/markets/stocks/articles/corgi-funds-plans-chase-down-040100979.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-06T08:54:07Z",
+ "date": "2026-08-06",
+ "old_title": "How Corgi Funds Plans to Chase Down Wall Street's Top Dogs",
+ "new_title": "How Corgi Funds Plans to Chase Down Wall Street's Top Dogs",
+ "old_text": "Concerned about an AI bubble? Sign up for The Daily Upside for smart and actionable market news, built for investors.\nCorgi Funds is following in the footsteps of its furry namesake: it's small, surprisingly fast and not afraid to take on the biggest dogs on the block.\nThe newcomer issuer has certainly been making waves in the asset management industry in recent months by standing up an unprecedented number of funds and filings. After introducing one fund in December, Corgi launched 187 exchange-traded funds this year, roughly one in five of some 882 total launches in the US during the same time, according to data from CFRA. Its parent company, the San Francisco-based Corgi Insurance, is a Y Combinator-backed artificial intelligence insurance start-up that was founded in 2024 and raised more than $268 million as of its Series B funding round in May.\nAs expected, the company has many of the attributes we've come to associate with Silicon Valley. It's largely made up of people in their late 20s, and CEO Nico Laqua recently told Forbes he often sleeps in the \"Founders' Room\" at the office where his team works seven days a week. The company has even opened 24/7 cafés à la Capital One where people can come up with their best ideas at all hours, even if it's 2 a.m.\nMany of the young workers at Corgi grew up investing in ETFs on platforms like Robinhood, said Edward Rumell, head of distribution at Corgi Funds, who joined the firm this year after roughly 18 years in the ETF industry. So after finding efficiencies and a way to launch a large family of low-cost ETFs, they jumped on the opportunity. \"We feel like we're doing a favor to the industry by coming out and launching low-cost funds,\" Rumell told ETF Upside. \"At the end of the day, we're just trying to give another option.\"\nREAD ALSO: Get Ready for More SpaceX in ETF Orbits and Should Anyone Be Allowed to Buy Leveraged ETFs?\nThe Fast and the Furriest\nETF launches are on track for another record-breaking year, thanks in part to issuers playing with ways to bring exciting investing themes, such as blockbuster IPOs and surging interest in artificial intelligence and crypto, to investors in an ETF wrapper. But Corgi's listing pace is \"unprecedented,\" said Aniket Ullal, CFRA's head of ETF research.\nRumell said thematic launches are top of mind for the company, pointing to the Corgi SK Hynix 2x Daily ETF that hit the market last month when the South Korean chipmaker SK Hynix listed American depositary receipts. While those thematic funds are more or less built for retail investors, he puts the buffer ETFs (which the firm wants to be known for) in the institutional camp. Corgi reviews 13F reports and data from WhaleWisdom to find out who owns those products, and has its sales team in Chicago calling advisors. The firm is offering its buffer ETFs at 30 basis points, significantly lower than the 80 to 90 basis points you'll find from the major players.",
+ "new_text": "Concerned about an AI bubble? Sign up for The Daily Upside for smart and actionable market news, built for investors.\nCorgi Funds is following in the footsteps of its furry namesake: it's small, surprisingly fast and not afraid to take on the biggest dogs on the block.\nThe newcomer issuer has certainly been making waves in the asset management industry in recent months by standing up an unprecedented number of funds and filings. After introducing one fund in December, Corgi launched 187 exchange-traded funds this year, roughly one in five of some 882 total launches in the US during the same time, according to data from CFRA. Its parent company, the San Francisco-based Corgi Insurance, is a Y Combinator-backed artificial intelligence insurance start-up that was founded in 2024 and raised more than $268 million as of its Series B funding round in May.\nAs expected, the company has many of the attributes we've come to associate with Silicon Valley. It's largely made up of people in their late 20s, and CEO Nico Laqua recently told Forbes he often sleeps in the \"Founders' Room\" at the office where his team works seven days a week. The company has even opened 24/7 cafés à la Capital One where people can come up with their best ideas at all hours, even if it's 2 a.m.\nMany of the young workers at Corgi grew up investing in ETFs on platforms like Robinhood, said Edward Rumell, head of distribution at Corgi Funds, who joined the firm this year after roughly 18 years in the ETF industry. So after finding efficiencies and a way to launch a large family of low-cost ETFs, they jumped on the opportunity. \"We feel like we're doing a favor to the industry by coming out and launching low-cost funds,\" Rumell told ETF Upside. \"At the end of the day, we're just trying to give another option.\"\nREAD ALSO: Blackrock's Treasury Fund TLT Falls to 22-Year Low and Get Ready for More SpaceX in ETF Orbits\nThe Fast and the Furriest\nETF launches are on track for another record-breaking year, thanks in part to issuers playing with ways to bring exciting investing themes, such as blockbuster IPOs and surging interest in artificial intelligence and crypto, to investors in an ETF wrapper. But Corgi's listing pace is \"unprecedented,\" said Aniket Ullal, CFRA's head of ETF research.\nRumell said thematic launches are top of mind for the company, pointing to the Corgi SK Hynix 2x Daily ETF that hit the market last month when the South Korean chipmaker SK Hynix listed American depositary receipts. While those thematic funds are more or less built for retail investors, he puts the buffer ETFs (which the firm wants to be known for) in the institutional camp. Corgi reviews 13F reports and data from WhaleWisdom to find out who owns those products, and has its sales team in Chicago calling advisors. The firm is offering its buffer ETFs at 30 basis points, significantly lower than the 80 to 90 basis points you'll find from the major players.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "of the day, we're just trying to give another option.\" READ ALSO:"
+    ],
+    [
+     "ins",
+     "Blackrock's Treasury Fund TLT Falls to 22-Year Low and"
+    ],
+    [
+     "eq",
+     "Get Ready for More SpaceX in ETF Orbits"
+    ],
+    [
+     "del",
+     "and Should Anyone Be Allowed to Buy Leveraged ETFs?"
+    ],
+    [
+     "eq",
+     "The Fast and the Furriest ETF launches are on track for another"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0354,
+  "numbers_changed": [
+   "22"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

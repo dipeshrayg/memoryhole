@@ -1,0 +1,77 @@
+{
+ "id": "1858d57d472ef29b-c651432b-468d5d6c",
+ "url": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-06T08:45:03Z",
+ "date": "2026-08-06",
+ "old_title": "UK weather: Are we getting another heatwave?",
+ "new_title": "UK weather: Are we getting another heatwave?",
+ "old_text": "- Published\nTemperatures are set to drop across the UK over the next few days, ending the latest heatwave that has affected some areas of southern and eastern England.\nHumidity levels will fall too, which should cool down homes and make nights more comfortable for sleeping.\nThe change in conditions follows another historic day in a summer that has seen many long standing heat records toppled or tied. On Tuesday, the UK registered its 34th day of temperatures reaching 30C (86F) or higher in a calendar year, equalling the record set in 1995.\nForecasts suggest that this record is likely to be beaten as early as next week, with some showing the potential for a sixth heatwave to develop.\nThunderstorms and winds to blow away heat\nA large area of low pressure crossing the UK has already brought areas of heavy and thundery rain to many northern and some western parts of the UK over the last few days.\nMore thunderstorms are expected in parts of north-east Scotland later on Wednesday.\nThe Met Office has issued a yellow warning, external between 10:00 and 21:00 BST. It warns of heavy, slow-moving showers and some thunderstorms breaking out from late morning.\nAlong with lightning, gusty winds and some hail, the storms will have the potential to produce up to 50mm of rain in a few places over three to six hours. This could lead to localised flash flooding and impact the transport network.\nLater on in the day and into the night, unseasonably blustery winds will develop across parts of Scotland, Northern Ireland, the Isle of Man and northern England. Gales are possible on some hills and coasts.\nHumidity levels to drop\nStrengthening westerly winds will help to finally clear the higher humidity that has made recent days and nights uncomfortable at times.\nHumidity is a measure of how much moisture is in the air.\nDuring hot weather our body controls our internal temperature by sweating and as the sweat is evaporated from our skin, it cools the air directly next to us, making us feel cooler.\nBy Thursday, temperatures will sit between 15C and 24C across the UK. While this may feel distinctly cool for some after the recent hot weather, these temperatures are actually much closer to the August average.\nFor many in Scotland and Northern Ireland, it may actually feel like a more pleasant summer day, with few showers and more sunshine than in recent days.\nWill there be another heatwave?\nSome forecasts are already suggesting that temporary builds of high pressure and southerly winds across the parts of the country next week could lift some areas back above heatwave thresholds.\nA few areas, especially in south-east England could again see temperatures above 30C.\nThe end of next week is still a long way off in forecasting terms, so it is not yet clear exactly how extensive any heat will be, how hot it will get and how long it will last.\nYou can keep across the latest long range forecast in our Monthly Outlook.",
+ "new_text": "- Published\nTemperatures are set to drop across the UK over the next few days, ending the latest heatwave that has affected some areas of southern and eastern England.\nHumidity levels will fall too, which should cool down homes and make nights more comfortable for sleeping.\nThe change in conditions follows another historic day in a summer that has seen many long standing heat records toppled or tied. On Tuesday, the UK registered its 34th day of temperatures reaching 30C (86F) or higher in a calendar year, equalling the record set in 1995.\nForecasts suggest that this record is likely to be beaten as early as next week, with some showing the potential for a sixth heatwave to develop.\nThunderstorms and winds to blow away heat\nA large area of low pressure crossing the UK has already brought areas of heavy and thundery rain to many northern and some western parts of the UK over the last few days.\nMore thunderstorms are expected in parts of north-east Scotland later on Wednesday.\nThe Met Office has issued a yellow warning, external between 13:00 and 21:00 BST. It warns of heavy, slow-moving showers and some thunderstorms breaking out from late morning.\nAlong with lightning, gusty winds and some hail, the storms will have the potential to produce up to 40mm of rain in a few places over three to six hours. This could lead to localised flash flooding and impact the transport network.\nLater on in the day and into the night, unseasonably blustery winds will develop across parts of Scotland, Northern Ireland, the Isle of Man and northern England. Gales are possible on some hills and coasts.\nHumidity levels to drop\nStrengthening westerly winds will help to finally clear the higher humidity that has made recent days and nights uncomfortable at times.\nHumidity is a measure of how much moisture is in the air.\nDuring hot weather our body controls our internal temperature by sweating and as the sweat is evaporated from our skin, it cools the air directly next to us, making us feel cooler.\nBy Thursday, temperatures will sit between 15C and 24C across the UK. While this may feel distinctly cool for some after the recent hot weather, these temperatures are actually much closer to the August average.\nFor many in Scotland and Northern Ireland, it may actually feel like a more pleasant summer day, with few showers and more sunshine than in recent days.\nWill there be another heatwave?\nSome forecasts are already suggesting that temporary builds of high pressure and southerly winds across the parts of the country next week could lift some areas back above heatwave thresholds.\nA few areas, especially in south-east England could again see temperatures above 30C.\nThe end of next week is still a long way off in forecasting terms, so it is not yet clear exactly how extensive any heat will be, how hot it will get and how long it will last.\nYou can keep across the latest long range forecast in our Monthly Outlook.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "on Wednesday. The Met Office has issued a yellow warning, external between"
+    ],
+    [
+     "del",
+     "10:00"
+    ],
+    [
+     "ins",
+     "13:00"
+    ],
+    [
+     "eq",
+     "and 21:00 BST. It warns of heavy, slow-moving showers and some thunderstorms"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "some hail, the storms will have the potential to produce up to"
+    ],
+    [
+     "del",
+     "50mm"
+    ],
+    [
+     "ins",
+     "40mm"
+    ],
+    [
+     "eq",
+     "of rain in a few places over three to six hours. This"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0079,
+  "numbers_changed": [
+   "10",
+   "13",
+   "40",
+   "50"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9999,
+ "adjudicated_by": "rules"
+}

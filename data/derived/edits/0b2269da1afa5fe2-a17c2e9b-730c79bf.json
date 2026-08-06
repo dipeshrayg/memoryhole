@@ -1,0 +1,124 @@
+{
+ "id": "0b2269da1afa5fe2-a17c2e9b-730c79bf",
+ "url": "https://www.aljazeera.com/news/2026/8/5/piece-of-spacex-rocket-the-size-of-a-school-bus-crashes-into-the-moon?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-06T08:47:02Z",
+ "date": "2026-08-06",
+ "old_title": "Piece of SpaceX rocket the size of a school bus crashes into the Moon",
+ "new_title": "Piece of SpaceX rocket the size of a school bus crashes into the moon",
+ "old_text": "A four-tonne chunk of debris the size of a school bus from a SpaceX rocket has crashed into the Moon, according to tracking data, creating a new crater on the lunar surface and providing scientists a rare look at high-velocity cosmic impacts.\nThe object, the second stage of a Falcon 9 rocket launched in early 2025, struck the Moon early Wednesday near the Einstein Crater, at approximately 8,700 kilometres per hour (5,400 miles per hour), according to orbital trajectories mapped by independent astronomers and confirmed by space-tracking agencies. It struck the lunar surface with the force of roughly three tonnes of TNT.\nRecommended Stories\nlist of 3 items\n- list 1 of 3Elon Musk's SpaceX reports losses but less than expected\n- list 2 of 3NASA announces astronauts for Artemis III spaceflight, scheduled for 2027\n- list 3 of 3Tanks, troops and space\nSuch rocket hardware typically re-enters Earth's atmosphere to burn up or splash down into remote ocean zones after delivering payloads into orbit.\nBut over 18 months, gravitational forces exerted by the Sun, Earth, and Moon gradually altered its flight path, setting it on an inevitable collision course. SpaceX said the trajectory leading to the crash was unintentional but unpreventable, given the vehicle's remaining fuel reserves.\n\"What has happened is essentially a mixture of solar activity and gravity forces have put it on a path toward the moon,\" Julianna Scheiman, SpaceX director of NASA science and Dragon programmes, told reporters on Monday.\nOrbital observation craft, including NASA's Lunar Reconnaissance Orbiter (LRO) and South Korea's Danuri spacecraft, have adjusted their sensor suites to document the collision site. While the instantaneous flash will be obscured by daylight on the lunar surface, orbiters will survey the ejected dust plume and take high-resolution before-and-after imagery of the newly formed crater.\nSpace tracking expert Bill Gray told The Associated Press news agency: \"It doesn't present any immediate danger, though it does highlight a certain carelessness about how leftover space hardware is disposed of.\" He added that \"things are getting crowded up there.\"\nWednesday's collision marks only the second known instance of discarded rocket space debris accidentally crashing into the Moon. The first occurred on March 4, 2022, when part of a Chinese Long March 3C rocket launched in 2014 impacted the lunar far side, carving out an unusual double crater.",
+ "new_text": "A four-tonne chunk of debris the size of a school bus from a SpaceX rocket has crashed into the moon, according to tracking data, creating a new crater on the lunar surface and providing scientists a rare look at high-velocity cosmic impacts.\nThe object, the second stage of a Falcon 9 rocket launched in early 2025, struck the moon early Wednesday near the Einstein Crater, at approximately 8,700 kilometres per hour (5,400 miles per hour), according to orbital trajectories mapped by independent astronomers and confirmed by space-tracking agencies. It struck the lunar surface with the force of roughly three tonnes of TNT.\nRecommended Stories\nlist of 3 items\n- list 1 of 3Elon Musk's SpaceX reports losses but less than expected\n- list 2 of 3NASA announces astronauts for Artemis III spaceflight, scheduled for 2027\n- list 3 of 3Tanks, troops and space\nSuch rocket hardware typically re-enters Earth's atmosphere to burn up or splash down into remote ocean zones after delivering payloads into orbit.\nBut over 18 months, gravitational forces exerted by the sun, Earth, and moon gradually altered its flight path, setting it on an inevitable collision course. SpaceX said the trajectory leading to the crash was unintentional but unpreventable, given the vehicle's remaining fuel reserves.\n\"What has happened is essentially a mixture of solar activity and gravity forces have put it on a path toward the moon,\" Julianna Scheiman, SpaceX director of NASA science and Dragon programmes, told reporters on Monday.\nOrbital observation craft, including NASA's Lunar Reconnaissance Orbiter (LRO) and South Korea's Danuri spacecraft, have adjusted their sensor suites to document the collision site. While the instantaneous flash will be obscured by daylight on the lunar surface, orbiters will survey the ejected dust plume and take high-resolution before-and-after imagery of the newly formed crater.\nSpace tracking expert Bill Gray told The Associated Press news agency: \"It doesn't present any immediate danger, though it does highlight a certain carelessness about how leftover space hardware is disposed of.\" He added that \"things are getting crowded up there.\"\nWednesday's collision marks only the second known instance of discarded rocket space debris accidentally crashing into the moon. The first occurred on March 4, 2022, when part of a Chinese Long March 3C rocket launched in 2014 impacted the lunar far side, carving out an unusual double crater.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "of a school bus from a SpaceX rocket has crashed into the"
+    ],
+    [
+     "del",
+     "Moon,"
+    ],
+    [
+     "ins",
+     "moon,"
+    ],
+    [
+     "eq",
+     "according to tracking data, creating a new crater on the lunar surface"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "stage of a Falcon 9 rocket launched in early 2025, struck the"
+    ],
+    [
+     "del",
+     "Moon"
+    ],
+    [
+     "ins",
+     "moon"
+    ],
+    [
+     "eq",
+     "early Wednesday near the Einstein Crater, at approximately 8,700 kilometres per hour"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "payloads into orbit. But over 18 months, gravitational forces exerted by the"
+    ],
+    [
+     "del",
+     "Sun,"
+    ],
+    [
+     "ins",
+     "sun,"
+    ],
+    [
+     "eq",
+     "Earth, and"
+    ],
+    [
+     "del",
+     "Moon"
+    ],
+    [
+     "ins",
+     "moon"
+    ],
+    [
+     "eq",
+     "gradually altered its flight path, setting it on an inevitable collision course."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "second known instance of discarded rocket space debris accidentally crashing into the"
+    ],
+    [
+     "del",
+     "Moon."
+    ],
+    [
+     "ins",
+     "moon."
+    ],
+    [
+     "eq",
+     "The first occurred on March 4, 2022, when part of a Chinese"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0258,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

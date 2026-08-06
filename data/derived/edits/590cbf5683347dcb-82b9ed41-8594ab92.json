@@ -1,0 +1,58 @@
+{
+ "id": "590cbf5683347dcb-82b9ed41-8594ab92",
+ "url": "https://www.abc.net.au/news/2026-08-05/nsw-parliamentary-inquiry-northern-nsw-rescue-helicopter-service/107000282",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-06T08:48:40Z",
+ "date": "2026-08-06",
+ "old_title": "Rescue helicopter contract in jeopardy after parliamentary inquiry",
+ "new_title": "Rescue helicopter contract in jeopardy after parliamentary inquiry",
+ "old_text": "Northern NSW rescue helicopter contract in jeopardy after hospital probe\nIn short:\nA parliamentary inquiry that examined public-private partnerships in the health sector has uncovered allegations of bullying and abuse in Northern NSW Helicopter Rescue Services.\nThe committee has recommended NSW Ambulance not extend its contract with the service unless safety concerns can be satisfied.\nWhat's next?\nThe New South Wales government will have three months to respond to the inquiry's recommendations.",
+ "new_text": "In short:\nA parliamentary inquiry that examined public-private partnerships in the health sector has uncovered allegations of bullying and abuse in Northern NSW Helicopter Rescue Services.\nThe committee has recommended NSW Ambulance not extend its contract with the service unless safety concerns can be satisfied.\nWhat's next?\nThe New South Wales government will have three months to respond to the inquiry's recommendations.\nNew South Wales Ambulance is being urged not to extend contracts with Northern NSW Helicopter Rescue Services (NNSWHRS) unless it is satisfied with workplace safety.\nThe recommendation came from a state parliamentary inquiry that was called to investigate Calvary Mater Hospital at Newcastle after a string of alleged maintenance failures.\nThe inquiry also examined wider issues arising from public and private partnerships in healthcare.\nCommittee chair Amanda Cohn said multiple witnesses detailed allegations of a toxic workplace culture at NNSWHRS, including instances of bullying and psychological abuse.\n\"We are really urging the [NSW] government to put these agreements under scrutiny now rather than wait for there to be a tragedy,\" the Greens MP said.\n\"Nobody wants to be left without a service - that's why it is so critical that this level of scrutiny happens now.\n\"If the government decides not to extend the current contract, then obviously going out to tender or considering another provider is something that takes time.\"\nThe inquiry found the use of staff non-disclosure agreements had \"prevented transparency, silenced potential whistleblowers and delayed the rectification of issues\".\nWhistleblowers targeted\nAccording to the parliamentary report, former employees who raised compliance concerns were targeted by a \"clique\" led by senior management and human resources, with some facing \"verbal insults and mental abuse\".\nIt said the impact of the culture on staff had been \"extreme\" and that multiple staff had been rendered \"unable to return to the workforce\".\nThe committee also heard accusations of noncompliant record-keeping by NNSWHRS and of failing to investigate reports of \"multiple serious safety breaches\".\nOne whistleblower alleged the rescue service had a \"tick and flick\" culture with regard to safety management and that \"staff were encouraged to bypass genuine training assessments\".\nNSW Health Minister Ryan Park said he was expecting a full and unredacted report into the allegations levelled against NNSWHRS.\n\"I think, more importantly, the [NSW] Ambulance expects it. The community expects it and deserve it\" he said.\nUnder its contract with NSW Ambulance, which began in 2017, NNSWHRS has been providing aeromedical services including the provision of aircraft and crew to the northern part of the state.\nThe contract is due to end in May next year.\nMr Park said any contract negotiations would be dependent on the report.\n\"From there we will enter into negotiations or a process around what the next iteration of that contract looks like,\" he said.\n\"But very clearly, from my perspective as a minister, that is what I expect.\"\nIn a statement, a spokesperson for NSW Ambulance said it had \"not progressed contract extension discussions with the NNSWRHS while it awaits the full and unredacted report\".\nNNSWRHS declined to comment.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Northern NSW rescue helicopter contract in jeopardy after hospital probe"
+    ],
+    [
+     "eq",
+     "In short: A parliamentary inquiry that examined public-private partnerships in the health"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Wales government will have three months to respond to the inquiry's recommendations."
+    ],
+    [
+     "ins",
+     "New South Wales Ambulance is being urged not to extend contracts with Northern NSW Helicopter Rescue Services (NNSWHRS) unless it is satisfied with workplace safety. The recommendation came from a state parliamentary inquiry that was called to investigate Calvary Mater Hospital at Newcastle after a string of alleged maintenance failures. The inquiry also examined wider issues arising from public and private partnerships in healthcare. Committee chair Amanda Cohn said multiple witnesses detailed allegations of a toxic workplace culture at NNSWHRS, including instances of bullying and psychological abuse. \"We are really urging the [NSW] government to put these agreements under scrutiny now rather than wait for there to be a tragedy,\" the Greens MP said. \"Nobody wants to be left without a service - that's why it is so critical that this level of scrutiny happens now. \"If the government decides not to extend the current contract, then obviously going out to tender or considering another provider is something that takes time.\" The inquiry found the use of staff non-disclosure agreements had \"prevented transparency, silenced potential whistleblowers and delayed the rectification of issues\". Whistleblowers targeted According to the parliamentary report, former employees who raised compliance concerns were targeted by a \"clique\" led by senior management and human resources, with some facing \"verbal insults and mental abuse\". It said the impact of the culture on staff had been \"extreme\" and that multiple staff had been rendered \"unable to return to the workforce\". The committee also heard accusations of noncompliant record-keeping by NNSWHRS and of failing to investigate reports of \"multiple serious safety breaches\". One whistleblower alleged the rescue service had a \"tick and flick\" culture with regard to safety management and that \"staff were encouraged to bypass genuine training assessments\". NSW Health Minister Ryan Park said he was expecting a full and unredacted report into the allegations levelled against NNSWHRS. \"I think, more importantly, the [NSW] Ambulance expects it. The community expects it and deserve it\" he said. Under its contract with NSW Ambulance, which began in 2017, NNSWHRS has been providing aeromedical services including the provision of aircraft and crew to the northern part of the state. The contract is due to end in May next year. Mr Park said any contract negotiations would be dependent on the report. \"From there we will enter into negotiations or a process around what the next iteration of that contract looks like,\" he said. \"But very clearly, from my perspective as a minister, that is what I expect.\" In a statement, a spokesperson for NSW Ambulance said it had \"not progressed contract extension discussions with the NNSWRHS while it awaits the full and unredacted report\". NNSWRHS declined to comment."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 6.3194,
+  "numbers_changed": [
+   "2017"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.057,
+ "similarity": 0.8689,
+ "adjudicated_by": "rules"
+}
