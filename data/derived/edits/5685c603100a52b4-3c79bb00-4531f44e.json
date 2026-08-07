@@ -1,0 +1,52 @@
+{
+ "id": "5685c603100a52b4-3c79bb00-4531f44e",
+ "url": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-08-07T07:41:55Z",
+ "date": "2026-08-07",
+ "old_title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
+ "new_title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
+ "old_text": "In a 51-44 vote Wednesday, the US Senate confirmed Erica Schwartz as director of the Centers for Disease Control and Prevention, despite failing miserably to convince senators last month that she could stand up to anti-vaccine Health Secretary Robert F. Kennedy Jr.\nThe confirmation ends a near yearlong vacancy for the position since Kennedy fired the previous CDC director, Susan Monarez, last August. Monarez was ousted after she refused to rubber-stamp vaccine recommendations from a panel of Kennedy's hand-selected advisors, who hold similar anti-vaccine views to his own.\nSchwartz is highly qualified for the role, coming to the CDC with a medical degree, a master's degree in public health, and a law degree. She previously had a long stint as a Navy officer and held leadership roles including chief medical officer for the US Coast Guard and deputy surgeon general in the first Trump administration. Notably, she has been a public advocate for vaccines and outbreak preparedness.\nAs such, outside health experts were surprised by her selection and cautiously optimistic about her taking up the role. While Kennedy's close anti-vaccine ally, Aaron Siri, blasted her nomination over her support for vaccines, those in the health community held out hope that Schwartz could stabilize and restore the flagging agency, demoralized and hampered by harsh staff reductions, budget cuts, and relentless scorn from Kennedy and his political appointees.",
+ "new_text": "In a 51-44 vote Wednesday, the US Senate confirmed Erica Schwartz as director of the Centers for Disease Control and Prevention, despite failing miserably to convince senators last month that she could stand up to anti-vaccine Health Secretary Robert F. Kennedy Jr.\nThe confirmation ends a nearly yearlong vacancy for the position since Kennedy fired the previous CDC director, Susan Monarez, last August. Monarez was ousted after she refused to rubber-stamp vaccine recommendations from a panel of Kennedy's hand-selected advisors, who hold similar anti-vaccine views to his own.\nSchwartz is highly qualified for the role, coming to the CDC with a medical degree, a master's degree in public health, and a law degree. She previously had a long stint as a Navy officer and held leadership roles including chief medical officer for the US Coast Guard and deputy surgeon general in the first Trump administration. Notably, she has been a public advocate for vaccines and outbreak preparedness.\nAs such, outside health experts were surprised by her selection and cautiously optimistic about her taking up the role. While Kennedy's close anti-vaccine ally, Aaron Siri, blasted her nomination over her support for vaccines, those in the health community held out hope that Schwartz could stabilize and restore the flagging agency, demoralized and hampered by harsh staff reductions, budget cuts, and relentless scorn from Kennedy and his political appointees.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "to anti-vaccine Health Secretary Robert F. Kennedy Jr. The confirmation ends a"
+    ],
+    [
+     "del",
+     "near"
+    ],
+    [
+     "ins",
+     "nearly"
+    ],
+    [
+     "eq",
+     "yearlong vacancy for the position since Kennedy fired the previous CDC director,"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0088,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

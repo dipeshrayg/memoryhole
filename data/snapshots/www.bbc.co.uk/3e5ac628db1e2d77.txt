@@ -8,7 +8,7 @@ It clarified most of the malicious actions were carried out by Mythos.
 AISI evaluators first noticed "unusual data transfers leaving our research systems" during a test, then found that "some of the agents being tested had engaged in sustained, potentially harmful activity directed at real people and organisations".
 In the most serious case, a Mythos agent followed the routine of a human cyber-attacker by trying to trick people into giving it access to GitHub, a large platform where technology developers store software code.
 The agent was trying to get "malicious code" accepted and used on GitHub's system.
-It identified and researched the people who maintained GitHub and created a series of fake accounts based on those real people.
+It identified and researched people who maintained projects on GitHub and created a series of fake accounts based on those real people.
 It sent messages and files through a file-sharing service as part of an effort to pressure and trick the people into approving its malicious code.
 When challenged, "it edited its earlier activity to appear harmless and considered adopting a fresh identity to continue," AISI said.
 Throughout the attempts, it was human review that stopped the agent from succeeding in delivering the malicious code to GitHub.

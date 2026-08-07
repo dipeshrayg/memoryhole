@@ -1,0 +1,48 @@
+{
+ "id": "9a9a3a92c75491a6-46fddeaf-401d18e3",
+ "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-08-07T07:41:27Z",
+ "date": "2026-08-07",
+ "old_title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+ "new_title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+ "old_text": "Like any company, Reddit reports quarterly earnings, and its CEO, Steve Huffman, addresses investors during those reports. It's not always about just sharing numbers, though: This quarter, Huffman took the opportunity to voice concerns and criticisms about Google's AI Overviews feature, which automatically summarizes search results on most user queries.\nFirst, there was a letter to investors, wherein Huffman spun his narrative about Reddit's value proposition and general strategic direction amid the proliferation of AI tools.\nHe wrote:\nAs the internet becomes flooded with synthetic content, people are craving real human perspective. We are the antidote to an automated web. AI compresses the internet into summaries. Reddit delivers the opposite: deep discussions, passionate debates, and lived experiences. People don't want a summary of Reddit; they want Reddit.\nThe letter also said:\nAs AI makes information more abundant, the challenge is no longer finding content-it's finding context, personal opinion, and first-hand accounts. Everything online feels flat, polished, generated, or sponsored, so consumers are overwhelmed and increasingly skeptical. We've never had more information, but we've never trusted it less.\nAnd then, in comments around the earnings report, he added:\nWhat we see is, 10 blue links has driven tremendous value and growth to the broader ecosystem... from where we sit, AI Overviews has yet to make a similar level of positive impact, and I think that's consistent across the broader landscape, right? As businesses, publishers, retailers, we're still looking for that win-win.\nTo add context to these statements, Reddit has long had a relatively lucrative ($60 million) licensing deal with Google, but Reddit is considering ending that deal, according to a Wall Street Journal report from earlier this month. The report also said that several prominent publishers are considering similarly cutting ties with Google, including The Economist, Reuters, Politico, and USA Today. (Reddit also has a deal with OpenAI.)\nLast year, a study by Pew Research that looked at data from 900 US adults concluded that Google's AI Overviews cut referrals to sites like those by almost half, compared to the \"10 blue links\" approach that Huffman referred to. It's important to note, though, that Google has long diverged from just \"10 blue links\" in other ways even before AI Overviews entered the scene.",
+ "new_text": "Like any public company, Reddit reports quarterly earnings, and its CEO, Steve Huffman, addresses investors during those reports. It's not always about just sharing numbers, though: This quarter, Huffman took the opportunity to voice concerns and criticisms about Google's AI Overviews feature, which automatically summarizes search results on most user queries.\nFirst, there was a letter to investors, wherein Huffman spun his narrative about Reddit's value proposition and general strategic direction amid the proliferation of AI tools.\nHe wrote:\nAs the internet becomes flooded with synthetic content, people are craving real human perspective. We are the antidote to an automated web. AI compresses the internet into summaries. Reddit delivers the opposite: deep discussions, passionate debates, and lived experiences. People don't want a summary of Reddit; they want Reddit.\nThe letter also said:\nAs AI makes information more abundant, the challenge is no longer finding content-it's finding context, personal opinion, and first-hand accounts. Everything online feels flat, polished, generated, or sponsored, so consumers are overwhelmed and increasingly skeptical. We've never had more information, but we've never trusted it less.\nAnd then, in comments around the earnings report, he added:\nWhat we see is, 10 blue links has driven tremendous value and growth to the broader ecosystem... from where we sit, AI Overviews has yet to make a similar level of positive impact, and I think that's consistent across the broader landscape, right? As businesses, publishers, retailers, we're still looking for that win-win.\nTo add context to these statements, Reddit has long had a relatively lucrative ($60 million) licensing deal with Google, but Reddit is considering ending that deal, according to a Wall Street Journal report from earlier this month. The report also said that several prominent publishers are considering similarly cutting ties with Google, including The Economist, Reuters, Politico, and USA Today. (Reddit also has a deal with OpenAI.)\nLast year, a study by Pew Research that looked at data from 900 US adults concluded that Google's AI Overviews cut referrals to sites like those by almost half, compared to the \"10 blue links\" approach that Huffman referred to. It's important to note, though, that Google has long diverged from just \"10 blue links\" in other ways even before AI Overviews entered the scene.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Like any"
+    ],
+    [
+     "ins",
+     "public"
+    ],
+    [
+     "eq",
+     "company, Reddit reports quarterly earnings, and its CEO, Steve Huffman, addresses investors"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0027,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9988,
+ "adjudicated_by": "rules"
+}

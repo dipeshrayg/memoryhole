@@ -1,0 +1,95 @@
+{
+ "id": "519482e2c6826621-a16207a8-ef74423a",
+ "url": "https://www.gov.uk/government/news/ofqual-fines-othm-25000-after-colleges-allowed-to-investigate-own-malpractice-cases",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "country": "United Kingdom",
+ "category": "government",
+ "lang": "en",
+ "detected_at": "2026-08-07T07:32:09Z",
+ "date": "2026-08-07",
+ "old_title": "Ofqual fines OTHM £25,000 after colleges allowed to investigate own malpractice cases",
+ "new_title": "Ofqual fines OTHM £25,000 after colleges allowed to investigate own malpractice cases",
+ "old_text": "Qualifications regulator Ofqual has fined OTHM Qualifications £25,000 after finding serious and repeated failures in the way the organisation handled malpractice allegations.\nThe failures span more than 4 years and include allowing colleges and training providers accused of malpractice to investigate themselves, keeping chaotic and inconsistent records, and failing to report serious incidents to Ofqual for the best part of a decade.\nOfqual's investigation began in February 2024 following 12 allegations of malpractice involving OTHM qualifications.\nThat investigation found several cases where OTHM directed the colleges at the centre of malpractice allegations to investigate themselves, including cases where those colleges had been told they could lose their accreditation if wrongdoing was found.\nOTHM's record-keeping was found to be inconsistent. Each time Ofqual asked for malpractice records, OTHM provided a different register with inconsistent information. It also could not produce investigation reports for 4 cases it was required to keep under its own policy.\nBetween 2018 and 2024, OTHM submitted just one notification to Ofqual about a potentially serious incident, despite its own records showing dozens of malpractice and maladministration events that met the threshold for reporting. This failure to report meant the opportunity for early intervention was lost.\nSince Ofqual stepped in, OTHM has put together a detailed action plan and invested significantly in its systems, processes and staff to make sure these failures do not happen again. OTHM has also agreed to send Ofqual regular reports on how well these improvements are working, and these reports will be checked by independent auditors.\nAmanda Swann, Ofqual's Executive Director for Delivery, said:\nI'd like to remind awarding organisations that event notifications are a sign of good governance, not a sign of failure. When Ofqual is not kept informed, we cannot step in to protect learners.\nOTHM has acknowledged what went wrong and taken steps to put it right. We will be watching. But a £25,000 fine is a significant consequence, and it is meant to be. Qualifications only mean something if people can trust them.\nNotes to editors",
+ "new_text": "Qualifications regulator Ofqual has fined OTHM Qualifications £25,000 after finding serious and repeated failures in the way the organisation handled malpractice allegations.\nThe failures span 3 years and include allowing colleges and training providers accused of malpractice to investigate themselves, keeping chaotic and inconsistent records, and failing to report serious incidents to Ofqual.\nOfqual's investigation began in February 2024 following 12 allegations of malpractice involving OTHM qualifications.\nThat investigation found several cases where OTHM directed the colleges at the centre of malpractice allegations to investigate themselves, including cases where those colleges had been told they could lose their accreditation if wrongdoing was found.\nOTHM's record-keeping was found to be inconsistent. Each time Ofqual asked for malpractice records, OTHM provided a different register with inconsistent information. It also could not produce investigation reports for 4 cases it was required to keep under its own policy.\nBetween 2018 and 2024, OTHM submitted just one notification to Ofqual about a potentially serious incident, despite its own records showing several malpractice and maladministration events that met the threshold for reporting. This failure to report meant the opportunity for early intervention was lost.\nSince Ofqual stepped in, OTHM has put together a detailed action plan and invested significantly in its systems, processes and staff to make sure these failures do not happen again. OTHM has also agreed to send Ofqual regular reports on how well these improvements are working, and these reports will be checked by independent auditors.\nAmanda Swann, Ofqual's Executive Director for Delivery, said:\nI'd like to remind awarding organisations that event notifications are a sign of good governance, not a sign of failure. When Ofqual is not kept informed, we cannot step in to protect learners.\nOTHM has acknowledged what went wrong and taken steps to put it right. We will be watching. But a £25,000 fine is a significant consequence, and it is meant to be. Qualifications only mean something if people can trust them.\nNotes to editors",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "failures in the way the organisation handled malpractice allegations. The failures span"
+    ],
+    [
+     "del",
+     "more than 4"
+    ],
+    [
+     "ins",
+     "3"
+    ],
+    [
+     "eq",
+     "years and include allowing colleges and training providers accused of malpractice to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "keeping chaotic and inconsistent records, and failing to report serious incidents to"
+    ],
+    [
+     "del",
+     "Ofqual for the best part of a decade."
+    ],
+    [
+     "ins",
+     "Ofqual."
+    ],
+    [
+     "eq",
+     "Ofqual's investigation began in February 2024 following 12 allegations of malpractice involving"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to Ofqual about a potentially serious incident, despite its own records showing"
+    ],
+    [
+     "del",
+     "dozens of"
+    ],
+    [
+     "ins",
+     "several"
+    ],
+    [
+     "eq",
+     "malpractice and maladministration events that met the threshold for reporting. This failure"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0475,
+  "numbers_changed": [
+   "3",
+   "4"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9921,
+ "adjudicated_by": "rules"
+}

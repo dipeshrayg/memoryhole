@@ -1,0 +1,128 @@
+{
+ "id": "3d20cff53a1e9e99-19960902-18fa7f07",
+ "url": "https://www.theguardian.com/football/2026/aug/05/real-madrid-agree-club-record-115m-deal-for-yan-diomande-and-want-to-keep-vinicius",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-08-07T07:38:08Z",
+ "date": "2026-08-07",
+ "old_title": "Real Madrid agree club-record £115m deal for Yan Diomande and want to keep Vinícius",
+ "new_title": "Real Madrid announce arrival of £115m Yan Diomande on seven-year contract",
+ "old_text": "Real Madrid have agreed a club-record fee of €135m (£115.7m) with RB Leipzig for Yan Diomande and are confident of warding off Arsenal's interest in Vinícius Júnior after offering an improved contract to the Brazil forward.\nAfter several weeks of negotiations that saw Paris Saint-Germain pull out of the race, the deal for Diomande - the 19-year-old who joined the German side from Leganés last summer and starred for Côte d'Ivoire at the World Cup - was finally struck on Wednesday afternoon. It is understood that Madrid will pay an initial €125m plus another €10m in add-ons, a total that would eclipse the fee the Spanish side paid Borussia Dortmund to sign Jude Bellingham in 2023, believed to have been worth up to €134m including add-ons.\nLeganés are due a 5% sell-on fee from any transfer. The teenager made only 10 appearances for their first team before being sold to Leipzig for €20m (£17.4m). Diomande, who was pictured arriving at Leipzig's pre-season training camp in Austria on Wednesday, is expected to sign a contract until 2031 and becomes the most expensive African player in history, surpassing the £72m Arsenal spent on Nicolas Pépé in 2019.\nHis impending arrival is not thought to have any bearing on whether Vinícius stays in the Spanish capital. The Brazilian and his representatives, Roc Nation, held talks with Madrid officials on Wednesday over a contract extension, with Arsenal waiting in the wings if he decides to depart.\nMikel Arteta's side are understood to be ready to pay more than £100m for the 26-year-old who has less than a year of his contract remaining. But despite some reports that Vinícius had rejected Madrid's latest contract offer, it is understood that he is now weighing up an improved deal closer to the €30m a season requested after what sources in Spain have described as positive talks. Vinícius said on Tuesday that Madrid's new manager, José Mourinho, wants him to be \"happy, cheerful and playing my football\" after returning to pre-season training following the World Cup.\nArsenal, who have agreed a £75m deal to sign his Brazil teammate Bruno Guimarães from Newcastle, are believed to be exploring other options in attack should Vinícius opt to renew with Madrid.\nBarcelona's sporting director, Deco, held talks with Atlético Madrid over Julián Alvarez on Wednesday in a bid to secure a deal for the Argentina forward but Arsenal are hoping that the 26-year-old could yet be persuaded to join them.\nArsenal, who missed out on Morgan Rogers last month when the England forward joined Chelsea for a British record fee of £117m instead, have also been linked with PSG's Bradley Barcola, who is wanted by Liverpool and valued at around £145m by the European champions.",
+ "new_text": "Real Madrid have sealed the €135m (£115.7m) club-record signing of Yan Diomande from RB Leipzig.\nAfter several weeks of negotiations that saw Paris Saint-Germain pull out of the race, the deal for Diomande - the 19-year-old who joined the German side from Leganés last summer and starred for Côte d'Ivoire at the World Cup - was finally struck on Wednesday afternoon, with Real announcing his arrival on a seven-year contract on Thursday.\n\"Real Madrid and RB Leipzig have reached an agreement for the transfer of Yan Diomande, who will be under contract with our club for the next seven seasons, through June 30, 2033,\" the LaLiga club said in a statement.\nIt is understood that Madrid will pay an initial €125m plus another €10m in add-ons, a total that would eclipse the fee the Spanish side paid Borussia Dortmund to sign Jude Bellingham in 2023, believed to have been worth up to €134m including add-ons.\nLeganés are due a 5% sell-on fee from any transfer. The teenager made only 10 appearances for their first team before being sold to Leipzig for €20m (£17.4m). Diomande, who was pictured arriving at Leipzig's pre-season training camp in Austria on Wednesday, becomes the most expensive African player in history, surpassing the £72m Arsenal spent on Nicolas Pépé in 2019.\nReal are also confident of warding off Arsenal's interest in Vinícius Júnior after offering an improved contract to the Brazil forward. Diomande's arrival is not thought to have any bearing on whether Vinícius stays in the Spanish capital. The Brazilian and his representatives, Roc Nation, held talks with Madrid officials on Wednesday over a contract extension, with Arsenal waiting in the wings if he decides to depart.\nMikel Arteta's side are understood to be ready to pay more than £100m for the 26-year-old who has less than a year of his contract remaining. But despite some reports that Vinícius had rejected Madrid's latest contract offer, it is understood that he is now weighing up an improved deal closer to the €30m a season requested after what sources in Spain have described as positive talks. Vinícius said on Tuesday that Madrid's new manager, José Mourinho, wants him to be \"happy, cheerful and playing my football\" after returning to pre-season training following the World Cup.\nArsenal, who have agreed a £75m deal to sign his Brazil teammate Bruno Guimarães from Newcastle, are believed to be exploring other options in attack should Vinícius opt to renew with Madrid.\nBarcelona's sporting director, Deco, held talks with Atlético Madrid over Julián Alvarez on Wednesday in a bid to secure a deal for the Argentina forward but Arsenal are hoping that the 26-year-old could yet be persuaded to join them.\nArsenal, who missed out on Morgan Rogers last month when the England forward joined Chelsea for a British record fee of £117m instead, have also been linked with PSG's Bradley Barcola, who is wanted by Liverpool and valued at around £145m by the European champions.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Real Madrid have"
+    ],
+    [
+     "del",
+     "agreed a club-record fee of"
+    ],
+    [
+     "ins",
+     "sealed the"
+    ],
+    [
+     "eq",
+     "€135m (£115.7m)"
+    ],
+    [
+     "del",
+     "with RB Leipzig for"
+    ],
+    [
+     "ins",
+     "club-record signing of"
+    ],
+    [
+     "eq",
+     "Yan Diomande"
+    ],
+    [
+     "del",
+     "and are confident of warding off Arsenal's interest in Vinícius Júnior after offering an improved contract to the Brazil forward."
+    ],
+    [
+     "ins",
+     "from RB Leipzig."
+    ],
+    [
+     "eq",
+     "After several weeks of negotiations that saw Paris Saint-Germain pull out of"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Côte d'Ivoire at the World Cup - was finally struck on Wednesday"
+    ],
+    [
+     "del",
+     "afternoon."
+    ],
+    [
+     "ins",
+     "afternoon, with Real announcing his arrival on a seven-year contract on Thursday. \"Real Madrid and RB Leipzig have reached an agreement for the transfer of Yan Diomande, who will be under contract with our club for the next seven seasons, through June 30, 2033,\" the LaLiga club said in a statement."
+    ],
+    [
+     "eq",
+     "It is understood that Madrid will pay an initial €125m plus another"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "was pictured arriving at Leipzig's pre-season training camp in Austria on Wednesday,"
+    ],
+    [
+     "del",
+     "is expected to sign a contract until 2031 and"
+    ],
+    [
+     "eq",
+     "becomes the most expensive African player in history, surpassing the £72m Arsenal spent on Nicolas Pépé in 2019."
+    ],
+    [
+     "del",
+     "His impending"
+    ],
+    [
+     "ins",
+     "Real are also confident of warding off Arsenal's interest in Vinícius Júnior after offering an improved contract to the Brazil forward. Diomande's"
+    ],
+    [
+     "eq",
+     "arrival is not thought to have any bearing on whether Vinícius stays"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2687,
+  "numbers_changed": [
+   "2031",
+   "2033",
+   "30"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.353,
+ "similarity": 0.9362,
+ "adjudicated_by": "rules"
+}
