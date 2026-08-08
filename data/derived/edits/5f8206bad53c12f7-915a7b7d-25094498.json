@@ -1,0 +1,92 @@
+{
+ "id": "5f8206bad53c12f7-915a7b7d-25094498",
+ "url": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-08-08T07:20:24Z",
+ "date": "2026-08-08",
+ "old_title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+ "new_title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+ "old_text": "German police disarmed a drone carrying explosives after it was discovered near Ukrainian cargo aircraft parked at Leipzig airport-and authorities are looking into the possibility of a second drone after an approaching aircraft collided with something midair.\nThe drone was first spotted by an airport employee hovering close to the ground between two parked An-124 cargo aircraft owned by Ukraine's Antonov Airlines shortly before midnight on August 4, according to The Guardian. It had apparently been modified to help avoid detection by the airport's drone defense sensors, said Alexander Dobrindt, federal minister of the interior for Germany, during a press conference.\nDobrindt described the drone as carrying a fist-sized package of a substance believed to be the plastic explosive Semtex. Only a failed detonator prevented the drone from exploding near the Ukrainian cargo aircraft, he said.\nGerman police used a bomb disposal robot to help disarm the drone and later carried out a controlled explosion, according to BBC News.\nContrary to some media reports, the German Interior Ministry has denied that the apparently targeted Ukrainian cargo aircraft were carrying weapons or other munitions for delivery to Ukraine, according to Deutsche Welle. Instead, government officials described the aircraft as having been empty at the time of the drone incident.\nThe incident forced Leipzig/Halle airport-one of Europe's largest air cargo hubs-to close to all air traffic for several hours. That forced 19 flights to divert away from the airport, including a Boeing 757 operated by the shipping company DHL that was forced to abort its landing approach, according to the flight tracking service Flightradar24.\nAs the DHL-operated aircraft started climbing again, it collided with another flying object midair and diverted to land at Hanover airport with minor damage, German police reported in a statement. German authorities are looking into the possibility that the object was a second drone.\nThe possible culprit and motive\nGerman officials have not officially named a suspect behind the attempted attack, but have opened a counterterrorism investigation. Dobrindt acknowledged that \"we are dealing with a contest here that possibly involves foreign powers,\" and described the incident as a \"hybrid threat scenario.\"",
+ "new_text": "German police disarmed a drone carrying explosives after it was discovered near Ukrainian cargo aircraft parked at Leipzig airport-and authorities are looking into the possibility of a second drone after an approaching aircraft collided with something midair.\nThe drone, first spotted by an airport employee, was hovering close to the ground between two parked An-124 cargo aircraft owned by Ukraine's Antonov Airlines shortly before midnight on August 4, according to The Guardian. It had apparently been modified to help avoid detection by the airport's drone defense sensors, said Alexander Dobrindt, federal minister of the interior for Germany, during a press conference.\nDobrindt described the drone as carrying a fist-sized package of a substance believed to be the plastic explosive Semtex. Only a failed detonator prevented the drone from exploding near the Ukrainian cargo aircraft, he said.\nA bus driver managed to kick the flying drone and caused it to crash, according to Detlef Seif, a lawmaker and member of the German parliament's interior committee. In an interview with Reuters, Seif described the driver's actions as \"very daring and courageous, but also very dangerous,\" while acknowledging that \"it is possible that his intervention prevented the intended attack.\"\nGerman police used a bomb disposal robot to help disarm the drone and later carried out a controlled explosion, according to BBC News.\nContrary to some media reports, the German Interior Ministry has denied that the apparently targeted Ukrainian cargo aircraft were carrying weapons or other munitions for delivery to Ukraine, according to Deutsche Welle. Instead, government officials described the aircraft as having been empty at the time of the drone incident.\nThe incident forced Leipzig/Halle airport-one of Europe's largest air cargo hubs-to close to all air traffic for several hours. That forced 19 flights to divert away from the airport, including a Boeing 757 operated by the shipping company DHL that was forced to abort its landing approach, according to the flight tracking service Flightradar24.\nAs the DHL-operated aircraft started climbing again, it collided with another flying object midair and diverted to land at Hanover airport with minor damage, German police reported in a statement. German authorities are looking into the possibility that the object was a second drone.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "a second drone after an approaching aircraft collided with something midair. The"
+    ],
+    [
+     "del",
+     "drone was"
+    ],
+    [
+     "ins",
+     "drone,"
+    ],
+    [
+     "eq",
+     "first spotted by an airport"
+    ],
+    [
+     "del",
+     "employee"
+    ],
+    [
+     "ins",
+     "employee, was"
+    ],
+    [
+     "eq",
+     "hovering close to the ground between two parked An-124 cargo aircraft owned"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "prevented the drone from exploding near the Ukrainian cargo aircraft, he said."
+    ],
+    [
+     "ins",
+     "A bus driver managed to kick the flying drone and caused it to crash, according to Detlef Seif, a lawmaker and member of the German parliament's interior committee. In an interview with Reuters, Seif described the driver's actions as \"very daring and courageous, but also very dangerous,\" while acknowledging that \"it is possible that his intervention prevented the intended attack.\""
+    ],
+    [
+     "eq",
+     "German police used a bomb disposal robot to help disarm the drone"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "are looking into the possibility that the object was a second drone."
+    ],
+    [
+     "del",
+     "The possible culprit and motive German officials have not officially named a suspect behind the attempted attack, but have opened a counterterrorism investigation. Dobrindt acknowledged that \"we are dealing with a contest here that possibly involves foreign powers,\" and described the incident as a \"hybrid threat scenario.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3201,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 2,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 2.078,
+ "similarity": 0.9403,
+ "adjudicated_by": "rules"
+}

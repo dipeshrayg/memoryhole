@@ -1,0 +1,48 @@
+{
+ "id": "aca3416b1f9e067a-546b3715-082acc4a",
+ "url": "https://www.abc.net.au/news/2026-08-07/accc-launches-inquiry-into-food-labelling-after-four-corners/107010678",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-08T07:06:37Z",
+ "date": "2026-08-08",
+ "old_title": "ACCC launches inquiry into claims of food labelling after Four Corners investigation",
+ "new_title": "ACCC launches food labelling inquiry after Four Corners investigation",
+ "old_text": "ACCC launches inquiry into food labelling after Four Corners investigation\nIn short:\nThe Australian Competition and Consumer Commission (ACCC) has launched an inquiry into allegations of misleading food labelling and packaging.\nExtensive laboratory testing of hundreds of food items, conducted for Four Corners, found some products had been adulterated or did not match their label.\nWhat's next?\nAssistant Competition Minister Andrew Leigh has welcomed the inquiry, saying \"Australians shouldn't be duped by misleading labels\".",
+ "new_text": "ACCC launches inquiry into food labelling claims after Four Corners investigation\nIn short:\nThe Australian Competition and Consumer Commission (ACCC) has launched an inquiry into allegations of misleading food labelling and packaging.\nExtensive laboratory testing of hundreds of food items, conducted for Four Corners, found some products had been adulterated or did not match their label.\nWhat's next?\nAssistant Competition Minister Andrew Leigh has welcomed the inquiry, saying \"Australians shouldn't be duped by misleading labels\".",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "ACCC launches inquiry into food labelling"
+    ],
+    [
+     "ins",
+     "claims"
+    ],
+    [
+     "eq",
+     "after Four Corners investigation In short: The Australian Competition and Consumer Commission"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0135,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9948,
+ "adjudicated_by": "rules"
+}

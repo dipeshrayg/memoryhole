@@ -1,0 +1,64 @@
+{
+ "id": "f2d111d4fd57fb47-00fca0a5-c0642f09",
+ "url": "https://www.bbc.co.uk/news/articles/cr597m1vm96o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-08-08T07:13:56Z",
+ "date": "2026-08-08",
+ "old_title": "Drone warnings, sheltering in airports: South Korea battles historic heatwave",
+ "new_title": "Drone warnings, sheltering in airports: South Korea battles historic heatwave",
+ "old_text": "- Published\nSouth Korean authorities are deploying drones to issue heat warnings to farmers while residents are taking shelter in airports, as the country battles an unprecedented heatwave.\nPresident Lee Jae Myung has ordered public agencies to mobilise all available resources to deal with the extreme heat, which he has called a \"national disaster\".\nTemperatures in the south soared to a record 42.5C (108.5F) earlier this week.\nAt least 23 people have died from heat-related illnesses in the country so far this year, while nearly 2,500 have visited emergency rooms for heat-related conditions since mid-May, authorities say.\n\"Heatwave conditions once seen only in foreign news reports have now become our reality,\" Lee said on Thursday.\nSome local governments have deployed trucks to parks, markets and bus stops to distribute chilled bottled waters for free.\nIn the southern city of Yangsan, where the mercury hit a historic high of 42.5C on Sunday, fleets of sprinkler trucks have been roaming the streets, spraying water onto sun-baked roads.\nMeanwhile in rural areas such as North Gyeongsang province, local authorities are deploying drones attached with loudspeakers and thermal imaging cameras to protect its farmers, many of whom are also elderly.\nThe drones hover over the farmers, broadcasting warnings such as \"it's hot, you need to go inside\" to remind them to take breaks and cool down.\nMost outdoor activities have been cancelled on the advice of the national weather agency. These include the daily changing-of-the-guard ceremony at Seoul's Gyeongbokgung Palace.\nThe national baseball organisation has also called off all scheduled games for the week.\nThese cancellations come after a 23-year-old spectator collapsed at a game in Incheon on Tuesday, reportedly due to dehydration and low blood pressure brought on by the heat.\nAmid the scorching temperatures, South Korea's air-conditioned airports â including its largest in Incheon â have become a refuge for some vulnerable communities, including the homeless and the elderly.\nPhotographs on local media show people lying on benches and platforms, using towels as makeshift blankets.\nOne visitor sheltering in Seoul's Gimpo airport told The Korea Times it is a \"perfect place to rest without spending any money\".\n\"I come here from time to time with my friends whenever the weather gets too hot,\" he said.\nMeanwhile a mobile app developed by an undergraduate to direct people to the shadiest walking paths has gained traction online, particularly among students.\nGeuneulro, named after the Korean term for \"shaded road\", takes into account the positions of the sun and shadows cast by buildings and trees to recommend the most shaded routes through the city.\n\"This summer has become so hot that I feel like meat on the grill,\" the app's developer Yu Min-jun told BBC Korean.\nYu says he came up with the app after struggling with commuting in the heat. \"The fact that it has resonated with so many people shows that many are struggling.\n\"That makes me worry because they say it will only get hotter in the future. I hope this prompts more to pay attention to climate change,\" the 23-year-old said.\nClimate experts have said the extreme heat could ease starting this weekend, with daytime highs falling to around 36C, but the hot weather could continue.\nEarlier this week, Seoul's meteorological administration forecast a 50% probability that temperatures in September and October could continue trending higher than average.\nWith reporting by Emily Choi and Kim Hyojung in Seoul",
+ "new_text": "- Published\nSouth Korean authorities are deploying drones to issue heat warnings to farmers while residents are taking shelter in airports, as the country battles an unprecedented heatwave.\nPresident Lee Jae Myung has ordered public agencies to mobilise all available resources to deal with the extreme heat, which he has called a \"national disaster\".\nTemperatures in the south soared to a record 42.5C (108.5F) earlier this week.\nAt least 23 people have died from heat-related illnesses in the country so far this year, while nearly 2,500 have visited emergency rooms for heat-related conditions since mid-May, authorities say.\n\"Heatwave conditions once seen only in foreign news reports have now become our reality,\" Lee said on Thursday.\nSome local governments have deployed trucks to parks, markets and bus stops to distribute chilled bottled waters for free.\nIn the southern city of Yangsan, where the mercury hit a historic high of 42.5C on Sunday, fleets of sprinkler trucks have been roaming the streets, spraying water onto sun-baked roads.\nMeanwhile in rural areas such as North Gyeongsang province, local authorities are deploying drones attached with loudspeakers and thermal imaging cameras to protect its farmers, many of whom are also elderly.\nThe drones hover over the farmers, broadcasting warnings such as \"it's hot, you need to go inside\" to remind them to take breaks and cool down.\nMost outdoor activities have been cancelled on the advice of the national weather agency. These include the daily changing-of-the-guard ceremony at Seoul's Gyeongbokgung Palace.\nThe national baseball organisation has also called off all scheduled games for the week.\nThese cancellations come after a 23-year-old spectator collapsed at a game in Incheon on Tuesday, reportedly due to dehydration and low blood pressure brought on by the heat.\nAmid the scorching temperatures, South Korea's air-conditioned airports â including its largest in Incheon â have become a refuge for some vulnerable communities, including the homeless and the elderly.\nPhotographs on local media show people lying on benches and platforms, using towels as makeshift blankets.\nOne visitor sheltering in Seoul's Gimpo airport told The Korea Times it is a \"perfect place to rest without spending any money\".\n\"I come here from time to time with my friends whenever the weather gets too hot,\" he said.\nMeanwhile a mobile app developed by an undergraduate to direct people to the shadiest walking paths has gained traction online, particularly among students.\nGeuneulro, named after the Korean term for \"shaded road\", takes into account the positions of the sun and shadows cast by buildings and trees to recommend the most shaded routes through the city.\n\"This summer has become so hot that I feel like meat on the grill,\" the app's developer Yoo Min-jun told BBC Korean.\nYoo said he came up with the app after struggling with commuting in the heat. \"The fact that it has resonated with so many people shows that many are struggling.\n\"That makes me worry because they say it will only get hotter in the future. I hope this prompts more to pay attention to climate change,\" the 23-year-old said.\nClimate experts have said the extreme heat could ease starting this weekend, with daytime highs falling to around 36C, but the hot weather could continue.\nEarlier this week, Seoul's meteorological administration forecast a 50% probability that temperatures in September and October could continue trending higher than average.\nWith reporting by Emily Choi and Kim Hyojung in Seoul",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "hot that I feel like meat on the grill,\" the app's developer"
+    ],
+    [
+     "del",
+     "Yu"
+    ],
+    [
+     "ins",
+     "Yoo"
+    ],
+    [
+     "eq",
+     "Min-jun told BBC Korean."
+    ],
+    [
+     "del",
+     "Yu says"
+    ],
+    [
+     "ins",
+     "Yoo said"
+    ],
+    [
+     "eq",
+     "he came up with the app after struggling with commuting in the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0106,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

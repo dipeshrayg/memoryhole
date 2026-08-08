@@ -1,0 +1,314 @@
+{
+ "id": "aa3a1e682ba70fc7-0716904c-49603c92",
+ "url": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-08T07:03:09Z",
+ "date": "2026-08-08",
+ "old_title": "Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship",
+ "new_title": "Trump signs new orders targeting birthright citizenship, weeks after Supreme Court ruling",
+ "old_text": "Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship\nWASHINGTON - President Donald Trump said Thursday that he is once more trying to limit the number of people who are born in the country who can become American citizens, in a sign that even after his first attempt at limiting birthright citizenship was rejected by the Supreme Court, he's ready to try again.\nThe president said he was signing two executive actions on immigration.\nHe said one will limit the number of people eligible for U.S. citizenship after being born in the United States.\nA second order seeks to curb what Trump called \"birth tourism\" by increasing restrictions on visitors to the U.S. who want to obtain visas to give birth while in the country.\nAdditional details weren't provided, but Trump said he thought his latest actions would be constitutional.\nIn June, the Supreme Court rejected Trump's previous efforts to declare that children born to people in the U.S. illegally or temporarily aren't American citizens, and upheld a broad conception of birthright citizenship.\nOn Trump's first day in office of his second term, he signed an executive order aimed at ending birthright citizenship, which allows anyone born in the United States to automatically become an American citizen.\nTrump's administration was immediately sued by opponents who said the executive order went against the 14th Amendment, adopted after the Civil War, which makes anyone born in the country a citizen, with very limited exceptions.\nThe executive order was blocked by several lower courts and never took effect.\nIn June, the Supreme Court struck down Trump's order by a 6-3 vote. But the vote was too close for many immigration advocates and legal observers who felt the legal question of birthright citizenship was a long-settled issue.",
+ "new_text": "Trump signs new orders targeting birthright citizenship, weeks after Supreme Court ruling\nPresident Trump is once again attempting to put restrictions on who is automatically guaranteed citizenship after being born in the U.S., just weeks after the Supreme Court ruled the president's attempt to end birthright citizenship was unconstitutional.\nOn Thursday, Trump signed two executive orders on birthright citizenship and so-called \"birth tourism.\"\nThe first order, titled \"Continuing to Protect the Meaning and Value of American Citizenship,\" aims to exclude babies born to employees working for foreign governments, such as embassy or consulate staff who are foreign nationals. Also excluded are children of members of foreign terrorist groups and whose parents are \"engaged in fraudulent activity to obtain citizenship.\"\nOver the years, the Department of Justice has prosecuted businesses that charge for \"birth tourism\" services. The term refers to the controversial practice of pregnant women who misrepresent their reason for traveling to the U.S. in order to give birth in the country so that their newborn can receive automatic citizenship.\nThe scale of birth tourism remains unclear. Fewer than 10,000 babies were born in the U.S. to foreign residents in 2024, according to estimates from the Centers for Disease Control and Prevention estimates. Meanwhile, the Center for Immigration Studies - a group that supports restricting immigration - estimates that temporary visitors gave birth to about 70,000 babies in 2023.\nBoth estimates suggest that tourist births make up less than 2% of the 3.6 million babies born in the U.S. every year.\nThe second executive order, Ending Birth Tourism, directs the Secretary of State and the Secretary of Homeland Security to prioritize the issue by denying visas to anyone suspected of engaging in the practice.\nSenior White House adviser Stephen Miller touted the crackdown as one of the most important immigration reforms that Trump has taken.\n\"It ends what has been one of the gravest and most egregious abuses of the American system, and it keeps American citizenship sacred,\" he said Thursday during the Oval Office signing.\nLast year, on the first day of his second term, Trump issued an executive order seeking to end birthright citizenship for babies born to parents who were in the U.S. illegally or on temporary visas.\nThis June, the Supreme Court struck down the order, reaffirming that birthright citizenship is guaranteed by the 14th Amendment.\nThe American Civil Liberties Union, which argued for birthright citizenship in the recent case before the Supreme Court, rejected the Trump administration's fresh efforts to curb the constitutional guarantee.\n\"Any executive order that tries to rewrite birthright citizenship will meet the same fate as the last one,\" Cody Wofsy, deputy director of the ACLU's Immigrants' Rights Project, said in a statement.\nDavid Bier, an immigration policy analyst with the Cato Institute, a libertarian think tank, said the executive orders were \"blatantly ignoring the Supreme Court's decision.\"\n\"This is a situation where you would hope that the Supreme Court would step in very quickly to enforce its prior decision,\" he added.\nWhite House staff secretary Will Scharf said Thursday that the administration is taking \"legally validated means.\"\n\"There's absolutely nothing in here that runs afoul of any of the Supreme Court's opinions on the subject,\" he said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Trump signs"
+    ],
+    [
+     "del",
+     "2 immigration actions to curb 'birth tourism,' limit"
+    ],
+    [
+     "ins",
+     "new orders targeting"
+    ],
+    [
+     "eq",
+     "birthright"
+    ],
+    [
+     "del",
+     "citizenship WASHINGTON -"
+    ],
+    [
+     "ins",
+     "citizenship, weeks after Supreme Court ruling"
+    ],
+    [
+     "eq",
+     "President"
+    ],
+    [
+     "del",
+     "Donald"
+    ],
+    [
+     "eq",
+     "Trump"
+    ],
+    [
+     "del",
+     "said Thursday that he"
+    ],
+    [
+     "eq",
+     "is once"
+    ],
+    [
+     "del",
+     "more trying"
+    ],
+    [
+     "ins",
+     "again attempting"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "limit the number of people"
+    ],
+    [
+     "ins",
+     "put restrictions on"
+    ],
+    [
+     "eq",
+     "who"
+    ],
+    [
+     "del",
+     "are born in the country who can become American citizens, in a sign that even after his first attempt at limiting birthright citizenship was rejected by the Supreme Court, he's ready to try again. The president said he was signing two executive actions on immigration. He said one will limit the number of people eligible for U.S."
+    ],
+    [
+     "ins",
+     "is automatically guaranteed"
+    ],
+    [
+     "eq",
+     "citizenship after being born in the"
+    ],
+    [
+     "del",
+     "United States. A second order seeks"
+    ],
+    [
+     "ins",
+     "U.S., just weeks after the Supreme Court ruled the president's attempt"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "curb what"
+    ],
+    [
+     "ins",
+     "end birthright citizenship was unconstitutional. On Thursday,"
+    ],
+    [
+     "eq",
+     "Trump"
+    ],
+    [
+     "del",
+     "called"
+    ],
+    [
+     "ins",
+     "signed two executive orders on birthright citizenship and so-called \"birth tourism.\" The first order, titled \"Continuing to Protect the Meaning and Value of American Citizenship,\" aims to exclude babies born to employees working for foreign governments, such as embassy or consulate staff who are foreign nationals. Also excluded are children of members of foreign terrorist groups and whose parents are \"engaged in fraudulent activity to obtain citizenship.\" Over the years, the Department of Justice has prosecuted businesses that charge for"
+    ],
+    [
+     "eq",
+     "\"birth tourism\""
+    ],
+    [
+     "del",
+     "by increasing restrictions on visitors"
+    ],
+    [
+     "ins",
+     "services. The term refers to the controversial practice of pregnant women who misrepresent their reason for traveling"
+    ],
+    [
+     "eq",
+     "to the U.S."
+    ],
+    [
+     "del",
+     "who want to obtain visas"
+    ],
+    [
+     "ins",
+     "in order"
+    ],
+    [
+     "eq",
+     "to give birth"
+    ],
+    [
+     "del",
+     "while"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "country. Additional details weren't provided, but"
+    ],
+    [
+     "ins",
+     "country so that their newborn can receive automatic citizenship. The scale of birth tourism remains unclear. Fewer than 10,000 babies were born in the U.S. to foreign residents in 2024, according to estimates from the Centers for Disease Control and Prevention estimates. Meanwhile, the Center for Immigration Studies - a group that supports restricting immigration - estimates that temporary visitors gave birth to about 70,000 babies in 2023. Both estimates suggest that tourist births make up less than 2% of the 3.6 million babies born in the U.S. every year. The second executive order, Ending Birth Tourism, directs the Secretary of State and the Secretary of Homeland Security to prioritize the issue by denying visas to anyone suspected of engaging in the practice. Senior White House adviser Stephen Miller touted the crackdown as one of the most important immigration reforms that"
+    ],
+    [
+     "eq",
+     "Trump"
+    ],
+    [
+     "ins",
+     "has taken. \"It ends what has been one of the gravest and most egregious abuses of the American system, and it keeps American citizenship sacred,\" he"
+    ],
+    [
+     "eq",
+     "said"
+    ],
+    [
+     "del",
+     "he thought"
+    ],
+    [
+     "ins",
+     "Thursday during the Oval Office signing. Last year, on the first day of"
+    ],
+    [
+     "eq",
+     "his"
+    ],
+    [
+     "del",
+     "latest actions would be constitutional. In June, the Supreme Court rejected Trump's previous efforts"
+    ],
+    [
+     "ins",
+     "second term, Trump issued an executive order seeking"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "declare that children"
+    ],
+    [
+     "ins",
+     "end birthright citizenship for babies"
+    ],
+    [
+     "eq",
+     "born to"
+    ],
+    [
+     "del",
+     "people"
+    ],
+    [
+     "ins",
+     "parents who were"
+    ],
+    [
+     "eq",
+     "in the U.S. illegally or"
+    ],
+    [
+     "del",
+     "temporarily aren't American citizens, and upheld a broad conception of birthright citizenship. On Trump's first day in office of his second term, he signed an executive order aimed at ending birthright citizenship, which allows anyone born in the United States to automatically become an American citizen. Trump's administration was immediately sued by opponents who said the executive order went against the 14th Amendment, adopted after the Civil War, which makes anyone born in the country a citizen, with very limited exceptions. The executive order was blocked by several lower courts and never took effect. In"
+    ],
+    [
+     "ins",
+     "on temporary visas. This"
+    ],
+    [
+     "eq",
+     "June, the Supreme Court struck down"
+    ],
+    [
+     "del",
+     "Trump's order by a 6-3 vote. But"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "vote was too close for many immigration advocates and legal observers who felt the legal question of"
+    ],
+    [
+     "ins",
+     "order, reaffirming that"
+    ],
+    [
+     "eq",
+     "birthright citizenship"
+    ],
+    [
+     "del",
+     "was"
+    ],
+    [
+     "ins",
+     "is guaranteed by the 14th Amendment. The American Civil Liberties Union, which argued for birthright citizenship in the recent case before the Supreme Court, rejected the Trump administration's fresh efforts to curb the constitutional guarantee. \"Any executive order that tries to rewrite birthright citizenship will meet the same fate as the last one,\" Cody Wofsy, deputy director of the ACLU's Immigrants' Rights Project, said in"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "long-settled issue."
+    ],
+    [
+     "ins",
+     "statement. David Bier, an immigration policy analyst with the Cato Institute, a libertarian think tank, said the executive orders were \"blatantly ignoring the Supreme Court's decision.\" \"This is a situation where you would hope that the Supreme Court would step in very quickly to enforce its prior decision,\" he added. White House staff secretary Will Scharf said Thursday that the administration is taking \"legally validated means.\" \"There's absolutely nothing in here that runs afoul of any of the Supreme Court's opinions on the subject,\" he said."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 2.4865,
+  "numbers_changed": [
+   "10,000",
+   "2023",
+   "2024",
+   "3",
+   "3.6",
+   "6",
+   "70,000"
+  ],
+  "market_figures_changed": [
+   "2%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 4,
+  "blocks_removed": 2,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.134,
+ "similarity": 0.881,
+ "adjudicated_by": "rules"
+}

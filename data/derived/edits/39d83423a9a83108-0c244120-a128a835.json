@@ -1,0 +1,326 @@
+{
+ "id": "39d83423a9a83108-0c244120-a128a835",
+ "url": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-08T07:03:06Z",
+ "date": "2026-08-08",
+ "old_title": "Student shoots multiple people at a high school in Thailand, authorities say",
+ "new_title": "Student gunman kills at least 7 near Bangkok, officials say",
+ "old_text": "Student shoots multiple people at a high school in Thailand, authorities say\nBANGKOK - Police were responding to a shooting Friday at a high school outside Bangkok where deaths and injuries were reported.\nThe shooting happened at the Debsirin Nonthaburi School in Nonthaburi province northwest of the national capital, Royal Thai Police spokesperson Trairong Piwpan told The Associated Press.\nThe shooter was a student who remained inside the school and deaths and injuries were reported, Arsit Sampantharat, permanent secretary for the Interior Ministry, told news station PPTV.\nThe officials did not say how many people were hurt or provide other details.\nImages from the scene about an hour after the shooting showed people standing outside the school comforting one another and police and first responders walking around inside the school. The building apparently had been secured, but officials had not publicly confirmed the status of the shooter.\nA witness told reporters that students hid inside a classroom while they heard gunshots from another building before police officers knocked on the door and cleared a way for them to leave the building.\nIn February, a 17-year-old stole a gun from police and opened fire at a public high school in southern Thailand, briefly taking people hostage in a two-hour attack that killed one person and injured two others.\nIn 2023, a 14-year-old boy was accused of a shooting at a major Bangkok shopping mall.",
+ "new_text": "Student gunman kills at least 7 near Bangkok, officials say\nNONTHABURI, Thailand - A student shot several people at a high school outside Bangkok on Friday morning, killing at least five and wounding several others, according to authorities, who said the gunman also appeared to have separately killed his two grandparents.\nThe shooter then took his own life, officials said.\nFive school staff members, including teachers and administrators, died in the shooting around 10 a.m. at Debsirin Nonthaburi School in Nonthaburi province northwest of Bangkok, Deputy Interior Minister Polapee Suwunchwee said at the scene.\nThe shooter also killed his two grandparents at home prior to the school shooting, Polapee said.\nPrime Minister Anutin Charnvirakul, speaking after touring the school, confirmed reports that the shooter was 14 years old and killed himself. He said the boy, who lived with his grandparents, had shown signs of stress connected to school.\nThe gun, described by police as small and compact, was legally registered to his grandfather, he said.\nAbout an hour after the shooting, people stood outside comforting one another as police and first responders walked around the co-educational state school, which has an enrollment of about 3,000 students ranging from 12 to 18 years old.\nA witness told reporters that students hid inside a classroom while they heard gunshots from another building before police officers knocked on the door and cleared a way for them to leave the building.\nAmporn Niamfuang, who owns a restaurant roughly 50 meters from the school, said the narrow road outside her shop quickly filled with fleeing students after the shooting started.\n\"At first I heard just one gunshot, and there was a pause,\" Amporn said. \"And then there were multiple continuous shots.\"\n\"Students were running scared and pouring onto the street. Young girls were holding each other's hands and crying. I went inside to hide.\"\nBangyai Hospital, about 5 kilometers (3 miles) from the school, said 23 people were wounded and 10 were in critical condition, with most suffering gunshot wounds. Earlier reports gave conflicting casualty numbers.\nThe school said all classes will be suspended from Aug. 10-14, and school staff are instructed to work from home in that period.\nPolice find grandparents dead at family home\nAfter the school shooting, police went to the home of the shooter's grandparents but the door was locked and there was no response to their calls, regional police Commander Wattana Yeejeen said.\nOfficers broke the door lock and found both the grandparents had died of apparent gunshot wounds, Wattana said.\nPolice spokesperson Trairong Piwpan said the boy appeared to have shot his grandparents first before attending school as normal. After the class had started for a while, the boy began shooting from inside his classroom, before walking out and continuing shooting.\nHe said the boy fired more than 20 shots and more than 30 rounds were found on him after he shot himself.\nSeveral family members of the alleged shooter, including his uncle and sisters of the grandfather who were at the family home while police investigated, said he usually kept to himself and was a good student.\nThe family members said they were unaware of any troubles he faced at home or school.\nThailand has high rate of gun owners\nThailand has one of the highest rates of gun ownership in Asia, second only to Pakistan but far surpassing its Southeast Asian neighbors.\nData collected in 2017 by the groups Small Arms Survey and GunPolicy.org in their last extensive international study found civilian gun ownership in Thailand was about 15.1 guns per 100 people, compared with less than one per 100 in neighboring Malaysia.\nThailand had 3.49 deaths by firearms per 100,000 people, according to 2023 statistics published by World Population Review. That puts it well behind parts of Latin America and the Caribbean, but relatively high in Asia. Only the Philippines is higher in Southeast Asia.\nIn February, a 17-year-old stole a gun from police and opened fire at a public high school in southern Thailand, briefly taking people hostage in a two-hour attack that killed one person and injured two others.\nA 14-year-old boy was accused of a 2023 shooting at a major Bangkok shopping mall.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Student"
+    ],
+    [
+     "del",
+     "shoots multiple"
+    ],
+    [
+     "ins",
+     "gunman kills at least 7 near Bangkok, officials say NONTHABURI, Thailand - A student shot several"
+    ],
+    [
+     "eq",
+     "people"
+    ],
+    [
+     "del",
+     "at a high school in Thailand, authorities say BANGKOK - Police were responding to a shooting Friday"
+    ],
+    [
+     "eq",
+     "at a high school outside Bangkok"
+    ],
+    [
+     "del",
+     "where deaths"
+    ],
+    [
+     "ins",
+     "on Friday morning, killing at least five"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "injuries were reported."
+    ],
+    [
+     "ins",
+     "wounding several others, according to authorities, who said the gunman also appeared to have separately killed his two grandparents."
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "ins",
+     "shooter then took his own life, officials said. Five school staff members, including teachers and administrators, died in the"
+    ],
+    [
+     "eq",
+     "shooting"
+    ],
+    [
+     "del",
+     "happened"
+    ],
+    [
+     "ins",
+     "around 10 a.m."
+    ],
+    [
+     "eq",
+     "at"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "eq",
+     "Debsirin Nonthaburi School in Nonthaburi province northwest of"
+    ],
+    [
+     "ins",
+     "Bangkok, Deputy Interior Minister Polapee Suwunchwee said at"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "national capital, Royal Thai Police spokesperson Trairong Piwpan told The Associated Press."
+    ],
+    [
+     "ins",
+     "scene."
+    ],
+    [
+     "eq",
+     "The shooter"
+    ],
+    [
+     "del",
+     "was a student who remained inside"
+    ],
+    [
+     "ins",
+     "also killed his two grandparents at home prior to"
+    ],
+    [
+     "eq",
+     "the school"
+    ],
+    [
+     "ins",
+     "shooting, Polapee said. Prime Minister Anutin Charnvirakul, speaking after touring the school, confirmed reports that the shooter was 14 years old"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "deaths"
+    ],
+    [
+     "ins",
+     "killed himself. He said the boy, who lived with his grandparents, had shown signs of stress connected to school. The gun, described by police as small"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "injuries were reported, Arsit Sampantharat, permanent secretary for the Interior Ministry, told news station PPTV. The officials did not say how many people were hurt or provide other details. Images from the scene about"
+    ],
+    [
+     "ins",
+     "compact, was legally registered to his grandfather, he said. About"
+    ],
+    [
+     "eq",
+     "an hour after the"
+    ],
+    [
+     "del",
+     "shooting showed"
+    ],
+    [
+     "ins",
+     "shooting,"
+    ],
+    [
+     "eq",
+     "people"
+    ],
+    [
+     "del",
+     "standing"
+    ],
+    [
+     "ins",
+     "stood"
+    ],
+    [
+     "eq",
+     "outside"
+    ],
+    [
+     "del",
+     "the school"
+    ],
+    [
+     "eq",
+     "comforting one another"
+    ],
+    [
+     "del",
+     "and"
+    ],
+    [
+     "ins",
+     "as"
+    ],
+    [
+     "eq",
+     "police and first responders"
+    ],
+    [
+     "del",
+     "walking"
+    ],
+    [
+     "ins",
+     "walked"
+    ],
+    [
+     "eq",
+     "around"
+    ],
+    [
+     "del",
+     "inside"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "school. The building apparently had been secured, but officials had not publicly confirmed the status"
+    ],
+    [
+     "ins",
+     "co-educational state school, which has an enrollment"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "the shooter."
+    ],
+    [
+     "ins",
+     "about 3,000 students ranging from 12 to 18 years old."
+    ],
+    [
+     "eq",
+     "A witness told reporters that students hid inside a classroom while they"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the door and cleared a way for them to leave the building."
+    ],
+    [
+     "ins",
+     "Amporn Niamfuang, who owns a restaurant roughly 50 meters from the school, said the narrow road outside her shop quickly filled with fleeing students after the shooting started. \"At first I heard just one gunshot, and there was a pause,\" Amporn said. \"And then there were multiple continuous shots.\" \"Students were running scared and pouring onto the street. Young girls were holding each other's hands and crying. I went inside to hide.\" Bangyai Hospital, about 5 kilometers (3 miles) from the school, said 23 people were wounded and 10 were in critical condition, with most suffering gunshot wounds. Earlier reports gave conflicting casualty numbers. The school said all classes will be suspended from Aug. 10-14, and school staff are instructed to work from home in that period. Police find grandparents dead at family home After the school shooting, police went to the home of the shooter's grandparents but the door was locked and there was no response to their calls, regional police Commander Wattana Yeejeen said. Officers broke the door lock and found both the grandparents had died of apparent gunshot wounds, Wattana said. Police spokesperson Trairong Piwpan said the boy appeared to have shot his grandparents first before attending school as normal. After the class had started for a while, the boy began shooting from inside his classroom, before walking out and continuing shooting. He said the boy fired more than 20 shots and more than 30 rounds were found on him after he shot himself. Several family members of the alleged shooter, including his uncle and sisters of the grandfather who were at the family home while police investigated, said he usually kept to himself and was a good student. The family members said they were unaware of any troubles he faced at home or school. Thailand has high rate of gun owners Thailand has one of the highest rates of gun ownership in Asia, second only to Pakistan but far surpassing its Southeast Asian neighbors. Data collected in 2017 by the groups Small Arms Survey and GunPolicy.org in their last extensive international study found civilian gun ownership in Thailand was about 15.1 guns per 100 people, compared with less than one per 100 in neighboring Malaysia. Thailand had 3.49 deaths by firearms per 100,000 people, according to 2023 statistics published by World Population Review. That puts it well behind parts of Latin America and the Caribbean, but relatively high in Asia. Only the Philippines is higher in Southeast Asia."
+    ],
+    [
+     "eq",
+     "In February, a 17-year-old stole a gun from police and opened fire"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "in a two-hour attack that killed one person and injured two others."
+    ],
+    [
+     "del",
+     "In 2023, a"
+    ],
+    [
+     "ins",
+     "A"
+    ],
+    [
+     "eq",
+     "14-year-old boy was accused of a"
+    ],
+    [
+     "ins",
+     "2023"
+    ],
+    [
+     "eq",
+     "shooting at a major Bangkok shopping mall."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 2.9227,
+  "numbers_changed": [
+   "10",
+   "100",
+   "100,000",
+   "12",
+   "14",
+   "15.1",
+   "18",
+   "20",
+   "2017",
+   "23",
+   "3",
+   "3,000",
+   "3.49",
+   "30",
+   "5",
+   "50",
+   "7"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.388,
+ "similarity": 0.8387,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,72 @@
+{
+ "id": "6806b00eb7d4d8cf-2304dfff-0fd527e3",
+ "url": "https://www.dw.com/en/us-judge-orders-meta-to-pay-567-million-over-harm-to-children/a-78272884?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-08T07:05:05Z",
+ "date": "2026-08-08",
+ "old_title": "US: Meta ordered to pay $567 million over harm to children",
+ "new_title": "US: Meta ordered to pay $567 million over harm to children",
+ "old_text": "A judge in the US state of New Mexico has ordered Meta on Thursday to pay $567 million (€492 million) and overhaul how Facebook and Instagram operate for young users in the state.\nJudge Bryan Biedscheid's ruling, issued in Santa Fe, states the company created a \"public nuisance\" that harmed children's mental health. It also comes on top of $375 million in damages a jury ordered against Meta in March, bringing the company's total New Mexico liability to $942 million. That March verdict found Meta violated the state's consumer protection law by misleading the public about the safety of its platforms for children.\nState Attorney General Raul Torrez sued Meta, which owns Facebook, Instagram and WhatsApp, in 2023. On Thursday, he said the ruling holds the company accountable for design choices that put children at risk.\n\"Today's decision is a victory for every parent who has worried about what social media is doing to their child and every child who deserves to grow up safer online,\" he said.\nWhat does the verdict entail?\nRoughly three-quarters of the $567 million, to be paid out over five years, will fund mental health treatment for young people. The rest will go toward prevention programs, screening, and related services.\nThe judge also ordered Meta to make direct changes to Facebook and Instagram, including monthly limits on teen usage, tighter notification controls, stronger safeguards on adult contact with minors, oversight of AI chatbots, and improved handling of child sexual abuse reports.\nThe company must also work with schools to build a reporting system for flagging underage users, and must also delete data it holds on children under 13. Federal privacy law bars Meta from collecting personal data to verify children's ages, so the court instead ordered the company to keep improving its AI-based age-estimation tools.\nHow has Meta responded?\nMeta has pledged to appeal the latest New Mexico verdict.\n\"We work hard to keep people safe on our platforms and have been transparent about the challenges of identifying and removing bad actors and harmful content,\" the company said in a statement, adding: \"We remain confident in our record of protecting teens online and will continue to defend ourselves against claims that misrepresent the facts.\"\nThe new penalty, ableit massive, is still a small fraction of Meta's roughly $60 billion in annual profit. Investors have largely shrugged it off, with shares dipping less than half a percent in after-hours trading. However, the company still faces a wave of related lawsuits, including a trial set for later this month in Oakland, California, involving 29 states, and separate suits already underway or filed in several other states.\nMoreover, several countries are contemplating social media bans on children under the ages of 15 or 16 to limit the harm caused by being online, Australia - citing mental health, cyber bullying and concerns over lack of physical activity, among others - became the first nation to introduce such a ban for kids under 16 back in December.\nBritain, Canada, Indonesia, Malaysia, Turkey and several European countries have also cracked down on teen use of social media.\nEdited by: Darko Janjevic\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "new_text": "A judge in the US state of New Mexico has ordered Meta on Thursday to pay $567 million (€492 million) and overhaul how Facebook and Instagram operate for young users in the state.\nJudge Bryan Biedscheid's ruling, issued in Santa Fe, states the company created a \"public nuisance\" that harmed children's mental health. It also comes on top of $375 million in damages a jury ordered against Meta in March, bringing the company's total New Mexico liability to $942 million. That March verdict found Meta violated the state's consumer protection law by misleading the public about the safety of its platforms for children.\nState Attorney General Raul Torrez sued Meta, which owns Facebook, Instagram and WhatsApp, in 2023. On Thursday, he said the ruling holds the company accountable for design choices that put children at risk.\n\"Today's decision is a victory for every parent who has worried about what social media is doing to their child and every child who deserves to grow up safer online,\" he said.\nWhat does the verdict entail?\nRoughly three-quarters of the $567 million, to be paid out over five years, will fund mental health treatment for young people. The rest will go toward prevention programs, screening, and related services.\nThe judge also ordered Meta to make direct changes to Facebook and Instagram, including monthly limits on teen usage, tighter notification controls, stronger safeguards on adult contact with minors, oversight of AI chatbots, and improved handling of child sexual abuse reports.\nThe company must also work with schools to build a reporting system for flagging underage users, and must also delete data it holds on children under 13. Federal privacy law bars Meta from collecting personal data to verify children's ages, so the court instead ordered the company to keep improving its AI-based age-estimation tools.\nHow has Meta responded?\nMeta has pledged to appeal the latest New Mexico verdict.\n\"We work hard to keep people safe on our platforms and have been transparent about the challenges of identifying and removing bad actors and harmful content,\" the company said in a statement, adding: \"We remain confident in our record of protecting teens online and will continue to defend ourselves against claims that misrepresent the facts.\"\nThe new penalty, albeit massive, is still a small fraction of Meta's roughly $60 billion in annual profit. Investors have largely shrugged it off, with shares dipping less than half a percent in after-hours trading. However, the company still faces a wave of related lawsuits, including a trial set for later this month in Oakland, California, involving 29 states, and separate suits already underway or filed in several other states.\nMoreover, several countries are contemplating social media bans on children under the ages of 15 or 16 to limit the harm caused by being online, Australia - citing mental health, cyberbullying and concerns over lack of physical activity, among others - became the first nation to introduce such a ban for kids under 16 back in December.\nBritain, Canada, Indonesia, Malaysia, Turkey and several European countries have also cracked down on teen use of social media.\nEdited by: Darko Janjevic\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "to defend ourselves against claims that misrepresent the facts.\" The new penalty,"
+    ],
+    [
+     "del",
+     "ableit"
+    ],
+    [
+     "ins",
+     "albeit"
+    ],
+    [
+     "eq",
+     "massive, is still a small fraction of Meta's roughly $60 billion in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "limit the harm caused by being online, Australia - citing mental health,"
+    ],
+    [
+     "del",
+     "cyber bullying"
+    ],
+    [
+     "ins",
+     "cyberbullying"
+    ],
+    [
+     "eq",
+     "and concerns over lack of physical activity, among others - became the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.009,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,212 @@
+{
+ "id": "edd4740cc99aae17-e379ad37-179843d3",
+ "url": "https://www.independent.co.uk/bulletin/news/thetford-arrests-riots-cause-arrests-b3029096.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-08T07:07:44Z",
+ "date": "2026-08-08",
+ "old_title": "Thetford violence: More arrests over asylum seeker protests",
+ "new_title": "Violence breaks out in South Wales as four arrested and three men hospitalised",
+ "old_text": "Thetford violence: More arrests over asylum seeker protests\n- Further arrests have been made in Thetford following multiple nights of disorder targeting homes linked to asylum seekers.\n- Officers faced significant aggression while responding to the incidents, with two police officers taken to hospital after being attacked.\n- Norfolk Police defended their use of Pava spray as proportionate after criticism that a bystander in a mobility scooter was affected.\n- Disturbances included smashed windows, attempted break-ins and missiles being thrown at police vehicles by crowds.\n- Several suspects have been arrested or charged with offences including public order, inciting racial hatred and possession of an offensive weapon.",
+ "new_text": "Violence breaks out in South Wales as four arrested and three men hospitalised\n- Four men have been arrested following a violent disturbance involving a group near Pontypool, South Wales, on Thursday evening around 7:15 PM.\n- Three men were taken to hospital as a result of the disorder, with two of them currently in a critical condition.\n- Armed police and the National Police Air Service were deployed to support officers at the scene in Mill Road, Pontnewynydd.\n- Gwent Police confirmed that two of the arrested men remain in police custody as investigations continue into the incident.\n- Detective Chief Superintendent Anne-Marie Salwey condemned the violence and urged anyone with information, CCTV, or dashcam footage from the Hospital Road and Mill Road area between 7 PM and 7:30 PM on Thursday to contact the police.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Thetford violence: More arrests over asylum seeker protests"
+    ],
+    [
+     "ins",
+     "Violence breaks out in South Wales as four arrested and three men hospitalised"
+    ],
+    [
+     "eq",
+     "-"
+    ],
+    [
+     "del",
+     "Further arrests"
+    ],
+    [
+     "ins",
+     "Four men"
+    ],
+    [
+     "eq",
+     "have been"
+    ],
+    [
+     "del",
+     "made in Thetford"
+    ],
+    [
+     "ins",
+     "arrested"
+    ],
+    [
+     "eq",
+     "following"
+    ],
+    [
+     "del",
+     "multiple nights of disorder targeting homes linked to asylum seekers."
+    ],
+    [
+     "ins",
+     "a violent disturbance involving a group near Pontypool, South Wales, on Thursday evening around 7:15 PM."
+    ],
+    [
+     "eq",
+     "-"
+    ],
+    [
+     "del",
+     "Officers faced significant aggression while responding to the incidents, with two police officers"
+    ],
+    [
+     "ins",
+     "Three men were"
+    ],
+    [
+     "eq",
+     "taken to hospital"
+    ],
+    [
+     "del",
+     "after being attacked. - Norfolk Police defended their use"
+    ],
+    [
+     "ins",
+     "as a result"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "Pava spray as proportionate after criticism that a bystander"
+    ],
+    [
+     "ins",
+     "the disorder, with two of them currently"
+    ],
+    [
+     "eq",
+     "in a"
+    ],
+    [
+     "del",
+     "mobility scooter was affected."
+    ],
+    [
+     "ins",
+     "critical condition."
+    ],
+    [
+     "eq",
+     "-"
+    ],
+    [
+     "del",
+     "Disturbances included smashed windows, attempted break-ins"
+    ],
+    [
+     "ins",
+     "Armed police"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "missiles being thrown"
+    ],
+    [
+     "ins",
+     "the National Police Air Service were deployed to support officers"
+    ],
+    [
+     "eq",
+     "at"
+    ],
+    [
+     "ins",
+     "the scene in Mill Road, Pontnewynydd. - Gwent Police confirmed that two of the arrested men remain in"
+    ],
+    [
+     "eq",
+     "police"
+    ],
+    [
+     "del",
+     "vehicles by crowds."
+    ],
+    [
+     "ins",
+     "custody as investigations continue into the incident."
+    ],
+    [
+     "eq",
+     "-"
+    ],
+    [
+     "del",
+     "Several suspects have been arrested"
+    ],
+    [
+     "ins",
+     "Detective Chief Superintendent Anne-Marie Salwey condemned the violence and urged anyone with information, CCTV,"
+    ],
+    [
+     "eq",
+     "or"
+    ],
+    [
+     "del",
+     "charged with offences including public order, inciting racial hatred"
+    ],
+    [
+     "ins",
+     "dashcam footage from the Hospital Road"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "possession of an offensive weapon."
+    ],
+    [
+     "ins",
+     "Mill Road area between 7 PM and 7:30 PM on Thursday to contact the police."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.9439,
+  "numbers_changed": [
+   "15",
+   "30",
+   "7"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.7,
+ "similarity": 0.5592,
+ "adjudicated_by": "rules"
+}

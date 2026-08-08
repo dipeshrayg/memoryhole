@@ -1,0 +1,72 @@
+{
+ "id": "f75cc8d5e381f917-0f31d33a-0080ca1f",
+ "url": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-08-08T07:13:58Z",
+ "date": "2026-08-08",
+ "old_title": "Where is Jackie? Beloved live cam eagle in critical condition",
+ "new_title": "Where is Jackie? Beloved live cam eagle in critical condition",
+ "old_text": "Where is Jackie? Beloved live cam eagle in critical condition\nJackie, the bald eagle who has gained worldwide fame over the years, has been diagnosed with anemia and is in \"critical\" condition.\nJackie and her partner, Shadow, have been watched by millions of people over the years through the Big Bear Eagle Nest Cam, run by the nonprofit Friends of Big Bear Valley in California.\nThe eagle is under veterinary care at the Ojai Raptor Center, and despite showing signs of improvement in her anemia last week, her packed cell volume has dropped to 13%, down from 17%.\nVideo produced by Blanca Estrada",
+ "new_text": "Where is Jackie? Beloved live cam eagle in critical condition\nJackie, the bald eagle who has gained worldwide fame over the years, has been diagnosed with anaemia and is in \"critical\" condition.\nJackie and her partner, Shadow, have been watched by millions of people over the years through the Big Bear Eagle Nest Cam, run by the nonprofit Friends of Big Bear Valley in California.\nThe eagle is under veterinary care at the Ojai Raptor Center, and despite showing signs of improvement in her anaemia last week, her packed cell volume has dropped to 13%, down from 17%.\nVideo produced by Blanca Estrada",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "who has gained worldwide fame over the years, has been diagnosed with"
+    ],
+    [
+     "del",
+     "anemia"
+    ],
+    [
+     "ins",
+     "anaemia"
+    ],
+    [
+     "eq",
+     "and is in \"critical\" condition. Jackie and her partner, Shadow, have been"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the Ojai Raptor Center, and despite showing signs of improvement in her"
+    ],
+    [
+     "del",
+     "anemia"
+    ],
+    [
+     "ins",
+     "anaemia"
+    ],
+    [
+     "eq",
+     "last week, her packed cell volume has dropped to 13%, down from 17%. Video produced by Blanca Estrada"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0388,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9976,
+ "adjudicated_by": "rules"
+}
