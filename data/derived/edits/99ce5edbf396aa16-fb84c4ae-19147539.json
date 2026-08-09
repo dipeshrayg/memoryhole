@@ -1,0 +1,446 @@
+{
+ "id": "99ce5edbf396aa16-fb84c4ae-19147539",
+ "url": "https://www.theguardian.com/sport/2026/aug/07/wakefield-leeds-super-league-match-report",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-08-09T07:19:07Z",
+ "date": "2026-08-09",
+ "old_title": "Leeds extend lead at top of Super League after thrilling late win at Wakefield",
+ "new_title": "Leeds extend lead at top of Super League after thrilling late win at Wakefield",
+ "old_text": "Whisper it but perhaps that was the performance of a champion side. All week the talk had been about Wakefield Trinity and whether this could be the night they declared themselves as a Super League force in front of a sell-out crowd against Leeds Rhinos.\nIn the end, they probably did that, despite the result. These two West Yorkshire rivals served up a classic under the Belle Vue lights but in the end, despite never leading until the 77th minute, Leeds mustered up all their strength and championship credentials to complete a comeback which began when they trailed by 16 points with half an hour left.\nAt that stage it felt inevitable that Wakefield would be going joint-top of the table with Leeds. Trinity, a Championship side two years ago, looked as though they were about to deliver their biggest statement yet that they could be about to end their 60-year wait for a major trophy. However, the Rhinos dug deep and found a way.\nJames McDonnell's try gave them hope before three minutes later Cameron Smith, the game's outstanding player who will play for Wakefield in 2027, scored to mean a 22-6 lead for Wakefield had suddenly been reduced to 22-18. As it entered the championship rounds, it was Trinity who blinked, as Chris Hankinson seized on a Jake Connor kick, with Connor converting to win it.\nThis was a result and a performance born out of Leeds and Brad Arthur's darkest moment together. Last year they were beaten in the final seconds by St Helens in the playoffs and the Rhinos spent all pre-season warning there would be no repeat. This felt like living proof of that; Leeds showing they can go to the well in the toughest of times to secure a huge win.\n\"That's the evidence of us learning from it,\" Arthur said. \"We've done the work. Under a bit of pressure we kept our composure, our key players kept composure. I challenged them at half-time to go right to the 80th minute ... boy, they did it.\" Leeds were outplayed for large stretches here, with Wakefield good value for their 16-6 half-time lead.\nTries from Isaiah Vagana, Caleb Hamlin-Uele and Jayden Myers put Trinity in control, and had the majority of this sell-out crowd dreaming of going joint-top. Brodie Croft's try just before the break gave Leeds hope but when Jack Sinfield scored against his former club to make it 22-6, it looked as though the momentum was back with Wakefield.\nThe Rhinos were on the ropes. But this group are built differently in 2026, with McDonnell's try starting the comeback and Hankinson's finishing it - with Leeds surviving a frantic final few moments to go four points clear with five games left. With this win Leeds are now heavy favourites to finish top, which would result in their first piece of silverware in six years.\nAs for Wakefield, they will be bruised by this. Having lost by four to Wigan in the cup quarter-finals and now by two here to the league leaders, this was perhaps a subtle lesson again about the final step they still have to take. They should, however, take great pride from this - and great heart from what they did for the most part if they meet Leeds again in the playoffs.\n\"The story this year is not over,\" Wakefield's coach, Daryl Powell, said. \"Leeds might have got off tonight but I'm pretty comfortable going against them again in a playoff game. They're a great side but I watched us thinking if we play how we did in the first half we're a fair team to defend against and play against.\"\nOne thing is for certain: if these two meet again under the lights at Old Trafford in eight weeks and serve up a repeat of this classic, nobody will be complaining.",
+ "new_text": "Whisper it, but perhaps this was the performance of a champion side. All week the talk had been about Wakefield Trinity and whether this could be the night they declared themselves as a Super League force in front of a sell-out crowd against Leeds Rhinos.\nIn the end, they probably did that, despite the result. These two West Yorkshire rivals served up a classic under the lights, but despite not leading until the 77th minute Leeds mustered up all their strength to complete a comeback from 16 points down with half an hour left.\nAt that stage it felt inevitable Wakefield would be going joint-top of the table with Leeds. Trinity, a Championship side two years ago, looked as though they were about to deliver their biggest statement yet that they could be about to end their 60-year wait for a major trophy. However, the Rhinos dug deep and found a way.\nJames McDonnell's try gave them hope and three minutes later Cameron Smith, the game's outstanding player who will play for Wakefield in 2027, scored to mean a 22-6 lead for Wakefield had suddenly been reduced to 22-18. It was Trinity who blinked, as Chris Hankinson seized on a Jake Connor kick, with Connor converting to win it.\nThis was a result and a performance born out of Leeds and Brad Arthur's darkest moment together. Last year, they were beaten in the final seconds by St Helens in the playoffs and the Rhinos spent pre-season warning there would be no repeat. \"That's the evidence of us learning from it,\" Arthur said. \"We've done the work. Under a bit of pressure we kept our composure. I challenged them at half-time to go right to the 80th minute ... boy, they did it.\"\nLeeds were outplayed for large stretches, with Wakefield good value for their 16-6 half-time lead. Tries from Isaiah Vagana, Caleb Hamlin-Uele and Jayden Myers put Trinity in control. Brodie Croft's try just before the break gave Leeds hope, but when Jack Sinfield scored against his former club to make it 22-6, it looked as though the Rhinos were on the ropes. But this group are built differently, with McDonnell's try starting the comeback and Hankinson's finishing it for Leeds to go four points clear with five games left. Leeds are now in prime position to win their first piece of silverware for six years.\nAs for Wakefield, they will be bruised. Having lost by four to Wigan in the cup quarter-finals and now by two to the league leaders, this was perhaps a subtle lesson again about the final step they still have to take. They should, however, take great pride and great heart from what they did if they meet Leeds in the playoffs.\n\"The story this year is not over,\" Wakefield's coach, Daryl Powell, said. \"Leeds might have got off tonight, but I'm pretty comfortable going against them again in a playoff game. They're a great side, but I watched us thinking if we play how we did in the first half we're a fair team to defend against and play against.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Whisper"
+    ],
+    [
+     "del",
+     "it"
+    ],
+    [
+     "ins",
+     "it,"
+    ],
+    [
+     "eq",
+     "but perhaps"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "ins",
+     "this"
+    ],
+    [
+     "eq",
+     "was the performance of a champion side. All week the talk had"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "result. These two West Yorkshire rivals served up a classic under the"
+    ],
+    [
+     "del",
+     "Belle Vue lights"
+    ],
+    [
+     "ins",
+     "lights,"
+    ],
+    [
+     "eq",
+     "but"
+    ],
+    [
+     "del",
+     "in the end,"
+    ],
+    [
+     "eq",
+     "despite"
+    ],
+    [
+     "del",
+     "never"
+    ],
+    [
+     "ins",
+     "not"
+    ],
+    [
+     "eq",
+     "leading until the 77th"
+    ],
+    [
+     "del",
+     "minute,"
+    ],
+    [
+     "ins",
+     "minute"
+    ],
+    [
+     "eq",
+     "Leeds mustered up all their strength"
+    ],
+    [
+     "del",
+     "and championship credentials"
+    ],
+    [
+     "eq",
+     "to complete a comeback"
+    ],
+    [
+     "del",
+     "which began when they trailed by"
+    ],
+    [
+     "ins",
+     "from"
+    ],
+    [
+     "eq",
+     "16 points"
+    ],
+    [
+     "ins",
+     "down"
+    ],
+    [
+     "eq",
+     "with half an hour left. At that stage it felt inevitable"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "eq",
+     "Wakefield would be going joint-top of the table with Leeds. Trinity, a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "dug deep and found a way. James McDonnell's try gave them hope"
+    ],
+    [
+     "del",
+     "before"
+    ],
+    [
+     "ins",
+     "and"
+    ],
+    [
+     "eq",
+     "three minutes later Cameron Smith, the game's outstanding player who will play"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "mean a 22-6 lead for Wakefield had suddenly been reduced to 22-18."
+    ],
+    [
+     "del",
+     "As it entered the championship rounds, it"
+    ],
+    [
+     "ins",
+     "It"
+    ],
+    [
+     "eq",
+     "was Trinity who blinked, as Chris Hankinson seized on a Jake Connor"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "performance born out of Leeds and Brad Arthur's darkest moment together. Last"
+    ],
+    [
+     "del",
+     "year"
+    ],
+    [
+     "ins",
+     "year,"
+    ],
+    [
+     "eq",
+     "they were beaten in the final seconds by St Helens in the playoffs and the Rhinos spent"
+    ],
+    [
+     "del",
+     "all"
+    ],
+    [
+     "eq",
+     "pre-season warning there would be no repeat."
+    ],
+    [
+     "del",
+     "This felt like living proof of that; Leeds showing they can go to the well in the toughest of times to secure a huge win."
+    ],
+    [
+     "eq",
+     "\"That's the evidence of us learning from it,\" Arthur said. \"We've done the work. Under a bit of pressure we kept our"
+    ],
+    [
+     "del",
+     "composure, our key players kept"
+    ],
+    [
+     "eq",
+     "composure. I challenged them at half-time to go right to the 80th minute ... boy, they did it.\" Leeds were outplayed for large"
+    ],
+    [
+     "del",
+     "stretches here,"
+    ],
+    [
+     "ins",
+     "stretches,"
+    ],
+    [
+     "eq",
+     "with Wakefield good value for their 16-6 half-time lead. Tries from Isaiah Vagana, Caleb Hamlin-Uele and Jayden Myers put Trinity in"
+    ],
+    [
+     "del",
+     "control, and had the majority of this sell-out crowd dreaming of going joint-top."
+    ],
+    [
+     "ins",
+     "control."
+    ],
+    [
+     "eq",
+     "Brodie Croft's try just before the break gave Leeds"
+    ],
+    [
+     "del",
+     "hope"
+    ],
+    [
+     "ins",
+     "hope,"
+    ],
+    [
+     "eq",
+     "but when Jack Sinfield scored against his former club to make it 22-6, it looked as though the"
+    ],
+    [
+     "del",
+     "momentum was back with Wakefield. The"
+    ],
+    [
+     "eq",
+     "Rhinos were on the ropes. But this group are built"
+    ],
+    [
+     "del",
+     "differently in 2026,"
+    ],
+    [
+     "ins",
+     "differently,"
+    ],
+    [
+     "eq",
+     "with McDonnell's try starting the comeback and Hankinson's finishing it"
+    ],
+    [
+     "del",
+     "- with"
+    ],
+    [
+     "ins",
+     "for"
+    ],
+    [
+     "eq",
+     "Leeds"
+    ],
+    [
+     "del",
+     "surviving a frantic final few moments"
+    ],
+    [
+     "eq",
+     "to go four points clear with five games left."
+    ],
+    [
+     "del",
+     "With this win"
+    ],
+    [
+     "eq",
+     "Leeds are now"
+    ],
+    [
+     "del",
+     "heavy favourites"
+    ],
+    [
+     "ins",
+     "in prime position"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "finish top, which would result in"
+    ],
+    [
+     "ins",
+     "win"
+    ],
+    [
+     "eq",
+     "their first piece of silverware"
+    ],
+    [
+     "del",
+     "in"
+    ],
+    [
+     "ins",
+     "for"
+    ],
+    [
+     "eq",
+     "six years. As for Wakefield, they will be"
+    ],
+    [
+     "del",
+     "bruised by this."
+    ],
+    [
+     "ins",
+     "bruised."
+    ],
+    [
+     "eq",
+     "Having lost by four to Wigan in the cup quarter-finals and now by two"
+    ],
+    [
+     "del",
+     "here"
+    ],
+    [
+     "eq",
+     "to the league leaders, this was perhaps a subtle lesson again about"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "step they still have to take. They should, however, take great pride"
+    ],
+    [
+     "del",
+     "from this -"
+    ],
+    [
+     "eq",
+     "and great heart from what they did"
+    ],
+    [
+     "del",
+     "for the most part"
+    ],
+    [
+     "eq",
+     "if they meet Leeds"
+    ],
+    [
+     "del",
+     "again"
+    ],
+    [
+     "eq",
+     "in the playoffs. \"The story this year is not over,\" Wakefield's coach, Daryl Powell, said. \"Leeds might have got off"
+    ],
+    [
+     "del",
+     "tonight"
+    ],
+    [
+     "ins",
+     "tonight,"
+    ],
+    [
+     "eq",
+     "but I'm pretty comfortable going against them again in a playoff game. They're a great"
+    ],
+    [
+     "del",
+     "side"
+    ],
+    [
+     "ins",
+     "side,"
+    ],
+    [
+     "eq",
+     "but I watched us thinking if we play how we did in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "first half we're a fair team to defend against and play against.\""
+    ],
+    [
+     "del",
+     "One thing is for certain: if these two meet again under the lights at Old Trafford in eight weeks and serve up a repeat of this classic, nobody will be complaining."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2691,
+  "numbers_changed": [
+   "2026"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9639,
+ "adjudicated_by": "rules"
+}

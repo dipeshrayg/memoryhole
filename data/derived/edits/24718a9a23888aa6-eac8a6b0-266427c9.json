@@ -1,0 +1,56 @@
+{
+ "id": "24718a9a23888aa6-eac8a6b0-266427c9",
+ "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-sizzling-growth-win-over-040100637.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-09T07:15:29Z",
+ "date": "2026-08-09",
+ "old_title": "Can Palantir's Sizzling Growth Win Over Market Bears?",
+ "new_title": "Can Palantir's Sizzling Growth Win Over Market Bears?",
+ "old_text": "Concerned about an AI bubble? Sign up for The Daily Upside for smart and actionable market news, built for investors.\nThey're a picky bunch on Wall Street lately. Will Palantir, when it reports its latest quarterly results this afternoon, have enough good news? Despite a better-than-expected $1.6 billion revenue haul in the first quarter, an 85% year-over-year gain, shares in the software and data analytics giant have tumbled 31% in 2026.\nAn aggressive second-quarter sales forecast of $1.8 billion, representing an 80% increase, couldn't summon the momentum to escape this year's protracted selloff of software holdings, either. Whatever today's result, options pricing suggests traders expect a dramatic swing of up to 10%. So strap in.\nREAD ALSO: Can a Manufacturing Rebound Turn Fluor's Fortunes Around? and For Moderna's Greenlit mRNA Flu Vaccine, Payoff Is a Ways Off\nAmerican Brand\nBest known for its Gotham platform, built for government, defense and intelligence organizations, the company boosted US government revenue by 84% year over year to $687 million in the first quarter. There's also Palantir's commercial side, where its Foundry operating system and Artificial Intelligence Platform provide tools to help companies manage their data operations. In the same three-month period, US commercial revenue surged by 133% year over year to $595 million.\nBears look past those numbers to a Mauna Kea-sized price-to-earnings ratio of 137, a valuation that, to them, simply doesn't add up. RBC Capital questioned last week whether the company can \"sustain its current growth trajectory.\" Notably, they flagged OpenAI, Anthropic and other AI companies angling to win more government and defense contracts, which would potentially dent market share. \"We struggle to underwrite a scenario that justifies current valuation levels,\" the bank's analysts wrote, with their $90 price target implying a 27% downside on the stock.\nMeanwhile, bulls see Palantir's US momentum as so strong that it can overcome concerns overseas:\n- For example, Germany and France recently pledged to explore developing an alternative to Palantir's defense software. The domestic intelligence agencies in both countries recently opted to contract with French rival ChapsVision over Palantir, with French Prime Minister Sébastien Lecornu calling it necessary to avoid a \"strategic dependency\" on US-controlled systems.\n- In an earnings preview, Morningstar said that while European growth would be nice, it might not ultimately matter, even though \"European growth would be a massive accelerant to the upside and make the valuation math work a lot better.\"",
+ "new_text": "Concerned about an AI bubble? Sign up for The Daily Upside for smart and actionable market news, built for investors.\nThey're a picky bunch on Wall Street lately. Will Palantir, when it reports its latest quarterly results this afternoon, have enough good news? Despite a better-than-expected $1.6 billion revenue haul in the first quarter, an 85% year-over-year gain, shares in the software and data analytics giant have tumbled 31% in 2026.\nAn aggressive second-quarter sales forecast of $1.8 billion, representing an 80% increase, couldn't summon the momentum to escape this year's protracted selloff of software holdings, either. Whatever today's result, options pricing suggests traders expect a dramatic swing of up to 10%. So strap in.\nREAD ALSO: With SEO Rizz Fading, Brands Compete For Chatbot Love and Can a Manufacturing Rebound Turn Fluor's Fortunes Around?\nAmerican Brand\nBest known for its Gotham platform, built for government, defense and intelligence organizations, the company boosted US government revenue by 84% year over year to $687 million in the first quarter. There's also Palantir's commercial side, where its Foundry operating system and Artificial Intelligence Platform provide tools to help companies manage their data operations. In the same three-month period, US commercial revenue surged by 133% year over year to $595 million.\nBears look past those numbers to a Mauna Kea-sized price-to-earnings ratio of 137, a valuation that, to them, simply doesn't add up. RBC Capital questioned last week whether the company can \"sustain its current growth trajectory.\" Notably, they flagged OpenAI, Anthropic and other AI companies angling to win more government and defense contracts, which would potentially dent market share. \"We struggle to underwrite a scenario that justifies current valuation levels,\" the bank's analysts wrote, with their $90 price target implying a 27% downside on the stock.\nMeanwhile, bulls see Palantir's US momentum as so strong that it can overcome concerns overseas:\n- For example, Germany and France recently pledged to explore developing an alternative to Palantir's defense software. The domestic intelligence agencies in both countries recently opted to contract with French rival ChapsVision over Palantir, with French Prime Minister Sébastien Lecornu calling it necessary to avoid a \"strategic dependency\" on US-controlled systems.\n- In an earnings preview, Morningstar said that while European growth would be nice, it might not ultimately matter, even though \"European growth would be a massive accelerant to the upside and make the valuation math work a lot better.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "a dramatic swing of up to 10%. So strap in. READ ALSO:"
+    ],
+    [
+     "ins",
+     "With SEO Rizz Fading, Brands Compete For Chatbot Love and"
+    ],
+    [
+     "eq",
+     "Can a Manufacturing Rebound Turn Fluor's Fortunes Around?"
+    ],
+    [
+     "del",
+     "and For Moderna's Greenlit mRNA Flu Vaccine, Payoff Is a Ways Off"
+    ],
+    [
+     "eq",
+     "American Brand Best known for its Gotham platform, built for government, defense"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0547,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 0.8997,
+ "adjudicated_by": "rules"
+}

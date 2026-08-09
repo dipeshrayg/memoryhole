@@ -1,0 +1,201 @@
+{
+ "id": "39aa466dddec4cb2-8b8305ca-adae49d6",
+ "url": "https://www.independent.co.uk/bulletin/news/bristol-airport-departures-news-arrivals-b3029671.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-09T07:10:13Z",
+ "date": "2026-08-09",
+ "old_title": "Passengers stranded as flights suspended at Bristol Airport",
+ "new_title": "Passengers 'frustrated' after Bristol Airport suspends flights for 14 hours",
+ "old_text": "Passengers stranded as flights suspended at Bristol Airport\n- Bristol Airport suspended all flights on Friday evening due to a defect on its runway, leaving passengers stranded.\n- The airport announced that operations would remain closed until at least 8am on Saturday to allow for assessment and repair of the issue.\n- Numerous flights were delayed, including early morning services to Paris and Faro.\n- Passenger Paul Smith expressed frustration over the lack of communication and support from the airport and airlines.\n- Airlines, such as Jet2, said that their flights were delayed rather than cancelled, awaiting the runway's reopening.",
+ "new_text": "Passengers 'frustrated' after Bristol Airport suspends flights for 14 hours\n- Bristol Airport's runway was closed from Friday evening until Saturday morning due to a defect, leading to widespread flight suspensions.\n- The closure, which lasted from approximately 6pm on Friday until 8am on Saturday, caused significant disruption, including cancellations and delays of up to 15 hours for some passengers.\n- Passengers reported \"chaos\" and \"extremely frustrating\" experiences, with many criticising the lack of clear communication from the airport and airlines.\n- One passenger, Sophie Brazier-Smith, described being boarded onto an easyJet flight before being disembarked an hour later, despite the airport having already suspended operations.\n- While flights have now resumed, the airport has warned of continued disruption, advising customers to check with their airlines for updated flight information.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Passengers"
+    ],
+    [
+     "del",
+     "stranded as flights suspended at"
+    ],
+    [
+     "ins",
+     "'frustrated' after"
+    ],
+    [
+     "eq",
+     "Bristol Airport"
+    ],
+    [
+     "ins",
+     "suspends flights for 14 hours"
+    ],
+    [
+     "eq",
+     "- Bristol"
+    ],
+    [
+     "del",
+     "Airport suspended all flights on"
+    ],
+    [
+     "ins",
+     "Airport's runway was closed from"
+    ],
+    [
+     "eq",
+     "Friday evening"
+    ],
+    [
+     "ins",
+     "until Saturday morning"
+    ],
+    [
+     "eq",
+     "due to a"
+    ],
+    [
+     "del",
+     "defect on its runway, leaving passengers stranded."
+    ],
+    [
+     "ins",
+     "defect, leading to widespread flight suspensions."
+    ],
+    [
+     "eq",
+     "- The"
+    ],
+    [
+     "del",
+     "airport announced that operations would remain closed"
+    ],
+    [
+     "ins",
+     "closure, which lasted from approximately 6pm on Friday"
+    ],
+    [
+     "eq",
+     "until"
+    ],
+    [
+     "del",
+     "at least"
+    ],
+    [
+     "eq",
+     "8am on"
+    ],
+    [
+     "del",
+     "Saturday"
+    ],
+    [
+     "ins",
+     "Saturday, caused significant disruption, including cancellations and delays of up"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "allow"
+    ],
+    [
+     "ins",
+     "15 hours"
+    ],
+    [
+     "eq",
+     "for"
+    ],
+    [
+     "del",
+     "assessment"
+    ],
+    [
+     "ins",
+     "some passengers. - Passengers reported \"chaos\""
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "repair of the issue. - Numerous flights were delayed, including early morning services to Paris and Faro. - Passenger Paul Smith expressed frustration over"
+    ],
+    [
+     "ins",
+     "\"extremely frustrating\" experiences, with many criticising"
+    ],
+    [
+     "eq",
+     "the lack of"
+    ],
+    [
+     "ins",
+     "clear"
+    ],
+    [
+     "eq",
+     "communication"
+    ],
+    [
+     "del",
+     "and support"
+    ],
+    [
+     "eq",
+     "from the airport and airlines. -"
+    ],
+    [
+     "del",
+     "Airlines, such as Jet2, said that"
+    ],
+    [
+     "ins",
+     "One passenger, Sophie Brazier-Smith, described being boarded onto an easyJet flight before being disembarked an hour later, despite the airport having already suspended operations. - While flights have now resumed, the airport has warned of continued disruption, advising customers to check with"
+    ],
+    [
+     "eq",
+     "their"
+    ],
+    [
+     "del",
+     "flights were delayed rather than cancelled, awaiting the runway's reopening."
+    ],
+    [
+     "ins",
+     "airlines for updated flight information."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.72,
+  "numbers_changed": [
+   "14",
+   "15",
+   "2",
+   "6"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.677,
+ "similarity": 0.8821,
+ "adjudicated_by": "rules"
+}

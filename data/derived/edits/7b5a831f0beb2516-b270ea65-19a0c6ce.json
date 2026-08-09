@@ -1,0 +1,52 @@
+{
+ "id": "7b5a831f0beb2516-b270ea65-19a0c6ce",
+ "url": "https://www.bbc.co.uk/sport/football/articles/c4gxvvxldewo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-08-09T07:17:43Z",
+ "date": "2026-08-09",
+ "old_title": "Liverpool transfers: Ronald Araujo close to season-long loan from Barcelona",
+ "new_title": "Liverpool transfers: Ronald Araujo close to season-long loan from Barcelona",
+ "old_text": "- Published\nLiverpool are close to signing Uruguay defender Ronald Araujo on a season-long loan from Barcelona.\nThe deal includes an option to buy Araujo, who is expected to link up with the Liverpool squad this weekend.\nThe 27-year-old centre-back has helped Barca win La Liga in three of the past four seasons, and ended last season as club captain.\nAraujo is under contract until 2031 but only made 11 league starts last season, with Gerard Martin and Pau Cubarsi emerging as their preferred central defensive pairing.\nAfter joining Barca from Uruguayan club Boston River in 2018, Araujo has made more than 200 appearances for the Spanish giants.\nLiverpool were looking to strengthen their defence after Ibrahima Konate left the Reds to join Real Madrid on a free transfer.",
+ "new_text": "- Published\nLiverpool are close to signing Uruguay defender Ronald Araujo on a season-long loan from Barcelona.\nThe deal includes an option to buy Araujo, who is expected to have a medical on Sunday.\nThe 27-year-old centre-back has helped Barca win La Liga in three of the past four seasons, and ended last season as club captain.\nAraujo is under contract until 2031 but only made 11 league starts last season, with Gerard Martin and Pau Cubarsi emerging as their preferred central defensive pairing.\nAfter joining Barca from Uruguayan club Boston River in 2018, Araujo has made more than 200 appearances for the Spanish giants.\nLiverpool were looking to strengthen their defence after Ibrahima Konate left the Reds to join Real Madrid on a free transfer.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "The deal includes an option to buy Araujo, who is expected to"
+    ],
+    [
+     "del",
+     "link up with the Liverpool squad this weekend."
+    ],
+    [
+     "ins",
+     "have a medical on Sunday."
+    ],
+    [
+     "eq",
+     "The 27-year-old centre-back has helped Barca win La Liga in three of"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1008,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.994,
+ "adjudicated_by": "rules"
+}

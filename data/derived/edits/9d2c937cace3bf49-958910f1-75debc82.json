@@ -1,0 +1,72 @@
+{
+ "id": "9d2c937cace3bf49-958910f1-75debc82",
+ "url": "https://www.france24.com/en/video/20260808-russian-strikes-kill-three-near-kyiv-zelensky-makes-landmark-visit-to-serbia",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-09T07:08:12Z",
+ "date": "2026-08-09",
+ "old_title": "Russian strikes kill three near Kyiv, Zelensky makes landmark visit to Serbia",
+ "new_title": "Russian strikes kill four near Kyiv, Zelensky makes landmark visit to Serbia",
+ "old_text": "Russian strikes kill three near Kyiv, Zelensky makes landmark visit to Serbia\nIssued on:\nShare\nRussian missile strikes killed three people, including a child, in the Kyiv region on Saturday, said local authorities. The attack came hours after Ukrainian President Volodymyr Zelensky arrived in Belgrade on a landmark visit to Serbia, a country with close ties to Moscow. FRANCE 24's Emmanuelle Chaze reports from Kharkiv.",
+ "new_text": "Russian strikes kill four near Kyiv, Zelensky makes landmark visit to Serbia\nIssued on: Modified:\nShare\nRussian missile strikes killed four people, including a child, in the Kyiv region on Saturday, said local authorities. The attack came hours after Ukrainian President Volodymyr Zelensky arrived in Belgrade on a landmark visit to Serbia, a country with close ties to Moscow. FRANCE 24's Emmanuelle Chaze reports from Kharkiv.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Russian strikes kill"
+    ],
+    [
+     "del",
+     "three"
+    ],
+    [
+     "ins",
+     "four"
+    ],
+    [
+     "eq",
+     "near Kyiv, Zelensky makes landmark visit to Serbia Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "Share Russian missile strikes killed"
+    ],
+    [
+     "del",
+     "three"
+    ],
+    [
+     "ins",
+     "four"
+    ],
+    [
+     "eq",
+     "people, including a child, in the Kyiv region on Saturday, said local"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0769,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9849,
+ "adjudicated_by": "rules"
+}
