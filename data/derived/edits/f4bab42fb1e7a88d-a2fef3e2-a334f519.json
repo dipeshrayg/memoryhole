@@ -1,0 +1,111 @@
+{
+ "id": "f4bab42fb1e7a88d-a2fef3e2-a334f519",
+ "url": "https://www.france24.com/en/europe/20260808-spain-imposes-border-checks-on-italian-travellers-amid-migrant-dispute",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-10T07:54:30Z",
+ "date": "2026-08-10",
+ "old_title": "Spain imposes border checks on Italian travellers amid migrant dispute",
+ "new_title": "Spain begins border checks on Italian travellers amid migration row",
+ "old_text": "Spain imposes border checks on Italian travellers amid migrant dispute\nSpain on Saturday introduced temporary border checks on travellers arriving from Italy, escalating a dispute between the EU partners over migration. The move follows Italy's decision to impose similar controls after more than 70,000 migrants crossed into Spain's Ceuta enclave from Morocco, most of whom later returned.\nSpain on Saturday started border checks on travellers arriving from Italy, responding to similar measures Rome imposed following an unprecedented migrant rush into the Spanish north African enclave of Ceuta.\n\"I don't see a lot of the word 'diplomacy' used in these decisions, not by the Italian government, nor by the Spanish government,\" said one 36-year-old Italian tourist, Maria Celeste Grillo, who had just flown into Madrid.\nShe said she had not seen any added checks as she stepped off the plane, but found their implementation \"sad\".\nSpain announced Friday it would proceed with the heightened controls, citing \"persistent irregular migration pressure\" facing Italy - deepening a row between the EU partners and NATO allies.\nRead moreCeuta migrant influx reignites immigration divisions in Europe\nSpain's left-wing government has complained that Italy's hard-right government on July 31 unfairly imposed one month of border checks on travellers from Spain - suspending the EU's Schengen Area visa-free travel arrangements - because of the Ceuta influx.\nMore than 70,000 migrants had crossed from Morocco into the Ceuta enclave on July 30 and 31, though almost all of them subsequently returned to Morocco within 48 hours.\nThe inflow alarmed European nations, especially right-wing ones urging tougher rules on irregular migrants. However, rules for Ceuta mean migrants cannot travel onward to continental Europe without passing another layer of border checks.\nSpain's interior ministry said the new checks on incoming travellers from Italy would apply until September 7.\n(FRANCE 24 with AFP)",
+ "new_text": "Spain begins border checks on Italian travellers amid migration row\nSpain on Saturday introduced temporary border checks on travellers arriving from Italy, escalating a dispute between the EU partners over migration. The move follows Italy's decision to impose similar controls after more than 70,000 migrants were able to cross into Spain's Ceuta enclave from Morocco on July 30-31, although most of them later returned.\nSpain on Saturday started border checks on travellers arriving from Italy, responding to similar measures Rome imposed following an unprecedented migrant rush into the Spanish north African enclave of Ceuta.\n\"I don't see a lot of the word 'diplomacy' used in these decisions, not by the Italian government, nor by the Spanish government,\" said one 36-year-old Italian tourist, Maria Celeste Grillo, who had just flown into Madrid.\nShe said she had not seen any added checks as she stepped off the plane, but found their implementation \"sad\".\nSpain announced Friday it would proceed with the heightened controls, citing \"persistent irregular migration pressure\" facing Italy - deepening a row between the EU partners and NATO allies.\nRead moreCeuta migrant influx reignites immigration divisions in Europe\nSpain's left-wing government has complained that Italy's hard-right government on July 31 unfairly imposed one month of border checks on travellers from Spain - suspending the EU's Schengen Area visa-free travel arrangements - because of the Ceuta influx.\nMore than 70,000 migrants had crossed from Morocco into the Ceuta enclave on July 30 and 31, though almost all of them subsequently returned to Morocco within 48 hours.\nThe inflow alarmed European nations, especially right-wing ones urging tougher rules on irregular migrants. However, rules for Ceuta mean migrants cannot travel onward to continental Europe without passing another layer of border checks.\nSpain's interior ministry said the new checks on incoming travellers from Italy would apply until September 7.\n(FRANCE 24 with AFP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Spain"
+    ],
+    [
+     "del",
+     "imposes"
+    ],
+    [
+     "ins",
+     "begins"
+    ],
+    [
+     "eq",
+     "border checks on Italian travellers amid"
+    ],
+    [
+     "del",
+     "migrant dispute"
+    ],
+    [
+     "ins",
+     "migration row"
+    ],
+    [
+     "eq",
+     "Spain on Saturday introduced temporary border checks on travellers arriving from Italy,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "follows Italy's decision to impose similar controls after more than 70,000 migrants"
+    ],
+    [
+     "del",
+     "crossed"
+    ],
+    [
+     "ins",
+     "were able to cross"
+    ],
+    [
+     "eq",
+     "into Spain's Ceuta enclave from"
+    ],
+    [
+     "del",
+     "Morocco,"
+    ],
+    [
+     "ins",
+     "Morocco on July 30-31, although"
+    ],
+    [
+     "eq",
+     "most of"
+    ],
+    [
+     "del",
+     "whom"
+    ],
+    [
+     "ins",
+     "them"
+    ],
+    [
+     "eq",
+     "later returned. Spain on Saturday started border checks on travellers arriving from"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0629,
+  "numbers_changed": [
+   "30",
+   "31"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9842,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,94 @@
+{
+ "id": "9c51281315e45340-4c78291d-55d8b491",
+ "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-10T07:50:34Z",
+ "date": "2026-08-10",
+ "old_title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+ "new_title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+ "old_text": "- Published\nThe US blogger Perez Hilton is in a \"serious but stable\" condition after being admitted to hospital, according to his family.\nEmergency services were called to his Miami home on Tuesday after members of the public reported concerns while watching a TikTok livestream.\nThe Miami sheriff's office confirmed they attended a scene of a man \"livestreaming acts of self-harm\" on Tuesday. They did not confirm his name but said the man was alone in the house at the time.\nA statement released on the 48-year-old's website said he \"experienced significant blood loss\" and his treatment and recovery would be a \"long process\".\n- If you are affected by any of the issues in this story, help and support is available at BBC Action Line.\nThe statement, external said Hilton was being held in hospital under Florida's Baker Act, which focuses on providing services for people experiencing a mental health crisis.\nThe father-of-three, whose real name is Mario Lavandeira, is expected to have surgery in the coming days.\nA TikTok spokesman said its automated moderation systems flagged the livestream within minutes to the company's US moderation team for review.\nA moderator error caused a delay in the removal, TikTok said, but the company alerted law enforcement to the situation, closed several subsequent streams within 90 seconds, and banned the account.\nThe pseudonym Perez Hilton is a reference to Paris Hilton who was at the height of her fame when the celebrity gossip blog was launched in 2005.\nThe website would go on to attract 8 million hits a day at a time when the internet was still in its relative infancy. It was criticised for vicious commentary of stars including Miley Cyrus and Lady Gaga.\nIn later years, Hilton admitted having regrets about being \"mean or cruel\".\nHe has also appeared on reality TV shows including Celebrity Rap Superstar and Celebrity Big Brother.",
+ "new_text": "- Published\nThe US blogger Perez Hilton is in a \"serious but stable\" condition after being admitted to hospital, according to his family.\nEmergency services were called to his Miami home on Tuesday after members of the public reported concerns while watching a TikTok livestream.\nThe Miami sheriff's office confirmed they attended a scene of a man \"livestreaming acts of self-harm\" on Tuesday. They did not confirm his name but said the man was alone in the house at the time.\nA statement released on the 48-year-old's website said he \"experienced significant blood loss\" and his treatment and recovery would be a \"long process\".\n- If you are affected by any of the issues in this story, help and support is available at BBC Action Line.\nThe statement, external said Hilton was being held in hospital under Florida's Baker Act, which focuses on providing services for people experiencing a mental health crisis.\nThe father-of-three, whose real name is Mario Lavandeira, is expected to have surgery in the coming days.\nA TikTok spokesman said its automated moderation systems flagged the livestream to the company's US moderation team for review within minutes.\nA moderator error caused a delay in the removal, TikTok said, but the company alerted law enforcement to the situation, closed several subsequent streams within 90 seconds, and banned the account.\nThe pseudonym Perez Hilton is a reference to Paris Hilton, who was at the height of her fame when the celebrity gossip blog was launched in 2005.\nThe website would go on to attract eight million hits a day at a time when the internet was still in its relative infancy. It was criticised for vicious commentary of stars including Miley Cyrus and Lady Gaga.\nIn later years, Hilton admitted having regrets about being \"mean or cruel\".\nHe has also appeared on reality TV shows including Celebrity Rap Superstar and Celebrity Big Brother.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "days. A TikTok spokesman said its automated moderation systems flagged the livestream"
+    ],
+    [
+     "del",
+     "within minutes"
+    ],
+    [
+     "eq",
+     "to the company's US moderation team for"
+    ],
+    [
+     "del",
+     "review."
+    ],
+    [
+     "ins",
+     "review within minutes."
+    ],
+    [
+     "eq",
+     "A moderator error caused a delay in the removal, TikTok said, but"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "banned the account. The pseudonym Perez Hilton is a reference to Paris"
+    ],
+    [
+     "del",
+     "Hilton"
+    ],
+    [
+     "ins",
+     "Hilton,"
+    ],
+    [
+     "eq",
+     "who was at the height of her fame when the celebrity gossip blog was launched in 2005. The website would go on to attract"
+    ],
+    [
+     "del",
+     "8"
+    ],
+    [
+     "ins",
+     "eight"
+    ],
+    [
+     "eq",
+     "million hits a day at a time when the internet was still"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0318,
+  "numbers_changed": [
+   "8"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9996,
+ "adjudicated_by": "rules"
+}

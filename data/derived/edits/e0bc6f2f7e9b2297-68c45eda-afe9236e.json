@@ -1,0 +1,112 @@
+{
+ "id": "e0bc6f2f7e9b2297-68c45eda-afe9236e",
+ "url": "https://www.independent.co.uk/asia/china/shanghai-cancels-1-300-flights-as-china-prepares-for-typhoon-dolphin-b3029903.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-10T07:56:31Z",
+ "date": "2026-08-10",
+ "old_title": "Shanghai cancels 1,300 flights and relocates 300,000 people ahead of Typhoon Dolphin",
+ "new_title": "Shanghai cancels 1,300 flights and relocates 300,000 people ahead of Typhoon Dolphin",
+ "old_text": "Shanghai's two airports cancelled more than 1,300 flights and authorities relocated some 300,000 people in surrounding regions as China prepared for Typhoon Dolphin, after the storm brought heavy rains to northern Taiwan.\nThe outer bands of the storm hit northern Taiwan, including the capital Taipei, on Saturday.\nSome Taiwanese airlines also cancelled their flights to China on Sunday.\nThe storm's maximum sustained winds were estimated at about 162kmph (101mph) as of Sunday morning.\nIt is bringing heavy rains, creating a risk of severe flooding as well as landslides, and is expected to hit Zhejiang province and northern parts of neighbouring Fujian province late on Sunday.\nThat is equal to a Category 2 storm on the Saffir-Simpson Hurricane Wind Scale, a storm capable of producing extensive damage to homes, trees and infrastructure.\nForecasters in China predicted that areas could see 200-400mm (7.9-15.7in) of rainfall over the next few days.\nAuthorities are warning of severe landslide risks in Zhejiang.\nShanghai's Hongqiao and Pudong airports respectively also canceled about 60 per cent of Sunday's expected flights, according to the Paper, Shanghai's state media.\nOn Saturday evening, authorities in Zhejiang evacuated some 390,000 people in the city of Taizhou.\nAuthorities in Shanghai evacuated some 30,000 plus from riskier areas. Zhejiang authorities also suspended all water-based activities, including ferries and cruises.\nTyphoon Dolphin has already swept through Japan's southern Okinawa prefecture, injuring six people and cutting power to more than 50,000 buildings.\nBefore its landfall in China, authorities moved offshore workers to safety, ordered vessels back to port and increased checks at reservoirs, mountain streams, landslide-prone areas, construction sites and tourist locations.\nTorrential rai After landfall, Dolphin is forecast to track westward before slowing over central and southwestern China and gradually losing strength, Wang Haiping, chief forecaster at the National Meteorological Centre, told state broadcaster CCTV.\nShanghai's Yangshan port cleared ships from its berths and moved more than 500 small and medium-sized vessels to shelter ahead of Dolphin, the city's maritime safety administration said.\nThat could prolong heavy rain and raise the risk of flooding and landslides, especially in mountainous areas and along smaller rivers.\n(Additional reporting from Reuters)",
+ "new_text": "Shanghai's two airports canceled more than 1,300 flights and authorities relocated some 300,000 people in surrounding regions as China prepared for Typhoon Dolphin, after the storm brought heavy rains to northern Taiwan.\nThe outer bands of the storm on Saturday hit northern Taiwan, including the capital Taipei, bringing rain.\nSome Taiwanese airlines also canceled their flights to China on Sunday.\nThe storm's maximum sustained winds were estimated at about 162kmph (101mph) as of Sunday morning. It is bringing heavy rains, creating a risk of severe flooding as well as landslides and is expected to hit Zhejiang province and northern parts of neighbouring Fujian province late on Sunday.\nThat is equal to a Category 2 storm on the Saffir-Simpson Hurricane Wind Scale, a storm capable of producing extensive damage to homes, trees and infrastructure.\nForecasters in China predicted that areas could see 200-400mm (7.9-15.7in) of rainfall over the next few days.\nAuthorities are warning of severe landslide risks in Zhejiang.\nShanghai's Hongqiao and Pudong airports respectively also canceled about 60 per cent of Sunday's expected flights, according to the Paper, Shanghai's state media.\nOn Saturday evening, authorities in Zhejiang evacuated some 390,000 people in the city of Taizhou.\nAuthorities in Shanghai evacuated some 30,000 plus from riskier areas. Zhejiang authorities also suspended all water-based activities, including ferries and cruises.\nTyphoon Dolphin has already swept through Japan's southern Okinawa prefecture, injuring six people and cutting power to more than 50,000 buildings.\nBefore its landfall in China, authorities moved offshore workers to safety, ordered vessels back to port and increased checks at reservoirs, mountain streams, landslide-prone areas, construction sites and tourist locations.\nTorrential rai After landfall, Dolphin is forecast to track westward before slowing over central and southwestern China and gradually losing strength, Wang Haiping, chief forecaster at the National Meteorological Centre, told state broadcaster CCTV.\nShanghai's Yangshan port cleared ships from its berths and moved more than 500 small and medium-sized vessels to shelter ahead of Dolphin, the city's maritime safety administration said.\nThat could prolong heavy rain and raise the risk of flooding and landslides, especially in mountainous areas and along smaller rivers.\n(Additional reporting from Reuters)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Shanghai's two airports"
+    ],
+    [
+     "del",
+     "cancelled"
+    ],
+    [
+     "ins",
+     "canceled"
+    ],
+    [
+     "eq",
+     "more than 1,300 flights and authorities relocated some 300,000 people in surrounding"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "brought heavy rains to northern Taiwan. The outer bands of the storm"
+    ],
+    [
+     "ins",
+     "on Saturday"
+    ],
+    [
+     "eq",
+     "hit northern Taiwan, including the capital Taipei,"
+    ],
+    [
+     "del",
+     "on Saturday."
+    ],
+    [
+     "ins",
+     "bringing rain."
+    ],
+    [
+     "eq",
+     "Some Taiwanese airlines also"
+    ],
+    [
+     "del",
+     "cancelled"
+    ],
+    [
+     "ins",
+     "canceled"
+    ],
+    [
+     "eq",
+     "their flights to China on Sunday. The storm's maximum sustained winds were"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "bringing heavy rains, creating a risk of severe flooding as well as"
+    ],
+    [
+     "del",
+     "landslides,"
+    ],
+    [
+     "ins",
+     "landslides"
+    ],
+    [
+     "eq",
+     "and is expected to hit Zhejiang province and northern parts of neighbouring"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0339,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9977,
+ "adjudicated_by": "rules"
+}

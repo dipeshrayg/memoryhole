@@ -1,0 +1,44 @@
+{
+ "id": "baea9ce8bf8a57e3-84f14093-f93a9a8e",
+ "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Technology",
+ "country": "United Kingdom",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-08-10T08:02:25Z",
+ "date": "2026-08-10",
+ "old_title": "AI or real? BBC analyses viral China disaster videos",
+ "new_title": "AI or real? BBC analyses viral China disaster videos",
+ "old_text": "AI or real? BBC analyses viral China disaster videos\nAs weather events become more extreme, fake videos are being shared rapidly online, and itâs causing real world problems in China.\nThe government has vowed to crack down on misinformation, but as our China correspondent Stephen McDonell explains, identifying AI-generated content is becoming increasingly difficult.",
+ "new_text": "AI or real? BBC analyses viral China disaster videos\nAs weather events become more extreme, fake videos are being shared rapidly online, and itâs causing real world problems in China.\nThe government has vowed to crack down on misinformation, but as our China correspondent Stephen McDonell explains, identifying AI-generated content is becoming increasingly difficult.\nVideo by Kellie Highet, with additional reporting from BBC Verify and Joyce Liu.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "China correspondent Stephen McDonell explains, identifying AI-generated content is becoming increasingly difficult."
+    ],
+    [
+     "ins",
+     "Video by Kellie Highet, with additional reporting from BBC Verify and Joyce Liu."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2407,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9952,
+ "adjudicated_by": "rules"
+}

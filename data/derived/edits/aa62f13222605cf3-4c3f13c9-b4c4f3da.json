@@ -1,0 +1,50 @@
+{
+ "id": "aa62f13222605cf3-4c3f13c9-b4c4f3da",
+ "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-08-10T08:02:15Z",
+ "date": "2026-08-10",
+ "old_title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+ "new_title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+ "old_text": "- Published\nTyphoon Dolphin has cut power to at least 44,000 buildings and injured at least five people after hitting Japan's Okinawa island on Saturday.\nFlights to and from Okinawa's main airport - Naha International Airport - were cancelled as it closed on Friday as the storm arrived.\nThe storm had maximum wind speeds of 162km/h (101mph) on Saturday and has been categorised as a \"very strong\" typhoon by the Japan Meteorological Agency, which warned of high waves, storm surges and lightning strikes.\nDolphin is expected to make landfall on China's eastern coast late on Sunday or early on Monday. Authorities there have shut ports and schools ahead of its arrival.\nThe main areas in Japan affected by the typhoon are the islands of Okinawa and Amami in the far south-west of the country.\nFive elderly people suffered non-life-threatening injuries, according to the Okinawan prefectural government. Three of them fell because of the strong winds, it said.\nJapan's national broadcaster NHK reports numerous accounts of trees being toppled by strong winds throughout Nago city in Okinawa, while a car was found overturned and leaking oil in a parking lot.\nIn China, Zhejiang's Ningbo Lishe International Airport said it would stop its operations from 23:30 local time on Saturday (15:30 GMT) and suspend all flights on Sunday.\nA coastal typhoon alert in Zhejiang has been raised to its highest level, and port and ferry services have been halted in the Chinese province.\nTyphoon season in the western Pacific typically occurs between May and October, when typhoons are considered more commonplace. This year is a strong El NiÃ±o year, which experts say means typhoons can grow to be more intense.\nIn an average year of 25 cyclones reaching tropical storm strength in the region, around three usually make landfall in Japan, according to the country's meteorological agency.\nSome of these will be strong enough to be classified as typhoons â as was the case with Dolphin.\nA typhoon is the term used for storms that form in the north-west Pacific, whereas a hurricane is the term used for storms that form in the Atlantic or eastern Pacific.",
+ "new_text": "- Published\nTyphoon Dolphin has cut power to at least 44,000 buildings and injured at least five people after hitting Japan's Okinawa island on Saturday.\nFlights to and from Okinawa's main airport - Naha International Airport - were cancelled as it closed on Friday as the storm arrived.\nThe storm had maximum wind speeds of 162km/h (101mph) on Saturday and has been categorised as a \"very strong\" typhoon by the Japan Meteorological Agency, which warned of high waves, storm surges and lightning strikes.\nDolphin is expected to make landfall on China's eastern coast late on Sunday or early on Monday. Authorities there have shut ports and schools ahead of its arrival.\nThe main areas in Japan affected by the typhoon are the islands of Okinawa and Amami in the far south-west of the country.\nFive elderly people suffered non-life-threatening injuries, according to the Okinawan prefectural government. Three of them fell because of the strong winds, it said.\nJapan's national broadcaster NHK reports numerous accounts of trees being toppled by strong winds throughout Nago city in Okinawa, while a car was found overturned and leaking oil in a parking lot.\nIn China, Zhejiang's Ningbo Lishe International Airport said it would stop its operations from 23:30 local time on Saturday (15:30 GMT) and suspend all flights on Sunday.\nA coastal typhoon alert in Zhejiang has been raised to its highest level, and port and ferry services have been halted in the Chinese province.\nIn Hong Kong, its weather observatory posted a record high temperature of 36.9C on Sunday as Typhoon Dolphin swept warm air over the city.\nTyphoon season in the western Pacific typically occurs between May and October, when typhoons are considered more commonplace. This year is a strong El NiÃ±o year, which experts say means typhoons can grow to be more intense.\nIn an average year of 25 cyclones reaching tropical storm strength in the region, around three usually make landfall in Japan, according to the country's meteorological agency.\nSome of these will be strong enough to be classified as typhoons â as was the case with Dolphin.\nA typhoon is the term used for storms that form in the north-west Pacific, whereas a hurricane is the term used for storms that form in the Atlantic or eastern Pacific.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "and port and ferry services have been halted in the Chinese province."
+    ],
+    [
+     "ins",
+     "In Hong Kong, its weather observatory posted a record high temperature of 36.9C on Sunday as Typhoon Dolphin swept warm air over the city."
+    ],
+    [
+     "eq",
+     "Typhoon season in the western Pacific typically occurs between May and October,"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0676,
+  "numbers_changed": [
+   "36.9"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

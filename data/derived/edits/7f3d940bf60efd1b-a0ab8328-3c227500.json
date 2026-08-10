@@ -1,0 +1,51 @@
+{
+ "id": "7f3d940bf60efd1b-a0ab8328-3c227500",
+ "url": "https://www.abc.net.au/news/2026-08-05/at-least-four-killed-in-fatal-crash-on-stuart-highway-marrakai/107000776",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-10T07:54:43Z",
+ "date": "2026-08-10",
+ "old_title": "Police confirm 'no surviving occupants' after ute, van engulfed in flames",
+ "new_title": "Police confirm 'no surviving occupants' after ute, van engulfed in flames",
+ "old_text": "Five people killed in fiery head-on crash on Stuart Highway, near Marrakai Road intersection\nWed 5 Aug 2026 at 6:43pm\n, updated\nThu 6 Aug 2026 at 11:38am\nIn short:\nA two-vehicle crash on the Stuart Highway, near the Marrakai Road intersection, has claimed the lives of five people.\nNorthern Territory Police say both vehicles were engulfed by flames after the head-on collision and \"there were no surviving occupants\".\nThe area remains a crime scene with a detour in place.\nFive people have died after a fiery head-on crash between two vehicles on the Stuart Highway, south-east of Darwin, occurred on Wednesday afternoon.\nNorthern Territory Acting Commander of Crime Robert Griffiths said the crash had occurred about 2 kilometres south of the turn-off to Marrakai Road, with police receiving multiple reports about 12:50pm.\nNT Police initially said the crash had claimed \"at least four lives\", but overnight a fifth body was located during the ongoing examination of the scene.\n\"Tragically both vehicles, as a result of that collision, were engulfed in fire soon after that collision with all persons within those vehicles passing away at the scene, despite the significant efforts of all people at that location,\" Acting Commander Griffiths said.\nNT Police said investigations indicate a Ford Ranger, travelling northbound, crossed onto the wrong side of the highway and collided head-on with the Toyota HiAce, believed to be a goods van, travelling southbound.\nNT Police said a 69-year-old woman, the sole occupant of the HiAce, was among the deceased, along with the 23-year-old male driver of the Ford Ranger ute and his three passengers, two women aged 23 and 32, and a 36-year-old man.\nActing Commander Griffiths said all victims were believed to be residents of the Northern Territory, with early investigations suggesting they lived in the Roper Gulf district and the Greater Darwin region.\n\"A response through the DVI team, the Disaster Victim Identification team, was stood up yesterday under my authority,\" he said.\n\"They will work with the families to ensure dignity and respect is given to those who have passed away tragically through this crash.\n\"It will take time, but time is what's deserved.\n\"The complete identity of those individuals remains under investigation - those families involved, we believe we may know who they are and there's been engagement with those people.\"\nDetective Senior Sergeant Michael Schumacher said investigators were continuing to piece together the circumstances.\n\"This is an incredibly tragic incident that has claimed five lives and will have a devastating impact on multiple families and the wider community,\" he said.\n\"Witnesses have told investigators the utility was travelling at excessive speed and overtaking dangerously in the minutes leading up to the collision.\"\nHe urged any witnesses who saw either vehicle prior to the crash to come forward.\nActing Commander Griffiths said it was important that people not speculate on the cause of the crash, which is still under investigation.\n\"Five people have tragically lost their lives on Territory roads through this crash,\" he said.\n\"This impact will be long-standing, there is no doubt about that - whether you are a first responder, a member of the public, a family member of those impacted, you may not realise it.\n\"Whether that impacts you today, tomorrow, in three months time or three years time, it is vitally important that you reach out to the appropriate services and engage with them.\"\nThe area remains a crime scene and a detour is in place.\nPolice said motorists should expect delays in the area.",
+ "new_text": "In short:\nA two-vehicle crash on the Stuart Highway, near the Marrakai Road intersection, has claimed the lives of five people.\nNorthern Territory Police say both vehicles were engulfed by flames after the head-on collision and \"there were no surviving occupants\".\nThe area remains a crime scene with a detour in place.\nFive people have died after a fiery head-on crash between two vehicles on the Stuart Highway, south-east of Darwin, occurred on Wednesday afternoon.\nNorthern Territory Acting Commander of Crime Robert Griffiths said the crash had occurred about 2 kilometres south of the turn-off to Marrakai Road, with police receiving multiple reports about 12:50pm.\nNT Police initially said the crash had claimed \"at least four lives\", but overnight a fifth body was located during the ongoing examination of the scene.\n\"Tragically both vehicles, as a result of that collision, were engulfed in fire soon after that collision with all persons within those vehicles passing away at the scene, despite the significant efforts of all people at that location,\" Acting Commander Griffiths said.\nNT Police said investigations indicate a Ford Ranger, travelling northbound, crossed onto the wrong side of the highway and collided head-on with the Toyota HiAce, believed to be a goods van, travelling southbound.\nNT Police said a 69-year-old woman, the sole occupant of the HiAce, was among the deceased, along with the 23-year-old male driver of the Ford Ranger ute and his three passengers, two women aged 23 and 32, and a 36-year-old man.\nActing Commander Griffiths said all victims were believed to be residents of the Northern Territory, with early investigations suggesting they lived in the Roper Gulf district and the Greater Darwin region.\n\"A response through the DVI team, the Disaster Victim Identification team, was stood up yesterday under my authority,\" he said.\n\"They will work with the families to ensure dignity and respect is given to those who have passed away tragically through this crash.\n\"It will take time, but time is what's deserved.\n\"The complete identity of those individuals remains under investigation - those families involved, we believe we may know who they are and there's been engagement with those people.\"\nDetective Senior Sergeant Michael Schumacher said investigators were continuing to piece together the circumstances.\n\"This is an incredibly tragic incident that has claimed five lives and will have a devastating impact on multiple families and the wider community,\" he said.\n\"Witnesses have told investigators the utility was travelling at excessive speed and overtaking dangerously in the minutes leading up to the collision.\"\nHe urged any witnesses who saw either vehicle prior to the crash to come forward.\nActing Commander Griffiths said it was important that people not speculate on the cause of the crash, which is still under investigation.\n\"Five people have tragically lost their lives on Territory roads through this crash,\" he said.\n\"This impact will be long-standing, there is no doubt about that - whether you are a first responder, a member of the public, a family member of those impacted, you may not realise it.\n\"Whether that impacts you today, tomorrow, in three months time or three years time, it is vitally important that you reach out to the appropriate services and engage with them.\"\nThe area remains a crime scene and a detour is in place.\nPolice said motorists should expect delays in the area.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Five people killed in fiery head-on crash on Stuart Highway, near Marrakai Road intersection Wed 5 Aug 2026 at 6:43pm , updated Thu 6 Aug 2026 at 11:38am"
+    ],
+    [
+     "eq",
+     "In short: A two-vehicle crash on the Stuart Highway, near the Marrakai"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0479,
+  "numbers_changed": [
+   "11",
+   "2026",
+   "38",
+   "43",
+   "5",
+   "6"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9153,
+ "adjudicated_by": "rules"
+}
