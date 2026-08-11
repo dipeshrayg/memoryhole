@@ -1,0 +1,108 @@
+{
+ "id": "75e0fe6a0af0a909-a18c834e-20594823",
+ "url": "https://www.theguardian.com/science/2026/aug/06/safety-fears-as-scientists-make-first-viruses-designed-by-ai",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-08-11T07:29:07Z",
+ "date": "2026-08-11",
+ "old_title": "Safety fears as scientists make first viruses designed by AI",
+ "new_title": "Safety fears as scientists make first viruses designed by AI",
+ "old_text": "Scientists have made the first viruses designed by artificial intelligence in a milestone that raises hopes for new medicines but also concerns over how to ensure the technology remains safe.\nThe viruses are specific kinds known as bacteriophages, which only infect bacteria and are used around the world to treat patients with persistent infections. In lab tests, a cocktail of the AI-designed viruses killed E coli bugs that were resistant to natural bacteriophages.\nDr Brian Hie, a chemical engineer at Stanford University in California, used genome language models, the genetic equivalent of the large language models behind AI chatbots, to design functioning genomes for bacteriophages. The viruses were then made in the laboratory and pitted against E coli in a dish.\nThe ability to \"rapidly design\" genomes and tune them for specific bugs while overcoming resistance could \"transform phage therapy\" and \"expand biotechnological toolkits\", the researchers wrote in the journal Science.\nBut beyond the potential benefits, the scientists said the work raised \"important biosafety, biocontainment and biosecurity considerations\" and urged others who were designing whole genomes to \"consult both safety and security professionals throughout the project\".\nIn an accompanying article, Prof Tom Inglesby and Dr Moritz Hanke at the Center for Health Security at Johns Hopkins University in Baltimore, reinforced the warning, writing: \"Although this is promising for life sciences applications, it also raises urgent biosafety and biosecurity questions. The ability to compose viral genomes using generative AI now exists; the governance to safely steer it does not.\"\nHie and his colleagues used AI models called Evo1 and Evo2 to design the new viral genomes. The models were trained on genetic data from 2 million bacteriophages. The genetic code for viruses that can infect plants, humans or other animals was intentionally excluded from the AI's training to reduce the risk of it designing dangerous viruses.\nThe AI generated thousands of potential genomes from which the researchers selected nearly 300 to make in the lab. These were dropped into bacteria, which read the genetic code and churned out the new bacteriophages. The process was not efficient: only 16 bacteriophages proved to be viable, but a cocktail of them swiftly overcame resistance in two different strains of E coli.\nBacteriophage genomes are tiny, but Inglesby and Hanke said the work nevertheless proved that generative AI could create functioning viral genomes. Whether the same approach could be applied to other viruses was unknown, but they said work on pathogens that could infect humans, animals or plants should not be pursued.\n\"Such genomes might encode new pathogens that ... cannot be contained by existing countermeasures,\" they wrote.\nTom Ellis, a professor of synthetic genome engineering at Imperial College London, said the work was impressive, but revealed how hard it would be to make more complex genomes. \"This is literally the smallest and easiest genome to make,\" he said.\nAn AI trained on the genetic code of dangerous bugs could be used to design more harmful viruses, Ellis said, but controlling access to genetic data and having restrictions on making genomes that look dangerous would help. \"Governments are working hard to do this already,\" he added.\n\"But honestly,\" he said, \"the threat from full AI design and writing of a genome of a virus or bacteria is very overblown when we consider that just taking existing pathogens and making gain-of-function changes to their genomes is so much easier and much more likely to be a real pathogenic threat.\"\nDr Filippa Lentzos, a reader in science and international security at King's College London, said the most important point to intervene at the moment was when DNA was being manufactured. \"It's important to see the bigger governance picture and not focus regulation solely on the AI model,\" she said. \"A layered approach makes more sense: safeguards around model development and access, responsible research review, synthesis screening, and established laboratory biosafety and biosecurity.\"",
+ "new_text": "Scientists have made the first viruses designed by artificial intelligence in a milestone that raises hopes for new medicines but also concerns over how to ensure the technology remains safe.\nThe viruses are specific kinds known as bacteriophages, which only infect bacteria and are used around the world to treat patients with persistent infections. In lab tests, a cocktail of the AI-designed viruses killed E coli bugs that were resistant to natural bacteriophages.\nDr Brian Hie, a chemical engineer at Stanford University in California, used genome language models, the genetic equivalent of the large language models behind AI chatbots, to design functioning genomes for bacteriophages. The viruses were then made in the laboratory and pitted against E coli in a dish.\nThe ability to \"rapidly design\" genomes and tune them for specific bugs while overcoming resistance could \"transform phage therapy\" and \"expand biotechnological toolkits\", the researchers wrote in the journal Science.\nBut beyond the potential benefits, the scientists said the work raised \"important biosafety, biocontainment and biosecurity considerations\" and urged others who were designing whole genomes to \"consult both safety and security professionals throughout the project\".\nIn an accompanying article, Prof Tom Inglesby and Dr Mori Hanke at the Center for Health Security at Johns Hopkins University in Baltimore, reinforced the warning, writing: \"Although this is promising for life sciences applications, it also raises urgent biosafety and biosecurity questions. The ability to compose viral genomes using generative AI now exists; the governance to safely steer it does not.\"\nHie and his colleagues used AI models called Evo1 and Evo2 to design the new viral genomes. The models were trained on genetic data from 2m bacteriophages. The genetic code for viruses that can infect plants, humans or other animals was intentionally excluded from the AI's training to reduce the risk of it designing dangerous viruses.\nThe AI generated thousands of potential genomes from which the researchers selected nearly 300 to make in the lab. These were dropped into bacteria, which read the genetic code and churned out the new bacteriophages. The process was not efficient: only 16 bacteriophages proved to be viable, but a cocktail of them swiftly overcame resistance in two different strains of E. coli.\nBacteriophage genomes are tiny, but Inglesby and Hanke said the work nevertheless proved that generative AI could create functioning viral genomes. Whether the same approach could be applied to other viruses was unknown, but they said work on pathogens that could infect humans, animals or plants should not be pursued.\n\"Such genomes might encode new pathogens that ... cannot be contained by existing countermeasures,\" they wrote.\nTom Ellis, professor of synthetic genome engineering at Imperial College London, said the work was impressive, but revealed how hard it would be to make more complex genomes. \"This is literally the smallest and easiest genome to make,\" he said.\nAn AI trained on the genetic code of dangerous bugs could be used to design more harmful viruses, Ellis said, but controlling access to genetic data and having restrictions on making genomes that look dangerous would help. \"Governments are working hard to do this already,\" he added.\n\"But honestly,\" he said, \"the threat from full AI design and writing of a genome of a virus or bacteria is very overblown when we consider that just taking existing pathogens and making gain-of-function changes to their genomes is so much easier and much more likely to be a real pathogenic threat.\"\nDr Filippa Lentzos, a reader in science and international security at King's College London, said the most important point to intervene at the moment was when DNA was being manufactured. \"It's important to see the bigger governance picture and not focus regulation solely on the AI model,\" she said. \"A layered approach makes more sense: safeguards around model development and access, responsible research review, synthesis screening, and established laboratory biosafety and biosecurity.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "throughout the project\". In an accompanying article, Prof Tom Inglesby and Dr"
+    ],
+    [
+     "del",
+     "Moritz"
+    ],
+    [
+     "ins",
+     "Mori"
+    ],
+    [
+     "eq",
+     "Hanke at the Center for Health Security at Johns Hopkins University in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the new viral genomes. The models were trained on genetic data from"
+    ],
+    [
+     "del",
+     "2 million"
+    ],
+    [
+     "ins",
+     "2m"
+    ],
+    [
+     "eq",
+     "bacteriophages. The genetic code for viruses that can infect plants, humans or"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "a cocktail of them swiftly overcame resistance in two different strains of"
+    ],
+    [
+     "del",
+     "E"
+    ],
+    [
+     "ins",
+     "E."
+    ],
+    [
+     "eq",
+     "coli. Bacteriophage genomes are tiny, but Inglesby and Hanke said the work"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "that ... cannot be contained by existing countermeasures,\" they wrote. Tom Ellis,"
+    ],
+    [
+     "del",
+     "a"
+    ],
+    [
+     "eq",
+     "professor of synthetic genome engineering at Imperial College London, said the work"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0124,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

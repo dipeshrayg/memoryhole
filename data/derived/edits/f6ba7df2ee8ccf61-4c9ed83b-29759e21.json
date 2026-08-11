@@ -1,0 +1,52 @@
+{
+ "id": "f6ba7df2ee8ccf61-4c9ed83b-29759e21",
+ "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-08-11T07:27:39Z",
+ "date": "2026-08-11",
+ "old_title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+ "new_title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+ "old_text": "- Published\nSouth Korea's space agency has released images that show the Moon after part of a SpaceX rocket crashed into its surface on Wednesday.\nThe Korean AeroSpace Administration (KASA) said lunar orbiter Danubri captured images after the impact, which it shared, external alongside photos of what the Moon's surface looked like before the crash.\nRocket debris struck the Moon at around 06:35 GMT on Wednesday, according to the South Korean space agency.\nSpaceX has said the impact was not intentional.\nRe-usable Falcon 9 rockets were designed to allow part of the rocket to return to Earth (the upper stage) and other sections to be shed in space. SpaceX has used this type of rocket on several missions.\nThe empty upper stage of this Falcon 9 rocket, which scientists predicted would hit the Moon at a speed of about 5,400mph (8,700km/h), is about the size of a five-storey building and weighs approximately 4,000kg (630st) on Earth.\nThe short, dramatic flash created when the rocket part hit the Moon would have been hard to catch by amateur astronomers even with high-end telescopes, but larger observatories - including Seoul's space agency - are analysing the information.\nWhile the impact did not pose any danger to Earth, Matt Bothwell, astronomer at the University of Cambridge, raised concerns about space debris.\n\"Space is getting more and more crowded,\" he said, as each year \"we launch more stuff into space\".\n\"It could feasibly be within a few decades that it's actually quite hard to get past Earth's orbit because space is so crowded,\" Bothwell warned.\nThis Falcon 9 was in orbit since January last year, when it blasted off from Florida.\nThe same booster section from the January 2025 mission is due to set off on its 18th flight on 10 August. SpaceX says the mission hopes to launch 29 Starlink satellites to low-Earth orbit.\nThe rocket that blasted from Florida last January was carrying two lunar landers into space.\nIts job was to fire the upper stage hard enough to send both of the landers out of Earth's orbit and onto a path towards the Moon.\nThe spent stage was left drifting in a long, looping orbit that swung out towards the Moon and back again.\nOver the next 18 months, the gentle gravitational tug of the Earth, Moon and Sun, along with light from the Sun, gave it a faint push.\nAstronomers tracking the rocket part eventually worked out that those small nudges had put it on a course towards the Moon, and it was picking up speed every day.\nThe impact on Wednesday happened in broad daylight for many parts of the world, but the tiny flash it produced would have been far too faint to see, even through a telescope.",
+ "new_text": "- Published\nSouth Korea's space agency has released images that show the Moon after part of a SpaceX rocket crashed into its surface on Wednesday.\nThe Korean AeroSpace Administration (KASA) said lunar orbiter Danuri captured images after the impact, which it shared, external alongside photos of what the Moon's surface looked like before the crash.\nRocket debris struck the Moon at around 06:35 GMT on Wednesday, according to the South Korean space agency.\nSpaceX has said the impact was not intentional.\nRe-usable Falcon 9 rockets were designed to allow part of the rocket to return to Earth (the upper stage) and other sections to be shed in space. SpaceX has used this type of rocket on several missions.\nThe empty upper stage of this Falcon 9 rocket, which scientists predicted would hit the Moon at a speed of about 5,400mph (8,700km/h), is about the size of a five-storey building and weighs approximately 4,000kg (630st) on Earth.\nThe short, dramatic flash created when the rocket part hit the Moon would have been hard to catch by amateur astronomers even with high-end telescopes, but larger observatories - including Seoul's space agency - are analysing the information.\nWhile the impact did not pose any danger to Earth, Matt Bothwell, astronomer at the University of Cambridge, raised concerns about space debris.\n\"Space is getting more and more crowded,\" he said, as each year \"we launch more stuff into space\".\n\"It could feasibly be within a few decades that it's actually quite hard to get past Earth's orbit because space is so crowded,\" Bothwell warned.\nThis Falcon 9 was in orbit since January last year, when it blasted off from Florida.\nThe same booster section from the January 2025 mission is due to set off on its 18th flight on 10 August. SpaceX says the mission hopes to launch 29 Starlink satellites to low-Earth orbit.\nThe rocket that blasted from Florida last January was carrying two lunar landers into space.\nIts job was to fire the upper stage hard enough to send both of the landers out of Earth's orbit and onto a path towards the Moon.\nThe spent stage was left drifting in a long, looping orbit that swung out towards the Moon and back again.\nOver the next 18 months, the gentle gravitational tug of the Earth, Moon and Sun, along with light from the Sun, gave it a faint push.\nAstronomers tracking the rocket part eventually worked out that those small nudges had put it on a course towards the Moon, and it was picking up speed every day.\nThe impact on Wednesday happened in broad daylight for many parts of the world, but the tiny flash it produced would have been far too faint to see, even through a telescope.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "its surface on Wednesday. The Korean AeroSpace Administration (KASA) said lunar orbiter"
+    ],
+    [
+     "del",
+     "Danubri"
+    ],
+    [
+     "ins",
+     "Danuri"
+    ],
+    [
+     "eq",
+     "captured images after the impact, which it shared, external alongside photos of"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0044,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9809,
+ "adjudicated_by": "rules"
+}

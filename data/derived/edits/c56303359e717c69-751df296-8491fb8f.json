@@ -1,0 +1,123 @@
+{
+ "id": "c56303359e717c69-751df296-8491fb8f",
+ "url": "https://www.france24.com/en/ebola-cases-surpasses-4000-cases",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-11T07:19:48Z",
+ "date": "2026-08-11",
+ "old_title": "Eye on Africa - Ebola cases surpasses 4000 cases",
+ "new_title": "Eye on Africa - Ebola outbreak in DR Congo surpasses 4,000 cases",
+ "old_text": "Ebola cases surpasses 4000 cases\nIssued on:\nIn tonight's program, a grim new milestone in the fast-growing Ebola outbreak in the Democratic Republic of Congo as cases surpass 4,000. Also low rainfall and failing pipes leave taps dry in the Gabon capital. Finally rising water levels at Lake Baringo in Kenya push communities into closer contact with crocodiles, leading to increased attacks.",
+ "new_text": "Ebola outbreak in DR Congo surpasses 4,000 cases\nIssued on:\nIn tonight's programme: A grim new milestone is marked in the fast-growing Ebola outbreak in DR Congo as cases surpass 4,000. Also, low rainfall and failing pipes leave taps dry in Gabon's capital Libreville. Finally, rising water levels at Lake Baringo in Kenya push communities into closer contact with crocodiles, leading to increased attacks.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Ebola"
+    ],
+    [
+     "del",
+     "cases"
+    ],
+    [
+     "ins",
+     "outbreak in DR Congo"
+    ],
+    [
+     "eq",
+     "surpasses"
+    ],
+    [
+     "del",
+     "4000"
+    ],
+    [
+     "ins",
+     "4,000"
+    ],
+    [
+     "eq",
+     "cases Issued on: In tonight's"
+    ],
+    [
+     "del",
+     "program, a"
+    ],
+    [
+     "ins",
+     "programme: A"
+    ],
+    [
+     "eq",
+     "grim new milestone"
+    ],
+    [
+     "ins",
+     "is marked"
+    ],
+    [
+     "eq",
+     "in the fast-growing Ebola outbreak in"
+    ],
+    [
+     "del",
+     "the Democratic Republic of"
+    ],
+    [
+     "ins",
+     "DR"
+    ],
+    [
+     "eq",
+     "Congo as cases surpass 4,000."
+    ],
+    [
+     "del",
+     "Also"
+    ],
+    [
+     "ins",
+     "Also,"
+    ],
+    [
+     "eq",
+     "low rainfall and failing pipes leave taps dry in"
+    ],
+    [
+     "del",
+     "the Gabon capital. Finally"
+    ],
+    [
+     "ins",
+     "Gabon's capital Libreville. Finally,"
+    ],
+    [
+     "eq",
+     "rising water levels at Lake Baringo in Kenya push communities into closer contact with crocodiles, leading to increased attacks."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4516,
+  "numbers_changed": [
+   "4,000",
+   "4000"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.734,
+ "similarity": 0.9644,
+ "adjudicated_by": "rules"
+}

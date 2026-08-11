@@ -1,0 +1,72 @@
+{
+ "id": "3b07a6d0d0120f88-c34d610a-96836b49",
+ "url": "https://www.theguardian.com/science/2026/aug/09/perseid-meteor-shower",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-08-11T07:29:19Z",
+ "date": "2026-08-11",
+ "old_title": "Perseid meteor shower set to dazzle northern hemisphere this week",
+ "new_title": "Perseid meteor shower set to dazzle northern hemisphere this week",
+ "old_text": "The Perseid summer light show is back, and viewing conditions are especially promising across the northern hemisphere.\nThe meteor shower's is expected to peak on Wednesday night into Thursday morning, and coincides with a total solar eclipse across Spain, Iceland and Greenland and a six-planet parade - though the best time to view the fireballs will come after totality.\nAs many as 50 to 100 meteors per hour may be visible under ideal conditions, according to NASA. The American Meteor Society estimates 30 to 50 meteors per hour could be seen from rural regions in the US.\nRandom meteors are visible in dark skies on any given night. Meteor showers tend to put on dazzling celestial shows and happen at predictable times every year when the Earth plows through trails of debris left behind by comets and, sometimes, asteroids. Those remnants collide with Earth's atmosphere at extremely high speeds, producing streaks of light known as shooting stars.\nThe Perseids are debris from comet 109P/Swift-Tuttle, an icy ball that orbits the sun every 133 years and is not scheduled for a return visit until 2125. Observations of this meteor shower date back over 2,000 years.\nThe Perseids are a perennial favorite because they tend to produce brilliant fireballs. Summer temperatures also make this shower popular.\n\"We don't have to suffer through a cold winter night to get a good view of meteors,\" said astronomer Zach Vanderbosch with McDonald Observatory in Texas.\nThe moon will be in its new moon phase during the Perseids' peak, making viewing conditions even better.\n\"The moon is beautiful, but it's such a diva,\" said astronomer Aparna Venkatesan with the University of San Francisco. \"New moon means we don't have moonlight flooding the sky, and you tend to see way more meteors as a result.\"\nTo spot the meteors, go outside after dark, away from clouds and city lights. Venkatesan plans to drive to the Sierra Nevada.\nThe best views will be between midnight and dawn when the constellation Perseus is high in the northern sky. The meteors will appear to radiate from that constellation.\nLook up and give your eyes a half hour to adjust to the darkness. Vanderbosch recommends picking a patch of sky to focus on until a quick, bright streak passes by - even in your peripheral vision - and to avoid looking at your phone.\n\"There's just something magical about it,\" Vanderbosch said.",
+ "new_text": "The Perseid summer light show is back, and viewing conditions are especially promising across the northern hemisphere.\nThe meteor shower is expected to peak on Wednesday night into Thursday morning, and coincides with a total solar eclipse across Spain, Iceland and Greenland and a six-planet parade - though the best time to view the fireballs will come after totality.\nAs many as 50 to 100 meteors per hour may be visible under ideal conditions, according to Nasa. The American Meteor Society estimates 30 to 50 meteors per hour could be seen from rural regions in the US.\nRandom meteors are visible in dark skies on any given night. Meteor showers tend to put on dazzling celestial shows and happen at predictable times every year when the Earth plows through trails of debris left behind by comets and, sometimes, asteroids. Those remnants collide with Earth's atmosphere at extremely high speeds, producing streaks of light known as shooting stars.\nThe Perseids are debris from comet 109P/Swift-Tuttle, an icy ball that orbits the sun every 133 years and is not scheduled for a return visit until 2125. Observations of this meteor shower date back over 2,000 years.\nThe Perseids are a perennial favorite because they tend to produce brilliant fireballs. Summer temperatures also make this shower popular.\n\"We don't have to suffer through a cold winter night to get a good view of meteors,\" said astronomer Zach Vanderbosch with McDonald Observatory in Texas.\nThe moon will be in its new moon phase during the Perseids' peak, making viewing conditions even better.\n\"The moon is beautiful, but it's such a diva,\" said astronomer Aparna Venkatesan with the University of San Francisco. \"New moon means we don't have moonlight flooding the sky, and you tend to see way more meteors as a result.\"\nTo spot the meteors, go outside after dark, away from clouds and city lights. Venkatesan plans to drive to the Sierra Nevada.\nThe best views will be between midnight and dawn when the constellation Perseus is high in the northern sky. The meteors will appear to radiate from that constellation.\nLook up and give your eyes a half hour to adjust to the darkness. Vanderbosch recommends picking a patch of sky to focus on until a quick, bright streak passes by - even in your peripheral vision - and to avoid looking at your phone.\n\"There's just something magical about it,\" Vanderbosch said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "and viewing conditions are especially promising across the northern hemisphere. The meteor"
+    ],
+    [
+     "del",
+     "shower's"
+    ],
+    [
+     "ins",
+     "shower"
+    ],
+    [
+     "eq",
+     "is expected to peak on Wednesday night into Thursday morning, and coincides"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "100 meteors per hour may be visible under ideal conditions, according to"
+    ],
+    [
+     "del",
+     "NASA."
+    ],
+    [
+     "ins",
+     "Nasa."
+    ],
+    [
+     "eq",
+     "The American Meteor Society estimates 30 to 50 meteors per hour could"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.01,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9959,
+ "adjudicated_by": "rules"
+}

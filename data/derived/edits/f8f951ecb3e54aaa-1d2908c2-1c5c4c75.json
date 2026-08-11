@@ -1,0 +1,120 @@
+{
+ "id": "f8f951ecb3e54aaa-1d2908c2-1c5c4c75",
+ "url": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-11T07:25:14Z",
+ "date": "2026-08-11",
+ "old_title": "You could be missing out on Â£150 off your energy bill - here's how to check",
+ "new_title": "You could be missing out on Â£150 off your energy bill - here's how to check",
+ "old_text": "- Published\nOne call to your energy supplier to ensure your name is on the electricity bill may mean you are in line for a Â£150 discount this winter â but you need to get in before the deadline.\nWhile the cost of heating your home might not be at the forefront of your mind during the long, hot summer prices are set to rise again this winter.\nSuppliers use customers' records as of Sunday 23 August to check who is eligible for the Warm Home Discount.\nThe government scheme knocks Â£150 off bills if you are on means-tested benefits such as universal credit.\nHousehold energy could get more expensive\nMillions of people will learn of the level of winter energy prices later this month, when Ofgem announces the quarterly price cap for the three months from October.\nTo help those who might struggle to pay, energy companies distribute the Â£150 Warm Home Discount to about six million households in the winter. Households in receipt of housing benefit, income-related Employment and Support Allowance, Pension Credit and universal credit qualify.\nHouseholds who are eligible should get the discount automatically, provided their supplier has over 1,000 customers.\nHowever, that only happens if your name is on the bill and you are receiving one of these benefits. It can also help suppliers offer better support, such as repayment plans, to those who have energy debt.\nSomeone might not be named on their electricity bill if they have recently moved house.\nEligible customers on pre-payment meters who use a key or card to top up will also need to ensure that their household's account is registered in their name.\n\"If you know someone who might benefit, please start spreading the word and encourage them to check they are named on their energy bill,\" said Energy Secretary Miatta Fahnbulleh.\nThe government also said that 345,000 Scottish low-income households would now automatically receive the rebate in the winter, bringing Scotland's policy in line with England and Wales.\nPreviously, eligible Scottish households have had to apply for the scheme.",
+ "new_text": "- Published\nOne call to your energy supplier to ensure your name is on the electricity bill may mean you are in line for a Â£150 discount this winter â but you need to get in before the deadline.\nWhile the cost of heating your home might not be at the forefront of your mind during the long, hot summer prices are set to rise again this winter.\nSuppliers use customers' records as of Sunday 23 August to check who is eligible for the Warm Home Discount.\nThe government scheme knocks Â£150 off bills if you are on means-tested benefits such as universal credit.\nHousehold energy could get more expensive\nMillions of people will learn of the level of winter energy prices later this month, when Ofgem announces the quarterly price cap for the three months from October.\nTo help those who might struggle to pay, energy companies distribute the Â£150 Warm Home Discount to about six million households in the winter. Households in receipt of housing benefit, income-related Employment and Support Allowance, Pension Credit and universal credit qualify.\nHouseholds who are eligible should get the discount automatically, provided their supplier has over 1,000 customers.\nHowever, that only happens if your name is on the bill and you are receiving one of these benefits. It can also help suppliers offer better support, such as repayment plans, to those who have energy debt.\nSomeone might not be named on their electricity bill if they have recently moved house.\nEligible customers on pre-payment meters who use a key or card to top up will also need to ensure that their household's account is registered in their name.\n\"If you know someone who might benefit, please start spreading the word and encourage them to check they are named on their energy bill,\" said Energy Secretary Miatta Fahnbulleh.\nThe government added that 345,000 Scottish low-income households who are also classed as vulnerable would now automatically receive the rebate in the winter. This would usually be having a child under five in the household, having a disability or getting a pensioner premium with the benefit.\nOther low income households in Scotland will still have to apply through their energy supplier.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "named on their energy bill,\" said Energy Secretary Miatta Fahnbulleh. The government"
+    ],
+    [
+     "del",
+     "also said"
+    ],
+    [
+     "ins",
+     "added"
+    ],
+    [
+     "eq",
+     "that 345,000 Scottish low-income households"
+    ],
+    [
+     "ins",
+     "who are also classed as vulnerable"
+    ],
+    [
+     "eq",
+     "would now automatically receive the rebate in the"
+    ],
+    [
+     "del",
+     "winter, bringing Scotland's policy"
+    ],
+    [
+     "ins",
+     "winter. This would usually be having a child under five"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "line"
+    ],
+    [
+     "ins",
+     "the household, having a disability or getting a pensioner premium"
+    ],
+    [
+     "eq",
+     "with"
+    ],
+    [
+     "del",
+     "England and Wales. Previously, eligible Scottish"
+    ],
+    [
+     "ins",
+     "the benefit. Other low income"
+    ],
+    [
+     "eq",
+     "households"
+    ],
+    [
+     "ins",
+     "in Scotland will still"
+    ],
+    [
+     "eq",
+     "have"
+    ],
+    [
+     "del",
+     "had"
+    ],
+    [
+     "eq",
+     "to apply"
+    ],
+    [
+     "del",
+     "for the scheme."
+    ],
+    [
+     "ins",
+     "through their energy supplier."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1667,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

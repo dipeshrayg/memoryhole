@@ -1,0 +1,48 @@
+{
+ "id": "bb108b9418f5cefe-133fcc73-f26191c3",
+ "url": "https://www.france24.com/en/western-europe-sets-new-temperature-record-as-heat-waves-pummel-the-region",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-11T07:20:00Z",
+ "date": "2026-08-11",
+ "old_title": "Western Europe sets new temperature record as heat waves pummel the region",
+ "new_title": "Western Europe sets new temperature record as heat waves pummel the region",
+ "old_text": "Western Europe sets new temperature record as heat waves pummel the region\nIssued on:\nShare\nThe heat waves roiling Western Europe this summer toppled an average temperature record for the June-July period set in 2022, according to the European climate agency Copernicus. The extreme heat began in May and has contributed to major wildfires, prolonged drought and new national temperature records across the region, as well as thousands of projected heat-related deaths. Globally, so far this is the third-hottest year, behind 2024 and 2025, climate statistics show.",
+ "new_text": "Western Europe sets new temperature record as heat waves pummel the region\nIssued on: Modified:\nShare\nThe heat waves roiling Western Europe this summer toppled an average temperature record for the June-July period set in 2022, according to the European climate agency Copernicus. The extreme heat began in May and has contributed to major wildfires, prolonged drought and new national temperature records across the region, as well as thousands of projected heat-related deaths. Globally, so far this is the third-hottest year, behind 2024 and 2025, climate statistics show.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "sets new temperature record as heat waves pummel the region Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "Share The heat waves roiling Western Europe this summer toppled an average"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0115,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9976,
+ "adjudicated_by": "rules"
+}

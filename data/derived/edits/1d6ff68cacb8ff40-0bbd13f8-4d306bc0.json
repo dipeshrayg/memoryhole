@@ -1,0 +1,285 @@
+{
+ "id": "1d6ff68cacb8ff40-0bbd13f8-4d306bc0",
+ "url": "https://www.dw.com/en/thailand-gunshots-fired-in-government-office-ex-mp-arrested/a-78300045?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-11T07:19:19Z",
+ "date": "2026-08-11",
+ "old_title": "Thailand: Gunshots in government office, ex-MP arrested",
+ "new_title": "Thai ex-lawmaker shoots local official dead over loan",
+ "old_text": "Thai Police arrested a suspected gunman - a former lawmaker - after he allegedly fired shots at a local government office at the outskirts of Bangkok, on Monday morning.\nThe shooter fired shots at a senior provincial officer and his driver, Nonthaburi police chief Major Dejrapee Kongdee told Reuters news agency.\nMeanwhile, the Bangkok Post reported that the provincial administration's president, Thongchai Yenprasert, had died in the shooting.\nAs per the report, the suspected shooter forced his way into the government office at about 11 a.m. local time (0400 GMT) and fired several shots at Thongchai. The official was given cardiopulmonary resuscitation at the scene befoe being rushed to a local hospital where he was declared dead.\nSecond recent shooting\nThis comes just days after a 14-year-old's shooting rampage, first at his home and then at the Debsirin Nonthaburi School, left nine people dead and over 20 injured. That incident was Thailand's deadliest mass shooting in nearly four years.\nThai Prime Minister Anutin Charnvirakul had reiterated his intention to tighten gun control laws in the wake of the shooting. The southeast Asian country's current gun laws do not include mental health screenings and allows people as young as 20 to hold guns.\nThailand had around 15 guns per 100 residents, the highest rate in Southeast Asia by a wide margin, according to a 2017 estimate by the Small Arms Survey.\nEdited by: Elizabeth Schumacher\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "Thai police arrested a suspected gunman - identified as former lawmaker Chalong Riewraeng - after he allegedly fired shots that killed a local politician on Monday at a government office on the outskirts of Bangkok.\nAuthorities said the former MP confessed to the shooting.\nSurrounded by police, Chalong told reporters he attempted to speak with Thongchai Yenprasert about money.\n\"I followed him to his car and hit his car's window, saying I want to talk,\" the suspect said. \"He said he will not talk, so I pulled my gun. I did not aim to shoot, but his driver pulled a gun and pointed it at me so I fired.\"\nThongchai, who was chairman of the Nonthaburi Provincial Administrative Organization, died of his wounds, according to Sakon Sukprom, director of Phra Nang Klao hospital.\nThongchai's driver was also shot and successfully underwent surgery, Sakon added.\nPrime Minister Anutin Charnvirakul said no one in Thailand other than on-duty officials was allowed to carry a gun in public. He pointed out that the last gun-carry licences were issued three years ago and were only valid for one year.\nHe said authorities will pursue \"full legal action\" against Chalong, a former member of the prime minister's party.\n\"No matter who he is, he is now a murderer,\" Anutin said.\nPolice: Shooting a 'personal issue'\nNonthaburi Governor Chestha Mosikarat told reporters the suspect and victim were \"friends for a long time\" and the incident likely stemmed from a misunderstanding.\nPolice said the motive for the shooting was a \"personal issue.\"\n\"According to his confession, it was about money that the ... chairman borrowed from him for several years, and he asked for the return of the money several times,\" regional Police Commander Wattana Yeechin told reporters, adding that the dispute was over several million baht (1 million baht is about €26,220 or $30,300).\nSecond recent shooting\nThis comes just days after a 14-year-old's shooting rampage, first at his home and then at the Debsirin Nonthaburi School, left nine people dead and over 20 injured. That incident was Thailand's deadliest mass shooting in nearly four years.\nPrime Minister Anutin had reiterated his intention to tighten gun control laws in the wake of the shooting. The Southeast Asian country's current gun laws do not include mental health screenings and allow people as young as 20 to have guns.\nThailand had around 15 guns per 100 residents, the highest rate in Southeast Asia by a wide margin, according to a 2017 estimate by the Small Arms Survey.\nEdited by: Elizabeth Schumacher\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Thai"
+    ],
+    [
+     "del",
+     "Police"
+    ],
+    [
+     "ins",
+     "police"
+    ],
+    [
+     "eq",
+     "arrested a suspected gunman -"
+    ],
+    [
+     "del",
+     "a"
+    ],
+    [
+     "ins",
+     "identified as"
+    ],
+    [
+     "eq",
+     "former lawmaker"
+    ],
+    [
+     "ins",
+     "Chalong Riewraeng"
+    ],
+    [
+     "eq",
+     "- after he allegedly fired shots"
+    ],
+    [
+     "ins",
+     "that killed a local politician on Monday"
+    ],
+    [
+     "eq",
+     "at a"
+    ],
+    [
+     "del",
+     "local"
+    ],
+    [
+     "eq",
+     "government office"
+    ],
+    [
+     "del",
+     "at"
+    ],
+    [
+     "ins",
+     "on"
+    ],
+    [
+     "eq",
+     "the outskirts of"
+    ],
+    [
+     "del",
+     "Bangkok, on Monday morning. The shooter fired shots"
+    ],
+    [
+     "ins",
+     "Bangkok. Authorities said the former MP confessed to the shooting. Surrounded by police, Chalong told reporters he attempted to speak with Thongchai Yenprasert about money. \"I followed him to his car and hit his car's window, saying I want to talk,\" the suspect said. \"He said he will not talk, so I pulled my gun. I did not aim to shoot, but his driver pulled a gun and pointed it"
+    ],
+    [
+     "eq",
+     "at"
+    ],
+    [
+     "ins",
+     "me so I fired.\" Thongchai, who was chairman of the Nonthaburi Provincial Administrative Organization, died of his wounds, according to Sakon Sukprom, director of Phra Nang Klao hospital. Thongchai's driver was also shot and successfully underwent surgery, Sakon added. Prime Minister Anutin Charnvirakul said no one in Thailand other than on-duty officials was allowed to carry"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "senior provincial officer and his driver, Nonthaburi police chief Major Dejrapee Kongdee told Reuters news agency. Meanwhile, the Bangkok Post reported"
+    ],
+    [
+     "ins",
+     "gun in public. He pointed out"
+    ],
+    [
+     "eq",
+     "that the"
+    ],
+    [
+     "del",
+     "provincial administration's president, Thongchai Yenprasert, had died in"
+    ],
+    [
+     "ins",
+     "last gun-carry licences were issued three years ago and were only valid for one year. He said authorities will pursue \"full legal action\" against Chalong, a former member of"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "shooting. As per"
+    ],
+    [
+     "ins",
+     "prime minister's party. \"No matter who he is, he is now a murderer,\" Anutin said. Police: Shooting a 'personal issue' Nonthaburi Governor Chestha Mosikarat told reporters"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "report,"
+    ],
+    [
+     "ins",
+     "suspect and victim were \"friends for a long time\" and"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "suspected shooter forced"
+    ],
+    [
+     "ins",
+     "incident likely stemmed from a misunderstanding. Police said the motive for the shooting was a \"personal issue.\" \"According to"
+    ],
+    [
+     "eq",
+     "his"
+    ],
+    [
+     "del",
+     "way into"
+    ],
+    [
+     "ins",
+     "confession, it was about money that"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "government office at"
+    ],
+    [
+     "ins",
+     "... chairman borrowed from him for several years, and he asked for the return of the money several times,\" regional Police Commander Wattana Yeechin told reporters, adding that the dispute was over several million baht (1 million baht is"
+    ],
+    [
+     "eq",
+     "about"
+    ],
+    [
+     "del",
+     "11 a.m. local time (0400 GMT) and fired several shots at Thongchai. The official was given cardiopulmonary resuscitation at the scene befoe being rushed to a local hospital where he was declared dead."
+    ],
+    [
+     "ins",
+     "€26,220 or $30,300)."
+    ],
+    [
+     "eq",
+     "Second recent shooting This comes just days after a 14-year-old's shooting rampage,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "injured. That incident was Thailand's deadliest mass shooting in nearly four years."
+    ],
+    [
+     "del",
+     "Thai"
+    ],
+    [
+     "eq",
+     "Prime Minister Anutin"
+    ],
+    [
+     "del",
+     "Charnvirakul"
+    ],
+    [
+     "eq",
+     "had reiterated his intention to tighten gun control laws in the wake of the shooting. The"
+    ],
+    [
+     "del",
+     "southeast"
+    ],
+    [
+     "ins",
+     "Southeast"
+    ],
+    [
+     "eq",
+     "Asian country's current gun laws do not include mental health screenings and"
+    ],
+    [
+     "del",
+     "allows"
+    ],
+    [
+     "ins",
+     "allow"
+    ],
+    [
+     "eq",
+     "people as young as 20 to"
+    ],
+    [
+     "del",
+     "hold"
+    ],
+    [
+     "ins",
+     "have"
+    ],
+    [
+     "eq",
+     "guns. Thailand had around 15 guns per 100 residents, the highest rate"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.3203,
+  "numbers_changed": [
+   "0400",
+   "1",
+   "11",
+   "26,220",
+   "30,300"
+  ],
+  "market_figures_changed": [
+   "$30,300",
+   "€26,220"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 3,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.6,
+ "similarity": 0.786,
+ "adjudicated_by": "rules"
+}
