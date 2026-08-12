@@ -1,0 +1,116 @@
+{
+ "id": "b8b7373b56d1beb3-cbb28ec6-9f08deb4",
+ "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-12T07:46:38Z",
+ "date": "2026-08-12",
+ "old_title": "Nvidia gets $500bn from Wall Street giants to develop AI projects",
+ "new_title": "Nvidia gets $500bn from Wall Street giants to develop AI projects",
+ "old_text": "- Published\nNvidia has teamed up with some of Wall Street's largest banks and investors to raise $500bn (Â£370bn) in capital for artificial intelligence (AI) infrastructure.\nThe chipmaker said it had struck deals with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR, and that the investors were for the first time treating AI hardware and infrastructure, often referred to as \"compute\", as an asset class.\n\"In AI, compute is revenue,\" Jensen Huang, chief executive of Nvidia, said. \"We are bringing the world's leading long-term capital providers together to independently underwrite AI infrastructure.\"\nThe financing will go towards Nvidia's own projects and those being built by its partners.\nInfrastructure projects backed by this fund will likely include the construction of new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.\nIt will also back new factories to manufacture the AI chips needed to power these systems and increase their availability to buyers.\n\"Compute has become a critical infrastructure asset,\" Joe Bae and Scott Nuttall, co-chief executives of KKR, said in a joint statement. \"As we've scaled our approach to digital infrastructure, we've learned that delivery, not ambition, is the hard part.\"\nEssentially every major technology and AI company uses Nvidia's computer chips, or graphics processing units (GPUs), to power their services, AI platforms and AI chatbots.\nCompanies using Nvidia's popular chips or GPUs include Google, Meta, Amazon, Microsoft, SpaceX, Tesla, OpenAI and Anthropic.\nSuch companies have collectively spent over $1tn, external in just three years on AI projects and infrastructure, with much more spending expected. And their demand for Nvidia's chips and services has driven the stock market value of the company up five fold in three years.\nIn a statement on Monday, Huang referred to Nvidia's role as a chip-maker as the company's beginning.\n\"Today, we are helping create a new class of productive, investable infrastructure: AI factories,\" he said.\nWith a new ability to tap some funding from the banks and investors partnering with Nvidia, they will be able to finance more of the AI boom.\nJim Zelter, president of Apollo, a lender which manages more than $1tn in assets, said: \"Modern compute has emerged as a scarce, mission-critical asset class.\"\nIt is also \"positioned to drive significant long-term economic growth and productivity gains\", Zelter added.\nBlackRock last month entered into an individual deal with Meta, external to finance and take a majority ownership stake in one data centre in Texas.\nAnthropic also recently entered into a deal with Macquarie Asset Management and GIC, a sovereign wealth fund in Singapore, for its own investment in AI infrastructure.\nThe company did not specify the size of the deal, but said more financing was needed as its popular chatbot Claude had become so popular that the \"demand requires significant new compute\".",
+ "new_text": "- Published\nNvidia has teamed up with some of Wall Street's largest banks and investors to raise $500bn (Â£370bn) in capital for artificial intelligence infrastructure.\nThe chipmaker said it had struck deals with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR, and that the investors were for the first time treating AI hardware and infrastructure, often referred to as \"compute\", as an asset class.\n\"In AI, compute is revenue,\" Nvidia chief executive Jensen Huang said. \"We are bringing the world's leading long-term capital providers together to independently underwrite AI infrastructure.\"\nThe financing will go towards Nvidia's own projects and those being built by its partners.\nInfrastructure projects backed by this fund will likely include the construction of new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.\nIt will also back new factories to manufacture the AI chips needed to power these systems and increase their availability to buyers.\n\"Compute has become a critical infrastructure asset,\" Joe Bae and Scott Nuttall, co-chief executives of KKR, said in a joint statement. \"As we've scaled our approach to digital infrastructure, we've learned that delivery, not ambition, is the hard part.\"\nEssentially every major technology and AI company uses Nvidia's computer chips, or graphics processing units (GPUs), to power their services, AI platforms and AI chatbots.\n\"Nvidia is absolutely enormous and produces these chips that everybody needs for AI and it needs to keep facilitating the growth of AI,\" Jane Sydenham, senior investment manager at Rathbones, told the BBC.\nHowever, she added: \"The worry is that more and more money is going into these projects. Are they all going to earn the right return for the future?\"\n'Mission critical'\nCompanies using Nvidia's popular chips or GPUs include Google, Meta, Amazon, Microsoft, SpaceX, Tesla, OpenAI and Anthropic.\nSuch companies have collectively spent over $1tn, external in just three years on AI projects and infrastructure, with much more spending expected. And their demand for Nvidia's chips and services has driven the stock market value of the company up fivefold in three years.\nIn a statement on Monday, Huang referred to Nvidia's role as a chip-maker as the company's beginning.\n\"Today, we are helping create a new class of productive, investable infrastructure: AI factories,\" he said.\nWith a new ability to tap some funding from the banks and investors partnering with Nvidia, they will be able to finance more of the AI boom.\nJim Zelter, president of Apollo, a lender which manages more than $1tn in assets, said: \"Modern compute has emerged as a scarce, mission-critical asset class.\"\nIt is also \"positioned to drive significant long-term economic growth and productivity gains\", Zelter added.\nBlackRock last month entered into an individual deal with Meta, external to finance and take a majority ownership stake in one data centre in Texas.\nAnthropic also recently entered into a deal with Macquarie Asset Management and GIC, a sovereign wealth fund in Singapore, for its own investment in AI infrastructure.\nThe company did not specify the size of the deal, but said more financing was needed as its popular chatbot Claude had become so popular that the \"demand requires significant new compute\".",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "banks and investors to raise $500bn (Â£370bn) in capital for artificial intelligence"
+    ],
+    [
+     "del",
+     "(AI)"
+    ],
+    [
+     "eq",
+     "infrastructure. The chipmaker said it had struck deals with Apollo, BlackRock, Blackstone,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to as \"compute\", as an asset class. \"In AI, compute is revenue,\""
+    ],
+    [
+     "del",
+     "Jensen Huang,"
+    ],
+    [
+     "ins",
+     "Nvidia"
+    ],
+    [
+     "eq",
+     "chief executive"
+    ],
+    [
+     "del",
+     "of Nvidia,"
+    ],
+    [
+     "ins",
+     "Jensen Huang"
+    ],
+    [
+     "eq",
+     "said. \"We are bringing the world's leading long-term capital providers together to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "processing units (GPUs), to power their services, AI platforms and AI chatbots."
+    ],
+    [
+     "ins",
+     "\"Nvidia is absolutely enormous and produces these chips that everybody needs for AI and it needs to keep facilitating the growth of AI,\" Jane Sydenham, senior investment manager at Rathbones, told the BBC. However, she added: \"The worry is that more and more money is going into these projects. Are they all going to earn the right return for the future?\" 'Mission critical'"
+    ],
+    [
+     "eq",
+     "Companies using Nvidia's popular chips or GPUs include Google, Meta, Amazon, Microsoft,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and services has driven the stock market value of the company up"
+    ],
+    [
+     "del",
+     "five fold"
+    ],
+    [
+     "ins",
+     "fivefold"
+    ],
+    [
+     "eq",
+     "in three years. In a statement on Monday, Huang referred to Nvidia's"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1578,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 0.9936,
+ "adjudicated_by": "rules"
+}

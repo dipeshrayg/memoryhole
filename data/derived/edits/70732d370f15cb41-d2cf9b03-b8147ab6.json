@@ -1,0 +1,84 @@
+{
+ "id": "70732d370f15cb41-d2cf9b03-b8147ab6",
+ "url": "https://www.bbc.co.uk/sport/football/articles/cg7m3nk013mo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-12T07:39:59Z",
+ "date": "2026-08-12",
+ "old_title": "US President Donald Trump issues backing for under pressure Fifa chief Gianni Infantino",
+ "new_title": "US President Donald Trump issues backing for under-pressure Fifa chief Gianni Infantino",
+ "old_text": "- Published\nUS President Donald Trump says it would be a \"terrible mistake\" if under pressure Fifa president Gianni Infantino was ousted from his position.\nTrump's backing followed Uefa, Concacaf and the Asian Football Confederation (AFC) issuing an open letter accusing Infantino of breaking trust \"through deception\" with his aborted Fifa Forward Enterprise (FFE) proposal.\nFFE would have meant a new company being created to manage commercial and ticketing rights of all Fifa competitions, including World Cups, with 21% sold off to a private investment company.\nTrump's comments are the first time he has come out in defence of Infantino since the FFE plans came to light on 28 July.\n\"Fifa would be making a terrible mistake if, for any reason, they even considered replacing president Gianni Infantino,\" Trump wrote on social media.\n\"He is fantastic, having just presided over the most successful World Cup, by four times, ever presented. If he is gone, it will never be as successful or profitable again.\"\nThe 2026 World Cup was co-hosted by the US, Canada and Mexico this summer, with Spain crowned champions after beating Argentina in the final.\nWhen addressing the FFE proposals for the first time on 31 July, Trump said he had not spoken to Infantino about the plans.\nThrive Eternal was expected to lead the proposed investor group for FFE.\nThrive is an American venture capital firm founded by Joshua Kushner - the brother of Trump's son-in-law Jared.\nInfantino has a close relationship with Trump and awarded him the inaugural Fifa Peace Prize in December 2025.\nEuropean football's governing body Uefa has threatened a boycott of all Fifa competitions, as well as saying it could take legal action over the failed FFE plans.\nThe letter issued by Uefa, Concacaf and the AFC - the three confederations representing Europe, North America, Central America and the Caribbean, and Asia - came after Fifa said there was a \"concerted and ongoing effort\" to \"undermine\" world football's governing body and Infantino.\nBBC Sport understands that there have been preliminary discussions between the three confederations over breakaway competitions, should Infantino remain in his position. However, substantive talks are yet to begin, according to others.\n\"When trust is broken through deception, when an individual places himself above the collective that entrusted him with authority, that duty has been abandoned,\" the letter from Uefa, Concacaf and the AFC read.\nWhile the statement did not name Infantino, sources have told BBC Sport that it should be seen as an opportunity for him to resign and leave his position with dignity.",
+ "new_text": "- Published\nUS President Donald Trump says it would be a \"terrible mistake\" if under-pressure Fifa president Gianni Infantino was ousted from his position.\nTrump's backing followed Uefa, Concacaf and the Asian Football Confederation (AFC) issuing an open letter accusing Infantino of breaking trust \"through deception\" with his aborted Fifa Forward Enterprise (FFE) proposal.\nFFE would have meant a new company being created to manage commercial and ticketing rights of all Fifa competitions, including World Cups, with 21% sold off to a private investment company.\nTrump's comments mark the first time he has come out in defence of Infantino since the FFE plans came to light on 28 July.\n\"Fifa would be making a terrible mistake if, for any reason, they even considered replacing president Gianni Infantino,\" Trump wrote on social media.\n\"He is fantastic, having just presided over the most successful World Cup, by four times, ever presented. If he is gone, it will never be as successful or profitable again.\"\nThe 2026 World Cup was co-hosted by the US, Canada and Mexico this summer, with Spain crowned champions after beating Argentina in the final.\nWhen addressing the FFE proposals for the first time on 31 July, Trump said he had not spoken to Infantino about the plans.\nThrive Eternal was expected to lead the proposed investor group for FFE.\nThrive is an American venture capital firm founded by Joshua Kushner - the brother of Trump's son-in-law Jared.\nInfantino has a close relationship with Trump and awarded him the inaugural Fifa Peace Prize in December 2025.\nEuropean football's governing body Uefa has threatened a boycott of all Fifa competitions, as well as saying it could take legal action over the failed FFE plans.\nThe letter issued by Uefa, Concacaf and the AFC - the three confederations representing Europe, North America, Central America and the Caribbean, and Asia - came after Fifa said there was a \"concerted and ongoing effort\" to \"undermine\" world football's governing body and Infantino.\nBBC Sport understands that there have been preliminary discussions between the three confederations over breakaway competitions, should Infantino remain in his position. However, substantive talks are yet to begin, according to others.\n\"When trust is broken through deception, when an individual places himself above the collective that entrusted him with authority, that duty has been abandoned,\" the letter from Uefa, Concacaf and the AFC read.\nWhile the statement did not name Infantino, sources have told BBC Sport that it should be seen as an opportunity for him to resign and leave his position with dignity.\nAnalysis: Unclear how helpful Trump support will be\nThe timing of Trump's first comments on this saga is intriguing.\nCould it be because on Monday, the United States Soccer Federation made clear its opposition to Infantino, calling for \"meaningful change\"?\nOr is it a sign of the jeopardy that Infantino could now be in after Uefa, Concacaf and the AFC's joint letter?\nTrump is known as someone who does not like to back a loser, so why did this support not come sooner, when Infantino's position was less vulnerable? Has Infantino urged him to step in?\nTrump's claim that the World Cup will be less successful if Infantino is ousted will be contested by those who believe that the tournament has become too commercialised and expensive for fans under his leadership.\nAnd the focus on profit is interesting given this crisis was sparked by a plan to raise even more money, on top of the record revenue that Fifa already enjoys.\nIt should not come as a surprise perhaps, given the close relationship between the two men, and the fact that the investment group behind the FFE plan is run by the brother of Trump's son-in-law.\nWhile Trump's support will no doubt be privately welcomed by Infantino, it is unclear how helpful it will actually prove when it comes to shoring up support within the game. And Infantino may have hoped this backing had come sooner.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "US President Donald Trump says it would be a \"terrible mistake\" if"
+    ],
+    [
+     "del",
+     "under pressure"
+    ],
+    [
+     "ins",
+     "under-pressure"
+    ],
+    [
+     "eq",
+     "Fifa president Gianni Infantino was ousted from his position. Trump's backing followed"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Cups, with 21% sold off to a private investment company. Trump's comments"
+    ],
+    [
+     "del",
+     "are"
+    ],
+    [
+     "ins",
+     "mark"
+    ],
+    [
+     "eq",
+     "the first time he has come out in defence of Infantino since"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "an opportunity for him to resign and leave his position with dignity."
+    ],
+    [
+     "ins",
+     "Analysis: Unclear how helpful Trump support will be The timing of Trump's first comments on this saga is intriguing. Could it be because on Monday, the United States Soccer Federation made clear its opposition to Infantino, calling for \"meaningful change\"? Or is it a sign of the jeopardy that Infantino could now be in after Uefa, Concacaf and the AFC's joint letter? Trump is known as someone who does not like to back a loser, so why did this support not come sooner, when Infantino's position was less vulnerable? Has Infantino urged him to step in? Trump's claim that the World Cup will be less successful if Infantino is ousted will be contested by those who believe that the tournament has become too commercialised and expensive for fans under his leadership. And the focus on profit is interesting given this crisis was sparked by a plan to raise even more money, on top of the record revenue that Fifa already enjoys. It should not come as a surprise perhaps, given the close relationship between the two men, and the fact that the investment group behind the FFE plan is run by the brother of Trump's son-in-law. While Trump's support will no doubt be privately welcomed by Infantino, it is unclear how helpful it will actually prove when it comes to shoring up support within the game. And Infantino may have hoped this backing had come sooner."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5684,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 0.9982,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,5 @@
+On Monday, passengers aboard Delta flight 591 going from Las Vegas to Atlanta allegedly spoofed the onboard Wi-Fi, raising the attention of federal law enforcement.
+The incident came one day after the DEF CON security conference concluded in Las Vegas, and was first described on social media accounts that follow publicly available air-to-ground messages, known as ACARS.
+According to the "ACARS Drama" account, a message was sent by pilots from the plane stated: "NO INFO AS OF NOW WE HAVE A BUNCH OF PAX THAT WERE AT A CYBER CONFERENCE IN LAS THEY WERE ABLE TO JAM OUR WIFI AND BROADCAST THEIR SIGNAL."
+A description of the incident posted to Reddit further stated that these passengers created a fake hotspot ("Delta WiFi Fast"), with a phishing landing page "designed to harvest passengers' personal credentials."
+This technique, sometimes known as an "evil twin" attack, has been long-known to the IT security community. It involves setting up a fake Wi-Fi network and then capturing login credentials and other data.

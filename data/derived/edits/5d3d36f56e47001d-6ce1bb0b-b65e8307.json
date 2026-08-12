@@ -1,0 +1,248 @@
+{
+ "id": "5d3d36f56e47001d-6ce1bb0b-b65e8307",
+ "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-12T07:46:36Z",
+ "date": "2026-08-12",
+ "old_title": "Trump Media reports $238m loss as crypto falls",
+ "new_title": "Trump Media: More than 10 firms pay up to $100,000 a month for fast-access data feed",
+ "old_text": "- Published\nPresident Donald Trump's social media company reported a loss of $238m (Â£176m) between April and June as it branched into ventures unrelated to media, including cryptocurrencies.\nThe quarterly loss is more than 10 times the amount reported during the same period a year earlier, according to the Trump Media and Technology Group, which owns the President's Truth Social platform.\nThe firm says it will refocus on its social media mission, which includes a controversial service that offers faster access to market-moving posts from the platform's most influential users.\nThe company said more than 10 customers have signed up for it, paying between $60,000-$100,000 (Â£44,430-Â£74,000) a month.\nIn July, it announced a plan to give Wall Street traders faster access to posts on Truth Social, where Trump frequently makes announcements. It has been viewed as a way to give subscribers an edge in trading stocks and other heavily traded assets.\nThe new service, called TruthAPI, is \"expected to provide the company with a new revenue stream,\" Trump Media said in its earnings statement on Monday.\nThe firm believes the service will develop into a \"meaningful\" and \"durable\" source of revenue, on top of the company's broader media strategy which includes advertising and digital assets, the group's interim chief executive officer Kevin McGurn said.\nTruth Media is also exploring opportunities with technology firms, news organisations and betting markets, he added.\nThe BBC has contacted Trump Media and Technology Group for further comment.\nThe company posted $1.7m in revenue, which it said is up 89% from the same period a year before, but suffered overall loss due to the drop in cryptocurrencies.\nIt added that it closed the second quarter with total assets of $2bn and financial assets of about $1.9bn, which includes cash, short-term investments and digital currencies.\nThe group has yet to turn a profit, even as it expands into areas including cryptocurrency holdings and clean-energy investments.\nTrump Media is more of a crypto holdings firm \"wrapped around\" a media company, and the bulk of its losses have come from that strategy, Markus Thielen, an analyst from 10x Research, told the BBC.\nThe company is diversifying beyond its crypto business into areas such as social media, though those ventures have yet to generate significant revenue, Thielen said.\nEarlier this month, Trump Media scrapped plans for a project with Crypto.com to introduce prediction market features on the Truth Social platform.\nThe move has prompted legal and ethical questions, including whether it is right that a company - of which the president's family remains the majority shareholder - stands to potentially profit from his own public statements.",
+ "new_text": "- Published\nMore than 10 customers have signed up to Trump Media's controversial service that offers faster access to market-moving posts made on its Truth Social platform.\nThe service, Truth API, launched at the beginning of August and gives Wall Street traders first sight of posts from the social media site's most influential accounts.\nIts earliest customers are mostly in high-frequency trading firms who are being charged between $60,000-$100,000 (Â£44,000-Â£74,000) a month for the service, interim chief executive officer Kevin McGurn said during an earnings call.\nHe was speaking after Trump Media reported a loss of $238m between April and June.\nThe quarterly loss is more than 10 times the amount reported during the same period a year earlier, according to the Trump Media and Technology Group, and comes as the group branched into ventures unrelated to media, including cryptocurrencies.\nThe group, which is yet to make a profit, says it will refocus on its social media mission.\nIn July, it announced a plan to give Wall Street firms and institutional investors faster access to posts on Truth Social, where Trump frequently makes announcements. It has been viewed as a way to give subscribers an edge in trading stocks and other heavily traded assets.\nThe move has prompted legal and ethical questions, including whether it is right that a company - of which the president's family remains the majority shareholder - stands to potentially profit from his own public statements.\nThe new service is \"expected to provide the company with a new revenue stream,\" Trump Media said in its earnings statement on Monday.\nThe firm believes the service will develop into a \"meaningful\" and \"durable\" source of revenue, on top of the company's broader media strategy which includes advertising and digital assets, McGurn said.\nTruth Media is also exploring opportunities with technology firms, news organisations and betting markets, he added.\nThe BBC has contacted Trump Media and Technology Group for further comment.\nThe company posted $1.7m in revenue, which it said was up 89% from the same period a year before, but suffered an overall loss due to the drop in cryptocurrencies.\nIt added that it closed the second quarter with total assets of $2bn and financial assets of about $1.9bn, which includes cash, short-term investments and digital currencies.\nThe group is expanding into areas including cryptocurrency holdings and clean-energy investments.\nTrump Media is more of a crypto holdings firm \"wrapped around\" a media company, and the bulk of its losses have come from that strategy, Markus Thielen, an analyst from 10x Research, told the BBC.\nThe company is diversifying beyond its crypto business into areas such as social media, though those ventures have yet to generate significant revenue, Thielen said.\nEarlier this month, Trump Media scrapped plans for a project with Crypto.com to introduce prediction market features on the Truth Social platform.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "President Donald Trump's"
+    ],
+    [
+     "ins",
+     "More than 10 customers have signed up to Trump Media's controversial service that offers faster access to market-moving posts made on its Truth Social platform. The service, Truth API, launched at the beginning of August and gives Wall Street traders first sight of posts from the"
+    ],
+    [
+     "eq",
+     "social media"
+    ],
+    [
+     "del",
+     "company"
+    ],
+    [
+     "ins",
+     "site's most influential accounts. Its earliest customers are mostly in high-frequency trading firms who are being charged between $60,000-$100,000 (Â£44,000-Â£74,000) a month for the service, interim chief executive officer Kevin McGurn said during an earnings call. He was speaking after Trump Media"
+    ],
+    [
+     "eq",
+     "reported a loss of $238m"
+    ],
+    [
+     "del",
+     "(Â£176m)"
+    ],
+    [
+     "eq",
+     "between April and"
+    ],
+    [
+     "del",
+     "June as it branched into ventures unrelated to media, including cryptocurrencies."
+    ],
+    [
+     "ins",
+     "June."
+    ],
+    [
+     "eq",
+     "The quarterly loss is more than 10 times the amount reported during"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "period a year earlier, according to the Trump Media and Technology Group,"
+    ],
+    [
+     "ins",
+     "and comes as the group branched into ventures unrelated to media, including cryptocurrencies. The group,"
+    ],
+    [
+     "eq",
+     "which"
+    ],
+    [
+     "del",
+     "owns the President's Truth Social platform. The firm"
+    ],
+    [
+     "ins",
+     "is yet to make a profit,"
+    ],
+    [
+     "eq",
+     "says it will refocus on its social media"
+    ],
+    [
+     "del",
+     "mission, which includes a controversial service that offers faster access to market-moving posts from the platform's most influential users. The company said more than 10 customers have signed up for it, paying between $60,000-$100,000 (Â£44,430-Â£74,000) a month."
+    ],
+    [
+     "ins",
+     "mission."
+    ],
+    [
+     "eq",
+     "In July, it announced a plan to give Wall Street"
+    ],
+    [
+     "del",
+     "traders"
+    ],
+    [
+     "ins",
+     "firms and institutional investors"
+    ],
+    [
+     "eq",
+     "faster access to posts on Truth Social, where Trump frequently makes announcements."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "subscribers an edge in trading stocks and other heavily traded assets. The"
+    ],
+    [
+     "ins",
+     "move has prompted legal and ethical questions, including whether it is right that a company - of which the president's family remains the majority shareholder - stands to potentially profit from his own public statements. The"
+    ],
+    [
+     "eq",
+     "new"
+    ],
+    [
+     "del",
+     "service, called TruthAPI,"
+    ],
+    [
+     "ins",
+     "service"
+    ],
+    [
+     "eq",
+     "is \"expected to provide the company with a new revenue stream,\" Trump"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of the company's broader media strategy which includes advertising and digital assets,"
+    ],
+    [
+     "del",
+     "the group's interim chief executive officer Kevin"
+    ],
+    [
+     "eq",
+     "McGurn said. Truth Media is also exploring opportunities with technology firms, news"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "for further comment. The company posted $1.7m in revenue, which it said"
+    ],
+    [
+     "del",
+     "is"
+    ],
+    [
+     "ins",
+     "was"
+    ],
+    [
+     "eq",
+     "up 89% from the same period a year before, but suffered"
+    ],
+    [
+     "ins",
+     "an"
+    ],
+    [
+     "eq",
+     "overall loss due to the drop in cryptocurrencies. It added that it"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "about $1.9bn, which includes cash, short-term investments and digital currencies. The group"
+    ],
+    [
+     "del",
+     "has yet to turn a profit, even as it expands"
+    ],
+    [
+     "ins",
+     "is expanding"
+    ],
+    [
+     "eq",
+     "into areas including cryptocurrency holdings and clean-energy investments. Trump Media is more"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "with Crypto.com to introduce prediction market features on the Truth Social platform."
+    ],
+    [
+     "del",
+     "The move has prompted legal and ethical questions, including whether it is right that a company - of which the president's family remains the majority shareholder - stands to potentially profit from his own public statements."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.6307,
+  "numbers_changed": [
+   "176",
+   "44,000",
+   "44,430"
+  ],
+  "market_figures_changed": [
+   "£176m",
+   "£44,000",
+   "£44,430"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 3,
+  "blocks_removed": 2,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.842,
+ "similarity": 0.9297,
+ "adjudicated_by": "rules"
+}

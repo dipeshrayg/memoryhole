@@ -1,0 +1,52 @@
+{
+ "id": "58751bf805421f08-aaf0c120-415d4848",
+ "url": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-12T07:41:34Z",
+ "date": "2026-08-12",
+ "old_title": "Yemen's Houthis launch ballistic missile attacks on al-Makha and Marib",
+ "new_title": "Yemen's Houthis launch ballistic missile attacks on al-Makha and Marib",
+ "old_text": "The armed forces of Yemen's internationally recognised government have accused the Houthis of launching another round of ballistic missile attacks on the Red Sea port city of al-Makha and on residential areas in the central city of Marib.\nYemeni forces did not state whether the attacks on Monday caused any casualties.\nRecommended Stories\nlist of 4 items\n- list 1 of 4The post-American Middle East is beginning to take shape\n- list 2 of 4What are the challenges facing the Mecca agreement?\n- list 3 of 4Will Pakistan-Saudi-Turkiye defence pact change US strategy?\n- list 4 of 4Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran\nThe attacks came a day after Houthi missiles killed at least seven people and wounded 30 others in al-Makha, which is also known as Mocha. The strikes caused extensive damage at the city's port area.\nElsewhere in Yemen on Monday, a Houthi drone strike killed two Yemeni government soldiers and wounded seven others in the south-central province of Shabwa, according to local media reports.\nYemeni forces, in a series of posts on X, said they targeted Houthi rebels and their sites in eastern al-Jawf province, northwestern Saada province and the al-Tibas area of central Marib province.\nThe tit-for-tat attacks are the deadliest in years in Yemen's civil war and mark a major escalation in the conflict, which has been reignited by the war launched by the United States and Israel against Iran on February 28.\nThe Iran-backed Houthis captured Yemen's capital, Sanaa, in September 2014, with a Saudi-led coalition intervening in March 2015 on the side of the government.\nThe conflict, which has killed hundreds of thousands of people, deteriorated into a deadlock, and the warring parties reached a truce in April 2022 that ended major fighting across the country.\nBut the violence reignited on July 13 with a Saudi air strike on the runway of Sanaa airport, preventing the landing of an Iranian flight carrying a high-ranking Houthi delegation.\nFollowing the strike, the Houthis attacked the Abha airport in southwestern Saudi Arabia and announced a blockade on Saudi shipping in the Red Sea. They have also attacked Saudi vessels as well as oil facilities in the kingdom, adding further disruption to the global economy.\nThe Saudi-led coalition in turn has struck Houthi-controlled Hodeidah and Kamaran, Yemen's largest island in the Red Sea. It has also reinforced Yemeni troops along the front lines in Yemen to launch a ground offensive on Houthis.\nMeanwhile, the United Nations has called for restraint.\n\"Yemen today faces a greater risk of renewed large-scale conflict than at any point since the UN-brokered truce of April 2022,\" UN envoy Hans Grundberg warned on Friday.\nThe escalation, he said, risks \"jeopardising the gains of the 2022 truce ... while also drawing the country into a broader regional confrontation, with devastating consequences for its people\".",
+ "new_text": "The armed forces of Yemen's internationally recognised government have accused the Houthis of launching another round of ballistic missile attacks on the Red Sea port city of al-Makha and on residential areas in the central city of Marib.\nYemeni forces did not state whether the attacks on Monday caused any casualties.\nRecommended Stories\nlist of 4 items\n- list 1 of 4The post-American Middle East is beginning to take shape\n- list 2 of 4What are the challenges facing the Mecca agreement?\n- list 3 of 4Will Pakistan-Saudi-Turkiye defence pact change US strategy?\n- list 4 of 4Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran\nThe attacks came a day after Houthi missiles killed at least seven people and wounded 30 others in al-Makha, which is also known as Mocha. The strikes caused extensive damage at the city's port area.\nElsewhere in Yemen on Monday, a Houthi drone strike killed two Yemeni government soldiers and wounded seven others in the south-central province of Shabwa, according to local media reports.\nYemeni forces, in a series of posts on X, said they targeted Houthi rebels and their sites in eastern al-Jawf province, northwestern Saada province and the al-Tibas area of central Marib province.\nThe tit-for-tat attacks are the deadliest in years in Yemen's civil war and mark a major escalation in the conflict, which has been reignited by the war launched by the United States and Israel against Iran on February 28.\nThe Iran-backed Houthis captured Yemen's capital, Sanaa, in September 2014, with a Saudi-led coalition intervening in March 2015 on the side of the government.\nThe conflict, which has killed hundreds of thousands of people, deteriorated into a deadlock, and the warring parties reached a truce in April 2022 that ended major fighting across the country.\nBut the violence reignited on July 13 with a Saudi air strike on the runway of Sanaa airport, preventing the landing of an Iranian flight carrying a high-ranking Houthi delegation.\nFollowing the strike, the Houthis attacked the Abha airport in southwestern Saudi Arabia and announced a blockade on Saudi shipping in the Red Sea. They have also attacked Saudi vessels as well as oil facilities in the kingdom, adding further disruption to the global economy.\nThe Saudi-led coalition in turn has struck Houthi-controlled Hodeidah and Kamaran, Yemen's largest island in the Red Sea. It has also reinforced Yemeni troops along the front lines in Yemen to launch a ground offensive on Houthis, the Associated Press news agency reported, citing Yemeni officials.\nMeanwhile, the United Nations has called for restraint.\n\"Yemen today faces a greater risk of renewed large-scale conflict than at any point since the UN-brokered truce of April 2022,\" UN envoy Hans Grundberg warned on Friday.\nThe escalation, he said, risks \"jeopardising the gains of the 2022 truce ... while also drawing the country into a broader regional confrontation, with devastating consequences for its people\".",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "along the front lines in Yemen to launch a ground offensive on"
+    ],
+    [
+     "del",
+     "Houthis."
+    ],
+    [
+     "ins",
+     "Houthis, the Associated Press news agency reported, citing Yemeni officials."
+    ],
+    [
+     "eq",
+     "Meanwhile, the United Nations has called for restraint. \"Yemen today faces a"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.023,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

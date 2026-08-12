@@ -1,0 +1,100 @@
+{
+ "id": "f4f42f5f7be6e88a-80759158-e5c505d6",
+ "url": "https://www.independent.co.uk/bulletin/news/pc-harper-petition-death-killers-b3030869.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-12T07:44:04Z",
+ "date": "2026-08-12",
+ "old_title": "PC Harper's killers won't walk free early, minister suggests",
+ "new_title": "'Solution identified' to stop PC Harper's killers walking free early",
+ "old_text": "PC Harper's killers won't walk free early, minister suggests\n- \"A solution has been identified\" to stop PC Andrew Harper's killers from walking free from prison early, housing minister Sally Jameson has suggested.\n- Jessie Cole and Albert Bowers, who were sentenced to 13 years for manslaughter in 2020 following PC Harper's death in 2019, are currently due for early release in January.\n- Downing Street previously said that it was not possible to exclude individual offenders, but said it was reviewing options following public outcry and a petition signed by over 880,000 people.\n- The early release scheme, part of measures to tackle prison overcrowding, currently excludes those convicted of rape, serious child sex offences, and grooming.\n- Offenders set for early release under the sentencing changes will face strict probation conditions, including electronic monitoring and random drug testing.",
+ "new_text": "'Solution identified' to stop PC Harper's killers walking free early\n- \"A solution has been identified\" to stop PC Andrew Harper's killers from walking free from prison early, Housing Minister Sally Jameson has suggested.\n- Communities Secretary Angela Rayner says the government will set out details of the plan when Parliament returns in September.\n- Jessie Cole and Albert Bowers, who were sentenced to 13 years for manslaughter in 2020 following PC Harper's death in 2019, are currently due for early release in January.\n- Downing Street previously said that it was not possible to exclude individual offenders, but said it was reviewing options following public outcry and a petition signed by over 880,000 people.\n- The early release scheme, part of measures to tackle prison overcrowding, currently excludes those convicted of rape, serious child sex offences, and grooming.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "'Solution identified' to stop"
+    ],
+    [
+     "eq",
+     "PC Harper's killers"
+    ],
+    [
+     "del",
+     "won't walk"
+    ],
+    [
+     "ins",
+     "walking"
+    ],
+    [
+     "eq",
+     "free"
+    ],
+    [
+     "del",
+     "early, minister suggests"
+    ],
+    [
+     "ins",
+     "early"
+    ],
+    [
+     "eq",
+     "- \"A solution has been identified\" to stop PC Andrew Harper's killers from walking free from prison early,"
+    ],
+    [
+     "del",
+     "housing minister"
+    ],
+    [
+     "ins",
+     "Housing Minister"
+    ],
+    [
+     "eq",
+     "Sally Jameson has suggested."
+    ],
+    [
+     "ins",
+     "- Communities Secretary Angela Rayner says the government will set out details of the plan when Parliament returns in September."
+    ],
+    [
+     "eq",
+     "- Jessie Cole and Albert Bowers, who were sentenced to 13 years"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "currently excludes those convicted of rape, serious child sex offences, and grooming."
+    ],
+    [
+     "del",
+     "- Offenders set for early release under the sentencing changes will face strict probation conditions, including electronic monitoring and random drug testing."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4071,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.79,
+ "similarity": 0.955,
+ "adjudicated_by": "rules"
+}
