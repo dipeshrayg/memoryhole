@@ -1,0 +1,58 @@
+{
+ "id": "cdd1e773089ec966-87d54513-6b8c9a73",
+ "url": "https://www.france24.com/en/colombia-rescue-efforts-press-on-after-deadly-earthquake",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-13T07:45:07Z",
+ "date": "2026-08-13",
+ "old_title": "Colombia rescue efforts press on after deadly earthquake",
+ "new_title": "Colombia rescue efforts press on after deadly earthquake",
+ "old_text": "Colombia rescue efforts press on after deadly earthquake\nIssued on:\nShare\nRescue efforts across western Colombia carried into a second day on Tuesday as emergency workers dug through collapsed buildings and flattened homes, amid expectations that the death toll from the country's most powerful earthquake in decades could rise. FRANCE 24's Camille Corcoran brings us more with this report.",
+ "new_text": "Colombia rescue efforts press on after deadly earthquake\nIssued on: Modified:\nShare\nRescue efforts across western Colombia carried into a second day on Tuesday (August 11) as emergency workers dug through collapsed buildings and flattened homes, amid expectations that the death toll from the country's most powerful earthquake in decades could rise. FRANCE 24's Camille Corcoran brings us more with this report.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Colombia rescue efforts press on after deadly earthquake Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "Share Rescue efforts across western Colombia carried into a second day on Tuesday"
+    ],
+    [
+     "ins",
+     "(August 11)"
+    ],
+    [
+     "eq",
+     "as emergency workers dug through collapsed buildings and flattened homes, amid expectations"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0508,
+  "numbers_changed": [
+   "11"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9906,
+ "adjudicated_by": "rules"
+}

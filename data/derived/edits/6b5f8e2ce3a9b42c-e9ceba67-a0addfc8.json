@@ -1,0 +1,100 @@
+{
+ "id": "6b5f8e2ce3a9b42c-e9ceba67-a0addfc8",
+ "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-08-13T07:56:36Z",
+ "date": "2026-08-13",
+ "old_title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+ "new_title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+ "old_text": "On Monday, passengers aboard Delta flight 591 going from Las Vegas to Atlanta allegedly spoofed the onboard Wi-Fi, raising the attention of federal law enforcement.\nThe incident came one day after the DEF CON security conference concluded in Las Vegas, and was first described on social media accounts that follow publicly available air-to-ground messages, known as ACARS.\nAccording to the \"ACARS Drama\" account, a message was sent by pilots from the plane stated: \"NO INFO AS OF NOW WE HAVE A BUNCH OF PAX THAT WERE AT A CYBER CONFERENCE IN LAS THEY WERE ABLE TO JAM OUR WIFI AND BROADCAST THEIR SIGNAL.\"\nA description of the incident posted to Reddit further stated that these passengers created a fake hotspot (\"Delta WiFi Fast\"), with a phishing landing page \"designed to harvest passengers' personal credentials.\"\nThis technique, sometimes known as an \"evil twin\" attack, has been long-known to the IT security community. It involves setting up a fake Wi-Fi network and then capturing login credentials and other data.",
+ "new_text": "On Monday, passengers aboard Delta flight 591 going from Las Vegas to Atlanta allegedly spoofed the onboard Wi-Fi, raising the attention of federal law enforcement.\nThe incident came one day after the DEF CON security conference concluded in Las Vegas and was first described on social media accounts that follow publicly available air-to-ground messages, known as ACARS.\nAccording to the \"ACARS Drama\" account, a message sent by pilots from the plane stated: \"NO INFO AS OF NOW WE HAVE A BUNCH OF PAX THAT WERE AT A CYBER CONFERENCE IN LAS THEY WERE ABLE TO JAM OUR WIFI AND BROADCAST THEIR SIGNAL.\"\nA description of the incident posted to Reddit further stated that these passengers created a fake hotspot (\"Delta WiFi Fast\"), with a phishing landing page \"designed to harvest passengers' personal credentials.\"\nThis technique, sometimes known as an \"evil twin\" attack, has been known to the IT security community for a long time. It involves setting up a fake Wi-Fi network and then capturing login credentials and other data.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "came one day after the DEF CON security conference concluded in Las"
+    ],
+    [
+     "del",
+     "Vegas,"
+    ],
+    [
+     "ins",
+     "Vegas"
+    ],
+    [
+     "eq",
+     "and was first described on social media accounts that follow publicly available"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "messages, known as ACARS. According to the \"ACARS Drama\" account, a message"
+    ],
+    [
+     "del",
+     "was"
+    ],
+    [
+     "eq",
+     "sent by pilots from the plane stated: \"NO INFO AS OF NOW"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "credentials.\" This technique, sometimes known as an \"evil twin\" attack, has been"
+    ],
+    [
+     "del",
+     "long-known"
+    ],
+    [
+     "ins",
+     "known"
+    ],
+    [
+     "eq",
+     "to the IT security"
+    ],
+    [
+     "del",
+     "community."
+    ],
+    [
+     "ins",
+     "community for a long time."
+    ],
+    [
+     "eq",
+     "It involves setting up a fake Wi-Fi network and then capturing login credentials and other data."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0659,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9976,
+ "adjudicated_by": "rules"
+}

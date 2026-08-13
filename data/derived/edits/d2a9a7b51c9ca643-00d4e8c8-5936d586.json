@@ -1,0 +1,116 @@
+{
+ "id": "d2a9a7b51c9ca643-00d4e8c8-5936d586",
+ "url": "https://www.france24.com/en/americas/20260811-colombia-earthquake-rescue-efforts-enter-second-day-as-death-toll-reaches-164",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-13T07:45:05Z",
+ "date": "2026-08-13",
+ "old_title": "Colombia earthquake rescue efforts enter second day as death toll reaches 164",
+ "new_title": "Colombia rescuers race against the clock as quake death toll tops 220",
+ "old_text": "Colombia earthquake rescue efforts enter second day as death toll reaches 164\nRescuers in western Colombia worked through the night and into Tuesday searching for survivors beneath the wreckage after a powerful 7.4 magnitude earthquake devastated parts of the country's coffee-growing region on Monday. At least 164 people have been killed and authorities are warning the number of casualties could still climb.\nRescue efforts across western Colombia carried into a second day on Tuesday as emergency workers dug through collapsed buildings and flattened homes, amid expectations that the death toll from the country's most powerful earthquake in decades could rise.\nThe 7.4-magnitude earthquake tore through Colombia's coffee-growing heartland early on Monday, killing at least 164 people.\nThe quake reduced multi-storey buildings to rubble in cities such as Pereira and Cali, and cracked apart one of the towers of a historic cathedral in the city of Manizales.\nEmergency teams aided by police, soldiers and volunteers worked through the night with excavators and, at times, their bare hands, hunting for survivors beneath debris.\nIn Cali, home to about 2.2 million people, at least 85 people were killed. Dozens of buildings were left leaning precariously or destroyed outright, forcing residents into the streets.\nSeveral of the top floors of one of the city's hospitals - some dedicated to pediatric care - collapsed upon themselves, leaving some patients trapped and forcing some 600 others to be tended to on a street strewn with rubble, hospital director Irne Torres Castro told Caracol television.\nCarmen Yasmin Garcia, 43, a Cali resident volunteering with rescue teams, said on Monday afternoon that her group had freed seven people from a collapsed building, but four others and a dog remained trapped.\n\"A moment ago there was scratching but now we can't hear anything, we still have faith that the dog is alive and we can get these people out,\" Garcia said. \"We need people with sticks and spades, the more people lending a hand the better.\"\nIn Pereira, capital of the hard-hit state of Risaralda, authorities reported 66 dead.\nThe city also bore some of the most visible destruction, with entire residential blocks reduced to piles of concrete and twisted steel. Videos posted on social media and verified by Reuters showed the city's airport violently swaying during the quake, with large chunks of the ceiling collapsing as people sheltered.\nAnother 13 people died in Choco, the rural province closest to the quake's epicenter.\nSecurity forces headed to Cali\nPresident Abelardo De La Espriella, who assumed power just days ago, said 35 people died in Cali alone, while 188 were missing. He said 1,000 members of the security forces would be deployed to the city by dawn, following reports of looting.\nCali, as well as Pereira, implemented curfews on Monday night.\n\"Our intention is to cooperate in any way necessary. Here, there are no distinctions or ideological divisions when it comes to defending our people or showing solidarity,\" De La Espriella told journalists on Monday evening.\nThe disaster has drawn comparisons to a deadly 1999 earthquake that devastated the same coffee-growing region, killing more than 1,000 people, as well as to catastrophic quakes that killed more than 6,300 in neighbouring Venezuela in June.\n(FRANCE 24 with Reuters)",
+ "new_text": "Colombia rescuers race against the clock as quake death toll tops 220\nRescuers in western Colombia worked through the night and into Tuesday searching for survivors beneath the wreckage after a powerful 7.4 magnitude earthquake devastated parts of the country's coffee-growing region on Monday. At least 224 people have been killed and authorities are warning the number of casualties could still climb.\nRescue efforts across western Colombia carried into a second day on Tuesday as emergency workers dug through collapsed buildings and flattened homes, amid expectations that the death toll from the country's most powerful earthquake in decades could rise.\nThe 7.4-magnitude earthquake tore through Colombia's coffee-growing heartland early on Monday, killing at least 224 people.\nThe quake reduced multi-storey buildings to rubble in cities such as Pereira and Cali, and cracked apart one of the towers of a historic cathedral in the city of Manizales.\nEmergency teams aided by police, soldiers and volunteers worked through the night with excavators and, at times, their bare hands, hunting for survivors beneath debris.\nIn Cali, home to about 2.2 million people, at least 85 people were killed. Dozens of buildings were left leaning precariously or destroyed outright, forcing residents into the streets.\nSeveral of the top floors of one of the city's hospitals - some dedicated to pediatric care - collapsed upon themselves, leaving some patients trapped and forcing some 600 others to be tended to on a street strewn with rubble, hospital director Irne Torres Castro told Caracol television.\nCarmen Yasmin Garcia, 43, a Cali resident volunteering with rescue teams, said on Monday afternoon that her group had freed seven people from a collapsed building, but four others and a dog remained trapped.\n\"A moment ago there was scratching but now we can't hear anything, we still have faith that the dog is alive and we can get these people out,\" Garcia said. \"We need people with sticks and spades, the more people lending a hand the better.\"\nIn Pereira, capital of the hard-hit state of Risaralda, authorities reported 66 dead.\nThe city also bore some of the most visible destruction, with entire residential blocks reduced to piles of concrete and twisted steel. Videos posted on social media and verified by Reuters showed the city's airport violently swaying during the quake, with large chunks of the ceiling collapsing as people sheltered.\nAnother 13 people died in Choco, the rural province closest to the quake's epicenter.\nSecurity forces headed to Cali\nPresident Abelardo De La Espriella, who assumed power just days ago, said 35 people died in Cali alone, while 188 were missing. He said 1,000 members of the security forces would be deployed to the city by dawn, following reports of looting.\nCali, as well as Pereira, implemented curfews on Monday night.\n\"Our intention is to cooperate in any way necessary. Here, there are no distinctions or ideological divisions when it comes to defending our people or showing solidarity,\" De La Espriella told journalists on Monday evening.\nThe disaster has drawn comparisons to a deadly 1999 earthquake that devastated the same coffee-growing region, killing more than 1,000 people, as well as to catastrophic quakes that killed more than 6,300 in neighbouring Venezuela in June.\n(FRANCE 24 with Reuters)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Colombia"
+    ],
+    [
+     "del",
+     "earthquake rescue efforts enter second day"
+    ],
+    [
+     "ins",
+     "rescuers race against the clock"
+    ],
+    [
+     "eq",
+     "as"
+    ],
+    [
+     "ins",
+     "quake"
+    ],
+    [
+     "eq",
+     "death toll"
+    ],
+    [
+     "del",
+     "reaches 164"
+    ],
+    [
+     "ins",
+     "tops 220"
+    ],
+    [
+     "eq",
+     "Rescuers in western Colombia worked through the night and into Tuesday searching"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "earthquake devastated parts of the country's coffee-growing region on Monday. At least"
+    ],
+    [
+     "del",
+     "164"
+    ],
+    [
+     "ins",
+     "224"
+    ],
+    [
+     "eq",
+     "people have been killed and authorities are warning the number of casualties"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "earthquake tore through Colombia's coffee-growing heartland early on Monday, killing at least"
+    ],
+    [
+     "del",
+     "164"
+    ],
+    [
+     "ins",
+     "224"
+    ],
+    [
+     "eq",
+     "people. The quake reduced multi-storey buildings to rubble in cities such as"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0372,
+  "numbers_changed": [
+   "164",
+   "220",
+   "224"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.983,
+ "adjudicated_by": "rules"
+}

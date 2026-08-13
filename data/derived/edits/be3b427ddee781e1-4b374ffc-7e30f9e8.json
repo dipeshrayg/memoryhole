@@ -1,0 +1,136 @@
+{
+ "id": "be3b427ddee781e1-4b374ffc-7e30f9e8",
+ "url": "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-13T07:49:29Z",
+ "date": "2026-08-13",
+ "old_title": "Tributes paid after John Pye co-founder dies",
+ "new_title": "Tributes to co-founder of John Pye auction house",
+ "old_text": "- Published\nTributes have been paid to the co-founder of an auction business which grew into an \"industry leading company\".\nJohn Pye Auctions said on Tuesday it was with \"great sadness\" it announced the death of co-founder John Pye at the age of 95.\nThe company was founded by John and Ann Pye in 1968 as a partnership named 'Furniture & General Auctions' at Nottingham's old Cattle Market site.\nA statement issued by the firm said \"John lived a fantastic life full of laughter and hard work\", adding he had a legacy \"which will live on forever\".\n'Local legend'\n\"He was immensely proud of what John Pye & Sons has become, which is thanks to his determination, vision and every single one of the extended John Pye family - his colleagues over all the years,\" the statement added.\n\"He founded John Pye & Sons in 1968 with just a horse and cart, and lived to see a small business grow into a British industry leading company.\n\"Those of you who knew him or met him will know of his larger than life character, and the positive and playful impact he had on those around him.\n\"A true local legend.\"\nFor the first two decades, the firm specialised in managing probate house clearances, cessation of business asset disposals and private chattels.\nIn 1990, the company was incorporated as 'John Pye & Sons Limited' and relocated to larger premises at Banton House in Meadow Lane, near Notts County's stadium, to expand its client base in the East Midlands.\nIt later acquired the former Shipstone's 'Star' Brewery site in New Basford in 1995 as the business grew in the 1990s, the company said.\nThe company added it first moved from live traditional auctions to 24-hour timed auctions in 2007.\nIn addition to the company's head office in Nottingham, it now has auction hubs across the country, including in Derby, Birmingham, Bo'ness and Margam, with a further site in Zaragoza, Spain.\n\"On behalf of the Pye family, we would like to thank everyone for their kind words and support at this incredibly sad time.\n\"He will be greatly missed by all of us,\" the statement from the firm added.\nListen to BBC Radio Nottingham on Sounds and follow BBC Nottingham on Facebook, external, on X, external, or on Instagram, external. Send your story ideas to eastmidsnews@bbc.co.uk, external or via WhatsApp, external on 0808 100 2210.",
+ "new_text": "- Published\nTributes have been paid to the co-founder of an auction business that grew into an \"industry leading company\".\nJohn Pye Auctions said on Tuesday it was with \"great sadness\" it announced the death of co-founder John Pye at the age of 95.\nThe company was founded by John and Ann Pye in 1968 as a partnership named Furniture & General Auctions at Nottingham's old Cattle Market site.\nA statement issued by the firm said \"John lived a fantastic life full of laughter and hard work\", adding he had a legacy \"which will live on forever\".\n'Local legend'\n\"He was immensely proud of what John Pye & Sons has become, which is thanks to his determination, vision and every single one of the extended John Pye family - his colleagues over all the years,\" the statement added.\n\"He founded John Pye & Sons in 1968 with just a horse and cart, and lived to see a small business grow into a British industry leading company.\n\"Those of you who knew him or met him will know of his larger than life character, and the positive and playful impact he had on those around him.\n\"A true local legend.\"\nFor the first two decades, the firm specialised in managing probate house clearances, cessation of business asset disposals and private chattels.\nIn 1990, the company was incorporated as John Pye & Sons Limited and relocated to larger premises at Banton House in Meadow Lane, near Notts County's stadium, to expand its client base in the East Midlands.\nIt later acquired the former Shipstone's Star Brewery site in New Basford in 1995 as the business grew in the 1990s, the company said.\nThe company added it first moved from live traditional auctions to 24-hour timed auctions in 2007.\nIn addition to the company's head office in Nottingham, it now has auction hubs across the country, including in Derby, Birmingham, Bo'ness and Margam, with a further site in Zaragoza, Spain.\n\"On behalf of the Pye family, we would like to thank everyone for their kind words and support at this incredibly sad time.\n\"He will be greatly missed by all of us,\" the statement from the firm added.\nListen to BBC Radio Nottingham on Sounds and follow BBC Nottingham on Facebook, external, on X, external, or on Instagram, external. Send your story ideas to eastmidsnews@bbc.co.uk, external or via WhatsApp, external on 0808 100 2210.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Published Tributes have been paid to the co-founder of an auction business"
+    ],
+    [
+     "del",
+     "which"
+    ],
+    [
+     "ins",
+     "that"
+    ],
+    [
+     "eq",
+     "grew into an \"industry leading company\". John Pye Auctions said on Tuesday"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "founded by John and Ann Pye in 1968 as a partnership named"
+    ],
+    [
+     "del",
+     "'Furniture"
+    ],
+    [
+     "ins",
+     "Furniture"
+    ],
+    [
+     "eq",
+     "& General"
+    ],
+    [
+     "del",
+     "Auctions'"
+    ],
+    [
+     "ins",
+     "Auctions"
+    ],
+    [
+     "eq",
+     "at Nottingham's old Cattle Market site. A statement issued by the firm"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "asset disposals and private chattels. In 1990, the company was incorporated as"
+    ],
+    [
+     "del",
+     "'John"
+    ],
+    [
+     "ins",
+     "John"
+    ],
+    [
+     "eq",
+     "Pye & Sons"
+    ],
+    [
+     "del",
+     "Limited'"
+    ],
+    [
+     "ins",
+     "Limited"
+    ],
+    [
+     "eq",
+     "and relocated to larger premises at Banton House in Meadow Lane, near"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "client base in the East Midlands. It later acquired the former Shipstone's"
+    ],
+    [
+     "del",
+     "'Star'"
+    ],
+    [
+     "ins",
+     "Star"
+    ],
+    [
+     "eq",
+     "Brewery site in New Basford in 1995 as the business grew in"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0299,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9945,
+ "adjudicated_by": "rules"
+}

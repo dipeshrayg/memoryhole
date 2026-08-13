@@ -1,0 +1,308 @@
+{
+ "id": "fa91e054056246ac-fc8debc4-c66e7471",
+ "url": "https://www.aljazeera.com/news/2026/8/12/at-least-15-dead-dozens-missing-as-ferry-capsizes-in-zimbabwe?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-13T07:43:37Z",
+ "date": "2026-08-13",
+ "old_title": "At least 15 dead, dozens missing as ferry capsizes in Zimbabwe",
+ "new_title": "Death toll rises to 44 after ferry capsizes on Zimbabwe lake",
+ "old_text": "At least 15 people have been killed and 27 remain missing after an overloaded ferry capsized on Zimbabwe's Lake Kariba, according to the country's Civil Protection Unit.\nThe boat overturned on Tuesday after hitting strong waves, the agency said in a statement, adding that at least 77 people were rescued.\nThe boat provides transport between the northern town of Kariba and several islands and fishing camps and was carrying more than its capacity of 90 people when it capsized, the agency said.\nWhile exact numbers of passengers and crew are yet to be announced, the agency said it could only confirm through registered ticket sales that there were 114 adult passengers on board, along with five crew members.\nThere could have been an unknown number of children below ticketing age who were on board and not accounted for, the agency added.\nZimbabwe's national police service said rescue efforts were under way.\nThe state broadcaster ZBC published video of speedboats making their way to what appeared to be an overturned boat on the lake as a helicopter hovered overhead. An underwater team for search and rescue operations was deployed on the huge lake, it said.\nWitness Maxton Kanhema told the AFP news agency that the vessel departed in bad weather, and that a wave may have hit the boat, causing its engines to switch off.\n\"When we were in the waters, then you could see a distress sign and then boats that were close by responded,\" said Maxton Kanhema.\nHe said the Matusadona National Park provided a helicopter to help in the rescue effort alongside bigger boats and divers from the local area and the army.\n\"People were in distress... There were bodies in the water and it was a sad situation to witness. Those that could be rescued were rescued,\" he added.\n\"However, due to the bad weather, the responses were a bit late,\" he said. \"Getting to the boat took time and unfortunately lives were lost.\"\nLake Kariba lies on Zimbabwe's border with Zambia, more than 300km (186 miles) northeast of the capital Harare. It is the world's largest man-made lake by volume and was created in the late 1950s and early 1960s by building a dam wall to block the Zambezi River, resulting in a valley slowly filling with water to form a huge lake that is now more than 200km (124 miles) long and up to 40km (25 miles) wide in places.",
+ "new_text": "The death toll has risen to 44 after an overloaded ferry capsized on Lake Kariba in Zimbabwe, police said, as President Emmerson Mnangagwa declared a state of disaster.\nThe vessel operated by the Rural Infrastructure Development Agency capsized on Tuesday after being struck by strong waves while navigating near Long Island. It was travelling from the lakeside town of Kariba towards Chalala at the time.\nZimbabwe's Civil Protection Unit (CPU) said on Wednesday that the boat was carrying at least 114 adult passengers and five crew members based on registered ticket sales. An unknown number of children below ticketing age were also believed to be aboard, further complicating efforts to establish the total number of people on the vessel. Authorities said the boat had a capacity of 90 people.\nThe CPU said overnight that at least 77 people were rescued.\nA multi-agency response involving the Zimbabwe Republic Police Sub-Aqua Unit, the Zimbabwe National Army Boat Squadron, and other stakeholders is continuing, and the declaration of a state of disaster enables the government to mobilise additional resources.\nThe state broadcaster ZBC published video of speedboats making their way to what appeared to be an overturned boat on the lake as a helicopter hovered overhead.\nWitness Maxton Kanhema told the AFP news agency that the vessel had departed in bad weather, and that a wave may have hit the boat, causing its engines to switch off.\n\"When we were in the waters, then you could see a distress sign and then boats that were close by responded,\" he said.\nHe said the Matusadona National Park provided a helicopter to help in the rescue effort alongside bigger boats and divers from the local area and the army.\n\"People were in distress... There were bodies in the water and it was a sad situation to witness. Those that could be rescued were rescued,\" he added.\n\"However, due to the bad weather, the responses were a bit late. Getting to the boat took time, and unfortunately lives were lost.\"\nReporting from the capital, Harare, Al Jazeera's Haru Mutasa said the scale of the incident had shaken the country. \"Boat accidents happen every now and again on Lake Kariba. This one was bad because of the sheer numbers, and it's a big story here in Zimbabwe,\" she said.\nMutasa said footage of the ill-fated journey had begun circulating online. \"You can hear them speaking in the local language, Shona, and they were saying things like, 'This doesn't look safe; the water looks rough. Are these people going to be OK?' Later on, the ferry then capsized.\"\nMutasa said that weather conditions were complicating the search efforts.\nLake Kariba lies on Zimbabwe's border with Zambia, more than 300km (186 miles) northeast of Harare. It is the world's largest man-made lake by volume and was created in the late 1950s and early 1960s by building a dam wall to block the Zambezi River, resulting in a valley slowly filling with water to form a huge lake that is now more than 200km (124 miles) long and up to 40km (25 miles) wide in places.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "At least 15 people have been killed and 27 remain missing"
+    ],
+    [
+     "ins",
+     "The death toll has risen to 44"
+    ],
+    [
+     "eq",
+     "after an overloaded ferry capsized on"
+    ],
+    [
+     "del",
+     "Zimbabwe's"
+    ],
+    [
+     "eq",
+     "Lake"
+    ],
+    [
+     "del",
+     "Kariba, according to"
+    ],
+    [
+     "ins",
+     "Kariba in Zimbabwe, police said, as President Emmerson Mnangagwa declared a state of disaster. The vessel operated by"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "country's Civil Protection Unit. The boat overturned"
+    ],
+    [
+     "ins",
+     "Rural Infrastructure Development Agency capsized"
+    ],
+    [
+     "eq",
+     "on Tuesday after"
+    ],
+    [
+     "del",
+     "hitting"
+    ],
+    [
+     "ins",
+     "being struck by"
+    ],
+    [
+     "eq",
+     "strong"
+    ],
+    [
+     "del",
+     "waves,"
+    ],
+    [
+     "ins",
+     "waves while navigating near Long Island. It was travelling from"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "agency"
+    ],
+    [
+     "ins",
+     "lakeside town of Kariba towards Chalala at the time. Zimbabwe's Civil Protection Unit (CPU)"
+    ],
+    [
+     "eq",
+     "said"
+    ],
+    [
+     "del",
+     "in"
+    ],
+    [
+     "ins",
+     "on Wednesday that the boat was carrying at least 114 adult passengers and five crew members based on registered ticket sales. An unknown number of children below ticketing age were also believed to be aboard, further complicating efforts to establish the total number of people on the vessel. Authorities said the boat had"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "statement, adding"
+    ],
+    [
+     "ins",
+     "capacity of 90 people. The CPU said overnight"
+    ],
+    [
+     "eq",
+     "that at least 77 people were rescued."
+    ],
+    [
+     "del",
+     "The boat provides transport between"
+    ],
+    [
+     "ins",
+     "A multi-agency response involving"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "northern town"
+    ],
+    [
+     "ins",
+     "Zimbabwe Republic Police Sub-Aqua Unit, the Zimbabwe National Army Boat Squadron, and other stakeholders is continuing, and the declaration"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "Kariba and several islands and fishing camps and was carrying more than its capacity"
+    ],
+    [
+     "ins",
+     "a state"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "90 people when it capsized,"
+    ],
+    [
+     "ins",
+     "disaster enables"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "agency said. While exact numbers of passengers and crew are yet"
+    ],
+    [
+     "ins",
+     "government"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "be announced, the agency said it could only confirm through registered ticket sales that there were 114 adult passengers on board, along with five crew members. There could have been an unknown number of children below ticketing age who were on board and not accounted for, the agency added. Zimbabwe's national police service said rescue efforts were under way."
+    ],
+    [
+     "ins",
+     "mobilise additional resources."
+    ],
+    [
+     "eq",
+     "The state broadcaster ZBC published video of speedboats making their way to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "be an overturned boat on the lake as a helicopter hovered overhead."
+    ],
+    [
+     "del",
+     "An underwater team for search and rescue operations was deployed on the huge lake, it said."
+    ],
+    [
+     "eq",
+     "Witness Maxton Kanhema told the AFP news agency that the vessel"
+    ],
+    [
+     "ins",
+     "had"
+    ],
+    [
+     "eq",
+     "departed in bad weather, and that a wave may have hit the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "see a distress sign and then boats that were close by responded,\""
+    ],
+    [
+     "del",
+     "said Maxton Kanhema."
+    ],
+    [
+     "ins",
+     "he said."
+    ],
+    [
+     "eq",
+     "He said the Matusadona National Park provided a helicopter to help in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "added. \"However, due to the bad weather, the responses were a bit"
+    ],
+    [
+     "del",
+     "late,\" he said. \"Getting"
+    ],
+    [
+     "ins",
+     "late. Getting"
+    ],
+    [
+     "eq",
+     "to the boat took"
+    ],
+    [
+     "del",
+     "time"
+    ],
+    [
+     "ins",
+     "time,"
+    ],
+    [
+     "eq",
+     "and unfortunately lives were lost.\""
+    ],
+    [
+     "ins",
+     "Reporting from the capital, Harare, Al Jazeera's Haru Mutasa said the scale of the incident had shaken the country. \"Boat accidents happen every now and again on Lake Kariba. This one was bad because of the sheer numbers, and it's a big story here in Zimbabwe,\" she said. Mutasa said footage of the ill-fated journey had begun circulating online. \"You can hear them speaking in the local language, Shona, and they were saying things like, 'This doesn't look safe; the water looks rough. Are these people going to be OK?' Later on, the ferry then capsized.\" Mutasa said that weather conditions were complicating the search efforts."
+    ],
+    [
+     "eq",
+     "Lake Kariba lies on Zimbabwe's border with Zambia, more than 300km (186 miles) northeast of"
+    ],
+    [
+     "del",
+     "the capital"
+    ],
+    [
+     "eq",
+     "Harare. It is the world's largest man-made lake by volume and was"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.0148,
+  "numbers_changed": [
+   "15",
+   "27",
+   "44"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.917,
+ "similarity": 0.9172,
+ "adjudicated_by": "rules"
+}

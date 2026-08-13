@@ -1,0 +1,104 @@
+{
+ "id": "5f69e5c6eeb80aea-d6288748-c623307c",
+ "url": "https://www.france24.com/en/tv-shows/sports/20260811-european-championships-thanks-to-l%C3%A9on-marchand-france-take-silver-in-the-4-x-200m",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-13T07:45:13Z",
+ "date": "2026-08-13",
+ "old_title": "Sports - European championships: Thanks to Léon Marchand, France take silver in the 4 x 200m",
+ "new_title": "Sports - European swimming championships: France take silver in men's 4 x 200m freestyle relay",
+ "old_text": "European championships: Thanks to Léon Marchand, France take silver in the 4 x 200m\nIssued on:\nThe French men's 400 x 200 m freestyle relay team won silver at the European Championships. On his return to France, Léon Marchand posted the world's best time of the year in the 200m.\nIn athletics, Étienne Daguinos won the bronze medal in the 5,000 metres at the European Championships. Jimmy Gressier finished fourth. In football, Yan Diomandé took part in his first training session with Real Madrid. Gianni Infantino and FIFA remain under fire. In basketball, Tony Parker is set to coach a former team-mate, Patty Mills.",
+ "new_text": "European swimming championships: France take silver in men's 4 x 200m freestyle relay\nIssued on:\nThe French men's 400 x 200m freestyle relay team won silver at the European Championships. On his return to France, Léon Marchand posted the world's best time of the year in the 200m.\nAlso in this edition:\nIn athletics, Étienne Daguinos won the bronze medal in the 5,000 metres at the European Championships. Jimmy Gressier finished fourth. In football, Yan Diomandé took part in his first training session with Real Madrid. Gianni Infantino and FIFA remain under fire. In basketball, Tony Parker is set to coach a former team-mate, Patty Mills.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "European"
+    ],
+    [
+     "ins",
+     "swimming"
+    ],
+    [
+     "eq",
+     "championships:"
+    ],
+    [
+     "del",
+     "Thanks to Léon Marchand,"
+    ],
+    [
+     "eq",
+     "France take silver in"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "ins",
+     "men's"
+    ],
+    [
+     "eq",
+     "4 x 200m"
+    ],
+    [
+     "ins",
+     "freestyle relay"
+    ],
+    [
+     "eq",
+     "Issued on: The French men's 400 x"
+    ],
+    [
+     "del",
+     "200 m"
+    ],
+    [
+     "ins",
+     "200m"
+    ],
+    [
+     "eq",
+     "freestyle relay team won silver at the European Championships. On his return"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Marchand posted the world's best time of the year in the 200m."
+    ],
+    [
+     "ins",
+     "Also in this edition:"
+    ],
+    [
+     "eq",
+     "In athletics, Étienne Daguinos won the bronze medal in the 5,000 metres"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1538,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.72,
+ "similarity": 0.9666,
+ "adjudicated_by": "rules"
+}

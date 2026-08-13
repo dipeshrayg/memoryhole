@@ -1,0 +1,212 @@
+{
+ "id": "a90affed6ff3c032-2fdbab22-17897e6f",
+ "url": "https://www.dw.com/en/indonesia-passengers-rescued-after-bali-ferry-catches-fire/a-78329620?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-13T07:44:33Z",
+ "date": "2026-08-13",
+ "old_title": "Indonesia: Passengers rescued after Bali ferry catches fire",
+ "new_title": "Indonesia: Passengers rescued after Bali ferry catches fire",
+ "old_text": "Indonesian authorities rescued over 130 people from a burning ferry on Wednesday near the tourist island of Bali.\nThe fire broke out on the Padang Bai-Lembar ferry route connecting Bali and Lombok and is also used by tourists travelling between the two popular destinations.\nIt is the second major ferry fire in Indonesia this month.\nWhat Indonesian authorities said about the ferry fire\nMuhammad Hariyadi, who heads the Mataram Search and Rescue Office, told Metro TV that all passengers had been rescued and there were no immediate reports of casualties.\n\"We have approached the ship and confirmed that all passengers are no longer on board,\" he said. \"We visually see no passengers on the ship.\"\nIn a statement later, Hariyadi said the total number of passengers on board was still being verified. He had initially said the ferry was carrying 114 passengers and 17 crew members, referring to the passenger manifest data released by Padang Bai's port authority.\nThe ferry also had 44 vehicles and 53 motorcycles on it.\nWhat else do we know about the fire and rescue efforts?\nFire broke out on board the Putri Yasmin Ferry at about 4:15 a.m. (1045 GMT) while it was en route from Padang Bai port in Bali to Lembar port on the adjacent island of Lombok, according to the search office in Mataram.\nThe agency received an emergency report nearly half an hour later and then deployed rescue vessels and personnel.\nThe burning ferry was in the midst of rough seas with waves as high as 4 meters (13 feet), Hariyadi said, adding that conditions had complicated rescue efforts.\nA ferry in the vicinity had evacuated 30 passengers and brought them to Bali. A search and rescue vessel was on its way to Lembar port with 59 of the rescued passengers. A naval vessel picked up another 17 passengers.\nMarine safety in Indonesia\nMarine accidents are a regular occurrence in Indonesia where ferries are a common mode of transport.\nLast week, five people died in a ferry fire off the coast of Java Island. Last month, a ferry transporting more than 70 people sank while sailing near Seayar Island. The rescue operation had been closed after four bodies were recovered, but 14 were officially still missing.\nAnd in July last year, a ferry sank while travelling between Java and Bali, killing nearly 20 people.\nEdited by: Rob Turner\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "Indonesian authorities rescued 172 people from a burning ferry on Wednesday near the tourist island of Bali.\nAt least one person, a 19-year-old woman, was killed in the incident, officials said.\nThe fire broke out on the Padang Bai-Lembar ferry route connecting Bali and Lombok and is also used by tourists travelling between the two popular destinations.\nIt is the second major ferry fire in Indonesia this month.\nWhat Indonesian authorities said about the ferry fire\nMuhammad Hariyadi, who heads the Mataram Search and Rescue Office, had initially told Metro TV that all passengers had been deboarded from the burning ferry.\n\"We have approached the ship and confirmed that all passengers are no longer on board,\" he said. \"We visually see no passengers on the ship.\"\nLater, Hariyadi told reporters that a woman had been declared dead.\nThe ferry was estimated to be carrying 114 passengers and 17 crew members, Hariyadi had said referring to the passenger manifest data released by Padang Bai's port authority.\nHowever, the final tally of passengers and crew was significantly above the 131 people estimated.\nWhat else do we know about the fire and rescue efforts?\nFire broke out on board the Putri Yasmin Ferry at about 4:15 a.m. (1045 GMT) while it was en route from Padang Bai port in Bali to Lembar port on the adjacent island of Lombok, according to the search office in Mataram.\nThe agency received an emergency report nearly half an hour later and then deployed rescue vessels and personnel.\nSurvivor Kiky Okta Pradika, 25, told reporters in Lembar he had grabbed a life jacket before jumping overboard with several other passengers.\"There were a few hours before there was any help,\" he said.\nThe burning ferry was in the midst of rough seas with waves as high as 4 meters (13 feet), Hariyadi said, adding that conditions had complicated rescue efforts.\nA ferry in the vicinity had evacuated 30 passengers and brought them to Bali. A search and rescue vessel was on its way to Lembar port with 59 of the rescued passengers. A naval vessel picked up another 17 passengers.\nTwo of the rescued passengers were Australian tourists.\nMarine safety in Indonesia\nMarine accidents are a regular occurrence in Indonesia where ferries are a common mode of transport.\nLast week, five people died in a ferry fire off the coast of Java Island. Last month, a ferry transporting more than 70 people sank while sailing near Seayar Island. The rescue operation had been closed after four bodies were recovered, but 14 were officially still missing.\nAnd in July last year, a ferry sank while travelling between Java and Bali, killing nearly 20 people.\nEdited by: Rob Turner\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Indonesian authorities rescued"
+    ],
+    [
+     "del",
+     "over 130"
+    ],
+    [
+     "ins",
+     "172"
+    ],
+    [
+     "eq",
+     "people from a burning ferry on Wednesday near the tourist island of Bali."
+    ],
+    [
+     "ins",
+     "At least one person, a 19-year-old woman, was killed in the incident, officials said."
+    ],
+    [
+     "eq",
+     "The fire broke out on the Padang Bai-Lembar ferry route connecting Bali"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "ferry fire Muhammad Hariyadi, who heads the Mataram Search and Rescue Office,"
+    ],
+    [
+     "ins",
+     "had initially"
+    ],
+    [
+     "eq",
+     "told Metro TV that all passengers had been"
+    ],
+    [
+     "del",
+     "rescued and there were no immediate reports of casualties."
+    ],
+    [
+     "ins",
+     "deboarded from the burning ferry."
+    ],
+    [
+     "eq",
+     "\"We have approached the ship and confirmed that all passengers are no"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "on board,\" he said. \"We visually see no passengers on the ship.\""
+    ],
+    [
+     "del",
+     "In"
+    ],
+    [
+     "ins",
+     "Later, Hariyadi told reporters that"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "statement later, Hariyadi said the total number of passengers on board was still being verified. He"
+    ],
+    [
+     "ins",
+     "woman"
+    ],
+    [
+     "eq",
+     "had"
+    ],
+    [
+     "del",
+     "initially said the"
+    ],
+    [
+     "ins",
+     "been declared dead. The"
+    ],
+    [
+     "eq",
+     "ferry was"
+    ],
+    [
+     "ins",
+     "estimated to be"
+    ],
+    [
+     "eq",
+     "carrying 114 passengers and 17 crew members,"
+    ],
+    [
+     "ins",
+     "Hariyadi had said"
+    ],
+    [
+     "eq",
+     "referring to the passenger manifest data released by Padang Bai's port authority."
+    ],
+    [
+     "del",
+     "The ferry also had 44 vehicles"
+    ],
+    [
+     "ins",
+     "However, the final tally of passengers"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "53 motorcycles on it."
+    ],
+    [
+     "ins",
+     "crew was significantly above the 131 people estimated."
+    ],
+    [
+     "eq",
+     "What else do we know about the fire and rescue efforts? Fire"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "nearly half an hour later and then deployed rescue vessels and personnel."
+    ],
+    [
+     "ins",
+     "Survivor Kiky Okta Pradika, 25, told reporters in Lembar he had grabbed a life jacket before jumping overboard with several other passengers.\"There were a few hours before there was any help,\" he said."
+    ],
+    [
+     "eq",
+     "The burning ferry was in the midst of rough seas with waves"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of the rescued passengers. A naval vessel picked up another 17 passengers."
+    ],
+    [
+     "ins",
+     "Two of the rescued passengers were Australian tourists."
+    ],
+    [
+     "eq",
+     "Marine safety in Indonesia Marine accidents are a regular occurrence in Indonesia"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3018,
+  "numbers_changed": [
+   "130",
+   "131",
+   "172",
+   "19",
+   "25",
+   "44",
+   "53"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9814,
+ "adjudicated_by": "rules"
+}

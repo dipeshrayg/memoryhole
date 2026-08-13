@@ -1,0 +1,68 @@
+{
+ "id": "a38a5169894bd32f-172c182c-a1bd84f3",
+ "url": "https://www.independent.co.uk/news/uk/home-news/drought-uk-map-2026-heatwave-weather-water-b3031524.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-13T07:46:50Z",
+ "date": "2026-08-13",
+ "old_title": "Mapped: Where drought has been declared in the UK as another heatwave looms",
+ "new_title": "Mapped: Where drought has been declared in the UK as another heatwave looms",
+ "old_text": "The hot and dry weather is expected to continue into Wednesday with nearly three-quarters of England and all of Wales now suffering from drought conditions.\nTemperatures are expected to peak around 33C in the Midlands and the south-east ahead of highs of 38C on Thursday, as a fifth heatwave of the year puts the UK on track for its hottest ever summer.\nSome 71.3 per cent of England has been plunged into drought after a record dry July and a very dry start to August, putting immense pressure on water resources for homes and the environment.\nOfficials from the National Drought Group said on Monday that there are now 45 million people living in drought conditions, with 27 million already under water-use restrictions.\nWhere droughts have been declared:\nThat came after the East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and Solent and the South Downs were added to the growing list.\nThe North East and Yorkshire were also recategorised as having 'prolonged dry weather' - the stage before drought - with nowhere now deemed in normal status.\nTony Grayling, strategic drought lead at the Environment Agency and chair of the National Drought Group, said: \"Drought conditions are worsening and will continue to do so until we see significant and sustained rainfall.\n\"We know the hot and dry weather is taking a real toll on farming and there will be long-lasting impacts on our environment.\"\nThe drought continues to pile pressure onto farming, freight shipping and energy production after the country saw its driest July in 190 years.\nAugust has so far seen just five per cent of the expected rainfall for the month, with warnings of more dry weather and highs of 38C to follow this week.\nA drought usually refers to a period of prolonged, unusually dry weather that affects nature, the environment, and people.\nIn July, 19 counties across England recorded effectively no rainfall - 1mm or less - across the whole of the month, the Met Office figures show, causing river levels to fall and leaving ground dry and at risk of wildfires.\nFirefighters raced to battle a major grass fire at a park in Exeter on Tuesday as conditions worsened in the south.\nDevon and Somerset fire and rescue service said a large grass fire had broken out at Mincinglake Valley Park just before 3pm and advised people to stay away.\nThe summer of extreme weather has seen two record-breaking heatwaves, in May and June, which led to more than 2,800 excess deaths, and two more heatwaves in July which have fuelled drought and wildfires.\nBut the hot weather is set to continue as temperatures are forecast to soar into the mid-30s across the country on Wednesday, Thursday and Friday.\nAmber heat health alerts issued by the UK Health Security Agency are in place for every region of England, and will remain in place until at least 9pm on Friday 14 August,\nMeanwhile, the Met Office has issued an amber weather warning for extreme heat covering a large part of England that includes London, the South East, East of England, West Midlands, and southern parts of Yorkshire.\nPrime minister Andy Burnham will chair a meeting of the Government's emergency Cobra committee on Wednesday in response to extreme heat, marking the second Cobra meeting this year on heatwaves.",
+ "new_text": "The hot and dry weather is expected to continue into Thursday with nearly three-quarters of England and all of Wales now suffering from drought conditions.\nTemperatures are expected to peak around 37C on Thursday, as a fifth heatwave of the year puts the UK on track for its hottest ever summer.\nSome 71.3 per cent of England has been plunged into drought after a record dry July and a very dry start to August, putting immense pressure on water resources for homes and the environment.\nOfficials from the National Drought Group said on Monday that there are now 45 million people living in drought conditions, with 27 million already under water-use restrictions.\nWhere droughts have been declared:\nThat came after the East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and Solent and the South Downs were added to the growing list.\nThe North East and Yorkshire were also recategorised as having 'prolonged dry weather' - the stage before drought - with nowhere now deemed in normal status.\nTony Grayling, strategic drought lead at the Environment Agency and chair of the National Drought Group, said: \"Drought conditions are worsening and will continue to do so until we see significant and sustained rainfall.\n\"We know the hot and dry weather is taking a real toll on farming and there will be long-lasting impacts on our environment.\"\nThe drought continues to pile pressure onto farming, freight shipping and energy production after the country saw its driest July in 190 years.\nAugust has so far seen just five per cent of the expected rainfall for the month, with warnings of more dry weather and highs of 38C to follow this week.\nA drought usually refers to a period of prolonged, unusually dry weather that affects nature, the environment, and people.\nIn July, 19 counties across England recorded effectively no rainfall - 1mm or less - across the whole of the month, the Met Office figures show, causing river levels to fall and leaving ground dry and at risk of wildfires.\nFirefighters raced to battle a major grass fire at a park in Exeter on Tuesday as conditions worsened in the south.\nDevon and Somerset fire and rescue service said a large grass fire had broken out at Mincinglake Valley Park just before 3pm and advised people to stay away.\nThe summer of extreme weather has seen two record-breaking heatwaves, in May and June, which led to more than 2,800 excess deaths, and two more heatwaves in July which have fuelled drought and wildfires.\nBut the hot weather is set to continue as temperatures are forecast to soar into the mid-30s across the country on Wednesday, Thursday and Friday.\nAmber heat health alerts issued by the UK Health Security Agency are in place for every region of England, and will remain in place until at least 9pm on Friday 14 August,\nMeanwhile, the Met Office has issued an amber weather warning for extreme heat covering a large part of England that includes London, the South East, East of England, West Midlands, and southern parts of Yorkshire.\nPrime minister Andy Burnham will chair a meeting of the Government's emergency Cobra committee on Wednesday in response to extreme heat, marking the second Cobra meeting this year on heatwaves.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "The hot and dry weather is expected to continue into"
+    ],
+    [
+     "del",
+     "Wednesday"
+    ],
+    [
+     "ins",
+     "Thursday"
+    ],
+    [
+     "eq",
+     "with nearly three-quarters of England and all of Wales now suffering from drought conditions. Temperatures are expected to peak around"
+    ],
+    [
+     "del",
+     "33C in the Midlands and the south-east ahead of highs of 38C"
+    ],
+    [
+     "ins",
+     "37C"
+    ],
+    [
+     "eq",
+     "on Thursday, as a fifth heatwave of the year puts the UK"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0271,
+  "numbers_changed": [
+   "33",
+   "37",
+   "38"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9907,
+ "adjudicated_by": "rules"
+}
