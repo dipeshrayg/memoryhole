@@ -1,0 +1,122 @@
+{
+ "id": "708d8a6a8d0405a5-b5626a0f-7ab2c7dc",
+ "url": "https://www.france24.com/en/africa/20260813-zambia-heads-to-polls-with-president-hichilema-expected-to-win-second-term",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-14T07:43:07Z",
+ "date": "2026-08-14",
+ "old_title": "Zambia heads to polls with President Hichilema expected to win second term",
+ "new_title": "Zambia heads to polls with President Hichilema expected to win second term",
+ "old_text": "Zambia heads to polls with President Hichilema expected to win second term\nZambians vote Thursday in a general election widely expected to give President Hakainde Hichilema a second term, as his economic record faces a test from voters frustrated by the cost of living and opposition parties seek to capitalise on discontent despite deep divisions.\nZambia goes to the polls on Thursday in a general election widely expected to give President Hakainde Hichilema a second term, although frustration over the cost of living may dent his support.\nHichilema has led the southern African copper producer since 2021 and is running on his economic record, having steered Zambia through a debt restructuring and economic rebound since it defaulted on its sovereign debt in 2020.\nHis main challenger is Brian Mundubile, an experienced parliamentarian but first-time presidential candidate who is leading an opposition alliance backed by supporters of Hichilema's predecessor, the late former president Edgar Lungu.\nOpposition weakened by divisions\nThe presidential, parliamentary and local government elections will be held simultaneously. A presidential candidate must receive more than 50% of votes cast in order to win in the first round, or faces a run-off between the top two contenders.\n\"I am tempted to think the ruling party will carry the day despite the huge crowds we are seeing at the rallies for (Mundubile),\" said historian and analyst Euston Chiputa.\n\"One of the serious weaknesses in the opposition camp is that it is splintered,\" he said, with parliamentary and local government candidates from Mundubile's party and those from his running-mate's party competing against each other in some places.\nInvestors said they widely expect Hichilema to win, with the bigger question being whether he can turn the post-default macroeconomic turnaround into job-creating growth if given a second term.\nMany Zambians say that although economic indicators have improved and inflation has fallen to its lowest level in years, they have yet to feel the benefits in their daily lives.\nSome concerns over fairness of vote\nThe lead-up to the vote has been marred by some allegations of political repression in the country of 22 million people, although the government denies this.\nZambia is rated as \"partly free\" by US non-profit group Freedom House, which says that although there are regular multi-party elections, opposition parties face \"onerous legal and practical obstacles to fair competition.\"\n\"The competition is still there because the opposition has support in Lusaka and Copperbelt Province, which have large numbers of registered voters,\" said Lee Habasonda, a political science lecturer at the University of Zambia.\n\"If the opposition had rallied behind one candidate earlier, this would have been one of the toughest elections for the ruling party,\" he said.\nPolls are open from 6 a.m. (0400 GMT) to 6 p.m. and results are scheduled for Monday, according to the Electoral Commission. If the presidential vote goes to a second round, the run-off must be held within 37 days of the first poll.\n(FRANCE 24 with Reuters)",
+ "new_text": "Zambia heads to polls with President Hichilema expected to win second term\nZambians vote Thursday in a general election widely expected to give President Hakainde Hichilema a second term, as his economic record faces a test from voters frustrated by the cost of living and opposition parties seek to capitalise on discontent despite deep divisions.\nZambia goes to the polls on Thursday in a general election widely expected to give President Hakainde Hichilema a second term, although frustration over the cost of living may dent his support.\nHichilema has led the southern African copper producer since 2021 and is running on his economic record, having steered Zambia through a debt restructuring and economic rebound since it defaulted on its sovereign debt in 2020.\nHis main challenger is Brian Mundubile, an experienced parliamentarian but first-time presidential candidate who is leading an opposition alliance backed by supporters of Hichilema's predecessor, the late former president Edgar Lungu.\nOpposition weakened by divisions\nThe presidential, parliamentary and local government elections will be held simultaneously. A presidential candidate must receive more than 50 percent of votes cast in order to win in the first round, or faces a run-off between the top two contenders.\n\"I am tempted to think the ruling party will carry the day despite the huge crowds we are seeing at the rallies for (Mundubile),\" said historian and analyst Euston Chiputa.\n\"One of the serious weaknesses in the opposition camp is that it is splintered,\" he said, with parliamentary and local government candidates from Mundubile's party and those from his running-mate's party competing against each other in some places.\nInvestors said they widely expect Hichilema to win, with the bigger question being whether he can turn the post-default macroeconomic turnaround into job-creating growth if given a second term.\nMany Zambians say that although economic indicators have improved and inflation has fallen to its lowest level in years, they have yet to feel the benefits in their daily lives.\nRead moreFive things to know about Zambia as it goes to the polls\nSome concerns over fairness of vote\nThe lead-up to the vote has been marred by some allegations of political repression in the country of 22 million people, although the government denies this.\nZambia is rated as \"partly free\" by US non-profit group Freedom House, which says that although there are regular multi-party elections, opposition parties face \"onerous legal and practical obstacles to fair competition\".\n\"The competition is still there because the opposition has support in Lusaka and Copperbelt Province, which have large numbers of registered voters,\" said Lee Habasonda, a political science lecturer at the University of Zambia.\n\"If the opposition had rallied behind one candidate earlier, this would have been one of the toughest elections for the ruling party,\" he said.\nPolls are open from 6am (0400 GMT) to 6pm and results are scheduled for Monday, according to the Electoral Commission. If the presidential vote goes to a second round, the run-off must be held within 37 days of the first poll.\n(FRANCE 24 with Reuters)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "elections will be held simultaneously. A presidential candidate must receive more than"
+    ],
+    [
+     "del",
+     "50%"
+    ],
+    [
+     "ins",
+     "50 percent"
+    ],
+    [
+     "eq",
+     "of votes cast in order to win in the first round, or"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "years, they have yet to feel the benefits in their daily lives."
+    ],
+    [
+     "ins",
+     "Read moreFive things to know about Zambia as it goes to the polls"
+    ],
+    [
+     "eq",
+     "Some concerns over fairness of vote The lead-up to the vote has"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "multi-party elections, opposition parties face \"onerous legal and practical obstacles to fair"
+    ],
+    [
+     "del",
+     "competition.\""
+    ],
+    [
+     "ins",
+     "competition\"."
+    ],
+    [
+     "eq",
+     "\"The competition is still there because the opposition has support in Lusaka"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "toughest elections for the ruling party,\" he said. Polls are open from"
+    ],
+    [
+     "del",
+     "6 a.m."
+    ],
+    [
+     "ins",
+     "6am"
+    ],
+    [
+     "eq",
+     "(0400 GMT) to"
+    ],
+    [
+     "del",
+     "6 p.m."
+    ],
+    [
+     "ins",
+     "6pm"
+    ],
+    [
+     "eq",
+     "and results are scheduled for Monday, according to the Electoral Commission. If"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0487,
+  "numbers_changed": [],
+  "market_figures_changed": [
+   "50%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

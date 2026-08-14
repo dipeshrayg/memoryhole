@@ -1,0 +1,381 @@
+{
+ "id": "ba8a39bd43775af3-ac498b15-791a8ccf",
+ "url": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-14T07:47:37Z",
+ "date": "2026-08-14",
+ "old_title": "Economy grew in April to June as sun and World Cup helped some UK businesses",
+ "new_title": "UK economy grows but experts warn of challenging months ahead",
+ "old_text": "- Published\nAn added boost from summer sun and sports fixtures for some businesses helped the UK economy to grow by 0.4% between April and June, according to official data.\nBut the figure - in line with economists' expectations - is below the 0.6% expansion recorded in the first three months of this year.\nThe Office for National Statistics (ONS) said growth had \"remained relatively robust\", with services sector propelling growth in the second quarter while manufacturing also grew.\nComputer programming, advertising and the pharmaceutical industry were areas of strength, the ONS said. That was offset by falls in power generation and sewerage.\nThe ONS said some businesses reported that \"good weather and sporting events may have had a positive effect\" in June, boosting month-on-month growth to 0.3% in June. However, May's growth was revised down from 0.1% to zero growth.\nThe men's football World Cup, which kicked off mid-June, boosted customers at hospitality venues showing the matches.\nJune also saw several of summer's heatwaves.\nThe slowdown in growth over the three months to the end of June compared to the start of the year reflected the ongoing impact of the war in Iran as well as political uncertainty in the run up to Sir Keir Starmer's resignation as prime minister at the end of June.\nChancellor of the Exchequer, John Healey MP said: \"I know people are worried about the impact of the conflict in the Middle East on their cost of living, which has been too high for too long and it has added pressure on British businesses.\"\nHe said the government's aim was to make the country \"more resilient\" and to \"drive growth in every postcode\".\nShadow chancellor Sir Mel Stride said Labour had \"mismanaged the economy with their tax and borrowing spree, leaving it weak and vulnerable to the effects of shocks like the Iran War.\n\"Labour need to realise that it's their poor decisions which have stifled growth and made the cost of living worse,\" he said.\nFergus Jimenez-England, Associate Economist National Institute of Economic and Social Research said the UK economy had \"weathered the recent energy shock better than many feared\", but said the recent pace of growth was unlikely to be sustained.\n\"Both inflation and unemployment are set to rise in the coming months while business sentiment remains fragile and could dampen further with ongoing energy price volatility.\n\"The economy has shown welcome resilience so far, but we are not out of the woods yet.\"\nSuren Thiru, ICAEW chief economist, said households and firms had \"largely shrugged off the shockwaves from the Iran war\".\nBut he also expected weaker growth in the second half of the year, making the chancellor's Budget in October \"more challenging\".",
+ "new_text": "- Published\nSummer sun and sports fixtures helped the UK economy grow between April and June, according to official data, but some economists warned the outlook for the rest of the year was weaker.\nThe economy expanded by 0.4%, in line with market expectations but below a 0.6% increase in the first three months of this year.\nThe Office for National Statistics (ONS) said growth had \"remained relatively robust\", with the UK ahead of other G7 countries for growth this year so far.\nExperts questioned whether this resilience would be maintained, however, given growth was fuelled by some temporary factors and energy prices could remain volatile if the Middle East conflict continues.\nThe British economy is now 1.2% bigger than a year ago, the ONS said, despite fears that the Iran war, which started at the end of February, and politically uncertainty around Sir Keir Starmer's resignation as prime minister would hold back growth.\nBetween April and June, sectors including computer programming, advertising and the pharmaceutical industry lifted growth. That was offset by falls in power generation and sewerage.\nThe ONS said some businesses reported that \"good weather and sporting events may have had a positive effect\" in June, boosting month-on-month growth to 0.3%.\nThe men's football World Cup, which kicked off mid-June, increased customers at hospitality venues showing the matches.\nJune also saw several of summer's heatwaves. However, May's growth was revised down from 0.1% to zero growth.\nFergus Jimenez-England, associate economist National Institute of Economic and Social Research said the UK economy had \"weathered the recent energy shock better than many feared\".\nMatt Harwood, director of Clarity Plastics, a plastic injection moulding company with sites in Birmingham and Telford, said that while the conflict had affected costs for things like raw materials, there had since been some stabilisation.\n\"When the Iran war started, availability went down and prices went up,\" he said. \"However, we're seeing that kind of level out now, and prices coming back to the kind of the normal levels again.\n\"We've tried to stay resilient by carrying on investing. We're now installing a large 1500-ton machine... that's kind of giving us a competitive edge now as well.\"\nBut Jimenez-England said the recent pace of growth for the UK economy was unlikely to be sustained.\n\"Both inflation and unemployment are set to rise in the coming months while business sentiment remains fragile and could dampen further with ongoing energy price volatility.\n\"The economy has shown welcome resilience so far, but we are not out of the woods yet.\"\nOn Wednesday, it emerged that Prime Minister Andy Burnham has been warned by the Treasury that the UK economy may grow by just by 0.9% this year and could be as low as 0.3% in 2027 if disruption in the Strait of Hormuz continues.\nSuren Thiru, chief economist at the Institute of Chartered Accountants in England and Wales, said that while households and firms had \"largely shrugged off the shockwaves from the Iran war\" much of the growth in the second quarter had been driven by \"temporary factors\".\nThis was likely to be followed by a \"more painful deceleration\" in the next few months, he said, and would make Chancellor John Healey's first Budget in October \"more challenging\".\nResponding to the latest growth figures Healey said: \"I know people are worried about the impact of the conflict in the Middle East on their cost of living, which has been too high for too long and it has added pressure on British businesses.\"\nHe said the government's aim was to make the country \"more resilient\" and to \"drive growth in every postcode\".\nShadow chancellor Sir Mel Stride said Labour had \"mismanaged the economy with their tax and borrowing spree, leaving it weak and vulnerable to the effects of shocks like the Iran War.\n\"Labour need to realise that it's their poor decisions which have stifled growth and made the cost of living worse,\" he said.\nLiberal Democrat Treasury Spokesperson Daisy Cooper MP said the figures were \"little to celebrate\".\n\"After Labour's two anti-growth budgets, Burnham needs to urgently get a grip on the economy and get Britain growing again, supercharging economic growth through a new trade deal with the EU, including joining the Single Market,\" she said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "An added boost from summer"
+    ],
+    [
+     "ins",
+     "Summer"
+    ],
+    [
+     "eq",
+     "sun and sports fixtures"
+    ],
+    [
+     "del",
+     "for some businesses"
+    ],
+    [
+     "eq",
+     "helped the UK economy"
+    ],
+    [
+     "del",
+     "to"
+    ],
+    [
+     "eq",
+     "grow"
+    ],
+    [
+     "del",
+     "by 0.4%"
+    ],
+    [
+     "eq",
+     "between April and June, according to official"
+    ],
+    [
+     "del",
+     "data. But"
+    ],
+    [
+     "ins",
+     "data, but some economists warned"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "figure -"
+    ],
+    [
+     "ins",
+     "outlook for the rest of the year was weaker. The economy expanded by 0.4%,"
+    ],
+    [
+     "eq",
+     "in line with"
+    ],
+    [
+     "del",
+     "economists'"
+    ],
+    [
+     "ins",
+     "market"
+    ],
+    [
+     "eq",
+     "expectations"
+    ],
+    [
+     "del",
+     "- is"
+    ],
+    [
+     "ins",
+     "but"
+    ],
+    [
+     "eq",
+     "below"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "ins",
+     "a"
+    ],
+    [
+     "eq",
+     "0.6%"
+    ],
+    [
+     "del",
+     "expansion recorded"
+    ],
+    [
+     "ins",
+     "increase"
+    ],
+    [
+     "eq",
+     "in the first three months of this year. The Office for National Statistics (ONS) said growth had \"remained relatively robust\", with"
+    ],
+    [
+     "del",
+     "services sector propelling"
+    ],
+    [
+     "ins",
+     "the UK ahead of other G7 countries for"
+    ],
+    [
+     "eq",
+     "growth"
+    ],
+    [
+     "del",
+     "in"
+    ],
+    [
+     "ins",
+     "this year so far. Experts questioned whether this resilience would be maintained, however, given growth was fuelled by some temporary factors and energy prices could remain volatile if"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "second quarter while manufacturing also grew. Computer"
+    ],
+    [
+     "ins",
+     "Middle East conflict continues. The British economy is now 1.2% bigger than a year ago, the ONS said, despite fears that the Iran war, which started at the end of February, and politically uncertainty around Sir Keir Starmer's resignation as prime minister would hold back growth. Between April and June, sectors including computer"
+    ],
+    [
+     "eq",
+     "programming, advertising and the pharmaceutical industry"
+    ],
+    [
+     "del",
+     "were areas of strength, the ONS said."
+    ],
+    [
+     "ins",
+     "lifted growth."
+    ],
+    [
+     "eq",
+     "That was offset by falls in power generation and sewerage. The ONS"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "may have had a positive effect\" in June, boosting month-on-month growth to"
+    ],
+    [
+     "del",
+     "0.3% in June. However, May's growth was revised down from 0.1% to zero growth."
+    ],
+    [
+     "ins",
+     "0.3%."
+    ],
+    [
+     "eq",
+     "The men's football World Cup, which kicked off mid-June,"
+    ],
+    [
+     "del",
+     "boosted"
+    ],
+    [
+     "ins",
+     "increased"
+    ],
+    [
+     "eq",
+     "customers at hospitality venues showing the matches. June also saw several of summer's heatwaves."
+    ],
+    [
+     "del",
+     "The slowdown"
+    ],
+    [
+     "ins",
+     "However, May's growth was revised down from 0.1% to zero growth. Fergus Jimenez-England, associate economist National Institute of Economic and Social Research said the UK economy had \"weathered the recent energy shock better than many feared\". Matt Harwood, director of Clarity Plastics, a plastic injection moulding company with sites"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "growth over"
+    ],
+    [
+     "ins",
+     "Birmingham and Telford, said that while"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "three months"
+    ],
+    [
+     "ins",
+     "conflict had affected costs for things like raw materials, there had since been some stabilisation. \"When the Iran war started, availability went down and prices went up,\" he said. \"However, we're seeing that kind of level out now, and prices coming back"
+    ],
+    [
+     "eq",
+     "to the"
+    ],
+    [
+     "del",
+     "end"
+    ],
+    [
+     "ins",
+     "kind"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "June compared"
+    ],
+    [
+     "ins",
+     "the normal levels again. \"We've tried to stay resilient by carrying on investing. We're now installing a large 1500-ton machine... that's kind of giving us a competitive edge now as well.\" But Jimenez-England said the recent pace of growth for the UK economy was unlikely to be sustained. \"Both inflation and unemployment are set to rise in the coming months while business sentiment remains fragile and could dampen further with ongoing energy price volatility. \"The economy has shown welcome resilience so far, but we are not out of the woods yet.\" On Wednesday, it emerged that Prime Minister Andy Burnham has been warned by the Treasury that the UK economy may grow by just by 0.9% this year and could be as low as 0.3% in 2027 if disruption in the Strait of Hormuz continues. Suren Thiru, chief economist at the Institute of Chartered Accountants in England and Wales, said that while households and firms had \"largely shrugged off the shockwaves from the Iran war\" much of the growth in the second quarter had been driven by \"temporary factors\". This was likely to be followed by a \"more painful deceleration\" in the next few months, he said, and would make Chancellor John Healey's first Budget in October \"more challenging\". Responding"
+    ],
+    [
+     "eq",
+     "to the"
+    ],
+    [
+     "del",
+     "start of the year reflected the ongoing impact of the war in Iran as well as political uncertainty in the run up to Sir Keir Starmer's resignation as prime minister at the end of June. Chancellor of the Exchequer, John"
+    ],
+    [
+     "ins",
+     "latest growth figures"
+    ],
+    [
+     "eq",
+     "Healey"
+    ],
+    [
+     "del",
+     "MP"
+    ],
+    [
+     "eq",
+     "said: \"I know people are worried about the impact of the conflict"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "have stifled growth and made the cost of living worse,\" he said."
+    ],
+    [
+     "del",
+     "Fergus Jimenez-England, Associate Economist National Institute of Economic and Social Research"
+    ],
+    [
+     "ins",
+     "Liberal Democrat Treasury Spokesperson Daisy Cooper MP"
+    ],
+    [
+     "eq",
+     "said the"
+    ],
+    [
+     "del",
+     "UK"
+    ],
+    [
+     "ins",
+     "figures were \"little to celebrate\". \"After Labour's two anti-growth budgets, Burnham needs to urgently get a grip on the"
+    ],
+    [
+     "eq",
+     "economy"
+    ],
+    [
+     "del",
+     "had \"weathered"
+    ],
+    [
+     "ins",
+     "and get Britain growing again, supercharging economic growth through a new trade deal with"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "recent energy shock better than many feared\", but said"
+    ],
+    [
+     "ins",
+     "EU, including joining"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "recent pace of growth was unlikely to be sustained. \"Both inflation and unemployment are set to rise in the coming months while business sentiment remains fragile and could dampen further with ongoing energy price volatility. \"The economy has shown welcome resilience so far, but we are not out of the woods yet.\" Suren Thiru, ICAEW chief economist, said households and firms had \"largely shrugged off the shockwaves from the Iran war\". But he also expected weaker growth in the second half of the year, making the chancellor's Budget in October \"more challenging\"."
+    ],
+    [
+     "ins",
+     "Single Market,\" she said."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.5354,
+  "numbers_changed": [
+   "0.9",
+   "1.2",
+   "1500",
+   "2027",
+   "7"
+  ],
+  "market_figures_changed": [
+   "0.9%",
+   "1.2%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 4,
+  "blocks_added": 4,
+  "blocks_removed": 2,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.124,
+ "similarity": 0.8827,
+ "adjudicated_by": "rules"
+}

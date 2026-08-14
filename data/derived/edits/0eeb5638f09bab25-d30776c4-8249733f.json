@@ -1,0 +1,64 @@
+{
+ "id": "0eeb5638f09bab25-d30776c4-8249733f",
+ "url": "https://www.dw.com/en/russia-s-putin-angers-japan-with-1st-visit-to-kuril-islands/a-78345291?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-14T07:42:23Z",
+ "date": "2026-08-14",
+ "old_title": "Russia's Putin angers Japan with 1st visit to Kuril Islands",
+ "new_title": "Russia's Putin angers Japan with 1st visit to Kuril Islands",
+ "old_text": "Russian President Vladimir Putin has visited the far-eastern Kuril Islands for the first time, state media reported on Thursday, drawing anger from Japan.\nJapan has long claimed ownership of four of the Kuril Islands, including the one reportedly visited by Putin, which the Soviet Union seized toward the end of World War II.\nWhat is the dispute over the Kuril Islands?\nDuring his trip, Putin visited a fish-processing plant on the island, known as Iturup in Russian and Etorofu in Japanese, where he was given caviar, Russian media reported.\nThe island belongs to four that are known in Japan as the Northern Territories and that are now Russian-occupied following the Soviet Union's takeover in 1945.\nAt that time, Moscow deported their Japanese population of about 17,000 people, with the islands now inhabited by some 20,000 Russian citizens.\nThe unresolved dispute was one of the key reasons why Moscow and Tokyo never signed a formal World War II peace treaty.\nRussian-Japanese relations have since suffered another major blow following Russia's full-scale invasion of Ukraine launched in 2022.\nThe volcanic Kuril archipelago runs in an arc from Russia's Kamchatka peninsula down to Japan's main northern island of Hokkaido.\nWhat has Japan said about Putin's visit?\nIn a statement on Thursday, Japan's foreign minister, Toshimitsu Motegi, expressed Tokyo's great displeasure at Putin's visit.\n\"The Northern Territories ... are an inherent part of Japan's territory both historically and under international law, and the government of Japan strongly protests this visit,\" the statement said.\nStrategically-located Kuril Islands\nThe islands have seldom been visited by Russian leaders, with then-President Dmitry Medvedev in 2010 becoming the first to travel to the disputed territory.\nMedvedev also went there in 2015 as prime minister.\nPutin's visit to the Kurils came after he visited the nearby Russian island of Sakhalin, where Russia's navy was conducting drills.\nThe islands had considerable strategic importance for the Soviet Union, which kept a large military presence there during the Cold War amid tensions with the US and Japan.\nTalks on the territorial issue that have been held since the fall of the Soviet Union in 1991 have so far borne no fruit.\nEdited by: Rob Turner\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "Russian President Vladimir Putin has visited the far-eastern Kuril Islands for the first time, state media reported on Thursday, drawing anger from Japan.\nThe Foreign Ministry in Tokyo said it had summoned the Russian ambassador to lodge a \"strong protest.\"\nJapan has long claimed ownership of four of the Kuril Islands, including the one reportedly visited by Putin, which the Soviet Union seized toward the end of World War II.\nWhat is the dispute over the Kuril Islands?\nDuring his trip, Putin visited a fish-processing plant on the island, known as Iturup in Russian and Etorofu in Japanese, where he was given caviar, Russian media reported.\nThe island belongs to four that are known in Japan as the Northern Territories and that are now Russian-occupied following the Soviet Union's takeover in 1945.\nAt that time, Moscow deported their Japanese population of about 17,000 people, with the islands now inhabited by some 20,000 Russian citizens.\nThe unresolved dispute was one of the key reasons why Moscow and Tokyo never signed a formal World War II peace treaty.\nRussian-Japanese relations have since suffered another major blow following Russia's full-scale invasion of Ukraine launched in 2022.\nThe volcanic Kuril archipelago runs in an arc from Russia's Kamchatka peninsula down to Japan's main northern island of Hokkaido.\nWhat has Japan said about Putin's visit?\nIn a statement on Thursday, Japan's foreign minister, Toshimitsu Motegi, expressed Tokyo's great displeasure at Putin's visit.\n\"The Northern Territories ... are an inherent part of Japan's territory both historically and under international law, and the government of Japan strongly protests this visit,\" the statement said.\nPrime Minister Sanae Takaichi later told reporters that the visit \"offends the sentiments of the Japanese people and is absolutely unacceptable.\"\nShe said the visit would further damage relations between the two countries already strained by Russia's invasion of Ukraine.\nStrategically-located Kuril Islands\nThe islands have seldom been visited by Russian leaders, with then-President Dmitry Medvedev in 2010 becoming the first to travel to the disputed territory.\nMedvedev also went there in 2015 as prime minister.\nPutin's visit to the Kurils came after he visited the nearby Russian island of Sakhalin, where Russia's navy was conducting drills.\nThe islands had considerable strategic importance for the Soviet Union, which kept a large military presence there during the Cold War amid tensions with the US and Japan.\nTalks on the territorial issue that have been held since the fall of the Soviet Union in 1991 have so far borne no fruit.\nEdited by: Rob Turner\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the first time, state media reported on Thursday, drawing anger from Japan."
+    ],
+    [
+     "ins",
+     "The Foreign Ministry in Tokyo said it had summoned the Russian ambassador to lodge a \"strong protest.\""
+    ],
+    [
+     "eq",
+     "Japan has long claimed ownership of four of the Kuril Islands, including"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and the government of Japan strongly protests this visit,\" the statement said."
+    ],
+    [
+     "ins",
+     "Prime Minister Sanae Takaichi later told reporters that the visit \"offends the sentiments of the Japanese people and is absolutely unacceptable.\" She said the visit would further damage relations between the two countries already strained by Russia's invasion of Ukraine."
+    ],
+    [
+     "eq",
+     "Strategically-located Kuril Islands The islands have seldom been visited by Russian leaders,"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1394,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 0.9762,
+ "adjudicated_by": "rules"
+}

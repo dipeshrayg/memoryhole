@@ -1,0 +1,92 @@
+{
+ "id": "b7995d0a4e6fe0c1-4b7dedc5-68dd88df",
+ "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-08-14T07:55:12Z",
+ "date": "2026-08-14",
+ "old_title": "The web's newest weapon against AI scrapers is a font",
+ "new_title": "The web's newest weapon against AI scrapers is a font",
+ "old_text": "AI companies' penchant for scraping through large swathes of the public web in search of valuable training data has already led to lawsuits and technical fixes aimed at stopping the practice. Now, a pair of designers are hoping to stymie these scrapers with a new font designed to offer people a perfectly readable webpage while serving scrapers a subtly edited, nonsensical version in the underlying HTML.\nShieldFont, as designers Isaque Seneda and Gabriel Abrucio write in a recent white paper, was made to offer web publishers \"a practical opt-out from unauthorized AI training and [to] disrupt what is collected when that choice is ignored.\"\nWhen is a horse a potato?\nThe font is based around ligatures, a long-standing feature of many fonts that is usually used to replace certain letter pairs with a more readable version when they're smushed up next to each other. With ShieldFont, though, those ligatures are instead used to replace entire words with others in an attempt to destroy the text's value to scrapers. This substitution only happens when the font engine draws the page on screen, meaning scrapers that simply download plaintext source code get an altered version that end users never see.\nWhen it comes to fooling AI scrapers, though, not all ligature-based word replacements are created equal. Simply replacing common words with synonyms or antonyms would be too easy for a smart scraper to reverse. On the other end, replacing words with completely unrelated gibberish could lead to easier detection (and potentially circumvention) by a smart scraping filter.",
+ "new_text": "AI companies' penchant for scraping through large swaths of the public web in search of valuable training data has already led to lawsuits and technical fixes aimed at stopping the practice. Now, a pair of designers is hoping to stymie these scrapers with a new font designed to offer people a perfectly readable webpage while serving scrapers a subtly edited, nonsensical version in the underlying HTML.\nShieldFont, as designers Isaque Seneda and Gabriel Abrucio write in a recent white paper, was made to offer web publishers \"a practical opt-out from unauthorized AI training and [to] disrupt what is collected when that choice is ignored.\"\nWhen is a horse a potato?\nThe font is based around ligatures, a long-standing feature of many fonts that is usually used to replace certain letter pairs with a more readable version when they're smushed up next to each other. With ShieldFont, though, those ligatures are instead used to replace entire words with others in an attempt to destroy the text's value to scrapers. This substitution only happens when the font engine draws the page onscreen, meaning scrapers that simply download plaintext source code get an altered version that end users never see.\nWhen it comes to fooling AI scrapers, though, not all ligature-based word replacements are created equal. Simply replacing common words with synonyms or antonyms would be too easy for a smart scraper to reverse. On the other end, replacing words with completely unrelated gibberish could lead to easier detection (and potentially circumvention) by a smart scraping filter.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "AI companies' penchant for scraping through large"
+    ],
+    [
+     "del",
+     "swathes"
+    ],
+    [
+     "ins",
+     "swaths"
+    ],
+    [
+     "eq",
+     "of the public web in search of valuable training data has already"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "technical fixes aimed at stopping the practice. Now, a pair of designers"
+    ],
+    [
+     "del",
+     "are"
+    ],
+    [
+     "ins",
+     "is"
+    ],
+    [
+     "eq",
+     "hoping to stymie these scrapers with a new font designed to offer"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "scrapers. This substitution only happens when the font engine draws the page"
+    ],
+    [
+     "del",
+     "on screen,"
+    ],
+    [
+     "ins",
+     "onscreen,"
+    ],
+    [
+     "eq",
+     "meaning scrapers that simply download plaintext source code get an altered version"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0275,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9996,
+ "adjudicated_by": "rules"
+}

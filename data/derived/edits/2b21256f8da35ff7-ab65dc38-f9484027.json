@@ -1,0 +1,52 @@
+{
+ "id": "2b21256f8da35ff7-ab65dc38-f9484027",
+ "url": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-08-14T07:55:10Z",
+ "date": "2026-08-14",
+ "old_title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+ "new_title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+ "old_text": "A healthy toddler in Washington state fell ill abruptly. It began with vomiting, lethargy, and weakness on his right side. Then it progressed to a headache, fever, and trouble swallowing. At one point, he briefly became unresponsive, and he had episodes where he stopped breathing. Doctors admitted him to the hospital, but his condition only deteriorated.\nThe boy was infected with an ultra-rare amoeba known for ravaging the brain. The opportunistic pathogen was first identified in 1986 from the brain of a San Diego Zoo monkey, which died from the infection. Since then, only about 200 human cases have been recorded worldwide. About 90 percent of them have been fatal.\nThe initial symptoms can be vague and, given its rarity, the infection is notorious for being undiagnosed or misdiagnosed. Still, the scant medical literature does provide some telltale signs, clues of what it can look like on tests and scans. But for the toddler, the infection looked different, sending doctors down the wrong path.\nIt took over 30 days for his medical team to finally figure out what was going on. By then, it was too late. The boy had profound, irreversible brain injuries. After initial attempts at therapy had no effect, the boy's parents made the heartbreaking decision to remove his breathing tube to end his suffering. A subsequent autopsy showed that he had had a severe stroke, the vasculature in his brain was necrotic, and his brain tissue was brimming with amoebas.\nIn a case report, published Wednesday in BMJ Case Reports, the toddler's doctors at Seattle Children's Hospital review how they were led in the wrong direction and how to prevent it from happening in the next case. They also report that the boy's parents agreed to share his medical case in hopes that it can lead to earlier diagnoses.",
+ "new_text": "A healthy toddler in Washington state fell ill abruptly. It began with vomiting, lethargy, and weakness on his right side. Then it progressed to a headache, fever, and trouble swallowing. At one point, he briefly became unresponsive, and he had episodes where he stopped breathing. Doctors admitted him to the hospital, but his condition only deteriorated.\nThe boy was infected with an ultra-rare amoeba known for ravaging the brain. The opportunistic pathogen was first identified in 1986 from the brain of a San Diego Zoo monkey, which died from the infection. Since then, only about 200 human cases have been recorded worldwide. About 90 percent of them have been fatal.\nThe initial symptoms can be vague and, given its rarity, the infection is notorious for being undiagnosed or misdiagnosed. Still, the scant medical literature does provide some telltale signs, clues of what it can look like on tests and scans. But for the toddler, the infection looked different, sending doctors down the wrong path.\nIt took over 30 days for his medical team to finally figure out what was going on. By then, it was too late. The boy had profound, irreversible brain injuries. After initial attempts at therapy had no effect, the boy's parents made the heartbreaking decision to remove his breathing tube to end his suffering. A subsequent autopsy showed that he had had a severe stroke, the vasculature in his brain was necrotic, and his brain tissue was brimming with amoebas.\nIn a case report published Wednesday in BMJ Case Reports, the toddler's doctors at Seattle Children's Hospital review how they were led in the wrong direction and how to prevent it from happening in the next case. They also report that the boy's parents agreed to share his medical case in hopes that it can lead to earlier diagnoses.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "necrotic, and his brain tissue was brimming with amoebas. In a case"
+    ],
+    [
+     "del",
+     "report,"
+    ],
+    [
+     "ins",
+     "report"
+    ],
+    [
+     "eq",
+     "published Wednesday in BMJ Case Reports, the toddler's doctors at Seattle Children's"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0066,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

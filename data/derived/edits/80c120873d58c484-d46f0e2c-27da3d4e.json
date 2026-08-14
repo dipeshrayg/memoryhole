@@ -1,0 +1,52 @@
+{
+ "id": "80c120873d58c484-d46f0e2c-27da3d4e",
+ "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-08-14T07:55:14Z",
+ "date": "2026-08-14",
+ "old_title": "Terabytes of credentials leaked in massive supply-chain attack",
+ "new_title": "Terabytes of credentials leaked in massive supply-chain attack",
+ "old_text": "Terabytes worth of credentials, many belonging to the world's biggest and most sensitive organizations, have been exposed in a supply-chain attack on LiteLLM, an open source tool that streamlines AI-driven software development. Microsoft, Amazon, Cisco, Samsung, and Salesforce are only a handful of the entities whose access secrets were exposed.\nThe revelation was posted on Tuesday and Wednesday by security firms CloudSEK and Hudson Rock. CloudSEK said it found cloud keys, repository tokens, SSH keys, Kubernetes secrets, package publishing credentials, environment variables, and AI provider keys that could allow attackers to gain access to more than 2,500 organizations.\n40 minutes is all it takes\nThe credentials were extracted during a 40-minute window in March while the victims used compromised versions of LiteLLM downloaded from the package's official location in the Python Package Index repository. Hudson Rock said it made the discovery after analyzing a 195TB file that it obtained. Neither firm identified the source of the information.\nThe LiteLLM compromise was the result of a previous supply-chain attack that infected the widely used vulnerability scanner Trivy. Other software infected in the campaign includes KICS and the Telnyx Python SDK. TeamPCP, a ramshackle but extremely capable gang largely made up of teenagers, took credit for the attack, and researchers have largely corroborated the claim.\n\"I've confirmed the data is legit by the way, multiple victim orgs,\" independent security researcher Kevin Beaumont said. \"It contains a significant volume of sensitive content at orgs. It's a massive supply chain breach due to poor AI security-not because AI is the threat, but teens can run circles around orgs obsessed with rushing out AI and poor DevOps security.\"",
+ "new_text": "Terabytes worth of credentials, many belonging to the world's biggest and most sensitive organizations, have been exposed in a supply-chain attack on LiteLLM, an open source tool that streamlines AI-driven software development. Microsoft, Amazon, Cisco, Samsung, and Salesforce are only a handful of the entities whose access secrets were exposed.\nThe revelation was posted on Tuesday and Wednesday by security firms CloudSEK and Hudson Rock. CloudSEK said it found cloud keys, repository tokens, SSH keys, Kubernetes secrets, package publishing credentials, environment variables, and AI provider keys that could allow attackers to gain access to more than 2,500 organizations.\n40 minutes is all it takes\nThe credentials were extracted during a 40-minute window in March while the victims used compromised versions of LiteLLM downloaded from the package's official location in the Python Package Index repository. Hudson Rock said it made the discovery after analyzing a 195TB file that it obtained. Neither firm identified the source of the information.\nThe LiteLLM compromise was the result of a previous supply-chain attack that infected the widely used vulnerability scanner Trivy. Other software infected in the campaign includes KICS and the Telnyx Python SDK. TeamPCP, a ramshackle but extremely capable gang largely made up of teenagers, took credit for the attack, and researchers have largely corroborated the claim.\n\"I've confirmed the data is legit, by the way, multiple victim orgs,\" independent security researcher Kevin Beaumont said. \"It contains a significant volume of sensitive content at orgs. It's a massive supply chain breach due to poor AI security-not because AI is the threat, but teens can run circles around orgs obsessed with rushing out AI and poor DevOps security.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "and researchers have largely corroborated the claim. \"I've confirmed the data is"
+    ],
+    [
+     "del",
+     "legit"
+    ],
+    [
+     "ins",
+     "legit,"
+    ],
+    [
+     "eq",
+     "by the way, multiple victim orgs,\" independent security researcher Kevin Beaumont said."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0073,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

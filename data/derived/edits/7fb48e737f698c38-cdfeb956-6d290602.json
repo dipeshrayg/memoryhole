@@ -1,0 +1,120 @@
+{
+ "id": "7fb48e737f698c38-cdfeb956-6d290602",
+ "url": "https://www.bbc.co.uk/news/articles/cp308xpwv34o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-14T07:40:00Z",
+ "date": "2026-08-14",
+ "old_title": "Clacton voters go to the polls in Westminster by-election",
+ "new_title": "Clacton voters go to the polls in Westminster by-election",
+ "old_text": "- Published\nThe polls have opened in Clacton-on-Sea as a record number of candidates vie to become the town's next MP.\nAn electorate of 79,785 registered voters have the chance to vote for one of 34 candidates standing in the Essex resort - the most ever to stand in a British election.\nFifty-one polling stations have opened, covering Clacton and the surrounding towns of Jaywick, Frinton and Walton-on-the-Naze. The constituency also has rural villages including St Osyth, Weeley and Great Bentley.\nVoters will need to show a form of acceptable ID - such as a driving licence or passport - to be able to cast their ballot.\nThey will receive the longest ballot paper in British electoral history at 90cm - about 3ft long - to choose their candidate and cast their vote.\nThere are 12 political parties and 20 independents standing.\nPolling stations will remain open to anyone registered to vote until 22:00, with the count taking place overnight.\nFull list of candidates\n- Joseph 77 (Independent)\n- Adham Alkhatip (The Forward Party)\n- Count Binface (Count Binface Party)\n- Nick The Incredible Flying Brick (The Official Monster Raving Loony Party)\n- Tony Cane (Independent)\n- Woke Trump Carrzee (Independent)\n- William Stuart James Clouston (Social Democratic Party)\n- Rees Cowne (Independent)\n- Glenn Charles Cummings (Independent)\n- Martin Davies (Freedom Alliance â Real People, Real Alternative!)\n- Andy Erlam (Independent)\n- Nigel Farage (Reform UK)\n- Attieh Fard (Independent)\n- Laurence Fox (The Reclaim Party)\n- Tony Francis (Independent)\n- Robin Green (Independent)\n- Abi Hookway (Independent)\n- Howling Laud Hope (The Official Monster Raving Loony Party)\n- Stephen Richard Ingram (Independent)\n- Amy Morris (Independent)\n- Derrick Norbert Morris (Independent)\n- Michael Noel O'Keeffe (Independent)\n- Martyn O'Brien (Independent)\n- Nick Pelas (Independent)\n- Ketankumar Pipaliya (UK VOICE safer and stronger UK)\n- Daniel Pocock (Independent)\n- James Ransley (Consensus Party Candidate)\n- Gerry Smith (Independent)\n- Kai Stephens (British Democrats)\n- John Stevens (Rejoin EU)\n- Baron Von Thunderclap (The Official Monster Raving Loony Party)\n- Pamela Walford (Independent)\n- Marcus White (Everyone is God Party)\n- Marc Wilkinson (Independent)",
+ "new_text": "- Published\nVoting is under way in the Clacton by-election as a record number of candidates vie to become its next MP.\nFifty-one polling stations in the Essex resort, which includes the towns of Jaywick, Frinton and Walton-on-the-Naze, opened at 07:00 BST and will shut at 22:00.\nAn electorate of 79,785 registered voters have the chance to vote for one of 34 candidates - the most ever to stand in a British election.\nVoters will need to show a form of acceptable ID - such as a driving licence or passport - to be able to cast their ballot.\nThey will receive the longest ballot paper in British electoral history at 90cm - about 3ft long - to choose their candidate and cast their vote.\nThere are 12 political parties and 20 independents standing.\nThe constituency also has rural villages including St Osyth, Weeley and Great Bentley.\nPolling stations will remain open to anyone registered to vote until 22:00, with the count taking place overnight.\nFull list of candidates\n- Joseph 77 (Independent)\n- Adham Alkhatip (The Forward Party)\n- Count Binface (Count Binface Party)\n- Nick The Incredible Flying Brick (The Official Monster Raving Loony Party)\n- Tony Cane (Independent)\n- Woke Trump Carrzee (Independent)\n- William Stuart James Clouston (Social Democratic Party)\n- Rees Cowne (Independent)\n- Glenn Charles Cummings (Independent)\n- Martin Davies (Freedom Alliance â Real People, Real Alternative!)\n- Andy Erlam (Independent)\n- Nigel Farage (Reform UK)\n- Attieh Fard (Independent)\n- Laurence Fox (The Reclaim Party)\n- Tony Francis (Independent)\n- Robin Green (Independent)\n- Abi Hookway (Independent)\n- Howling Laud Hope (The Official Monster Raving Loony Party)\n- Stephen Richard Ingram (Independent)\n- Amy Morris (Independent)\n- Derrick Norbert Morris (Independent)\n- Michael Noel O'Keeffe (Independent)\n- Martyn O'Brien (Independent)\n- Nick Pelas (Independent)\n- Ketankumar Pipaliya (UK VOICE safer and stronger UK)\n- Daniel Pocock (Independent)\n- James Ransley (Consensus Party Candidate)\n- Gerry Smith (Independent)\n- Kai Stephens (British Democrats)\n- John Stevens (Rejoin EU)\n- Baron Von Thunderclap (The Official Monster Raving Loony Party)\n- Pamela Walford (Independent)\n- Marcus White (Everyone is God Party)\n- Marc Wilkinson (Independent)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "The polls have opened"
+    ],
+    [
+     "ins",
+     "Voting is under way"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "Clacton-on-Sea"
+    ],
+    [
+     "ins",
+     "the Clacton by-election"
+    ],
+    [
+     "eq",
+     "as a record number of candidates vie to become"
+    ],
+    [
+     "del",
+     "the town's"
+    ],
+    [
+     "ins",
+     "its"
+    ],
+    [
+     "eq",
+     "next MP."
+    ],
+    [
+     "ins",
+     "Fifty-one polling stations in the Essex resort, which includes the towns of Jaywick, Frinton and Walton-on-the-Naze, opened at 07:00 BST and will shut at 22:00."
+    ],
+    [
+     "eq",
+     "An electorate of 79,785 registered voters have the chance to vote for one of 34 candidates"
+    ],
+    [
+     "del",
+     "standing in the Essex resort"
+    ],
+    [
+     "eq",
+     "- the most ever to stand in a British election."
+    ],
+    [
+     "del",
+     "Fifty-one polling stations have opened, covering Clacton and the surrounding towns of Jaywick, Frinton and Walton-on-the-Naze. The constituency also has rural villages including St Osyth, Weeley and Great Bentley."
+    ],
+    [
+     "eq",
+     "Voters will need to show a form of acceptable ID - such"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "cast their vote. There are 12 political parties and 20 independents standing."
+    ],
+    [
+     "ins",
+     "The constituency also has rural villages including St Osyth, Weeley and Great Bentley."
+    ],
+    [
+     "eq",
+     "Polling stations will remain open to anyone registered to vote until 22:00,"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2458,
+  "numbers_changed": [
+   "00",
+   "07",
+   "22"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9691,
+ "adjudicated_by": "rules"
+}
