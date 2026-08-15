@@ -1,0 +1,86 @@
+{
+ "id": "2ed903338b8db4ba-6384dc5a-0125077d",
+ "url": "https://www.france24.com/en/france/20260814-france-evacuates-hundreds-new-wildfire-threatens-southwestern-landes-region",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-15T06:49:46Z",
+ "date": "2026-08-15",
+ "old_title": "France evacuates hundreds as new wildfire threatens southwestern Landes region",
+ "new_title": "France evacuates hundreds as new wildfire threatens southwestern Landes region",
+ "old_text": "France evacuates hundreds as new wildfire threatens southwestern Landes region\nAuthorities evacuated 525 people from the village of Luglon Friday as a new wildfire tore through southwestern France, burning 1,100 hectares and advancing to within a few kilometres of the village centre amid an unprecedented wildfire season.\nFrench authorities evacuated 525 villagers after a wildfire broke out in the pine woods of the southwestern Landes region, near an area already devastated by major blazes this summer.\nThe fire, which razed 1,100 hectares (2,700 acres) after it began on Thursday, spread to within 2 kilometres (1.2 miles) of the centre of the village of Luglon, regional official Gilles Clavreul told reporters on Friday.\nRead moreWestern Europe lived through hottest June and July ever recorded\n\"The situation is unfavourable,\" he said, adding that 500 firefighters were tackling the flames, with the help of six aircraft sent to assist.\n\"The next fifteen hours will be decisive,\" Clavreul told reporters.\nFire chief Arnaud Fabre said the fire was slowing down but he added he was concerned about potential flare-ups as the heat returns.\nPolice took 525 in the village to safety, with road links to the north and south closed.\nNo homes have been destroyed.\nLuglon is about 100 kilometres (62 miles) southeast of the tourist area of Arcachon Bay, where two major wildfires devastated more than 50,000 hectares (124,000 acres), spurring the evacuation of as many as 220,000 people in late July.\nThe area has broiled in heatwaves this summer and temperatures are expected to soar to 36 degrees Celsius (97 Fahrenheit) on Friday afternoon, as France's unprecedented wildfire season continues.\nRead moreNearly 70 percent of France under water restrictions amid record heat\nThe area burned so far exceeds that of the previous record year of 2022. The Landes area is swathed in pine forests that become highly flammable when dry.\nFrench officials are still taking stock of the damage caused by a series of fires, mainly in the southwest of France, including the largest wildfire since 1949 in the department of Gironde.\n(FRANCE 24 with Reuters and AFP)",
+ "new_text": "France evacuates hundreds as new wildfire threatens southwestern Landes region\nAuthorities evacuated 525 people from the village of Luglon Friday as a new wildfire tore through southwestern France, burning 1,100 hectares and advancing to within a few kilometres of the village centre amid an unprecedented wildfire season.\nFrench authorities evacuated 525 villagers after a wildfire broke out in the pine woods of the southwestern Landes region, near an area already devastated by major blazes this summer.\nThe fire, which razed 1,100 hectares (2,700 acres) after it began on Thursday, spread to within 2 kilometres (1.2 miles) of the centre of the village of Luglon, regional official Gilles Clavreul told reporters on Friday.\nRoads to the north and south of the village have been closed.\nRead moreWestern Europe lived through hottest June and July ever recorded\n\"The situation is unfavourable,\" he said, adding that 500 firefighters were tackling the flames, with the help of six aircraft sent to assist.\n\"The next fifteen hours will be decisive,\" Clavreul told reporters.\nClavreul did not comment on the possible origin of the fire.\nFire chief Arnaud Fabre said the fire was slowing down but he added he was concerned about potential flare-ups as the heat returns.\nPolice took 525 in the village to safety, with road links to the north and south closed.\nNo homes have been destroyed.\nLuglon is about 100 kilometres (62 miles) southeast of the tourist area of Arcachon Bay, where two major wildfires devastated more than 50,000 hectares (124,000 acres), spurring the evacuation of as many as 220,000 people in late July.\nThe area has broiled in heatwaves this summer and temperatures are expected to soar to 36 degrees Celsius (97 Fahrenheit) on Friday afternoon, as France's unprecedented wildfire season continues.\nRead moreNearly 70 percent of France under water restrictions amid record heat\nThe area burned so far exceeds that of the previous record year of 2022. The Landes area is swathed in pine forests that become highly flammable when dry.\nFrench officials are still taking stock of the damage caused by a series of fires, mainly in the southwest of France, including the largest wildfire since 1949 in the department of Gironde.\nFrench media reported on Friday that a 15-year-old has been arrested in connection with a July fire near Bordeaux airport, in the same region, that killed two firefighters.\nThe youth, who has been placed under judicial investigation, allegedly threw away a cigarette butt that sparked the fire, local newspaper Sud Ouest reported. The Bordeaux prosecutor's office did not immediately respond to a request for comment.\nThe French interior ministry said 474 people have been arrested on suspicion of starting a fire, whether that be intentional or not. Of that total, 183 are younger than 18. About 70 percent of the people detained are suspected of arson, the ministry has previously said.\n(FRANCE 24 with Reuters and AFP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the village of Luglon, regional official Gilles Clavreul told reporters on Friday."
+    ],
+    [
+     "ins",
+     "Roads to the north and south of the village have been closed."
+    ],
+    [
+     "eq",
+     "Read moreWestern Europe lived through hottest June and July ever recorded \"The"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to assist. \"The next fifteen hours will be decisive,\" Clavreul told reporters."
+    ],
+    [
+     "ins",
+     "Clavreul did not comment on the possible origin of the fire."
+    ],
+    [
+     "eq",
+     "Fire chief Arnaud Fabre said the fire was slowing down but he"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "France, including the largest wildfire since 1949 in the department of Gironde."
+    ],
+    [
+     "ins",
+     "French media reported on Friday that a 15-year-old has been arrested in connection with a July fire near Bordeaux airport, in the same region, that killed two firefighters. The youth, who has been placed under judicial investigation, allegedly threw away a cigarette butt that sparked the fire, local newspaper Sud Ouest reported. The Bordeaux prosecutor's office did not immediately respond to a request for comment. The French interior ministry said 474 people have been arrested on suspicion of starting a fire, whether that be intentional or not. Of that total, 183 are younger than 18. About 70 percent of the people detained are suspected of arson, the ministry has previously said."
+    ],
+    [
+     "eq",
+     "(FRANCE 24 with Reuters and AFP)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3873,
+  "numbers_changed": [
+   "15",
+   "18",
+   "183",
+   "474",
+   "70"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9872,
+ "adjudicated_by": "rules"
+}

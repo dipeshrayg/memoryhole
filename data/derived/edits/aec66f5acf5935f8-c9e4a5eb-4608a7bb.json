@@ -1,0 +1,50 @@
+{
+ "id": "aec66f5acf5935f8-c9e4a5eb-4608a7bb",
+ "url": "https://www.dw.com/en/uk-nigel-farage-beats-a-trash-can-in-clacton-by-election/a-78362464?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-15T06:49:00Z",
+ "date": "2026-08-15",
+ "old_title": "UK: Nigel Farage beats a trash can in Clacton by-election",
+ "new_title": "UK: Nigel Farage beats a trash can in Clacton by-election",
+ "old_text": "UK right-wing populist leader Nigel Farage won Friday's by-election in Clacton, regaining the parliamentary seat he resigned a month earlier to trigger the vote.\nHe took about 63% of the vote, while his main challenger, comedian Jon Harvey running as trash-can-costumed \"Count Binface,\" secured roughly 27% - his best result yet in eight election attempts. The turnout was 44%.\nWhat triggered the Clacton by-election?\nReform UK's Farage called the special election to prove his voter support amid a parliamentary investigation into an undeclared £5 million ($6.75 million, €5.85 million) gift from Thailand-based crypto billionaire Christopher Harborne. Britain's major parties boycotted the race, calling it a self-serving stunt. This left Farage facing 33 mostly independent and novelty candidates.\nFarage skipped the official vote count, saying police warned him of an \"organized campaign to disrupt\" the result. Essex police disputed reports of a credible threat but said a \"proportionate and robust\" security operation was in place. He also canceled a planned victory speech.\n\"I am damned if I am going to stand on a stage, having won a resounding victory... and be demeaned and humiliated by nobodies,\" he told supporters.\nWhat happens next?\nThe win doesn't resolve Farage's political troubles. The parliamentary standards investigation, paused when he resigned, is expected to resume and could still force him from his seat. Farage says the money was a personal gift he wasn't required to declare.\nLast month, a Survation poll put Farage's share of the vote at 73%, a figure he fell short of. It comes as Reform UK's national polling is also slipping behind a resurgent Labour Party under new Prime Minister Andy Burnham.\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "new_text": "UK right-wing populist leader Nigel Farage won Friday's by-election in Clacton, regaining the parliamentary seat he resigned a month earlier to trigger the vote.\nHe took about 63% of the vote, while his main challenger, comedian Jon Harvey running as trash-can-costumed \"Count Binface,\" secured roughly 27% - his best result yet in eight election attempts. The turnout was 44%.\nWhat triggered the Clacton by-election?\nReform UK's Farage called the special election to prove his voter support amid a parliamentary investigation into an undeclared £5 million ($6.75 million, €5.85 million) gift from Thailand-based crypto billionaire Christopher Harborne. Britain's major parties boycotted the race, calling it a self-serving stunt. This left Farage facing 33 mostly independent and novelty candidates.\nFarage skipped the official vote count, saying police warned him of an \"organized campaign to disrupt\" the result. Essex police disputed reports of a credible threat but said a \"proportionate and robust\" security operation was in place. He also canceled a planned victory speech.\n\"I am damned if I am going to stand on a stage, having won a resounding victory... and be demeaned and humiliated by nobodies,\" he told supporters.\nWhat happens next?\nThe win doesn't resolve Farage's political troubles. The parliamentary standards investigation, paused when he resigned, is expected to resume and could still force him from his seat. Farage says the money was a personal gift he wasn't required to declare.\nLast month, a Survation poll put Farage's share of the vote at 73%, a figure he fell short of. It comes as Reform UK's national polling is also slipping behind a resurgent Labour Party under new Prime Minister Andy Burnham.\nWho is Count Binface?\nCount Binface is the alter ego of Harvey, a British comedian, writer and producer who uses the character to satirize UK politics.\nHe is a self-styled \"intergalactic space warrior\" who campaigns wearing a trash bin on his head. While he was expected to receive a large share of the vote, the figure was not expected to exceed 20 percent.\nBinface has become somewhat of a serial candidate, challenging prime ministers past and present in line with a long tradition of novelty candidates in UK politics.\nWith the other parties boycotting the election, he became Farage's default rival with a comical platform vowing to \"cut your taxes, and raise everyone else's,\" build one affordable home and nationalize singer Adele.\n\"The moral victory is already mine,\" Harvey, aka Binface, told the AFP news agency at the counting center ahead of the final count.\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "slipping behind a resurgent Labour Party under new Prime Minister Andy Burnham."
+    ],
+    [
+     "ins",
+     "Who is Count Binface? Count Binface is the alter ego of Harvey, a British comedian, writer and producer who uses the character to satirize UK politics. He is a self-styled \"intergalactic space warrior\" who campaigns wearing a trash bin on his head. While he was expected to receive a large share of the vote, the figure was not expected to exceed 20 percent. Binface has become somewhat of a serial candidate, challenging prime ministers past and present in line with a long tradition of novelty candidates in UK politics. With the other parties boycotting the election, he became Farage's default rival with a comical platform vowing to \"cut your taxes, and raise everyone else's,\" build one affordable home and nationalize singer Adele. \"The moral victory is already mine,\" Harvey, aka Binface, told the AFP news agency at the counting center ahead of the final count."
+    ],
+    [
+     "eq",
+     "If you rely on our team for trusted reporting, please take a"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4817,
+  "numbers_changed": [
+   "20"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

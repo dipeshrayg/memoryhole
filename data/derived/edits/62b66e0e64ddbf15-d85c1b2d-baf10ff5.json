@@ -1,0 +1,80 @@
+{
+ "id": "62b66e0e64ddbf15-d85c1b2d-baf10ff5",
+ "url": "https://www.abc.net.au/news/2026-08-14/billy-slater-steps-down-maroons-queensland-state-of-origin/107039850",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-15T06:50:55Z",
+ "date": "2026-08-15",
+ "old_title": "Billy Slater to step down as Maroons' head coach",
+ "new_title": "Billy Slater to step down as Maroons' head coach",
+ "old_text": "Billy Slater steps down as head coach of Queensland Maroons\nIn short:\nQueensland Maroons head coach Billy Slater has announced he will step down from the role.\nSlater took on the head coach role in 2021 and led the Maroons to three victories in the State of Origin series against NSW.\nWhat's next?\nThe Queensland Rugby League says it will begin a process to appoint the next head coach soon.",
+ "new_text": "Billy Slater steps down as head coach of Queensland Maroons\nIn short:\nQueensland Maroons head coach Billy Slater has announced he will step down from the role.\nSlater was appointed head coach in 2021 and guided the Maroons to three victories out of five in the State of Origin series against NSW.\nWhat's next?\nThe Queensland Rugby League says it will begin a process to appoint the next head coach soon.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Billy Slater has announced he will step down from the role. Slater"
+    ],
+    [
+     "del",
+     "took on the"
+    ],
+    [
+     "ins",
+     "was appointed"
+    ],
+    [
+     "eq",
+     "head coach"
+    ],
+    [
+     "del",
+     "role"
+    ],
+    [
+     "eq",
+     "in 2021 and"
+    ],
+    [
+     "del",
+     "led"
+    ],
+    [
+     "ins",
+     "guided"
+    ],
+    [
+     "eq",
+     "the Maroons to three victories"
+    ],
+    [
+     "ins",
+     "out of five"
+    ],
+    [
+     "eq",
+     "in the State of Origin series against NSW. What's next? The Queensland"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1571,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9982,
+ "adjudicated_by": "rules"
+}

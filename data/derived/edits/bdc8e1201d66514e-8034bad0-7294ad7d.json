@@ -1,0 +1,56 @@
+{
+ "id": "bdc8e1201d66514e-8034bad0-7294ad7d",
+ "url": "https://www.france24.com/en/new-us-aircraft-carrier-heads-towards-middle-east-after-reports-of-dire-conditions-on-uss-lincoln",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-15T06:49:52Z",
+ "date": "2026-08-15",
+ "old_title": "Live: US sailors report dire conditions as replacement carrier heads to Middle East",
+ "new_title": "US sailors report dire conditions as replacement carrier heads to Middle East",
+ "old_text": "Live: US sailors report dire conditions as replacement carrier heads to Middle East\nIssued on: Modified:\nShare\nReports of declining mental health and supply issues have been flagged by US sailors aboard the aircraft carrier USS Lincoln deployed to the Middle East, with some attempting to throw themselves into the sea. The ship has so far spent a record 260 uninterrupted days at sea as it supports the war in Iran, and is expected to be replaced by the Pacific-based USS George Washington en route to the area. Follow our liveblog for the latest updates.",
+ "new_text": "US sailors report dire conditions as replacement carrier heads to Middle East\nIssued on: Modified:\nShare\nReports of declining mental health and supply issues have been flagged by US sailors aboard the aircraft carrier USS Lincoln deployed to the Middle East, with some attempting to throw themselves into the sea. The ship has so far spent a record 260 uninterrupted days at sea as it supports the war in Iran, and is expected to be replaced by the Pacific-based USS George Washington en route to the area.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Live:"
+    ],
+    [
+     "eq",
+     "US sailors report dire conditions as replacement carrier heads to Middle East"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "replaced by the Pacific-based USS George Washington en route to the area."
+    ],
+    [
+     "del",
+     "Follow our liveblog for the latest updates."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0842,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.86,
+ "similarity": 0.9433,
+ "adjudicated_by": "rules"
+}

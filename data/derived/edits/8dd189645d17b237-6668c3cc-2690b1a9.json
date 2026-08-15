@@ -1,0 +1,52 @@
+{
+ "id": "8dd189645d17b237-6668c3cc-2690b1a9",
+ "url": "https://www.aljazeera.com/sports/2026/8/14/boxer-prichard-colon-dies-from-brain-injury-that-resulted-in-221-day-coma?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-15T06:47:56Z",
+ "date": "2026-08-15",
+ "old_title": "Prichard Colon dies from boxing injury that resulted in 221-day coma",
+ "new_title": "Prichard Colon dies from boxing injury that resulted in 221-day coma",
+ "old_text": "Former boxer Prichard Colon has died at the age of 33, 11 years after sustaining life-changing brain injuries in the ring.\nThe Puerto Rican was one of the sport's rising stars when he was left comatose for 221 days following a fight with United States boxer Terence Williams in 2015.\nRecommended Stories\nlist of 4 items\n- list 1 of 4Pro-Palestine football fans lament West Ham for signing Manor Solomon\n- list 2 of 4Ex-Real coach Arbeloa sent off while his Fulham team walk off in Malaga\n- list 3 of 4Can Barca do a 'three-peat' or will Real bounce back? La Liga returns\n- list 4 of 4Argentina's Messi not certain to play 'much longer' after father's death\nThe super-welterweight bout in October 2015 was awarded to Williams in the ninth round on disqualification after Colon's team removed his gloves, with the fighter complaining of dizziness.\nColon alleged during the fight that Williams had repeatedly struck him on the back of the head, an illegal punch in boxing known as \"rabbit punches\".\nThe referee for the bout awarded Colon one point as punishment to Williams after a complaint about one of the punches.\nColon collapsed on return to his dressing room and was diagnosed with a subdural haematoma, and he underwent emergency brain surgery, after which he was comatose.\nAfter awakening from the coma, the extent of Colon's neurological damage was fully understood and he required round-the-clock care for the rest of his life.\nHis father, Richard Colon, announced his son's passing late on Thursday on Facebook: \"I regret to inform you of the passing of my son Prichard from this earthly world. Now he is in a better world.\"\nColon, who was at home with his family in Florida when he died, had an unbeaten boxing career of 16 fights, with 13 wins by knockout, prior to meeting with Williams.\nThe bout in Fairfax, Virginia, US, has long haunted the sport with questions regarding its safety.\nWilliams, who himself was a star of the sport at the time with a 15-0 fight card and 12 by knockout, fought again in 2017 and 2019, but said the events following the meeting with Colon affected his life and career.\n\"My heart dropped, my stomach dropped. I'm praying for him multiple times daily to make a full recovery. I cannot enjoy this victory. I'm worried about Prichard,\" Williams, who was 31 at the time, said shortly after the fight in an interview with The Los Angeles Times.",
+ "new_text": "Former boxer Prichard Colon has died at the age of 33, 11 years after sustaining life-changing brain injuries in the ring.\nThe Puerto Rican was one of the sport's rising stars when he was left comatose for 221 days following a fight with United States boxer Terrel Williams in 2015.\nRecommended Stories\nlist of 4 items\n- list 1 of 4Pro-Palestine football fans lament West Ham for signing Manor Solomon\n- list 2 of 4Ex-Real coach Arbeloa sent off while his Fulham team walk off in Malaga\n- list 3 of 4Can Barca do a 'three-peat' or will Real bounce back? La Liga returns\n- list 4 of 4Argentina's Messi not certain to play 'much longer' after father's death\nThe super-welterweight bout in October 2015 was awarded to Williams in the ninth round on disqualification after Colon's team removed his gloves, with the fighter complaining of dizziness.\nColon alleged during the fight that Williams had repeatedly struck him on the back of the head, an illegal punch in boxing known as \"rabbit punches\".\nThe referee for the bout awarded Colon one point as punishment to Williams after a complaint about one of the punches.\nColon collapsed on return to his dressing room and was diagnosed with a subdural haematoma, and he underwent emergency brain surgery, after which he was comatose.\nAfter awakening from the coma, the extent of Colon's neurological damage was fully understood and he required round-the-clock care for the rest of his life.\nHis father, Richard Colon, announced his son's passing late on Thursday on Facebook: \"I regret to inform you of the passing of my son Prichard from this earthly world. Now he is in a better world.\"\nColon, who was at home with his family in Florida when he died, had an unbeaten boxing career of 16 fights, with 13 wins by knockout, prior to meeting with Williams.\nThe bout in Fairfax, Virginia, US, has long haunted the sport with questions regarding its safety.\nWilliams, who himself was a star of the sport at the time with a 15-0 fight card and 12 by knockout, fought again in 2017 and 2019, but said the events following the meeting with Colon affected his life and career.\n\"My heart dropped, my stomach dropped. I'm praying for him multiple times daily to make a full recovery. I cannot enjoy this victory. I'm worried about Prichard,\" Williams, who was 31 at the time, said shortly after the fight in an interview with The Los Angeles Times.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "left comatose for 221 days following a fight with United States boxer"
+    ],
+    [
+     "del",
+     "Terence"
+    ],
+    [
+     "ins",
+     "Terrel"
+    ],
+    [
+     "eq",
+     "Williams in 2015. Recommended Stories list of 4 items - list 1"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0048,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9927,
+ "adjudicated_by": "rules"
+}

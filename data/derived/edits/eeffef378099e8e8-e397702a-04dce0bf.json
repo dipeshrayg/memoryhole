@@ -1,0 +1,146 @@
+{
+ "id": "eeffef378099e8e8-e397702a-04dce0bf",
+ "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-15T06:55:25Z",
+ "date": "2026-08-15",
+ "old_title": "US says dozens of countries helped China dodge Trump's tariffs",
+ "new_title": "US says dozens of countries helped China dodge Trump's tariffs",
+ "old_text": "- Published\nThe White House said in a report on Thursday that more than 40 countries had helped China sidestep US tariffs by routing exports through nations that face lower American import duties.\nThe countries named include Canada, India, Mexico, Japan and South Korea, which the White House said had helped China evade tens of billions of dollars in tariffs, which are levied on companies importing goods.\nWhite House trade adviser Peter Navarro said it had cost \"American jobs and billions in revenue\".\nA spokesperson for the Chinese embassy in Washington said in response to BBC queries that \"trade wars have no winners\" and that it opposes the US tariff measures and the use of state power to target China's companies.\nThe spokesperson added that \"any unilateral actions or agreements concerning transshipped goods must not target or harm the interests of third parties\".\nThe BBC has contacted the US embassies of Canada, India, Mexico, Japan, South Korea and other trading partners listed in the report for comment.\nThe report follows a wave of sanctions between the US and China and comes weeks before US President Donald Trump will meet Chinese leader Xi Jinping in Washington.\nBetween $30bn (Â£22.2bn) and roughly $300bn in goods have been moved from countries with higher tariff through those with lower rates, according to government and private sector estimates quoted by the White House.\nThe process is known as transshipping, which refers to the practice of transferring cargo through another country while en route to a final destination.\nThe US accused China of \"taking advantage\" of the practice by moving goods through nations that have lower import duties.\nChina has used third countries as a stopover and has repackaged goods to hide their real origin to obtain lower tariffs, the White House said in its report, describing the process as \"fraud cloaked in paperwork\".\n\"What has changed in today's Great Transshipment Scam is not merely the speed and scale of this modern form of smuggling, but the breadth, depth, and sophistication of the global Shadow Transshipment Network through which China's tariff evasion now moves,\" the White House wrote.\nThe US has deployed artificial intelligence (AI) tools to catch transshipment efforts, it added.\nThe report is expected to add to key sticking points between the sides as Trump and Xi prepare to meet in the US in September.\nDespite a pause in most tariffs following talks in May 2025, Washington and Beijing have continued to exchange sanctions, including restrictions on humanoid robots shipped to the US and tighter Chinese curbs on drone exports.\nIn April 2025, Trump unveiled sweeping levies on dozens of US trading partners based on a long-held belief that tariffs will help boost American jobs and the economy.\nThose sanctions have since been struck down by the US Supreme Court, but Trump has repeatedly introduced new tariffs using alternative legal levers to continue his signature policy.",
+ "new_text": "- Published\nThe White House said in a report on Thursday that more than 40 countries had helped China sidestep US tariffs by routing exports through nations that face lower American import duties.\nThe countries named include Canada, India, Mexico, Japan and South Korea, which the White House said had helped China evade tens of billions of dollars in tariffs, which are levied on companies importing goods.\nWhite House trade adviser Peter Navarro said it had cost \"American jobs and billions in revenue\".\nA spokesperson for the Chinese embassy in Washington said \"trade wars have no winners\" and that it opposes the US tariff measures and the use of state power to target China's companies.\n\"Any unilateral actions or agreements concerning transshipped goods must not target or harm the interests of third parties,\" the spokesperson added.\nThe BBC has contacted the US embassies of Canada, India, Mexico, Japan, South Korea and other trading partners listed in the report for comment.\nThe report follows a wave of sanctions between the US and China and comes weeks before US President Donald Trump will meet Chinese leader Xi Jinping in Washington.\nBetween $30bn (Â£22bn) and roughly $300bn in goods have been moved from countries with higher tariffs through those with lower rates, according to government and private sector estimates quoted by the White House.\nThe process is known as transshipping, which refers to the practice of transferring cargo through another country while en route to a final destination.\nThe US accused China of \"taking advantage\" of the practice by moving goods through nations that have lower import duties.\nChina has used third countries as a stopover and has repackaged goods to hide their real origin to obtain lower tariffs, the White House said in its report, describing the process as \"fraud cloaked in paperwork\".\n\"What has changed in today's Great Transshipment Scam is not merely the speed and scale of this modern form of smuggling, but the breadth, depth, and sophistication of the global Shadow Transshipment Network through which China's tariff evasion now moves,\" the White House wrote.\nThe US has deployed artificial intelligence tools to catch transshipment efforts, it added.\nBargaining power\nThe report is expected to add to key sticking points between the sides as Trump and Xi prepare to meet in the US in September, and Chang Pao Li, associate professor of economics at Singapore Management University, said it could be used to strengthen the US bargaining position.\n\"Washington can argue that China has preserved access to the US market indirectly and that any broader trade settlement must therefore address not only direct Chinese exports but also third-country routing,\" she told the BBC.\nChang said while changes in trade-flow patterns may partly reflect legitimate production relocation and supply-chain reorganisation, the implication is that \"economies with deeper integration with Chinese supply chains may now face additional risk and costs\".\nDespite a pause in most tariffs following talks in May 2025, Washington and Beijing have continued to exchange sanctions, including restrictions on humanoid robots shipped to the US and tighter Chinese curbs on drone exports.\nIn April 2025, Trump unveiled sweeping levies on dozens of US trading partners based on a long-held belief that tariffs will help boost American jobs and the economy.\nThose sanctions have since been struck down by the US Supreme Court, but Trump has repeatedly introduced new tariffs using alternative legal levers to continue his signature policy.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "billions in revenue\". A spokesperson for the Chinese embassy in Washington said"
+    ],
+    [
+     "del",
+     "in response to BBC queries that"
+    ],
+    [
+     "eq",
+     "\"trade wars have no winners\" and that it opposes the US tariff measures and the use of state power to target China's companies."
+    ],
+    [
+     "del",
+     "The spokesperson added that \"any"
+    ],
+    [
+     "ins",
+     "\"Any"
+    ],
+    [
+     "eq",
+     "unilateral actions or agreements concerning transshipped goods must not target or harm the interests of third"
+    ],
+    [
+     "del",
+     "parties\"."
+    ],
+    [
+     "ins",
+     "parties,\" the spokesperson added."
+    ],
+    [
+     "eq",
+     "The BBC has contacted the US embassies of Canada, India, Mexico, Japan,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Donald Trump will meet Chinese leader Xi Jinping in Washington. Between $30bn"
+    ],
+    [
+     "del",
+     "(Â£22.2bn)"
+    ],
+    [
+     "ins",
+     "(Â£22bn)"
+    ],
+    [
+     "eq",
+     "and roughly $300bn in goods have been moved from countries with higher"
+    ],
+    [
+     "del",
+     "tariff"
+    ],
+    [
+     "ins",
+     "tariffs"
+    ],
+    [
+     "eq",
+     "through those with lower rates, according to government and private sector estimates"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "now moves,\" the White House wrote. The US has deployed artificial intelligence"
+    ],
+    [
+     "del",
+     "(AI)"
+    ],
+    [
+     "eq",
+     "tools to catch transshipment efforts, it added."
+    ],
+    [
+     "ins",
+     "Bargaining power"
+    ],
+    [
+     "eq",
+     "The report is expected to add to key sticking points between the sides as Trump and Xi prepare to meet in the US in"
+    ],
+    [
+     "del",
+     "September."
+    ],
+    [
+     "ins",
+     "September, and Chang Pao Li, associate professor of economics at Singapore Management University, said it could be used to strengthen the US bargaining position. \"Washington can argue that China has preserved access to the US market indirectly and that any broader trade settlement must therefore address not only direct Chinese exports but also third-country routing,\" she told the BBC. Chang said while changes in trade-flow patterns may partly reflect legitimate production relocation and supply-chain reorganisation, the implication is that \"economies with deeper integration with Chinese supply chains may now face additional risk and costs\"."
+    ],
+    [
+     "eq",
+     "Despite a pause in most tariffs following talks in May 2025, Washington"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2469,
+  "numbers_changed": [
+   "22",
+   "22.2"
+  ],
+  "market_figures_changed": [
+   "£22.2bn",
+   "£22bn"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.25,
+ "similarity": 0.9925,
+ "adjudicated_by": "rules"
+}

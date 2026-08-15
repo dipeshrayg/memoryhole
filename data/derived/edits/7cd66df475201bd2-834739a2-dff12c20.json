@@ -1,0 +1,76 @@
+{
+ "id": "7cd66df475201bd2-834739a2-dff12c20",
+ "url": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-15T06:45:59Z",
+ "date": "2026-08-15",
+ "old_title": "Watch: Stourbridge homes destroyed by wildfires",
+ "new_title": "Watch: Stourbridge homes destroyed by wildfires",
+ "old_text": "Watch: Video shows scale of devastation in Stourbridge\nFootage sent to the BBC shows destroyed houses in Stourbridge, with scorched earth and burnt out trees nearby.\nThe video was taken on Thursday night by sombody helping in the aftermath, after multiple wildfires tore through the West Midlands.\nIn an update this morning, West Midlands Fire Service said it had crews \"tactically working\" across several sites.",
+ "new_text": "Video shows scale of devastation in Stourbridge\nFootage sent to the BBC shows destroyed houses in Stourbridge, with scorched earth and burnt out trees nearby.\nThe video was taken on Thursday night by someone helping in the aftermath, after multiple fires tore through the West Midlands.\nIn an update this morning, West Midlands Fire Service said it had crews \"tactically working\" across several sites.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Watch:"
+    ],
+    [
+     "eq",
+     "Video shows scale of devastation in Stourbridge Footage sent to the BBC"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "burnt out trees nearby. The video was taken on Thursday night by"
+    ],
+    [
+     "del",
+     "sombody"
+    ],
+    [
+     "ins",
+     "someone"
+    ],
+    [
+     "eq",
+     "helping in the aftermath, after multiple"
+    ],
+    [
+     "del",
+     "wildfires"
+    ],
+    [
+     "ins",
+     "fires"
+    ],
+    [
+     "eq",
+     "tore through the West Midlands. In an update this morning, West Midlands Fire Service said it had crews \"tactically working\" across several sites."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0769,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9726,
+ "adjudicated_by": "rules"
+}

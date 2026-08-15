@@ -1,0 +1,64 @@
+{
+ "id": "6f703ca32334333e-d633237f-6236af4f",
+ "url": "https://www.france24.com/en/tv-shows/sports/20260814-spain-s-world-cup-final-hero-ferran-torres-closes-in-on-psg-transfer",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-15T06:49:51Z",
+ "date": "2026-08-15",
+ "old_title": "Sports - Spain's World Cup final hero Ferran Torres closes in on PSG transfer",
+ "new_title": "Sports - Spain's World Cup final hero Ferran Torres closes in on PSG transfer",
+ "old_text": "Spain's World Cup final hero Ferran Torres closes in on PSG transfer\nIssued on:\nParis Saint-Germain have reached an agreement with Barcelona to sign Ferran Torres, according to reports in French and Spanish outlets on Thursday evening. The forward, who scored the match-winner for Spain in the World Cup final, is expected to sign with the European champions for around €50 million.\nFrance picked up another two medals at the European Aquatics Championships in Paris, with Maxime Grousset coming second in the 200m butterfly final while Mary-Ambre Moluh was runner-up in the 50m backstroke.\nAt the European Athletics Championships in Birmingham, France's Alice Finot was only beaten to another 3000m steeplechase title by Germany's Gesa Felicitas Krause. Later in the evening, home favourite Amy Hunt made it a sprint double by following up her 100m title with gold in Thursday's 200m final.",
+ "new_text": "Spain's World Cup final hero Ferran Torres closes in on PSG transfer\nIssued on:\nParis Saint-Germain have reached an agreement with Barcelona to sign Ferran Torres, according to reports in French and Spanish media outlets on Thursday evening. The forward, who scored the match-winner for Spain in the World Cup final, is expected to sign with the European champions for around €50 million.\nFrance picked up another two medals at the European Aquatics Championships in Paris, with Maxime Grousset coming second in the 200m butterfly final while Mary-Ambre Moluh was runner-up in the 50m backstroke.\nAt the European Athletics Championships in Birmingham, France's Alice Finot was beaten to another 3000m steeplechase title by Germany's Gesa Felicitas Krause. Later in the evening, home favourite Amy Hunt made it a sprint double by following up her 100m title with gold in Thursday's 200m final.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Barcelona to sign Ferran Torres, according to reports in French and Spanish"
+    ],
+    [
+     "ins",
+     "media"
+    ],
+    [
+     "eq",
+     "outlets on Thursday evening. The forward, who scored the match-winner for Spain"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "backstroke. At the European Athletics Championships in Birmingham, France's Alice Finot was"
+    ],
+    [
+     "del",
+     "only"
+    ],
+    [
+     "eq",
+     "beaten to another 3000m steeplechase title by Germany's Gesa Felicitas Krause. Later"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0141,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9984,
+ "adjudicated_by": "rules"
+}
