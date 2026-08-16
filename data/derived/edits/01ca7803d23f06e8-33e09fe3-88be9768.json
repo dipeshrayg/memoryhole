@@ -1,0 +1,120 @@
+{
+ "id": "01ca7803d23f06e8-33e09fe3-88be9768",
+ "url": "https://www.abc.net.au/news/2026-08-15/mastercard-outage/107042220",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-16T06:52:29Z",
+ "date": "2026-08-16",
+ "old_title": "Mastercard reportedly down due to 'global' issue",
+ "new_title": "Shoppers' payments declined due to 'global' Mastercard outage",
+ "old_text": "Mastercard reportedly down due to 'global' issue\nIn short:\nShoppers around Australia are reporting issues with declined card payments on Saturday afternoon.\nThe payment issues have been caused by a \"global Mastercard issue\", Commbank says in a statement.\nWhat's next?\nThe ABC has contacted Mastercard for comment.",
+ "new_text": "Mastercard payments declined due to 'global' outage caused by system update\nIn short:\nShoppers around Australia reported issues with declined card payments on Saturday afternoon.\nMastercard said the issues were caused by a \"scheduled system update\".\nAll systems are now \"working as normal\", Mastercard said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Mastercard"
+    ],
+    [
+     "del",
+     "reportedly down"
+    ],
+    [
+     "ins",
+     "payments declined"
+    ],
+    [
+     "eq",
+     "due to 'global'"
+    ],
+    [
+     "del",
+     "issue"
+    ],
+    [
+     "ins",
+     "outage caused by system update"
+    ],
+    [
+     "eq",
+     "In short: Shoppers around Australia"
+    ],
+    [
+     "del",
+     "are reporting"
+    ],
+    [
+     "ins",
+     "reported"
+    ],
+    [
+     "eq",
+     "issues with declined card payments on Saturday afternoon."
+    ],
+    [
+     "del",
+     "The payment"
+    ],
+    [
+     "ins",
+     "Mastercard said the"
+    ],
+    [
+     "eq",
+     "issues"
+    ],
+    [
+     "del",
+     "have been"
+    ],
+    [
+     "ins",
+     "were"
+    ],
+    [
+     "eq",
+     "caused by a"
+    ],
+    [
+     "del",
+     "\"global"
+    ],
+    [
+     "ins",
+     "\"scheduled system update\". All systems are now \"working as normal\","
+    ],
+    [
+     "eq",
+     "Mastercard"
+    ],
+    [
+     "del",
+     "issue\", Commbank says in a statement. What's next? The ABC has contacted Mastercard for comment."
+    ],
+    [
+     "ins",
+     "said."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.0213,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.499,
+ "similarity": 0.8368,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,198 @@
+{
+ "id": "f995e1a70bad37c3-bc32e10a-95926400",
+ "url": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-16T06:47:42Z",
+ "date": "2026-08-16",
+ "old_title": "Heathrow Airport warns of disruption following floods",
+ "new_title": "Heathrow Airport roads reopen after mains burst on ring road",
+ "old_text": "- Published\nHeathrow Airport has warned access to Terminals 2 and 3 is restricted because of flooding.\nWater in the central terminal area means anyone trying to travel to or from either of these terminals cannot travel by road.\nInstead passengers are being advised to travel by rail and tube and to avoid using cars.\n\"Our teams are working to resolve the situation as quickly as possible, we apologise for any disruption caused,\" the airport said early on Saturday.\nThe disruption comes during the school holidays, one of the busiest periods for the airport.\nHeathrow said 19 July was its busiest day of the year so far as many schools broke up for summer, with 267,000 passengers passing through.\nThe airport was recently affected by disruption to railway services, after a water leak prompted the closure of a tunnel.\nThis breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version.\nYou can receive Breaking News on a smartphone or tablet via the BBC News App. You can also follow @BBCBreaking on X, external to get the latest alerts.",
+ "new_text": "- Published\nAll roads to Heathrow Airport have reopened after earlier disruption caused by flooding from a burst water main on a ring road.\nThe flooding along Inner Ring Road West prevented access to the central terminal area (CTA), which includes Terminals 2 and 3, a number of other buildings and the road network.\nHeathrow Airport has confirmed the airport is now operating as normal and has apologised for the inconvenience after the road closures were made just before 06:00 BST.\nPassengers are still being advised to use public transport where possible due to heavy congestion on the roads.\nThe travel disruption left some passengers struggling to get to their planes on time.\nGeorge Smyrniadis, 79, missed his flight to Frankfurt where he was headed for a school reunion on Saturday afternoon.\nSmyrniadis, who got in touch via BBC's Your Voice, said: \"I was upset. It's the first reunion I've missed since 1987.\n\"I was so downhearted I just wanted to get home.\n\"The whole airport seemed completely chaotic, but I got the impression the airlines just carried on as though nothing was wrong - and if you missed your flight you just missed it.\"\nSmyrniadis said his trip from Portsmouth went well until he left the M4, at which point he was sat in traffic for 90 minutes travelling a distance which usually takes him about 10 minutes.\n\"By the time I got to security it was too late - it was already 09:30BST so they wouldn't let me go through any further.\"\nBusiest time of the year\nIt is understood that there was no flooding within either terminal, and flights have not been disrupted.\nThe affected pipes are owned by Heathrow Airport which has been in charge of the repairs.\nThe disruption hit passengers amid the school summer holidays.\nHeathrow said 19 July was its busiest day of the year so far as many schools broke up for summer, with 267,000 passengers passing through.\nAn airport spokesperson said: \"Following earlier road flooding impacting access to Terminals 2 and 3, all roads have now reopened and the airport continues to operate as normal.\n\"We apologise for any inconvenience caused and we thank passengers for following the advisories we had put in place while our teams worked to resolve the situation as quickly as possible.\"\nThe airport was recently affected by disruption to railway services, after a water leak prompted the closure of a tunnel.\nAdditional reporting by PA Media.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "ins",
+     "All roads to"
+    ],
+    [
+     "eq",
+     "Heathrow Airport"
+    ],
+    [
+     "del",
+     "has warned"
+    ],
+    [
+     "ins",
+     "have reopened after earlier disruption caused by flooding from a burst water main on a ring road. The flooding along Inner Ring Road West prevented"
+    ],
+    [
+     "eq",
+     "access to"
+    ],
+    [
+     "del",
+     "Terminals 2 and 3 is restricted because of flooding. Water in"
+    ],
+    [
+     "eq",
+     "the central terminal area"
+    ],
+    [
+     "del",
+     "means anyone trying to travel to or from either"
+    ],
+    [
+     "ins",
+     "(CTA), which includes Terminals 2 and 3, a number"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "these terminals cannot travel by road. Instead passengers"
+    ],
+    [
+     "ins",
+     "other buildings and the road network. Heathrow Airport has confirmed the airport is now operating as normal and has apologised for the inconvenience after the road closures were made just before 06:00 BST. Passengers"
+    ],
+    [
+     "eq",
+     "are"
+    ],
+    [
+     "ins",
+     "still"
+    ],
+    [
+     "eq",
+     "being advised to"
+    ],
+    [
+     "ins",
+     "use public transport where possible due to heavy congestion on the roads. The"
+    ],
+    [
+     "eq",
+     "travel"
+    ],
+    [
+     "ins",
+     "disruption left some passengers struggling to get to their planes on time. George Smyrniadis, 79, missed his flight to Frankfurt where he was headed for a school reunion on Saturday afternoon. Smyrniadis, who got in touch via BBC's Your Voice, said: \"I was upset. It's the first reunion I've missed since 1987. \"I was so downhearted I just wanted to get home. \"The whole airport seemed completely chaotic, but I got the impression the airlines just carried on as though nothing was wrong - and if you missed your flight you just missed it.\" Smyrniadis said his trip from Portsmouth went well until he left the M4, at which point he was sat in traffic for 90 minutes travelling a distance which usually takes him about 10 minutes. \"By the time I got to security it was too late - it was already 09:30BST so they wouldn't let me go through any further.\" Busiest time of the year It is understood that there was no flooding within either terminal, and flights have not been disrupted. The affected pipes are owned"
+    ],
+    [
+     "eq",
+     "by"
+    ],
+    [
+     "del",
+     "rail and tube and to avoid using cars. \"Our teams are working to resolve"
+    ],
+    [
+     "ins",
+     "Heathrow Airport which has been in charge of"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "situation as quickly as possible, we apologise for any disruption caused,\" the airport said early on Saturday."
+    ],
+    [
+     "ins",
+     "repairs."
+    ],
+    [
+     "eq",
+     "The disruption"
+    ],
+    [
+     "del",
+     "comes during"
+    ],
+    [
+     "ins",
+     "hit passengers amid"
+    ],
+    [
+     "eq",
+     "the school"
+    ],
+    [
+     "del",
+     "holidays, one of the busiest periods for the airport."
+    ],
+    [
+     "ins",
+     "summer holidays."
+    ],
+    [
+     "eq",
+     "Heathrow said 19 July was its busiest day of the year so"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "as many schools broke up for summer, with 267,000 passengers passing through."
+    ],
+    [
+     "ins",
+     "An airport spokesperson said: \"Following earlier road flooding impacting access to Terminals 2 and 3, all roads have now reopened and the airport continues to operate as normal. \"We apologise for any inconvenience caused and we thank passengers for following the advisories we had put in place while our teams worked to resolve the situation as quickly as possible.\""
+    ],
+    [
+     "eq",
+     "The airport was recently affected by disruption to railway services, after a water leak prompted the closure of a tunnel."
+    ],
+    [
+     "del",
+     "This breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version. You can receive Breaking News on a smartphone or tablet via the BBC News App. You can also follow @BBCBreaking on X, external to get the latest alerts."
+    ],
+    [
+     "ins",
+     "Additional reporting by PA Media."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 2.4603,
+  "numbers_changed": [
+   "00",
+   "06",
+   "09",
+   "10",
+   "1987",
+   "30",
+   "4",
+   "79",
+   "90"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 1,
+  "blocks_added": 3,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.1,
+ "similarity": 0.7074,
+ "adjudicated_by": "rules"
+}

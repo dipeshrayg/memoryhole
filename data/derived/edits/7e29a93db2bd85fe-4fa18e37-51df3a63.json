@@ -1,0 +1,87 @@
+{
+ "id": "7e29a93db2bd85fe-4fa18e37-51df3a63",
+ "url": "https://www.independent.co.uk/asia/southeast-asia/indonesia-earthquake-coast-tsunami-warning-b3033495.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-16T06:53:31Z",
+ "date": "2026-08-16",
+ "old_title": "At least 20 killed after powerful 7.7-magnitude earthquake strikes Indonesia",
+ "new_title": "At least 38 killed after powerful 7.7-magnitude earthquake strikes Indonesia",
+ "old_text": "At least 20 people were killed after a 7.7-magnitude earthquake struck off the Indonesian coast early on Saturday.\nThe powerful tremor brought down homes and buildings, triggering widespread panic across a region frequently hit by deadly seismic activity.\nAn initial tsunami alert was lifted when Indonesia's Meteorology, Climatology and Geophysics Agency confirmed that sea-level monitoring showed no dangerous changes threatening coastal areas.\nAccording to the US Geological Survey, the quake struck the Flores region at 5:58am local time at a depth of 10km. Located 68km north-northwest of Ende in East Nusa Tenggara province, the primary quake was followed by several aftershocks.\nRescuers around the port town of Maumere found 20 people dead, six injured and two trapped under the rubble, said Fathur Rahman, head of the city's rescue agency.\nMaumere is the main town in Sikka regency on Flores Island in the east of Indonesia's vast archipelago.\nFootage on local television showed patients at several hospitals being evacuated from buildings as a precaution following the quake. Hospital staff moved equipment outdoors, including beds, IV stands and oxygen cylinders, and set up temporary treatment areas to adapt to emergency conditions.\nQuake felt on Flores Island\nThe quake was felt across much of Flores Island, with initial reports indicating heavy damage.\nYohanna Embu, a resident of Sikka, said that a number of buildings were damaged by the strong shaking and panicked people ran to higher ground.\n\"Many buildings here were damaged,\" she said. \"I saw the waiting room at the port terminal in Maumere had collapsed.\"\nStudents at St Peter Major Seminary in Sikka who were attending morning Mass fled in panic when the roof of an assembly hall collapsed, said Rev Guidelbertus Tanga, rector of the seminary, which is known locally as Ritapiret Seminary on the predominantly Catholic island of Flores.\n\"Our students and nuns ran out in panic beneath a collapsing roof,\" Tanga said. \"At least one priest suffered a broken leg after jumping from the second floor of a building during the quake.\"\nIndonesian authorities initially issued a tsunami warning for parts of East Nusa Tenggara, West Nusa Tenggara, South Sulawesi, and Southeast Sulawesi provinces, and urged residents to stay away from beaches and riverbanks, and residents on the coastline to move to higher ground. The agency located the shallow undersea quake near Flores.\nIndonesia prone to earthquakes\nIndonesia, a vast archipelago of more than 17,000 islands, is prone to earthquakes and volcanic activity because of its location on the \"Ring of Fire\", an arc of volcanoes and fault lines in the Pacific Basin.\nIn December of 1992, a powerful earthquake caused a tsunami that killed around 2,500 people on the southeastern island of Flores, part of a group of islands in the eastern half of Indonesia.",
+ "new_text": "At least 38 people were killed after a 7.7-magnitude earthquake struck off the Indonesian coast early on Saturday.\nThe powerful tremor brought down homes and buildings, triggering widespread panic across a region frequently hit by deadly seismic activity.\nAn initial tsunami alert was lifted when Indonesia's Meteorology, Climatology and Geophysics Agency confirmed that sea-level monitoring showed no dangerous changes threatening coastal areas.\nAccording to the US Geological Survey, the quake struck the Flores region at 5:58am local time at a depth of 10km. Located 68km north-northwest of Ende in East Nusa Tenggara province, the primary quake was followed by several aftershocks.\nRescuers around the port town of Maumere initially found 20 people dead, six injured and two trapped under the rubble, said Fathur Rahman, head of the city's rescue agency.\nMaumere is the main town in Sikka regency on Flores Island in the east of Indonesia's vast archipelago.\nLater in the day, however, the head of the National Disaster Management Agency, Suharyanto, told reporters that the death toll had risen to 38.\nFootage on local television showed patients at several hospitals being evacuated from buildings as a precaution following the quake. Hospital staff moved equipment outdoors, including beds, IV stands and oxygen cylinders, and set up temporary treatment areas to adapt to emergency conditions.\nQuake felt on Flores Island\nThe quake was felt across much of Flores Island, with initial reports indicating heavy damage.\nYohanna Embu, a resident of Sikka, said that a number of buildings were damaged by the strong shaking and panicked people ran to higher ground.\n\"Many buildings here were damaged,\" she said. \"I saw the waiting room at the port terminal in Maumere had collapsed.\"\nStudents at St Peter Major Seminary in Sikka who were attending morning Mass fled in panic when the roof of an assembly hall collapsed, said Rev Guidelbertus Tanga, rector of the seminary, which is known locally as Ritapiret Seminary on the predominantly Catholic island of Flores.\n\"Our students and nuns ran out in panic beneath a collapsing roof,\" Tanga said. \"At least one priest suffered a broken leg after jumping from the second floor of a building during the quake.\"\nIndonesian authorities initially issued a tsunami warning for parts of East Nusa Tenggara, West Nusa Tenggara, South Sulawesi, and Southeast Sulawesi provinces, and urged residents to stay away from beaches and riverbanks, and residents on the coastline to move to higher ground. The agency located the shallow undersea quake near Flores.\nIndonesia prone to earthquakes\nIndonesia, a vast archipelago of more than 17,000 islands, is prone to earthquakes and volcanic activity because of its location on the \"Ring of Fire\", an arc of volcanoes and fault lines in the Pacific Basin.\nIn December of 1992, a powerful earthquake caused a tsunami that killed around 2,500 people on the southeastern island of Flores, part of a group of islands in the eastern half of Indonesia.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "At least"
+    ],
+    [
+     "del",
+     "20"
+    ],
+    [
+     "ins",
+     "38"
+    ],
+    [
+     "eq",
+     "people were killed after a 7.7-magnitude earthquake struck off the Indonesian coast"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "was followed by several aftershocks. Rescuers around the port town of Maumere"
+    ],
+    [
+     "ins",
+     "initially"
+    ],
+    [
+     "eq",
+     "found 20 people dead, six injured and two trapped under the rubble,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Sikka regency on Flores Island in the east of Indonesia's vast archipelago."
+    ],
+    [
+     "ins",
+     "Later in the day, however, the head of the National Disaster Management Agency, Suharyanto, told reporters that the death toll had risen to 38."
+    ],
+    [
+     "eq",
+     "Footage on local television showed patients at several hospitals being evacuated from"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.059,
+  "numbers_changed": [
+   "20",
+   "38"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9834,
+ "adjudicated_by": "rules"
+}

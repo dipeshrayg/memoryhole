@@ -1,0 +1,156 @@
+{
+ "id": "2528409cc3f1ba18-f050f63a-7a292b5d",
+ "url": "https://www.abc.net.au/news/2026-08-15/phillip-island-penguin-bird-flu/107042190",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-16T06:52:27Z",
+ "date": "2026-08-16",
+ "old_title": "First H5N1 bird flu death recorded in Phillip Island penguins",
+ "new_title": "First H5N1 bird flu death recorded in Phillip Island penguins",
+ "old_text": "In short:\nA Phillip Island little penguin has died from the deadly H5N1 strain of bird flu.\nAuthorities say it is one of three new detections of the virus in Victoria.\nWhat's next?\nAuthorities say the death will not affect plans to begin vaccinating the little penguin colony on Monday.\nA Phillip Island penguin has died from H5N1 bird flu in the first detection among the island's little penguin colony.\nThe new detection is one of three announced by Victoria's chief veterinary officer, Graeme Cooke, on Saturday.\nIt comes ahead of plans to begin vaccinating the Phillip Island penguins against the virus on Monday.\nThe Phillip Island penguin parade is a major attraction that draws national and international visitors.\nAuthorities found the dead penguin away from the area where the penguin parade takes place.\nA great crested tern found in Lakes Entrance in East Gippsland and another in Dromana, on the Victorian Mornington Peninsula, also died of bird flu.\nIt brings the total number of bird flu cases in Victoria to 74, but Dr Cook said there were likely more birds sick or dead in the state.\n\"We ... recognise that this is distressing for Victorians to see and to hear,\" he said.\nVictoria's chief biodiversity officer, James Todd, said the latest cases were significant because the areas hosted several at-risk bird species that would congregate for the upcoming spring breeding season and could lead to large losses of wildlife.\n\"It's highly likely the conditions are conducive for H5N1 spread in those areas that would lead to large losses of wildlife,\" Mr Cook said.\n\"There's little we can do to minimise that impact\"\n\"Having said that, we are working as hard as we can to protect at-risk species and to continue to respond to detections as they come on hand.\"\nNo halt to vaccinations\nHe said the recently announced vaccination program of the little penguin colonies on Phillip Island and St Kilda will begin on Monday despite the detection there.\n\"We know that little penguins are iconic and highly valued by Victorians, and for that reason, we are working as a priority to protect those communities,\" he said.\nPhillip Island Nature Park, which operates the penguin parade, will also remain open while the vaccination program is rolled out.\n\"We are rolling out the vaccination program as quickly and urgently as was possible after the federal authorities released the permits and released the vaccines to the jurisdictions,\" Dr Cook said.\n\"We are very concerned ... about this detection, but it does represent early surveillance and early vigilance.\"\nHe said large groupings of penguins were historically more susceptible to infection.\n\"At this time of year, the penguins are not at their full capacity in terms of numbers, so it's a good time to start vaccinating,\" Dr Cook said.",
+ "new_text": "In short:\nA Phillip Island little penguin has died from the deadly H5N1 strain of bird flu.\nAuthorities say it is one of three new detections of the virus in Victoria.\nWhat's next?\nVictoria's chief biodiversity officer says the death will not affect plans to begin vaccinating the little penguin colony on Monday.\nA Phillip Island penguin has died from H5N1 bird flu in the first detection among the island's little penguin colony.\nThe new detection is one of three announced by Victoria's chief veterinary officer, Graeme Cooke, on Saturday.\nIt comes ahead of plans to begin vaccinating the Phillip Island penguins against the virus on Monday.\nThe Phillip Island penguin parade is a major attraction that draws national and international visitors.\nAuthorities found the dead penguin away from the area where the penguin parade takes place.\nA great crested tern found in Lakes Entrance in East Gippsland and another in Dromana, on the Victorian Mornington Peninsula, also died of bird flu.\nIt brings the total number of bird flu cases in Victoria to 74, but Dr Cooke said there were likely more birds sick or dead in the state.\n\"We ... recognise that this is distressing for Victorians to see and to hear,\" he said.\nVictoria's chief biodiversity officer, James Todd, said the latest cases were significant because the areas hosted several at-risk bird species that would congregate for the upcoming spring breeding season.\n\"It's highly likely the conditions are conducive for H5N1 spread in those areas that would lead to large losses of wildlife,\" Mr Cooke said.\n\"There's little we can do to minimise that impact.\n\"Having said that, we are working as hard as we can to protect at-risk species and to continue to respond to detections as they come on hand.\"\nNo halt to vaccinations\nHe said the recently announced vaccination program of the little penguin colonies on Phillip Island and St Kilda will begin on Monday despite the detection there.\n\"We know that little penguins are iconic and highly valued by Victorians, and for that reason, we are working as a priority to protect those communities,\" he said.\nPhillip Island Nature Park, which operates the penguin parade, will also remain open while the vaccination program is rolled out.\n\"We are rolling out the vaccination program as quickly and urgently as was possible after the federal authorities released the permits and released the vaccines to the jurisdictions,\" Dr Cooke said.\n\"We are very concerned ... about this detection, but it does represent early surveillance and early vigilance.\"\nHe said large groupings of penguins were historically more susceptible to infection.\n\"At this time of year, the penguins are not at their full capacity in terms of numbers, so it's a good time to start vaccinating,\" Dr Cooke said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "one of three new detections of the virus in Victoria. What's next?"
+    ],
+    [
+     "del",
+     "Authorities say"
+    ],
+    [
+     "ins",
+     "Victoria's chief biodiversity officer says"
+    ],
+    [
+     "eq",
+     "the death will not affect plans to begin vaccinating the little penguin"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "total number of bird flu cases in Victoria to 74, but Dr"
+    ],
+    [
+     "del",
+     "Cook"
+    ],
+    [
+     "ins",
+     "Cooke"
+    ],
+    [
+     "eq",
+     "said there were likely more birds sick or dead in the state."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "several at-risk bird species that would congregate for the upcoming spring breeding"
+    ],
+    [
+     "del",
+     "season and could lead to large losses of wildlife."
+    ],
+    [
+     "ins",
+     "season."
+    ],
+    [
+     "eq",
+     "\"It's highly likely the conditions are conducive for H5N1 spread in those areas that would lead to large losses of wildlife,\" Mr"
+    ],
+    [
+     "del",
+     "Cook"
+    ],
+    [
+     "ins",
+     "Cooke"
+    ],
+    [
+     "eq",
+     "said. \"There's little we can do to minimise that"
+    ],
+    [
+     "del",
+     "impact\""
+    ],
+    [
+     "ins",
+     "impact."
+    ],
+    [
+     "eq",
+     "\"Having said that, we are working as hard as we can to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "authorities released the permits and released the vaccines to the jurisdictions,\" Dr"
+    ],
+    [
+     "del",
+     "Cook"
+    ],
+    [
+     "ins",
+     "Cooke"
+    ],
+    [
+     "eq",
+     "said. \"We are very concerned ... about this detection, but it does"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "terms of numbers, so it's a good time to start vaccinating,\" Dr"
+    ],
+    [
+     "del",
+     "Cook"
+    ],
+    [
+     "ins",
+     "Cooke"
+    ],
+    [
+     "eq",
+     "said."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0579,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 0.9973,
+ "adjudicated_by": "rules"
+}

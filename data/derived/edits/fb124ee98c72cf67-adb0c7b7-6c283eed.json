@@ -1,0 +1,72 @@
+{
+ "id": "fb124ee98c72cf67-adb0c7b7-6c283eed",
+ "url": "https://www.dw.com/en/us-fda-recalls-19-million-eggs-over-salmonella-risk/a-78378361?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-16T06:50:36Z",
+ "date": "2026-08-16",
+ "old_title": "US: 19 million eggs recalled over Salmonella risk",
+ "new_title": "US: 19 million eggs recalled over salmonella risk",
+ "old_text": "Around 19 million eggs have been recalled in the United States over possible Salmonella contamination, the US Food and Drug Administration (FDA) has said.\nMidwest Poultry Services (MPS) voluntarily recalled 1,589,577 dozen eggs on July 22 after detecting potential Salmonella Enteritidis contamination at two Texas farms, the FDA said.\nMPS Egg Farms said on its website that it had proactively recalled the eggs as a precautionary measure and initiated testing protocols to identify potential sources of Salmonella.\nOn Wednesday, the FDA said it was a Class 1 recall, indicating a reasonable probability of serious illness or death.\nWhat did the FDA say about the egg recall?\nThe eggs were produced between June 6 and July 3 and distributed in the states of Texas, Oklahoma, Arkansas, Louisiana, New Mexico and Mississippi.\nThese included both white shell eggs and brown cage-free shell eggs.\nThey were sold under several brand names, with sell-by or best-by dates from July 20 to August 17.\nAccording to the FDA advisory:\n- Consumers should throw away the recalled eggs or return them for a refund\n- Restaurants and retailers should not serve or sell the eggs\n- Consumers, restaurants, and retailers who purchased or received recalled eggs should carefully clean and sanitize any surfaces or containers that the recalled eggs touched.\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "Around 19 million eggs have been recalled in the United States over possible salmonella contamination, the US Food and Drug Administration (FDA) has said.\nMidwest Poultry Services (MPS) voluntarily recalled 1,589,577 dozen eggs on July 22 after detecting potential Salmonella Enteritidis contamination at two Texas farms, the FDA said.\nMPS Egg Farms said on its website that it had proactively recalled the eggs as a precautionary measure and initiated testing protocols to identify potential sources of salmonella.\nOn Wednesday, the FDA said it was a Class 1 recall, indicating a reasonable probability of serious illness or death.\nWhat did the FDA say about the egg recall?\nThe eggs were produced between June 6 and July 3 and distributed in the states of Texas, Oklahoma, Arkansas, Louisiana, New Mexico and Mississippi.\nThese included both white shell eggs and brown cage-free shell eggs.\nThey were sold under several brand names, with sell-by or best-by dates from July 20 to August 17.\nAccording to the FDA advisory:\n- Consumers should throw away the recalled eggs or return them for a refund\n- Restaurants and retailers should not serve or sell the eggs\n- Consumers, restaurants, and retailers who purchased or received recalled eggs should carefully clean and sanitize any surfaces or containers that the recalled eggs touched.\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "19 million eggs have been recalled in the United States over possible"
+    ],
+    [
+     "del",
+     "Salmonella"
+    ],
+    [
+     "ins",
+     "salmonella"
+    ],
+    [
+     "eq",
+     "contamination, the US Food and Drug Administration (FDA) has said. Midwest Poultry"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "a precautionary measure and initiated testing protocols to identify potential sources of"
+    ],
+    [
+     "del",
+     "Salmonella."
+    ],
+    [
+     "ins",
+     "salmonella."
+    ],
+    [
+     "eq",
+     "On Wednesday, the FDA said it was a Class 1 recall, indicating"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0153,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

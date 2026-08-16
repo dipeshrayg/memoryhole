@@ -1,0 +1,48 @@
+{
+ "id": "c76a9d433dd33298-fdf099ab-05e0df27",
+ "url": "https://www.france24.com/en/we-are-seeing-the-cracks-of-israeli-politics-play-out-in-the-west-bank",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-16T06:51:27Z",
+ "date": "2026-08-16",
+ "old_title": "'We are seeing the cracks of Israeli politics play out in the West Bank'",
+ "new_title": "'We are seeing the cracks of Israeli politics play out in the West Bank'",
+ "old_text": "'We are seeing the cracks of Israeli politics play out in the West Bank'\nIssued on:\nShare\nPalestinian residents of three houses in Qusra near Nablus in the occupied West Bank say they have been effectively cut off from food and other supplies since the siege by Israeli settlers began on Sunday. But the Israeli military has not done anything to remove the settlers. \"We are seeing the cracks of Israeli politics, including a paralysed prime minister's inability to condemn basic filmed violent acts, play out in the West Bank,\" says FRANCE 24 correspondent Noga Tarnopolsky.",
+ "new_text": "'We are seeing the cracks of Israeli politics play out in the West Bank'\nIssued on: Modified:\nShare\nPalestinian residents of three houses in Qusra near Nablus in the occupied West Bank say they have been effectively cut off from food and other supplies since the siege by Israeli settlers began on Sunday. But the Israeli military has not done anything to remove the settlers. \"We are seeing the cracks of Israeli politics, including a paralysed prime minister's inability to condemn basic filmed violent acts, play out in the West Bank,\" says FRANCE 24 correspondent Noga Tarnopolsky.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "cracks of Israeli politics play out in the West Bank' Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "Share Palestinian residents of three houses in Qusra near Nablus in the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0104,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9945,
+ "adjudicated_by": "rules"
+}
