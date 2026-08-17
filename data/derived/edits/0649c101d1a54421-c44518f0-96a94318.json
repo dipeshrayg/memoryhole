@@ -1,0 +1,137 @@
+{
+ "id": "0649c101d1a54421-c44518f0-96a94318",
+ "url": "https://www.dw.com/en/belgium-hundreds-evacuated-as-firefighters-battle-largest-wildfire-on-record/a-78386242?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-17T07:08:17Z",
+ "date": "2026-08-17",
+ "old_title": "Belgium battles record wildfire as hundreds evacuated",
+ "new_title": "Hundreds flee as Belgium battles wildfire at German border",
+ "old_text": "Belgium is battling its largest wildfire on record which has burned around 2,700 hectares in the eastern High Fens nature reserve near the German border.\nOn Saturday, the European Union deployed three helicopters and two water bombers as Belgium deployed additional firefighters in a bid to bring the massive blaze under control.\nAuthorities ordered around 600 residents in parts of Waimes, Sourbrodt and Buetgenbach to evacuate as shifting winds and heavy smoke raised concerns that the fire could reach homes. Tourists were also advised to leave the area.\n\"You can't see a thing anymore, there's smoke everywhere,\" David Rodolfs, a restaurant owner in Waimes, told the AFP news agency.\nA gymnasium in a neighboring municipality was opened up to offer shelter.\nHow have firefighting efforts fared?\nThe blaze, which broke out on Friday, has spread rapidly across peatlands and pine forests. Belgian Interior Minister Bernard Quintin told AFP he was \"shocked\" at the fire's speed and extent of the destruction.\n\"There is a risk that the fire could reach homes, but we are deploying all available resources to protect them,\" Nicolas Yernaux, a spokesperson for the regional authorities in Wallonia, said.\nDifficult terrain has hampered firefighting efforts, with operations relying heavily on aerial resources and forcing firefighters to allow difficult-to-access areas to burn, according to Yernaux.\nMeanwhile, Belgium activated the EU's civil protection mechanism, bringing in three helicopters and two water-bombing aircraft from the Czech Republic, Sweden and the Netherlands.\nFirefighters from Germany and Luxembourg have also joined the response, while farmers have helped emergency crews by wetting down the area.\nClimate change making wildfires spread faster\nBelgium has experienced another spell of extreme heat this week, with temperatures reaching 37 degrees Celsius (98.6 Fahrenheit) in parts of the country.\nScientists say human-caused climate change is increasing the likelihood of hot and dry conditions that allow wildfires to spread faster and burn longer.\nEuropean Commissioner Hadja Lahbib called the blaze the latest sign of the \"climate upheaval\" affecting the continent.\n\"Never before has the wildfire season started so early in the year and reached such northern latitudes,\" she said.\nThe wildfire is located just over the border from another major blaze in western Germany, which forced more than 2,000 residents from their homes.\nEdited by: Karl Sexton\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "Belgium is battling its largest wildfire on record which has burned around 2,700 hectares (6,700 acres) in the eastern High Fens nature reserve.\nThe fire approached to within 300 meters (984 feet) of the German border, causing authorities to carry out precautionary evacuations in the German town of Monschau.\nEvacuations in Belgium\nOn Saturday, the European Union deployed three helicopters and two water bombers as Belgium deployed additional firefighters in a bid to bring the massive blaze under control.\nAuthorities ordered around 600 residents in parts of Waimes, Sourbrodt and Buetgenbach to evacuate as shifting winds and heavy smoke raised concerns that the fire could reach homes. Tourists were also advised to leave the area.\n\"You can't see a thing anymore, there's smoke everywhere,\" David Rodolfs, a restaurant owner in Waimes, told the AFP news agency.\nA gymnasium in a neighboring municipality was opened up to offer shelter.\nHow have firefighting efforts fared?\nThe blaze, which broke out on Friday, has spread rapidly across peatlands and pine forests. Belgian Interior Minister Bernard Quintin told AFP he was \"shocked\" at the fire's speed and extent of the destruction.\n\"There is a risk that the fire could reach homes, but we are deploying all available resources to protect them,\" Nicolas Yernaux, a spokesperson for the regional authorities in Wallonia, said.\nDifficult terrain has hampered firefighting efforts, with operations relying heavily on aerial resources and forcing firefighters to allow difficult-to-access areas to burn, according to Yernaux.\nMeanwhile, Belgium activated the EU's civil protection mechanism, bringing in three helicopters and two water-bombing aircraft from the Czech Republic, Sweden and the Netherlands.\nFirefighters from Germany and Luxembourg have also joined the response, while farmers have helped emergency crews by wetting down the area.\nEvacuations in Germany's Monschau\nAuthorities in the German town of Monschau in the Eifel region, which is located just 2 kilometers from the border, told some 30 residents from 17 homes to evacuate as a precaution late on Sunday night.\nHowever, the fire was said early on Monday to be no longer advancing toward the German border, with firefighters aided in their efforts by light rain, lower winds and high humidity.\nMonschau, a major tourist attraction in the Eifel region, has some 12,000 residents. It is particularly known for its picturesque Old Town with its half-timbered houses.\nIt is located just some 23 km from the site of another major blaze in Germany's Eifel region that forced some 2,000 people from their homes on Friday.\nClimate change making wildfires spread faster\nBelgium has experienced another spell of extreme heat, with temperatures reaching 37 degrees Celsius (98.6 Fahrenheit) in parts of the country.\nScientists say human-caused climate change is increasing the likelihood of hot and dry conditions that allow wildfires to spread faster and burn longer.\nEuropean Commissioner Hadja Lahbib called the blaze the latest sign of the \"climate upheaval\" affecting the continent.\n\"Never before has the wildfire season started so early in the year and reached such northern latitudes,\" she said.\nEdited by: Karl Sexton, Saim Dušan Inayatullah\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "battling its largest wildfire on record which has burned around 2,700 hectares"
+    ],
+    [
+     "ins",
+     "(6,700 acres)"
+    ],
+    [
+     "eq",
+     "in the eastern High Fens nature"
+    ],
+    [
+     "del",
+     "reserve near"
+    ],
+    [
+     "ins",
+     "reserve. The fire approached to within 300 meters (984 feet) of"
+    ],
+    [
+     "eq",
+     "the German"
+    ],
+    [
+     "del",
+     "border."
+    ],
+    [
+     "ins",
+     "border, causing authorities to carry out precautionary evacuations in the German town of Monschau. Evacuations in Belgium"
+    ],
+    [
+     "eq",
+     "On Saturday, the European Union deployed three helicopters and two water bombers"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "response, while farmers have helped emergency crews by wetting down the area."
+    ],
+    [
+     "ins",
+     "Evacuations in Germany's Monschau Authorities in the German town of Monschau in the Eifel region, which is located just 2 kilometers from the border, told some 30 residents from 17 homes to evacuate as a precaution late on Sunday night. However, the fire was said early on Monday to be no longer advancing toward the German border, with firefighters aided in their efforts by light rain, lower winds and high humidity. Monschau, a major tourist attraction in the Eifel region, has some 12,000 residents. It is particularly known for its picturesque Old Town with its half-timbered houses. It is located just some 23 km from the site of another major blaze in Germany's Eifel region that forced some 2,000 people from their homes on Friday."
+    ],
+    [
+     "eq",
+     "Climate change making wildfires spread faster Belgium has experienced another spell of extreme"
+    ],
+    [
+     "del",
+     "heat this week,"
+    ],
+    [
+     "ins",
+     "heat,"
+    ],
+    [
+     "eq",
+     "with temperatures reaching 37 degrees Celsius (98.6 Fahrenheit) in parts of the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "so early in the year and reached such northern latitudes,\" she said."
+    ],
+    [
+     "del",
+     "The wildfire is located just over the border from another major blaze in western Germany, which forced more than 2,000 residents from their homes."
+    ],
+    [
+     "eq",
+     "Edited by: Karl"
+    ],
+    [
+     "del",
+     "Sexton"
+    ],
+    [
+     "ins",
+     "Sexton, Saim Dušan Inayatullah"
+    ],
+    [
+     "eq",
+     "Don't let the algorithm hide the news. If you rely on our"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4505,
+  "numbers_changed": [
+   "12,000",
+   "17",
+   "2",
+   "23",
+   "30",
+   "300",
+   "6,700",
+   "984"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.303,
+ "similarity": 0.9445,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,80 @@
+{
+ "id": "19a5a4d8911de18c-a3250447-ed3790e2",
+ "url": "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-17T07:08:05Z",
+ "date": "2026-08-17",
+ "old_title": "Iran war: Trump to declare Hormuz US territory 'soon'",
+ "new_title": "Iran war: Trump to declare Hormuz US territory 'soon'",
+ "old_text": "President Donald Trump said Friday that he would \"soon\" declare the Strait of Hormuz a US territory.\n\"After we finish defeating Iran, which is being very badly defeated - pretty soon I'll be declaring the Hormuz Strait a territory of the United States,\" Trump said at a rally at a police academy in Garden City, New York state. \"It's true,\" he added.\nIt was not clear whether his remarks were serious or whether they signal a new policy shift for Washington in its war against Tehran, which is more than five months old.\nIran's Deputy Foreign Minister Kazem Gharibabadi dismissed Trump's remarks, saying the country would \"not be intimidated\" and that the strategic waterway would remain under its control and authority.\nWhat is the situation in the Strait of Hormuz?\nThe US and Israel launched the war against Iran on February 28. At the time, senior White House officials, including Trump, said the aim was to end Iran's nuclear program and spark a popular uprising to force regime change in the Islamic Republic, among other goals.\nIran's response has been to target US allies across the Middle East with drone and missile strikes, as well as to impose a blockade of the Strait of Hormuz, through which one-fifth of the world's oil and liquefied natural gas (LNG) shipments passed before the war.\nThe US responded to Iran's closure of the strait with its own naval blockade of Iranian ships and ports. The two countries have been locked in a stalemate over the vital waterway for months, causing energy prices to soar.\nRising oil and gas costs and the economic fallout from the war are likely to be leading issues in the midterm elections in November.\nWhat else did Trump say during the rally in Garden City?\nDuring the rally, the US president also urged Americans to accept that they would have to \"pay a tiny little bit more\" for their gasoline as a worthy price for preventing \"a very evil country\" from getting a nuclear weapon.\n\"What we're doing is a great service for the world, not only for ourselves ... and we're really doing a great job,\" Trump told the crowd, adding that \"no ships get through (the US blockade of Hormuz) unless we want them to.\"\nOn Friday, Trump also dismissed concerns over the living conditions aboard a US aircraft carrier that was deployed to the Middle East amid the war with Iran.\nRelatives of service members aboard the USS Abraham Lincoln told US military media outlets that personnel are struggling with difficult living conditions and deteriorating mental health. There have also been reports of suicide attempts.\nTrump denied that the deployment of the aircraft carrier , which has been at sea for nine months, had lasted too long, instead insisting that the aircraft carrier's deployment was \"not nearly enough.\"\nHe also confirmed that the ship would be replaced by another \"very similar\" vessel.\nEdited by: Louis Oelofse\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "new_text": "President Donald Trump said Friday that he would \"soon\" declare the Strait of Hormuz a US territory.\n\"After we finish defeating Iran, which is being very badly defeated - pretty soon I'll be declaring the Hormuz Strait a territory of the United States,\" Trump said at a rally at a police academy in Garden City, New York state.\n\"It's true,\" he added.\nIt was not clear whether his remarks were serious or whether they signal a new policy shift for Washington in its war against Tehran, which is more than five months old.\nIran's Deputy Foreign Minister Kazem Gharibabadi dismissed Trump's remarks, saying the country would \"not be intimidated\" and that the strategic waterway would remain under its control and authority.\nWhat is the situation in the Strait of Hormuz?\nThe US and Israel launched the war against Iran on February 28. At the time, senior White House officials, including Trump, said the aim was to end Iran's nuclear program and spark a popular uprising to force regime change in the Islamic Republic, among other goals.\nIran's response has been to target US allies across the Middle East with drone and missile strikes, as well as to impose a blockade of the Strait of Hormuz, through which one-fifth of the world's oil and liquefied natural gas (LNG) shipments passed before the war.\nThe US responded to Iran's closure of the strait with its own naval blockade of Iranian ships and ports. The two countries have been locked in a stalemate over the vital waterway for months, causing energy prices to soar.\nRising oil and gas costs and the economic fallout from the war are likely to be leading issues in the US midterm elections in November.\nWhat else did Trump say during the rally in Garden City?\nDuring the rally, the US president also urged Americans to accept that they would have to \"pay a tiny little bit more\" for their gasoline as a worthy price for preventing \"a very evil country\" from getting a nuclear weapon.\n\"What we're doing is a great service for the world, not only for ourselves ... and we're really doing a great job,\" Trump told the crowd, adding that \"no ships get through [the US blockade of Hormuz] unless we want them to.\"\nOn Friday, Trump also dismissed concerns over the living conditions aboard a US aircraft carrier that was deployed to the Middle East amid the war with Iran.\nRelatives of service members aboard the USS Abraham Lincoln told US military media outlets that personnel are struggling with difficult living conditions and deteriorating mental health. There have also been reports of suicide attempts.\nTrump denied that the deployment of the aircraft carrier , which has been at sea for nine months, had lasted too long, instead insisting that the aircraft carrier's deployment was \"not nearly enough.\"\nHe also confirmed that the ship would be replaced by another \"very similar\" vessel.\nEdited by: Louis Oelofse\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "fallout from the war are likely to be leading issues in the"
+    ],
+    [
+     "ins",
+     "US"
+    ],
+    [
+     "eq",
+     "midterm elections in November. What else did Trump say during the rally"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "great job,\" Trump told the crowd, adding that \"no ships get through"
+    ],
+    [
+     "del",
+     "(the"
+    ],
+    [
+     "ins",
+     "[the"
+    ],
+    [
+     "eq",
+     "US blockade of"
+    ],
+    [
+     "del",
+     "Hormuz)"
+    ],
+    [
+     "ins",
+     "Hormuz]"
+    ],
+    [
+     "eq",
+     "unless we want them to.\" On Friday, Trump also dismissed concerns over"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0096,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

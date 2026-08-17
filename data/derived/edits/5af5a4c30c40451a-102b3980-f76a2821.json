@@ -1,0 +1,302 @@
+{
+ "id": "5af5a4c30c40451a-102b3980-f76a2821",
+ "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-08-17T07:17:06Z",
+ "date": "2026-08-17",
+ "old_title": "Belgian firefighters battle blaze tearing through nature reserve",
+ "new_title": "Belgian wildfire doubles in size on third day tearing through Hautes Fagnes nature reserve",
+ "old_text": "- Published\nFirefighters battled a wildfire tearing through Belgium's largest nature reserve on Saturday, with the blaze described as the country's worst in recent history.\nResidents were ordered to evacuate two nearby villages as the flames consumed a third of the High Fens, with local officials warning the fire - which has been burning since Friday - could reach homes.\nWater-bombing aircraft and helicopters were sent from across Europe to aid the firefighters working in the park, near Belgium's eastern border with Germany.\nIt was among a number of wildfires burning across Europe on Saturday, including a forest fire which caused hundreds of residents to leave their home in south-western France.\nLocal officials in Belgium said the blaze remained out of control as of Saturday afternoon.\nNicolas Yernaux, spokesman for the regional authorities in Wallonia, said the fire was the country's \"largest in recent history\".\n\"There is a risk that the fire could reach homes, but we are deploying all available resources to protect them,\" he said, with a nearby gymnasium opened to accommodate those evacuating their homes.\nAuthorities said they had been hampered by weather conditions as well as the park's terrain - which consists of bog-like territory, moorland and forests.\nFirefighters had \"allowed parts of the heathland to burn because the area is very difficult to access\", Yernaux said.\nGregory Melotte, one of those working to extinguish the blaze, told Belgian broadcaster RTBF: \"We managed to calm the fire coming from the plain, to prevent it from spreading into the fir forest. We still succeeded in our mission, but it's not over yet.\n\"The flames are coming towards us, the wind has shifted twice, once in our favour, once against us.\"\nThe country activated the EU's civil protection mechanism, triggering reinforcements from other countries.\nEuropean Commissioner Hadja Lahbib said two Swedish water-bombing aircraft and two helicopters, one from the Czech Republic and one from the Netherlands, were on their way.\nMeanwhile, local officials said 650 residents evacuated their homes as a wildfire burned in Landes, south-western France.\nThe fire began on Thursday and, according to authorities, reignited on Saturday - with more than 500 firefighters deployed to tackle the blaze.\nForest fires have also been reported in Croatia, Spain and Serbia since Friday, after a summer of extreme heat that has seen swathes of land across Europe either going up in flames or being scorched brown.\nThe EU's climate monitoring service, Copernicus, has confirmed that western Europe experienced its hottest June-to-July period on record.",
+ "new_text": "- Published\nA wildfire described as the largest in Belgium's recent history has more than doubled in size in 24 hours, local officials said on Sunday.\nHundreds of firefighters are spending a third day beating back flames tearing through Hautes Fagnes - the country's largest nature reserve - prompting the evacuation of two nearby villages.\nLocal farmers hauled water tankers towards the park near Belgium's eastern border with Germany, backed by water-bombing aircraft and helicopters sent from Sweden and the Netherlands.\nThe blaze is one of several wildfires reported across Europe this weekend, with at least two killed in forest fires on a Greek island off the coast of Athens on Sunday.\nBelgian officials have warned that high heat and the park's terrain - which consists of bog-like territory, moorland and forests - have hampered efforts to extinguish the fire.\nIt spread from 80 hectares (200 acres) on Friday to 850 hectares on Saturday morning - before consuming 3,000 hectares by early Sunday, AFP news agency reported citing local officials.\nBelgian Interior Minister Bernard Quintin said two of its fronts - heading towards Jalhay and Monschau - had been brought under control.\nBut the blaze continued to advance on Sunday, with its active front reported to be a kilometre long.\nAuthorities earlier said the conditions remained challenging and that they were relying heavily on aerial assistance to tame the flames, though no homes have been affected.\nTwo water-bombing aircraft arrived from Sweden on Sunday afternoon to back up four helicopters - two Belgian and two Dutch - already on site.\nNicolas Yernaux, spokesman for the regional authorities in Wallonia, had said on Saturday that the fire was the country's \"largest in recent history\".\nFirefighters had \"allowed parts of the heathland to burn because the area is very difficult to access\", he added.\nRescue teams have been unable to access the area where fire broke out, meaning its cause remains unknown.\nForest fires have also been reported in Croatia, Spain and Serbia since Friday, after a summer of extreme heat that has seen swathes of land across Europe either going up in flames or being scorched brown.\nLocal officials in Landes, south-western France said a wildfire had triggered the evacuation of 650 residents on Saturday.\nThe fire began on Thursday and, according to authorities, reignited on Saturday - with more than 500 firefighters deployed to tackle the blaze.\nThe EU's climate monitoring service, Copernicus, has confirmed that western Europe experienced its hottest June-to-July period on record.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "Firefighters battled"
+    ],
+    [
+     "ins",
+     "A wildfire described as the largest in Belgium's recent history has more than doubled in size in 24 hours, local officials said on Sunday. Hundreds of firefighters are spending"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "wildfire"
+    ],
+    [
+     "ins",
+     "third day beating back flames"
+    ],
+    [
+     "eq",
+     "tearing through"
+    ],
+    [
+     "del",
+     "Belgium's"
+    ],
+    [
+     "ins",
+     "Hautes Fagnes - the country's"
+    ],
+    [
+     "eq",
+     "largest nature reserve"
+    ],
+    [
+     "del",
+     "on Saturday, with"
+    ],
+    [
+     "ins",
+     "- prompting"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "blaze described as the country's worst in recent history. Residents were ordered to evacuate"
+    ],
+    [
+     "ins",
+     "evacuation of"
+    ],
+    [
+     "eq",
+     "two nearby"
+    ],
+    [
+     "del",
+     "villages as"
+    ],
+    [
+     "ins",
+     "villages. Local farmers hauled water tankers towards"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "flames consumed a third of the High Fens, with local officials warning the fire - which has been burning since Friday - could reach homes. Water-bombing aircraft and helicopters were sent from across Europe to aid the firefighters working in the park,"
+    ],
+    [
+     "ins",
+     "park"
+    ],
+    [
+     "eq",
+     "near Belgium's eastern border with"
+    ],
+    [
+     "del",
+     "Germany. It was among a number"
+    ],
+    [
+     "ins",
+     "Germany, backed by water-bombing aircraft and helicopters sent from Sweden and the Netherlands. The blaze is one"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "ins",
+     "several"
+    ],
+    [
+     "eq",
+     "wildfires"
+    ],
+    [
+     "del",
+     "burning"
+    ],
+    [
+     "ins",
+     "reported"
+    ],
+    [
+     "eq",
+     "across Europe"
+    ],
+    [
+     "ins",
+     "this weekend, with at least two killed in forest fires"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "Saturday, including"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "forest fire which caused hundreds"
+    ],
+    [
+     "ins",
+     "Greek island off the coast"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "residents to leave their home in south-western France. Local"
+    ],
+    [
+     "ins",
+     "Athens on Sunday. Belgian"
+    ],
+    [
+     "eq",
+     "officials"
+    ],
+    [
+     "del",
+     "in Belgium said the blaze remained out of control as of Saturday afternoon. Nicolas Yernaux, spokesman for the regional authorities in Wallonia, said the fire was the country's \"largest in recent history\". \"There is a risk"
+    ],
+    [
+     "ins",
+     "have warned"
+    ],
+    [
+     "eq",
+     "that"
+    ],
+    [
+     "del",
+     "the fire could reach homes, but we are deploying all available resources to protect them,\" he said, with a nearby gymnasium opened to accommodate those evacuating their homes. Authorities said they had been hampered by weather conditions as well as"
+    ],
+    [
+     "ins",
+     "high heat and"
+    ],
+    [
+     "eq",
+     "the park's terrain - which consists of bog-like territory, moorland and"
+    ],
+    [
+     "del",
+     "forests."
+    ],
+    [
+     "ins",
+     "forests - have hampered efforts to extinguish the fire. It spread from 80 hectares (200 acres) on Friday to 850 hectares on Saturday morning - before consuming 3,000 hectares by early Sunday, AFP news agency reported citing local officials. Belgian Interior Minister Bernard Quintin said two of its fronts - heading towards Jalhay and Monschau - had been brought under control. But the blaze continued to advance on Sunday, with its active front reported to be a kilometre long. Authorities earlier said the conditions remained challenging and that they were relying heavily on aerial assistance to tame the flames, though no homes have been affected. Two water-bombing aircraft arrived from Sweden on Sunday afternoon to back up four helicopters - two Belgian and two Dutch - already on site. Nicolas Yernaux, spokesman for the regional authorities in Wallonia, had said on Saturday that the fire was the country's \"largest in recent history\"."
+    ],
+    [
+     "eq",
+     "Firefighters had \"allowed parts of the heathland to burn because the area is very difficult to access\","
+    ],
+    [
+     "del",
+     "Yernaux said. Gregory Melotte, one of those working"
+    ],
+    [
+     "ins",
+     "he added. Rescue teams have been unable"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "extinguish"
+    ],
+    [
+     "ins",
+     "access"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "blaze, told Belgian broadcaster RTBF: \"We managed to calm the"
+    ],
+    [
+     "ins",
+     "area where"
+    ],
+    [
+     "eq",
+     "fire"
+    ],
+    [
+     "del",
+     "coming from the plain, to prevent it from spreading into the fir forest. We still succeeded in our mission, but it's not over yet. \"The flames are coming towards us, the wind has shifted twice, once in our favour, once against us.\" The country activated the EU's civil protection mechanism, triggering reinforcements from other countries. European Commissioner Hadja Lahbib said two Swedish water-bombing aircraft and two helicopters, one from the Czech Republic and one from the Netherlands, were on their way. Meanwhile, local officials said 650 residents evacuated their homes as a wildfire burned in Landes, south-western France. The fire began on Thursday and, according to authorities, reignited on Saturday - with more than 500 firefighters deployed to tackle the blaze."
+    ],
+    [
+     "ins",
+     "broke out, meaning its cause remains unknown."
+    ],
+    [
+     "eq",
+     "Forest fires have also been reported in Croatia, Spain and Serbia since"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "land across Europe either going up in flames or being scorched brown."
+    ],
+    [
+     "ins",
+     "Local officials in Landes, south-western France said a wildfire had triggered the evacuation of 650 residents on Saturday. The fire began on Thursday and, according to authorities, reignited on Saturday - with more than 500 firefighters deployed to tackle the blaze."
+    ],
+    [
+     "eq",
+     "The EU's climate monitoring service, Copernicus, has confirmed that western Europe experienced its hottest June-to-July period on record."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.4639,
+  "numbers_changed": [
+   "200",
+   "24",
+   "3,000",
+   "80",
+   "850"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 3,
+  "blocks_added": 2,
+  "blocks_removed": 4,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.169,
+ "similarity": 0.8752,
+ "adjudicated_by": "rules"
+}

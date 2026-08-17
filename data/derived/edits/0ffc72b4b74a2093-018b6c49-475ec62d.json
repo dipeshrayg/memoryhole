@@ -1,0 +1,60 @@
+{
+ "id": "0ffc72b4b74a2093-018b6c49-475ec62d",
+ "url": "https://www.abc.net.au/news/2026-08-16/trial-ex-sydney-nurses-alleged-threat-israeli-patients-delayed/107043732",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-17T07:10:02Z",
+ "date": "2026-08-17",
+ "old_title": "'Eleventh hour' expert submission delays former Sydney nurses' trial",
+ "new_title": "'Eleventh hour' expert submission delays former Sydney nurses' trial",
+ "old_text": "Trial of former Sydney nurses accused of menacing Israeli patients to be delayed\nIn short:\nLast-minute expert evidence will delay the trial of two former Sydney nurses accuses of threatening Israeli patients.\nA lawyer for one of the former nurses says the report from Middle East analyst Dr Rodger Shanahan was provided on August 5.\nWhat's next?\nThe pair were due in court on August 31, but the matter will be heard at Parramatta District Court next week where a new trial date will be set.",
+ "new_text": "Trial of former Sydney nurses accused of menacing Israeli patients to be delayed\nIn short:\nLast-minute expert evidence will delay the trial of two former Sydney nurses accused of threatening Israeli patients.\nA lawyer for one of the former nurses says the report from Middle East analyst Rodger Shanahan was provided on August 5.\nWhat's next?\nThe pair were due in court on August 31, but the matter will be heard at Parramatta District Court next week where a new trial date will be set.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Last-minute expert evidence will delay the trial of two former Sydney nurses"
+    ],
+    [
+     "del",
+     "accuses"
+    ],
+    [
+     "ins",
+     "accused"
+    ],
+    [
+     "eq",
+     "of threatening Israeli patients. A lawyer for one of the former nurses says the report from Middle East analyst"
+    ],
+    [
+     "del",
+     "Dr"
+    ],
+    [
+     "eq",
+     "Rodger Shanahan was provided on August 5. What's next? The pair were"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0349,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9974,
+ "adjudicated_by": "rules"
+}
