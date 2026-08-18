@@ -1,0 +1,262 @@
+{
+ "id": "50aa17988d96c6b8-e58a929d-db458ef7",
+ "url": "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-18T06:54:02Z",
+ "date": "2026-08-18",
+ "old_title": "Japan's economy slows, missing growth forecasts",
+ "new_title": "Japan's economy slows, missing growth forecasts",
+ "old_text": "Japan's economy has slowed in the second quarter of the year amid moribund consumption and capital spending, according to official figures.\nGross domestic product (GDP) grew 0.3 percent in the April-June period from the first quarter, data released by Japan's Cabinet Office on Monday showed. It was the third consecutive expansion but was down from 0.5 percent growth in the previous quarter and missed the 0.5 percent growth analysts had forecast.\nRecommended Stories\nlist of 4 items\n- list 1 of 4Israeli settlers pitch tents for new illegal outpost in occupied West Bank\n- list 2 of 4Ebola outbreak in DR Congo becomes deadliest in country's history\n- list 3 of 4Zambia incumbent takes early election lead as opposition alleges armed raid\n- list 4 of 4Rare Pallas's cat captured on camera in northern Iran mountains\nOn an annualised basis, the world's fourth-largest economy expanded 1.1 percent.\nA survey of 37 economists conducted by the Japan Center for Economic Research, a think tank, had forecast an annualised expansion of 1.67 percent.\nPrivate consumption was flat in real terms while capital expenditures fell 1.2 percent, or 4.6 percent on an annualised basis, offsetting strong exports, according to the data.\nBroken down by component, net exports contributed 0.5 percentage points to GDP growth while domestic demand accounted for negative 0.2 percent.\nNorihiro Yamaguchi, lead economist for Japan at Oxford Economics, said he expected growth to be sluggish in the second half of 2026 as companies pass rising energy costs on to consumers.\n\"Although AI-related goods exports will continue to stay robust in the near term, sluggish non-AI-related global economic activities will limit overall export gains,\" Yamaguchi said in a note to clients.\nJapan imports almost all of its crude oil needs, leaving it exposed to elevated energy costs stemming from the fallout of the United States-Israel war on Iran.\nCost pressures on Japan's consumers have been exacerbated by the weakness of the Japanese yen, which last month hit a 40-year low against the US dollar.\nThe weaker-than-expected growth figures could complicate the Bank of Japan's (BOJ's) upcoming decision on interest rates in September amid its push to normalise monetary policy after decades of ultra-low and negative borrowing costs.\nThe BOJ in June raised its benchmark interest rate to 1 percent, its highest in more than three decades.\nThe central bank began to move away from an ultra-loose policy in 2024 when it announced its first rate hike since the 2008 global financial crisis.\nJapan's stock market rose on Monday with the benchmark Nikkei 225 up 0.3 percent as of 05:15 GMT.\nSouth Korea and Hong Kong's markets also made gains with the KOSPI up 2.4 percent and the Hang Seng Index 1.6 percent higher.",
+ "new_text": "Japan's economy slowed in the second quarter of the year amid moribund consumption and capital spending, according to official figures.\nGross domestic product (GDP) grew 0.3 percent in the April-June period from the first quarter, data released by Japan's Cabinet Office on Monday showed.\nRecommended Stories\nlist of 4 items\n- list 1 of 4Israeli settlers pitch tents for new illegal outpost in occupied West Bank\n- list 2 of 4Ebola outbreak in DR Congo becomes deadliest in country's history\n- list 3 of 4Zambia's president extends election lead as contested vote count continues\n- list 4 of 4Rare Pallas's cat captured on camera in northern Iran mountains\nIt was the third consecutive expansion but was down from 0.5 percent growth in the previous quarter and missed the 0.5 percent growth analysts had forecast.\nOn an annualised basis, the world's fourth-largest economy expanded 1.1 percent.\nA survey of 37 economists conducted by the Japan Center for Economic Research, a think tank, had forecast an annualised expansion of 1.67 percent.\nPrivate consumption was flat in real terms while capital expenditures fell 1.2 percent, or 4.6 percent on an annualised basis, offsetting strong exports, according to the data.\nBroken down by component, net exports contributed 0.5 percentage points to GDP growth while domestic demand accounted for negative 0.2 percent.\nNorihiro Yamaguchi, lead economist for Japan at Oxford Economics, said he expected growth to be sluggish in the second half of 2026 as companies pass rising energy costs on to consumers.\n\"Although AI-related goods exports will continue to stay robust in the near term, sluggish non-AI-related global economic activities will limit overall export gains,\" Yamaguchi said in a note to clients.\nJapan imports almost all of its crude oil needs, leaving it exposed to elevated energy costs stemming from the fallout of the United States-Israel war on Iran.\nCost pressures on Japan's consumers have been exacerbated by the weakness of the Japanese yen, which last month hit a 40-year low against the US dollar.\nThe weaker-than-expected growth figures could complicate the Bank of Japan's (BOJ) upcoming decision on interest rates, as it pushes ahead with normalising monetary policy after decades of ultra-low and negative borrowing costs.\nThe BOJ, which will hold its next policy meeting on September 17 and 18, in June raised its benchmark interest rate to 1 percent, its highest in more than three decades.\nAn interest rate hike in September could help alleviate the chronic weakness of the yen by reducing the large gap in borrowing costs between Japan and other major economies, especially the US.\nJapan's central bank began to move away from its ultra-loose monetary policy in 2024 when it announced its first rate hike since the 2008 global financial crisis.\nJapan's stock market rose on Monday amid a broader rally in Asia, with the benchmark Nikkei 225 finishing up more than 0.7 percent.\nSouth Korea's KOSPI gained 2.4 percent, while the Hang Seng Index in Hong Kong and the SSE Composite Index in Shanghai both climbed about 1.4 percent.\nIn Taiwan, the TAIEX closed up 0.1 percent.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Japan's economy"
+    ],
+    [
+     "del",
+     "has"
+    ],
+    [
+     "eq",
+     "slowed in the second quarter of the year amid moribund consumption and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the first quarter, data released by Japan's Cabinet Office on Monday showed."
+    ],
+    [
+     "del",
+     "It was the third consecutive expansion but was down from 0.5 percent growth in the previous quarter and missed the 0.5 percent growth analysts had forecast."
+    ],
+    [
+     "eq",
+     "Recommended Stories list of 4 items - list 1 of 4Israeli settlers"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "in DR Congo becomes deadliest in country's history - list 3 of"
+    ],
+    [
+     "del",
+     "4Zambia incumbent takes early"
+    ],
+    [
+     "ins",
+     "4Zambia's president extends"
+    ],
+    [
+     "eq",
+     "election lead as"
+    ],
+    [
+     "del",
+     "opposition alleges armed raid"
+    ],
+    [
+     "ins",
+     "contested vote count continues"
+    ],
+    [
+     "eq",
+     "- list 4 of 4Rare Pallas's cat captured on camera in northern Iran mountains"
+    ],
+    [
+     "ins",
+     "It was the third consecutive expansion but was down from 0.5 percent growth in the previous quarter and missed the 0.5 percent growth analysts had forecast."
+    ],
+    [
+     "eq",
+     "On an annualised basis, the world's fourth-largest economy expanded 1.1 percent. A"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "US dollar. The weaker-than-expected growth figures could complicate the Bank of Japan's"
+    ],
+    [
+     "del",
+     "(BOJ's)"
+    ],
+    [
+     "ins",
+     "(BOJ)"
+    ],
+    [
+     "eq",
+     "upcoming decision on interest"
+    ],
+    [
+     "del",
+     "rates in September amid its push to normalise"
+    ],
+    [
+     "ins",
+     "rates, as it pushes ahead with normalising"
+    ],
+    [
+     "eq",
+     "monetary policy after decades of ultra-low and negative borrowing costs. The"
+    ],
+    [
+     "del",
+     "BOJ"
+    ],
+    [
+     "ins",
+     "BOJ, which will hold its next policy meeting on September 17 and 18,"
+    ],
+    [
+     "eq",
+     "in June raised its benchmark interest rate to 1 percent, its highest in more than three decades."
+    ],
+    [
+     "del",
+     "The"
+    ],
+    [
+     "ins",
+     "An interest rate hike in September could help alleviate the chronic weakness of the yen by reducing the large gap in borrowing costs between Japan and other major economies, especially the US. Japan's"
+    ],
+    [
+     "eq",
+     "central bank began to move away from"
+    ],
+    [
+     "del",
+     "an"
+    ],
+    [
+     "ins",
+     "its"
+    ],
+    [
+     "eq",
+     "ultra-loose"
+    ],
+    [
+     "ins",
+     "monetary"
+    ],
+    [
+     "eq",
+     "policy in 2024 when it announced its first rate hike since the 2008 global financial crisis. Japan's stock market rose on Monday"
+    ],
+    [
+     "ins",
+     "amid a broader rally in Asia,"
+    ],
+    [
+     "eq",
+     "with the benchmark Nikkei 225"
+    ],
+    [
+     "ins",
+     "finishing"
+    ],
+    [
+     "eq",
+     "up"
+    ],
+    [
+     "del",
+     "0.3 percent as of 05:15 GMT."
+    ],
+    [
+     "ins",
+     "more than 0.7 percent."
+    ],
+    [
+     "eq",
+     "South"
+    ],
+    [
+     "del",
+     "Korea and Hong Kong's markets also made gains with the"
+    ],
+    [
+     "ins",
+     "Korea's"
+    ],
+    [
+     "eq",
+     "KOSPI"
+    ],
+    [
+     "del",
+     "up"
+    ],
+    [
+     "ins",
+     "gained"
+    ],
+    [
+     "eq",
+     "2.4"
+    ],
+    [
+     "del",
+     "percent and"
+    ],
+    [
+     "ins",
+     "percent, while"
+    ],
+    [
+     "eq",
+     "the Hang Seng Index"
+    ],
+    [
+     "del",
+     "1.6 percent higher."
+    ],
+    [
+     "ins",
+     "in Hong Kong and the SSE Composite Index in Shanghai both climbed about 1.4 percent. In Taiwan, the TAIEX closed up 0.1 percent."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4336,
+  "numbers_changed": [
+   "0.1",
+   "0.3",
+   "0.7",
+   "05",
+   "1.4",
+   "1.6",
+   "15",
+   "17",
+   "18"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9764,
+ "adjudicated_by": "rules"
+}

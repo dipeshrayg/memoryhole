@@ -1,0 +1,55 @@
+{
+ "id": "9b36558c5ef98398-e2198dde-f02f708d",
+ "url": "https://www.abc.net.au/news/2026-08-17/nsw-far-south-coast-man-admits-child-sex-abuse/107046856",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-18T06:57:04Z",
+ "date": "2026-08-18",
+ "old_title": "Former school worker admits to sexual abuse of children",
+ "new_title": "Former school worker admits to sexual abuse of children",
+ "old_text": "Former Far South Coast school worker admits to sexual abuse of children\nIn short:\nAfter the case was mentioned in court 21 times, a NSW Far South Coast man has pleaded guilty to sexually abusing six children between 2004 and 2014.\nThe man's lawyer said outside court that his client's guilty plea would be a \"huge relief\" for the victims.\nWhat's next?\nThe man will be sentenced in Bega in October.",
+ "new_text": "Former Far South Coast school worker admits to sexual abuse of children\nIn short:\nAfter the case was mentioned in court 21 times, a NSW Far South Coast man has pleaded guilty to sexually abusing six children between 2004 and 2017.\nThe man's lawyer said outside court that his client's guilty plea would be a \"huge relief\" for the victims.\nWhat's next?\nThe man will be sentenced in Bega in October.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "man has pleaded guilty to sexually abusing six children between 2004 and"
+    ],
+    [
+     "del",
+     "2014."
+    ],
+    [
+     "ins",
+     "2017."
+    ],
+    [
+     "eq",
+     "The man's lawyer said outside court that his client's guilty plea would"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0282,
+  "numbers_changed": [
+   "2014",
+   "2017"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9997,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,92 @@
+{
+ "id": "c94c6a90f115d018-dbcd1bc1-1c3df9b4",
+ "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260814-dr-congo-ebola-outbreak-spreads-to-sixth-province",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-18T06:55:46Z",
+ "date": "2026-08-18",
+ "old_title": "Eye on Africa - DR Congo Ebola outbreak spreads to sixth province",
+ "new_title": "Eye on Africa - DR Congo's Ebola outbreak spreads to sixth province",
+ "old_text": "DR Congo Ebola outbreak spreads to sixth province\nIssued on:\nIn tonight's edition: The Ebola outbreak in the Democratic Republic of Congo is spreading, with the virus now confirmed in a sixth province, raising fresh concerns about new infections and the challenges facing health teams. Meanwhile, the migration crisis between Morocco and Spain continues, as Moroccan authorities step up security around the border following the recent crossing of tens of thousands of people into Spain's North African enclave of Ceuta. And in Ivory Coast, a new dance craze called Biama is taking over the streets and social media, with the high-energy mix of coupé-décalé and Ivorian rap getting young people across the country on their feet.\nProduced by Clarisse Fortuné and Guillaume Gougeon",
+ "new_text": "DR Congo's Ebola outbreak spreads to sixth province\nIssued on:\nThe Ebola outbreak in the DR of Congo is spreading, with the virus now confirmed in a sixth province, raising fresh concerns about new infections and the challenges facing health teams. Meanwhile, the migration crisis between Morocco and Spain continues, as Moroccan authorities step up security around the border following the recent crossing of tens of thousands of people into Spain's North African enclave of Ceuta. And in Ivory Coast, a new dance craze called biama is taking over the streets and social media, with the high-energy mix of coupé-décalé and Ivorian rap getting young people across the country on their feet.\nProduced by Clarisse Fortuné and Guillaume Gougeon",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "DR"
+    ],
+    [
+     "del",
+     "Congo"
+    ],
+    [
+     "ins",
+     "Congo's"
+    ],
+    [
+     "eq",
+     "Ebola outbreak spreads to sixth province Issued on:"
+    ],
+    [
+     "del",
+     "In tonight's edition:"
+    ],
+    [
+     "eq",
+     "The Ebola outbreak in the"
+    ],
+    [
+     "del",
+     "Democratic Republic"
+    ],
+    [
+     "ins",
+     "DR"
+    ],
+    [
+     "eq",
+     "of Congo is spreading, with the virus now confirmed in a sixth"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "enclave of Ceuta. And in Ivory Coast, a new dance craze called"
+    ],
+    [
+     "del",
+     "Biama"
+    ],
+    [
+     "ins",
+     "biama"
+    ],
+    [
+     "eq",
+     "is taking over the streets and social media, with the high-energy mix"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0813,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9892,
+ "adjudicated_by": "rules"
+}

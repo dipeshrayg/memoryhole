@@ -1,0 +1,64 @@
+{
+ "id": "3680d72c23f9d33a-5eb66770-ae80e1a1",
+ "url": "https://www.abc.net.au/news/2026-08-17/one-nation-alleged-ekka-assault/107045782",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-18T06:57:02Z",
+ "date": "2026-08-18",
+ "old_title": "One Nation claims staffer left hospitalised after assault",
+ "new_title": "One Nation says staffer left hospitalised after assault",
+ "old_text": "A One Nation staffer was injured during an assault at the Royal Queensland Show on Friday, according to the party.\nOne Nation chief of staff James Ashby told 4BC a staffer in her 60s was on her way to the party's stall when she was verbally assaulted by three women and a man, before the situation escalated and the staffer was punched in the ribs.\n\"She now has one broken rib, she's got enormous bruising and she's had to go through the unedifying process of having to strip down in front of police so that they can take photographs of her injuries,\" Mr Ashby said.\nHe said the staffer had been released from the hospital over the weekend.\nIn a social media post, the party said a \"much-valued female member of the One Nation team was physically assaulted by a group of three young women and one young man at the Ekka festival in Brisbane, leading to a broken rib\".\n\"One Nation would like to condemn this violent attack in the strongest possible terms. The attackers should be ashamed of themselves,\" the statement read.\n\"The matter is with the Queensland Police and is currently being investigated.\"\nQueensland Police Service said it was aware of the allegations, but had not received a formal complaint.\nMr Ashby said it was his opinion the staffer had been targeted due to her One Nation shirt.\n\"These are the same young women who demand respect for women, especially when it comes to domestic violence, and yet they stood by, spat on her and allowed their male counterpart to lay vicious blows on her to break a rib,\" he said.\nHe told the AAP the woman was \"set upon with foul language\" after walking through the gates.\n\"She ignored them, and as she continued walking they called her an ignorant (expletive) and that's when they set upon her.\"\nThe staffer was recovering after being hospitalised but was badly bruised and shaken, Mr Ashby said.\n\"She's really shaken and extremely sore. Broken ribs aren't fun,\" Mr Ashby said.\n\"I don't want any of my staff feeling that way.\"\nQueensland Ambulance Service said it had no record of ambulances dispatched to the Ekka for a woman in her 60s with injured ribs on either Thursday or Friday.\nRNA chief executive Brendan Christou said the organisation had been made aware of an alleged incident by Queensland police.\n\"The safety and wellbeing of our visitors, exhibitors, staff and everyone involved in the Show is our highest priority, and this allegation is extremely concerning,\" he said.\n\"The Ekka is a family-friendly event and we do not condone any form of violence.\"\nHe said the RNA will assist police in any inquiries.",
+ "new_text": "A One Nation staffer was injured during an assault at the Royal Queensland Show in Brisbane on Friday, according to the party.\nOne Nation chief of staff James Ashby told 4BC a staffer in her 60s was on her way to the party's stall when she was verbally assaulted by three women and a man, before the situation escalated and the staffer was punched in the ribs.\n\"She now has one broken rib, she's got enormous bruising and she's had to go through the unedifying process of having to strip down in front of police so that they can take photographs of her injuries,\" Mr Ashby said.\nHe said the staffer had been released from the hospital over the weekend.\nIn a social media post, the party said a \"much-valued female member of the One Nation team was physically assaulted by a group of three young women and one young man at the Ekka festival in Brisbane, leading to a broken rib\".\n\"One Nation would like to condemn this violent attack in the strongest possible terms. The attackers should be ashamed of themselves,\" the statement read.\n\"The matter is with the Queensland Police and is currently being investigated.\"\nQueensland Police Service said it was aware of the allegations, but had not received a formal complaint.\nMr Ashby said it was his opinion the staffer had been targeted due to her One Nation shirt.\n\"These are the same young women who demand respect for women, especially when it comes to domestic violence, and yet they stood by, spat on her and allowed their male counterpart to lay vicious blows on her to break a rib,\" he said.\nHe told the AAP the woman was \"set upon with foul language\" after walking through the gates.\n\"She ignored them, and as she continued walking they called her an ignorant (expletive) and that's when they set upon her.\"\nThe staffer was recovering after being hospitalised but was badly bruised and shaken, Mr Ashby said.\n\"She's really shaken and extremely sore. Broken ribs aren't fun,\" Mr Ashby said.\n\"I don't want any of my staff feeling that way.\"\nQueensland Ambulance Service said it had no record of ambulances dispatched to the Ekka for a woman in her 60s with injured ribs on either Thursday or Friday.\nOne Nation MP Barnaby Joyce told reporters today the party had been in contact with the woman.\n\"This is not made up,\" he said. \"This person was spat on, they were punched, they have a broken rib.\n\"We have got to really, within this space, call it for what it is. This is completely outrageous.\"\nRNA chief executive Brendan Christou said the organisation had been made aware of an alleged incident by Queensland police.\n\"The safety and wellbeing of our visitors, exhibitors, staff and everyone involved in the Show is our highest priority, and this allegation is extremely concerning,\" he said.\n\"The Ekka is a family-friendly event and we do not condone any form of violence.\"\nHe said the RNA will assist police in any inquiries.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Nation staffer was injured during an assault at the Royal Queensland Show"
+    ],
+    [
+     "ins",
+     "in Brisbane"
+    ],
+    [
+     "eq",
+     "on Friday, according to the party. One Nation chief of staff James"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "woman in her 60s with injured ribs on either Thursday or Friday."
+    ],
+    [
+     "ins",
+     "One Nation MP Barnaby Joyce told reporters today the party had been in contact with the woman. \"This is not made up,\" he said. \"This person was spat on, they were punched, they have a broken rib. \"We have got to really, within this space, call it for what it is. This is completely outrageous.\""
+    ],
+    [
+     "eq",
+     "RNA chief executive Brendan Christou said the organisation had been made aware"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1267,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.15,
+ "similarity": 0.9959,
+ "adjudicated_by": "rules"
+}

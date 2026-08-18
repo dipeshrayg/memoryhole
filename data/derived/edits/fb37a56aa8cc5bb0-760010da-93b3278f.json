@@ -1,0 +1,79 @@
+{
+ "id": "fb37a56aa8cc5bb0-760010da-93b3278f",
+ "url": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-18T06:53:04Z",
+ "date": "2026-08-18",
+ "old_title": "Multiple people dead as flooding continues in Indiana",
+ "new_title": "Multiple people dead as flooding continues in Indiana",
+ "old_text": "Multiple people dead as flooding continues in Indiana\nAt least seven people across multiple counties in Indiana have died related to historic flooding. While some of the worst hit areas are beginning to recover, severe weather is expected to impact the region on Sunday.\nSome parts of the state received more than 11 inches of rainfall over three days, beginning Aug. 11, according to a preliminary report issued by the National Weather Service.\nThunderstorms are expected to move across central Indiana late Sunday evening and could cause additional flooding in areas already impacted by the storms, according to the National Weather Service.\nIndianapolis Mayor Joe Hogsett on Saturday said on social media that the city is experiencing \"its most severe flooding in 30+ years.\" But flood waters have now started to recede and the city has reopened some of the flood gates, according to the Indianapolis Department of Public Works.\n\"Engineering will closely monitor our flood-control infrastructure (levees, control gates, etc.) to ensure it continues to operate as anticipated. Crews are working to clear debris blockages of natural flow and monitor flood gates,\" the department said in a Sunday morning update. \"As the water levels recede, crews will continue to complete regular checks on infrastructure, and make further determinations on additional gate openings.\"\nFlooding is expected to continue along the White River in Anderson, Ind., which rose to a record 24.9 feet, and along the Wabash River and the East Fork White River.\nMore than 128,000 people across the state were without power as of Sunday afternoon, according to NIPSCO, the local power company.\nAs crews work to make repairs, communities are coming together to help one another.\nOn Sunday, hundreds of people gathered at a volleyball court in Rocky Ripple, a town northwest of Indianapolis, with shovels and sandbags to help reinforce the town's levee, according to NPR Member Station WFYI. Margaret Brabant, a resident of Rocky Ripple since 1992, wore a yellow life jacket as she directed cars of people who arrived to help.\n\"This is pretty overwhelming, because the generosity is just stunning,\" Brabant told WFYI.\nPresident Donald Trump on Saturday approved an emergency declaration for Indiana, which allows the Federal Emergency Management Agency to assist with recovery efforts from the storm.\nThunderstorms are expected to bring heavy rainfall and possible flooding to West Virginia on Sunday, the National Weather Service also said.\nNPR's Laura Sullivan contributed to this report.",
+ "new_text": "Multiple people dead as flooding continues in Indiana\nAt least seven people across multiple counties in Indiana have died related to historic flooding. While some of the worst hit areas are beginning to recover, severe weather is expected to impact the region on Sunday.\nSome parts of the state received more than 11 inches of rainfall over three days, beginning Aug. 11, according to a preliminary report issued by the National Weather Service.\nThunderstorms are expected to move across central Indiana late Sunday evening and could cause additional flooding in areas already impacted by the storms, according to the National Weather Service.\nIndianapolis Mayor Joe Hogsett on Saturday said on social media that the city is experiencing \"its most severe flooding in 30+ years.\" But flood waters have now started to recede and the city has reopened some of the flood gates, according to the Indianapolis Department of Public Works.\n\"Engineering will closely monitor our flood-control infrastructure (levees, control gates, etc.) to ensure it continues to operate as anticipated. Crews are working to clear debris blockages of natural flow and monitor flood gates,\" the department said in a Sunday morning update. \"As the water levels recede, crews will continue to complete regular checks on infrastructure, and make further determinations on additional gate openings.\"\nFlooding is expected to continue along the White River in Anderson, Ind., which rose to a record 24.9 feet, and along the Wabash River and the East Fork White River.\nMore than 128,000 people across the state were without power as of Sunday afternoon, according to NIPSCO, the local power company.\nAs crews work to make repairs, communities are coming together to help one another.\nOn Sunday, hundreds of people gathered at a volleyball court in Rocky Ripple, a town located inside the city of Indianapolis, with shovels and sandbags to help reinforce the town's levee, according to NPR member station WFYI. Margaret Brabant, a resident of Rocky Ripple since 1992, wore a yellow life jacket as she directed cars of people who arrived to help.\n\"This is pretty overwhelming, because the generosity is just stunning,\" Brabant told WFYI.\nPresident Donald Trump on Saturday approved an emergency declaration for Indiana, which allows the Federal Emergency Management Agency to assist with recovery efforts from the storm.\nThunderstorms are expected to bring heavy rainfall and possible flooding to West Virginia on Sunday, the National Weather Service also said.\nNPR's Laura Sullivan contributed to this report.\nCorrection Aug. 17, 2026\nA previous version of this story incorrectly said that Rocky Ripple is a town northwest of Indianapolis. In fact, it is a town located within the city of Indianapolis.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "of people gathered at a volleyball court in Rocky Ripple, a town"
+    ],
+    [
+     "del",
+     "northwest"
+    ],
+    [
+     "ins",
+     "located inside the city"
+    ],
+    [
+     "eq",
+     "of Indianapolis, with shovels and sandbags to help reinforce the town's levee, according to NPR"
+    ],
+    [
+     "del",
+     "Member Station"
+    ],
+    [
+     "ins",
+     "member station"
+    ],
+    [
+     "eq",
+     "WFYI. Margaret Brabant, a resident of Rocky Ripple since 1992, wore a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "National Weather Service also said. NPR's Laura Sullivan contributed to this report."
+    ],
+    [
+     "ins",
+     "Correction Aug. 17, 2026 A previous version of this story incorrectly said that Rocky Ripple is a town northwest of Indianapolis. In fact, it is a town located within the city of Indianapolis."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1042,
+  "numbers_changed": [
+   "17",
+   "2026"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

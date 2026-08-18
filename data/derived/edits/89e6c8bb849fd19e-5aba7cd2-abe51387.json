@@ -1,0 +1,48 @@
+{
+ "id": "89e6c8bb849fd19e-5aba7cd2-abe51387",
+ "url": "https://www.theguardian.com/business/2026/aug/14/thames-water-desalination-plant-reservoir-drought",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-18T07:02:02Z",
+ "date": "2026-08-18",
+ "old_title": "Thames Water plans to restart desalination plant - after drought has ended",
+ "new_title": "Thames Water plans to restart desalination plant - after drought has ended",
+ "old_text": "Thames Water is preparing the UK's only desalination plant to restart operations later this year - but it will not be ready until the winter, long after the current drought is likely to have passed.\nThe utility company said that it was hoping to start operating its plant in Beckton, east London, \"by the end of the year\", in order to help build up reservoir supplies over the winter for next summer.\nWater companies across the UK have imposed hosepipe bans as they try to conserve supplies, with much of the country enduring a fifth heatwave that is worsening drought conditions.\nThe Beckton plant has only ever run five times, providing just 7.2bn litres of drinking water or about seven days' worth of the capital's daily demand over 15 years.\nDesalination plants are widely used in the Middle East to provide drinking water. Yet the desalination plant in Beckton has long been regarded as a white elephant.\nThames Water, which supplies 16 million customers in London and the Thames valley, fully opened the plant in 2011, spending an initial £270m to install it. It was designed to use seawater from the Thames estuary in times of drought. However, for the past 15 years it has barely operated. The total cost of the plant is now counted at £500m, providing a meagre return for customers who funded it through their bills.\nThames Water's performance during the drought will be closely scrutinised, with the prime minister, Andy Burnham, due to decide the company's future in the coming weeks.\nA Thames Water spokesperson said: \"Preparations are under way at the Thames Gateway water treatment works in Beckton, east London, so it can be brought online by the end of the year, if needed, to help support reservoir recovery over the winter.\n\"Any decision to use the desalination plant will depend on weather conditions, demand, and reservoir levels in the coming weeks.\"\nBurnham on Thursday said he was angry and that water customers were not a \"bottomless source of funding\" after 13 companies were allowed to increase bills to fund extra projects. Thames Water was one of five companies permitted to raise bills in the next four years.\nHowever, operating the Beckton plant may not be financially attractive for Thames Water, given the high cost of electricity. Thames Water is already under severe financial pressure. Its creditors have effectively been in control of the business for two years, but they are seeking leeway from the government on fines for pollution before formally taking over.\nChris Weston, Thames Water's chief executive, last year told MPs on the environment committee that the Beckton plant had serious problems. The company's engineers were \"working very hard to try to make it work\", he said.\nThe plant relies on treatment membranes to allow water but not salt to pass through. Weston said the membranes were last year at the end of their life, but the company was unable to replace them because there was no testing facility they could use on the new ones.\n\"The desalination plant is a big problem for us,\" Weston said. \"I wonder why it was built in the first place. It is not a good story, it was not a good investment, and there are no excuses about it.\"\nMPs have expressed frustration in recent years that the plant has not been available to provide drinking water during heatwaves.\nOperating the plant in cooler temperatures could, however, prove more financially viable if wind power is in abundance and there is less strain on the grid, meaning electricity prices could be lower.",
+ "new_text": "Thames Water is preparing the UK's only mainland desalination plant to restart operations later this year - but it will not be ready until the winter, long after the current drought is likely to have passed.\nThe utility company said that it was hoping to start operating its plant in Beckton, east London, \"by the end of the year\", in order to help build up reservoir supplies over the winter for next summer.\nWater companies across the UK have imposed hosepipe bans as they try to conserve supplies, with much of the country enduring a fifth heatwave that is worsening drought conditions.\nThe Beckton plant has only ever run five times, providing just 7.2bn litres of drinking water or about seven days' worth of the capital's daily demand over 15 years.\nDesalination plants are widely used in the Middle East to provide drinking water. Yet the desalination plant in Beckton has long been regarded as a white elephant.\nThames Water, which supplies 16 million customers in London and the Thames valley, fully opened the plant in 2011, spending an initial £270m to install it. It was designed to use seawater from the Thames estuary in times of drought. However, for the past 15 years it has barely operated. The total cost of the plant is now counted at £500m, providing a meagre return for customers who funded it through their bills.\nThames Water's performance during the drought will be closely scrutinised, with the prime minister, Andy Burnham, due to decide the company's future in the coming weeks.\nA Thames Water spokesperson said: \"Preparations are under way at the Thames Gateway water treatment works in Beckton, east London, so it can be brought online by the end of the year, if needed, to help support reservoir recovery over the winter.\n\"Any decision to use the desalination plant will depend on weather conditions, demand, and reservoir levels in the coming weeks.\"\nBurnham on Thursday said he was angry and that water customers were not a \"bottomless source of funding\" after 13 companies were allowed to increase bills to fund extra projects. Thames Water was one of five companies permitted to raise bills in the next four years.\nHowever, operating the Beckton plant may not be financially attractive for Thames Water, given the high cost of electricity. Thames Water is already under severe financial pressure. Its creditors have effectively been in control of the business for two years, but they are seeking leeway from the government on fines for pollution before formally taking over.\nChris Weston, Thames Water's chief executive, last year told MPs on the environment committee that the Beckton plant had serious problems. The company's engineers were \"working very hard to try to make it work\", he said.\nThe plant relies on treatment membranes to allow water but not salt to pass through. Weston said the membranes were last year at the end of their life, but the company was unable to replace them because there was no testing facility they could use on the new ones.\n\"The desalination plant is a big problem for us,\" Weston said. \"I wonder why it was built in the first place. It is not a good story, it was not a good investment, and there are no excuses about it.\"\nMPs have expressed frustration in recent years that the plant has not been available to provide drinking water during heatwaves.\nOperating the plant in cooler temperatures could, however, prove more financially viable if wind power is in abundance and there is less strain on the grid, meaning electricity prices could be lower.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Thames Water is preparing the UK's only"
+    ],
+    [
+     "ins",
+     "mainland"
+    ],
+    [
+     "eq",
+     "desalination plant to restart operations later this year - but it will"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0017,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 0.9989,
+ "adjudicated_by": "rules"
+}

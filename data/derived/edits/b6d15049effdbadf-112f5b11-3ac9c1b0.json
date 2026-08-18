@@ -1,0 +1,159 @@
+{
+ "id": "b6d15049effdbadf-112f5b11-3ac9c1b0",
+ "url": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-18T06:52:00Z",
+ "date": "2026-08-18",
+ "old_title": "UK to turn cooler with rain after exceptional heat and dry spell",
+ "new_title": "UK to turn cooler with rain after exceptional heat and dry spell",
+ "old_text": "- Published\nUK weather patterns are set to change, following a record-breaking summer of extreme heat and prolonged dry weather.\nWisley in Surrey has now notched up 60 days with no recorded rainfall. Significant rain has been lacking elsewhere with most areas of England and Wales in drought.\nThere is some welcome rain forecast this week, though it's not likely to be significant or bring any change to the dry conditions.\nIt will also turn noticeably cooler in the coming days with temperatures falling below average across the UK.\nHigh pressure has been dominant this summer leading to hot and dry weather, particularly across England and Wales.\nThere's been no significant rain in southern England for around two months which has led water levels in our rivers and reservoirs to drop significantly. All of Wales and most of England are in drought.\nHowever, through this week high pressure will be replaced by the influence of low pressure and more unsettled conditions.\nSome light rain is likely on Monday, mostly across northern areas of the UK.\nInto Tuesday and Wednesday this will turn heavier and start to move into southern England.\nWhile rain is therefore finally going to fall across the south, it may become more showery. This means the exact location and distribution of rainfall is still uncertain.\nAnd while of course any rain will be welcome, it won't bring much improvement to conditions.\nIt will take weeks of above average rainfall into the autumn to make any significant changes to the drought.\nHowever, it is likely to make a big difference to the emergency services who have been battling against the extreme weather and wildfires over the last few weeks.\nThe fire severity index - how severe a fire could be, should one start - will come down to low or moderate, according to forecasts from Natural England and the Met Office.\nTurning much cooler\nOn Saturday the temperature peaked at 30.6C in southern England, making it the 40th day somewhere in the UK over 30C this year.\nIt's looking unlikely temperatures will peak this high again for the rest of the summer, which meteorologically ends on 31 August.\nTemperatures on Monday and Tuesday will still be above average across England and Wales with highs of 20 to 26C.\nBut they will drop during the rest of the week as a mostly northerly airflow starts to have more influence.\nBy the end of the week, temperatures across the UK will be around 2 to 4 C below average. Something we haven't seen much - if really at all - this summer.\nAcross Scotland and Northern Ireland temperatures will be around 14-17C and for England and Wales, 17-21C.\nNights will become much cooler, and in some part, even colder, too.\nBy Friday morning temperatures will be in single figures and as low as 3 or 4 C in parts of southern England.\nThis drop in temperature might come as a bit of a shock for some after being accustomed to the hotter-than-average weather we've seen for weeks.\nThere are no real signs of any hot spells or heatwaves returning.\nAs for the beginning of September, which ushers in the start of autumn, there are some indications of a bit of warmth returning, though there is still a lot of uncertainty in the forecast computer models.\nYou can keep up to date with the longer-range forecast in the monthly outlook.",
+ "new_text": "- Published\nUK weather patterns are set to change, following a record-breaking summer of extreme heat and prolonged dry weather.\nWisley in Surrey has notched up 60 days with no recorded rainfall. Significant rain has been lacking elsewhere with most areas of England and Wales in drought.\nThere is some welcome rain forecast this week, though it's not likely to be significant or bring any change to the dry conditions.\nIt will also turn noticeably cooler in the coming days with temperatures falling below average across the UK.\nHigh pressure has been dominant this summer leading to hot and dry weather, particularly across England and Wales.\nThere's been no significant rain in southern England for around two months which has led water levels in our rivers and reservoirs to drop significantly. All of Wales and most of England are in drought.\nHowever, through this week high pressure will be replaced by the influence of low pressure and more unsettled conditions.\nSome light rain is likely on Monday, mostly across northern areas of the UK.\nInto Tuesday and Wednesday this will turn heavier and start to move into southern England.\nWhile rain is therefore finally going to fall across the south, it may become more showery. This means the exact location and distribution of rainfall is still uncertain.\nAnd while of course any rain will be welcome, it won't bring much improvement to conditions.\nIt will take weeks of above average rainfall into the autumn to make any significant changes to the drought.\nHowever, it is likely to make a big difference to the emergency services who have been battling against the extreme weather and wildfires over the last few weeks.\nThe fire severity index - how severe a fire could be, should one start - will come down to low or moderate, according to forecasts from Natural England and the Met Office.\nTurning much cooler\nOn Saturday the temperature peaked at 30.6C in southern England, making it the 40th day somewhere in the UK over 30C this year.\nIt's looking unlikely temperatures will peak this high again for the rest of the summer, which meteorologically ends on 31 August.\nTemperatures on Monday and Tuesday will still be above average across England and Wales with highs of 20 to 26C.\nBut they will drop during the rest of the week as a mostly northerly airflow starts to have more influence.\nBy the end of the week, temperatures across the UK will be around 2 to 4C below average. Something we haven't seen much - if really at all - this summer.\nAcross Scotland and Northern Ireland temperatures will be around 14-17C and for England and Wales, 17-21C.\nNights will become much cooler, and in some part, even colder, too.\nBy Friday morning temperatures will be in single figures - sheltered valleys in the Brecon Beacons could see 3 or 4C, whilst in the Cotswolds 5 or 6C is in the forecast.\nThis drop in temperature might come as a bit of a shock for some after being accustomed to the hotter-than-average weather we've seen for weeks.\nWill there be a September heatwave?\nCurrently there are no real signs of any hot spells or heatwaves returning in August.\nAs for the beginning of September, which ushers in the start of autumn, there are some indications of some warmth returning, though there is still a lot of uncertainty in the forecast computer models.\nYou can keep up to date with the longer-range forecast in the monthly outlook.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "summer of extreme heat and prolonged dry weather. Wisley in Surrey has"
+    ],
+    [
+     "del",
+     "now"
+    ],
+    [
+     "eq",
+     "notched up 60 days with no recorded rainfall. Significant rain has been"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of the week, temperatures across the UK will be around 2 to"
+    ],
+    [
+     "del",
+     "4 C"
+    ],
+    [
+     "ins",
+     "4C"
+    ],
+    [
+     "eq",
+     "below average. Something we haven't seen much - if really at all"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "even colder, too. By Friday morning temperatures will be in single figures"
+    ],
+    [
+     "del",
+     "and as low as"
+    ],
+    [
+     "ins",
+     "- sheltered valleys in the Brecon Beacons could see"
+    ],
+    [
+     "eq",
+     "3 or"
+    ],
+    [
+     "del",
+     "4 C"
+    ],
+    [
+     "ins",
+     "4C, whilst"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "parts of southern England."
+    ],
+    [
+     "ins",
+     "the Cotswolds 5 or 6C is in the forecast."
+    ],
+    [
+     "eq",
+     "This drop in temperature might come as a bit of a shock"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "some after being accustomed to the hotter-than-average weather we've seen for weeks."
+    ],
+    [
+     "del",
+     "There"
+    ],
+    [
+     "ins",
+     "Will there be a September heatwave? Currently there"
+    ],
+    [
+     "eq",
+     "are no real signs of any hot spells or heatwaves"
+    ],
+    [
+     "del",
+     "returning."
+    ],
+    [
+     "ins",
+     "returning in August."
+    ],
+    [
+     "eq",
+     "As for the beginning of September, which ushers in the start of autumn, there are some indications of"
+    ],
+    [
+     "del",
+     "a bit of"
+    ],
+    [
+     "ins",
+     "some"
+    ],
+    [
+     "eq",
+     "warmth returning, though there is still a lot of uncertainty in the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0896,
+  "numbers_changed": [
+   "5",
+   "6"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9956,
+ "adjudicated_by": "rules"
+}

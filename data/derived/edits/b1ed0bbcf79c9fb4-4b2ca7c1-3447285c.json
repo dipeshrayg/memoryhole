@@ -1,0 +1,157 @@
+{
+ "id": "b1ed0bbcf79c9fb4-4b2ca7c1-3447285c",
+ "url": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-18T06:56:03Z",
+ "date": "2026-08-18",
+ "old_title": "Middle East live: US envoy Kushner to meet Netanyahu after talks with Hamas",
+ "new_title": "Trump threatens to bomb Oman if it 'gets in the way' of Hormuz shipping deal",
+ "old_text": "Middle East live: US envoy Kushner to meet Netanyahu after talks with Hamas\nUS envoy Jared Kushner on Monday meets Israeli Prime Minister Benjamin Netanyahu following talks with Hamas leaders in Egypt aimed at reviving a US-backed Gaza peace plan that Israel has so far rejected. Follow our live blog for the latest updates.\nYesterday's developments:\n- US negotiator and President Donald Trump 's son-in-law Jared Kushner held a rare meeting with the Hamas chief on Sunday in a new diplomatic effort to make progress in the stalled Gaza ceasefire. Kushner will meet on Monday with Israel's prime minister, who is under pressure after rejecting the new 15-point, US-backed roadmap.\n- An extremist Israeli lawmaker in Prime Minister Benjamin Netanyahu's coalition publicly advocated for killing \"30 to 40 people\" in Gaza each night, comments that surfaced Sunday and were quickly shared by Palestinian media.\n- The top US military commander in the Middle East praised the leadership of the long-deployed USS Lincoln after visiting the sailors on the vessel during a regional tour that ended on Saturday, the US Central Command said.",
+ "new_text": "Trump threatens to bomb Oman if it 'gets in the way' of Hormuz shipping deal\nUS President Donald Trump on Monday threatened to bomb Oman if it \"gets in the way\" of a deal over shipping in the Strait of Hormuz. His threat came after the prime minister's office in Iraqi Kurdistan was targeted by two Iranian drones overnight, authorities said Monday. Follow our liveblog to see how the day's events unfolded.\nThis liveblog is no longer being updated.\nYesterday's developments:\n- US negotiator and President Donald Trump 's son-in-law Jared Kushner held a rare meeting with the Hamas chief on Sunday in a new diplomatic effort to make progress in the stalled Gaza ceasefire ahead of Monday's meeting with Israel's prime minister, who is under pressure after rejecting the new 15-point, US-backed roadmap.\n- An extremist Israeli lawmaker in Prime Minister Benjamin Netanyahu's coalition publicly advocated for killing \"30 to 40 people\" in Gaza each night, comments that surfaced Sunday and were quickly shared by Palestinian media.\n- The top US military commander in the Middle East praised the leadership of the long-deployed USS Lincoln after visiting the sailors on the vessel during a regional tour that ended on Saturday, the US Central Command said.\n- Iran's military announced it was offering a bounty equivalent to $30,000 for killing or capturing US soldiers, with the reward doubled if carried out by a woman.\n(FRANCE 24 with AFP, AP and Reuters)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Middle East live:"
+    ],
+    [
+     "ins",
+     "Trump threatens to bomb Oman if it 'gets in the way' of Hormuz shipping deal"
+    ],
+    [
+     "eq",
+     "US"
+    ],
+    [
+     "del",
+     "envoy Kushner to meet Netanyahu after talks with Hamas US envoy Jared Kushner"
+    ],
+    [
+     "ins",
+     "President Donald Trump"
+    ],
+    [
+     "eq",
+     "on Monday"
+    ],
+    [
+     "del",
+     "meets Israeli Prime Minister Benjamin Netanyahu following talks with Hamas leaders"
+    ],
+    [
+     "ins",
+     "threatened to bomb Oman if it \"gets"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "Egypt aimed at reviving"
+    ],
+    [
+     "ins",
+     "the way\" of"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "US-backed Gaza peace plan that Israel has so far rejected."
+    ],
+    [
+     "ins",
+     "deal over shipping in the Strait of Hormuz. His threat came after the prime minister's office in Iraqi Kurdistan was targeted by two Iranian drones overnight, authorities said Monday."
+    ],
+    [
+     "eq",
+     "Follow our"
+    ],
+    [
+     "del",
+     "live blog for"
+    ],
+    [
+     "ins",
+     "liveblog to see how"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "latest updates."
+    ],
+    [
+     "ins",
+     "day's events unfolded. This liveblog is no longer being updated."
+    ],
+    [
+     "eq",
+     "Yesterday's developments: - US negotiator and President Donald Trump 's son-in-law Jared"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "in a new diplomatic effort to make progress in the stalled Gaza"
+    ],
+    [
+     "del",
+     "ceasefire. Kushner will meet on Monday"
+    ],
+    [
+     "ins",
+     "ceasefire ahead of Monday's meeting"
+    ],
+    [
+     "eq",
+     "with Israel's prime minister, who is under pressure after rejecting the new"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "a regional tour that ended on Saturday, the US Central Command said."
+    ],
+    [
+     "ins",
+     "- Iran's military announced it was offering a bounty equivalent to $30,000 for killing or capturing US soldiers, with the reward doubled if carried out by a woman. (FRANCE 24 with AFP, AP and Reuters)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.8956,
+  "numbers_changed": [
+   "24",
+   "30,000"
+  ],
+  "market_figures_changed": [
+   "$30,000"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.034,
+ "similarity": 0.8226,
+ "adjudicated_by": "rules"
+}

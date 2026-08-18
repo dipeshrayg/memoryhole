@@ -1,0 +1,136 @@
+{
+ "id": "1836481ef0bc97ef-0d54e41e-59752f51",
+ "url": "https://www.dw.com/en/us-actress-hayden-panettiere-dies-at-36/a-78391169?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-18T06:55:03Z",
+ "date": "2026-08-18",
+ "old_title": "US actress Hayden Panettiere dies at 36",
+ "new_title": "US actress Hayden Panettiere dies at 36",
+ "old_text": "Hayden Panettiere, best known for her roles in US TV shows \"Heroes\" and \"Nashville,\" has died aged 36, US media reports said.\n\"It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her - and to the millions who watched her onscreen,\" Panettiere's father, Skip, was quoted by ABC news as saying.\nThe cause of Panettiere's death has not yet been announced. Her father has urged for privacy.\nShe would have turned 37 on Friday,\nWho was Hayden Panettiere?\nPanettiere began her career as a child actor, featuring in commercials and soap operas.\nShe gained widespread recognition as the voice of Dot, the young princess ant in Pixar's 1998 animated success \"A Bug's Life.\"\nShe earned a Grammy nomination for the film's children's spoken word album recorded a few years after its release.\nPanettiere catapulted to fame with her role as Claire Bennett - a high school cheerleader with super powers - on NBC's television series \"Heroes,\" which debuted in 2006 and went on to be a hit.\nShe also starred as up-and-coming country singer Juliette Barnes for six seasons on the musical drama \"Nashville.\"\nPanettiere also worked in two films of the satirical horror \"Scream\" franchise, \"Bring It On: All Or Nothing,\" \"I Love You Beth Cooper\" and \"Remember the Titans.\"\nHer last appearance was in the psychological thriller \"Sleepwalker,\" which released in the US in January this year.\nPanettiere was vocal about her struggles\nPanettiere was open about her struggles with alcohol addiction and depression.\nShe revealed that she had had dealt with addiction through her 20s.\nHer younger brother - actor Jansen Panettiere - died in 2023 at 28 due to a heart condition.\nHayden's memoir was published earlier this year, where she spoke about her battle with mental health, the loss of her brother, and her decision to give full custody of her daughter to her former partner, Ukrainian boxer Wladimir Klitschko.\nEdited by: Natalie Muller\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "new_text": "Hayden Panettiere, best known for her roles in US TV shows \"Heroes\" and \"Nashville,\" has died aged 36, US media reports said.\n\"It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her - and to the millions who watched her onscreen,\" Panettiere's father, Skip, was quoted by ABC news as saying.\nThe cause of Panettiere's death has not yet been announced. Her father has urged for privacy.\nShe would have turned 37 on Friday.\nWho was Hayden Panettiere?\nPanettiere began her career as a child actor, featuring in commercials and soap operas.\nShe gained widespread recognition as the voice of Dot, the young princess ant in Pixar's 1998 animated success \"A Bug's Life,\" and earned a Grammy nomination for the film's spoken word album for children.\nPanettiere catapulted to fame with her role as Claire Bennett - a high school cheerleader with super powers - on NBC's television series \"Heroes,\" which debuted in 2006 and went on to be a hit.\nShe also starred as up-and-coming country singer Juliette Barnes for six seasons on the musical drama \"Nashville.\"\nPanettiere also worked in two films of the horror \"Scream\" franchise, \"Bring It On: All Or Nothing,\" \"I Love You Beth Cooper\" and \"Remember the Titans.\"\nHer last appearance was in the psychological thriller \"Sleepwalker,\" which was released in the US in January.\nPanettiere was vocal about her struggles\nPanettiere was open about her struggles with alcohol addiction and depression.\nShe revealed that she had had dealt with addiction through her 20s.\nHer younger brother - actor Jansen Panettiere - died in 2023 at 28 due to a heart condition.\nHayden's memoir was published earlier this year, where she spoke about her battle with mental health, the loss of her brother, and her decision to give full custody of her daughter to her former partner, Ukrainian boxer Wladimir Klitschko.\nEdited by: Natalie Muller\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Her father has urged for privacy. She would have turned 37 on"
+    ],
+    [
+     "del",
+     "Friday,"
+    ],
+    [
+     "ins",
+     "Friday."
+    ],
+    [
+     "eq",
+     "Who was Hayden Panettiere? Panettiere began her career as a child actor,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Dot, the young princess ant in Pixar's 1998 animated success \"A Bug's"
+    ],
+    [
+     "del",
+     "Life.\" She"
+    ],
+    [
+     "ins",
+     "Life,\" and"
+    ],
+    [
+     "eq",
+     "earned a Grammy nomination for the film's"
+    ],
+    [
+     "del",
+     "children's"
+    ],
+    [
+     "eq",
+     "spoken word album"
+    ],
+    [
+     "del",
+     "recorded a few years after its release."
+    ],
+    [
+     "ins",
+     "for children."
+    ],
+    [
+     "eq",
+     "Panettiere catapulted to fame with her role as Claire Bennett - a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the musical drama \"Nashville.\" Panettiere also worked in two films of the"
+    ],
+    [
+     "del",
+     "satirical"
+    ],
+    [
+     "eq",
+     "horror \"Scream\" franchise, \"Bring It On: All Or Nothing,\" \"I Love You"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the Titans.\" Her last appearance was in the psychological thriller \"Sleepwalker,\" which"
+    ],
+    [
+     "ins",
+     "was"
+    ],
+    [
+     "eq",
+     "released in the US in"
+    ],
+    [
+     "del",
+     "January this year."
+    ],
+    [
+     "ins",
+     "January."
+    ],
+    [
+     "eq",
+     "Panettiere was vocal about her struggles Panettiere was open about her struggles"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0576,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9829,
+ "adjudicated_by": "rules"
+}

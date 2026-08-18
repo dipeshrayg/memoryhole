@@ -1,0 +1,44 @@
+{
+ "id": "b74725c02d4516dd-05bf7641-d3ef6932",
+ "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-08-18T07:09:09Z",
+ "date": "2026-08-18",
+ "old_title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+ "new_title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+ "old_text": "Dutch officials have warned that a high-severity macOS vulnerability that allows attackers to execute malicious code is under active exploitation.\n\"The NCSC has received a notification indicating that active abuse of this vulnerability has been observed on multiple systems on which port 5900 was accessible from the Internet,\" the Netherlands National Cyber Security Centrum warned earlier this week. \"In all these cases, root had been accessed on the affected system and a Monero crypto miner had been placed.\"\nDo you know if your screen sharing is on?\nThe vulnerability, tracked as CVE-2026-65400, received a patch from Apple last week for macOS Tahoe, Sequoia, and Sonoma. The vulnerability, with a severity rating of 7.1 out of 10, stems from a bug in the macOS screen sharing capability, which allows a remote party to view the screen and control the keyboard and mouse while a machine is turned on. A flaw in the \"state management,\" which keeps track of preceding events, user interactions, variables, and other system states, is the underlying cause.\nA video of the exploit in action can be found here. Details of CVE-2026-65400 became public at last week's Black Hat security conference. Apple said last week that CVE-2026-65400 \"may\" allow an attacker without credentials to gain access to a Mac. It's unclear why Apple hedged, but softening language is common among most tech developers when disclosing vulnerabilities.",
+ "new_text": "Dutch officials have warned that a high-severity macOS vulnerability that allows attackers to execute malicious code is under active exploitation.\n\"The NCSC has received a notification indicating that active abuse of this vulnerability has been observed on multiple systems on which port 5900 was accessible from the Internet,\" the Netherlands National Cyber Security Centrum warned earlier this week. \"In all these cases, root had been accessed on the affected system and a Monero crypto miner had been placed.\"\nDo you know if your screen sharing is on?\nThe vulnerability, tracked as CVE-2026-65400, received a patch from Apple last week for macOS Tahoe, Sequoia, and Sonoma. The vulnerability, with a severity rating of 7.1 out of 10, stems from a bug in the macOS screen sharing capability, which allows a remote party to view the screen and control the keyboard and mouse while a machine is turned on. A flaw in the \"state management,\" which keeps track of preceding events, user interactions, variables, and other system states, is the underlying cause.\nA video of the exploit in action can be found here. Details of CVE-2026-65400 became public at last week's Black Hat security conference. Apple said last week that CVE-2026-65400 \"may\" allow an attacker without credentials to gain access to a Mac. It's unclear why Apple hedged, but softening language is common among most tech developers when disclosing vulnerabilities. Apple credited security firm Bynario for reporting the vulnerability.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "but softening language is common among most tech developers when disclosing vulnerabilities."
+    ],
+    [
+     "ins",
+     "Apple credited security firm Bynario for reporting the vulnerability."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0395,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

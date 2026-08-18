@@ -1,0 +1,414 @@
+{
+ "id": "48e3870dc9f74759-15711938-e1886d9e",
+ "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+ "domain": "www.theguardian.com",
+ "source": "The Guardian",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-18T06:52:22Z",
+ "date": "2026-08-18",
+ "old_title": "Ebola outbreak in Democratic Republic of Congo now deadliest in country's history",
+ "new_title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country's history",
+ "old_text": "The Ebola outbreak in the Democratic Republic of Congo is now the deadliest in the country's history with at least 2,325 people killed, according to government data, surpassing the toll from the 2018-20 outbreak.\nCongo's public health institute said on Sunday that confirmed cases had risen to 4,945, including 101 new cases detected in the previous 24 hours.\nWest Africa's 2014-16 Ebola outbreak resulted in 28,616 cases and 11,310 deaths across Guinea, Liberia and Sierra Leone, according to the World Health Organisation (WHO).\nOn Friday the UN warned that \"Ebola is winning in the Democratic Republic of the Congo\" and said the epidemic was now killing one person every 30 minutes.\nSix of DRC's 26 provinces have now been affected, mainly those along the country's north-eastern border. More than 3,400 of the cases have been recorded in Ituri province, where the outbreak was first reported.\nThe latest numbers of confirmed cases of Ebola in the DRC has made this latest outbreak the fastest growing in the known history of the virus.\nThere are no approved vaccines or treatments for the rare Bundibugyo strain of the virus that is responsible for the current surge in cases.\nThomas Parisch, a public health specialist recently deployed to DRC with Médecins Sans Frontières, said: \"Normally, as an outbreak progresses, the case fatality ratio should fall as contact tracing improves and patients are identified and treated earlier.\n\"Instead, we're still seeing many cases detected very late, when treatment is less likely to succeed, with many identified only after they die in the community.\"\nUganda has reported at least 20 cases, all in the capital, Kampala.\nIn May, the outbreak of the disease in the DRC and Uganda was declared a public health emergency of international concern by the WHO.\nThe virus is transmitted to people from wild animals and then spreads in the human population through direct contact with the blood, secretions, organs or other bodily fluids of infected people and with contaminated surfaces and materials such as bedding or clothing.\nAccording to WHO, symptoms can include fever, fatigue, malaise, muscle, pain, headache and sore throat. These are followed by vomiting, diarrhoea, abdominal pain, rash and symptoms of impaired kidney and liver functions.",
+ "new_text": "The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country's history, with at least 2,325 people dead, according to government data, surpassing the toll from the 2018-20 outbreak.\nThe DRC's public health institute said confirmed cases had risen to 4,945, including 101 detected in the previous 24 hours.\nThe World Health Organization has said the outbreak is on track to surpass west Africa's 2014-16 Ebola outbreak as the biggest in history. The 2014-16 outbreak resulted in 28,616 cases and 11,325 deaths across Guinea, Liberia and Sierra Leone, according to WHO data.\nOn Friday, the UN said Ebola \"is winning in the Democratic Republic of the Congo\" and said the epidemic was killing one person every 30 minutes.\nSix of DRC's 26 provinces have been affected, mainly those along the country's north-eastern border. More than 3,400 of the cases have been recorded in Ituri province, where the outbreak was first reported.\nThe latest numbers of confirmed cases of Ebola in the DRC have made this outbreak - the 17th in the country's history - the fastest-growing in the known history of the virus. It took almost five months for the 2014-16 west Africa outbreak to reach 1,000 deaths, compared with more than 2,000 deaths in less than three months in this outbreak.\nThere are no approved vaccines or treatments yet for the rare Bundibugyo strain of the virus that is responsible for the current surge in cases. Nonetheless, 1,000 people in the DRC have recovered from the infection, with 730 still in healthcare or isolation facilities.\nClinical trials of two possible treatments for the strain began last month in Ituri. Tedros Adhanom Ghebreyesus, the WHO director general, said last week that two vaccines developed specifically for Bundibugyo were now being tested on people.\nThomas Parisch, a public health specialist recently deployed to the DRC with Médecins Sans Frontières, said: \"Normally, as an outbreak progresses, the case fatality ratio should fall as contact tracing improves and patients are identified and treated earlier. Instead, we're still seeing many cases detected very late, when treatment is less likely to succeed, with many identified only after they die in the community.\"\nUganda has reported at least 20 cases, all in the capital, Kampala. The last case reported there was on 21 June and no community transmission has been recorded. The government declared the country Ebola-free on 28 July after the last Ebola patient, a Congolese national, was discharged on 16 July.\nIn May, the WHO declared the outbreak in the DRC and Uganda as a public health emergency of international concern. It said sequencing showed the outbreak had started months earlier, in February.\nEbola is transmitted to people from wild animals and then spreads in the human population through direct contact with the blood, secretions, organs or other body fluids of infected people, including dead bodies, and with contaminated surfaces and materials such as bedding or clothing.\nAccording to the WHO, symptoms can include fever, fatigue, malaise, muscle pain, headache and sore throat. These are followed by vomiting, diarrhoea, abdominal pain, rash and symptoms of impaired kidney and liver functions.\nThe response to this outbreak has been hampered by attacks on healthcare facilities, often fuelled by misinformation about safe burial practices, as well as strikes by some unpaid health workers. Decades of unrest and outside interference on traumatised communities, as well as poor health and road infrastructure have also complicated the picture.\nMore than 70% of people die in the community and not in health centres, said Mohamed Janabi, the WHO's regional Africa director.\nJean-Paul Malo Lotsima, a civil society official in the Djugu area of Ituri, told the AFP news agency: \"People prefer to be treated at home, thinking it is a case of poisoning or some other illness.\"\nHe added: \"It's often at the last minute, when the family realises that the situation is getting worse, that patients are taken to hospital. And sometimes, they die on the way.\"\nFlavier Ngurima, who lives in Nizi, one of the hotspots of the outbreak in Ituri, said his brother died before reaching the treatment centre. \"We had called on a nurse from the family to treat him at home because the patient and the family members were afraid to go to the ETC [treatment centre],\" he said. \"They said that over there, a lot of people die.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "The Ebola outbreak in the Democratic Republic of"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "Congo is now the deadliest in the country's"
+    ],
+    [
+     "del",
+     "history"
+    ],
+    [
+     "ins",
+     "history,"
+    ],
+    [
+     "eq",
+     "with at least 2,325 people"
+    ],
+    [
+     "del",
+     "killed,"
+    ],
+    [
+     "ins",
+     "dead,"
+    ],
+    [
+     "eq",
+     "according to government data, surpassing the toll from the 2018-20 outbreak."
+    ],
+    [
+     "del",
+     "Congo's"
+    ],
+    [
+     "ins",
+     "The DRC's"
+    ],
+    [
+     "eq",
+     "public health institute said"
+    ],
+    [
+     "del",
+     "on Sunday that"
+    ],
+    [
+     "eq",
+     "confirmed cases had risen to 4,945, including 101"
+    ],
+    [
+     "del",
+     "new cases"
+    ],
+    [
+     "eq",
+     "detected in the previous 24 hours."
+    ],
+    [
+     "del",
+     "West"
+    ],
+    [
+     "ins",
+     "The World Health Organization has said the outbreak is on track to surpass west"
+    ],
+    [
+     "eq",
+     "Africa's 2014-16 Ebola"
+    ],
+    [
+     "ins",
+     "outbreak as the biggest in history. The 2014-16"
+    ],
+    [
+     "eq",
+     "outbreak resulted in 28,616 cases and"
+    ],
+    [
+     "del",
+     "11,310"
+    ],
+    [
+     "ins",
+     "11,325"
+    ],
+    [
+     "eq",
+     "deaths across Guinea, Liberia and Sierra Leone, according to"
+    ],
+    [
+     "del",
+     "the World Health Organisation (WHO)."
+    ],
+    [
+     "ins",
+     "WHO data."
+    ],
+    [
+     "eq",
+     "On"
+    ],
+    [
+     "del",
+     "Friday"
+    ],
+    [
+     "ins",
+     "Friday,"
+    ],
+    [
+     "eq",
+     "the UN"
+    ],
+    [
+     "del",
+     "warned that \"Ebola is"
+    ],
+    [
+     "ins",
+     "said Ebola \"is"
+    ],
+    [
+     "eq",
+     "winning in the Democratic Republic of the Congo\" and said the epidemic was"
+    ],
+    [
+     "del",
+     "now"
+    ],
+    [
+     "eq",
+     "killing one person every 30 minutes. Six of DRC's 26 provinces have"
+    ],
+    [
+     "del",
+     "now"
+    ],
+    [
+     "eq",
+     "been affected, mainly those along the country's north-eastern border. More than 3,400"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "reported. The latest numbers of confirmed cases of Ebola in the DRC"
+    ],
+    [
+     "del",
+     "has"
+    ],
+    [
+     "ins",
+     "have"
+    ],
+    [
+     "eq",
+     "made this"
+    ],
+    [
+     "del",
+     "latest"
+    ],
+    [
+     "eq",
+     "outbreak"
+    ],
+    [
+     "ins",
+     "-"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "fastest growing"
+    ],
+    [
+     "ins",
+     "17th in the country's history - the fastest-growing"
+    ],
+    [
+     "eq",
+     "in the known history of the virus."
+    ],
+    [
+     "ins",
+     "It took almost five months for the 2014-16 west Africa outbreak to reach 1,000 deaths, compared with more than 2,000 deaths in less than three months in this outbreak."
+    ],
+    [
+     "eq",
+     "There are no approved vaccines or treatments"
+    ],
+    [
+     "ins",
+     "yet"
+    ],
+    [
+     "eq",
+     "for the rare Bundibugyo strain of the virus that is responsible for the current surge in cases."
+    ],
+    [
+     "ins",
+     "Nonetheless, 1,000 people in the DRC have recovered from the infection, with 730 still in healthcare or isolation facilities. Clinical trials of two possible treatments for the strain began last month in Ituri. Tedros Adhanom Ghebreyesus, the WHO director general, said last week that two vaccines developed specifically for Bundibugyo were now being tested on people."
+    ],
+    [
+     "eq",
+     "Thomas Parisch, a public health specialist recently deployed to"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "DRC with Médecins Sans Frontières, said: \"Normally, as an outbreak progresses, the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "fall as contact tracing improves and patients are identified and treated earlier."
+    ],
+    [
+     "del",
+     "\"Instead,"
+    ],
+    [
+     "ins",
+     "Instead,"
+    ],
+    [
+     "eq",
+     "we're still seeing many cases detected very late, when treatment is less"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Uganda has reported at least 20 cases, all in the capital, Kampala."
+    ],
+    [
+     "ins",
+     "The last case reported there was on 21 June and no community transmission has been recorded. The government declared the country Ebola-free on 28 July after the last Ebola patient, a Congolese national, was discharged on 16 July."
+    ],
+    [
+     "eq",
+     "In May, the"
+    ],
+    [
+     "ins",
+     "WHO declared the"
+    ],
+    [
+     "eq",
+     "outbreak"
+    ],
+    [
+     "del",
+     "of the disease"
+    ],
+    [
+     "eq",
+     "in the DRC and Uganda"
+    ],
+    [
+     "del",
+     "was declared"
+    ],
+    [
+     "ins",
+     "as"
+    ],
+    [
+     "eq",
+     "a public health emergency of international"
+    ],
+    [
+     "del",
+     "concern by"
+    ],
+    [
+     "ins",
+     "concern. It said sequencing showed"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "WHO. The virus"
+    ],
+    [
+     "ins",
+     "outbreak had started months earlier, in February. Ebola"
+    ],
+    [
+     "eq",
+     "is transmitted to people from wild animals and then spreads in the human population through direct contact with the blood, secretions, organs or other"
+    ],
+    [
+     "del",
+     "bodily"
+    ],
+    [
+     "ins",
+     "body"
+    ],
+    [
+     "eq",
+     "fluids of infected"
+    ],
+    [
+     "del",
+     "people"
+    ],
+    [
+     "ins",
+     "people, including dead bodies,"
+    ],
+    [
+     "eq",
+     "and with contaminated surfaces and materials such as bedding or clothing. According to"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "WHO, symptoms can include fever, fatigue, malaise,"
+    ],
+    [
+     "del",
+     "muscle,"
+    ],
+    [
+     "ins",
+     "muscle"
+    ],
+    [
+     "eq",
+     "pain, headache and sore throat. These are followed by vomiting, diarrhoea, abdominal pain, rash and symptoms of impaired kidney and liver functions."
+    ],
+    [
+     "ins",
+     "The response to this outbreak has been hampered by attacks on healthcare facilities, often fuelled by misinformation about safe burial practices, as well as strikes by some unpaid health workers. Decades of unrest and outside interference on traumatised communities, as well as poor health and road infrastructure have also complicated the picture. More than 70% of people die in the community and not in health centres, said Mohamed Janabi, the WHO's regional Africa director. Jean-Paul Malo Lotsima, a civil society official in the Djugu area of Ituri, told the AFP news agency: \"People prefer to be treated at home, thinking it is a case of poisoning or some other illness.\" He added: \"It's often at the last minute, when the family realises that the situation is getting worse, that patients are taken to hospital. And sometimes, they die on the way.\" Flavier Ngurima, who lives in Nizi, one of the hotspots of the outbreak in Ituri, said his brother died before reaching the treatment centre. \"We had called on a nurse from the family to treat him at home because the patient and the family members were afraid to go to the ETC [treatment centre],\" he said. \"They said that over there, a lot of people die.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.1984,
+  "numbers_changed": [
+   "1,000",
+   "11,310",
+   "11,325",
+   "16",
+   "17",
+   "2,000",
+   "2014",
+   "21",
+   "28",
+   "70",
+   "730"
+  ],
+  "market_figures_changed": [
+   "70%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 1,
+  "blocks_added": 3,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.349,
+ "similarity": 0.9285,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "a619151f889a246f-5f0a682f-cd6ef0d0",
+ "url": "https://www.abc.net.au/news/rural/2026-08-17/pork-industry-financial-crime-charges/107046968",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-18T06:57:08Z",
+ "date": "2026-08-18",
+ "old_title": "Four people connected to pork industry charged with financial crimes",
+ "new_title": "Four people connected to pork industry charged with financial crimes",
+ "old_text": "Four people connected to pork industry charged with large-scale financial crimes\nIn short:\nFour people connected to the pork industry have been charged over an alleged large-scale financial crime operation.\nPolice allege about $10 million was funnelled out of businesses and more than $30 million in cash was transported between New South Wales and Queensland between 2017 and 2026.\nWhat's next?\nTwo of the offenders are due to appear in the Brisbane Magistrates Court on September 14.",
+ "new_text": "Four people connected to pork industry charged with large-scale financial crimes\nIn short:\nFour people connected to the pork industry have been charged over an alleged large-scale financial crime operation.\nPolice allege about $10 million was funnelled out of businesses and more than $30 million in cash was transported between New South Wales and Queensland between 2017 and 2026.\nWhat's next?\nTwo of the alleged offenders are due to appear in the Brisbane Magistrates Court on September 14.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Wales and Queensland between 2017 and 2026. What's next? Two of the"
+    ],
+    [
+     "ins",
+     "alleged"
+    ],
+    [
+     "eq",
+     "offenders are due to appear in the Brisbane Magistrates Court on September 14."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.013,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9993,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,96 @@
+{
+ "id": "683552c9776352df-d0c098c5-584db406",
+ "url": "https://www.france24.com/en/tv-shows/sports/20260817-lens-defeat-paris-saint-germain-and-claim-second-title-this-year",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-18T06:56:02Z",
+ "date": "2026-08-18",
+ "old_title": "Sports - Lens defeat Paris Saint-Germain and claim second title this year",
+ "new_title": "Sports - Lens defeat Paris Saint-Germain to claim second title this year",
+ "old_text": "Lens defeat Paris Saint-Germain and claim second title this year\nIssued on:\nRC Lens won the Champions' Trophy against Paris Saint-Germain (1-0). With Zinédine Zidane watching on, the Lens side held out for an hour despite being a man down.\nArsenal comfortably won the Community Shield against Manchester City (3-0). Cameroon won the Women's Africa Cup of Nations. Léon Marchand once again impressed at the European Swimming Championships. Successful final day for French at the European Athletics Championships. Félix Lebrun made table tennis history.",
+ "new_text": "Lens defeat Paris Saint-Germain to claim second title this year\nIssued on:\nRC Lens won the Champions' Trophy (French Super Cup) against Paris Saint-Germain (1-0). With Zinédine Zidane watching on, the Lens side held out for an hour despite being a man down.\nAlso in this edition:\nArsenal comfortably won the Community Shield against Manchester City (3-0). Cameroon won the Women's Africa Cup of Nations. Léon Marchand once again impressed at the European Swimming Championships. It was a successful final day for French at the European Athletics Championships. Finally, France's Félix Lebrun made table tennis history.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Lens defeat Paris Saint-Germain"
+    ],
+    [
+     "del",
+     "and"
+    ],
+    [
+     "ins",
+     "to"
+    ],
+    [
+     "eq",
+     "claim second title this year Issued on: RC Lens won the Champions' Trophy"
+    ],
+    [
+     "ins",
+     "(French Super Cup)"
+    ],
+    [
+     "eq",
+     "against Paris Saint-Germain (1-0). With Zinédine Zidane watching on, the Lens side held out for an hour despite being a man down."
+    ],
+    [
+     "ins",
+     "Also in this edition:"
+    ],
+    [
+     "eq",
+     "Arsenal comfortably won the Community Shield against Manchester City (3-0). Cameroon won"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of Nations. Léon Marchand once again impressed at the European Swimming Championships."
+    ],
+    [
+     "del",
+     "Successful"
+    ],
+    [
+     "ins",
+     "It was a successful"
+    ],
+    [
+     "eq",
+     "final day for French at the European Athletics Championships."
+    ],
+    [
+     "ins",
+     "Finally, France's"
+    ],
+    [
+     "eq",
+     "Félix Lebrun made table tennis history."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1905,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9776,
+ "adjudicated_by": "rules"
+}
