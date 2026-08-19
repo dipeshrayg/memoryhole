@@ -1,0 +1,52 @@
+{
+ "id": "1fb2569ef7ebe882-8444d37e-fcd532e1",
+ "url": "https://www.theguardian.com/business/2026/aug/17/virgin-trains-services-to-europe-eurostar",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-19T07:03:00Z",
+ "date": "2026-08-19",
+ "old_title": "Virgin Trains a step closer to running services to Europe in blow to Eurostar",
+ "new_title": "Virgin Trains a step closer to running services to Europe in blow to Eurostar",
+ "old_text": "Virgin Trains has been granted track access by the rail regulator to enable it to run services between London and Paris, Brussels and Amsterdam from 2030, in a key step towards breaking Eurostar's monopoly on the cross-Channel passenger route.\nThe Office of Rail and Road (ORR) said it had given approval for Richard Branson's company to run as many as 20 daily return services using the High Speed 1 line that runs between London St Pancras and the Channel tunnel.\nThe agreement for the period between 1 October 2030 to 31 December 2040 means Virgin Trains has passed another important regulatory hurdle in its efforts to start international services. It only covers the HS1 route, however, and Virgin still needs to secure access to the tunnel and rail networks in mainland Europe.\nLast October Virgin was granted access to share Eurostar's Temple Mills depot in east London to maintain and store trains, the only depot that can be accessed from HS1.\nEurostar, which was formerly part-owned by the UK taxpayer but is now controlled by the French rail operator SNCF, has held a monopoly on passenger services through the tunnel since it opened in 1994. Eurotunnel, operator of LeShuttle, takes vehicles on the cross-Channel route.\nEurostar has previously faced criticism over its high prices, and has shrunk its network over the past decade, ditching international services from Ashford and Ebbsfleet in Kent.\nBranson has previously said it was \"time to end this 30-year monopoly and bring some Virgin magic to the cross-Channel route\".\nVirgin plans to run services between St Pancras and the same stations in Paris, Brussels and Amsterdam used by Eurostar.\nIt comes as demand for international rail travel from the UK grows, with Eurostar announcing last year it would start running doubledecker trains through the tunnel, while a joint UK-German taskforce considers plans for direct trains from London to Berlin.\nThe ORR said its latest decision to grant track access was \"an important next step\", but that there was \"still more work to do\" before the new services can run.\nThe ORR's deputy director of access and international, Martin Jones, said: \"This is an important next step in bringing competition and growth to the market for international rail services, and we welcome the progress Virgin Trains and London St Pancras High Speed have made.\n\"While there is still more work to do, we are supporting Virgin and the wider industry to grow international services.\"\nFor example, Virgin Trains must secure access to other rail networks and obtain safety approvals from the ORR and relevant regulators in the EU ahead of the plans to begin running services in 2030.\nVirgin, which previously ran intercity trains in Britain including between London and Glasgow, has said it plans to invest £700m in its cross-Channel project and create about 400 jobs in the UK.\nA Virgin Group spokesperson said: \"Our plans for a new London - Europe rail service from 2030 are moving at pace. We welcome the ORR's pre-approval of our track access agreement and the opportunity to bring competition and Virgin's award-winning customer experience to the Channel tunnel.\"\nEurostar said: \"This confirms the huge potential for growth in international rail and the ambition across the industry to bring more passengers to Europe by train. Eurostar will play a full part in that growth, and our focus remains on delivering our own ambitious plans, investing in our fleet and carrying 30 million passengers a year.\"",
+ "new_text": "Virgin Trains has been granted track access by the rail regulator to enable it to run services between London and Paris, Brussels and Amsterdam from 2030, in a key step towards breaking Eurostar's monopoly on the cross-Channel passenger route.\nThe Office of Rail and Road (ORR) said it had given approval for Richard Branson's company to run as many as 20 daily return services using the High Speed 1 line that runs between London St Pancras and the Channel tunnel.\nThe agreement for the period between 1 October 2030 to 31 December 2040 means Virgin Trains has passed another important regulatory hurdle in its efforts to start international services. It only covers the HS1 route, however, and Virgin still needs to secure access to the tunnel and rail networks in mainland Europe.\nLast October Virgin was granted access to share Eurostar's Temple Mills depot in east London to maintain and store trains, the only depot that can be accessed from HS1.\nEurostar, which was formerly part-owned by the UK taxpayer but is now controlled by the French rail operator SNCF, has held a monopoly on passenger services through the tunnel since it opened in 1994. Eurotunnel, operator of LeShuttle, takes vehicles on the cross-Channel route.\nEurostar has previously faced criticism over its high prices, and has shrunk its network over the past decade, ditching international services from Ashford and Ebbsfleet in Kent.\nBranson has previously said it was \"time to end this 30-year monopoly and bring some Virgin magic to the cross-Channel route\".\nVirgin plans to run services between St Pancras and the same stations in Paris, Brussels and Amsterdam used by Eurostar.\nIt comes as demand for international rail travel from the UK grows, with Eurostar announcing last year it would start running doubledecker trains through the tunnel, while a joint UK-German taskforce considers plans for direct trains from London to Germany.\nThe ORR said its latest decision to grant track access was \"an important next step\", but that there was \"still more work to do\" before the new services can run.\nThe ORR's deputy director of access and international, Martin Jones, said: \"This is an important next step in bringing competition and growth to the market for international rail services, and we welcome the progress Virgin Trains and London St Pancras High Speed have made.\n\"While there is still more work to do, we are supporting Virgin and the wider industry to grow international services.\"\nFor example, Virgin Trains must secure access to other rail networks and obtain safety approvals from the ORR and relevant regulators in the EU ahead of the plans to begin running services in 2030.\nVirgin, which previously ran intercity trains in Britain including between London and Glasgow, has said it plans to invest £700m in its cross-Channel project and create about 400 jobs in the UK.\nA Virgin Group spokesperson said: \"Our plans for a new London - Europe rail service from 2030 are moving at pace. We welcome the ORR's pre-approval of our track access agreement and the opportunity to bring competition and Virgin's award-winning customer experience to the Channel tunnel.\"\nEurostar said: \"This confirms the huge potential for growth in international rail and the ambition across the industry to bring more passengers to Europe by train. Eurostar will play a full part in that growth, and our focus remains on delivering our own ambitious plans, investing in our fleet and carrying 30 million passengers a year.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "a joint UK-German taskforce considers plans for direct trains from London to"
+    ],
+    [
+     "del",
+     "Berlin."
+    ],
+    [
+     "ins",
+     "Germany."
+    ],
+    [
+     "eq",
+     "The ORR said its latest decision to grant track access was \"an"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0035,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

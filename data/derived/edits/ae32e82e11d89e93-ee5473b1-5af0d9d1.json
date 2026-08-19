@@ -1,0 +1,52 @@
+{
+ "id": "ae32e82e11d89e93-ee5473b1-5af0d9d1",
+ "url": "https://www.bbc.co.uk/sport/tennis/articles/c4g6m08nnn8o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-08-19T07:05:35Z",
+ "date": "2026-08-19",
+ "old_title": "Cincinnati Open: Serena and Venus Williams beaten on doubles return",
+ "new_title": "Cincinnati Open: Serena and Venus Williams beaten on doubles return",
+ "old_text": "- Published\nSerena and Venus Williams lost a thriller at the Cincinnati Open in their first doubles match together for four years.\nThe American pair were beaten 2-6 6-1 10-8 by Marta Kostyuk and Peyton Stearns in front of a packed crowd.\nThe sisters last played together at the 2022 US Open, which was Serena's final tournament before she \"evolved away\" from tennis.\nHowever, the 44-year-old made her return first in doubles in June before playing singles at Wimbledon as a wildcard.\nSerena picked up a knee injury in her first-round loss to Maya Joint at SW19, ruling her out of a planned doubles return with Venus.\n\"We've waited a long time to get back on the doubles court. Eventually, we find our way to each other,\" Venus, 46, said.\n\"We give each other so much grace and encouragement.\n\"This is our first time playing together in forever, and I think we're really getting [into] our stride.\"\nSerena was playing her first match since Wimbledon, while Venus has played singles and doubles at three hard-court events in recent weeks.\nThe pair made a poor start against Ukraine's Kostyuk and American Stearns before shaking off what Serena called \"a little rust\" in the second set.\nThey quickly went down 6-0 in the deciding 10-point tie-break but fought back impressively.\nSerena produced two service winners to force the tie-break back on serve, but Kostyuk and Stearns held firm before securing victory on a double fault from Venus.\n\"I thought it was fun, it was special, it was good,\" Serena said.\n\"We were starting to feel it. It was really cool to be able to do this again.\"\nThe sisters would need wildcards to play either singles or doubles at the US Open, which begins on Sunday, 30 August.\nSerena - who described her knee injury as \"a little traumatic experience, but what doesn't kill you makes you stronger\" - has only played one singles match since her return.\nVenus has lost her past 13 singles matches but has had more success in the doubles, reaching the quarter-finals of the women's tournament in New York last year.\nAt their peak, they won 14 Grand Slam doubles titles together and three Olympic gold medals.\nIn the singles, world number two Elena Rybakina beat Magdalena Frech 6-4 7-6 (7-2) either side of a lengthy rain delay to reach the fourth round.\nAustralian Open champion Rybakina could replace Aryna Sabalenka at the top of the world rankings in Cincinnati.\nRybakina must reach the final, external to have a chance at surpassing Sabalenka. If Sabalenka reaches the quarter-finals, Rybakina would need to win the title to become world number one.\nCanadian Open champion Iga Swiatek shook off a poor first set to beat Greece's Maria Sakarri 4-6 6-1 6-1, while third seed Jessica Pegula beat fellow American Emma Navarro 7-5 6-2.",
+ "new_text": "- Published\nSerena and Venus Williams lost a thriller at the Cincinnati Open in their first doubles match together for four years.\nThe American pair were beaten 6-2 1-6 10-8 by Marta Kostyuk and Peyton Stearns in front of a packed crowd.\nThe sisters last played together at the 2022 US Open, which was Serena's final tournament before she \"evolved away\" from tennis.\nHowever, the 44-year-old made her return first in doubles in June before playing singles at Wimbledon as a wildcard.\nSerena picked up a knee injury in her first-round loss to Maya Joint at SW19, ruling her out of a planned doubles return with Venus.\n\"We've waited a long time to get back on the doubles court. Eventually, we find our way to each other,\" Venus, 46, said.\n\"We give each other so much grace and encouragement.\n\"This is our first time playing together in forever, and I think we're really getting [into] our stride.\"\nSerena was playing her first match since Wimbledon, while Venus has played singles and doubles at three hard-court events in recent weeks.\nThe pair made a poor start against Ukraine's Kostyuk and American Stearns before shaking off what Serena called \"a little rust\" in the second set.\nThey quickly went down 6-0 in the deciding 10-point tie-break but fought back impressively.\nSerena produced two service winners to force the tie-break back on serve, but Kostyuk and Stearns held firm before securing victory on a double fault from Venus.\n\"I thought it was fun, it was special, it was good,\" Serena said.\n\"We were starting to feel it. It was really cool to be able to do this again.\"\nThe sisters would need wildcards to play either singles or doubles at the US Open, which begins on Sunday, 30 August.\nSerena - who described her knee injury as \"a little traumatic experience, but what doesn't kill you makes you stronger\" - has only played one singles match since her return.\nVenus has lost her past 13 singles matches but has had more success in the doubles, reaching the quarter-finals of the women's tournament in New York last year.\nAt their peak, they won 14 Grand Slam doubles titles together and three Olympic gold medals.\nIn the singles, world number two Elena Rybakina beat Magdalena Frech 6-4 7-6 (7-2) either side of a lengthy rain delay to reach the fourth round.\nAustralian Open champion Rybakina could replace Aryna Sabalenka at the top of the world rankings in Cincinnati.\nRybakina must reach the final, external to have a chance at surpassing Sabalenka. If Sabalenka reaches the quarter-finals, Rybakina would need to win the title to become world number one.\nCanadian Open champion Iga Swiatek shook off a poor first set to beat Greece's Maria Sakarri 4-6 6-1 6-1, while third seed Jessica Pegula beat fellow American Emma Navarro 7-5 6-2.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "first doubles match together for four years. The American pair were beaten"
+    ],
+    [
+     "del",
+     "2-6 6-1"
+    ],
+    [
+     "ins",
+     "6-2 1-6"
+    ],
+    [
+     "eq",
+     "10-8 by Marta Kostyuk and Peyton Stearns in front of a packed"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0084,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

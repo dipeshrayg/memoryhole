@@ -1,0 +1,153 @@
+{
+ "id": "c37f879d1cc74055-16d41140-e4f2b542",
+ "url": "https://www.france24.com/en/europe/20260818-war-in-ukraine-several-people-wounded-in-drone-attack-on-moscow-region",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-19T06:56:34Z",
+ "date": "2026-08-19",
+ "old_title": "War in Ukraine: several wounded in drone attack on Moscow region",
+ "new_title": "War in Ukraine: At least 10 killed in Kharkiv, several wounded in Moscow drone attack",
+ "old_text": "War in Ukraine: several wounded in drone attack on Moscow region\nA total of 620 drones targeted the Moscow region overnight, Russian officials said Monday, with several people wounded as buildings were struck. Moscow's mayor said that air defence units intercepted more than 180 of the drones over the capital region.\nA total of 620 drones flew towards the Moscow region overnight, Russian officials said on Tuesday, reporting that several people were wounded and buildings were struck.\nWith frontline fighting at a near standstill and talks frozen, Ukraine and Russia have significantly stepped up long-distance attacks, pushing the civilian death toll to its highest levels since the war's first months in 2022.\nRussian air defences destroyed more than 180 of the drones over the capital region, Moscow Mayor Sergei Sobyanin said on the state-backed MAX platform.\nThe drone swarm wounded three people, including a 10-year-old girl, Moscow region Governor Andrey Vorobyov said on Telegram.\n\"Tonight and in the morning, air defence and electronic warfare forces were repelling a large-scale drone attack on Moscow region,\" he said.\n'Most serious consequences'\nThe \"most serious consequences\" were reported in the Pavlovsky Posad district, where a house burned down, Vorobyov said.\nA drone also struck a warehouse east of Moscow belonging to e-commerce giant Wildberries.\nRead moreFast and fearless: Baltic defence startups innovate to counter Russian threat\n\"The company's logistics complex in Moscow region sustained minor damage as a result of the attack. Debris hit the wall of the building,\" the company said in a statement.\nUkraine has struck multiple Wildberries warehouses in recent weeks, saying the company supplies components for Russian drones.\n(FRANCE 24 with AFP)",
+ "new_text": "War in Ukraine: At least 10 killed in Kharkiv, several wounded in Moscow drone attack\nAt least 10 people were killed and eight wounded in a strike on Pechenigy, in Ukraine's Kharkiv region, the local governor said Tuesday, as 620 drones targeted the Moscow region overnight, Russian officials said, with several people wounded and buildings struck.\nA total of 620 drones flew towards the Moscow region overnight, Russian officials said on Tuesday, reporting that several people were wounded and buildings were struck.\nWith frontline fighting at a near standstill and talks frozen, Ukraine and Russia have significantly stepped up long-distance attacks, pushing the civilian death toll to its highest levels since the war's first months in 2022.\nRussian air defences destroyed more than 180 of the drones over the capital region, Moscow Mayor Sergei Sobyanin said on the state-backed MAX platform.\nThe drone swarm wounded three people, including a 10-year-old girl, Moscow region Governor Andrey Vorobyov said on Telegram.\n\"Tonight and in the morning, air defence and electronic warfare forces were repelling a large-scale drone attack on Moscow region,\" he said.\n'Most serious consequences'\nThe \"most serious consequences\" were reported in the Pavlovsky Posad district, where a house burned down, Vorobyov said.\nA drone also struck a warehouse east of Moscow belonging to e-commerce giant Wildberries.\nRead moreFast and fearless: Baltic defence startups innovate to counter Russian threat\n\"The company's logistics complex in the Moscow region sustained minor damage as a result of the attack. Debris hit the wall of the building,\" the company said in a statement.\nUkraine has struck multiple Wildberries warehouses in recent weeks, saying the company supplies components for Russian drones.\nMeanwhile, a Russian attack on a village in the Kharkiv region of northeast Ukraine killed 10 people, the local governor said Tuesday. The strike comes amid a surge in civilian deaths in the four-and-a-half-year war.\n10 killed in Kharkiv\nRussian forces \"carried out a rocket strike on Pechenigy\", a village around 40 kilometres from the Russian border, Kharkiv regional governor Oleg Synegubov said on social media.\n\"According to preliminary information, 10 people were killed,\" he added, with eight people wounded. The strike damaged private houses and shops, he added.\nThe Kharkiv region - parts of which are occupied by Russian forces - has been hit heavily since Moscow invaded in February 2022.\nRead moreRussia's Supreme Court upholds ban on anti-war party Yabloko\nAccording to the United Nations, more civilians have been killed in the war in recent months than in any period since the start of the invasion.\n(FRANCE 24 with AFP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "War in Ukraine:"
+    ],
+    [
+     "ins",
+     "At least 10 killed in Kharkiv,"
+    ],
+    [
+     "eq",
+     "several wounded in"
+    ],
+    [
+     "ins",
+     "Moscow"
+    ],
+    [
+     "eq",
+     "drone attack"
+    ],
+    [
+     "ins",
+     "At least 10 people were killed and eight wounded in a strike"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "Moscow region A total of"
+    ],
+    [
+     "ins",
+     "Pechenigy, in Ukraine's Kharkiv region, the local governor said Tuesday, as"
+    ],
+    [
+     "eq",
+     "620 drones targeted the Moscow region overnight, Russian officials"
+    ],
+    [
+     "del",
+     "said Monday,"
+    ],
+    [
+     "ins",
+     "said,"
+    ],
+    [
+     "eq",
+     "with several people wounded"
+    ],
+    [
+     "del",
+     "as"
+    ],
+    [
+     "ins",
+     "and"
+    ],
+    [
+     "eq",
+     "buildings"
+    ],
+    [
+     "del",
+     "were"
+    ],
+    [
+     "eq",
+     "struck."
+    ],
+    [
+     "del",
+     "Moscow's mayor said that air defence units intercepted more than 180 of the drones over the capital region."
+    ],
+    [
+     "eq",
+     "A total of 620 drones flew towards the Moscow region overnight, Russian"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "defence startups innovate to counter Russian threat \"The company's logistics complex in"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "Moscow region sustained minor damage as a result of the attack. Debris"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "warehouses in recent weeks, saying the company supplies components for Russian drones."
+    ],
+    [
+     "ins",
+     "Meanwhile, a Russian attack on a village in the Kharkiv region of northeast Ukraine killed 10 people, the local governor said Tuesday. The strike comes amid a surge in civilian deaths in the four-and-a-half-year war. 10 killed in Kharkiv Russian forces \"carried out a rocket strike on Pechenigy\", a village around 40 kilometres from the Russian border, Kharkiv regional governor Oleg Synegubov said on social media. \"According to preliminary information, 10 people were killed,\" he added, with eight people wounded. The strike damaged private houses and shops, he added. The Kharkiv region - parts of which are occupied by Russian forces - has been hit heavily since Moscow invaded in February 2022. Read moreRussia's Supreme Court upholds ban on anti-war party Yabloko According to the United Nations, more civilians have been killed in the war in recent months than in any period since the start of the invasion."
+    ],
+    [
+     "eq",
+     "(FRANCE 24 with AFP)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.7619,
+  "numbers_changed": [
+   "10",
+   "180",
+   "2022",
+   "40"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.404,
+ "similarity": 0.9277,
+ "adjudicated_by": "rules"
+}

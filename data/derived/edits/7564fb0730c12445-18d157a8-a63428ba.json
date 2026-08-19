@@ -1,0 +1,101 @@
+{
+ "id": "7564fb0730c12445-18d157a8-a63428ba",
+ "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/18/giddy-up-heroic-horsewomen-ride-again-in-pictures",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Culture",
+ "country": "United Kingdom",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-08-19T07:07:46Z",
+ "date": "2026-08-19",
+ "old_title": "Giddy up! Heroic horsewomen ride again - in pictures",
+ "new_title": "Giddy up! Stage Coach Mary rides again - in pictures",
+ "old_text": "Giddy up! Heroic horsewomen ride again - in pictures\nUsing 'equestrian embodiment', photographer Ayana V Jackson celebrates Stage Coach Mary and other great riders who faced down prejudice The best of Arles 2026 - in pictures\nThree projects: You Forgot to See Me Coming, Hidden in Plain Sight and Intimate Justice by Ayana V Jackson are being shown in her solo exhibition at the Arles Gallery. Photograph: Christopher Garcia/Ayana V Jackson",
+ "new_text": "Giddy up! Stage Coach Mary rides again - in pictures\nUsing 'equestrian embodiment', photographer Ayana V Jackson celebrates great horsewomen who galloped through prejudice The best of Arles 2026 - in pictures\nThree projects: You Forgot to See Me Coming, Hidden in Plain Sight and Intimate Justice by Ayana V Jackson are being shown in her solo exhibition at the Arles Gallery. Photograph: Christopher Garcia/Ayana V Jackson\nTue 18 Aug 2026 02.00 EDTLast modified on Tue 18 Aug 2026 06.20 EDT",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Giddy up!"
+    ],
+    [
+     "del",
+     "Heroic horsewomen ride"
+    ],
+    [
+     "ins",
+     "Stage Coach Mary rides"
+    ],
+    [
+     "eq",
+     "again - in pictures Using 'equestrian embodiment', photographer Ayana V Jackson celebrates"
+    ],
+    [
+     "del",
+     "Stage Coach Mary and other"
+    ],
+    [
+     "eq",
+     "great"
+    ],
+    [
+     "del",
+     "riders"
+    ],
+    [
+     "ins",
+     "horsewomen"
+    ],
+    [
+     "eq",
+     "who"
+    ],
+    [
+     "del",
+     "faced down"
+    ],
+    [
+     "ins",
+     "galloped through"
+    ],
+    [
+     "eq",
+     "prejudice The best of Arles 2026 - in pictures Three projects: You"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "her solo exhibition at the Arles Gallery. Photograph: Christopher Garcia/Ayana V Jackson"
+    ],
+    [
+     "ins",
+     "Tue 18 Aug 2026 02.00 EDTLast modified on Tue 18 Aug 2026 06.20 EDT"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4507,
+  "numbers_changed": [
+   "02.00",
+   "06.20",
+   "18",
+   "2026"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.761,
+ "similarity": 0.9599,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,91 @@
+For many crypto investors, the path to digital asset ownership leads through a centralized exchange, such as Coinbase or Kraken. These platforms are company-managed and make it easy to get started.
+However, there's another way to trade many cryptocurrencies without a company in the middle of the trade. Decentralized exchanges operate without a go-between, either using software to manage trades against a pool of tokens or through peer-to-peer (P2P) trading. In this guide, we'll compare decentralized exchanges vs. centralized exchanges, exploring the pros, cons, and use cases for each.
+(Disclosure: Yahoo Finance has a partnership with Coinbase).
+What is a centralized exchange?
+A centralized exchange (CEX) is a business that allows users to buy and trade cryptocurrencies. These include well-known platforms such as Coinbase, Kraken, and Binance. These platforms act as a go-between: You deposit fiat currency, such as U.S. dollars, and can buy crypto from other sellers on the exchange or through the exchange's "easy buy" options.
+You can also deposit crypto for trading. A small percentage of exchanges only support crypto deposits. In many ways, a centralized exchange works similarly to a stock brokerage. You log in using a username and password, and the exchange facilitates the trade whether you're buying or selling.
+Similar to stock trading, most centralized exchanges use an order book that aggregates buy and sell orders to match buyers and sellers. However, many also offer "quick trade" options in which the exchange handles the trade with a simple button click, and the buyer pays a spread for the convenience of executing the trade quickly.
+When comparing decentralized exchanges vs. centralized exchanges, one of the key differences centers on custody, meaning who holds your crypto. With a centralized exchange, the platform's operator also manages a crypto wallet on your behalf. The company holds the private keys that control your crypto assets on a blockchain. Again, the benefit is ease of use. Managing a crypto wallet comes with a learning curve. The trade-off is security: Someone else holds the keys to your crypto. You have an IOU until you withdraw your assets from the exchange.
+In addition to facilitating trades, many centralized exchanges offer other services, such as yield products. For example, you can stake ether (ETH) to help secure the Ethereum blockchain and earn more ETH on Coinbase. Other exchanges may offer services like crypto loans or crypto debit cards, allowing easy access to the value of your crypto.
+The pros and cons of centralized crypto exchanges
+Let's explore the benefits and trade-offs of using centralized exchanges. As discussed, many of the benefits center on convenience, but that ease of use also draws a larger audience, which benefits liquidity. It's often easier to trade without significantly affecting market prices. However, the trade-offs center on custody risk. You're trusting a company to hold your crypto (or cash). A crypto exchange may freeze your funds or simply disappear into the night.
+The pros of centralized exchanges
+Centralized exchanges offer an easy-to-navigate on-ramp into the crypto world. You connect your bank account or other payment method, click a button, and you own bitcoin. The interface looks familiar if you have ever used a banking app or a stock brokerage.
+Because there's a company hosting the exchange, you'll also have access to customer support. However, the crypto exchange industry often scores poorly in customer service reviews. Expect an email ticket system and perhaps a chatbot. Regardless, there's usually a way to regain access to a lost password or ask a question. By contrast, you're typically on your own with a decentralized exchange.
+Fiat on-ramps make centralized exchanges accessible to beginners. They also provide better liquidity for traders of any experience level. A well-established centralized exchange has no shortage of buyers and sellers for popular crypto assets, so you'll be able to make your trade easily and with minimal price slippage. Think of slippage as inefficiency. Having fewer buyers and sellers forces your order to "slip" into the next open order, and prices may be further apart.
+The cons of centralized exchanges
+The biggest trade-off of using a centralized exchange is custody risk. The exchange holds the private keys that prove ownership of your crypto on a blockchain. As a practical matter, the exchange owns your crypto, and you're trusting the company to secure your assets and honor your withdrawal requests. If the exchange freezes your account, you lose access to your crypto. If the exchange gets hacked, your funds could be stolen.
+The collapse of FTX in 2022 showed that even large, popular exchanges can fail, leaving users with worthless IOUs. Unlike stock brokerages, crypto exchanges as a whole aren't well-regulated. Casual investors have little transparency into the exchange's financial health.
+Most centralized exchanges also require KYC (Know Your Customer) verification. You'll need to upload a photo ID and proof of address before you can trade. The exchange knows exactly who you are and every transaction you make on their platform. Exchanges are popular targets for hacking and phishing attempts, so your identity and crypto could be at risk.
+Centralized exchanges are a single point of failure. The company's servers can go down or become inaccessible during periods of high traffic. You're also bound by the company's terms of service, which are subject to change and no fun to read. Most users don't, but somewhere in the fine print, it likely says that the platform can delist tokens or restrict withdrawals at any time.
+What is a decentralized exchange?
+A decentralized exchange (DEX) is a marketplace that allows trading without a go-between. There's no central authority holding your funds. Instead, DEXs use software running on a blockchain to facilitate trades against a liquidity pool. Rather than buy or sell against open orders on the platform, users buy and sell against a pool of tokens. A mathematical formula drives the price, and arbitrage bots keep the pool price (generally) in sync with the outside market price if there's a disparity.
+The most common type of DEX uses an automated market maker (AMM) model. These DEXs are powered by software called smart contracts. A smart contract runs on a blockchain's validators and supports conditional code: If this happens, then do that. Using these smart contracts, the AMM applies a formula to determine the price for a trade performed against a pool of tokens.
+For example, let's say a liquidity pool on the Ethereum blockchain holds ETH and USDC. The latter of these is a stablecoin token that tracks the value of the U.S. dollar. A user can sell their ETH into the pool for USDC, similar to selling ETH for U.S. dollars on a centralized exchange. However, the entire transaction is executed from a self-custody crypto wallet. The AMM's formula calculates the price, and the user can decide if they want to execute the trade.
+The constant product formula
+The most common formula used by AMMs to calculate the value of tokens in a pool is the constant product formula: x*y = k.
+- x: The total amount of Token A in the pool.
+- y: The total amount of Token B in the pool.
+- k: This is a constant, or unchanging, value, or the pool's total liquidity.
+This formula ensures the pool always stays balanced. No matter how many trades happen, multiplying the amount of Token A by the amount of Token B must always equal k.
+Let's say a liquidity pool holds 100 Token A and 100 Token B. In this example, k equals 10,000.
+- If you want to buy 10 Token A from the pool, the pool's supply of Token A drops to 90.
+- The constant product (k) must remain 10,000, so the pool now requires more of Token B to balance the math. If you divide 10,000 by 90, you get roughly 111.
+- That means you must deposit 11 Token B to get those 10 Token A. You pay a higher price for your trade because you are reducing the pool's supply of Token A.
+A large trade against a small pool of tokens will cause the price to move dramatically (another type of slippage). However, the goal of a liquidity pool is to provide liquidity at any price. Notably, some DEXs, such as Uniswap, route trades through multiple pools if available to reduce slippage.
+Keeping prices in check
+For popular assets, the pool price is kept in check by arbitrageurs who use bots to trade against the pool and pocket profits by reselling mispriced tokens elsewhere. For example, if the pool has ETH priced $10 below market, bots swoop in within seconds to buy some of the underpriced ETH and restore the pool price to market.
+Liquidity providers
+The tokens in liquidity pools come from other users who lock their tokens in a smart contract so others can trade. These liquidity providers earn a swap fee for every trade made against the pool, proportional to their share of the pool's tokens.
+Not all DEXs work the same way
+AMMs dominate the DEX landscape, but P2P DEXs like Bisq provide another decentralized option. Instead of liquidity pools, Bisq uses an order book to match buyers and sellers directly. Users download the Bisq application, which gives them access to open buy and sell orders placed by other traders. While it sounds similar to a centralized exchange, the platform isn't an intermediary.
+Completing a trade on this type of DEX can be less efficient than using an AMM. Despite the often slower process, some users prefer this type of DEX for privacy reasons. Bisq and similar platforms also support trading for specific assets, such as bitcoin and monero, that aren't supported by smart-contract DEXs.
+The pros and cons of decentralized crypto exchanges
+The benefits of using decentralized exchanges center on custody, privacy, and access to specific tokens. You trade directly from your crypto wallet, and there's no need to prove your identity before you make a trade.
+DEXs also allow trading new tokens before they reach centralized exchanges. For example, both UNI (Uniswap) and CRV (Curve) launched on DEXs before reaching centralized platforms. Both tokens are governance tokens for their respective DEXs, and many consider them to be blue-chip cryptocurrencies.
+The pros of decentralized exchanges
+When using a decentralized exchange, you trade directly from your own crypto wallet. You hold your private keys that control your crypto, and nothing leaves your wallet without a valid signature signed by the key. No one can freeze your account, block a withdrawal, or lend out your assets without your permission. In short, you control your crypto.
+Better privacy and permissionless access offer another major advantage. Decentralized exchanges don't require KYC identity verification, and anyone can transact without a company's approval. Your wallet address acts as your pseudonymous identity on a decentralized exchange. Just connect your wallet to start trading.
+DEXs also offer access to a wider variety of tokens. Anyone can create a liquidity pool for a new token on a decentralized exchange. That means you can often find and trade new projects before they list on major centralized platforms.
+The cons of decentralized exchanges
+The trade-off for total control is total responsibility. Decentralized exchanges come with a learning curve. You'll need to learn how to manage your own wallet, approve smart contract interactions, and double-check token addresses. If you send your crypto to the wrong network or fall for a malicious smart contract, your funds are gone. There's no customer support line to call for a refund.
+A lack of fiat support is another hurdle. You must already own crypto to use a DEX. Although some decentralized exchanges, such as Uniswap, support fiat purchases via third-party providers like Moonpay, this can be a pricey way to acquire crypto for trading. Of note, third-party providers typically require KYC identification verification as well. Most traders use a centralized exchange to make their first purchase before using a decentralized one.
+Price slippage and network fees can also make DEXs expensive. If you trade a large amount into a small liquidity pool, the mathematical formula will push the price against you. You might expect to get 1,000 tokens for your ETH, but slippage leaves you with only 900.
+You'll also pay gas fees (payments to the network validators) to process your transaction and a swap fee. During periods of high network traffic, a single trade on Ethereum can cost $20 or more in gas fees, making small trades impractical. Smart-contract networks charge gas fees based on transaction complexity, rather than the transaction value.
+Key differences: Comparing the centralized and decentralized exchanges
+Let's compare decentralized exchanges vs. centralized exchanges side by side.
+Control vs. Convenience
+- Centralized exchanges hold your private keys, offering a convenient experience similar to online banking. That also means the exchange controls your crypto, giving you conditional access.
+- Decentralized exchanges require you to manage your own wallet. You have complete control, but also assume more responsibility.
+Privacy vs. Compliance
+- Centralized exchanges must comply with local laws, including identity verification and activity tracking.
+- Decentralized exchanges don't require personal information. There's no database of personally identifiable information (PII) to hack.
+Security models
+- Centralized exchanges face custodial risks, meaning a hack or exchange insolvency can cost you your assets.
+- Decentralized exchanges face smart contract risks. A bug in the code can let someone drain a liquidity pool.
+Asset access
+- Centralized exchanges curate a list of vetted tokens. There's less risk of a rug pull or scam.
+- Decentralized exchanges let you trade almost any token built on that network, including brand-new projects. On the other hand, scam tokens and rug pulls abound. DYOR (do your own research) becomes a critical first step.
+Fiat support
+- Centralized exchanges let you link a bank account and trade with dollars.
+- Decentralized exchanges generally require you to own crypto already to make a trade.
+How to choose the right type of exchange for you
+When choosing between a decentralized exchange and a centralized exchange, the best platform often centers on the task at hand. If you just want to buy a widely available cryptocurrency, such as BTC or ETH, and privacy isn't a concern, you can use a centralized exchange. You can manage exchange custody risks by withdrawing your crypto to a noncustodial crypto wallet after you make your trade.
+However, if privacy is a concern or you want access to newer cryptocurrencies not available on Coinbase and similar platforms, a DEX is a better choice.
+Choose a centralized exchange if:
+- You're buying crypto with traditional currency, such as U.S. dollars, for the first time.
+- You prefer the convenience of customer support and account recovery options.
+- You want to trade large amounts of popular assets without worrying about price slippage.
+- You're comfortable trading on a regulated platform in exchange for giving up some privacy and control.
+Choose a decentralized exchange if:
+- You already own crypto and want to trade with total control over your private keys.
+- You value privacy and want to avoid identity verification requirements.
+- You want to trade new tokens before they hit the major centralized platforms.
+- You're comfortable managing a crypto wallet and doing your own research on pools and token contracts.
+You can also use a hybrid approach for the best of both worlds. Many investors use a centralized exchange as their on-ramp to buy crypto with traditional currencies. They then transfer those assets to a self-custody wallet. This strategy allows you to use a decentralized exchange to trade for smaller tokens or earn yield in liquidity pools, all while keeping your crypto assets off the centralized platform's balance sheet.
+Regardless of which type of exchange you choose, you're placing your trust somewhere. Centralized exchanges require trust in the company running the exchange, whereas decentralized exchanges ask you to trust the code and the pool itself.
+Bottom line
+When comparing decentralized and centralized exchanges, neither is inherently better than the other. Each has its use case and distinct risks to consider.
+Centralized exchanges offer convenience and often feel like navigating a banking app or investment account. There's usually an easy way to get things done.
+Decentralized exchanges can be more intimidating and perhaps leave more room for user error, but they offer their own benefits. Reasons to consider a DEX include greater privacy, full control over your assets, and early access to tokens that aren't yet available on centralized exchanges.
+Both play important roles in the broader crypto ecosystem, and knowing how to navigate each one gives you more options as a crypto investor.

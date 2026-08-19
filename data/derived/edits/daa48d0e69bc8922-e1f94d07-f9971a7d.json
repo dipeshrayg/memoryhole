@@ -1,0 +1,52 @@
+{
+ "id": "daa48d0e69bc8922-e1f94d07-f9971a7d",
+ "url": "https://www.aljazeera.com/news/2026/8/14/flock-adds-safeguards-to-licence-plate-readers-after-wave-of-stalking-cases?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-19T06:53:59Z",
+ "date": "2026-08-19",
+ "old_title": "Flock adds safeguards to licence-plate readers after wave of stalking cases",
+ "new_title": "Flock adds safeguards to licence-plate readers after wave of stalking cases",
+ "old_text": "Flock Safety has unveiled stronger privacy protections following reports of US police officers using the AI-powered company's automatic licence-plate readers to stalk and harass women.\nFlock, based in Atlanta, Georgia, operates some 120,000 cameras across the US that capture images of vehicles and licence plates for storage in a searchable database.\nRecommended Stories\nlist of 4 items\n- list 1 of 4Oil slick from tanker carrying sanctioned Russian crude reaches Oman\n- list 2 of 4Mali says 82 soldiers captured by armed groups have been freed\n- list 3 of 4Brazil opens reciprocity process against United States over tariffs\n- list 4 of 4Water supply for three US states drips down, Lake Mead at record low\nFlock markets its products as crime-fighting tools for law enforcement and private groups such neighbourhood watch committees, but critics accuse the company of operating a system of mass surveillance with little oversight.\nThe company has been under renewed scrutiny since The Washington Post earlier this month published a lengthy investigation revealing that at least 46 law enforcement officers across the US have been accused of using the license-plate cameras for unauthorised tracking, including to stalk wives, girlfriends and exes.\nIn a statement on Thursday, Flock said it is reducing the recommended default retention period for images from 30 days to 7 days, and introducing an \"evidence mode\" allowing for longer shortage windows in \"exceptional cases\".\nLaw enforcement agencies can now also add offence-based filters to restrict which data can be accessed by other agencies.\n\"Cities can choose which type of offences are permissible for other agencies to access their cameras,\" Flock said.\n\"For example, City A could allow City B to search its cameras only for a stolen vehicle, missing person, or violent crime while blocking searches related to immigration enforcement.\"\nFlock will also make mandatory an audit feature that documents all searches and flags abnormal activity, while the system will lock out users who exhibit \"abnormal behaviour\" for further review.\nCase codes will be required for all law enforcement searches by the end of 2026, the company said.\nThe American Civil Liberties Union (ACLU) welcomed Flock's decision to slash the recommended data retention period, but said other changes were superficial or recycled versions of inadequate safety features.\n\"While one proposed change to Flock's operations might constitute a positive development, most of the other changes seem to be following Flock's playbook of treating legitimate privacy concerns as mere public relations problems,\" the ACLU said.",
+ "new_text": "Flock Safety has unveiled stronger privacy protections following reports of US police officers using the AI-powered company's automatic licence-plate readers to stalk and harass women.\nFlock, based in Atlanta, Georgia, operates some 120,000 cameras across the US that capture images of vehicles and licence plates for storage in a searchable database.\nRecommended Stories\nlist of 4 items\n- list 1 of 4Oil slick from tanker carrying sanctioned Russian crude reaches Oman\n- list 2 of 4Mali says 82 soldiers captured by armed groups have been freed\n- list 3 of 4Brazil opens reciprocity process against United States over tariffs\n- list 4 of 4Water supply for three US states drips down, Lake Mead at record low\nFlock markets its products as crime-fighting tools for law enforcement and private groups such neighbourhood watch committees, but critics accuse the company of operating a system of mass surveillance with little oversight.\nThe company has been under renewed scrutiny since The Washington Post earlier this month published a lengthy investigation revealing that at least 46 law enforcement officers across the US have been accused of using the license-plate cameras for unauthorised tracking, including to stalk wives, girlfriends and exes.\nIn a statement on Thursday, Flock said it is reducing the recommended default retention period for images from 30 days to 7 days, and introducing an \"evidence mode\" allowing for longer storage windows in \"exceptional cases\".\nLaw enforcement agencies can now also add offence-based filters to restrict which data can be accessed by other agencies.\n\"Cities can choose which type of offences are permissible for other agencies to access their cameras,\" Flock said.\n\"For example, City A could allow City B to search its cameras only for a stolen vehicle, missing person, or violent crime while blocking searches related to immigration enforcement.\"\nFlock will also make mandatory an audit feature that documents all searches and flags abnormal activity, while the system will lock out users who exhibit \"abnormal behaviour\" for further review.\nCase codes will be required for all law enforcement searches by the end of 2026, the company said.\nThe American Civil Liberties Union (ACLU) welcomed Flock's decision to slash the recommended data retention period, but said other changes were superficial or recycled versions of inadequate safety features.\n\"While one proposed change to Flock's operations might constitute a positive development, most of the other changes seem to be following Flock's playbook of treating legitimate privacy concerns as mere public relations problems,\" the ACLU said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "days to 7 days, and introducing an \"evidence mode\" allowing for longer"
+    ],
+    [
+     "del",
+     "shortage"
+    ],
+    [
+     "ins",
+     "storage"
+    ],
+    [
+     "eq",
+     "windows in \"exceptional cases\". Law enforcement agencies can now also add offence-based"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0049,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "6dcb17665432e270-498cf72e-da17cb89",
+ "url": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-08-19T07:09:39Z",
+ "date": "2026-08-19",
+ "old_title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+ "new_title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+ "old_text": "The Centers for Disease Control and Prevention on Monday released data on the vaccination rates of US kindergarteners in the 2025-2026 school year, revealing that rates have once again decreased from the previous school year.\nVaccination rates have been slipping since the 2019-2020 school year, when the US had obtained rates of around 95 percent, the threshold needed to keep outbreaks of vaccine-preventable diseases from spreading in communities. The latest data shows the US is moving further away from that target.\nNationally, only 92.4 percent of kindergartners were vaccinated with the measles, mumps, and rubella (MMR) vaccine in the 2025-2026 school year, down from 92.5 percent last year. Coverage with the DTaP vaccine, which covers diphtheria, tetanus, and acellular pertussis (whooping cough), similarly fell from 92.1 percent to 92.0 percent.\nMore than half of states saw decreases in coverage for MMR, DTaP, polio vaccine, and varicella/chickenpox vaccine. Only 10 states have MMR vaccination rates at or above the 95 percent threshold: West Virginia, Connecticut, Maine, New York, Mississippi, Rhode Island, Maryland, Massachusetts, California, and New Mexico.\nWhile vaccination rates slipped further, the number of children with exemptions from school vaccine requirements jumped more dramatically. In the 2025-2026 school year, 4 percent of kindergartners had a nonmedical exemption-meaning it was an exemption based on personal or religious beliefs. That's up from 3.2 percent nonmedical exemption rate in 2024-2025. Medical exemptions have held steady over recent years at 0.2 percent.",
+ "new_text": "The Centers for Disease Control and Prevention on Monday released data on the vaccination rates of US kindergarteners in the 2025-2026 school year, revealing that rates have once again decreased from the previous school year.\nVaccination rates have been slipping since the 2019-2020 school year, when the US had obtained rates of around 95 percent, the threshold needed to keep outbreaks of vaccine-preventable diseases from spreading in communities. The latest data shows the US is moving further away from that target.\nNationally, only 92.4 percent of kindergartners were vaccinated with the measles, mumps, and rubella (MMR) vaccine in the 2025-2026 school year, down from 92.5 percent last year. Coverage with the DTaP vaccine, which covers diphtheria, tetanus, and acellular pertussis (whooping cough), similarly fell from 92.1 percent to 92.0 percent.\nMore than half of states saw decreases in coverage for MMR, DTaP, polio vaccine, and varicella/chickenpox vaccine. Only 10 states have MMR vaccination rates at or above the 95 percent threshold: West Virginia, Connecticut, Maine, New York, Mississippi, Rhode Island, Maryland, Massachusetts, California, and New Mexico.\nWhile vaccination rates slipped further, the number of children with exemptions from school vaccine requirements jumped more dramatically. In the 2025-2026 school year, 4 percent of kindergartners had a nonmedical exemption-meaning it was an exemption based on personal or religious beliefs. That's up from a 3.2 percent nonmedical exemption rate in 2024-2025. Medical exemptions have held steady over recent years at 0.2 percent.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "was an exemption based on personal or religious beliefs. That's up from"
+    ],
+    [
+     "ins",
+     "a"
+    ],
+    [
+     "eq",
+     "3.2 percent nonmedical exemption rate in 2024-2025. Medical exemptions have held steady over recent years at 0.2 percent."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0042,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

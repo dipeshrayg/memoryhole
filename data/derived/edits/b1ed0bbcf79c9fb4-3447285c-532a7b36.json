@@ -1,0 +1,64 @@
+{
+ "id": "b1ed0bbcf79c9fb4-3447285c-532a7b36",
+ "url": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-19T06:56:29Z",
+ "date": "2026-08-19",
+ "old_title": "Trump threatens to bomb Oman if it 'gets in the way' of Hormuz shipping deal",
+ "new_title": "Trump threatens to bomb Oman if it 'gets in the way' of Hormuz shipping deal",
+ "old_text": "Trump threatens to bomb Oman if it 'gets in the way' of Hormuz shipping deal\nUS President Donald Trump on Monday threatened to bomb Oman if it \"gets in the way\" of a deal over shipping in the Strait of Hormuz. His threat came after the prime minister's office in Iraqi Kurdistan was targeted by two Iranian drones overnight, authorities said Monday. Follow our liveblog to see how the day's events unfolded.\nThis liveblog is no longer being updated.\nYesterday's developments:\n- US negotiator and President Donald Trump 's son-in-law Jared Kushner held a rare meeting with the Hamas chief on Sunday in a new diplomatic effort to make progress in the stalled Gaza ceasefire ahead of Monday's meeting with Israel's prime minister, who is under pressure after rejecting the new 15-point, US-backed roadmap.\n- An extremist Israeli lawmaker in Prime Minister Benjamin Netanyahu's coalition publicly advocated for killing \"30 to 40 people\" in Gaza each night, comments that surfaced Sunday and were quickly shared by Palestinian media.\n- The top US military commander in the Middle East praised the leadership of the long-deployed USS Lincoln after visiting the sailors on the vessel during a regional tour that ended on Saturday, the US Central Command said.\n- Iran's military announced it was offering a bounty equivalent to $30,000 for killing or capturing US soldiers, with the reward doubled if carried out by a woman.\n(FRANCE 24 with AFP, AP and Reuters)",
+ "new_text": "Trump threatens to bomb Oman if it 'gets in the way' of Hormuz shipping deal\nUS President Donald Trump on Monday threatened to bomb Oman if it \"gets in the way\" of a deal over shipping in the Strait of Hormuz. His threat came after the prime minister's office in Iraqi Kurdistan was targeted by two Iranian drones overnight, authorities said Monday. Read our blog to see how the day's events unfolded.\nThis liveblog is no longer being updated.\nYesterday's developments:\n- US negotiator and President Donald Trump 's son-in-law Jared Kushner held a rare meeting with the Hamas chief on Sunday in a new diplomatic effort to make progress in the stalled Gaza ceasefire ahead of Monday's meeting with Israel's prime minister, who is under pressure after rejecting the new 15-point, US-backed roadmap.\n- An extremist Israeli lawmaker in Prime Minister Benjamin Netanyahu's coalition publicly advocated for killing \"30 to 40 people\" in Gaza each night, comments that surfaced Sunday and were quickly shared by Palestinian media.\n- The top US military commander in the Middle East praised the leadership of the long-deployed USS Lincoln after visiting the sailors on the vessel during a regional tour that ended on Saturday, the US Central Command said.\n- Iran's military announced it was offering a bounty equivalent to $30,000 for killing or capturing US soldiers, with the reward doubled if carried out by a woman.\n(FRANCE 24 with AFP, AP and Reuters)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Iraqi Kurdistan was targeted by two Iranian drones overnight, authorities said Monday."
+    ],
+    [
+     "del",
+     "Follow"
+    ],
+    [
+     "ins",
+     "Read"
+    ],
+    [
+     "eq",
+     "our"
+    ],
+    [
+     "del",
+     "liveblog"
+    ],
+    [
+     "ins",
+     "blog"
+    ],
+    [
+     "eq",
+     "to see how the day's events unfolded. This liveblog is no longer"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0166,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9963,
+ "adjudicated_by": "rules"
+}
