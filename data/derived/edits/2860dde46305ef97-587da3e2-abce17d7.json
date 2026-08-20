@@ -1,0 +1,60 @@
+{
+ "id": "2860dde46305ef97-587da3e2-abce17d7",
+ "url": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-08-20T07:07:49Z",
+ "date": "2026-08-20",
+ "old_title": "Ukrainian drones overwhelm Russian tanks' new active protection system-for now",
+ "new_title": "Ukrainian drones overwhelm Russian tanks' new active protection system-for now",
+ "old_text": "Russian tanks have entered battle for the first time with a new active protection system designed to shoot down incoming drones. But the technology's recent combat debut in Ukraine met with only limited success-Ukrainian drones still destroyed the Russian armored vehicles by attacking in overwhelming numbers.\nThe first documented battlefield appearance of the Arena-M active protection system took place when Russian forces launched a company-size assault with tanks and other armored vehicles in the Donetsk Oblast of eastern Ukraine on July 22. The Ukrainian defenders repelled the attack and posted video footage of their kamikaze drone strikes destroying at least seven T-72B3A tanks, including some that carried the Arena-M system, according to Euromaidan Press.\nHowever, Ukrainian soldiers also described the Russian Arena-M system successfully shooting down some incoming drones, according to the journalists Dmytro Putiata and Rob Lee. The Ukrainians reported requiring between 15 and 20 drones to finish off each tank.\nThe incident \"demonstrated that the Russian military is learning and is experimenting in how to employ armor on a drone-saturated battlefield,\" Lee wrote on X. \"The Arena-M [active protection system] demonstrated effectiveness and will likely be improved.\"\nThis development comes more than four years after Russia launched its full-scale invasion of Ukraine in February 2022, as mass armored assaults have become increasingly scarce on the modern battlefield dominated by drone warfare. It's part of an ongoing arms race where many militaries are struggling to figure out how to protect the weakest points of their expensive main battle tanks and other armored vehicles against swarms of cheap drones.\nThe Russian military has previously tried adding more physical armor in the form of \"cope cages\" welded or bolted onto tanks and other vehicles, which inspired the Ukrainian military to do the same. Russian forces even made \"turtle tanks\" covered in porcupine-style metal spikes and other improvised armor, although the extra weight and encumbrance of such add-ons have often limited both tank mobility and the use of their main guns.",
+ "new_text": "Russian tanks have entered battle for the first time with a new active protection system designed to shoot down incoming drones. But the technology's recent combat debut in Ukraine met with only limited success-Ukrainian drones still destroyed the Russian armored vehicles by attacking in overwhelming numbers.\nThe first documented battlefield appearance of the Arena-M active protection system took place when Russian forces launched a company-size assault with tanks and other armored vehicles in the Donetsk Oblast region of eastern Ukraine on July 22. The Ukrainian defenders repelled the attack and posted video footage of their kamikaze drone strikes destroying at least seven T-72B3A tanks, including some that carried the Arena-M system, according to Euromaidan Press.\nHowever, Ukrainian soldiers also described the Russian Arena-M system successfully shooting down some incoming drones, according to the journalists Dmytro Putiata and Rob Lee. The Ukrainians reported requiring between 15 and 20 drones to finish off each tank.\nThe incident \"demonstrated that the Russian military is learning and is experimenting in how to employ armor on a drone-saturated battlefield,\" Lee wrote on X. \"The Arena-M [active protection system] demonstrated effectiveness and will likely be improved.\"\nThis development comes more than four years after Russia launched its full-scale invasion of Ukraine in February 2022, as mass armored assaults have become increasingly scarce on the modern battlefield dominated by drone warfare. It's part of an ongoing arms race where many militaries are struggling to figure out how to protect the weakest points of their expensive main battle tanks and other armored vehicles against swarms of cheap drones.\nThe Russian military has previously tried adding more physical armor in the form of \"cope cages\" welded or bolted onto tanks and other vehicles, which inspired the Ukrainian military to do the same. Russian forces even made \"turtle tanks\" covered in porcupine-style metal spikes and other improvised armor, although the extra weight and encumbrance of such add-ons have often limited both tank mobility and the use of their main guns.\nEven up-armored vehicles attempting to enter the drone kill zone usually get destroyed, which is why mechanized assaults have mostly disappeared from the current battlefields in Ukraine in favor of infiltration tactics using small groups of soldiers. Russia's battlefield deployment of the Arena-M aimed to change that.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "company-size assault with tanks and other armored vehicles in the Donetsk Oblast"
+    ],
+    [
+     "ins",
+     "region"
+    ],
+    [
+     "eq",
+     "of eastern Ukraine on July 22. The Ukrainian defenders repelled the attack"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "often limited both tank mobility and the use of their main guns."
+    ],
+    [
+     "ins",
+     "Even up-armored vehicles attempting to enter the drone kill zone usually get destroyed, which is why mechanized assaults have mostly disappeared from the current battlefields in Ukraine in favor of infiltration tactics using small groups of soldiers. Russia's battlefield deployment of the Arena-M aimed to change that."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1459,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 0.9989,
+ "adjudicated_by": "rules"
+}
