@@ -1,0 +1,116 @@
+{
+ "id": "bf179632de377a96-825f2bc0-91e839fb",
+ "url": "https://www.france24.com/en/tv-shows/sports/20260819-champions-league-everything-still-to-play-for-between-lyon-and-fenerbahce",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-21T06:59:27Z",
+ "date": "2026-08-21",
+ "old_title": "Sports - Champions League: Everything still to play for between Lyon and Fenerbahce",
+ "new_title": "Sports - Champions League: Everything still to play for between Lyon and Fenerbahçe",
+ "old_text": "Champions League: Everything still to play for between Lyon and Fenerbahce\nIssued on:\nOlympique Lyonnais and Fenerbahce drew 1-1 in the first leg of their Champions League play-off. The second leg will take place on Wednesday 26 August in Lyon.\nPatrick Vieira is Senegal's new manager. Rodri is officially a Barcelona player. In tennis, Aryna Sabalenka and Mirra Andreeva have qualified for the last 16 in Cincinnati, as has Brandon Nakashima. At the World Badminton Championships, Christo Popov has already been knocked out.",
+ "new_text": "Champions League: Everything still to play for between Lyon and Fenerbahçe\nIssued on:\nOlympique Lyonnais and Fenerbahçe drew 1-1 in the first leg of their Champions League play-off. The second leg will take place on Wednesday August 26 in Lyon.\nAlso in this edition:\nPatrick Vieira is Senegal's new manager. Rodri is officially a Barcelona player. In tennis, Aryna Sabalenka and Mirra Andreeva have qualified for the last 16 in Cincinnati, as has Brandon Nakashima. Finally, at the World Badminton Championships, France's Christo Popov has already been knocked out.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Champions League: Everything still to play for between Lyon and"
+    ],
+    [
+     "del",
+     "Fenerbahce"
+    ],
+    [
+     "ins",
+     "Fenerbahçe"
+    ],
+    [
+     "eq",
+     "Issued on: Olympique Lyonnais and"
+    ],
+    [
+     "del",
+     "Fenerbahce"
+    ],
+    [
+     "ins",
+     "Fenerbahçe"
+    ],
+    [
+     "eq",
+     "drew 1-1 in the first leg of their Champions League play-off. The second leg will take place on Wednesday"
+    ],
+    [
+     "ins",
+     "August"
+    ],
+    [
+     "eq",
+     "26"
+    ],
+    [
+     "del",
+     "August"
+    ],
+    [
+     "eq",
+     "in Lyon."
+    ],
+    [
+     "ins",
+     "Also in this edition:"
+    ],
+    [
+     "eq",
+     "Patrick Vieira is Senegal's new manager. Rodri is officially a Barcelona player."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "have qualified for the last 16 in Cincinnati, as has Brandon Nakashima."
+    ],
+    [
+     "del",
+     "At"
+    ],
+    [
+     "ins",
+     "Finally, at"
+    ],
+    [
+     "eq",
+     "the World Badminton Championships,"
+    ],
+    [
+     "ins",
+     "France's"
+    ],
+    [
+     "eq",
+     "Christo Popov has already been knocked out."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1687,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9875,
+ "adjudicated_by": "rules"
+}

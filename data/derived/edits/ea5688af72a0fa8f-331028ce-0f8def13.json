@@ -1,0 +1,175 @@
+{
+ "id": "ea5688af72a0fa8f-331028ce-0f8def13",
+ "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-21T07:04:10Z",
+ "date": "2026-08-21",
+ "old_title": "Travelodge boss steps down after security issues in rooms",
+ "new_title": "Travelodge boss steps down as chain tackles security after sex assault at hotel",
+ "old_text": "- Published\nThe boss of hotel chain Travelodge, Jo Boydell, is stepping down as the group grapples with safety issues after a sexual assault at one of its hotels.\nA woman staying at a Maidenhead hotel was sexually assaulted in December 2022 after a man lied to staff to get a key card to her room, triggering an independent review of security measures at the hotel giant.\nKyran Smith was jailed for seven years and six months for the attack.\nBoydell is being replaced on an interim basis by Ray Reidy, who said: \"We remain focused on the safety and well-being of our guests and will continue taking the actions necessary to strengthen the business.\"",
+ "new_text": "- Published\nThe boss of Travelodge, Jo Boydell, has stepped down as the group addresses safety issues after a sexual assault at one of its hotels.\nA woman staying at a hotel in Maidenhead was sexually assaulted in December 2022 after a man lied to staff to get a key card to her room. Kyran Smith was jailed for more than seven years for the attack.\nMany people have since contacted the BBC over room security incidents at Travelodges and a review of security measures at the firm is under way.\nBoydell had been criticised for the firm's handling of safety issues. She said she only heard about the assault years after it had happened, although it emerged the victim had emailed her shortly after the attack.\nWhen questioned about the victim's email, sent in January 2023 one month after the assault, Boydell said it had been \"handled on my behalf\" and there had been \"serious failures\".\nEarlier this month, a domestic violence victim told the BBC how she was attacked in her hotel room after Travelodge reception staff gave a key to her abuser.\nThe woman said she was \"failed\" by the chain and described it as one of the \"most traumatic nights of my life\" after the man kicked the door off its hinges.\nShe said she ran downstairs \"shaking, crying and begging for help\", adding: \"I thought someone would protect me.\"\nInstead, she was offered another room in the hotel.\nIn another incident, a couple in Scotland woke to find a shirtless man in their hotel bedroom after he was mistakenly given a key card to their door.\nIn April, a group of hotel guests said they were given keys to other people's rooms twice in one week at a Travelodge branch in Newham, east London.\nJohn Nowell, who was part of a corporate group staying at the hotel, told the BBC that his key card allowed him into a room where the occupant was in the middle of a shower.\nLiberal Democrat Freddie van Mierlo is the MP for Thame, where Travelodge's HQ is based, and has previously called for Boydell to resign. On Thursday, he told the BBC he was pleased that she was leaving the firm.\n\"I've always said that what's wrong is the business model â it's made far too many cuts, deep cuts, to the company in order to have a low-cost model. That's an important part of the market, but that can never put guest safety at risk,\" he said.\nHe said he wants the investors in the chain to release capital and fund \"deep changes\" within the company.\nSecurity issues at Travelodge drew the attention of the government early this year. In March, then Prime Minister Sir Keir Starmer wrote to Boydell urging her to \"seriously engage\" with the government over security at Travelodge hotels.\nAn independent review into security at the hotel chain is ongoing and is being led by barrister Paul Greaney KC.\nIn its statement on Thursday, Travelodge also outlined several measures it was taking to address security issues.\nIt highlighted a partnership \"with a leading Violence Against Women and Girls expert\" who is training some of the firm's senior leaders, as well as reviewing the company's existing policies.\nAny additional or replacement room keys now require explicit permission from the guest staying in the room, the firm said.\nThe chain said it had also carried out checks across all of its UK rooms to confirm that all key-card doors have a secondary deadbolt.\nBoydell, who stood down on 17 August, has been replaced on an interim basis by the company's chief financial officer Ray Reidy.\nIn a statement, Reidy said: \"We remain focused on the safety and well-being of our guests and will continue taking the actions necessary to strengthen the business.\n\"We will also continue to engage proactively and constructively with government and the wider hospitality industry on the issue of safety and security.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published The boss of"
+    ],
+    [
+     "del",
+     "hotel chain"
+    ],
+    [
+     "eq",
+     "Travelodge, Jo Boydell,"
+    ],
+    [
+     "del",
+     "is stepping"
+    ],
+    [
+     "ins",
+     "has stepped"
+    ],
+    [
+     "eq",
+     "down as the group"
+    ],
+    [
+     "del",
+     "grapples with"
+    ],
+    [
+     "ins",
+     "addresses"
+    ],
+    [
+     "eq",
+     "safety issues after a sexual assault at one of its hotels. A woman staying at a"
+    ],
+    [
+     "ins",
+     "hotel in"
+    ],
+    [
+     "eq",
+     "Maidenhead"
+    ],
+    [
+     "del",
+     "hotel"
+    ],
+    [
+     "eq",
+     "was sexually assaulted in December 2022 after a man lied to staff to get a key card to her"
+    ],
+    [
+     "del",
+     "room, triggering an independent"
+    ],
+    [
+     "ins",
+     "room. Kyran Smith was jailed for more than seven years for the attack. Many people have since contacted the BBC over room security incidents at Travelodges and a"
+    ],
+    [
+     "eq",
+     "review of security measures at the"
+    ],
+    [
+     "del",
+     "hotel giant. Kyran Smith was jailed for seven years and six months"
+    ],
+    [
+     "ins",
+     "firm is under way. Boydell had been criticised"
+    ],
+    [
+     "eq",
+     "for the"
+    ],
+    [
+     "ins",
+     "firm's handling of safety issues. She said she only heard about the assault years after it had happened, although it emerged the victim had emailed her shortly after the"
+    ],
+    [
+     "eq",
+     "attack."
+    ],
+    [
+     "ins",
+     "When questioned about the victim's email, sent in January 2023 one month after the assault,"
+    ],
+    [
+     "eq",
+     "Boydell"
+    ],
+    [
+     "ins",
+     "said it had been \"handled on my behalf\" and there had been \"serious failures\". Earlier this month, a domestic violence victim told the BBC how she was attacked in her hotel room after Travelodge reception staff gave a key to her abuser. The woman said she was \"failed\" by the chain and described it as one of the \"most traumatic nights of my life\" after the man kicked the door off its hinges. She said she ran downstairs \"shaking, crying and begging for help\", adding: \"I thought someone would protect me.\" Instead, she was offered another room in the hotel. In another incident, a couple in Scotland woke to find a shirtless man in their hotel bedroom after he was mistakenly given a key card to their door. In April, a group of hotel guests said they were given keys to other people's rooms twice in one week at a Travelodge branch in Newham, east London. John Nowell, who was part of a corporate group staying at the hotel, told the BBC that his key card allowed him into a room where the occupant was in the middle of a shower. Liberal Democrat Freddie van Mierlo is the MP for Thame, where Travelodge's HQ is based, and has previously called for Boydell to resign. On Thursday, he told the BBC he was pleased that she was leaving the firm. \"I've always said that what's wrong is the business model â it's made far too many cuts, deep cuts, to the company in order to have a low-cost model. That's an important part of the market, but that can never put guest safety at risk,\" he said. He said he wants the investors in the chain to release capital and fund \"deep changes\" within the company. Security issues at Travelodge drew the attention of the government early this year. In March, then Prime Minister Sir Keir Starmer wrote to Boydell urging her to \"seriously engage\" with the government over security at Travelodge hotels. An independent review into security at the hotel chain is ongoing and"
+    ],
+    [
+     "eq",
+     "is being"
+    ],
+    [
+     "ins",
+     "led by barrister Paul Greaney KC. In its statement on Thursday, Travelodge also outlined several measures it was taking to address security issues. It highlighted a partnership \"with a leading Violence Against Women and Girls expert\" who is training some of the firm's senior leaders, as well as reviewing the company's existing policies. Any additional or replacement room keys now require explicit permission from the guest staying in the room, the firm said. The chain said it had also carried out checks across all of its UK rooms to confirm that all key-card doors have a secondary deadbolt. Boydell, who stood down on 17 August, has been"
+    ],
+    [
+     "eq",
+     "replaced on an interim basis by"
+    ],
+    [
+     "ins",
+     "the company's chief financial officer"
+    ],
+    [
+     "eq",
+     "Ray"
+    ],
+    [
+     "del",
+     "Reidy, who"
+    ],
+    [
+     "ins",
+     "Reidy. In a statement, Reidy"
+    ],
+    [
+     "eq",
+     "said: \"We remain focused on the safety and well-being of our guests and will continue taking the actions necessary to strengthen the"
+    ],
+    [
+     "del",
+     "business.\""
+    ],
+    [
+     "ins",
+     "business. \"We will also continue to engage proactively and constructively with government and the wider hospitality industry on the issue of safety and security.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 5.1826,
+  "numbers_changed": [
+   "17",
+   "2023"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.346,
+ "similarity": 0.8456,
+ "adjudicated_by": "rules"
+}

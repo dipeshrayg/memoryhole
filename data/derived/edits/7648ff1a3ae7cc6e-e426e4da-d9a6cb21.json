@@ -1,0 +1,156 @@
+{
+ "id": "7648ff1a3ae7cc6e-e426e4da-d9a6cb21",
+ "url": "https://www.gov.uk/government/news/mhra-advises-against-the-use-of-rectal-catheters-in-infants",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "country": "United Kingdom",
+ "category": "government",
+ "lang": "en",
+ "detected_at": "2026-08-21T07:03:21Z",
+ "date": "2026-08-21",
+ "old_title": "MHRA advises against the use of rectal catheters in infants",
+ "new_title": "MHRA advises against using rectal catheters sold for personal use in infants",
+ "old_text": "The Medicines and Healthcare products Regulatory Agency has today issued a Device Safety Information (DSI) notice warning healthcare professionals, parents and carers not to use rectal catheters (gas and colic relievers) on their babies.\nThese products are sometimes used by parents and caregivers to help with colic, constipation or trapped wind. They are available to buy online and in shops without a prescription.\nFollowing a review of available evidence and expert clinical advice, the MHRA has concluded that there is insufficient evidence that these devices work as intended. The MHRA is also concerned about the potential risks associated with their use.\nThe MHRA is advising that parents, caregivers and healthcare professionals do not use or recommend the use of these products in infants, and that any products already purchased should be disposed of.\nWhile there have been no confirmed reports of serious injury, the safety and benefits of these products remain uncertain. There are concerns that using these products could make it harder to detect underlying conditions that may require medical attention. Experts also considered the potential risk of injury to the bottom, including tearing or perforating the inside of an infant's bottom, which could have serious consequences.\nDr Alison Cave, MHRA Chief Safety Officer, said:\n\"We understand that colic and digestive discomfort can be distressing for babies and their families. We are advising against the use of rectal catheters in babies because there is not enough clinical evidence to support their safety and effectiveness.\"\n\"Parents and caregivers should seek advice from a healthcare professional and follow the NHS guidance if they are concerned about their baby.\"\nAnyone who experiences a problem with a medical device or suspects that their child has had a side effect related to the use of rectal catheters should report it directly to the MHRA Yellow Card scheme.\nNotes to editors:\n-\nThe Device Safety Information notice can be read here: Device Safety Information: All rectal catheters (gas and colic relievers)\n-\nThe Medicines and Healthcare products Regulatory Agency (MHRA) is responsible for regulating all medicines and medical devices in the UK by ensuring they work and are acceptably safe. All our work is underpinned by robust and fact-based judgements to ensure that the benefits justify any risks.\n-\nThe MHRA is an executive agency of the Department of Health and Social Care.\n-\nFor media enquiries, please contact the newscentre@mhra.gov.uk, or call on 020 3080 7651.",
+ "new_text": "The Medicines and Healthcare products Regulatory Agency has today issued a Device Safety Information (DSI) notice warning parents and carers not to use rectal catheters sold for personal use (gas and colic relievers) on their babies.\nThese products are sometimes used by parents and caregivers to help with colic, constipation or trapped wind. They are available to buy online and in shops without a prescription.\nFollowing a review of available evidence and expert clinical advice, the MHRA has concluded that there is insufficient evidence that these devices work as intended. The MHRA is also concerned about the potential risks associated with their use.\nPlease note this advice is not applicable for rectal catheters that are used by healthcare professionals in specialist areas such as Hirschsprung's, meconium ileus, or gastroschisis.\nThe MHRA is advising that parents and caregivers do not use or recommend the use of these products in infants, and that any products already purchased should be disposed of.\nWhile there have been no confirmed reports of serious injury, the safety and benefits of these products remain uncertain. There are concerns that using these products could make it harder to detect underlying conditions that may require medical attention. Experts also considered the potential risk of injury to the bottom, including tearing or perforating the inside of an infant's bottom, which could have serious consequences.\nDr Alison Cave, MHRA Chief Safety Officer, said:\n\"We understand that colic and digestive discomfort can be distressing for babies and their families. We are advising against the use of rectal catheters in babies because there is not enough clinical evidence to support their safety and effectiveness.\n\"Parents and caregivers should seek advice from a healthcare professional and follow the NHS guidance if they are concerned about their baby.\"\nAnyone who experiences a problem with a medical device or suspects that their child has had a side effect related to the use of rectal catheters should report it directly to the MHRA Yellow Card scheme.\nThe Medicines and Healthcare products Regulatory Agency (MHRA) is responsible for regulating all medicines and medical devices in the UK by ensuring they work and are acceptably safe. All our work is underpinned by robust and fact-based judgements to ensure that the benefits justify any risks.\nThe MHRA is an executive agency of the Department of Health and Social Care.\nFor media enquiries, please contact the newscentre@mhra.gov.uk, or call on 020 3080 7651.\nAmended wording to reflect the DSI applies to rectal catheters sold for personal use, and the advice is not applicable to rectal catheters used for specialist medical treatments.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Regulatory Agency has today issued a Device Safety Information (DSI) notice warning"
+    ],
+    [
+     "del",
+     "healthcare professionals,"
+    ],
+    [
+     "eq",
+     "parents and carers not to use rectal catheters"
+    ],
+    [
+     "ins",
+     "sold for personal use"
+    ],
+    [
+     "eq",
+     "(gas and colic relievers) on their babies. These products are sometimes used"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "MHRA is also concerned about the potential risks associated with their use."
+    ],
+    [
+     "ins",
+     "Please note this advice is not applicable for rectal catheters that are used by healthcare professionals in specialist areas such as Hirschsprung's, meconium ileus, or gastroschisis."
+    ],
+    [
+     "eq",
+     "The MHRA is advising that"
+    ],
+    [
+     "del",
+     "parents,"
+    ],
+    [
+     "ins",
+     "parents and"
+    ],
+    [
+     "eq",
+     "caregivers"
+    ],
+    [
+     "del",
+     "and healthcare professionals"
+    ],
+    [
+     "eq",
+     "do not use or recommend the use of these products in infants,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "because there is not enough clinical evidence to support their safety and"
+    ],
+    [
+     "del",
+     "effectiveness.\""
+    ],
+    [
+     "ins",
+     "effectiveness."
+    ],
+    [
+     "eq",
+     "\"Parents and caregivers should seek advice from a healthcare professional and follow"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "rectal catheters should report it directly to the MHRA Yellow Card scheme."
+    ],
+    [
+     "del",
+     "Notes to editors: - The Device Safety Information notice can be read here: Device Safety Information: All rectal catheters (gas and colic relievers) -"
+    ],
+    [
+     "eq",
+     "The Medicines and Healthcare products Regulatory Agency (MHRA) is responsible for regulating"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "robust and fact-based judgements to ensure that the benefits justify any risks."
+    ],
+    [
+     "del",
+     "-"
+    ],
+    [
+     "eq",
+     "The MHRA is an executive agency of the Department of Health and Social Care."
+    ],
+    [
+     "del",
+     "-"
+    ],
+    [
+     "eq",
+     "For media enquiries, please contact the newscentre@mhra.gov.uk, or call on 020 3080 7651."
+    ],
+    [
+     "ins",
+     "Amended wording to reflect the DSI applies to rectal catheters sold for personal use, and the advice is not applicable to rectal catheters used for specialist medical treatments."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2338,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.97,
+ "similarity": 0.925,
+ "adjudicated_by": "rules"
+}

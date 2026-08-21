@@ -1,0 +1,237 @@
+{
+ "id": "5aec69d31c6b21f7-4b6c2881-e47dc69b",
+ "url": "https://www.dw.com/en/bangladesh-lawmakers-set-to-elect-alamgir-president/a-78438534?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-21T06:58:44Z",
+ "date": "2026-08-21",
+ "old_title": "Bangladesh lawmakers set to elect Alamgir president",
+ "new_title": "Bangladesh lawmakers elect BNP's Alamgir as president",
+ "old_text": "Bangladesh's parliament is set to elect the country's new president on Thursday, with the ruling Bangladesh Nationalist Party's (BNP) Mirza Fakhrul Islam Alamgir widely expected to win.\nThe BNP holds more than a two-thirds majority in parliament, making it unlikely that retired army officer-turned-politician Oli Ahmed of the opposition Jamaat-e-Islami-led alliance will get the vote.\nLawmakers are set to vote at 2 p.m. local time (0800 UTC).\nThe election comes after former president Mohammed Shahabuddin, a close ally of ousted Prime Minister Sheikh Hasina, resigned in July citing health concerns.\nWho is Mirza Fakhrul Islam Alamgir?\nIn February, Prime Minister Tarique Rahman's BNP won a landslide victory in the first election since Hasina's 2024 ouster.\nThe party is expected to use its majority to hand the 78-year-old Alamgir the largely ceremonial presidency.\n\"I never thought that I would become the president, it is the infinite grace of the party and almighty Allah,\" he told reporters on Tuesday, according to the state news agency BSS.\n\"Even after becoming president, I wish to remain beside the people and serve them.\"\nAlamgir was repeatedly arrested under Hasina's government, facing dozens of charges he said were politically motivated.\nHe has been hailed in the media for \"keeping the BNP organized and maintaining the party's political presence during difficult times,\" referring to Hasina's rule.\nEdited by: Zac Crellin\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "new_text": "Bangladesh's Parliament elected ruling Bangladesh Nationalist Party (BNP) Secretary General Mirza Fakhrul Islam Alamgir as the country's new president on Thursday.\nThe BNP, which holds more than a two-thirds majority in parliament, secured the largely ceremonial post for Alamgir, defeating retired army officer-turned-politician Oli Ahmed of the opposition Jamaat-e-Islami-led alliance.\nAlamgir won with 255 votes to Oli's 88 to become the 23rd president of the country of 173 million.\nIt was the first contested presidential election since 1991, when Bangladesh became a parliamentary democracy.\nThe vote comes after former president Mohammed Shahabuddin, a close ally of ousted Prime Minister Sheikh Hasina, resigned last month citing health concerns.\nWhat did Alamgir and Oli say?\n\"I dream of a happy, prosperous, and welfare-oriented state where marginalized communities, hard-working people, and daily wage earners can afford meals twice a day,\" Alamgir, 78, said Thursday before the vote, according to the state news agency BSS.\nHis challenger, 87-year-old Oli, said the country had \"high hopes\" for his presidency.\n\"We expect you to serve the country by putting national interests above personal interests,\" he said after the vote.\nBangladesh's close ally China congratulated Alamgir, saying it looked forward to \"a shared future in the new era,\" its high commission in the capital, Dhaka, said in a statement.\nWho is Mirza Fakhrul Islam Alamgir?\nIn February, Prime Minister Tarique Rahman's BNP won a landslide victory in the first election since Hasina's 2024 ouster.\nHasina remains in exile in India. She was found guilty in absentia in November of crimes against humanity and sentenced to be hanged. Rights groups say her rule was marked by widespread abuses, including the murder of rivals and supression of political opposition.\nBorn in 1948, Alamgir entered politics while studying economics at Dhaka University. He was a key student leader in the 1969 uprising opposing military rule by Pakistan, before becoming an economics teacher. He joined the BNP in the early 1990s and rose steadily through its ranks.\nHe became well known nationally as an opposition leader during Hasina's 15-year rule and was repeatedly arrested under her government, facing dozens of charges he said were politically motivated.\nAlamgir has been hailed in the media for \"keeping the BNP organized and maintaining the party's political presence during difficult times,\" referring to Hasina's rule.\nAs president, he will serve as the head of state and commander-in-chief of the armed forces. He is expected to be sworn in on Friday evening.\nEdited by: Zac Crellin\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Bangladesh's"
+    ],
+    [
+     "del",
+     "parliament is set to elect"
+    ],
+    [
+     "ins",
+     "Parliament elected ruling Bangladesh Nationalist Party (BNP) Secretary General Mirza Fakhrul Islam Alamgir as"
+    ],
+    [
+     "eq",
+     "the country's new president on"
+    ],
+    [
+     "del",
+     "Thursday, with the ruling Bangladesh Nationalist Party's (BNP) Mirza Fakhrul Islam Alamgir widely expected to win."
+    ],
+    [
+     "ins",
+     "Thursday."
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "BNP"
+    ],
+    [
+     "ins",
+     "BNP, which"
+    ],
+    [
+     "eq",
+     "holds more than a two-thirds majority in parliament,"
+    ],
+    [
+     "del",
+     "making it unlikely that"
+    ],
+    [
+     "ins",
+     "secured the largely ceremonial post for Alamgir, defeating"
+    ],
+    [
+     "eq",
+     "retired army officer-turned-politician Oli Ahmed of the opposition Jamaat-e-Islami-led"
+    ],
+    [
+     "del",
+     "alliance will get"
+    ],
+    [
+     "ins",
+     "alliance. Alamgir won with 255 votes to Oli's 88 to become"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "vote. Lawmakers are set to"
+    ],
+    [
+     "ins",
+     "23rd president of the country of 173 million. It was the first contested presidential election since 1991, when Bangladesh became a parliamentary democracy. The"
+    ],
+    [
+     "eq",
+     "vote"
+    ],
+    [
+     "del",
+     "at 2 p.m. local time (0800 UTC). The election"
+    ],
+    [
+     "eq",
+     "comes after former president Mohammed Shahabuddin, a close ally of ousted Prime Minister Sheikh Hasina, resigned"
+    ],
+    [
+     "del",
+     "in July"
+    ],
+    [
+     "ins",
+     "last month"
+    ],
+    [
+     "eq",
+     "citing health concerns."
+    ],
+    [
+     "ins",
+     "What did Alamgir and Oli say? \"I dream of a happy, prosperous, and welfare-oriented state where marginalized communities, hard-working people, and daily wage earners can afford meals twice a day,\" Alamgir, 78, said Thursday before the vote, according to the state news agency BSS. His challenger, 87-year-old Oli, said the country had \"high hopes\" for his presidency. \"We expect you to serve the country by putting national interests above personal interests,\" he said after the vote. Bangladesh's close ally China congratulated Alamgir, saying it looked forward to \"a shared future in the new era,\" its high commission in the capital, Dhaka, said in a statement."
+    ],
+    [
+     "eq",
+     "Who is Mirza Fakhrul Islam Alamgir? In February, Prime Minister Tarique Rahman's"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "won a landslide victory in the first election since Hasina's 2024 ouster."
+    ],
+    [
+     "del",
+     "The party is expected"
+    ],
+    [
+     "ins",
+     "Hasina remains in exile in India. She was found guilty in absentia in November of crimes against humanity and sentenced"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "use"
+    ],
+    [
+     "ins",
+     "be hanged. Rights groups say her rule was marked by widespread abuses, including the murder of rivals and supression of political opposition. Born in 1948, Alamgir entered politics while studying economics at Dhaka University. He was a key student leader in the 1969 uprising opposing military rule by Pakistan, before becoming an economics teacher. He joined the BNP in the early 1990s and rose steadily through"
+    ],
+    [
+     "eq",
+     "its"
+    ],
+    [
+     "del",
+     "majority to hand the 78-year-old Alamgir the largely ceremonial presidency. \"I never thought that I would become the president, it is the infinite grace of the party"
+    ],
+    [
+     "ins",
+     "ranks. He became well known nationally as an opposition leader during Hasina's 15-year rule"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "almighty Allah,\" he told reporters on Tuesday, according to the state news agency BSS. \"Even after becoming president, I wish to remain beside the people and serve them.\" Alamgir"
+    ],
+    [
+     "eq",
+     "was repeatedly arrested under"
+    ],
+    [
+     "del",
+     "Hasina's"
+    ],
+    [
+     "ins",
+     "her"
+    ],
+    [
+     "eq",
+     "government, facing dozens of charges he said were politically motivated."
+    ],
+    [
+     "del",
+     "He"
+    ],
+    [
+     "ins",
+     "Alamgir"
+    ],
+    [
+     "eq",
+     "has been hailed in the media for \"keeping the BNP organized and maintaining the party's political presence during difficult times,\" referring to Hasina's rule."
+    ],
+    [
+     "ins",
+     "As president, he will serve as the head of state and commander-in-chief of the armed forces. He is expected to be sworn in on Friday evening."
+    ],
+    [
+     "eq",
+     "Edited by: Zac Crellin Don't let the algorithm hide the news. If"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.55,
+  "numbers_changed": [
+   "0800",
+   "15",
+   "173",
+   "1948",
+   "1969",
+   "1990",
+   "1991",
+   "2",
+   "23",
+   "255",
+   "87",
+   "88"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 2,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.327,
+ "similarity": 0.8489,
+ "adjudicated_by": "rules"
+}

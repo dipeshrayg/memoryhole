@@ -1,0 +1,68 @@
+{
+ "id": "38eb8c970431be33-4fa9f261-201a3915",
+ "url": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
+ "domain": "www.npr.org",
+ "source": "NPR Science",
+ "country": "United States",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-08-21T07:09:36Z",
+ "date": "2026-08-21",
+ "old_title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
+ "new_title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
+ "old_text": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records\nDr. David Morens, a former senior adviser to Dr. Anthony Fauci during the COVID-19 pandemic, pleaded guilty in federal court Tuesday to a charge of conspiracy to defraud the United States.\nMorens, who worked under Fauci at the National Institute of Allergy and Infectious Diseases, was accused of concealing federal records related to coronavirus research. He was indicted in April for allegedly trying to hide email exchanges about that research by using his personal email instead of his government email.\n\"By pleading guilty today, Dr. Morens has taken responsibility for what he did, and he will continue to do so,\" his legal counsel, Tim Belevetz, told NPR in an email Tuesday.\nMorens has apologized in previous hearings for his handling of federal records.\nThe coronavirus research in question has come under fire by Sen. Rand Paul and other Republicans, who have claimed without proof that the coronavirus that caused the pandemic came from a lab in China, and have accused Fauci and Morens of covering that up. Both scientists have denied this. Many researchers agree that the weight of the available evidence suggests the virus emerged naturally.\nFauci, who played a leading role in the United States' pandemic response, was not charged with anything in connection with Morens. But earlier this month, Paul's Senate committee voted to hold him in contempt of Congress for invoking the Fifth Amendment against self-incrimination and refusing to answer questions at a hearing. It will ultimately be up to the Justice Department to decide whether to pursue a criminal prosecution of Fauci.\nSome experts have said these moves are part of broader undermining of science and scientists in the United States.\nJennifer Jones, who runs the Center for Science and Democracy at the Union of Concerned Scientists, would not comment specifically about either Morens' or Fauci's situations. But she says the Trump administration has been attacking scientists in many ways.\n\"Criminal prosecution of scientists is a classic authoritarian tactic,\" she told NPR in an interview.\nBut Robert Fisher, a Boston attorney who is not involved in the Morens case, says the government's charges against Morens appear solid.\n\"When you're a government official you swear an oath, you're working for a federal agency, you're just held to a higher standard,\" Fisher said.\nMorens, who is 78 years old, could face five years in prison and a fine of up to $250,000 when he is sentenced in November.",
+ "new_text": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records\nDr. David Morens, a former senior adviser to Dr. Anthony Fauci during the COVID-19 pandemic, pleaded guilty in federal court on Tuesday to a charge of conspiracy to defraud the United States.\nMorens, who worked under Fauci at the National Institute of Allergy and Infectious Diseases, was accused of concealing federal records related to coronavirus research. He was indicted in April for allegedly trying to hide email exchanges about that research by using his personal email instead of his government email.\n\"By pleading guilty today, Dr. Morens has taken responsibility for what he did, and he will continue to do so,\" his legal counsel, Tim Belevetz, told NPR in an email Tuesday.\nMorens has apologized in previous hearings for his handling of federal records.\nThe coronavirus research in question has come under fire by Sen. Rand Paul and other Republicans, who have claimed without proof that the coronavirus that caused the pandemic came from a lab in China, and have accused Fauci and Morens of covering that up. Both scientists have denied this. Many researchers agree that the weight of the available evidence suggests the virus emerged naturally.\nFauci, who played a leading role in the United States' pandemic response, was not charged with anything in connection with Morens. But earlier this month, Paul's Senate committee voted to hold him in contempt of Congress for invoking the Fifth Amendment against self-incrimination and refusing to answer questions at a hearing. It will ultimately be up to the Justice Department to decide whether to pursue a criminal prosecution of Fauci.\nSome experts have said these moves are part of broader undermining of science and scientists in the United States.\nJennifer Jones, who runs the Center for Science and Democracy at the Union of Concerned Scientists, would not comment specifically about either Morens' or Fauci's situations. But she says the Trump administration has been attacking scientists in many ways.\n\"Criminal prosecution of scientists is a classic authoritarian tactic,\" she told NPR in an interview.\nBut Robert Fisher, a Boston attorney who is not involved in the Morens case, says the government's charges against Morens appear solid.\n\"When you're a government official, you swear an oath, you're working for a federal agency, you're just held to a higher standard,\" Fisher said.\nMorens, who is 78 years old, could face five years in prison and a fine of up to $250,000 when he is sentenced in November.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Dr. Anthony Fauci during the COVID-19 pandemic, pleaded guilty in federal court"
+    ],
+    [
+     "ins",
+     "on"
+    ],
+    [
+     "eq",
+     "Tuesday to a charge of conspiracy to defraud the United States. Morens,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "says the government's charges against Morens appear solid. \"When you're a government"
+    ],
+    [
+     "del",
+     "official"
+    ],
+    [
+     "ins",
+     "official,"
+    ],
+    [
+     "eq",
+     "you swear an oath, you're working for a federal agency, you're just"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0073,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9979,
+ "adjudicated_by": "rules"
+}

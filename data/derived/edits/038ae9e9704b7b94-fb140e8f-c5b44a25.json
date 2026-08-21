@@ -1,0 +1,48 @@
+{
+ "id": "038ae9e9704b7b94-fb140e8f-c5b44a25",
+ "url": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-08-21T07:11:19Z",
+ "date": "2026-08-21",
+ "old_title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
+ "new_title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
+ "old_text": "Amazon wants to grow its Prime Air delivery drone service sixfold to reach nearly 500 cities and towns across the United States by the end of 2026. The planned expansions from Amazon and its rivals could make the convenience of delivery drone services available to tens of millions more people in the coming months-but will also test more communities' tolerance for increased noise from daily drone flights.\nOn August 19, Amazon announced it would soon launch Prime Air in the metropolitan areas of Chicago; Cleveland; Atlanta; Syracuse, New York; and Boise, Idaho, with more to come later in the year. Each Prime Air site offers delivery drone service within an area of about 175 square miles, with delivery times ranging from half an hour to an hour.\nPrime Air already operates out of Amazon warehouses in 10 cities across seven states. Those include primarily suburban neighborhoods of Phoenix; Tampa; Kansas City; Omaha, Nebraska; Baton Rouge, Louisiana; Detroit; Houston; and San Antonio, Dallas, and Waco, Texas.\nThe Amazon Prime Air expansion comes as competitor Walmart has teamed up with the companies Wing and Zipline to scale up its own delivery drone service. Walmart recently celebrated the milestone of surpassing 1 million drone deliveries after operating from 66 stores across four states, and is looking to expand that service footprint to more than 270 Walmart stores by 2027.\nSeparately, Zipline also just announced a partnership with Uber aimed at scaling up to 1 million drone deliveries per day by the end of 2029. Having initially pioneered long-range drone deliveries of blood and other crucial medical supplies in Africa, Zipline has been steadily growing its US delivery operations and claims to have already made more than 2.7 million deliveries worldwide.",
+ "new_text": "Amazon wants to grow its Prime Air delivery drone service sixfold to reach nearly 500 cities and towns across the United States by the end of 2026. The planned expansions from Amazon and its rivals could make the convenience of delivery drone services available to tens of millions more people in the coming months-but will also test more communities' tolerance for increased noise from daily drone flights.\nOn August 19, Amazon announced it would soon launch Prime Air in the metropolitan areas of Chicago; Cleveland; Atlanta; Syracuse, New York; and Boise, Idaho, with more to come later in the year. Each Prime Air site offers delivery drone service within an area of about 175 square miles, with delivery times ranging from half an hour to an hour.\nPrime Air already operates out of Amazon warehouses in 10 cities across seven states. Those include primarily suburban neighborhoods of Phoenix; Tampa; Kansas City; Omaha, Nebraska; Baton Rouge, Louisiana; Detroit; Houston; and San Antonio, Dallas, and Waco, Texas.\nThe Amazon Prime Air expansion comes as competitor Walmart has teamed up with companies Wing and Zipline to scale up its own delivery drone service. Walmart recently celebrated the milestone of surpassing 1 million drone deliveries after operating from 66 stores across four states, and is looking to expand that service footprint to more than 270 Walmart stores by 2027.\nSeparately, Zipline also just announced a partnership with Uber aimed at scaling up to 1 million drone deliveries per day by the end of 2029. Having initially pioneered long-range drone deliveries of blood and other crucial medical supplies in Africa, Zipline has been steadily growing its US delivery operations and claims to have already made more than 2.7 million deliveries worldwide.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Amazon Prime Air expansion comes as competitor Walmart has teamed up with"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "eq",
+     "companies Wing and Zipline to scale up its own delivery drone service."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0035,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9989,
+ "adjudicated_by": "rules"
+}

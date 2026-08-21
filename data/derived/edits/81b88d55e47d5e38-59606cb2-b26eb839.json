@@ -1,0 +1,100 @@
+{
+ "id": "81b88d55e47d5e38-59606cb2-b26eb839",
+ "url": "https://www.theguardian.com/books/2026/aug/18/christopher-berry-dee-dropped-publisher-allegations-abuse",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Culture",
+ "country": "United Kingdom",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-08-21T07:09:20Z",
+ "date": "2026-08-21",
+ "old_title": "Christopher Berry-Dee dropped by publisher after allegations of abuse made against him",
+ "new_title": "Christopher Berry-Dee dropped by publisher after allegations of abuse made against him",
+ "old_text": "The main publisher of the bestselling true crime writer Christopher Berry-Dee has dropped the author after a Guardian investigation into allegations of violence and sexual abuse against him, which he denies. Waterstones has also removed his books from sale.\n\"We are shocked and appalled by the very serious allegations relating to Christopher Berry-Dee, and our thoughts are with those affected,\" said the publisher Bonnier Books in a statement to the Guardian.\n\"Bonnier Books UK will no longer publish Christopher Berry-Dee, we will not work with him on any future projects, and we are terminating all existing agreements\", it continued. \"There are practical steps entailed in unwinding longstanding contracts, including those involving third parties, but we are working through them as quickly as we can. We will also be removing our existing stocks from the market.\"\nAn investigation published on Saturday detailed multiple allegations of abuse by Berry-Dee, including domestic violence and sexual assault of a 13-year-old student attending his art school. Berry-Dee refused to be interviewed for the piece, citing health issues, but denied the allegations: \"I have not once committed any of the crimes you accuse me of.\"\nBerry-Dee, 78, is the UK's top-selling author of true crime. His books, including Talking With Serial Killers, draw on interviews with murderers and have sold nearly 1m copies.\nBerry-Dee has admitted lying to his subjects in order to gain access, telling them he intends \"to write a book about the miscarriage of justice they are suffering\", he wrote in his 2023 book Talking With Psychopaths and Savages.\nWaterstones told the Guardian that Bonnier contacted the bookseller to say that it would no longer publish Berry-Dee's books. \"Following this advice, we have removed the titles from sale in our shops and online,\" said a representative.\nOrion, an imprint of Hachette, published Inside the Darkest Minds by Berry-Dee last month, but did not respond when asked whether they will continue to publish it.",
+ "new_text": "The main publisher of the bestselling true crime writer Christopher Berry-Dee has dropped the author after a Guardian investigation into allegations of violence and sexual abuse against him, which he denies. Waterstones has also removed his books from sale.\n\"We are shocked and appalled by the very serious allegations relating to Christopher Berry-Dee, and our thoughts are with those affected,\" said the publisher Bonnier Books in a statement to the Guardian.\n\"Bonnier Books UK will no longer publish Christopher Berry-Dee, we will not work with him on any future projects, and we are terminating all existing agreements\", it continued. \"There are practical steps entailed in unwinding longstanding contracts, including those involving third parties, but we are working through them as quickly as we can. We will also be removing our existing stocks from the market.\"\nAn investigation published on Saturday detailed multiple allegations of abuse by Berry-Dee, including domestic violence and sexual assault of a 13-year-old student attending his art school. Berry-Dee refused to be interviewed for the piece, citing health issues, but denied the allegations: \"I have not once committed any of the crimes you accuse me of.\"\nBerry-Dee, 78, is the UK's top-selling author of true crime. His books, including Talking With Serial Killers, draw on interviews with murderers and have sold nearly 1m copies.\nBerry-Dee has admitted lying to his subjects in order to gain access, telling them he intends \"to write a book about the miscarriage of justice they are suffering\", he wrote in his 2023 book Talking With Psychopaths and Savages.\nWaterstones told the Guardian that Bonnier contacted the bookseller to say that it would no longer publish Berry-Dee's books. \"Following this advice, we have removed the titles from sale in our shops and online,\" said a representative.\nA second publisher of Berry-Dee's Orion, whose parent company is Hachette, which released his book Inside the Darkest Minds last month, told the Guardian that it would stop selling the book. \"We were not aware of the allegations made against Christopher Berry-Dee in the Guardian until the article was published on Saturday\", it said in a statement.\n\"We are taking these allegations very seriously. We are ceasing sales for Inside the Darkest Minds and we have no further books by the author under contract.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the titles from sale in our shops and online,\" said a representative."
+    ],
+    [
+     "ins",
+     "A second publisher of Berry-Dee's"
+    ],
+    [
+     "eq",
+     "Orion,"
+    ],
+    [
+     "del",
+     "an imprint of"
+    ],
+    [
+     "ins",
+     "whose parent company is"
+    ],
+    [
+     "eq",
+     "Hachette,"
+    ],
+    [
+     "del",
+     "published"
+    ],
+    [
+     "ins",
+     "which released his book"
+    ],
+    [
+     "eq",
+     "Inside the Darkest Minds"
+    ],
+    [
+     "del",
+     "by Berry-Dee"
+    ],
+    [
+     "eq",
+     "last month,"
+    ],
+    [
+     "del",
+     "but did"
+    ],
+    [
+     "ins",
+     "told the Guardian that it would stop selling the book. \"We were"
+    ],
+    [
+     "eq",
+     "not"
+    ],
+    [
+     "del",
+     "respond when asked whether they will continue to publish it."
+    ],
+    [
+     "ins",
+     "aware of the allegations made against Christopher Berry-Dee in the Guardian until the article was published on Saturday\", it said in a statement. \"We are taking these allegations very seriously. We are ceasing sales for Inside the Darkest Minds and we have no further books by the author under contract.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2906,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

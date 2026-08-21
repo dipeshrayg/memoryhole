@@ -1,0 +1,52 @@
+{
+ "id": "c956a27fca88467a-43e1c97e-5db6145a",
+ "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-21T06:56:10Z",
+ "date": "2026-08-21",
+ "old_title": "Giant whales move into Greenland waters as ice disappears",
+ "new_title": "Giant whales move into Greenland waters as ice disappears",
+ "old_text": "- Published\nSea ice has been disappearing from East Greenland, allowing giant whales to take advantage and move in to previously inaccessible areas.\nThat is the conclusion of a decades-long study that has recorded - and filmed - hundreds of the world's biggest whales including humpbacks, minke and fin whales, feeding in ice-free seas along the coast in summer.\nNone of these marine mammals were historically found here as they have been locked out of the coastal waters by ice. Now, as climate change warms the sea and melts that ice, they have adapted.\nScientists describe the result as seasonal Arctic \"feeding frenzies\" - part of a major regime shift in the ocean environment along East Greenland.\nThe change is dramatic: ship-based surveys in the region did not record a single humpback whale sighting there until 2006.\nIn 2007, seven humpbacks were seen, and by 2024, there were 150 ship-based sightings of these giant whales.\nThe first systematic aerial surveys of baleen whales - a group that includes fin, minke and humpbacks - off the East Greenland coast were carried out by the researchers during the summers of 2015 and 2024.\nThey combined that information with the tracks of 15 satellite-tagged whales and testimony from Inuit hunters - all building a picture of what the lead researcher Prof Mads Peter Heide-JÃ ̧rgensen called a \"major ecological regime shift\".\nAn estimated 4,000 humpback whales, 6,000 fin whales and 6,000 minke whales visited the Greenland Sea in the summer of 2024.\nProf Heide-JÃ ̧rgensen, from the Greenland Institute of Natural Resources, told BBC News that the changes in the region were \"probably the most radical we can see anywhere in the subarctic\".\nThat shift is driven by rising sea temperatures and food availability. The whales appear to be feeding on fish that have moved into the warming waters of East Greenland.\nThey estimated that the three whale species would consume at least 800,000 tonnes of fish and krill during a summer feeding season.\nIt is not clear from this study whether the change reflects an overall increase in the populations of these whale species, or just a redistribution from other areas.\nOther experts the BBC spoke to were concerned that the study suggested there was an influx of the animals from West Greenland. That is a sensitive issue in Greenland, a country where some whales are hunted.\nBut the scientists said that their findings do suggest that these \"opportunistic\" baleen whales appear to be adapting and might even be benefiting from the change.\nOther Arctic species, however, are \"in trouble now\", explained Prof Heide-JÃ ̧rgensen.\nAnimals including narwhals and belugas are sharing habitat with - or even being displaced by - these other whales.\n\"For some species, climate change is not necessarily a problem - it opens up new opportunities,\" said Prof Heide-JÃ ̧rgensen, \"but other species are losing their habitat\".\nThe study is published in the journal Frontiers in Marine Science, external.",
+ "new_text": "- Published\nSea ice has been disappearing from East Greenland, allowing giant whales to take advantage and move into previously inaccessible areas.\nThat is the conclusion of a decades-long study that has recorded - and filmed - hundreds of the world's biggest whales including humpbacks, minke and fin whales, feeding in ice-free seas along the coast in summer.\nNone of these marine mammals were historically found here as they have been locked out of the coastal waters by ice. Now, as climate change warms the sea and melts that ice, they have adapted.\nScientists describe the result as seasonal Arctic \"feeding frenzies\" - part of a major regime shift in the ocean environment along East Greenland.\nThe change is dramatic: ship-based surveys in the region did not record a single humpback whale sighting there until 2006.\nIn 2007, seven humpbacks were seen, and by 2024, there were 150 ship-based sightings of these giant whales.\nThe first systematic aerial surveys of baleen whales - a group that includes fin, minke and humpbacks - off the East Greenland coast were carried out by the researchers during the summers of 2015 and 2024.\nThey combined that information with the tracks of 15 satellite-tagged whales and testimony from Inuit hunters - all building a picture of what the lead researcher Prof Mads Peter Heide-JÃ ̧rgensen called a \"major ecological regime shift\".\nAn estimated 4,000 humpback whales, 6,000 fin whales and 6,000 minke whales visited the Greenland Sea in the summer of 2024.\nProf Heide-JÃ ̧rgensen, from the Greenland Institute of Natural Resources, told BBC News that the changes in the region were \"probably the most radical we can see anywhere in the subarctic\".\nThat shift is driven by rising sea temperatures and food availability. The whales appear to be feeding on fish that have moved into the warming waters of East Greenland.\nThey estimated that the three whale species would consume at least 800,000 tonnes of fish and krill during a summer feeding season.\nIt is not clear from this study whether the change reflects an overall increase in the populations of these whale species, or just a redistribution from other areas.\nOther experts the BBC spoke to were concerned that the study suggested there was an influx of the animals from West Greenland. That is a sensitive issue in Greenland, a country where some whales are hunted.\nBut the scientists said that their findings do suggest that these \"opportunistic\" baleen whales appear to be adapting and might even be benefiting from the change.\nOther Arctic species, however, are \"in trouble now\", explained Prof Heide-JÃ ̧rgensen.\nAnimals including narwhals and belugas are sharing habitat with - or even being displaced by - these other whales.\n\"For some species, climate change is not necessarily a problem - it opens up new opportunities,\" said Prof Heide-JÃ ̧rgensen, \"but other species are losing their habitat\".\nThe study is published in the journal Frontiers in Marine Science, external.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "disappearing from East Greenland, allowing giant whales to take advantage and move"
+    ],
+    [
+     "del",
+     "in to"
+    ],
+    [
+     "ins",
+     "into"
+    ],
+    [
+     "eq",
+     "previously inaccessible areas. That is the conclusion of a decades-long study that"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0061,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}
