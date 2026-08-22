@@ -1,0 +1,138 @@
+{
+ "id": "40fec5c681d59858-480868dc-27c76c23",
+ "url": "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-22T06:51:10Z",
+ "date": "2026-08-22",
+ "old_title": "Hong Kong convicts activists in national security trial",
+ "new_title": "Hong Kong convicts Tiananmen vigil leaders",
+ "old_text": "A Hong Kong court on Thursday convicted two pro-democracy Tiananmen activists tried under Beijing's controversial national security law for \"incitement to subversion.\"\nLee Cheuk-yan, 69, and Chow Hang-tung, 41, had organized candlelight vigils to mark Beijing's deadly 1989 Tiananmen crackdown. They were charged in 2021 and both pleaded not guilty.\nThey face a maximum prison term of 10 years and are expected to be sentenced at a later date.\nWhat else do we know about the charges against the pro-democracy activists?\nThe pair \"incited other persons to organize, plan, commit or participate in acts by unlawful means with a view to subverting the state power\", a press summary handed out to reporters said.\nProsecutors had argued they \"endanger(ed) national security in the name of human rights.\"\nPublic commemoration of the deadly Tiananmen crackdown, when Beijing sent troops and tanks to crush protests calling for political reform in and around the capital's Tiananmen Square, have been effectively banned since the 2020 imposition of the national security law on Hong Kong.\nThe controversial law came after Hong Kong's 2019 massive anti-government, pro-democracy protests.\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "A Hong Kong court on Thursday convicted two pro-democracy Tiananmen activists under Beijing's controversial national security law for \"incitement to subversion.\"\nLee Cheuk-yan, 69, and Chow Hang-tung, 41, had organized candlelight vigils to mark Beijing's deadly 1989 Tiananmen crackdown. They were charged in 2021 and both pleaded not guilty.\nThey face a maximum prison term of 10 years and are expected to be sentenced at a later date.\nGermany, France and Taiwan call for immediate release of activists\nGermany and France on Friday morning published a joint statement to say that both \"deeply regret the guilty verdict against human rights lawyer and democracy activist Chow Hang-tung.\"\nThe statement called for the immediate release of Chow and added that \"peaceful advocacy for human rights does not constitute a crime.\"\nChow was the recipient of Franco-German Human Rights Award in 2023.\nTaiwan also called on China to \"stop political persecution.\"\nTaiwan's Mainland Affairs Council, which oversees the island's China policy, expressed \"deep regret and sorrow\" and called on the Chinese Communist Party and Hong Kong government to \"immediately release those detained in this case.\"\nWhat else do we know about charges against the pro-democracy activists?\nHong Kong judicial officials claimed the pair \"incited other persons to organize, plan, commit or participate in acts by unlawful means with a view to subverting the state power.\"\nProsecutors had argued they \"endanger(ed) national security in the name of human rights.\"\nPublic commemorations of the deadly Tiananmen crackdown, when Beijing sent troops and tanks to crush protests calling for political reform in and around the capital's Tiananmen Square, have been effectively banned since the 2020 imposition of the national security law on Hong Kong.\nThe controversial law came after Hong Kong's massive anti-government, pro-democracy protests in 2019.\nEdited by: Zac Crellin\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "A Hong Kong court on Thursday convicted two pro-democracy Tiananmen activists"
+    ],
+    [
+     "del",
+     "tried"
+    ],
+    [
+     "eq",
+     "under Beijing's controversial national security law for \"incitement to subversion.\" Lee Cheuk-yan,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "10 years and are expected to be sentenced at a later date."
+    ],
+    [
+     "ins",
+     "Germany, France and Taiwan call for immediate release of activists Germany and France on Friday morning published a joint statement to say that both \"deeply regret the guilty verdict against human rights lawyer and democracy activist Chow Hang-tung.\" The statement called for the immediate release of Chow and added that \"peaceful advocacy for human rights does not constitute a crime.\" Chow was the recipient of Franco-German Human Rights Award in 2023. Taiwan also called on China to \"stop political persecution.\" Taiwan's Mainland Affairs Council, which oversees the island's China policy, expressed \"deep regret and sorrow\" and called on the Chinese Communist Party and Hong Kong government to \"immediately release those detained in this case.\""
+    ],
+    [
+     "eq",
+     "What else do we know about"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "eq",
+     "charges against the pro-democracy activists?"
+    ],
+    [
+     "del",
+     "The"
+    ],
+    [
+     "ins",
+     "Hong Kong judicial officials claimed the"
+    ],
+    [
+     "eq",
+     "pair \"incited other persons to organize, plan, commit or participate in acts by unlawful means with a view to subverting the state"
+    ],
+    [
+     "del",
+     "power\", a press summary handed out to reporters said."
+    ],
+    [
+     "ins",
+     "power.\""
+    ],
+    [
+     "eq",
+     "Prosecutors had argued they \"endanger(ed) national security in the name of human rights.\" Public"
+    ],
+    [
+     "del",
+     "commemoration"
+    ],
+    [
+     "ins",
+     "commemorations"
+    ],
+    [
+     "eq",
+     "of the deadly Tiananmen crackdown, when Beijing sent troops and tanks to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "security law on Hong Kong. The controversial law came after Hong Kong's"
+    ],
+    [
+     "del",
+     "2019"
+    ],
+    [
+     "eq",
+     "massive anti-government, pro-democracy"
+    ],
+    [
+     "del",
+     "protests."
+    ],
+    [
+     "ins",
+     "protests in 2019. Edited by: Zac Crellin"
+    ],
+    [
+     "eq",
+     "If you rely on our team for trusted reporting, please take a"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.6516,
+  "numbers_changed": [
+   "2023"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.86,
+ "similarity": 0.8517,
+ "adjudicated_by": "rules"
+}

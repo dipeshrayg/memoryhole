@@ -1,0 +1,52 @@
+{
+ "id": "142c240468702653-c645fe4c-53b27b5f",
+ "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-22T06:57:44Z",
+ "date": "2026-08-22",
+ "old_title": "Panama Canal to cut number of ships passing through due to El NiÃ±o",
+ "new_title": "El NiÃ±o: Panama Canal to cut number of ships passing through",
+ "old_text": "- Published\nPanama Canal's operator is to cut the number of vessels passing through the key waterway due to low rainfall caused by El NiÃ±o.\nThe Panama Canal Authority (ACP) told shipping firms on Thursday that 32 vessels a day will be able to pass through it from 15 September, compared to 36 currently.\nEl NiÃ±o, a pattern of periodical sea surface warming, effects weather systems globally. This year is expected to be particularly strong, with its effects made more intense by climate change.\nThe shipping industry is already dealing with severe disruptions due to the Iran war causing a large reduction in the number of vessels passing through the crucial Strait of Hormuz.\nThe ACP said the measures were being put in place to preserve service reliability and safeguard water resources for human consumption.\nIt added that despite the arrival of the rainy season in Central America and some water-saving measures already being put in place in the canal, additional action was needed \"to support the long-term sustainability of transit operations\".\nThe new measures will be phased in from 3 September.\nThe Panama Canal greatly reduces the time and distance ships have to travel between the Atlantic and Pacific oceans.\nAbout 14,000 ships per year use the artificial waterway - which operates 24 hours a day, 365 days a year.\nAs well as being a crucial route for global trade, it is also a key source of income for Panama, bringing in about $3bn (Â£2.2bn) a year.\nIn 2023, the ACP cut the number of vessels using the waterway during the last El NiÃ±o period after Panama was hit with its driest October since records began in 1950.\nSince then, the authority has introduced measures to cut the amount of water it uses.\nMany forecasts suggest that this year's El NiÃ±o, which is a naturally occurring pattern, could be one of the strongest ever recorded, with disruptions to weather, food supplies and economies.",
+ "new_text": "- Published\nPanama Canal's operator is to cut the number of vessels passing through the key waterway due to low rainfall caused by El NiÃ±o.\nThe Panama Canal Authority (ACP) told shipping firms on Thursday that 32 vessels a day will be able to pass through it from 15 September, compared to 36 currently.\nEl NiÃ±o, a pattern of periodical sea surface warming, affects weather systems globally. This year is expected to be particularly strong, with its effects made more intense by climate change.\nThe shipping industry is already dealing with severe disruptions due to the Iran war causing a large reduction in the number of vessels passing through the crucial Strait of Hormuz.\nThe ACP said the measures were being put in place to preserve service reliability and safeguard water resources for human consumption.\nIt added that despite the arrival of the rainy season in Central America and some water-saving measures already being put in place in the canal, additional action was needed \"to support the long-term sustainability of transit operations\".\nThe new measures will be phased in from 3 September.\nThe Panama Canal greatly reduces the time and distance ships have to travel between the Atlantic and Pacific oceans.\nAbout 14,000 ships per year use the artificial waterway - which operates 24 hours a day, 365 days a year.\nAs well as being a crucial route for global trade, it is also a key source of income for Panama, bringing in about $3bn (Â£2.2bn) a year.\nIn 2023, the ACP cut the number of vessels using the waterway during the last El NiÃ±o period after Panama was hit with its driest October since records began in 1950.\nSince then, the authority has introduced measures to cut the amount of water it uses.\nMany forecasts suggest that this year's El NiÃ±o, which is a naturally occurring pattern, could be one of the strongest ever recorded, with disruptions to weather, food supplies and economies.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "to 36 currently. El NiÃ±o, a pattern of periodical sea surface warming,"
+    ],
+    [
+     "del",
+     "effects"
+    ],
+    [
+     "ins",
+     "affects"
+    ],
+    [
+     "eq",
+     "weather systems globally. This year is expected to be particularly strong, with"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0062,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9998,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "e8fb62cfad731377-a7f76ea0-abe9cf8b",
+ "url": "https://www.gov.uk/government/news/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-netherlands-canada-and-norway-on-the-e1-west-bank-settlement-plan",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "country": "United Kingdom",
+ "category": "government",
+ "lang": "en",
+ "detected_at": "2026-08-22T06:56:50Z",
+ "date": "2026-08-22",
+ "old_title": "Joint Statement from the Leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Canada and Norway on the E1 West Bank Settlement Plan",
+ "new_title": "Joint Leaders' Statement on the E1 West Bank Settlement Plan: 20 August 2026",
+ "old_text": "The Israeli Government's decision to publish construction tenders for the E1 settlement project is unacceptable. The international community has long opposed this settlement expansion, and has voiced their grave concerns privately and publicly. The E1 settlement will undermine the prospect of the two-state solution by driving a wedge through the West Bank and harming the territorial contiguity of the Palestinian Territories.\nInternational law is clear that Israeli settlements in the West Bank are illegal. This is the position of the international community reaffirmed by the United Nations Security Council.\nAt a time of grave instability in the West Bank with unprecedented levels of violence by settlers against civilians, and serious restrictions on the Palestinian economy, this decision is even more concerning.\nWe urge the Government of Israel to retract these plans immediately and end its expansion of settlements in the West Bank. Not only will they take us further from peace, but they further undermine Israel's international standing.\nBusinesses should not consider bidding for construction tenders. They should be aware of legal and reputational consequences including the risk of involving themselves in serious breaches of international law.\nWe reiterate our commitment to a comprehensive, just and lasting peace based on the two-state solution. We will continue to act in its interest.",
+ "new_text": "Joint Leaders' Statement on the E1 West Bank Settlement Plan: 20 August 2026\nJoint Statement from the Leaders of the United Kingdom, France, Germany, Italy, the European Commission, the Netherlands, Canada, Norway, Australia, New Zealand, Sweden, Belgium, Spain, Austria and Greece on the E1 West Bank Settlement Plan.\nThe Israeli Government's decision to publish construction tenders for the E1 settlement project is unacceptable. The international community has long opposed this settlement expansion, and has voiced their grave concerns privately and publicly. The E1 settlement will undermine the prospect of the two-state solution by driving a wedge through the West Bank and harming the territorial contiguity of the Palestinian Territories.\nInternational law is clear that Israeli settlements in the West Bank are illegal. This is the position of the international community reaffirmed by the United Nations Security Council.\nAt a time of grave instability in the West Bank with unprecedented levels of violence by settlers against civilians, and serious restrictions on the Palestinian economy, this decision is even more concerning.\nWe urge the Government of Israel to retract these plans immediately and end its expansion of settlements in the West Bank. Not only will they take us further from peace, but they further undermine Israel's international standing.\nBusinesses should not consider bidding for construction tenders. They should be aware of legal and reputational consequences including the risk of involving themselves in serious breaches of international law.\nWe reiterate our commitment to a comprehensive, just and lasting peace based on the two-state solution. We will continue to act in its interest.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "Joint Leaders' Statement on the E1 West Bank Settlement Plan: 20 August 2026 Joint Statement from the Leaders of the United Kingdom, France, Germany, Italy, the European Commission, the Netherlands, Canada, Norway, Australia, New Zealand, Sweden, Belgium, Spain, Austria and Greece on the E1 West Bank Settlement Plan."
+    ],
+    [
+     "eq",
+     "The Israeli Government's decision to publish construction tenders for the E1 settlement"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2275,
+  "numbers_changed": [
+   "1",
+   "20",
+   "2026"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.503,
+ "similarity": 0.9112,
+ "adjudicated_by": "rules"
+}

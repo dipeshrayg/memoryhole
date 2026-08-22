@@ -1,0 +1,176 @@
+{
+ "id": "8ffd59005bf812a4-a8b50d85-680ea1b3",
+ "url": "https://www.theguardian.com/politics/2026/aug/21/uk-unexpected-deficit-john-healey-prepares-for-first-budget",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-22T06:58:40Z",
+ "date": "2026-08-22",
+ "old_title": "UK reports unexpected deficit of £1.8bn as John Healey prepares for first budget",
+ "new_title": "UK reports unexpected deficit of £1.8bn as John Healey prepares for first budget",
+ "old_text": "The UK government ran a larger than expected £1.8bn deficit in July, underlining the challenges facing the chancellor, John Healey, as he draws up his first budget.\nCity economists had expected a shortfall of zero for July, a month when Treasury receipts tend to be swollen by self-assessment income tax payments.\nHowever, the Office for National Statistics said despite strong tax receipts, public sector borrowing last month was £1.8bn.\nIn the first four months of this financial year, the cumulative deficit was £56.7bn - lower than last year but still running £2.3bn ahead of the Office for Budget Responsibility forecast.\nTotal public debt was £2.98tn, or 94% of GDP - up £96bn on a year earlier - in line with Labour's plan to borrow for investment in infrastructure projects.\nHealey will announce his budget on 28 October. The public finances are expected to be gloomier than forecast at Rachel Reeves's spring statement in March, when the Iran war had only just begun.\nAt that time, Reeves had a generous £23.6bn buffer, or headroom, against her fiscal rules, but analysts believe a significant proportion of that may be eaten away by higher inflation, slower growth and rising bond yields.\nIn response to July's public finances, Healey said: \"Fiscal discipline is the bedrock of our UK economic stability and national security, which is why we are committed to meeting our fiscal rules, with a buffer against global uncertainties.\n\"We are cutting the deficit faster than any other G7 economy, while giving people a bit of breathing space with cost of living pressures and focusing support to get young people into work.\"",
+ "new_text": "The UK government ran a larger-than-expected £1.8bn deficit in July, underlining the challenges facing the chancellor, John Healey, as he draws up his first budget.\nCity economists had expected a shortfall of zero for July, a month when Treasury receipts tend to be swollen by self-assessment income tax payments.\nAt £17.1bn, the self-assessment tax paid in July was £1.7bn higher than the same month last year. But the Office for National Statistics said the government still ran the £1.8bn deficit, as \"spending growth outpaced receipts\".\nIn the first four months of this financial year the cumulative deficit was £56.7bn - lower than last year but still £2.3bn ahead of the figure forecast by the Office for Budget Responsibility.\nHealey will deliver his budget on 28 October. The public finances are expected to be gloomier than forecast at Rachel Reeves's spring statement in March, when the Iran war had only just begun.\nAt that time, Reeves had a generous £23.6bn buffer, or headroom, against her fiscal rules, but analysts believe a significant proportion of that may be eaten away by higher inflation, slower growth and rising bond yields.\nMoves in global bond markets in recent days have pushed up the yield - in effect the interest rate - on government bonds, creating a fresh headache for the chancellor.\nMartin Beck, chief economist at the consultancy WPI Strategy, said: \"Ten-year gilt yields are above 5%, reflecting energy-related inflation concerns, and these will gradually feed through into a larger debt-interest bill as existing debt is refinanced. At the same time, the government faces pressure to loosen inherited spending plans, meet unfunded defence commitments and deliver on its own ambitions for housing, infrastructure and public services.\"\nThe UK's large debt pile means small moves in interest rates can be costly over time.\nThe ONS said total public debt was £2.98tn in July, or 94% of GDP - up £96bn on a year earlier - in line with Labour's plan to borrow for investment in infrastructure projects.\nIn response to July's public finances, Healey said: \"Fiscal discipline is the bedrock of our UK economic stability and national security, which is why we are committed to meeting our fiscal rules, with a buffer against global uncertainties.\n\"We are cutting the deficit faster than any other G7 economy, while giving people a bit of breathing space with cost of living pressures and focusing support to get young people into work.\"\nHealey will have to find an additional £1.2bn a year to fund the defence investment plan, a plan that prompted him to resign as defence secretary in June when he claimed the resources were not generous enough to meet the nation's needs.\nThere were also signs on Friday that the UK economy picked up pace in August. A poll of purchasing managers found that UK private sector output expanded at the fastest pace since April, driven by the services sector.\nThe survey, by S&P Global, indicated the economy could grow by about 0.3% in the third quarter of this year.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "The UK government ran a"
+    ],
+    [
+     "del",
+     "larger than expected"
+    ],
+    [
+     "ins",
+     "larger-than-expected"
+    ],
+    [
+     "eq",
+     "£1.8bn deficit in July, underlining the challenges facing the chancellor, John Healey,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "when Treasury receipts tend to be swollen by self-assessment income tax payments."
+    ],
+    [
+     "del",
+     "However,"
+    ],
+    [
+     "ins",
+     "At £17.1bn, the self-assessment tax paid in July was £1.7bn higher than the same month last year. But"
+    ],
+    [
+     "eq",
+     "the Office for National Statistics said"
+    ],
+    [
+     "del",
+     "despite strong tax receipts, public sector borrowing last month was £1.8bn."
+    ],
+    [
+     "ins",
+     "the government still ran the £1.8bn deficit, as \"spending growth outpaced receipts\"."
+    ],
+    [
+     "eq",
+     "In the first four months of this financial"
+    ],
+    [
+     "del",
+     "year,"
+    ],
+    [
+     "ins",
+     "year"
+    ],
+    [
+     "eq",
+     "the cumulative deficit was £56.7bn - lower than last year but still"
+    ],
+    [
+     "del",
+     "running"
+    ],
+    [
+     "eq",
+     "£2.3bn ahead of the"
+    ],
+    [
+     "ins",
+     "figure forecast by the"
+    ],
+    [
+     "eq",
+     "Office for Budget"
+    ],
+    [
+     "del",
+     "Responsibility forecast. Total public debt was £2.98tn, or 94% of GDP - up £96bn on a year earlier - in line with Labour's plan to borrow for investment in infrastructure projects."
+    ],
+    [
+     "ins",
+     "Responsibility."
+    ],
+    [
+     "eq",
+     "Healey will"
+    ],
+    [
+     "del",
+     "announce"
+    ],
+    [
+     "ins",
+     "deliver"
+    ],
+    [
+     "eq",
+     "his budget on 28 October. The public finances are expected to be"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "be eaten away by higher inflation, slower growth and rising bond yields."
+    ],
+    [
+     "ins",
+     "Moves in global bond markets in recent days have pushed up the yield - in effect the interest rate - on government bonds, creating a fresh headache for the chancellor. Martin Beck, chief economist at the consultancy WPI Strategy, said: \"Ten-year gilt yields are above 5%, reflecting energy-related inflation concerns, and these will gradually feed through into a larger debt-interest bill as existing debt is refinanced. At the same time, the government faces pressure to loosen inherited spending plans, meet unfunded defence commitments and deliver on its own ambitions for housing, infrastructure and public services.\" The UK's large debt pile means small moves in interest rates can be costly over time. The ONS said total public debt was £2.98tn in July, or 94% of GDP - up £96bn on a year earlier - in line with Labour's plan to borrow for investment in infrastructure projects."
+    ],
+    [
+     "eq",
+     "In response to July's public finances, Healey said: \"Fiscal discipline is the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of living pressures and focusing support to get young people into work.\""
+    ],
+    [
+     "ins",
+     "Healey will have to find an additional £1.2bn a year to fund the defence investment plan, a plan that prompted him to resign as defence secretary in June when he claimed the resources were not generous enough to meet the nation's needs. There were also signs on Friday that the UK economy picked up pace in August. A poll of purchasing managers found that UK private sector output expanded at the fastest pace since April, driven by the services sector. The survey, by S&P Global, indicated the economy could grow by about 0.3% in the third quarter of this year."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.2342,
+  "numbers_changed": [
+   "0.3",
+   "1.2",
+   "1.7",
+   "17.1",
+   "5"
+  ],
+  "market_figures_changed": [
+   "0.3%",
+   "5%",
+   "£1.2bn",
+   "£1.7bn",
+   "£17.1bn"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.25,
+ "similarity": 0.9408,
+ "adjudicated_by": "rules"
+}

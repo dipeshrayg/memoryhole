@@ -1,0 +1,92 @@
+{
+ "id": "b7e65a5154d557ac-58803b04-300d72fc",
+ "url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-08-22T07:06:19Z",
+ "date": "2026-08-22",
+ "old_title": "US distributor of China's most popular humanoid robots pivots after US ban",
+ "new_title": "US distributor of China's most popular humanoid robots pivots after US ban",
+ "old_text": "A leading US distributor of China's most popular humanoid robots and robot dogs now plans to produce its own robots at a facility on Long Island, New York. The business pivot comes amid the US government's growing crackdown on foreign-made robots.\nThe company RoboStore had previously become the main North American distributor for humanoid robots and quadruped robots from Unitree Robotics, a Chinese robotics company that produces some of the most affordable and popular humanoid robot models. Universities such as Harvard and MIT, along with tech companies like Amazon and Nvidia, purchased such robots made in China through RoboStore for their own research and development purposes.\n\"We've sold over 1,500 robots and deployed them and worked with customers like Cisco, OpenAI, Nvidia, and over 150 universities,\" Teddy Haggerty, founder and CEO of RoboStore, told Ars.\nBut on August 10, RoboStore announced a major shift in its business strategy with plans to fully open a 66,000-square-foot facility for manufacturing commercial robots by the first fiscal quarter of 2027. It also launched a new company called Robo Inc. to oversee the new robotics manufacturing and systems integration business.\nMaking the pivot\nHaggerty and his team had already started thinking about the possibility of starting up their own robotics manufacturing business about a year ago. While supporting customers' deployment and integration requests, they had gained insights into how customers were thinking about using robots for specific applications.\nThey also believed they could help more companies integrate industry-specific robots in ways that made sense for their businesses, rather than simply trying one of the many humanoid robots being pitched as a general-purpose solution for everything.\n\"Companies like Standard Bots and Universal Robots have a robotic arm for specific use cases,\" Haggerty told Ars. \"And I will tell anyone that that product is better suited for most businesses, for what they want to achieve, than a humanoid robot.\"",
+ "new_text": "A leading US distributor of China's most popular humanoid robots and robot dogs now plans to produce its own robots at a facility on Long Island, New York. The business pivot comes amid the US government's growing crackdown on foreign-made robots.\nThe company, RoboStore, had previously become the main North American distributor for humanoid robots and quadruped robots from Unitree Robotics, a Chinese robotics company that produces some of the most affordable and popular humanoid robot models. Universities like Harvard and MIT, along with tech companies like Amazon and Nvidia, purchased such robots made in China through RoboStore for their own research and development purposes.\n\"We've sold over 1,500 robots and deployed them and worked with customers like Cisco, OpenAI, Nvidia, and over 150 universities,\" Teddy Haggerty, founder and CEO of RoboStore, told Ars.\nBut on August 10, RoboStore announced a major shift in its business strategy, with plans to fully open a 66,000-square-foot facility for manufacturing commercial robots by the first fiscal quarter of 2027. It also launched a new company called Robo Inc. to oversee the new robotics manufacturing and systems integration business.\nMaking the pivot\nHaggerty and his team had already started thinking about the possibility of starting up their own robotics manufacturing business about a year ago. While supporting customers' deployment and integration requests, they had gained insights into how customers were thinking about using robots for specific applications.\nThey also believed they could help more companies integrate industry-specific robots in ways that made sense for their businesses, rather than simply trying one of the many humanoid robots being pitched as a general-purpose solution for everything.\n\"Companies like Standard Bots and Universal Robots have a robotic arm for specific use cases,\" Haggerty told Ars. \"And I will tell anyone that that product is better suited for most businesses, for what they want to achieve, than a humanoid robot.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "pivot comes amid the US government's growing crackdown on foreign-made robots. The"
+    ],
+    [
+     "del",
+     "company RoboStore"
+    ],
+    [
+     "ins",
+     "company, RoboStore,"
+    ],
+    [
+     "eq",
+     "had previously become the main North American distributor for humanoid robots and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "produces some of the most affordable and popular humanoid robot models. Universities"
+    ],
+    [
+     "del",
+     "such as"
+    ],
+    [
+     "ins",
+     "like"
+    ],
+    [
+     "eq",
+     "Harvard and MIT, along with tech companies like Amazon and Nvidia, purchased"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "But on August 10, RoboStore announced a major shift in its business"
+    ],
+    [
+     "del",
+     "strategy"
+    ],
+    [
+     "ins",
+     "strategy,"
+    ],
+    [
+     "eq",
+     "with plans to fully open a 66,000-square-foot facility for manufacturing commercial robots"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0288,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9972,
+ "adjudicated_by": "rules"
+}

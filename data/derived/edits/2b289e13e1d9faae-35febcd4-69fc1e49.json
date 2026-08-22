@@ -1,0 +1,100 @@
+{
+ "id": "2b289e13e1d9faae-35febcd4-69fc1e49",
+ "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260820-major-nigerian-coke-bust-leads-to-arrest",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-22T06:52:04Z",
+ "date": "2026-08-22",
+ "old_title": "Eye on Africa - Major Nigerian coke bust leads to arrest",
+ "new_title": "Eye on Africa - Major Nigerian coke bust leads to arrests",
+ "old_text": "Major Nigerian coke bust leads to arrest\nIssued on:\nNigeria's Drug enforcement has broken up an international cocaine trafficking ring that used the continent's most populous country as a transit point for internaionally bound shipments of life devastating narcotics.",
+ "new_text": "Major Nigerian coke bust leads to arrests\nIssued on:\nNigeria's drug enforcement agency has broken up an international cocaine trafficking ring that used the continent's most populous country as a transit point for internationally bound shipments of life-devastating narcotics. Also, opponents of Tunisian President Kaïs Saïed rally in the latest in a series of pro-democracy demonstrations sparked by growing political and economic discontent. Plus we turn to Senegal for a look at the city of Saint-Louis, which sees traces of its role in the transatlantic slave trade slowly disappearing as buildings linked to the grim era are lost to neglect and urban changes.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Major Nigerian coke bust leads to"
+    ],
+    [
+     "del",
+     "arrest"
+    ],
+    [
+     "ins",
+     "arrests"
+    ],
+    [
+     "eq",
+     "Issued on: Nigeria's"
+    ],
+    [
+     "del",
+     "Drug"
+    ],
+    [
+     "ins",
+     "drug"
+    ],
+    [
+     "eq",
+     "enforcement"
+    ],
+    [
+     "ins",
+     "agency"
+    ],
+    [
+     "eq",
+     "has broken up an international cocaine trafficking ring that used the continent's most populous country as a transit point for"
+    ],
+    [
+     "del",
+     "internaionally"
+    ],
+    [
+     "ins",
+     "internationally"
+    ],
+    [
+     "eq",
+     "bound shipments of"
+    ],
+    [
+     "del",
+     "life devastating"
+    ],
+    [
+     "ins",
+     "life-devastating"
+    ],
+    [
+     "eq",
+     "narcotics."
+    ],
+    [
+     "ins",
+     "Also, opponents of Tunisian President Kaïs Saïed rally in the latest in a series of pro-democracy demonstrations sparked by growing political and economic discontent. Plus we turn to Senegal for a look at the city of Saint-Louis, which sees traces of its role in the transatlantic slave trade slowly disappearing as buildings linked to the grim era are lost to neglect and urban changes."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.8974,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.041,
+ "similarity": 0.8215,
+ "adjudicated_by": "rules"
+}

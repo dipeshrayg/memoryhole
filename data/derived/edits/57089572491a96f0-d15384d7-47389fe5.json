@@ -1,0 +1,84 @@
+{
+ "id": "57089572491a96f0-d15384d7-47389fe5",
+ "url": "https://www.dw.com/en/us-canada-reach-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-22T06:50:54Z",
+ "date": "2026-08-22",
+ "old_title": "US, Canada reach deal that pauses 50% tariffs, Trump says",
+ "new_title": "US, Canada reach deal that pauses 50% tariffs, Trump says",
+ "old_text": "US President Donald Trump said on Tuesday night that he was temporarily suspending 50% tariffs on Canadian imports, after the US and Canada agreed to a trade deal.\nThe tariffs, which Trump announced in July, were set to take effect on Wednesday.\n\"I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the USA, subject to the finalization of documents, have a DEAL!\" Trump wrote on his Truth Social platform.\nThe deal comes after Canadian Prime Minister Mark Carney held \"intense\" negotiations with Trump this week in a bid to avert the duties.\n\"Substantial progress has been made, although there is important work still to be done,\" Carney said after Trump's announcement.\nWhat do we know about the latest US-Canada trade deal?\nOfficials provided scant detail about what the deal covers.\nThe office of US Trade Representative Jamieson Greer said it would include \"comprehensive market access for all American goods, economic security commitments, digital trade alignment\" but did not list specifics.\nMeanwhile, Trump added that the Keystone XL pipeline \"may be awoken from the grave!\"\nThe Keystone pipeline, plans for which were canceled under Trump's predecessor and political foe Joe Biden, would carry oil from Canada to the US.\nEdited by: Zac Crellin\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "new_text": "US President Donald Trump said on Tuesday night that he was temporarily suspending 50% tariffs on Canadian imports, with the US and Canada close to agreeing to a trade deal.\nThe tariffs, which Trump announced in July, were set to take effect on Wednesday.\n\"I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the USA, subject to the finalization of documents, have a DEAL!\" Trump wrote on his Truth Social platform.\nThis comes after Canadian Prime Minister Mark Carney held \"intense\" negotiations with Trump this week in a bid to avert the duties.\n\"Substantial progress has been made, although there is important work still to be done,\" Carney said after Trump's announcement.\nWhat do we know about the latest US-Canada trade deal?\nOfficials provided scant detail about what the deal covers.\nThe office of US Trade Representative Jamieson Greer said it would include \"comprehensive market access for all American goods, economic security commitments, digital trade alignment\" but did not list specifics.\nMeanwhile, Trump added that the Keystone XL pipeline \"may be awoken from the grave!\"\nThe Keystone pipeline, plans for which were canceled under Trump's predecessor and political foe Joe Biden, would carry oil from Canada to the US.\nEdited by: Zac Crellin\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Tuesday night that he was temporarily suspending 50% tariffs on Canadian imports,"
+    ],
+    [
+     "del",
+     "after"
+    ],
+    [
+     "ins",
+     "with"
+    ],
+    [
+     "eq",
+     "the US and Canada"
+    ],
+    [
+     "del",
+     "agreed"
+    ],
+    [
+     "ins",
+     "close to agreeing"
+    ],
+    [
+     "eq",
+     "to a trade deal. The tariffs, which Trump announced in July, were"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of documents, have a DEAL!\" Trump wrote on his Truth Social platform."
+    ],
+    [
+     "del",
+     "The deal"
+    ],
+    [
+     "ins",
+     "This"
+    ],
+    [
+     "eq",
+     "comes after Canadian Prime Minister Mark Carney held \"intense\" negotiations with Trump"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0359,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9977,
+ "adjudicated_by": "rules"
+}

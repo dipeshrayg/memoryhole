@@ -1,0 +1,108 @@
+{
+ "id": "9e614750a8604202-2ab2ec73-87f4f9c8",
+ "url": "https://www.france24.com/en/middle-east/20260821-middle-east-live-hormuz-shipping-traffic-falls-as-iran-us-talks-stall",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-22T06:51:58Z",
+ "date": "2026-08-22",
+ "old_title": "Middle East live: Hormuz shipping traffic falls as Iran-US talks stall",
+ "new_title": "Israel calls Erdogan an 'anti-Semitic dictator' after Turkey issues Netanyahu arrest warrant",
+ "old_text": "Middle East live: Hormuz shipping traffic falls as Iran-US talks stall\nShipping traffic through the Strait of Hormuz fell sharply on Thursday, with just seven commodity vessels crossing the vital waterway, as heightened security risks and stalled US-Iran peace talks deterred ships from using the key energy route. Follow our liveblog for the latest updates.\n• The USS George Washington aircraft carrier strike group arrived in the Middle East to replace the long-deployed USS Abraham Lincoln after apparently deteriorating living conditions on board sparked fresh criticism of President Donald Trump's war against Iran.\n• US Treasury Secretary Scott Bessent told the country's allies that they were either \"with us or against us\" on economically isolating Iran, after Trump announced a fresh slew of sanctions against the Islamic Republic.\n• Yemen's Iran-backed Houthi rebels said that they targeted an airport and a facility belonging to state-owned oil giant Aramco in Saudi Arabia's southern Najran region, near the Yemeni border.\n(FRANCE 24 with Reuters, AP and AFP)",
+ "new_text": "Israel calls Erdogan an 'anti-Semitic dictator' after Turkey issues Netanyahu arrest warrant\nTurkey issued an international arrest warrant for Israel's Prime Minister Benjamin Netanyahu as part of an investigation into Israel's interception of an aid flotilla for Gaza and its detention of hundreds of activists on board, Justice Minister Akin Gurlek announced Friday. Netanyahu's office in turn said Turkish President Recep Tayyip Erdogan was an \"anti-Semitic dictator\". Read our liveblog to see how the day's events unfolded.\nThis liveblog is no longer being updated. For more on this subject, click here.\n• The USS George Washington aircraft carrier strike group arrived in the Middle East to replace the long-deployed USS Abraham Lincoln after apparently deteriorating living conditions on board sparked fresh criticism of President Donald Trump's war against Iran.\n• US Treasury Secretary Scott Bessent told the country's allies that they were either \"with us or against us\" on economically isolating Iran, after Trump announced a fresh slew of sanctions against the Islamic Republic.\n• Yemen's Iran-backed Houthi rebels said that they targeted an airport and a facility belonging to state-owned oil giant Aramco in Saudi Arabia's southern Najran region, near the Yemeni border.\n(FRANCE 24 with Reuters, AP and AFP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Middle East live: Hormuz shipping traffic falls"
+    ],
+    [
+     "ins",
+     "Israel calls Erdogan an 'anti-Semitic dictator' after Turkey issues Netanyahu arrest warrant Turkey issued an international arrest warrant for Israel's Prime Minister Benjamin Netanyahu"
+    ],
+    [
+     "eq",
+     "as"
+    ],
+    [
+     "del",
+     "Iran-US talks stall Shipping traffic through the Strait"
+    ],
+    [
+     "ins",
+     "part"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "Hormuz fell sharply"
+    ],
+    [
+     "ins",
+     "an investigation into Israel's interception of an aid flotilla for Gaza and its detention of hundreds of activists"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "Thursday, with just seven commodity vessels crossing the vital waterway, as heightened security risks and stalled US-Iran peace talks deterred ships from using the key energy route. Follow"
+    ],
+    [
+     "ins",
+     "board, Justice Minister Akin Gurlek announced Friday. Netanyahu's office in turn said Turkish President Recep Tayyip Erdogan was an \"anti-Semitic dictator\". Read"
+    ],
+    [
+     "eq",
+     "our liveblog"
+    ],
+    [
+     "del",
+     "for"
+    ],
+    [
+     "ins",
+     "to see how"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "latest updates."
+    ],
+    [
+     "ins",
+     "day's events unfolded. This liveblog is no longer being updated. For more on this subject, click here."
+    ],
+    [
+     "eq",
+     "• The USS George Washington aircraft carrier strike group arrived in the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.8121,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.7,
+ "similarity": 0.6468,
+ "adjudicated_by": "rules"
+}
