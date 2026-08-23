@@ -1,0 +1,188 @@
+{
+ "id": "c7f358fa84d8a96d-8c32340e-68bfd298",
+ "url": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-23T06:49:41Z",
+ "date": "2026-08-23",
+ "old_title": "Burnham economic adviser O'Neill rules out government job",
+ "new_title": "Economic adviser O'Neill rules out government job but urges boldness on devolution",
+ "old_text": "- Published\nThe economist Lord Jim O'Neill, who has been advising the prime minister, has said he will not be taking a job in Andy Burnham's government.\nLord O'Neill, a crossbench peer, was once a treasury minister under the Conservatives.\nAs first reported by, external the Financial Times, he said he did not want the constraints involved in taking on a formal role.\nThe former chief economist at Goldman Sachs had been tipped to become Burnham's chief economic adviser.\nHe said he was enjoying what he was currently doing too much and did not want to have to give up control of his business interests to comply with official rules.\n\"I've decided to not take a formal role,\" he said.\n\"It's not because of any policy disagreements. I'm a massive fan of the focus on devolution and I hope Andy and his team will be bold on this and everything else.\"\n\"I'll continue to, hopefully, maintain an informal relationship with the PM and his team,\" he added.\nHe said he did not want \"the constraints of a blind trust and all the constraints that would be necessary\".\nIn placing shares in blind trusts, ministers have no knowledge of how their investment is being handled, to avoid any potential conflict of interest.\nFrom 2015-2016, Lord O'Neill was commercial secretary to the Treasury under the then-Chancellor, George Osborne.\nThe peer, who grew up in Greater Manchester, was a key figure in pushing the Conservatives' Northern Powerhouse agenda, which was aimed at boosting the economy of the North of England.\nLord O'Neill is also known as the economist who coined the term Bric in 2001 to describe leading developing or newly industrialised countries with potential for fast growth and, therefore, investment returns.\nThe original four nations - Brazil, Russia, India and China - later became the Brics when they were joined by South Africa.",
+ "new_text": "- Published\nEconomist Lord Jim O'Neill, who has been advising the prime minister, has said he will not be taking a job in Andy Burnham's government.\nAs first reported by, external the Financial Times, Lord O'Neill, a crossbench peer who was once a treasury minister under the Conservatives, said he did not want the constraints involved in taking on a formal role.\nThe former chief economist at Goldman Sachs had been tipped to become Burnham's chief economic adviser.\nHe said he was enjoying what he was currently doing too much and did not want to have to give up control of his business interests to comply with official rules.\nHe told BBC Radio 4's Today programme that he had \"lots of other things that are going on that I very much enjoy\" and, having been a minister before, he knew the job included \"all the constraints that understandably go with it, like a blind trust and to abandon everything else you do, never mind the fact that it's 24/7\".\nIn placing shares in blind trusts, ministers have no knowledge of how their investment is being handled, to avoid any potential conflict of interest.\nHe said he concluded he would rather be a voice to talk to and \"get on with the rest of the things in my life\".\nHe earlier told the Financial Times it was \"not because of any policy disagreements\", adding \"I'm a massive fan of the focus on devolution and I hope Andy and his team will be bold on this and everything else.\"\nHe pointed to Greater Manchester as an example of economic growth and said if you could repeat that around populated areas, \"then national economic performance will improve\".\nAsked by the BBC whether the new government in the upcoming October budget would need to raise taxes, Lord O'Neill said it was a choice for the prime minister and his team \"based on the things they're saying they want to do more of - defence spending is obviously the one that catches the eye\", among other things.\nPressed on whether the government could turn to something such as wealth taxes, Lord O'Neill said he was \"not a fan of further increases in these kind of taxes, particularly as it relates to capital gains for genuine risk taking things like venture capital\".\nHe noted that the country has boosted government spending \"dramatically\" in recent years and needed a \"more sensible approach to welfare spending under genuine welfare reform\".\nFrom 2015-2016, Lord O'Neill was commercial secretary to the Treasury under the then-Chancellor, George Osborne.\nThe peer, who grew up in Greater Manchester, was a key figure in pushing the Conservatives' Northern Powerhouse agenda, which was aimed at boosting the economy of the North of England.\nLord O'Neill is also known as the economist who coined the term Bric in 2001 to describe leading developing or newly industrialised countries with potential for fast growth and, therefore, investment returns.\nThe original four nations - Brazil, Russia, India and China - later became the Brics when they were joined by South Africa.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "The economist"
+    ],
+    [
+     "ins",
+     "Economist"
+    ],
+    [
+     "eq",
+     "Lord Jim O'Neill, who has been advising the prime minister, has said he will not be taking a job in Andy Burnham's government."
+    ],
+    [
+     "del",
+     "Lord O'Neill, a crossbench peer, was once a treasury minister under the Conservatives."
+    ],
+    [
+     "eq",
+     "As first reported by, external the Financial Times,"
+    ],
+    [
+     "del",
+     "he"
+    ],
+    [
+     "ins",
+     "Lord O'Neill, a crossbench peer who was once a treasury minister under the Conservatives,"
+    ],
+    [
+     "eq",
+     "said he did not want the constraints involved in taking on a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "give up control of his business interests to comply with official rules."
+    ],
+    [
+     "del",
+     "\"I've decided to not take"
+    ],
+    [
+     "ins",
+     "He told BBC Radio 4's Today programme that he had \"lots of other things that are going on that I very much enjoy\" and, having been"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "formal role,\""
+    ],
+    [
+     "ins",
+     "minister before,"
+    ],
+    [
+     "eq",
+     "he"
+    ],
+    [
+     "del",
+     "said. \"It's not because of any policy disagreements. I'm a massive fan of"
+    ],
+    [
+     "ins",
+     "knew"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "focus on devolution and I hope Andy and his team will be bold on this and everything else.\" \"I'll continue to, hopefully, maintain an informal relationship"
+    ],
+    [
+     "ins",
+     "job included \"all the constraints that understandably go"
+    ],
+    [
+     "eq",
+     "with"
+    ],
+    [
+     "del",
+     "the PM and his team,\" he added. He said he did not want \"the constraints of"
+    ],
+    [
+     "ins",
+     "it, like"
+    ],
+    [
+     "eq",
+     "a blind trust and"
+    ],
+    [
+     "del",
+     "all"
+    ],
+    [
+     "ins",
+     "to abandon everything else you do, never mind"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "constraints"
+    ],
+    [
+     "ins",
+     "fact"
+    ],
+    [
+     "eq",
+     "that"
+    ],
+    [
+     "del",
+     "would be necessary\"."
+    ],
+    [
+     "ins",
+     "it's 24/7\"."
+    ],
+    [
+     "eq",
+     "In placing shares in blind trusts, ministers have no knowledge of how their investment is being handled, to avoid any potential conflict of interest."
+    ],
+    [
+     "ins",
+     "He said he concluded he would rather be a voice to talk to and \"get on with the rest of the things in my life\". He earlier told the Financial Times it was \"not because of any policy disagreements\", adding \"I'm a massive fan of the focus on devolution and I hope Andy and his team will be bold on this and everything else.\" He pointed to Greater Manchester as an example of economic growth and said if you could repeat that around populated areas, \"then national economic performance will improve\". Asked by the BBC whether the new government in the upcoming October budget would need to raise taxes, Lord O'Neill said it was a choice for the prime minister and his team \"based on the things they're saying they want to do more of - defence spending is obviously the one that catches the eye\", among other things. Pressed on whether the government could turn to something such as wealth taxes, Lord O'Neill said he was \"not a fan of further increases in these kind of taxes, particularly as it relates to capital gains for genuine risk taking things like venture capital\". He noted that the country has boosted government spending \"dramatically\" in recent years and needed a \"more sensible approach to welfare spending under genuine welfare reform\"."
+    ],
+    [
+     "eq",
+     "From 2015-2016, Lord O'Neill was commercial secretary to the Treasury under the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.1801,
+  "numbers_changed": [
+   "24",
+   "4",
+   "7"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 4,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.378,
+ "similarity": 0.932,
+ "adjudicated_by": "rules"
+}
