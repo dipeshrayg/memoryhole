@@ -1,0 +1,156 @@
+{
+ "id": "3807a8c0f365c4f4-6d9598fa-8aa84853",
+ "url": "https://www.dw.com/en/red-faces-as-sydney-marathon-medal-shows-german-stadium/a-78473705?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-24T07:10:14Z",
+ "date": "2026-08-24",
+ "old_title": "Red faces as Sydney Marathon medal shows German stadium",
+ "new_title": "Sydney Marathon medal wrongly shows German landmark",
+ "old_text": "Organizers of the 2026 Sydney Marathon are making the best of the situation after minting tens of thousands of medals engraved with depictions of landmarks from the eastern Australian city along with one that doesn't belong - the Allianz Arena in Munich, Germany.\nThe medal should have instead shown the Allianz Stadium in Sydney, which is one of the sights that participants in the upcoming race will pass while running the the 42.2-kilometer (26.2-mile) course.\nMore than 40,000 participants are expected to earn the medal as a \"badge of honor\" for completing the race on August 30.\nOther landmarks shown include the famous Opera House and the Sydney Harbour Bridge.\nWhat have organizers said about the medal mix-up?\n\"A little too much international flavor has found its way onto the back of the finishers medal, with an incorrect depiction of the stadium,\" a Sydney Marathon spokesperson said.\n\"We're not going to run from it, it was an unfortunate error; though it's certainly given everyone somehing to talk about this weekend, mostly in good humor,\" the spokesperson said.\n\"With the event a week away, this is the medal our finishers will receive.\"\n\"Behind every one of these medals is months of early mornings, long runs and quiet determination, and having it placed around your neck at the Sydney Opera House is a moment our participants will never forget,\" the spokesperson added.\n\"It's a beautiful medal, and now a little more unique.\"\nGood-humored reaction from Munich\nMunich's Allianz Arena has responded in light-hearted manner.\n\"Oh wow, we didn't have that on our bingo card!\" it posted on Instagram.\n\"Perhaps they tried to find something else they had in common: Allianz Arena - Sydney Opera - Unique Architecture - Both are worth a visit!\"\nThe daily Sydney Morning Herald also came up with a gleefully teasing headline: \"The medal that will put Sydney on the map. The wrong map.\"\nThe other side of the medal shows shows a gold-and-indigo pattern by First Nations artist Ambrose Killian that has been widely commended.\nKillian has said he was not involved in the design of the side showing the landmarks.\nEdited by: Natalie Muller\nTired of missing our real-time updates? Click here to add us as a Preferred Source on Google.",
+ "new_text": "Organizers of the 2026 Sydney Marathon are making the best of the situation after minting tens of thousands of medals engraved with depictions of landmarks from the eastern Australian city along with one that doesn't belong - the Allianz Arena in Munich, Germany.\nThe medal should have shown Allianz Stadium in Sydney, one of the sights participants in the upcoming race will pass as they run the 42.2-kilometer (26.2-mile) course.\nMore than 40,000 participants are expected to earn the medal as a \"badge of honor\" for completing the race on August 30.\nOther landmarks shown include the famous Opera House and the Sydney Harbour Bridge.\nWhat have organizers said about the medal mix-up?\n\"A little too much international flavor has found its way onto the back of the finishers' medal, with an incorrect depiction of the stadium,\" a Sydney Marathon spokesperson said.\n\"We're not going to run from it, it was an unfortunate error; though it's certainly given everyone something to talk about this weekend, mostly in good humor,\" the spokesperson said.\n\"With the event a week away, this is the medal our finishers will receive.\"\n\"Behind every one of these medals is months of early mornings, long runs and quiet determination, and having it placed around your neck at the Sydney Opera House is a moment our participants will never forget,\" the spokesperson added.\n\"It's a beautiful medal, and now a little more unique.\"\nGood-humored reaction from Munich\nMunich's Allianz Arena has responded in a light-hearted manner.\n\"Oh wow, we didn't have that on our bingo card!\" it posted on Instagram.\n\"Perhaps they tried to find something else they had in common: Allianz Arena - Sydney Opera - Unique Architecture - Both are worth a visit!\"\nThe daily Sydney Morning Herald also came up with a gleefully teasing headline: \"The medal that will put Sydney on the map. The wrong map.\"\nThe other side of the medal shows a gold-and-indigo pattern by First Nations artist Ambrose Killian that has been widely commended.\nKillian has said he was not involved in the design of the side showing the landmarks.\nEdited by: Natalie Muller\nTired of missing our real-time updates? Click here to add us as a Preferred Source on Google.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "belong - the Allianz Arena in Munich, Germany. The medal should have"
+    ],
+    [
+     "del",
+     "instead"
+    ],
+    [
+     "eq",
+     "shown"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "eq",
+     "Allianz Stadium in Sydney,"
+    ],
+    [
+     "del",
+     "which is"
+    ],
+    [
+     "eq",
+     "one of the sights"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "eq",
+     "participants in the upcoming race will pass"
+    ],
+    [
+     "del",
+     "while running the"
+    ],
+    [
+     "ins",
+     "as they run"
+    ],
+    [
+     "eq",
+     "the 42.2-kilometer (26.2-mile) course. More than 40,000 participants are expected to earn"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "much international flavor has found its way onto the back of the"
+    ],
+    [
+     "del",
+     "finishers"
+    ],
+    [
+     "ins",
+     "finishers'"
+    ],
+    [
+     "eq",
+     "medal, with an incorrect depiction of the stadium,\" a Sydney Marathon spokesperson"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "from it, it was an unfortunate error; though it's certainly given everyone"
+    ],
+    [
+     "del",
+     "somehing"
+    ],
+    [
+     "ins",
+     "something"
+    ],
+    [
+     "eq",
+     "to talk about this weekend, mostly in good humor,\" the spokesperson said."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "more unique.\" Good-humored reaction from Munich Munich's Allianz Arena has responded in"
+    ],
+    [
+     "ins",
+     "a"
+    ],
+    [
+     "eq",
+     "light-hearted manner. \"Oh wow, we didn't have that on our bingo card!\""
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the map. The wrong map.\" The other side of the medal shows"
+    ],
+    [
+     "del",
+     "shows"
+    ],
+    [
+     "eq",
+     "a gold-and-indigo pattern by First Nations artist Ambrose Killian that has been"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0453,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9934,
+ "adjudicated_by": "rules"
+}

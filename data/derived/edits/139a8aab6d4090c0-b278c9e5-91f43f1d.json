@@ -1,0 +1,46 @@
+{
+ "id": "139a8aab6d4090c0-b278c9e5-91f43f1d",
+ "url": "https://www.theguardian.com/football/2026/aug/22/gianni-infantino-fifa-football-politics-world-cup-election",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-08-24T07:19:43Z",
+ "date": "2026-08-24",
+ "old_title": "Infantino angers Concacaf nations by hijacking meeting in Caribbean",
+ "new_title": "Infantino angers Concacaf nations by hijacking meeting in Caribbean",
+ "old_text": "Gianni Infantino has risked alienating numerous Concacaf nations, whose support he is seeking in his re-election campaign, by hijacking a meeting of the Caribbean Football Union (CFU) to announce Fifa-funded development projects for the region with millions of dollars that had been delayed for months.\nMultiple sources attending the CFU meeting in the Dominican Republic said many of the Concacaf members were infuriated by Infantino's behaviour, particularly as he had been asked to stay away by their president, Victor Montagliani.\nThe Concacaf position echoes previous complaints about Fifa's operations from the Jordan FA, whose president, Prince Ali bin al-Hussein, accused Infantino of bribery this month when he claimed they have not received prize money from last year's Arab Cup due to the country's failure to endorse the president.\nInfantino appears to have seen the CFU meeting as an opportunity to lobby for election votes among Caribbean countries in the hope of causing a split within Concacaf, who have aligned with Uefa and the Asian Football Confederation in demanding his resignation after the World Cup sell-off debacle.\nIn a letter addressed to Infantino on Friday, Montagliani had asked the Fifa president \"in the name of football to reconsider your attendance\", pointing out his presence would take the spotlight away from a regional under-14 tournament being held alongside the meeting.\nDespite that entreaty, Infantino is understand to have turned up at the resort of Punta Cana with a large Fifa entourage including the secretary general, Mattias Grafström, and Elkhan Mammadov, a staunch ally who is responsible for maintaining good relations with the 211 members in his role as director of member associations.\nBefore making funding pledges in the CFU meeting, Infantino's team are understood to have approached individual member associations lobbying for support. Mammadov has played a central role in attempts to keep them onside since the Fifa Forward Enterprise scandal broke and his insistent approach has caused disquiet in some quarters.\nOne source said the official Fifa party had attempted to portray their governance crisis as a private dispute between Infantino and Montagliani. The Canadian businessman has not commented since news of the proposed Fifa Forward Enterprise emerged, but has been widely touted in Europe as a possible contender to replace Infantino.\nThe pair met briefly and shook hands before the CFU meeting in an exchange captured by Infantino's personal camera crew.\nWhile Mexico, Grenada and St Kitts and Nevis have all broken with Concacaf and declared their support for Infantino, the majority of their 41 members are understood to back the alliance with Uefa advocated by Montagliani.\nThe Uefa/Concacaf pact extends beyond attempts to unseat Infantino, with the two confederations in talks about setting up a joint Nations League in 2028 that could develop further into a new global competition.",
+ "new_text": "Gianni Infantino has risked alienating numerous Concacaf nations, whose support he is seeking in his re-election campaign, by hijacking a meeting of the Caribbean Football Union (CFU) to announce Fifa-funded development projects for the region with millions of dollars that had been delayed for months.\nMultiple sources attending the CFU meeting in the Dominican Republic said many of the Concacaf members were infuriated by Infantino's behaviour, particularly as he had been asked to stay away by their president, Victor Montagliani.\nThe Concacaf position echoes previous complaints about Fifa's operations from the Jordan FA, whose president, Prince Ali bin al-Hussein, accused Infantino of bribery this month when he claimed they have not received prize money from last year's Arab Cup due to the country's failure to endorse the president.\nInfantino appears to have seen the CFU meeting as an opportunity to lobby for election votes among Caribbean countries in the hope of causing a split within Concacaf, who have aligned with Uefa and the Asian Football Confederation in demanding his resignation after the World Cup sell-off debacle.\nIn a letter addressed to Infantino on Friday, Montagliani had asked the Fifa president \"in the name of football to reconsider your attendance\", pointing out his presence would take the spotlight away from a regional under-14 tournament being held alongside the meeting.\nDespite that entreaty, Infantino is understand to have turned up at the resort of Punta Cana with a large Fifa entourage including the secretary general, Mattias Grafström, and Elkhan Mammadov, a staunch ally who is responsible for maintaining good relations with the 211 members in his role as director of member associations.\nBefore making funding pledges in the CFU meeting, Infantino's team are understood to have approached individual member associations lobbying for support. Mammadov has played a central role in attempts to keep them onside since the Fifa Forward Enterprise scandal broke and his insistent approach has caused disquiet in some quarters.\nOne source said the official Fifa party had attempted to portray their governance crisis as a private dispute between Infantino and Montagliani. The Canadian businessman has not commented since news of the proposed Fifa Forward Enterprise emerged, but has been widely touted in Europe as a possible contender to replace Infantino.\nThe pair met briefly and shook hands before the CFU meeting in an exchange captured by Infantino's personal camera crew.\nWhile Mexico, Grenada and St Kitts and Nevis have all broken with Concacaf and declared their support for Infantino, the majority of their 41 members are understood to back the alliance with Uefa advocated by Montagliani.\nThe Uefa/Concacaf pact extends beyond attempts to unseat Infantino, with the two confederations in talks about setting up a joint Nations League in 2028 that could develop further into a new global competition.\nFifa's official website published an article 24 hours after the meeting in which Infantino claimed to have received a warm welcome, although he conceded that alternative options were expressed.\n\"I received a very, very warm welcome here in the Dominican Republic,\" Infantino said. \"It's important to engage, to have a dialogue, to express views and opinions - a lot [has] been happening in the last few weeks and it's important that you hear, you listen and you're able to, also, express what your feelings are.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "League in 2028 that could develop further into a new global competition."
+    ],
+    [
+     "ins",
+     "Fifa's official website published an article 24 hours after the meeting in which Infantino claimed to have received a warm welcome, although he conceded that alternative options were expressed. \"I received a very, very warm welcome here in the Dominican Republic,\" Infantino said. \"It's important to engage, to have a dialogue, to express views and opinions - a lot [has] been happening in the last few weeks and it's important that you hear, you listen and you're able to, also, express what your feelings are.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1848,
+  "numbers_changed": [
+   "24"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "208ba005c73ee406-b2a9e7ec-fb5fbb40",
+ "url": "https://www.theguardian.com/money/2026/aug/23/friday-afternoon-fraud-scam-conveyancing-fraud-uk-property-buyer-bank-account",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-24T07:16:00Z",
+ "date": "2026-08-24",
+ "old_title": "'Friday afternoon fraud': warning for UK homebuyers on bank scams",
+ "new_title": "'Friday afternoon fraud': warning for UK homebuyers on bank scams",
+ "old_text": "You are poised to move house and are awaiting the solicitor's instructions that things are ready to go and it is time to hand over your deposit. When the email arrives giving you their bank details, you set up the transfer and move the cash. And then the solicitor calls to ask where the money is.\nConveyancing fraud involves criminals getting access to an email chain between homebuyers and their solicitors or estate agents and requesting payment to a bank account they control. Sometimes the solicitor has been hacked, but often the homebuyer has been the victim of a phishing exercise.\nThe scam is sometimes known as \"Friday afternoon fraud\" as it tends to take place at the end of a sale, which is often timed before a weekend.\nThe sums of money involved in a property sale mean the fraudster only have to land a few victims to make a lot of cash.\nReport Fraud (formerly known as Action Fraud) says there were 3,657 scams involving persuading people to pay into the wrong bank account in the 2025-26 financial year, and these cost victims a total of £101m.\nConveyancing fraud is a subset of this. Between 1 April 2024 and 31 March 2025 Report Fraud recorded 140 property cases with an average loss of £78,393. In the worst case the Guardian has covered, a homebuyer transferred the entire £300,000 purchase price to the wrong account.\nCity of London police has warned that this type of fraud isn't limited to purchases - it's also been reported by renters who have lost money they thought they'd paid to their letting agent, and in probate transactions.\nWhat it looks like\nThe message looks just like an email from your solicitor or estate agent. It asks for you to make a payment you are expecting to make but may come earlier than you were expecting.\nIt may say that the solicitors' firm has new bank details and the payment needs to be made quickly.\nIf your solicitor's email has been hacked the message could come from its genuine address, but usually the fraudsters will be using a spoofed email address so if you look carefully you may spot something slightly different from the genuine company's one. There may be a missing letter or extra punctuation mark, for example.\nWhat to do (and not do)\nDon't post about your impending move on social media as fraudsters could spot this and realise that you are a good person to target.\nMake sure your side of the email chain is secure by setting a strong password for your account and using any extra protection that's offered, such as two-factor authentication.\nAvoid logging into public wifi and using it to check your emails as this gives fraudsters a potential access point.\nIf you are expecting to exchange on a property soon, make sure you have asked for the solicitor's bank details either in person or over the phone in a call that you have made to it.\nAny message suggesting your solicitor has changed its bank details should be checked out - again ask them in person or by phone.\nTake heed of any warnings from your bank as you try to transfer the money. It should tell you if the name of the account does not match what you expect, and when this happens you should stop and check everything is as it should be.\nContact your bank straight away if you have made a transfer that was not legitimate.",
+ "new_text": "You are poised to move house and are awaiting the solicitor's instructions that things are ready to go and it is time to hand over your deposit. When the email arrives giving you their bank details, you set up the transfer and move the cash. And then the solicitor calls to ask where the money is.\nConveyancing fraud involves criminals getting access to an email chain between homebuyers and their solicitors or estate agents and requesting payment to a bank account they control. Sometimes the solicitor has been hacked, but often the homebuyer has been the victim of a phishing exercise.\nThe scam is sometimes known as \"Friday afternoon fraud\" as it tends to take place at the end of a sale, which is often timed before a weekend.\nThe sums of money involved in a property sale mean the fraudster only has to land a few victims to make a lot of cash.\nReport Fraud (formerly known as Action Fraud) says there were 3,657 scams involving persuading people to pay into the wrong bank account in the 2025-26 financial year, and these cost victims a total of £101m.\nConveyancing fraud is a subset of this. Between 1 April 2024 and 31 March 2025 Report Fraud recorded 140 property cases with an average loss of £78,393. In the worst case the Guardian has covered, a homebuyer transferred the entire £300,000 purchase price to the wrong account.\nCity of London police has warned that this type of fraud isn't limited to purchases - it's also been reported by renters who have lost money they thought they'd paid to their letting agent, and in probate transactions.\nWhat it looks like\nThe message looks just like an email from your solicitor or estate agent. It asks for you to make a payment you are expecting to make but may come earlier than you were expecting.\nIt may say that the solicitors' firm has new bank details and the payment needs to be made quickly.\nIf your solicitor's email has been hacked the message could come from its genuine address, but usually the fraudsters will be using a spoofed email address so if you look carefully you may spot something slightly different from the genuine company's one. There may be a missing letter or extra punctuation mark, for example.\nWhat to do (and not do)\nDon't post about your impending move on social media as fraudsters could spot this and realise that you are a good person to target.\nMake sure your side of the email chain is secure by setting a strong password for your account and using any extra protection that's offered, such as two-factor authentication.\nAvoid logging into public wifi and using it to check your emails as this gives fraudsters a potential access point.\nIf you are expecting to exchange on a property soon, make sure you have asked for the solicitor's bank details either in person or over the phone in a call that you have made to it.\nAny message suggesting your solicitor has changed its bank details should be checked out - again ask them in person or by phone.\nTake heed of any warnings from your bank as you try to transfer the money. It should tell you if the name of the account does not match what you expect, and when this happens you should stop and check everything is as it should be.\nContact your bank straight away if you have made a transfer that was not legitimate.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "sums of money involved in a property sale mean the fraudster only"
+    ],
+    [
+     "del",
+     "have"
+    ],
+    [
+     "ins",
+     "has"
+    ],
+    [
+     "eq",
+     "to land a few victims to make a lot of cash. Report"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0034,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

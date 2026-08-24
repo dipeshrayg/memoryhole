@@ -1,0 +1,96 @@
+{
+ "id": "984977841a9edd69-c3af1414-e363b1e6",
+ "url": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-24T07:15:16Z",
+ "date": "2026-08-24",
+ "old_title": "Cyber attack shut down small power plant",
+ "new_title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
+ "old_text": "- Published\nA small power plant has been shut down during a cyber attack.\nThe government said that at no point was there a risk to the UK's energy system, but the Department for Energy Security and Net Zero (DESNZ) has contacted power companies to advise them about the risk of cyber attacks.\nThe Daily Telegraph reported that the attack, which took place last month, was carried out by hackers affiliated to the Iranian regime.\nFor security reasons, neither the government nor the National Cyber Security Centre, which deals with attacks on critical infrastructure, would give further details of the site affected. However this was not an attack on an essential service such as a large power station.\nAccording to the Telegraph, external, the power plant was shut down for four days.\nDESNZ said the incident had affected a small-scale generator and at no point had there been a risk to the wider energy system.\nThe UK's power network has a number of smaller gas generators which provide short-term power when needed.\nProtecting the country's supplies is a key challenge for the government. It is updating its regulations for cyber security, and working on a new energy resilience strategy for later this year.\nIran has long been regarded as a capable cyber power but while the Western cyber-security world is braced for attacks either from the state or hackers linked to the state as a result of its conflict with the US this year, there has been little activity so far.",
+ "new_text": "- Published\nA small power plant in the UK was shut down during a cyber attack.\nThe government said that at no point was there a risk to the UK's energy system, but the Department for Energy Security and Net Zero (DESNZ) has contacted power companies to advise them about the risk of cyber attacks.\nThe Telegraph reported, external that the attack, which took place last month, was carried out by hackers affiliated to the Iranian regime.\nFor security reasons, neither the government nor the National Cyber Security Centre, which deals with attacks on critical infrastructure, would give further details of the site affected. However this was not an attack on an essential service such as a large power station.\nAccording to the Telegraph, the power plant was shut down for four days.\nDESNZ said the incident had affected a small-scale generator and at no point had there been a risk to the wider energy system.\nThe UK's power network has a number of smaller gas generators which provide short-term power when needed.\nProtecting the country's supplies is a key challenge for the government. It is updating its regulations for cyber security, and working on a new energy resilience strategy for later this year.\nIran has long been regarded as a capable cyber power but while the Western cyber-security world is braced for attacks either from the state or hackers linked to the state as a result of its conflict with the US this year, there has been little activity so far.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published A small power plant"
+    ],
+    [
+     "del",
+     "has been"
+    ],
+    [
+     "ins",
+     "in the UK was"
+    ],
+    [
+     "eq",
+     "shut down during a cyber attack. The government said that at no"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "power companies to advise them about the risk of cyber attacks. The"
+    ],
+    [
+     "del",
+     "Daily"
+    ],
+    [
+     "eq",
+     "Telegraph"
+    ],
+    [
+     "del",
+     "reported"
+    ],
+    [
+     "ins",
+     "reported, external"
+    ],
+    [
+     "eq",
+     "that the attack, which took place last month, was carried out by"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "essential service such as a large power station. According to the Telegraph,"
+    ],
+    [
+     "del",
+     "external,"
+    ],
+    [
+     "eq",
+     "the power plant was shut down for four days. DESNZ said the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0438,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9919,
+ "adjudicated_by": "rules"
+}
