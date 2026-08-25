@@ -1,0 +1,72 @@
+{
+ "id": "dc11338da01a03fc-ae31afff-32b3697e",
+ "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260821-search-continues-after-deadly-mine-collapse-on-cameroon-central-african-republic-border",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-25T06:59:26Z",
+ "date": "2026-08-25",
+ "old_title": "Eye on Africa - Search continues after deadly mine collapse on Cameroon-Central African Republic border",
+ "new_title": "Eye on Africa - Search continues after deadly mine collapse on Cameroon-Central African Republic border",
+ "old_text": "Search continues after deadly mine collapse on Cameroon-Central African Republic border\nIssued on:\nIn tonight's edition: a deadly landslide at a gold mine in the Central African Republic leaves dozens dead, with victims from Cameroon and Chad. Meanwhile, Ethiopia is turning to Bordeaux expertise and grapevines in a bid to become East Africa's next wine destination. Finally, Belgium continues to confront its colonial past, more than a century after Congolese people were displayed at the 1894 Antwerp World's Fair.\nProduced by Clarisse Fortuné and Guillaume Gougeon",
+ "new_text": "Search continues after deadly mine collapse on Cameroon-Central African Republic border\nIssued on:\nIn tonight's edition: A deadly landslide at a gold mine in the Central African Republic leaves dozens dead, with victims from Cameroon and Chad. Meanwhile, Ethiopia is turning to Bordeaux expertise and grapevines in a bid to become East Africa's next wine destination. Finally, Belgium continues to confront its colonial past, more than a century after Congolese people were put on display at the 1894 Antwerp World's Fair.\nProduced by Clarisse Fortuné and Guillaume Gougeon",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "mine collapse on Cameroon-Central African Republic border Issued on: In tonight's edition:"
+    ],
+    [
+     "del",
+     "a"
+    ],
+    [
+     "ins",
+     "A"
+    ],
+    [
+     "eq",
+     "deadly landslide at a gold mine in the Central African Republic leaves"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "confront its colonial past, more than a century after Congolese people were"
+    ],
+    [
+     "del",
+     "displayed"
+    ],
+    [
+     "ins",
+     "put on display"
+    ],
+    [
+     "eq",
+     "at the 1894 Antwerp World's Fair. Produced by Clarisse Fortuné and Guillaume Gougeon"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0698,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9985,
+ "adjudicated_by": "rules"
+}

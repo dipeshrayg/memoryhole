@@ -1,0 +1,200 @@
+{
+ "id": "1b8265c9cffc2ee4-33c170b5-a32dd45c",
+ "url": "https://www.dw.com/en/new-zealand-proposes-social-media-ban-for-under-16s/a-78480389?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-25T06:58:54Z",
+ "date": "2026-08-25",
+ "old_title": "New Zealand proposes social media ban for under-16s",
+ "new_title": "New Zealand proposes social media ban for under-16s",
+ "old_text": "New Zealand's government is set to introduce legislation Monday banning children under the age of 16 from social media, following the lead of several countries across the world, including neighbor Australia.\nWhat does New Zealand's social media ban entail?\nThe Online Safety Bill would require platforms like Instagram, TikTok, Snapchat and Facebook to verify users are 16 or older using tools such as facial age estimation and digital ID, with fines of up to 10% of global revenue for non-compliance.\nPrime Minister Christopher Luxon said the harm to children is too great to ignore.\n\"We simply cannot accept the harm being done to a generation of New Zealand children,\" he said, citing effects on mental health, sleep and education. Education Minister Erica Stanford said penalties would apply only to platforms, not families.\nWhen will the bill be introduced?\nThe bill's future is uncertain, as coalition partners NZ First and ACT have both voiced opposition, questioning the law's effectiveness. Australia's similar ban took effect last year, though a June study found little evidence it reduced teen social media use, AFP reported.\nEdited by: Rob Turner\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "new_text": "New Zealand's government introduced legislation Monday banning children under the age of 16 from social media, following the lead of several countries across the world, including neighbor Australia.\nWhat does New Zealand's social media ban entail?\nThe Online Safety Bill requires platforms like Instagram, TikTok, Snapchat and Facebook to verify users are 16 or older using tools such as facial age estimation and digital ID, with fines of up to 10% of global revenue for non-compliance.\nPlatforms would also have to assess the risks they pose to young users and report on efforts to reduce them.\nPrime Minister Christopher Luxon said the harm to children is too great to ignore.\n\"We simply cannot accept the harm being done to a generation of New Zealand children,\" he said, citing effects on mental health, sleep and education. The government's data shows one in three children aged 13 to 17 now spend at least five hours a day on social media.\nEducation Minister Erica Stanford said the bill places the legal burden on platforms, not families: \"No penalties are proposed for children, their parents or caregivers.\"\nWill the bill really be introduced?\nEven though New Zealand spent more than a year examining the potential ban, the bill's future is uncertain, as coalition partners NZ First and ACT have both voiced opposition, questioning the law's effectiveness.\nAustralia's similar ban took effect last year, barring under-16s from platforms including Facebook, Instagram and TikTok as part of an effort to shield children from bullying and \"predatory algorithms.\" But a June peer-reviewed study by Australian researchers found little evidence it reduced teen social media use.\nEdited by: Rob Turner\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "New Zealand's government"
+    ],
+    [
+     "del",
+     "is set to introduce"
+    ],
+    [
+     "ins",
+     "introduced"
+    ],
+    [
+     "eq",
+     "legislation Monday banning children under the age of 16 from social media,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "What does New Zealand's social media ban entail? The Online Safety Bill"
+    ],
+    [
+     "del",
+     "would require"
+    ],
+    [
+     "ins",
+     "requires"
+    ],
+    [
+     "eq",
+     "platforms like Instagram, TikTok, Snapchat and Facebook to verify users are 16"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "ID, with fines of up to 10% of global revenue for non-compliance."
+    ],
+    [
+     "ins",
+     "Platforms would also have to assess the risks they pose to young users and report on efforts to reduce them."
+    ],
+    [
+     "eq",
+     "Prime Minister Christopher Luxon said the harm to children is too great"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Zealand children,\" he said, citing effects on mental health, sleep and education."
+    ],
+    [
+     "ins",
+     "The government's data shows one in three children aged 13 to 17 now spend at least five hours a day on social media."
+    ],
+    [
+     "eq",
+     "Education Minister Erica Stanford said"
+    ],
+    [
+     "del",
+     "penalties would apply only to"
+    ],
+    [
+     "ins",
+     "the bill places the legal burden on"
+    ],
+    [
+     "eq",
+     "platforms, not"
+    ],
+    [
+     "del",
+     "families. When will"
+    ],
+    [
+     "ins",
+     "families: \"No penalties are proposed for children, their parents or caregivers.\" Will"
+    ],
+    [
+     "eq",
+     "the bill"
+    ],
+    [
+     "ins",
+     "really"
+    ],
+    [
+     "eq",
+     "be introduced?"
+    ],
+    [
+     "del",
+     "The"
+    ],
+    [
+     "ins",
+     "Even though New Zealand spent more than a year examining the potential ban, the"
+    ],
+    [
+     "eq",
+     "bill's future is uncertain, as coalition partners NZ First and ACT have"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "opposition, questioning the law's effectiveness. Australia's similar ban took effect last year,"
+    ],
+    [
+     "del",
+     "though"
+    ],
+    [
+     "ins",
+     "barring under-16s from platforms including Facebook, Instagram and TikTok as part of an effort to shield children from bullying and \"predatory algorithms.\" But"
+    ],
+    [
+     "eq",
+     "a June"
+    ],
+    [
+     "ins",
+     "peer-reviewed"
+    ],
+    [
+     "eq",
+     "study"
+    ],
+    [
+     "ins",
+     "by Australian researchers"
+    ],
+    [
+     "eq",
+     "found little evidence it reduced teen social media"
+    ],
+    [
+     "del",
+     "use, AFP reported."
+    ],
+    [
+     "ins",
+     "use."
+    ],
+    [
+     "eq",
+     "Edited by: Rob Turner If you rely on our team for trusted"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5888,
+  "numbers_changed": [
+   "13",
+   "16",
+   "17"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9664,
+ "adjudicated_by": "rules"
+}

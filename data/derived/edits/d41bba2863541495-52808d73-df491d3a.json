@@ -1,0 +1,84 @@
+{
+ "id": "d41bba2863541495-52808d73-df491d3a",
+ "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-08-25T07:11:10Z",
+ "date": "2026-08-25",
+ "old_title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+ "new_title": "Due to need for \"absolute success,\" China delays critical Moon launch to 2027",
+ "old_text": "China's \"Manned Space\" program issued a terse announcement on Sunday regarding its much-anticipated Chang'e 7 lunar exploration mission.\nThe agency stated: \"In keeping with the principle of proceeding prudently and reliably, and ensuring absolute success, after a comprehensive assessment it has been determined that the Chang'e 7 mission does not meet the conditions for launch and therefore cannot be carried out during the planned launch window this year.\"\nThe Chinese message offered no explanation for the cause of the delay from the Wenchang Space Launch Site, located on an island in the South China Sea. Consisting of a lunar orbiter, lander, rover, and a mini-hopper of a probe, the mission was due to launch as early as Sunday on a Long March 5 rocket. It is intended to land at the South Pole of the Moon.\nWeather and launch windows\nMost likely, Sunday's delayed launch was due to Typhoon Narra, which has 45-mph winds (equivalent to a moderate Tropical Storm) and continues to meander around in the waterway separating Hainan island, where the spaceport is located, and mainland China.\nAccording to the Joint Typhoon Warning Center, this storm is expected to continue tracking in this general area for the next two or three days, likely providing inclement weather at the Wenchang launch site. Plausibly, then, Chinese forecasters determined that the weather would not break before the current launch window to reach the lunar pole from Wenchang closes.\nAlthough official Chinese sources have provided no confirmed information, there has been social media chatter indicating that another suitable launch window may not open until next February or March. Why so long? It likely is a combination of factors, including sunlight conditions in polar landing zones as well as the mission plan that requires a 90-day lunar orbit reconnaissance before landing.\nAnother, lesser possibility, is that some technical issue was discovered at the last minute with either the complex Chang'e 7 payload, or the rocket. The large Long March 5 rocket shares an engine, the YF-100, with the Long March 7A vehicle that was lost during ascent two weeks ago. This engine issue seems unlikely to be the cause of the delay, however, as China had been proceeding toward launch in recent days.",
+ "new_text": "China's \"Manned Space\" program issued a terse announcement on Sunday regarding its much-anticipated Chang'e 7 lunar exploration mission.\nThe agency stated: \"In keeping with the principle of proceeding prudently and reliably, and ensuring absolute success, after a comprehensive assessment it has been determined that the Chang'e 7 mission does not meet the conditions for launch and therefore cannot be carried out during the planned launch window this year.\"\nThe Chinese message offered no explanation for the cause of the delay from the Wenchang Space Launch Site, located on an island in the South China Sea. Consisting of a lunar orbiter, lander, rover, and a mini-hopper of a probe, the mission was due to launch as early as Sunday on a Long March 5 rocket. It is intended to land at the South Pole of the Moon.\nWeather and launch windows\nMost likely, Sunday's delayed launch was due to Typhoon Narra, which has 45 mph winds (equivalent to a moderate Tropical Storm) and continues to meander around in the waterway separating Hainan Island, where the spaceport is located, and mainland China.\nAccording to the Joint Typhoon Warning Center, this storm is expected to continue tracking in this general area for the next two or three days, likely providing inclement weather at the Wenchang launch site. Plausibly, then, Chinese forecasters determined that the weather would not break before the current launch window to reach the lunar pole from Wenchang closes.\nAlthough official Chinese sources have provided no confirmed information, there has been social media chatter indicating that another suitable launch window may not open until next February or March. Why so long? It likely is a combination of factors, including sunlight conditions in polar landing zones as well as the mission plan that requires a 90-day lunar orbit reconnaissance before landing.\nAnother, lesser possibility is that some technical issue was discovered at the last minute with either the complex Chang'e 7 payload, or the rocket. The large Long March 5 rocket shares an engine, the YF-100, with the Long March 7A vehicle that was lost during ascent two weeks ago. This engine issue seems unlikely to be the cause of the delay, however, as China had been proceeding toward launch in recent days.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Most likely, Sunday's delayed launch was due to Typhoon Narra, which has"
+    ],
+    [
+     "del",
+     "45-mph"
+    ],
+    [
+     "ins",
+     "45 mph"
+    ],
+    [
+     "eq",
+     "winds (equivalent to a moderate Tropical Storm) and continues to meander around in the waterway separating Hainan"
+    ],
+    [
+     "del",
+     "island,"
+    ],
+    [
+     "ins",
+     "Island,"
+    ],
+    [
+     "eq",
+     "where the spaceport is located, and mainland China. According to the Joint"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "plan that requires a 90-day lunar orbit reconnaissance before landing. Another, lesser"
+    ],
+    [
+     "del",
+     "possibility,"
+    ],
+    [
+     "ins",
+     "possibility"
+    ],
+    [
+     "eq",
+     "is that some technical issue was discovered at the last minute with"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0189,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

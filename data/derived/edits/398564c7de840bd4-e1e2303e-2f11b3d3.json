@@ -1,0 +1,284 @@
+{
+ "id": "398564c7de840bd4-e1e2303e-2f11b3d3",
+ "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-25T06:56:19Z",
+ "date": "2026-08-25",
+ "old_title": "Nearly three million Teslas recalled in China over hidden door handles",
+ "new_title": "Nearly three million Teslas recalled in China over hidden door handles",
+ "old_text": "- Published\nMinimalistic retractable door handles became a signature feature of electric vehicles (EVs), but the controversial designs are now at the centre of China's biggest car recall, affecting more than 4 million vehicles.\nThe recall, which includes 2.98 million Chinese-made Teslas, follows safety concerns that the hidden door handles are difficult to locate and open in emergency situations.\nOther brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.\nMade popular by multi-billionaire Elon Musk's Tesla, hidden door handles are designed to tuck seamlessly within the car's door panel and only extend outwards when an owner approaches their vehicle.\nThe design came under scrutiny after two fatal crashes in China involving Xiaomi EVs, in which power failures were suspected to have prevented doors from being opened.\nTesla said in a statement on Friday that it was recalling some of its Model 3, Y, S and X vehicles due to door handles that are \"difficult to identify and operate because their colour is similar to the interior trim\".\nThis could hinder occupants or rescuers from quickly opening the doors in an emergency, such as during a \"severe collision causing the vehicle's low-voltage system to fail.\"\nTesla said it will place warning labels on the recalled vehicles and issue a software update to automatically lower a vehicle's windows after a collision.\nIt is not clear if the affected firms plan to make a similar recall for the rest of the world.\nThe BBC has contacted Tesla, XPeng, Xiaomi and Geely for comment.\nThe use of the hidden handle design has \"snowballed\" after Chinese brands were quick to copy the \"sleek\" look of Tesla's Model S sedan since 2014, said Tu Le, the founder of consultancy Sino Auto Insights.\nThe use of warning labels and a software update is more of a \"band-aid\" than a lasting solution for the issue, he added.\nIn February, Chinese authorities announced a ban on hidden door handles.\nUnder new rules due to take effect on 1 January 2027, cars will only be allowed to be sold in China if they have a mechanical release on both the inside and outside of their doors.\nTesla's door handles were also involved in a probe by US safety regulators after reports that they suddenly stopped working, leaving children trapped in the cars.\nIn July, the US National Highway Traffic Safety Administration suggested creating a new formal safety standard for all carmakers.\nThe BBC has contacted the agency for comment.",
+ "new_text": "- Published\nMinimalistic door handles became a signature feature of electric vehicles (EVs), but the controversial designs are now at the centre of China's biggest car recall, affecting more than 4 million vehicles.\nThe recall, which includes 2.98 million Chinese-made Teslas, follows safety concerns that the hidden door handles are difficult to locate and open in emergency situations.\nOther brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.\nThe recalled vehicles will have a warning label stuck on the interior door and receive a software update to automatically lower the windows in a crash.\nThe designs have come under scrutiny after two fatal crashes in China involving Xiaomi EVs, in which power failures were suspected to have prevented doors from being opened.\nTesla said in a statement on Friday that it was recalling some of its Model 3, Y, S and X vehicles due to door handles that are \"difficult to identify and operate because their colour is similar to the interior trim\".\n\"In extreme situations such as a severe collision causing the vehicle's low-voltage system to fail, this could hinder occupants from quickly opening the doors to escape and impede rescue efforts by those outside the vehicle, posing a safety hazard,\" it said.\nTesla said it would place warning labels on the recalled vehicles and issue a software update to automatically lower a vehicle's windows after a collision.\nThe BBC understands that carmakers have not yet notified authorities of any plans for a similar recall in the US.\nThe BBC has contacted Tesla, XPeng, Xiaomi and Geely for comment.\nThe use of hidden handle designs has \"snowballed\" after Chinese brands were quick to copy the \"sleek\" look of Tesla's Model S sedan since 2014, said Tu Le, the managing director of consultancy Sino Auto Insights.\nThe use of warning labels and a software update is more of a \"band-aid\" than a lasting solution for the issue, he added.\nIn February, Chinese authorities announced a ban on hidden door handles.\nUnder new rules due to take effect on 1 January 2027, cars will only be allowed to be sold in China if they have a mechanical release on both the inside and outside of their doors.\nTesla's door handles were also involved in a probe by US safety regulators after reports that they suddenly stopped working, leaving children trapped in the cars.\nIn July, the US National Highway Traffic Safety Administration suggested creating a new formal safety standard for all carmakers.\nThe agency told the BBC that it is reviewing whether it will require emergency door-exit systems in vehicles.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published Minimalistic"
+    ],
+    [
+     "del",
+     "retractable"
+    ],
+    [
+     "eq",
+     "door handles became a signature feature of electric vehicles (EVs), but the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
+    ],
+    [
+     "del",
+     "Made popular by multi-billionaire Elon Musk's Tesla, hidden"
+    ],
+    [
+     "ins",
+     "The recalled vehicles will have a warning label stuck on the interior"
+    ],
+    [
+     "eq",
+     "door"
+    ],
+    [
+     "del",
+     "handles are designed"
+    ],
+    [
+     "ins",
+     "and receive a software update"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "tuck seamlessly within"
+    ],
+    [
+     "ins",
+     "automatically lower"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "car's door panel and only extend outwards when an owner approaches their vehicle."
+    ],
+    [
+     "ins",
+     "windows in a crash."
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "design came"
+    ],
+    [
+     "ins",
+     "designs have come"
+    ],
+    [
+     "eq",
+     "under scrutiny after two fatal crashes in China involving Xiaomi EVs, in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "identify and operate because their colour is similar to the interior trim\"."
+    ],
+    [
+     "del",
+     "This could hinder occupants or rescuers from quickly opening the doors in an emergency,"
+    ],
+    [
+     "ins",
+     "\"In extreme situations"
+    ],
+    [
+     "eq",
+     "such as"
+    ],
+    [
+     "del",
+     "during"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "\"severe"
+    ],
+    [
+     "ins",
+     "severe"
+    ],
+    [
+     "eq",
+     "collision causing the vehicle's low-voltage system to"
+    ],
+    [
+     "del",
+     "fail.\""
+    ],
+    [
+     "ins",
+     "fail, this could hinder occupants from quickly opening the doors to escape and impede rescue efforts by those outside the vehicle, posing a safety hazard,\" it said."
+    ],
+    [
+     "eq",
+     "Tesla said it"
+    ],
+    [
+     "del",
+     "will"
+    ],
+    [
+     "ins",
+     "would"
+    ],
+    [
+     "eq",
+     "place warning labels on the recalled vehicles and issue a software update to automatically lower a vehicle's windows after a collision."
+    ],
+    [
+     "del",
+     "It is"
+    ],
+    [
+     "ins",
+     "The BBC understands that carmakers have"
+    ],
+    [
+     "eq",
+     "not"
+    ],
+    [
+     "del",
+     "clear if the affected firms plan to make"
+    ],
+    [
+     "ins",
+     "yet notified authorities of any plans for"
+    ],
+    [
+     "eq",
+     "a similar recall"
+    ],
+    [
+     "del",
+     "for"
+    ],
+    [
+     "ins",
+     "in"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "rest of the world."
+    ],
+    [
+     "ins",
+     "US."
+    ],
+    [
+     "eq",
+     "The BBC has contacted Tesla, XPeng, Xiaomi and Geely for comment. The use of"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "eq",
+     "hidden handle"
+    ],
+    [
+     "del",
+     "design"
+    ],
+    [
+     "ins",
+     "designs"
+    ],
+    [
+     "eq",
+     "has \"snowballed\" after Chinese brands were quick to copy the \"sleek\" look of Tesla's Model S sedan since 2014, said Tu Le, the"
+    ],
+    [
+     "del",
+     "founder"
+    ],
+    [
+     "ins",
+     "managing director"
+    ],
+    [
+     "eq",
+     "of consultancy Sino Auto Insights. The use of warning labels and a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Administration suggested creating a new formal safety standard for all carmakers. The"
+    ],
+    [
+     "ins",
+     "agency told the"
+    ],
+    [
+     "eq",
+     "BBC"
+    ],
+    [
+     "del",
+     "has contacted the agency for comment."
+    ],
+    [
+     "ins",
+     "that it is reviewing whether it will require emergency door-exit systems in vehicles."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3981,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.112,
+ "similarity": 0.9514,
+ "adjudicated_by": "rules"
+}

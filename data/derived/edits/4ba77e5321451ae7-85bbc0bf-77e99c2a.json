@@ -1,0 +1,124 @@
+{
+ "id": "4ba77e5321451ae7-85bbc0bf-77e99c2a",
+ "url": "https://www.gov.uk/government/news/britain-is-100-behind-you-prime-minister-andy-burnham-visits-kyiv-on-ukrainian-independence-day-for-first-international-trip",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "country": "United Kingdom",
+ "category": "government",
+ "lang": "en",
+ "detected_at": "2026-08-25T07:03:24Z",
+ "date": "2026-08-25",
+ "old_title": "Britain is 100% behind you: Prime Minister Andy Burnham visits Kyiv on Ukrainian Independence Day for first international trip",
+ "new_title": "Britain is 100% behind you: Prime Minister Andy Burnham visits Kyiv on Ukrainian Independence Day for first international trip",
+ "old_text": "-\nPrime Minister in Kyiv for first international visit to reiterate UK's unwavering commitment to Ukraine\n-\nComes as the Prime Minister announces the UK has agreed that defence firm MBDA can release classified information on UK components for the long-range missile, SCALP, to establish local assembly lines in Ukraine\n-\nBurnham expected to meet with President Volodymyr Zelenskyy and chair his first meeting of the Coalition of the Willing, alongside other world leaders in the city to mark Independence Day\nAndy Burnham will arrive in Ukraine on Monday 24 August for his first overseas visit as Prime Minister.\nJust weeks after welcoming President Volodymyr Zelenskyy to the UK in July as his first international guest, the Prime Minister has travelled to Kyiv to reiterate the UK's unwavering support for the Ukrainian people.\nVisiting on Independence Day, the Prime Minister will tell the Ukrainian people that the UK is four-square behind Ukraine's independence, and Russia's threats only strengthen the UK's resolve.\nTo underline the strength of this commitment, the Prime Minister is set to announce that the Government has agreed that defence firm MBDA can release classified information on UK components for the long-range missile, SCALP, as Ukraine and France look to establish local assembly lines in Ukraine.\nThe missile is the French-produced version of the UK's Storm Shadow, with both using shared French and British technology.\nThe move follows the UK being the first to gift long-range strike weapons for defensive purposes to Ukraine in 2023 and will allow the French and Ukrainians to move forward with the Ukrainian assembly of the missile.\nIt also complements the major UK effort to rapidly develop low-cost advanced long-range strike weapons for Ukraine through Project Brakestop.\nPrime Minister Andy Burnham said:\n\"On Ukraine's 35th anniversary of independence, the Ukrainian people should be in no doubt: the UK is behind you today and for as long as it takes.\n\"I am proud of the contribution our country has made to Ukraine and I want the Ukrainian people to hear it directly from me that our support will not waver. After all, Ukraine's security is our security.\n\"The friendship between our two countries will long outlast Russia's illegal war. In both the fight and in the rebuilding to come, we will stand with Ukraine and deliver opportunities for people across both our countries.\n\"Russia should be in no doubt of our resolve. We will not back down until there is a just and lasting peace.\"\nWhile in Kyiv, the Prime Minister will take part in Independence Day events and co-chair his first meeting of the Coalition of the Willing to discuss how the UK can continue to support Ukraine as it courageously defends itself against Russia's illegal invasion.\nHe will tell international partners that the UK's leadership on Ukraine will remain steadfast under his Government.\nWhile in Kyiv, the Prime Minister is expected to be presented with an award on behalf of the British people, in recognition of the United Kingdom's support.\nThe UK has been one of Ukraine's foremost partners since the start of Russia's full-scale invasion, providing a range of military, economic, and diplomatic support, underpinned by the UK and Ukraine's 100 Year Partnership.\nThis includes leading efforts to secure Ukraine's long-term security alongside France as co-chairs of the Coalition of the Willing, and committing £25 billion in funding, including £16 billion in military assistance and £5.6 billion in non-military support.",
+ "new_text": "- Prime Minister in Kyiv for first international visit to reiterate UK's unwavering commitment to Ukraine\n- Comes as the Prime Minister announces the UK has agreed that defence firm MBDA can release classified information on UK components for the long-range missile, SCALP, to establish local assembly lines in Ukraine\n- Burnham expected to meet with President Volodymyr Zelenskyy and chair his first meeting of the Coalition of the Willing, alongside other world leaders in the city to mark Independence Day\nAndy Burnham will arrive in Ukraine on Monday 24 August for his first overseas visit as Prime Minister.\nJust weeks after welcoming President Volodymyr Zelenskyy to the UK in July as his first international guest, the Prime Minister has travelled to Kyiv to reiterate the UK's unwavering support for the Ukrainian people.\nVisiting on Independence Day, the Prime Minister will tell the Ukrainian people that the UK is four-square behind Ukraine's independence, and Russia's threats only strengthen the UK's resolve.\nTo underline the strength of this commitment, the Prime Minister is set to announce that the Government has agreed that defence firm MBDA can release classified information on UK components for the long-range missile, SCALP, as Ukraine and France look to establish local assembly lines in Ukraine.\nThe missile is the French-produced version of the UK's Storm Shadow, with both using shared French and British technology.\nThe move follows the UK being the first to gift long-range strike weapons for defensive purposes to Ukraine in 2023 and will allow the French and Ukrainians to move forward with the Ukrainian assembly of the missile.\nIt also complements the major UK effort to rapidly develop low-cost advanced long-range strike weapons for Ukraine through Project Brakestop.\nPrime Minister Andy Burnham said:\nOn Ukraine's 35th anniversary of independence, the Ukrainian people should be in no doubt: the UK is behind you today and for as long as it takes.\nI am proud of the contribution our country has made to Ukraine and I want the Ukrainian people to hear it directly from me that our support will not waver. After all, Ukraine's security is our security.\nThe friendship between our two countries will long outlast Russia's illegal war. In both the fight and in the rebuilding to come, we will stand with Ukraine and deliver opportunities for people across both our countries.\nRussia should be in no doubt of our resolve. We will not back down until there is a just and lasting peace.\nWhile in Kyiv, the Prime Minister will take part in Independence Day events and co-chair his first meeting of the Coalition of the Willing to discuss how the UK can continue to support Ukraine as it courageously defends itself against Russia's illegal invasion.\nHe will tell international partners that the UK's leadership on Ukraine will remain steadfast under his Government.\nWhile in Kyiv, the Prime Minister is expected to be presented with an award on behalf of the British people, in recognition of the United Kingdom's support.\nThe UK has been one of Ukraine's foremost partners since the start of Russia's full-scale invasion, providing a range of military, economic, and diplomatic support, underpinned by the UK and Ukraine's 100 Year Partnership.\nThis includes leading efforts to secure Ukraine's long-term security alongside France as co-chairs of the Coalition of the Willing, and committing £25 billion in funding, including £16 billion in military assistance and £5.6 billion in non-military support.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "strike weapons for Ukraine through Project Brakestop. Prime Minister Andy Burnham said:"
+    ],
+    [
+     "del",
+     "\"On"
+    ],
+    [
+     "ins",
+     "On"
+    ],
+    [
+     "eq",
+     "Ukraine's 35th anniversary of independence, the Ukrainian people should be in no"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "UK is behind you today and for as long as it takes."
+    ],
+    [
+     "del",
+     "\"I"
+    ],
+    [
+     "ins",
+     "I"
+    ],
+    [
+     "eq",
+     "am proud of the contribution our country has made to Ukraine and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "our support will not waver. After all, Ukraine's security is our security."
+    ],
+    [
+     "del",
+     "\"The"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "friendship between our two countries will long outlast Russia's illegal war. In"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "stand with Ukraine and deliver opportunities for people across both our countries."
+    ],
+    [
+     "del",
+     "\"Russia"
+    ],
+    [
+     "ins",
+     "Russia"
+    ],
+    [
+     "eq",
+     "should be in no doubt of our resolve. We will not back down until there is a just and lasting"
+    ],
+    [
+     "del",
+     "peace.\""
+    ],
+    [
+     "ins",
+     "peace."
+    ],
+    [
+     "eq",
+     "While in Kyiv, the Prime Minister will take part in Independence Day"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0176,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

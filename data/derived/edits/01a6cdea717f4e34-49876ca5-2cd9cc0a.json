@@ -1,0 +1,52 @@
+{
+ "id": "01a6cdea717f4e34-49876ca5-2cd9cc0a",
+ "url": "https://www.dw.com/en/norway-king-harald-s-health-has-deteriorated-palace-says/a-78479515?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-25T06:58:58Z",
+ "date": "2026-08-25",
+ "old_title": "Norway: King Harald's health has 'deteriorated' - palace",
+ "new_title": "Norway: King Harald's health has 'deteriorated' - palace",
+ "old_text": "The health of Norway's King Harald has \"deteriorated\" while in the hospital this weekend, the royal household said in a statement on Sunday.\nHarald, 89, is being treated for haemolytic anaemia, a condition caused by the rapid destruction of red blood cells.\nThe disorder causes fatigue, weakness, shortness of breath and paleness.\n\"His Majesty the King's health deteriorated over the weekend. The King is receiving antibiotics for a bacterial infection in his blood, and has responded to this treatment,\" the palace said. His condition was stable, the statement added.\nWhat else do we know about the health of Norway's king?\nHarald was admitted on Monday to Oslo University Hospital because of fluid retention related to cortisone treatment he has been receiving. He was placed on sick leave for two weeks.\nThe king has also canceled a visit to the Trondelag region in central Norway on September 1 and 2, which fall after the two-week sick leave period.\nSeveral relatives have visited him in hospital on Sunday, including his wife, Queen Sonja, their son Crown Prince Haakon, Haakon's wife Crown Princess Mette-Marit and the king's sister, according to the Verdens Gang newspaper.\nHaakon has been acting as regent in his father's absence.\nHarald's history of health issues\nHarald, who ascended the throne in 1991, is the oldest reigning monarch in Europe.\nThe king has suffered from numerous health issues in recent years. He has had a pacemaker fitted and has been forced to scale back his official activities and responsibilities.\nHe was hospitalized with an infection and dehydration in February this year during a private trip with Queen Sonja in Tenerife.\nDespite his health issues, he has said he will not abdicate, as he took a lifelong oath before parliament.\nNorwegian royals' difficult year\nHarald's health is the latest concern for the Norwegian royals, who have been marred by scandal this year.\nHis son Haakon's wife, Mette-Marit, has been in the headlines for her close ties with late US financier and convicted sex offender Jeffrey Epstein.\nHer son from a previous marriage, Marius Borg Hoiby, was sentenced in June to four years in prison on two counts of rape.\nHoiby has appealed the verdict.\nEdited by: Wesley Dockery\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "new_text": "The health of Norway's King Harald has \"deteriorated\" while in the hospital this weekend, the royal household said in a statement on Sunday.\nHarald, 89, is being treated for hemolytic anemia, a condition caused by the rapid destruction of red blood cells.\nThe disorder causes fatigue, weakness, shortness of breath and paleness.\n\"His Majesty the King's health deteriorated over the weekend. The King is receiving antibiotics for a bacterial infection in his blood, and has responded to this treatment,\" the palace said. His condition was stable, the statement added.\nWhat else do we know about the health of Norway's king?\nHarald was admitted on Monday to Oslo University Hospital because of fluid retention related to cortisone treatment he has been receiving. He was placed on sick leave for two weeks.\nThe king has also canceled a visit to the Trondelag region in central Norway on September 1 and 2, which fall after the two-week sick leave period.\nSeveral relatives have visited him in hospital on Sunday, including his wife, Queen Sonja, their son Crown Prince Haakon, Haakon's wife Crown Princess Mette-Marit and the king's sister, according to the Verdens Gang newspaper.\nHaakon has been acting as regent in his father's absence.\nHarald's history of health issues\nHarald, who ascended the throne in 1991, is the oldest reigning monarch in Europe.\nThe king has suffered from numerous health issues in recent years. He has had a pacemaker fitted and has been forced to scale back his official activities and responsibilities.\nHe was hospitalized with an infection and dehydration in February this year during a private trip with Queen Sonja in Tenerife.\nDespite his health issues, he has said he will not abdicate, as he took a lifelong oath before parliament.\nNorwegian royals' difficult year\nHarald's health is the latest concern for the Norwegian royals, who have been marred by scandal this year.\nHis son Haakon's wife, Mette-Marit, has been in the headlines for her close ties with late US financier and convicted sex offender Jeffrey Epstein.\nHer son from a previous marriage, Marius Borg Hoiby, was sentenced in June to four years in prison on two counts of rape.\nHoiby has appealed the verdict.\nEdited by: Wesley Dockery\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "said in a statement on Sunday. Harald, 89, is being treated for"
+    ],
+    [
+     "del",
+     "haemolytic anaemia,"
+    ],
+    [
+     "ins",
+     "hemolytic anemia,"
+    ],
+    [
+     "eq",
+     "a condition caused by the rapid destruction of red blood cells. The"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0101,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.998,
+ "adjudicated_by": "rules"
+}
