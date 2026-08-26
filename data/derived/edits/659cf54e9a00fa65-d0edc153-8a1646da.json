@@ -1,0 +1,207 @@
+{
+ "id": "659cf54e9a00fa65-d0edc153-8a1646da",
+ "url": "https://www.theguardian.com/sport/2026/aug/24/san-francisco-49ers-owner-jed-york-pleads-no-contest-after-arrest-at-ohio-trailer-park",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-08-26T07:09:32Z",
+ "date": "2026-08-26",
+ "old_title": "San Francisco 49ers owner Jed York pleads no contest after arrest at Ohio trailer park",
+ "new_title": "San Francisco 49ers owner Jed York pleads no contest after arrest at Ohio trailer park",
+ "old_text": "The San Francisco 49ers owner Jed York has pleaded no contest to two criminal charges after being arrested at an Ohio trailer park over the weekend.\nKRON4 News in San Francisco reported that York was initially arrested on suspicion of engaging in prostitution but that count was amended to a charge of disorderly conduct. He was also charged with possessing criminal tools.\nA no contest plea is not an admission of guilt but the defendant in question does accept the punishment for the alleged crimes in question. York was sentenced to a day in jail for each count to be served concurrently and was released on Monday morning. He was also fined a total of $1,150 and ordered to complete an online course. The arrest report does not specify what the criminal tools were in York's case.\nAccording to the New York Post, court documents say York responded to an advert on a website and \"arranged to have sexual activity with [a] female in exchange for $140.\" York was arrested later arrested at a trailer park in East Palestine, Ohio, on Sunday morning. The East Palestine Police Department and the Mahoning Valley Human Trafficking Task Force were involved in the arrest. York, 46, was born and raised in Youngstown, a 30-minute drive from East Palestine and still has a home in the area.\nYork is the nephew of former 49ers majority owner Edward J DeBartolo Jr. York took day to day control of the 49ers in 2008 when he became the team's CEO. After acquiring his mother's shares, he became the team's principal owner in 2024.\n\"As this is a legal matter, which has been resolved, we will not be providing any further comment at this time,\" the 49ers said in a statement. The NFL said in a statement that it is \"aware of the matter which will be reviewed under the personal conduct policy.\"\nSince York took over as CEO, the 49ers have reached three Super Bowls but lost each time.\nHe also owns stakes in the Premier League's Leeds United and Scotland's Rangers through 49ers Enterprises. He filed for divorce from his wife, Danielle, in May.",
+ "new_text": "The San Francisco 49ers owner Jed York has pleaded no contest to two criminal charges after being arrested at an Ohio trailer park over the weekend.\nKRON4 News in San Francisco reported that York was initially arrested on suspicion of engaging in prostitution but that count was amended to a charge of disorderly conduct. He was also charged with possessing criminal tools.\nA no contest plea is not an admission of guilt but the defendant in question does accept the punishment for the alleged crimes in question. York was sentenced to a day in jail for each count to be served concurrently and was released on Monday morning. He was also fined $1,150 and ordered to complete an online course. The arrest report does not specify what the criminal tools were in York's case.\nAccording to the New York Post, court documents say York responded to an advert on a website and \"arranged to have sexual activity with [a] female in exchange for $140\". York was arrested later at a trailer park in East Palestine, Ohio, on Sunday morning. The East Palestine police department and the Mahoning Valley human trafficking taskforce were involved in the arrest. York, 46, was born and raised in Youngstown, a 30‐minute drive from East Palestine and still has a home in the area.\nYork is the nephew of the former 49ers majority owner Edward J DeBartolo Jr. York took day‐to‐day control of the 49ers in 2008 when he became the team's chief executive. After acquiring his mother's shares, he became the team's principal owner in 2024.\n\"As this is a legal matter, which has been resolved, we will not be providing any further comment at this time,\" the 49ers said in a statement. The NFL said in a statement that it is \"aware of the matter which will be reviewed under the personal conduct policy\".\nSince York took over as chief executive, the 49ers have reached three Super Bowls but lost each time.\nHe also owns stakes in the Premier League's Leeds United and Scotland's Rangers through 49ers Enterprises. In May he filed for divorce from his wife, Danielle.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "served concurrently and was released on Monday morning. He was also fined"
+    ],
+    [
+     "del",
+     "a total of"
+    ],
+    [
+     "eq",
+     "$1,150 and ordered to complete an online course. The arrest report does"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and \"arranged to have sexual activity with [a] female in exchange for"
+    ],
+    [
+     "del",
+     "$140.\""
+    ],
+    [
+     "ins",
+     "$140\"."
+    ],
+    [
+     "eq",
+     "York was arrested later"
+    ],
+    [
+     "del",
+     "arrested"
+    ],
+    [
+     "eq",
+     "at a trailer park in East Palestine, Ohio, on Sunday morning. The East Palestine"
+    ],
+    [
+     "del",
+     "Police Department"
+    ],
+    [
+     "ins",
+     "police department"
+    ],
+    [
+     "eq",
+     "and the Mahoning Valley"
+    ],
+    [
+     "del",
+     "Human Trafficking Task Force"
+    ],
+    [
+     "ins",
+     "human trafficking taskforce"
+    ],
+    [
+     "eq",
+     "were involved in the arrest. York, 46, was born and raised in Youngstown, a"
+    ],
+    [
+     "del",
+     "30-minute"
+    ],
+    [
+     "ins",
+     "30‐minute"
+    ],
+    [
+     "eq",
+     "drive from East Palestine and still has a home in the area. York is the nephew of"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "former 49ers majority owner Edward J DeBartolo Jr. York took"
+    ],
+    [
+     "del",
+     "day to day"
+    ],
+    [
+     "ins",
+     "day‐to‐day"
+    ],
+    [
+     "eq",
+     "control of the 49ers in 2008 when he became the team's"
+    ],
+    [
+     "del",
+     "CEO."
+    ],
+    [
+     "ins",
+     "chief executive."
+    ],
+    [
+     "eq",
+     "After acquiring his mother's shares, he became the team's principal owner in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "\"aware of the matter which will be reviewed under the personal conduct"
+    ],
+    [
+     "del",
+     "policy.\""
+    ],
+    [
+     "ins",
+     "policy\"."
+    ],
+    [
+     "eq",
+     "Since York took over as"
+    ],
+    [
+     "del",
+     "CEO,"
+    ],
+    [
+     "ins",
+     "chief executive,"
+    ],
+    [
+     "eq",
+     "the 49ers have reached three Super Bowls but lost each time. He"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "in the Premier League's Leeds United and Scotland's Rangers through 49ers Enterprises."
+    ],
+    [
+     "del",
+     "He"
+    ],
+    [
+     "ins",
+     "In May he"
+    ],
+    [
+     "eq",
+     "filed for divorce from his wife,"
+    ],
+    [
+     "del",
+     "Danielle, in May."
+    ],
+    [
+     "ins",
+     "Danielle."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1117,
+  "numbers_changed": [],
+  "market_figures_changed": [
+   "$140",
+   "$140."
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 1,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 0.996,
+ "adjudicated_by": "rules"
+}

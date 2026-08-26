@@ -1,0 +1,48 @@
+{
+ "id": "8ead1874f4356271-6f668437-1c17304c",
+ "url": "https://variety.com/2026/tv/news/not-suitable-for-work-hulu-canceled-mindy-kaling-one-season-1236842124/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-08-26T07:12:58Z",
+ "date": "2026-08-26",
+ "old_title": "Hulu Cancels Mindy Kaling-Created Comedy 'Not Suitable for Work' After One Season (EXCLUSIVE)",
+ "new_title": "Hulu Cancels Mindy Kaling-Created Comedy 'Not Suitable for Work' After One Season (EXCLUSIVE)",
+ "old_text": "Hulu will not be moving forward on a second season of its recent comedy \"Not Suitable for Work,\" from creator Mindy Kaling. The series, which Kaling executive produced with showrunner Charlie Grandy and 3 Arts Entertainment's Howard Klein, launched in June and ran for nine episodes. Warner Bros. TV, which produces the series, plans to shop it to potential new homes.\nElla Hunt, Avantika, Will Angus, Jack Martin, Nicholas Duvernay and Jay Ellis star in the series, which per the show's logline, centers on \"work-obsessed 20-somethings striving for professional success and, if they have time, personal happiness in Manhattan's most glamorous neighborhood, Murray Hill.\"\nRecurring guest stars on \"Not Suitable for Work\" include Victor Garber, Greg Germann, Judy Gold, Ego Nwodim, Harry Richardson, Constance Wu, Laura Bell Bundy, May Hong, Bhavesh Patel, Emilia Suárez and Michael Benjamin Washington.\nPopular on Variety\nThe series stars Hunt as AJ, an investment banker from Boston, who moves to New York for a new job and begins living with her best friend, aspiring celebrity stylist Abby (played by Avantika). They live across the hall from male best friends Davis (Will Angus), who is AJ's co-worker and has a crush on her; nepo-baby/young journalist Josh (Jack Martin); and aspiring actor/med school dropout Kel (Nicholas Duvernay).\n\"Not Suitable for Work\" was produced under Kaling's Kaling International label in association with Warner Bros. Television, where both Kaling and Grandy hold overall deals.\n\"Not Suitable for Work\" repped Kaling's first sole creator credit on a project since \"The Mindy Project,\" the comedy that began its life on Fox for three seasons before moving over to Hulu, where it ran for an additional three seasons as one of the streamer's earliest original hits. After \"Mindy Project,\" Kaling continued a string of successes with Netflix's \"Never Have I Ever,\" HBO Max's \"The Sex Lives of College Girls\" and Netflix's ongoing series \"Running Point,\" which has already been renewed for a Season 3.\nIn her review of \"Not Suitable for Work,\" Variety's Alison Herman wasn't too impressed, but she did see some \"glimmers of a more biting, memorable take on young people juggling jobs and love in New York City throughout the nine-episode season.\"",
+ "new_text": "Hulu will not be moving forward on a second season of its recent comedy \"Not Suitable for Work,\" from creator Mindy Kaling. The series, which Kaling executive produced with showrunner Charlie Grandy and 3 Arts Entertainment's Howard Klein, launched in June and ran for nine episodes. Warner Bros. TV, which produces the series, plans to shop it to potential new homes.\nElla Hunt, Avantika, Will Angus, Jack Martin, Nicholas Duvernay and Jay Ellis star in the series, which per the show's logline, centers on \"work-obsessed 20-somethings striving for professional success and, if they have time, personal happiness in Manhattan's most glamorous neighborhood, Murray Hill.\"\nRecurring guest stars on \"Not Suitable for Work\" include Victor Garber, Greg Germann, Judy Gold, Ego Nwodim, Harry Richardson, Constance Wu, Laura Bell Bundy, May Hong, Bhavesh Patel, Emilia Suárez and Michael Benjamin Washington.\nPopular on Variety\nThe series stars Hunt as AJ, an investment banker from Boston, who moves to New York for a new job and begins living with her best friend, aspiring celebrity stylist Abby (played by Avantika). They live across the hall from male best friends Davis (Will Angus), who is AJ's co-worker and has a crush on her; nepo-baby/young journalist Josh (Jack Martin); and aspiring actor/med school dropout Kel (Nicholas Duvernay).\n\"Not Suitable for Work\" was produced under Kaling's Kaling International label in association with Warner Bros. Television, where both Kaling and Grandy hold overall deals.\n\"Not Suitable for Work\" repped Kaling's first sole creator credit on a project since \"The Mindy Project,\" the comedy that began its life on Fox for three seasons before moving over to Hulu, where it ran for an additional three seasons as one of the streamer's earliest original hits. After \"Mindy Project,\" Kaling continued a string of successes with Netflix's \"Never Have I Ever,\" HBO Max's \"The Sex Lives of College Girls\" and Netflix's ongoing series \"Running Point,\" which has already been renewed for a Season 3.\nIn her review of \"Not Suitable for Work,\" Variety's Alison Herman wasn't too impressed, but she did see some \"glimmers of a more biting, memorable take on young people juggling jobs and love in New York City throughout the nine-episode season.\" The show appeared to not click with audiences; per Ted Linhart's ratings-focused newsletter \"Ted on TV\" in June, the show was \"averaging 800,000 viewers for the first five episodes after 11 days, making it one of the lowest-rated programs on the service since 2005.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "juggling jobs and love in New York City throughout the nine-episode season.\""
+    ],
+    [
+     "ins",
+     "The show appeared to not click with audiences; per Ted Linhart's ratings-focused newsletter \"Ted on TV\" in June, the show was \"averaging 800,000 viewers for the first five episodes after 11 days, making it one of the lowest-rated programs on the service since 2005.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1212,
+  "numbers_changed": [
+   "11",
+   "2005",
+   "800,000"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

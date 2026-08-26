@@ -1,0 +1,52 @@
+{
+ "id": "08793bf19bd42044-aa23048b-4a22a0d6",
+ "url": "https://www.dw.com/en/australia-s-music-chart-bars-fully-ai-generated-music/a-78491743?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-26T07:00:00Z",
+ "date": "2026-08-26",
+ "old_title": "Australia's music chart bars fully AI-generated music",
+ "new_title": "Australia's music chart bars fully AI-generated music",
+ "old_text": "Australia's official music charts will no longer allow whollI-generated tracks to qualify, under new rules announced by the Australian Recording Industry Association (ARIA).\nThe changes take effect with the ARIA chart dated August 31 and distinguish between music generated primarily by artificial intelligence and recordings where AI is used only as a supporting creative tool.\nWhat AI music will still be allowed in Australia's charts?\nRecordings made with generative AI can remain eligible if they are substantially human-made and do not raise concerns about manipulation of streams or chart positions.\nARIA will use an industry-wide distinction announced in July between:\n- AI-generated music, where AI creates all or the main creative elements of a recording\n- AI-assisted music, which remains substantially human-created but uses generative AI for some elements\nARIA chief executive Annabelle Herd said artists were already using AI creatively and the charts should allow room for that.\n\"This gives everyone who releases music in Australia a clear rule to work to. We call on all parties who have a role in deciding the music played and promoted to Australian audiences, particularly radio, to support human artistry and implement similar changes across their own codes,\" said Herd.\nWhat happens if an AI track enters the charts?\nARIA can refuse to accept an ineligible recording, remove it from the charts either retrospectively or in advance, change chart positions and withdraw accreditations.\nIt can also revoke an ARIA No. 1 Award, while an ineligible track will not qualify for an ARIA Award. Artists and their representatives will be able to challenge exclusions and provide evidence that a recording meets the rules.\nThe move is part of a broader initiative led by the International Federation of the Phonographic Industry (IFPI), which represents the recording industry globally.\nIFPI announced principles in July intended for use across official charts internationally. They require eligible AI-assisted recordings to remain substantially human-made, use lawful and authorized AI services and avoid artificial manipulation of streams.\nEdited by: Rob Turner\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "new_text": "Australia's official music charts will no longer allow wholly AI-generated tracks to qualify, under new rules announced by the Australian Recording Industry Association (ARIA).\nThe changes take effect with the ARIA chart dated August 31 and distinguish between music generated primarily by artificial intelligence and recordings where AI is used only as a supporting creative tool.\nWhat AI music will still be allowed in Australia's charts?\nRecordings made with generative AI can remain eligible if they are substantially human-made and do not raise concerns about manipulation of streams or chart positions.\nARIA will use an industry-wide distinction announced in July between:\n- AI-generated music, where AI creates all or the main creative elements of a recording\n- AI-assisted music, which remains substantially human-created but uses generative AI for some elements\nARIA chief executive Annabelle Herd said artists were already using AI creatively and the charts should allow room for that.\n\"This gives everyone who releases music in Australia a clear rule to work to. We call on all parties who have a role in deciding the music played and promoted to Australian audiences, particularly radio, to support human artistry and implement similar changes across their own codes,\" said Herd.\nWhat happens if an AI track enters the charts?\nARIA can refuse to accept an ineligible recording, remove it from the charts either retrospectively or in advance, change chart positions and withdraw accreditations.\nIt can also revoke an ARIA No. 1 Award, while an ineligible track will not qualify for an ARIA Award. Artists and their representatives will be able to challenge exclusions and provide evidence that a recording meets the rules.\nThe move is part of a broader initiative led by the International Federation of the Phonographic Industry (IFPI), which represents the recording industry globally.\nIFPI announced principles in July intended for use across official charts internationally. They require eligible AI-assisted recordings to remain substantially human-made, use lawful and authorized AI services and avoid artificial manipulation of streams.\nEdited by: Rob Turner\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Australia's official music charts will no longer allow"
+    ],
+    [
+     "del",
+     "whollI-generated"
+    ],
+    [
+     "ins",
+     "wholly AI-generated"
+    ],
+    [
+     "eq",
+     "tracks to qualify, under new rules announced by the Australian Recording Industry"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0083,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9992,
+ "adjudicated_by": "rules"
+}

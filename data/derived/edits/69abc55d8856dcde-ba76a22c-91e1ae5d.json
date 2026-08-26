@@ -1,0 +1,56 @@
+{
+ "id": "69abc55d8856dcde-ba76a22c-91e1ae5d",
+ "url": "https://www.independent.co.uk/celebrity-news/lisa-riley-pregnant-ai-loose-women-b3038646.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-26T07:02:23Z",
+ "date": "2026-08-26",
+ "old_title": "Lisa Riley hits out at 'absolutely horrendous' AI pregnancy posts",
+ "new_title": "Emmerdale star Lisa Riley hits out at fake AI pregnancy posts: 'How is this allowed'",
+ "old_text": "Emmerdale star Lisa Riley has hit out at a series of \"absolutely horrendous\" AI fake posts suggesting she is pregnant.\nThe 50-year-old, who plays Mandy Dingle on the ITV soap, was met with an outpouring of support after sharing an angry message to Instagram on Monday responding to the \"lies\".\nIt is not the first time that the actress and TV presenter, who has been open about her fertility struggles and her journey with IVF, has been subject to false pregnancy rumours.\nThe TV star, who is in a relationship with musician Al Benkovic, shared the fake photographs to her page.\nThe images include one of her holding an infant, and an edited snap showing her proudly displaying a sonogram - implying that she is pregnant.\nAlongside a number of angry emojis, Riley wrote: \"THIS HAS TO STOP!!!!! It's absolutely horrendous!!!\n\"Saying that I'm pregnant again!! How is this allowed it makes me so upset...\n\"What world do we live in that these lies, and more lies are allowed to be put in the public domain. I'm sick to death of it now!!!\"\nThe post received support from fellow stars such as former Coronation Street actress Kym Marsh, who wrote: \"This is awful! Hope you're ok darling.\"\nWaterloo Road star Denise Welch said \"I'm dealing with it myself but something far, far less important\" and urged for fake, AI-generated posts to stop, adding: \"It's disgraceful, damaging and cruel!\"\n\"Sending you lots of love,\" Mark Botfield, known as his drag queen alter-ego Baga Chipz, wrote.\nRiley has no children, and has previously discussed spending years unable to conceive naturally and subsequently undergoing IVF treatment - which she ultimately stopped due to the negative impacts on her mental health.\nEarlier this year, the soap star responded to another AI-generated post claiming she was pregnant.\nITV soap Emmerdale also responded to the fake news about its cast members, sharing a message to its Instagram page on Monday which was later reposted by Riley.\nIt wrote: \"It has been brought to our attention that a lot of AI generated Facebook pages are posting fake news about Emmerdale and Coronation Street actors and the programmes in general.\n\"Some of these posts are extremely hurtful and damaging to reputations.\n\"Please only follow genuine news outlets and feel free to report those you think are fake via the usual methods.\"",
+ "new_text": "Emmerdale star Lisa Riley has hit out at a series of \"absolutely horrendous\" fake AI posts suggesting she is pregnant.\nThe 50-year-old, who plays Mandy Dingle on the ITV soap, was met with an outpouring of support after sharing an angry message to Instagram on Monday responding to the \"lies\".\nIt is not the first time that the actress and TV presenter, who has been open about her fertility struggles and her journey with IVF, has been subject to false pregnancy rumours.\nThe TV star, who is in a relationship with musician Al Benkovic, shared the fake photographs to her page.\nThe images include one of her holding an infant, and an edited snap showing her proudly displaying a sonogram - implying that she is pregnant.\nAlongside a number of angry emojis, Riley wrote: \"THIS HAS TO STOP!!!!! It's absolutely horrendous!!!\n\"Saying that I'm pregnant again!! How is this allowed it makes me so upset...\n\"What world do we live in that these lies, and more lies are allowed to be put in the public domain. I'm sick to death of it now!!!\"\nThe post received support from fellow stars such as former Coronation Street actress Kym Marsh, who wrote: \"This is awful! Hope you're ok darling.\"\nWaterloo Road star Denise Welch said \"I'm dealing with it myself but something far, far less important\" and urged for fake, AI-generated posts to stop, adding: \"It's disgraceful, damaging and cruel!\"\n\"Sending you lots of love,\" Mark Botfield, known as his drag queen alter-ego Baga Chipz, wrote.\nRiley has no children, and has previously discussed spending years unable to conceive naturally and subsequently undergoing IVF treatment - which she ultimately stopped due to the negative impacts on her mental health.\nEarlier this year, the soap star responded to another AI-generated post claiming she was pregnant.\nITV soap Emmerdale also responded to the fake news about its cast members, sharing a message to its Instagram page on Monday which was later reposted by Riley.\nIt wrote: \"It has been brought to our attention that a lot of AI generated Facebook pages are posting fake news about Emmerdale and Coronation Street actors and the programmes in general.\n\"Some of these posts are extremely hurtful and damaging to reputations.\n\"Please only follow genuine news outlets and feel free to report those you think are fake via the usual methods.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "star Lisa Riley has hit out at a series of \"absolutely horrendous\""
+    ],
+    [
+     "ins",
+     "fake"
+    ],
+    [
+     "eq",
+     "AI"
+    ],
+    [
+     "del",
+     "fake"
+    ],
+    [
+     "eq",
+     "posts suggesting she is pregnant. The 50-year-old, who plays Mandy Dingle on"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0051,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9997,
+ "adjudicated_by": "rules"
+}

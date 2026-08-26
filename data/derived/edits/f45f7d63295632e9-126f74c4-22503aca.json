@@ -1,0 +1,52 @@
+{
+ "id": "f45f7d63295632e9-126f74c4-22503aca",
+ "url": "https://www.theguardian.com/business/2026/aug/25/europe-heatwaves-insurance-companies-earnings",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-08-26T07:05:56Z",
+ "date": "2026-08-26",
+ "old_title": "Europe's heatwaves threaten insurers' earnings, rating agency S&P says",
+ "new_title": "Heatwave health risks threaten insurer earnings, rating agency S&P warns",
+ "old_text": "Europe's intense heatwaves could hit insurers' earnings as companies face a rise in claims linked to heat-related deaths and worsening health conditions, the rating agency S&P has said.\nWhile a long summer of extreme heat will have increased drought and wildfire-related claims, the rating agency said there would also be fallout for life and health insurers, and for the reinsurers who provide financial protection to insurance companies.\nThat could ultimately translate to higher premiums for customers, as insurers try to cover increased payouts to policyholders.\nEurope's heatwaves, paired with its ageing population, have created a perfect storm, with the health impacts of high temperatures falling disproportionately on older people. That fact has resulted in a wave of life insurance claims over heat-related deaths, and increased demand for private medical services, at a time when rising temperatures have not yet been fully reflected in original contracts.\nBetween 2004 and 2024, the share of people aged 65 and over in the EU rose from 16.4% to 21.6%, while the proportion of those aged 80 and over rose from 3.8% to 6.1%. \"The increasing share of elderly people - who are particularly vulnerable to heat stress - suggests that heat-related mortality in Europe is likely to rise,\" the S&P report said .\nAbout 9,000 of the 10,650 excess deaths recorded during the 22-28 June heatwave were among those 65 and over, as rising heat exacerbated underlying conditions such as heart disease and dehydration.\n\"Beyond heat-related deaths, it's also deteriorating health conditions and the resulting increase in treatment and hospitalisations that might weigh on re/insurers' financials and, subsequently, increase premiums,\" the report said.\nA study in The Lancet Planetary Health recently found that people aged 60 and over face dangers from exposure to heat at much lower temperatures than previously thought. Older adults sweat less, their hearts work harder in the heat, and their blood vessels are less able to widen, limiting their capacity to stay cool.\nIn the UK alone, the four-day heatwave in May and eight-day heatwave in June together caused 2,877 excess deaths, compared with the 1,504 seen during the summer of 2025.\nThere has been little reprieve, with the mercury rising beyond 40 degrees Celsius across Europe earlier this month, breaking records in countries including Slovakia, Austria and Hungary earlier this month. And given heatwaves can affect large regions and last for weeks, they could end up compounding financial risks for insurers.\nWhile the heat had not yet hurt company ratings - which indicate how safe or risky their shares or bonds are for investors - that could change over the medium term to long term \"as extreme summer temperatures become more frequent and intense, and Europe's population continues to age\", S&P said.\n\"We will continue to monitor their impact on the performance of rated re/insurers,\" it added.",
+ "new_text": "Europe's intense heatwaves could hit insurers' earnings as companies face a rise in claims linked to heat-related deaths and worsening health conditions, the rating agency S&P has said.\nWhile a long summer of extreme heat will have increased drought and wildfire-related claims, the rating agency said there would also be fallout for life and health insurers, and for the reinsurers who provide financial protection to insurance companies.\nThat could ultimately translate to higher premiums for customers, as insurers try to cover increased payouts to policyholders.\nEurope's heatwaves, paired with its ageing population, have created a perfect storm, with the health impacts of high temperatures falling disproportionately on older people. That fact has resulted in a wave of life insurance claims over heat-related deaths, and increased demand for private medical services, at a time when rising temperatures have not yet been fully reflected in original contracts.\nBetween 2004 and 2024, the share of people aged 65 and over in the EU rose from 16.4% to 21.6%, while the proportion of those aged 80 and over rose from 3.8% to 6.1%. \"The increasing share of elderly people - who are particularly vulnerable to heat stress - suggests that heat-related mortality in Europe is likely to rise,\" the S&P report said.\nAbout 9,000 of the 10,650 excess deaths recorded during the 22-28 June heatwave were among those 65 and over, as rising heat exacerbated underlying conditions such as heart disease and dehydration.\n\"Beyond heat-related deaths, it's also deteriorating health conditions and the resulting increase in treatment and hospitalisations that might weigh on re/insurers' financials and, subsequently, increase premiums,\" the report said.\nA study in The Lancet Planetary Health recently found that people aged 60 and over face dangers from exposure to heat at much lower temperatures than previously thought. Older adults sweat less, their hearts work harder in the heat, and their blood vessels are less able to widen, limiting their capacity to stay cool.\nIn the UK alone, the four-day heatwave in May and eight-day heatwave in June together caused 2,877 excess deaths, compared with the 1,504 seen during the summer of 2025.\nThere has been little reprieve, with the mercury rising beyond 40 degrees Celsius across Europe earlier this month, breaking records in countries including Slovakia, Austria and Hungary earlier this month. And given heatwaves can affect large regions and last for weeks, they could end up compounding financial risks for insurers.\nWhile the heat had not yet hurt company ratings - which indicate how safe or risky their shares or bonds are for investors - that could change over the medium term to long term \"as extreme summer temperatures become more frequent and intense, and Europe's population continues to age\", S&P said.\n\"We will continue to monitor their impact on the performance of rated re/insurers,\" it added.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "that heat-related mortality in Europe is likely to rise,\" the S&P report"
+    ],
+    [
+     "del",
+     "said ."
+    ],
+    [
+     "ins",
+     "said."
+    ],
+    [
+     "eq",
+     "About 9,000 of the 10,650 excess deaths recorded during the 22-28 June"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0064,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

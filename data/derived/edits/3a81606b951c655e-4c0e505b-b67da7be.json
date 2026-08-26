@@ -1,0 +1,130 @@
+{
+ "id": "3a81606b951c655e-4c0e505b-b67da7be",
+ "url": "https://www.gov.uk/government/news/homes-england-and-government-confirm-strategic-partners-set-to-help-deliver-once-in-a-generation-increase-in-social-and-affordable-homes-across-englan",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "country": "United Kingdom",
+ "category": "government",
+ "lang": "en",
+ "detected_at": "2026-08-26T07:04:32Z",
+ "date": "2026-08-26",
+ "old_title": "Homes England and government confirm strategic partners set to help deliver once-in-a-generation increase in social and affordable homes across England",
+ "new_title": "Homes England and government confirm strategic partners set to help deliver once-in-a-generation increase in social and affordable homes across England",
+ "old_text": "33 partners will receive grant funding and work with the government's housing and regeneration agency to deliver much needed social and affordable homes across the country, outside of London.\nThey will join other partner organisations supporting delivery through the ten-year programme's other funding route (Continuous Market Engagement) to create thousands of new homes.\nStrategic Partners to the Social and Affordable Homes Programme 2026-2036 are:\n* Figures rounded to the nearest £100,000.\nThe outcome reflects government priorities and aims to secure delivery and value from public investment.\nHomes England Chief Executive Amy Rees said:\nThe strong demand for SAHP funding demonstrates the sector's ambition to deliver as part of this once-in-a-generation opportunity to come together, alongside partners funded through the programme's alternative (CME) route, to deliver thousands of social and affordable homes for people, families and communities across England.\nOur team is absolutely focused on working in close collaboration with our partners alongside regional leaders, mayors and the sector to deliver on government policy and ensure this investment supports the creation of high quality homes and thriving places that people want and need.\nFurther details about the programme can be found here.\nENDS\nAbout Homes England\nWe are the government's housing and regeneration Agency, and we're here to drive the creation of more affordable, quality homes and thriving places so that everyone has a place to live and grow.\nWe make this happen by working in partnership with thousands of organisations of all sizes, using our powers, expertise, land, capital and influence to bring investment to communities and get more quality homes built.\nLearn more about us: https://www.gov.uk/government/organisations/homes-england/about\nEmail: media@homesengland.gov.uk\nPhone: 0207 874 8262",
+ "new_text": "33 partners will receive grant funding and work with the government's housing and regeneration agency to deliver much needed social and affordable homes across the country, outside of London.\nThey will join other partner organisations supporting delivery through the 10-year programme's other funding route (Continuous Market Engagement) to create thousands of new homes.\nStrategic Partners to the Social and Affordable Homes Programme (SAHP) 2026 to 2036 are:\n* denotes figures rounded to the nearest £100,000.\nThe outcome reflects government priorities and aims to secure delivery and value from public investment.\nHomes England Chief Executive Amy Rees said:\nThe strong demand for SAHP funding demonstrates the sector's ambition to deliver as part of this once-in-a-generation opportunity to come together, alongside partners funded through the programme's alternative Continuous Market Engagement (CME) route, to deliver thousands of social and affordable homes for people, families and communities across England.\nOur team is absolutely focused on working in close collaboration with our partners alongside regional leaders, mayors and the sector to deliver on government policy and ensure this investment supports the creation of high quality homes and thriving places that people want and need.\nENDS\nAbout Homes England\nWe are the government's housing and regeneration Agency, and we're here to drive the creation of more affordable, quality homes and thriving places so that everyone has a place to live and grow.\nWe make this happen by working in partnership with thousands of organisations of all sizes, using our powers, expertise, land, capital and influence to bring investment to communities and get more quality homes built.\nLearn more about us: www.gov.uk/government/organisations/homes-england/about\nEmail: media@homesengland.gov.uk\nPhone: 0207 874 8262",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "of London. They will join other partner organisations supporting delivery through the"
+    ],
+    [
+     "del",
+     "ten-year"
+    ],
+    [
+     "ins",
+     "10-year"
+    ],
+    [
+     "eq",
+     "programme's other funding route (Continuous Market Engagement) to create thousands of new homes. Strategic Partners to the Social and Affordable Homes Programme"
+    ],
+    [
+     "del",
+     "2026-2036"
+    ],
+    [
+     "ins",
+     "(SAHP) 2026 to 2036"
+    ],
+    [
+     "eq",
+     "are: *"
+    ],
+    [
+     "del",
+     "Figures"
+    ],
+    [
+     "ins",
+     "denotes figures"
+    ],
+    [
+     "eq",
+     "rounded to the nearest £100,000. The outcome reflects government priorities and aims"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "once-in-a-generation opportunity to come together, alongside partners funded through the programme's alternative"
+    ],
+    [
+     "ins",
+     "Continuous Market Engagement"
+    ],
+    [
+     "eq",
+     "(CME) route, to deliver thousands of social and affordable homes for people,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of high quality homes and thriving places that people want and need."
+    ],
+    [
+     "del",
+     "Further details about the programme can be found here."
+    ],
+    [
+     "eq",
+     "ENDS About Homes England We are the government's housing and regeneration Agency,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to communities and get more quality homes built. Learn more about us:"
+    ],
+    [
+     "del",
+     "https://www.gov.uk/government/organisations/homes-england/about"
+    ],
+    [
+     "ins",
+     "www.gov.uk/government/organisations/homes-england/about"
+    ],
+    [
+     "eq",
+     "Email: media@homesengland.gov.uk Phone: 0207 874 8262"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0879,
+  "numbers_changed": [
+   "10"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 0.9771,
+ "adjudicated_by": "rules"
+}

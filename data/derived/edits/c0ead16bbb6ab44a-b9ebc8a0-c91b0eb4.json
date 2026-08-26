@@ -1,0 +1,378 @@
+{
+ "id": "c0ead16bbb6ab44a-b9ebc8a0-c91b0eb4",
+ "url": "https://www.france24.com/en/americas/20260825-haiti-gang-members-kill-40-displaced-people-church-attack",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-26T07:00:43Z",
+ "date": "2026-08-26",
+ "old_title": "Haiti gang members kill around 40 displaced people in church attack near capital",
+ "new_title": "Haiti gangs kill at least 47 people in attack near the capital",
+ "old_text": "Haiti gang members kill around 40 displaced people in church attack near capital\nGang members killed around 40 displaced people sheltering in a church near Haiti's capital, a local mayor said on Monday. The victims were killed in an attack on Sunday night in Kenscoff, in the hills above Port-au-Prince, Mayor Massillon Jean said, describing a \"night of terror\". Some people remained missing.\nGang members attacked displaced people huddling inside a church near Haiti's capital on Monday, killing around 40 - some of them execution-style, the mayor told AFP.\n\"We have counted around 40 bodies. Searches are continuing. Some people are still missing\" after the attack Sunday night in the town of Kenscoff in the hills above the capital, its mayor,Massillon Jean said.\nHe described \"a night of terror\" in a town plagued for months by gang violence.\nJean said that among other places the assailants targeted a site housing people who had already fled violence.\n\"The bandits raided a displaced persons camp located in a church. They executed several people. There are fatalities and dozens of wounded. Some people were abducted by the criminals,\" Jean said.\nIn a statement issued after the attack, the office of Prime Minister Alix Didier Fils-Aime expressed \"deep compassion\" for the bereaved families and all the victims.\nRead moreHaiti schedules December presidential election despite security concerns\nThe government also announced that reinforcements would be sent to restore security in the area.\nKenscoff, a mountainous municipality southeast of the Haitian capital, has for several months been the scene of clashes and incursions by armed groups seeking to expand their control.\nHaiti, the poorest country in the Americas, has for years suffered from chronic political instability, natural disasters, corruption and violence from powerful gangs that carry out rampant killings, rapes, looting and kidnappings. The gangs control much of the capital city.\nNearly 1.5 million Haitians are currently displaced in a country of about 11 million, and more than five million are facing severe food insecurity, according to UN figures.\nThe crisis worsened in early 2024, when gangs launched a wave of violence that forced the unelected prime minister to resign.\nHaiti has not held any kind of election since 2016. Its last president, Jovenel Moise, was assassinated in July 2021 and not replaced.\nA general election is scheduled for December of this year.\n(FRANCE 24 with AFP)",
+ "new_text": "Haiti gangs kill at least 47 people in attack near the capital\nGang members killed at least 47 people and wounded more than 22 near Haiti's capital, the UN said on Monday. The victims were killed in an overnight attack in Kenscoff, in the hills above Haiti's capital of Port-au-Prince.\nAt least 47 people have been killed and 22 more wounded in an overnight gang raid on a neighbourhood overlooking Haiti's capital of Port-au-Prince, the UN said on Monday, prompting anger over the lack of protection from repeated deadly attacks.\nThe United Nations Integrated Office in Haiti said estimates could still change.\nThe hillside community of Kenscoff, whose strategic position overlooks routes into the capital, has suffered a dozen attacks by armed gangs since last year, forcing thousands to flee their homes.\nFor years, powerful gangs under a broad alliance have cemented their influence over Haiti's capital and expanded into nearby regions, despite attempts by foreign nations to reinforce the country's outgunned police.\nHaitian rights group RNDDH (Réseau National de Défense des Droits Humains) initially estimated that 30 to 40 people had been killed and 15 to 20 wounded in the raid, which began around 10:30pm local time, but said it was difficult to assess a complete tally. The number of deaths has since risen to 47, with injuries now tallying at over 20.\nEven as Haiti's government decried a \"heinous attack\" and promised to reinforce security, residents demanded the local police chief step down, saying officers failed to protect people killed just minutes from the police station.\n\"Kenscoff will not be abandoned,\" the prime minister's office said on social media. \"The government's authority will be restored, without weakness and without delay.\"\nForced to flee Kenscoff\nAttacks in Kenscoff over two months in early 2025 saw more than 260 people killed and 200 homes destroyed or set on fire, forcing 3,000 people to flee, according to UN estimates.\nNearly a dozen more attacks have taken place since, including rapes, kidnapping, arson and livestock theft.\n\"My family are victims,\" said Coriolan Kendy, standing by his cousin's body, lying on the road in a blood-stained sheet.\n\"People in Kenscoff are suffering and the government is to blame.\"\nAnother resident, Orisme, who did not share his last name, pleaded for the prime minister's support. \"We live in humiliation and they do nothing for us,\" he said.\nSome residents said several dozen police had tried to rebuff the armed men during the night, and some were injured. They added that they did not identify gang members among the dead.\nLocal media said several houses were set on fire, including the home of Jean William Pape, a leading public health expert.\n\"The police never gave up,\" national police chief Vladimir Paraison told reporters during a visit to Kenscoff later in the day.\nKenscoff overlooks routes into Petion-Ville - home to several embassies, upscale hotels and the temporary seat of government - as well as a major road from the capital into southern Haiti.\nRead moreHaiti schedules December presidential election despite security concerns\nThe violence may deepen concerns over Haiti's ability to hold an election in December, its first in a decade. Successive governments have repeatedly postponed elections as armed gangs have expanded their influence.\nThe UN-backed Gang Suppression Force, which is mandated to help police fight gangs, aims to reach a capacity of more than 5,500 troops this autumn.\nA spokesperson did not immediately respond to questions on whether the troops were reinforcing Kenscoff security.\n(FRANCE 24 with AFP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Haiti"
+    ],
+    [
+     "del",
+     "gang members"
+    ],
+    [
+     "ins",
+     "gangs"
+    ],
+    [
+     "eq",
+     "kill"
+    ],
+    [
+     "del",
+     "around 40 displaced"
+    ],
+    [
+     "ins",
+     "at least 47"
+    ],
+    [
+     "eq",
+     "people in"
+    ],
+    [
+     "del",
+     "church"
+    ],
+    [
+     "eq",
+     "attack near"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "capital Gang members killed"
+    ],
+    [
+     "del",
+     "around 40 displaced"
+    ],
+    [
+     "ins",
+     "at least 47"
+    ],
+    [
+     "eq",
+     "people"
+    ],
+    [
+     "del",
+     "sheltering in a church"
+    ],
+    [
+     "ins",
+     "and wounded more than 22"
+    ],
+    [
+     "eq",
+     "near Haiti's capital,"
+    ],
+    [
+     "del",
+     "a local mayor"
+    ],
+    [
+     "ins",
+     "the UN"
+    ],
+    [
+     "eq",
+     "said on Monday. The victims were killed in an"
+    ],
+    [
+     "ins",
+     "overnight"
+    ],
+    [
+     "eq",
+     "attack"
+    ],
+    [
+     "del",
+     "on Sunday night"
+    ],
+    [
+     "eq",
+     "in Kenscoff, in the hills above"
+    ],
+    [
+     "del",
+     "Port-au-Prince, Mayor Massillon Jean said, describing a \"night of terror\". Some people remained missing. Gang members attacked displaced people huddling inside a church near"
+    ],
+    [
+     "eq",
+     "Haiti's capital"
+    ],
+    [
+     "ins",
+     "of Port-au-Prince. At least 47 people have been killed and 22 more wounded in an overnight gang raid on a neighbourhood overlooking Haiti's capital of Port-au-Prince, the UN said"
+    ],
+    [
+     "eq",
+     "on Monday,"
+    ],
+    [
+     "del",
+     "killing around"
+    ],
+    [
+     "ins",
+     "prompting anger over the lack of protection from repeated deadly attacks. The United Nations Integrated Office in Haiti said estimates could still change. The hillside community of Kenscoff, whose strategic position overlooks routes into the capital, has suffered a dozen attacks by armed gangs since last year, forcing thousands to flee their homes. For years, powerful gangs under a broad alliance have cemented their influence over Haiti's capital and expanded into nearby regions, despite attempts by foreign nations to reinforce the country's outgunned police. Haitian rights group RNDDH (Réseau National de Défense des Droits Humains) initially estimated that 30 to"
+    ],
+    [
+     "eq",
+     "40"
+    ],
+    [
+     "del",
+     "- some of them execution-style, the mayor told AFP. \"We have counted around 40 bodies. Searches are continuing. Some"
+    ],
+    [
+     "eq",
+     "people"
+    ],
+    [
+     "del",
+     "are still missing\" after the attack Sunday night"
+    ],
+    [
+     "ins",
+     "had been killed and 15 to 20 wounded"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "town"
+    ],
+    [
+     "ins",
+     "raid, which began around 10:30pm local time, but said it was difficult to assess a complete tally. The number"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "ins",
+     "deaths has since risen to 47, with injuries now tallying at over 20. Even as Haiti's government decried a \"heinous attack\" and promised to reinforce security, residents demanded the local police chief step down, saying officers failed to protect people killed just minutes from the police station. \"Kenscoff will not be abandoned,\" the prime minister's office said on social media. \"The government's authority will be restored, without weakness and without delay.\" Forced to flee"
+    ],
+    [
+     "eq",
+     "Kenscoff"
+    ],
+    [
+     "ins",
+     "Attacks in Kenscoff over two months in early 2025 saw more than 260 people killed and 200 homes destroyed or set on fire, forcing 3,000 people to flee, according to UN estimates. Nearly a dozen more attacks have taken place since, including rapes, kidnapping, arson and livestock theft. \"My family are victims,\" said Coriolan Kendy, standing by his cousin's body, lying on the road in a blood-stained sheet. \"People in Kenscoff are suffering and the government is to blame.\" Another resident, Orisme, who did not share his last name, pleaded for the prime minister's support. \"We live in humiliation and they do nothing for us,\" he said. Some residents said several dozen police had tried to rebuff the armed men during the night, and some were injured. They added that they did not identify gang members among the dead. Local media said several houses were set on fire, including the home of Jean William Pape, a leading public health expert. \"The police never gave up,\" national police chief Vladimir Paraison told reporters during a visit to Kenscoff later"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "hills above"
+    ],
+    [
+     "ins",
+     "day. Kenscoff overlooks routes into Petion-Ville - home to several embassies, upscale hotels and"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "capital, its mayor,Massillon Jean said. He described \"a night"
+    ],
+    [
+     "ins",
+     "temporary seat"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "terror\" in"
+    ],
+    [
+     "ins",
+     "government - as well as"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "town plagued for months by gang violence. Jean said that among other places"
+    ],
+    [
+     "ins",
+     "major road from"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "assailants targeted a site housing people who had already fled violence. \"The bandits raided a displaced persons camp located in a church. They executed several people. There are fatalities and dozens of wounded. Some people were abducted by the criminals,\" Jean said. In a statement issued after the attack, the office of Prime Minister Alix Didier Fils-Aime expressed \"deep compassion\" for the bereaved families and all the victims."
+    ],
+    [
+     "ins",
+     "capital into southern Haiti."
+    ],
+    [
+     "eq",
+     "Read moreHaiti schedules December presidential election despite security concerns The"
+    ],
+    [
+     "del",
+     "government also announced that reinforcements would be sent"
+    ],
+    [
+     "ins",
+     "violence may deepen concerns over Haiti's ability"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "restore security"
+    ],
+    [
+     "ins",
+     "hold an election"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "the area. Kenscoff, a mountainous municipality southeast of the Haitian capital, has for several months been the scene of clashes and incursions by armed groups seeking to expand their control. Haiti, the poorest country in the Americas, has for years suffered from chronic political instability, natural disasters, corruption and violence from powerful gangs that carry out rampant killings, rapes, looting and kidnappings. The gangs control much of the capital city. Nearly 1.5 million Haitians are currently displaced"
+    ],
+    [
+     "ins",
+     "December, its first"
+    ],
+    [
+     "eq",
+     "in a"
+    ],
+    [
+     "del",
+     "country"
+    ],
+    [
+     "ins",
+     "decade. Successive governments have repeatedly postponed elections as armed gangs have expanded their influence. The UN-backed Gang Suppression Force, which is mandated to help police fight gangs, aims to reach a capacity"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "about 11 million, and"
+    ],
+    [
+     "eq",
+     "more than"
+    ],
+    [
+     "del",
+     "five million are facing severe food insecurity, according"
+    ],
+    [
+     "ins",
+     "5,500 troops this autumn. A spokesperson did not immediately respond"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "UN figures. The crisis worsened in early 2024, when gangs launched a wave of violence that forced"
+    ],
+    [
+     "ins",
+     "questions on whether"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "unelected prime minister to resign. Haiti has not held any kind of election since 2016. Its last president, Jovenel Moise, was assassinated in July 2021 and not replaced. A general election is scheduled for December of this year."
+    ],
+    [
+     "ins",
+     "troops were reinforcing Kenscoff security."
+    ],
+    [
+     "eq",
+     "(FRANCE 24 with AFP)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 2.1407,
+  "numbers_changed": [
+   "1.5",
+   "10",
+   "11",
+   "15",
+   "20",
+   "200",
+   "2016",
+   "2021",
+   "2024",
+   "2025",
+   "22",
+   "260",
+   "3,000",
+   "30",
+   "40",
+   "47",
+   "5,500"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 4,
+  "blocks_added": 4,
+  "blocks_removed": 3,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.6,
+ "similarity": 0.7844,
+ "adjudicated_by": "rules"
+}

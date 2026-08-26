@@ -1,0 +1,168 @@
+{
+ "id": "f641d9105f7cd4fd-6759d7d2-d459d006",
+ "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-08-26T07:07:28Z",
+ "date": "2026-08-26",
+ "old_title": "France tornado: dozens injured and hundreds of homes damaged",
+ "new_title": "France tornado: Village of Pomas ravaged and dozens hurt",
+ "old_text": "- Published\nA tornado has torn through the French village of Pomas in the country's south-west, injuring 41 people and damaging hundreds of homes.\nAuthorities said 15 people were taken to hospital, including a pregnant woman who was injured after her house collapsed on her.\nMore than 120 emergency workers were deployed to the scene after winds reaching 117km/h (73mph) ripped roofs off houses and damaged an estimated 300 homes on Monday.\nFrench authorities issued an orange alert for thunderstorms in large parts of the country's south-west, which have already been hit by power outages and transport disruptions.\nThe extreme weather has left about 2,800 homes across 10 villages without electricity, according to officials.\nAuthorities in the Aude department in south-west France cancelled the third stage of the Vuelta a Espana cycling race in the area after a hailstorm in the French Pyrenees forced riders to seek shelter.\nEyewitness footage from the region captured the swirling vortex of the tornado looming in the horizon above houses and trees.\nImages from the small village of Pomas, which was the hardest hit, showed uprooted trees, damaged cars and rubble from destroyed homes.\nMeanwhile there were flight delays and cancellations at airports in Bordeaux, Marseille, Nice, Toulouse and north of Paris to the north, said Transport Minister Philippe Tabarot.\nOn average, France experiences several dozen tornadoes per year, according to the country's national weather service MÃ©tÃ©o-France.\nIt comes after Europe's summer of unprecedented heatwaves and wildfires, with France's south-west region among the worst affected with an area of 42,000 hectares burnt in one of the largest forest fires since World War Two.",
+ "new_text": "- Published\nA tornado has torn through the village of Pomas in south-west France, injuring 39 people and damaging hundreds of homes.\nAuthorities said 15 people were taken to hospital and two were in a critical condition. One man said his pregnant wife was injured after their house collapsed on her.\nMore than 120 emergency workers were deployed to the village south of Carcassonne after winds reaching 117km/h (73mph) tore roofs off houses and damaged an estimated 300 homes on Monday.\n\"Half the village has been destroyed,\" said one resident called Pierre, who described the tornado as swirling like a \"huge red and yellow chimney\".\n\"There's a huge castle and a third of it is has collapsed - even though these are stones that have stood for 1,000 years,\" Pierre told Ici Occitanie.\nThe third stage of the Vuelta a EspaÃ±a cycle race, which was taking place in the Aude area of south-western France, had to be cancelled when a hail storm forced the riders to take shelter about 15km from the finish line.\nThe extreme weather has left about 2,800 homes across 10 villages without electricity, according to officials.\nLocal sub-prefect Emmanuelle Plantier-Lemarchand told French radio that she was not aware of anyone missing. She lowered the number of victims from 41 to 39, and said 15 of them had been treated in hospital.\n\"I heard this massive noise... then I saw everything flying around in the air and my roof collapsed over my head,\" shocked resident Chantal told French radio. \"I've got no house left, that's for sure... I was really scared. I thought that's it, this my final hour.\"\nFrench authorities had issued an orange alert for thunderstorms in large parts of the country's south-west, which have already been hit by power outages and transport disruptions.\nEyewitness footage from the region captured the swirling vortex of the tornado looming in the horizon above houses and trees.\nImages from the small village of Pomas, which was the hardest hit, showed uprooted trees, damaged cars and rubble from destroyed homes.\nMeanwhile there were flight delays and cancellations at airports in Bordeaux, Marseille, Nice, Toulouse and north of Paris to the north, said Transport Minister Philippe Tabarot.\nOn average, France experiences several dozen tornadoes per year, according to the country's national weather service MÃ©tÃ©o-France.\nIt comes after Europe's summer of unprecedented heatwaves and wildfires, with France's south-west region among the worst affected with an area of 42,000 hectares burnt in one of the largest forest fires since World War Two.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published A tornado has torn through the"
+    ],
+    [
+     "del",
+     "French"
+    ],
+    [
+     "eq",
+     "village of Pomas in"
+    ],
+    [
+     "del",
+     "the country's south-west,"
+    ],
+    [
+     "ins",
+     "south-west France,"
+    ],
+    [
+     "eq",
+     "injuring"
+    ],
+    [
+     "del",
+     "41"
+    ],
+    [
+     "ins",
+     "39"
+    ],
+    [
+     "eq",
+     "people and damaging hundreds of homes. Authorities said 15 people were taken to"
+    ],
+    [
+     "del",
+     "hospital, including"
+    ],
+    [
+     "ins",
+     "hospital and two were in"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "ins",
+     "critical condition. One man said his"
+    ],
+    [
+     "eq",
+     "pregnant"
+    ],
+    [
+     "del",
+     "woman who"
+    ],
+    [
+     "ins",
+     "wife"
+    ],
+    [
+     "eq",
+     "was injured after"
+    ],
+    [
+     "del",
+     "her"
+    ],
+    [
+     "ins",
+     "their"
+    ],
+    [
+     "eq",
+     "house collapsed on her. More than 120 emergency workers were deployed to the"
+    ],
+    [
+     "del",
+     "scene"
+    ],
+    [
+     "ins",
+     "village south of Carcassonne"
+    ],
+    [
+     "eq",
+     "after winds reaching 117km/h (73mph)"
+    ],
+    [
+     "del",
+     "ripped"
+    ],
+    [
+     "ins",
+     "tore"
+    ],
+    [
+     "eq",
+     "roofs off houses and damaged an estimated 300 homes on Monday."
+    ],
+    [
+     "ins",
+     "\"Half the village has been destroyed,\" said one resident called Pierre, who described the tornado as swirling like a \"huge red and yellow chimney\". \"There's a huge castle and a third of it is has collapsed - even though these are stones that have stood for 1,000 years,\" Pierre told Ici Occitanie. The third stage of the Vuelta a EspaÃ±a cycle race, which was taking place in the Aude area of south-western France, had to be cancelled when a hail storm forced the riders to take shelter about 15km from the finish line. The extreme weather has left about 2,800 homes across 10 villages without electricity, according to officials. Local sub-prefect Emmanuelle Plantier-Lemarchand told French radio that she was not aware of anyone missing. She lowered the number of victims from 41 to 39, and said 15 of them had been treated in hospital. \"I heard this massive noise... then I saw everything flying around in the air and my roof collapsed over my head,\" shocked resident Chantal told French radio. \"I've got no house left, that's for sure... I was really scared. I thought that's it, this my final hour.\""
+    ],
+    [
+     "eq",
+     "French authorities"
+    ],
+    [
+     "ins",
+     "had"
+    ],
+    [
+     "eq",
+     "issued an orange alert for thunderstorms in large parts of the country's south-west, which have already been hit by power outages and transport disruptions."
+    ],
+    [
+     "del",
+     "The extreme weather has left about 2,800 homes across 10 villages without electricity, according to officials. Authorities in the Aude department in south-west France cancelled the third stage of the Vuelta a Espana cycling race in the area after a hailstorm in the French Pyrenees forced riders to seek shelter."
+    ],
+    [
+     "eq",
+     "Eyewitness footage from the region captured the swirling vortex of the tornado"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.0223,
+  "numbers_changed": [
+   "1,000",
+   "15",
+   "39"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.106,
+ "similarity": 0.8856,
+ "adjudicated_by": "rules"
+}
