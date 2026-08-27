@@ -1,0 +1,76 @@
+{
+ "id": "e546e163d6a9e53f-fee99689-210b97e3",
+ "url": "https://variety.com/2026/film/global/amanda-kernell-brace-your-heart-1236842342/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-08-27T17:46:47Z",
+ "date": "2026-08-27",
+ "old_title": "Amanda Kernell Is More Interested in 'Liberation Than a Curse' as Her Third Feature 'Brace Your Heart' Debuts Trailer (EXCLUSIVE)",
+ "new_title": "Amanda Kernell Is More Interested in 'Liberation Than a Curse' as Her Third Feature 'Brace Your Heart' Debuts Trailer (EXCLUSIVE)",
+ "old_text": "In her upcoming third feature \"Brace Your Heart,\" Amanda Kernell follows a survivor, not a victim.\n\"We're all different, and some people who experience really difficult things can't recover. But there are others who survive and find there's light on the other side,\" she told Variety.\nKernell, known for \"Sámi Blood\" and \"Charter,\" is also behind the script.\nIn the story, Ejva inherits her father's reindeer herd following his sudden death. She must grow up, quickly, with only the local leader Heaika eager to help. However, Heaika expects some things in return and isn't happy to see Ejva fall for his cousin.\nPopular on Variety\nThe highly anticipated film is set to premiere at Toronto and San Sebastián. It debuts its exclusive trailer here:\nIn 2023, Kernell won the top award at the Co-Production Market at Haugesund's New Nordic Films industry sidebar for the film, which was then known as \"The Curse: A Love Story.\"\n\"After the curse of your own silence, or the curse that doesn't allow you to speak up because you're afraid of how people will think of you if you confront them,\" she explained.\n\"Then I realized: OK. I'm more interested in liberation than a curse.\"\nSold by TrustNordisk, it's produced by Eva Åkergren for Nordisk Film Production, and co-produced by Forest People, Compass Films, Invictus, Nordisk Film Production Denmark, Filmpool Nord, SVT and Film i Väst.\nElli Sara Valkeapää plays Ejva. She's joined by Andte Gaup-Juuso and Vincent Niia.\n\"During casting, [Elli Sara Valkeapää] had just turned 18. I was like: 'This is her. This is the girl I've written about.' But that meant I had to change the whole film, because she speaks another Sámi language than I do,\" explained Kernell.\n\"I have a Sámi father and a Swedish mother, and I grew up in a village outside of Umeå. There are many strong, tough women there. As a child, I admired them, and I also feared them a little bit,\" she said.\n\"It seemed like they could survive anything, and maybe they had to. In this community, you have a responsibility greater than yourself.\"\nJust like Ejva, who suddenly needs to learn how to protect the herd and make her family proud, even when a violent attack leaves her struggling.\n\"This line from the title... It's something you say to young Sámi people who are reindeer herders. You need to make your heart harder in order to survive,\" she said.\n\"Maybe that's how you get through difficult things and traumas and death - and a life that's very close to death. But it's not the path to love.\"",
+ "new_text": "In her upcoming third feature \"Brace Your Heart,\" Amanda Kernell follows a survivor, not a victim.\n\"We're all different, and some people who experience really difficult things can't recover. But there are others who survive and find there's light on the other side,\" she told Variety.\nKernell, known for \"Sámi Blood\" and \"Charter,\" is also behind the script.\nIn the story, Ejva inherits her father's reindeer herd following his sudden death. She must grow up, quickly, with only the local leader Heaika eager to help. However, Heaika expects some things in return and isn't happy to see Ejva fall for his cousin.\nPopular on Variety\nThe highly anticipated film is set to premiere at Toronto and San Sebastián. It debuts its exclusive trailer here:\nIn 2023, Kernell won the top award at the Co-Production Market at Haugesund's New Nordic Films industry sidebar for the film, which was then known as \"The Curse: A Love Story.\"\n\"After the curse of your own silence, or the curse that doesn't allow you to speak up because you're afraid of how people will think of you if you confront them,\" she explained.\n\"Then I realized: OK. I'm more interested in liberation than a curse.\"\nSold by TrustNordisk, it's produced by Eva Åkergren for Nordisk Film Production, and co-produced by Forest People, Compass Films, Invictus, Nordisk Film Production Denmark, Filmpool Nord, SVT and Film i Väst.\nElli Sara Valkeapää plays Ejva. She's joined by Andte Gaup-Juuso and Vincent Niia.\n\"During casting, [Elli Sara Valkeapää] had just turned 18. I was like: 'This is her. This is the girl I've written about.' But that meant I had to change the whole film, because she speaks another Sámi language than I do,\" explained Kernell.\n\"I have a Sámi father and a Swedish mother, and born in a village outside of Umeå I grew up surrounded by many strong, tough women. As a child, I admired them, and I also feared them a little bit,\" she said.\n\"It seemed like they could survive anything, and maybe they had to. In this community, you have a responsibility greater than yourself.\"\nJust like Ejva, who suddenly needs to learn how to protect the herd and make her family proud, even when a violent attack leaves her struggling.\n\"This line from the title... It's something you say to young Sámi people who are reindeer herders. You need to make your heart harder in order to survive,\" she said.\n\"Maybe that's how you get through difficult things and traumas and death - and a life that's very close to death. But it's not the path to love.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "explained Kernell. \"I have a Sámi father and a Swedish mother, and"
+    ],
+    [
+     "del",
+     "I grew up"
+    ],
+    [
+     "ins",
+     "born"
+    ],
+    [
+     "eq",
+     "in a village outside of"
+    ],
+    [
+     "del",
+     "Umeå. There are"
+    ],
+    [
+     "ins",
+     "Umeå I grew up surrounded by"
+    ],
+    [
+     "eq",
+     "many strong, tough"
+    ],
+    [
+     "del",
+     "women there."
+    ],
+    [
+     "ins",
+     "women."
+    ],
+    [
+     "eq",
+     "As a child, I admired them, and I also feared them a"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0368,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

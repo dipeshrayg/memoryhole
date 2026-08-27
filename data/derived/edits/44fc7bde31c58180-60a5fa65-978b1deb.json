@@ -1,0 +1,568 @@
+{
+ "id": "44fc7bde31c58180-60a5fa65-978b1deb",
+ "url": "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-08-27T17:40:51Z",
+ "date": "2026-08-27",
+ "old_title": "Blood Moon partial lunar eclipse: How and when to see it in UK skies",
+ "new_title": "Blood Moon partial lunar eclipse: How and when to see it in UK skies",
+ "old_text": "- Published\nSkywatchers across the UK could have the chance to see a stunning partial lunar eclipse later this week as the Sun, Earth, and Moon line up in the night sky.\nLunar eclipses occur when the Moon is full which will take place in the early hours of 28 August. It may cause the full Moon - nicknamed the Sturgeon Moon - to take on an eerie reddish glow.\nIt comes just weeks after the UK experienced its most dramatic partial solar eclipse in nearly 30 years.\nAdding to the spectacle, its position in the sky will be low on the horizon, causing a phenomenon known as the Moon illusion. This makes the Moon appear bigger and more dramatic than usual.\nHow and when can I see the partial lunar eclipse in the UK?\nThe eclipse will take place in the early hours of Friday 28 August.\nThe partial eclipse will begin at 03:33 BST in London, when the Moon enters Earth's darkest shadow.\nIt will reach its maximum at 05:12 BST, when around 90% of the Moon will be within the umbra.\nBy this point the Moon will be very low in the south-western sky, causing something known as the Moon illusion.\nThis is a term for when the Moon appears much larger than it is based on its position in the sky - an effect caused by the way our brains process visual information.\nThe effect is particularly noticeable during a moonrise or moonset, when the lunar disc is seen alongside familiar objects on the ground.\nExact moonset times will vary across the UK.\nIn London, it will set and move out of sight at approximately 06:15 BST.\nWhat causes the Moon to appear red?\nA lunar eclipse happens when the Earth passes between the Sun and the Moon, causing the Moon to temporarily move into the Earth's shadow.\nDuring a partial eclipse, only part of the Moon enters the darkest section of that shadow, known as the umbra.\nThe Moon is not completely cut off from sunlight, however.\nSunlight passing through the Earth's atmosphere is scattered, with shorter blue wavelengths scattering more easily, while more of the longer wavelength red light reach the Moon.\nThese wavelengths are then reflected back towards Earth, giving the eclipsed Moon its reddish colour.\nWhat is the weather forecast for the Blood Moon lunar eclipse?\nFor the best chance of seeing the eclipse, astronomers recommend finding a high location with an unobstructed view towards the south-western horizon.\nClear skies will, of course, be essential.\nViewing conditions are expected to vary considerably across the UK during the early hours of Friday morning.\nWith low pressure in charge, cloud and heavy showers are likely to affect some parts of the country, while other areas remain clear.\nCurrently, the best viewing conditions are expected across central and eastern parts of England and Wales. However, even here, the cloud cover could change a lot from one hour to the next and is very hard to forecast accurately.\nYou can check the latest hour-by-hour forecast where you are online or via the BBC Weather app.",
+ "new_text": "- Published\nSkywatchers across the UK could get to see a stunning partial lunar eclipse in the early hours of Friday, but cloud may spoil the spectacle for some.\nThe Sun, Earth and Moon will line up in the night sky causing the full Moon - nicknamed the Sturgeon Moon - to glow an eerie red.\nIt will occur shortly before moonset meaning it will be low on the horizon, with the Moon appearing bigger and more dramatic than usual thanks to a phenomenon known as the Moon illusion.\nHowever cloud and rain may obscure the view for some, with the best viewing chances likely to be in the south and east of England, and possibly parts of Northern Ireland and western Scotland.\nHow and when can I see the partial lunar eclipse in the UK?\nThe eclipse will take place in the early hours of Friday and comes just weeks after the UK experienced its most dramatic partial solar eclipse in nearly 30 years.\nIt will start at around 02:23 BST as the Moon moves into what is called the penumbra, the faint outer part of the Earth's shadow.\nThe moon will appear to dim slightly - although this will be barely noticeable to most viewers.\nThe main partial phase of the eclipse will begin at 03:33 as the Moon starts to enter the darkest part of the Earth's shadow - called the umbra.\nIt will reach its maximum at 05:12, when around 93% of the Moon will be within the darkest shadow.\nThe partial eclipse ends at 06:51 but this will not be visible in the UK because the moon will have set below the horizon by then.\nExact moonset times vary across the UK - for instance, 06:00 in Lerwick, 06:15 in London and 06:42 in Enniskillen.\nBecause the Moon will be very low in the south-western sky, the eclipse could be made more dramatic thanks to something called the Moon illusion.\nThis is a term for when the Moon appears much larger than it normally would, purely due to its position in the sky - close to the horizon, seen alongside familiar objects on the ground.\nIt is caused by the way in which our brains process visual information.\nWhat causes the Moon to appear red?\nA lunar eclipse happens when the Earth passes between the Sun and the Moon, causing the Moon to temporarily move into the Earth's shadow.\nDuring a partial eclipse, only part of the Moon enters the darkest section of that shadow, known as the umbra.\nThe Moon is not completely cut off from sunlight, however.\nSunlight passing through the Earth's atmosphere is scattered, with shorter blue wavelengths scattering more easily, while more of the longer wavelength red light reach the Moon.\nThese wavelengths are then reflected back towards Earth, giving the eclipsed Moon its reddish colour.\nWhat is the weather forecast for the Blood Moon lunar eclipse?\nFor the best chance of seeing the eclipse, astronomers recommend finding a high location with an unobstructed view towards the south-western horizon.\nClear skies will, of course, be essential - and this may pose a problem for some.\nLow pressure will be directly overhead giving the chance of cloud and showers, but it will not be cloudy everywhere.\nWith slack winds under the centre of the low it will be difficult for forecasts to pinpoint exactly where the banks of cloud will drift - and where any breaks may be.\nThe best viewing conditions are likely to be in eastern and south-eastern parts of England, but computer models suggest some areas of western Scotland and Northern Ireland could also have clear spells.\nElsewhere a forecast of cloud and rain looks more likely, but some breaks in the cloud cannot be ruled out and could change from hour to hour.\nYou can check the latest hourly forecast where you are online or via the BBC Weather app.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published Skywatchers across the UK could"
+    ],
+    [
+     "del",
+     "have the chance"
+    ],
+    [
+     "ins",
+     "get"
+    ],
+    [
+     "eq",
+     "to see a stunning partial lunar eclipse"
+    ],
+    [
+     "del",
+     "later this week as"
+    ],
+    [
+     "ins",
+     "in"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "ins",
+     "early hours of Friday, but cloud may spoil the spectacle for some. The"
+    ],
+    [
+     "eq",
+     "Sun,"
+    ],
+    [
+     "del",
+     "Earth,"
+    ],
+    [
+     "ins",
+     "Earth"
+    ],
+    [
+     "eq",
+     "and Moon"
+    ],
+    [
+     "ins",
+     "will"
+    ],
+    [
+     "eq",
+     "line up in the night"
+    ],
+    [
+     "del",
+     "sky. Lunar eclipses occur when the Moon is full which will take place in the early hours of 28 August. It may cause"
+    ],
+    [
+     "ins",
+     "sky causing"
+    ],
+    [
+     "eq",
+     "the full Moon - nicknamed the Sturgeon Moon - to"
+    ],
+    [
+     "del",
+     "take on"
+    ],
+    [
+     "ins",
+     "glow"
+    ],
+    [
+     "eq",
+     "an eerie"
+    ],
+    [
+     "del",
+     "reddish glow."
+    ],
+    [
+     "ins",
+     "red."
+    ],
+    [
+     "eq",
+     "It"
+    ],
+    [
+     "del",
+     "comes just weeks after the UK experienced its most dramatic partial solar eclipse in nearly 30 years. Adding to the spectacle, its position in the sky"
+    ],
+    [
+     "ins",
+     "will occur shortly before moonset meaning it"
+    ],
+    [
+     "eq",
+     "will be low on the horizon,"
+    ],
+    [
+     "del",
+     "causing"
+    ],
+    [
+     "ins",
+     "with the Moon appearing bigger and more dramatic than usual thanks to"
+    ],
+    [
+     "eq",
+     "a phenomenon known as the Moon illusion."
+    ],
+    [
+     "del",
+     "This makes"
+    ],
+    [
+     "ins",
+     "However cloud and rain may obscure"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "Moon appear bigger"
+    ],
+    [
+     "ins",
+     "view for some, with the best viewing chances likely to be in the south"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "more dramatic than usual."
+    ],
+    [
+     "ins",
+     "east of England, and possibly parts of Northern Ireland and western Scotland."
+    ],
+    [
+     "eq",
+     "How and when can I see the partial lunar eclipse in the UK? The eclipse will take place in the early hours of Friday"
+    ],
+    [
+     "del",
+     "28 August."
+    ],
+    [
+     "ins",
+     "and comes just weeks after the UK experienced its most dramatic partial solar eclipse in nearly 30 years. It will start at around 02:23 BST as the Moon moves into what is called the penumbra, the faint outer part of the Earth's shadow."
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "ins",
+     "moon will appear to dim slightly - although this will be barely noticeable to most viewers. The main"
+    ],
+    [
+     "eq",
+     "partial"
+    ],
+    [
+     "ins",
+     "phase of the"
+    ],
+    [
+     "eq",
+     "eclipse will begin at 03:33"
+    ],
+    [
+     "del",
+     "BST in London, when"
+    ],
+    [
+     "ins",
+     "as"
+    ],
+    [
+     "eq",
+     "the Moon"
+    ],
+    [
+     "del",
+     "enters"
+    ],
+    [
+     "ins",
+     "starts to enter the darkest part of the"
+    ],
+    [
+     "eq",
+     "Earth's"
+    ],
+    [
+     "del",
+     "darkest shadow."
+    ],
+    [
+     "ins",
+     "shadow - called the umbra."
+    ],
+    [
+     "eq",
+     "It will reach its maximum at"
+    ],
+    [
+     "del",
+     "05:12 BST,"
+    ],
+    [
+     "ins",
+     "05:12,"
+    ],
+    [
+     "eq",
+     "when around"
+    ],
+    [
+     "del",
+     "90%"
+    ],
+    [
+     "ins",
+     "93%"
+    ],
+    [
+     "eq",
+     "of the Moon will be within the"
+    ],
+    [
+     "del",
+     "umbra. By"
+    ],
+    [
+     "ins",
+     "darkest shadow. The partial eclipse ends at 06:51 but"
+    ],
+    [
+     "eq",
+     "this"
+    ],
+    [
+     "del",
+     "point"
+    ],
+    [
+     "ins",
+     "will not be visible in the UK because the moon will have set below the horizon by then. Exact moonset times vary across the UK - for instance, 06:00 in Lerwick, 06:15 in London and 06:42 in Enniskillen. Because"
+    ],
+    [
+     "eq",
+     "the Moon will be very low in the south-western sky,"
+    ],
+    [
+     "del",
+     "causing"
+    ],
+    [
+     "ins",
+     "the eclipse could be made more dramatic thanks to"
+    ],
+    [
+     "eq",
+     "something"
+    ],
+    [
+     "del",
+     "known as"
+    ],
+    [
+     "ins",
+     "called"
+    ],
+    [
+     "eq",
+     "the Moon illusion. This is a term for when the Moon appears much larger than it"
+    ],
+    [
+     "del",
+     "is based on"
+    ],
+    [
+     "ins",
+     "normally would, purely due to"
+    ],
+    [
+     "eq",
+     "its position in the sky -"
+    ],
+    [
+     "del",
+     "an effect caused by"
+    ],
+    [
+     "ins",
+     "close to"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "way our brains process visual information. The effect is particularly noticeable during a moonrise or moonset, when the lunar disc is"
+    ],
+    [
+     "ins",
+     "horizon,"
+    ],
+    [
+     "eq",
+     "seen alongside familiar objects on the ground."
+    ],
+    [
+     "del",
+     "Exact moonset times will vary across"
+    ],
+    [
+     "ins",
+     "It is caused by"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "UK. In London, it will set and move out of sight at approximately 06:15 BST."
+    ],
+    [
+     "ins",
+     "way in which our brains process visual information."
+    ],
+    [
+     "eq",
+     "What causes the Moon to appear red? A lunar eclipse happens when"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "unobstructed view towards the south-western horizon. Clear skies will, of course, be"
+    ],
+    [
+     "del",
+     "essential. Viewing conditions are expected to vary considerably across"
+    ],
+    [
+     "ins",
+     "essential - and this may pose a problem for some. Low pressure will be directly overhead giving"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "UK during the early hours"
+    ],
+    [
+     "ins",
+     "chance"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "Friday morning. With low pressure in charge,"
+    ],
+    [
+     "eq",
+     "cloud and"
+    ],
+    [
+     "del",
+     "heavy showers are likely to affect some parts"
+    ],
+    [
+     "ins",
+     "showers, but it will not be cloudy everywhere. With slack winds under the centre"
+    ],
+    [
+     "eq",
+     "of the"
+    ],
+    [
+     "del",
+     "country, while other areas remain clear. Currently,"
+    ],
+    [
+     "ins",
+     "low it will be difficult for forecasts to pinpoint exactly where"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "ins",
+     "banks of cloud will drift - and where any breaks may be. The"
+    ],
+    [
+     "eq",
+     "best viewing conditions are"
+    ],
+    [
+     "del",
+     "expected across central"
+    ],
+    [
+     "ins",
+     "likely to be in eastern"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "eastern"
+    ],
+    [
+     "ins",
+     "south-eastern"
+    ],
+    [
+     "eq",
+     "parts of"
+    ],
+    [
+     "del",
+     "England"
+    ],
+    [
+     "ins",
+     "England, but computer models suggest some areas of western Scotland"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "Wales. However, even here,"
+    ],
+    [
+     "ins",
+     "Northern Ireland could also have clear spells. Elsewhere a forecast of cloud and rain looks more likely, but some breaks in"
+    ],
+    [
+     "eq",
+     "the cloud"
+    ],
+    [
+     "del",
+     "cover"
+    ],
+    [
+     "ins",
+     "cannot be ruled out and"
+    ],
+    [
+     "eq",
+     "could change"
+    ],
+    [
+     "del",
+     "a lot"
+    ],
+    [
+     "eq",
+     "from"
+    ],
+    [
+     "del",
+     "one"
+    ],
+    [
+     "eq",
+     "hour to"
+    ],
+    [
+     "del",
+     "the next and is very hard to forecast accurately."
+    ],
+    [
+     "ins",
+     "hour."
+    ],
+    [
+     "eq",
+     "You can check the latest"
+    ],
+    [
+     "del",
+     "hour-by-hour"
+    ],
+    [
+     "ins",
+     "hourly"
+    ],
+    [
+     "eq",
+     "forecast where you are online or via the BBC Weather app."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.0154,
+  "numbers_changed": [
+   "00",
+   "02",
+   "23",
+   "28",
+   "42",
+   "51",
+   "90",
+   "93"
+  ],
+  "market_figures_changed": [
+   "90%",
+   "93%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 0.9588,
+ "adjudicated_by": "rules"
+}

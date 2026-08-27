@@ -1,0 +1,38 @@
+AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy
+- Date:
+- August 27, 2026
+- Source:
+- Washington State University
+- Summary:
+- Researchers used AI to search through more than 100 million possible settings for 3D-printing a high-performance NASA alloy. After only 40 experiments, the system identified six successful configurations, including one that worked at a record-low 500 watts. That could allow GRCop-42, currently difficult and expensive to print, to be made with much more widely available equipment.
+- Share:
+Washington State University researchers have used artificial intelligence to identify a faster and less costly way to 3D print a high-performance metal alloy, avoiding the need to manually test more than 100 million possible printing configurations.
+The advance could eventually make the alloy, which is widely used in aerospace applications and may have uses in other industries, printable on more common commercial equipment. The AI strategy developed by the team could also be useful for other scientific problems involving enormous numbers of possible experiments, including drug discovery.
+Researchers from WSU's School of Electrical Engineering and Computer Science and the School of Mechanical and Materials Engineering published the work in the Proceedings of the AAAI Conference on Artificial Intelligence. The project also received the Innovative Deployed Application Award at the organization's annual conference.
+"Ninety percent of commercial printers cannot print this metal alloy, so given that we were able to find these feasible process parameters, it allows us to use those commercial printers, and we are essentially democratizing the printing of this alloy," said Jana Doppa, Huie-Rogers Endowed Chair Professor of Computer Science and Berry Distinguished Professor in Engineering who led the research.
+A NASA Alloy Built for Extreme Heat
+The material, GRCop-42, is an alloy made from copper, chromium, and niobium. NASA developed it for demanding environments where both heat resistance and efficient heat transfer are essential.
+Because GRCop-42 has high thermal conductivity while maintaining its strength at extreme temperatures, it is used in aerospace systems, including liquid rocket engine combustion chambers. Despite its desirable properties and broader potential, however, the alloy is difficult and costly to 3D print because the process typically requires substantial laser power and energy.
+Previous attempts to print GRCop-42 using the lower wattages available on more common commercial machines had not succeeded. Testing possible printing settings one by one is also impractical. Each attempt consumes expensive material, requires specialized equipment, and takes considerable human effort. A single print can cost hundreds of dollars, and thoroughly analyzing the finished sample can require several days.
+"Sometimes they printed a certain configuration, and the product just melted," said Azza Fadhel, first author of the paper and a PhD student in computer science. "It wasn't really printable, and even with time and money, they wouldn't be able to try all 100 million options. What we were doing in our collaboration is to apply the AI so that we efficiently choose candidates from this very large search space."
+AI Searches More Than 100 Million Possibilities
+The researchers started with data from 37 printing configurations that had already failed in earlier experiments conducted in the School of Mechanical and Materials Engineering.
+Using those results, they developed a method that could estimate how likely an untested combination of settings was to produce a successful print. The AI model then recommended small groups of new configurations to test.
+Its selections balanced two priorities. Some experiments focused on configurations that appeared especially promising, while others explored less certain parts of the search space that could provide new information and improve the model.
+Nathaniel Zuckschwerdt, Susmita Bose, and Amit Bandyopadhyay in the School of Mechanical and Materials Engineering worked with the team to print GRCop-42 using the configurations chosen by the AI and then evaluate the finished samples. Aryan Deshwal from the University of Minnesota also collaborated on the project.
+"They would give me back the results, and I liked all of them - even if they failed -- because every result improved our AI model," said Fadhel.
+Lower Power Could Expand Access
+Successfully printing the alloy with less laser power could bring several advantages. It could reduce energy consumption, decrease wear on printing equipment, and lower the costs associated with processing samples after printing.
+It could also make GRCop-42 available to universities, smaller laboratories, and companies that do not have access to specialized high-power printing systems.
+The difficulty was that researchers already knew successful settings would be extremely rare among the more than 100 million possible configurations.
+"It's a very challenging case for AI," said Doppa. "Every time you try, you basically get a binary success or failure signal, and you are trying to minimize the number of tries that you have so that you get to those successful needles very quickly."
+Despite those odds, the team found six successful configurations at different laser power levels during three months of work, while limiting the project to a total of just 40 experiments. For the first time, they successfully printed GRCop-42 using 500 watts of laser power.
+A Broader Tool for Scientific Discovery
+The researchers say the same AI-guided approach could be adapted to identify workable processing conditions for other metal alloys and additive manufacturing systems.
+More broadly, the method could help scientists tackle problems in which successful results are uncommon, the number of possible experiments is enormous, and testing every option would be prohibitively expensive. The researchers see potential applications beyond manufacturing, including other areas of scientific discovery where each experiment carries significant material, financial, or time costs.
+"There's always uncertainty when you are deploying something where real people, materials, and physical costs are involved," said Doppa. "We didn't know whether we would succeed or not, and there is always that risk. There are real stakes. I was very surprised that we were able to do this so well."
+Story Source:
+Materials provided by Washington State University. Original written by Tina Hilding. Note: Content may be edited for style and length.
+Journal Reference:
+- Azza Fadhel, Nathaniel W. Zuckschwerdt, Aryan Deshwal, Susmita Bose, Amit Bandyopadhyay, Jana Doppa. Discovery of Feasible 3D Printing Configurations for Metal Alloys via AI-Driven Adaptive Experimental Design. Proceedings of the AAAI Conference on Artificial Intelligence, 2026; 40 (47): 39939 DOI: 10.1609/aaai.v40i47.41428
+Cite This Page:

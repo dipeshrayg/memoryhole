@@ -1,0 +1,123 @@
+{
+ "id": "dae3d71fa913bb18-f41ed708-494cc58f",
+ "url": "https://www.dw.com/en/pakistan-islamabad-hospital-fire-kills-15-infants/a-78503056?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-27T17:33:24Z",
+ "date": "2026-08-27",
+ "old_title": "Pakistan: Islamabad hospital fire kills 15 infants",
+ "new_title": "Pakistan: Islamabad hospital fire kills at least 14 infants",
+ "old_text": "A least 15 infants were killed after a fire broke out at the maternity ward of a hospital in Islamabad, Pakistan, on Wednesday.\n\"A fire broke out on the third floor of the MCH Ward at PIMS Hospital,\" the district office of Islamabad said.\nOfficials said 16 newborns were in the ward at the time, adding that one was rescued.\nThe fire broke out at around 6:45 a.m. (0145 UTC) when an air conditioning unit exploded inside the nursery, rescuers said.\nInvestigation underway\nPakistani Prime Minister Shehbaz Sharif has ordered an immediate investigation into the incident.\n\"A tragedy involving children is an irreparable loss,\" he said in a statement.\n\"Those responsible should be identified, and the strictest action should be taken.\"\nThe incident is one of the deadliest hospital fires in recent memory in Pakistan, where healthcare is subsidized but public hospitals are often are under-resourced and overburdened.\nEdited by: Wesley Dockery\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "new_text": "A least 14 infants were killed after a fire broke out at the maternity ward of a hospital in Islamabad, Pakistan, on Wednesday.\n\"A fire broke out on the third floor of the MCH Ward at PIMS Hospital,\" the district office of Islamabad said, referring to the Pakistan Institute of Medical Sciences.\nThe blaze broke out at around 6:45 a.m. (0145 UTC) when an air conditioning unit exploded inside the nursery, rescuers said.\nOfficials said 16 newborns were in the ward at the time, adding that one was rescued.\nOutside the hospital, a nurse read out the names of babies who had perished as their families gathered around.\n\"I lost my daughter. She was only three days old,\" one father told the AFP news agency.\n\"My wife was in the ward. They took everyone out. We were sitting on the road waiting for help.\"\nInvestigation underway\nPakistani Prime Minister Shehbaz Sharif has ordered an immediate investigation into the incident.\n\"A tragedy involving children is an irreparable loss,\" he said in a statement.\n\"Those responsible should be identified, and the strictest action should be taken.\"\nThe incident is one of the deadliest hospital fires in recent memory in Pakistan, where healthcare is subsidized but public hospitals are often are under-resourced and overburdened.\nPakistan-based journalist Kiran Butt told DW that officials had suggested an air conditioner may have exploded in a part of the hospital currently under construction, but that conflicting reports still had to be clarified.\nButt spoke to a woman who said she had had a c-section only two days prior and did not yet know what had happened to her baby. The mother said she had trouble getting adequate information from authorities as to what happened next.\nQuestions also remained, Butt said, as to why it took rescue services so long to reach the hospital.\nEdited by: Wesley Dockery\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "A least"
+    ],
+    [
+     "del",
+     "15"
+    ],
+    [
+     "ins",
+     "14"
+    ],
+    [
+     "eq",
+     "infants were killed after a fire broke out at the maternity ward"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of the MCH Ward at PIMS Hospital,\" the district office of Islamabad"
+    ],
+    [
+     "del",
+     "said. Officials said 16 newborns were in"
+    ],
+    [
+     "ins",
+     "said, referring to"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "ward at the time, adding that one was rescued."
+    ],
+    [
+     "ins",
+     "Pakistan Institute of Medical Sciences."
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "fire"
+    ],
+    [
+     "ins",
+     "blaze"
+    ],
+    [
+     "eq",
+     "broke out at around 6:45 a.m. (0145 UTC) when an air conditioning unit exploded inside the nursery, rescuers said."
+    ],
+    [
+     "ins",
+     "Officials said 16 newborns were in the ward at the time, adding that one was rescued. Outside the hospital, a nurse read out the names of babies who had perished as their families gathered around. \"I lost my daughter. She was only three days old,\" one father told the AFP news agency. \"My wife was in the ward. They took everyone out. We were sitting on the road waiting for help.\""
+    ],
+    [
+     "eq",
+     "Investigation underway Pakistani Prime Minister Shehbaz Sharif has ordered an immediate investigation"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "healthcare is subsidized but public hospitals are often are under-resourced and overburdened."
+    ],
+    [
+     "ins",
+     "Pakistan-based journalist Kiran Butt told DW that officials had suggested an air conditioner may have exploded in a part of the hospital currently under construction, but that conflicting reports still had to be clarified. Butt spoke to a woman who said she had had a c-section only two days prior and did not yet know what had happened to her baby. The mother said she had trouble getting adequate information from authorities as to what happened next. Questions also remained, Butt said, as to why it took rescue services so long to reach the hospital."
+    ],
+    [
+     "eq",
+     "Edited by: Wesley Dockery If you rely on our team for trusted"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.0659,
+  "numbers_changed": [
+   "14",
+   "15"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.686,
+ "similarity": 0.9557,
+ "adjudicated_by": "rules"
+}

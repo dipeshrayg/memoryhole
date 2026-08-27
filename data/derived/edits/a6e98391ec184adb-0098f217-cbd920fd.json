@@ -1,0 +1,48 @@
+{
+ "id": "a6e98391ec184adb-0098f217-cbd920fd",
+ "url": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-08-27T17:45:49Z",
+ "date": "2026-08-27",
+ "old_title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
+ "new_title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
+ "old_text": "SpaceX made Florida's Space Coast home to the world's busiest spaceport for a decade, but that will change this year. The company is significantly cutting the number of launches from Florida until Starship arrives, a senior SpaceX official confirmed Tuesday.\nThe Falcon 9 rocket has been SpaceX's workhorse, routinely launching batches of satellites for the company's Starlink network, primarily from launch pads at Cape Canaveral Space Force Station and NASA's Kennedy Space Center in Florida. There were 165 Falcon 9 launches last year-about three flights per week-and about 75 percent of them carried Starlink satellites.\nThis year is different. SpaceX has launched more missions from its West Coast launch pad at Vandenberg Space Force Base in California since January, and this trend will amplify for the rest of the year.\nAll-in on Starship\nA Falcon 9 launch early Tuesday was the last planned Starlink mission from Cape Canaveral until SpaceX begins flying Starship missions from Florida, according to Kiko Dontchev, the company's vice president of launch. For at least the rest of the year, and maybe longer, this means the launch rate at the Florida spaceport will drop from eight or nine per month to perhaps two per month.\nIt wasn't long ago when two launches per month was the norm, an indication just how quickly SpaceX's launch cadence has grown. Cape Canaveral and Kennedy Space Center sit on adjoining property and share the same range on Florida's east coast, so it is worth considering them a single spaceport. The last time the Florida spaceport did not lead the world in space launches was in 2015.\n\"From here on, Starlink missions out of Florida will fly on Starship,\" Dontchev wrote on X. \"The West Coast team will continue regularly launching Starlink from Vandenberg.\"",
+ "new_text": "SpaceX made Florida's Space Coast home to the world's busiest spaceport for a decade, but that will change this year. The company is significantly cutting the number of launches from Florida until Starship arrives, a senior SpaceX official confirmed Tuesday.\nThe Falcon 9 rocket has been SpaceX's workhorse, routinely launching batches of satellites for the company's Starlink network, primarily from launch pads at Cape Canaveral Space Force Station and NASA's Kennedy Space Center in Florida. There were 165 Falcon 9 launches last year-about three flights per week-and about 75 percent of them carried Starlink satellites.\nThis year is different. SpaceX has launched more missions from its West Coast launch pad at Vandenberg Space Force Base in California since January, and this trend will amplify for the rest of the year.\nAll-in on Starship\nA Falcon 9 launch early Tuesday was the last planned Starlink mission from Cape Canaveral until SpaceX begins flying Starship missions from Florida, according to Kiko Dontchev, the company's vice president of launch. For at least the rest of the year, and maybe longer, this means the launch rate at the Florida spaceport will drop from eight or nine per month to perhaps two per month.\nIt wasn't long ago when two launches per month was the norm, an indication of just how quickly SpaceX's launch cadence has grown. Cape Canaveral and Kennedy Space Center sit on adjoining property and share the same range on Florida's east coast, so it is worth considering them a single spaceport. The last time the Florida spaceport did not lead the world in space launches was in 2015.\n\"From here on, Starlink missions out of Florida will fly on Starship,\" Dontchev wrote on X. \"The West Coast team will continue regularly launching Starlink from Vandenberg.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "long ago when two launches per month was the norm, an indication"
+    ],
+    [
+     "ins",
+     "of"
+    ],
+    [
+     "eq",
+     "just how quickly SpaceX's launch cadence has grown. Cape Canaveral and Kennedy"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0034,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}
