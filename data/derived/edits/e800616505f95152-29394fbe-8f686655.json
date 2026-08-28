@@ -1,0 +1,60 @@
+{
+ "id": "e800616505f95152-29394fbe-8f686655",
+ "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-border-patrol-bovino-dead-b3040506.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-28T18:29:53Z",
+ "date": "2026-08-28",
+ "old_title": "Trump's former Border Patrol commander now claims Trump administration wants him dead",
+ "new_title": "Trump's former Border Patrol commander now claims Trump administration wants him dead",
+ "old_text": "A former Border Patrol official who helped spearhead President Donald Trump's immigration crackdown has claimed the administration now wants him dead.\nGregory Bovino made the explosive allegation during a lengthy interview with conservative podcaster Tucker Carlson, released Wednesday night.\n\"Do I think they want me killed? Absolutely,\" Bovino told Carlson during the interview, which has been viewed two million times on X alone. The White House has labeled his comments \"absurd.\"\nBovino, 56, was one of the most prominent figures associated with Trump's hard-line immigration agenda. As a Border Patrol commander-at-large, he helped lead enforcement operations in Minnesota and became known for aggressive measures, including firing tear gas at protesters - a tactic that has prompted legal scrutiny.\nHe left his post in January, after federal agents shot and killed two American citizens in Minnesota, incidents that triggered growing opposition to the administration's immigration enforcement approach, polls show. Bovino retired from federal service several months later.\nTrump has distanced himself from Bovino, describing him in January as \"a pretty out there kind of guy.\" The president later called for a \"softer touch\" on immigration.\nDuring his interview with Carlson - who has also broken with the administration - Bovino claimed that his security detail was withdrawn as soon as he left government, despite what he described as an onslaught of death threats.\nHe said he believed the protection had been removed as part of an effort to \"silence him.\"\n\"Silence you, like get you killed? Because that's what it sounds like,\" Carlson said.\n\"Do I think they want me dead? At this point yes,\" Bovino replied.\n\"I'm in a running battle every time I go out,\" he continued. \"I mean, every time the citizens of my own community are like, 'What is going on with you?' These people come up. There's some crazies out there. You know, you know this, Tucker, and you bet. Do I think they want me killed? Absolutely.\"\nBovino clarified that he does not believe Trump is behind the alleged effort. Instead, he blamed the administration's \"hellacious gatekeepers,\" specifically naming Border Czar Tom Homan.\n\"This is absurd,\" White House spokesperson Lauren Bis told The Independent. \"Tom Homan is an American patriot and career law enforcement officer with decades of experience effectively protecting American communities and deporting illegal aliens.\"\nA White House official said that Homan does not get involved with security matters regarding former or current DHS officials.\nElsewhere in the interview, Bovino said believes forces within the Trump administration are opposed to carrying out the mass deportation campaign the president had promised - which he claimed is not actually underway.\nHe also asserted, without offering evidence, that 105 million undocumented immigrants are currently living in the U.S., a figure that would represent nearly one in three people in the country.\nAccording to the U.S. Census, there are about 50 million immigrants in the country. As of 2023, there were an estimated 14 million illegal immigrants living in the U.S., according to the Pew Research Center.\nThe Independent has contacted DHS for comment.",
+ "new_text": "A former Border Patrol official who helped spearhead President Donald Trump's immigration crackdown has claimed the administration now wants him dead.\nGregory Bovino made the explosive allegation during a lengthy interview with conservative podcaster Tucker Carlson, released Wednesday night.\n\"Do I think they want me killed? Absolutely,\" Bovino told Carlson during the interview, which has been viewed two million times on X alone. The White House has labeled his comments \"absurd.\"\nBovino, 56, was one of the most prominent figures associated with Trump's hard-line immigration agenda. As a Border Patrol commander-at-large, he helped lead enforcement operations in Minnesota and became known for aggressive measures, including firing tear gas at protesters - a tactic that has prompted legal scrutiny.\nHe left his post in January, after federal agents shot and killed two American citizens in Minnesota, incidents that triggered growing opposition to the administration's immigration enforcement approach, polls show. Bovino retired from federal service several months later.\nTrump has distanced himself from Bovino, describing him in January as \"a pretty out there kind of guy.\" The president later called for a \"softer touch\" on immigration.\nDuring his interview with Carlson - who has also broken with the administration - Bovino claimed that his security detail was withdrawn as soon as he left government, despite what he described as an onslaught of death threats.\nHe said he believed the protection had been removed as part of an effort to \"silence him.\"\n\"Silence you, like get you killed? Because that's what it sounds like,\" Carlson said.\n\"Do I think they want me dead? At this point yes,\" Bovino replied.\n\"I'm in a running battle every time I go out,\" he continued. \"I mean, every time the citizens of my own community are like, 'What is going on with you?' These people come up. There's some crazies out there. You know, you know this, Tucker, and you bet. Do I think they want me killed? Absolutely.\"\nBovino clarified that he does not believe Trump is behind the alleged effort. Instead, he blamed the administration's \"hellacious gatekeepers,\" specifically naming Border Czar Tom Homan.\n\"This is absurd,\" White House spokesperson Lauren Bis told The Independent. \"Tom Homan is an American patriot and career law enforcement officer with decades of experience effectively protecting American communities and deporting illegal aliens.\"\nA White House official said that Homan does not get involved with security matters regarding former or current DHS officials.\n\"Federal security details are provided to designated officials while they are serving in government,\" a DHS spokesperson told The Independent. \"Once an individual leaves federal service, that protection ends. This is not a matter of policy or discretion; it is the law. As a private citizen, the individual is responsible for arranging and paying for their own security, just like other former federal officials.\"\nElsewhere in the interview, Bovino said believes forces within the Trump administration are opposed to carrying out the mass deportation campaign the president had promised - which he claimed is not actually underway.\nHe also asserted, without offering evidence, that 105 million undocumented immigrants are currently living in the U.S., a figure that would represent nearly one in three people in the country.\nAccording to the U.S. Census, there are about 50 million immigrants in the country. As of 2023, there were an estimated 14 million illegal immigrants living in the U.S., according to the Pew Research Center.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "not get involved with security matters regarding former or current DHS officials."
+    ],
+    [
+     "ins",
+     "\"Federal security details are provided to designated officials while they are serving in government,\" a DHS spokesperson told The Independent. \"Once an individual leaves federal service, that protection ends. This is not a matter of policy or discretion; it is the law. As a private citizen, the individual is responsible for arranging and paying for their own security, just like other former federal officials.\""
+    ],
+    [
+     "eq",
+     "Elsewhere in the interview, Bovino said believes forces within the Trump administration"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "illegal immigrants living in the U.S., according to the Pew Research Center."
+    ],
+    [
+     "del",
+     "The Independent has contacted DHS for comment."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.14,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

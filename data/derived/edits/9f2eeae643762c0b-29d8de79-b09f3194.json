@@ -1,0 +1,68 @@
+{
+ "id": "9f2eeae643762c0b-29d8de79-b09f3194",
+ "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-08-28T18:35:50Z",
+ "date": "2026-08-28",
+ "old_title": "Nepal-Tibet floods: Survivors describe horror of loved ones being swept away",
+ "new_title": "Nepal-Tibet floods: Survivors describe horror of loved ones being swept away",
+ "old_text": "- Published\nSurvivors of massive flash floods in Nepal have recounted how they saw their loved ones disappear into torrents of mud.\nMore than 175 people have died and 800 others are missing after floods wiped out entire villages on the border of Nepal and Tibet on Wednesday, with a force so powerful seismologists initially identified it as an earthquake.\nRescuers trudged through thick mud and debris on Thursday as Nepalese authorities rushed to bring aid and relief supplies to the affected areas.\n\"My family members were swept away by the flood in front of my eyes,\" Kalpana Malla from Nepal's Nuwakot district told the BBC.\nMalla said her father, mother, sister and sister's children were all claimed by the disaster.\n\"They could not escape the flood; there was no chance at all,\" she said. \"This flood took everything, but my son and I climbed the rooftop of a house and survived but couldn't explain how.\"\nHer son, Sugam Malla, said he saved his mother by pulling her hand.\nHe said he had given his phone to his sister so she could keep in touch, but the mobile was no longer reachable.\n\"I am worried she must be swept away.\"\nAnother woman, Goma Pandit, said she had lost her buffaloes and all her other cattle.\n\"My farmland is also swept away. Ten sacks of mustard seeds, tons of corn and rice paddy are all gone. Nothing is left.\"\nAt Kathmandu's TU Teaching Hospital, families of those missing in the floods wait anxiously for updates.\nHolding up her phone, Ram Khumari Shrestha says: \"This is my husband. He was off to Rasuwa as a part of his driving job. He was in contact with me until 8 pm yesterday.\n\"But I couldn't call him this morning. The phone was switched off,\" she told the BBC.\nMani Shrestha Bishwa was also camped out at the hospital on Wednesday night, hoping to hear from his younger brother, cousin, uncle and friend.\n\"I last contacted them at 8:30 in the morning,\" he said.\nTrekking guide Sonam Dorjee missed the flood in his home village of Rasiwa Syafru by about an hour. He had left at 08:00 local time.\nAs he was driving to Kathmandu, Dorjee told the BBC he had heard the sound of floods gushing into their village.\n\"It [sounded] like an earthquake,\" he said. \"My house has collapsed... I have seen a photo.\"\nDorjee said his sister, Dechen Tamang, was missing, along with her husband and several other family members.\nHe described the flood as \"sudden and devastating\".\n\"Many survivors are now left without homes and they need emergency rescue and evacuation, as well as food, temporary accommodation and medical support.\"\nHe is praying his sister is found alive. \"There is a 10% chance, we hope,\" he said.",
+ "new_text": "- Published\nSurvivors of massive flash floods in Nepal have recounted how they saw their loved ones disappear into torrents of mud.\nAt least 469 people have died and several hundred others are missing after floods wiped out entire villages on the border of Nepal and Tibet on Wednesday, with a force so powerful seismologists initially identified it as an earthquake.\nRescuers trudged through thick mud and debris on Thursday as Nepalese authorities rushed to bring aid and relief supplies to the affected areas.\n\"My family members were swept away by the flood in front of my eyes,\" Kalpana Malla from Nepal's Nuwakot district told the BBC.\nMalla said her father, mother, sister and sister's children were all claimed by the disaster.\n\"They could not escape the flood; there was no chance at all,\" she said. \"This flood took everything, but my son and I climbed the rooftop of a house and survived but couldn't explain how.\"\nHer son, Sugam Malla, said he saved his mother by pulling her hand.\nHe said he had given his phone to his sister so she could keep in touch, but the mobile was no longer reachable.\n\"I am worried she must be swept away.\"\nAnother woman, Goma Pandit, said she had lost her buffaloes and all her other cattle.\n\"My farmland is also swept away. Ten sacks of mustard seeds, tons of corn and rice paddy are all gone. Nothing is left.\"\nAt Kathmandu's TU Teaching Hospital, families of those missing in the floods wait anxiously for updates.\nHolding up her phone, Ram Khumari Shrestha says: \"This is my husband. He was off to Rasuwa as a part of his driving job. He was in contact with me until 8 pm yesterday.\n\"But I couldn't call him this morning. The phone was switched off,\" she told the BBC.\nMani Shrestha Bishwa was also camped out at the hospital on Wednesday night, hoping to hear from his younger brother, cousin, uncle and friend.\n\"I last contacted them at 8:30 in the morning,\" he said.\nTrekking guide Sonam Dorjee missed the flood in his home village of Rasiwa Syafru by about an hour. He had left at 08:00 local time.\nAs he was driving to Kathmandu, Dorjee told the BBC he had heard the sound of floods gushing into their village.\n\"It [sounded] like an earthquake,\" he said. \"My house has collapsed... I have seen a photo.\"\nDorjee said his sister, Dechen Tamang, was missing, along with her husband and several other family members.\nHe described the flood as \"sudden and devastating\".\n\"Many survivors are now left without homes and they need emergency rescue and evacuation, as well as food, temporary accommodation and medical support.\"\nHe is praying his sister is found alive. \"There is a 10% chance, we hope,\" he said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "recounted how they saw their loved ones disappear into torrents of mud."
+    ],
+    [
+     "del",
+     "More than 175"
+    ],
+    [
+     "ins",
+     "At least 469"
+    ],
+    [
+     "eq",
+     "people have died and"
+    ],
+    [
+     "del",
+     "800"
+    ],
+    [
+     "ins",
+     "several hundred"
+    ],
+    [
+     "eq",
+     "others are missing after floods wiped out entire villages on the border"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0193,
+  "numbers_changed": [
+   "175",
+   "469",
+   "800"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9899,
+ "adjudicated_by": "rules"
+}

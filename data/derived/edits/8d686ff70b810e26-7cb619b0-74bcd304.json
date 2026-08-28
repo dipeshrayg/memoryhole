@@ -1,0 +1,48 @@
+{
+ "id": "8d686ff70b810e26-7cb619b0-74bcd304",
+ "url": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-28T18:24:39Z",
+ "date": "2026-08-28",
+ "old_title": "Nepal-Tibet: Tracing the deadly path of the flood",
+ "new_title": "Nepal-Tibet: Tracing the deadly path of the flood",
+ "old_text": "Tracing the deadly path of the Nepal-Tibet flash flood\nFloods have devastated the Nepal-Tibet border region which have destroyed towns and swept away bridges.\nHundreds of people have been reported dead and hundreds more missing.\nBBC Verify has traced the path of the deadly flash flood using verified videos and satellite imagery. Merlyn Thomas reports.\nProduced by Aisha Sembhi. Graphics by Mesut Ersoz. Verification by Emma Pengelly, Paul Brown, Charlotte Green, Shayan Sardarizadeh, Yi Ma and Benedict Garman.",
+ "new_text": "Tracing the deadly path of the Nepal-Tibet flash flood\nFloods have devastated the Nepal-Tibet border region which have destroyed towns and swept away bridges.\nHundreds of people have been reported dead and hundreds more missing.\nBBC Verify has traced the path of the deadly flash flood using verified videos and satellite imagery. Merlyn Thomas reports.\nProduced by Aisha Sembhi. Graphics by Mesut Ersoz. Verification by Emma Pengelly, Paul Brown, Charlotte Green, Shayan Sardarizadeh, Shruti Menon, Yi Ma and Benedict Garman.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Mesut Ersoz. Verification by Emma Pengelly, Paul Brown, Charlotte Green, Shayan Sardarizadeh,"
+    ],
+    [
+     "ins",
+     "Shruti Menon,"
+    ],
+    [
+     "eq",
+     "Yi Ma and Benedict Garman."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0256,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.999,
+ "adjudicated_by": "rules"
+}
