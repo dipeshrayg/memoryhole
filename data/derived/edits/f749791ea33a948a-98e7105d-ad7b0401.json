@@ -1,0 +1,160 @@
+{
+ "id": "f749791ea33a948a-98e7105d-ad7b0401",
+ "url": "https://www.dw.com/en/niger-s-defense-ministry-says-soldiers-attempted-mutiny/a-78554001?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-30T11:38:45Z",
+ "date": "2026-08-30",
+ "old_title": "Niger's defense ministry says soldiers attempted mutiny",
+ "new_title": "Niger's defense ministry says soldiers attempted mutiny",
+ "old_text": "Niger's Ministry of National Defense on Saturday said that a group of soldiers shot at \"sensitive\" locations in the capital Niamey in an apparent mutiny.\nGunfire and explosions had been heard across Niger's capital, Niamey, overnight into the early hours of Saturday morning.\nAttackers had targeted Diori Hamani International Airport, which also houses a military air base, and attempted to breach the security perimeter around the presidency.\n\"Another cowardly attack on Base 101 and once again our defense and security forces ensured ... Situation under control,\" said lawmaker Bana Wagana Ibrahim, who serves on the Consultative Council.\nNiger military 'gradually regaining control'\nThe military said it was \"gradually regaining control\" after mutineers took soldiers hostage at a base near the airport in Niamey, AFP news agency reported.\nAuthorities urged the public to \"remain calm and freely go about their business\" in a statement read out on public television and signed by Defense Minister General Salifou Mody.\nThe attack posed the latest threat to Niger's military junta, led by Abdourahamane Tchiani, who seized power in a 2023 coup.\nNiger, like its Sahelian neighbors Mali and Burkina Faso, has for years been ruled by a military junta that has struggled to stem a jihadi insurgency.\nNational TV signal reportedly cut after gunfire\nThe shooting began around 1 a.m. local time (0000 GMT) and continued until daybreak.\nLocals said that the country's national television had gone off air.\nTele Sahel's satellite and online programming was replaced with a black screen at 9 a.m. local time (0800 GMT), AFP reported. It was restored around one hour later.\nNiamey has been targeted by jihadists twice this year: once by the so-called \"Islamic State in the Sahel\" group (EIS) and again in June by their rivals from the Group for the Support of Islam and Muslims (JNIM).\nEdited by: Sean Sinico, Dmytro Hubenko and Wesley Dockery\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "Niger's Ministry of National Defense on Saturday said a group of soldiers shot at \"sensitive\" locations in Niamey in an apparent mutiny.\nGunfire and explosions had been heard across Niger's capital in the early hours of Saturday morning.\nAttackers had targeted Diori Hamani International Airport, which also houses a military air base.\nThey also attempted to breach the presidential palace, althoughthe presidential guard was able to push the attackers back.\n\"Another cowardly attack on Base 101 and once again our defense and security forces ensured ... Situation under control,\" said lawmaker Bana Wagana Ibrahim, who serves on the Consultative Council.\nState broadcaster RTN said dozens of rebelling soldiers were arrested or killed.\n\"The fighting lasted a few hours in several places, which allowed [security forces] to gradually control the situation, arrest and incapacitate these moody soldiers,\" the broadcaster said.\nNiger military 'gradually regaining control'\nThe situation remained tense on Saturday evening as some mutineers remained camped out near the airport. The whereabouts of the leader of Niger's military junta Abdourahamane Tchiani, remained unclear.\nThe military said it was \"gradually regaining control\" after mutineers took soldiers hostage at a base near the airport in Niamey, AFP news agency reported.\nAuthorities urged the public to \"remain calm and freely go about their business\" in a statement read out on public television and signed by Defense Minister General Salifou Mody.\nThe attack posed the latest threat to Niger's military junta, led by Tchiani, who seized power in a 2023 coup.\nNiger, like its Sahelian neighbors Mali and Burkina Faso, has for years been ruled by a military junta that has struggled to stem a jihadi insurgency.\nJunta requests support from Russia's Africa Corps\nRussia's ambassador to Niger, Viktor Voropayev, told Russian media that the junta requested assistance from Russia's Africa Corps to help suppress the mutiny.\nThe Africa Corps is based in the same Niamey airport that was attacked by the rebelling soldiers.\nNiger's northern neighbor Algeria, meanwhile, offered its \"full solidarity and firm support, with a view to overcoming this ordeal and promoting a rapid return to stability.\"\nNational TV signal reportedly cut after gunfire\nThe shooting began around 1 a.m. local time (0000 GMT) and continued until daybreak.\nLocals said that the country's national television had gone off air.\nTele Sahel's satellite and online programming was replaced with a black screen at 9 a.m. local time (0800 GMT), AFP reported. It was restored around one hour later.\nNiamey has been targeted by jihadists twice this year: once by the so-called \"Islamic State in the Sahel\" group (EIS) and again in June by their rivals from the Group for the Support of Islam and Muslims (JNIM).\nEdited by: Sean Sinico, Dmytro Hubenko and Wesley Dockery\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Niger's Ministry of National Defense on Saturday said"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "eq",
+     "a group of soldiers shot at \"sensitive\" locations in"
+    ],
+    [
+     "del",
+     "the capital"
+    ],
+    [
+     "eq",
+     "Niamey in an apparent mutiny. Gunfire and explosions had been heard across Niger's"
+    ],
+    [
+     "del",
+     "capital, Niamey, overnight into"
+    ],
+    [
+     "ins",
+     "capital in"
+    ],
+    [
+     "eq",
+     "the early hours of Saturday morning. Attackers had targeted Diori Hamani International Airport, which also houses a military air"
+    ],
+    [
+     "del",
+     "base, and"
+    ],
+    [
+     "ins",
+     "base. They also"
+    ],
+    [
+     "eq",
+     "attempted to breach the"
+    ],
+    [
+     "del",
+     "security perimeter around"
+    ],
+    [
+     "ins",
+     "presidential palace, althoughthe presidential guard was able to push"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "presidency."
+    ],
+    [
+     "ins",
+     "attackers back."
+    ],
+    [
+     "eq",
+     "\"Another cowardly attack on Base 101 and once again our defense and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "control,\" said lawmaker Bana Wagana Ibrahim, who serves on the Consultative Council."
+    ],
+    [
+     "ins",
+     "State broadcaster RTN said dozens of rebelling soldiers were arrested or killed. \"The fighting lasted a few hours in several places, which allowed [security forces] to gradually control the situation, arrest and incapacitate these moody soldiers,\" the broadcaster said."
+    ],
+    [
+     "eq",
+     "Niger military 'gradually regaining control'"
+    ],
+    [
+     "ins",
+     "The situation remained tense on Saturday evening as some mutineers remained camped out near the airport. The whereabouts of the leader of Niger's military junta Abdourahamane Tchiani, remained unclear."
+    ],
+    [
+     "eq",
+     "The military said it was \"gradually regaining control\" after mutineers took soldiers"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "The attack posed the latest threat to Niger's military junta, led by"
+    ],
+    [
+     "del",
+     "Abdourahamane"
+    ],
+    [
+     "eq",
+     "Tchiani, who seized power in a 2023 coup. Niger, like its Sahelian"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "by a military junta that has struggled to stem a jihadi insurgency."
+    ],
+    [
+     "ins",
+     "Junta requests support from Russia's Africa Corps Russia's ambassador to Niger, Viktor Voropayev, told Russian media that the junta requested assistance from Russia's Africa Corps to help suppress the mutiny. The Africa Corps is based in the same Niamey airport that was attacked by the rebelling soldiers. Niger's northern neighbor Algeria, meanwhile, offered its \"full solidarity and firm support, with a view to overcoming this ordeal and promoting a rapid return to stability.\""
+    ],
+    [
+     "eq",
+     "National TV signal reportedly cut after gunfire The shooting began around 1"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4886,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.326,
+ "similarity": 0.899,
+ "adjudicated_by": "rules"
+}

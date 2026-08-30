@@ -1,0 +1,687 @@
+{
+ "id": "c7e2e74fc2d5a4e2-851eb231-28d9c784",
+ "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-08-30T11:46:22Z",
+ "date": "2026-08-30",
+ "old_title": "UK weather: Strong winds and more thunderstorms to kick off the bank holiday weekend",
+ "new_title": "UK weather: Strong winds and more thunderstorms to kick off the bank holiday weekend",
+ "old_text": "- Published\nAfter weeks of scorching heat and drought the summer's swan song is set to be one of frequent downpours as well as gales for some.\nAreas of heavy rain and showers are expected to sweep across parts of the UK on each day of the weekend, which is a bank holiday for many.\nThis could make for some soggy moments at many of the festivals taking place over the coming days.\nStrong winds and gales may also cause problems for travellers and holidaymakers in southern parts of the UK.\nWill it rain everywhere this weekend?\nLet us start with the good news - for many of us it won't be a complete washout of a weekend. It is certainly worth looking deeper into your weather app forecasts to see the hourly breakdown as showers can sometimes be tricky to forecast.\nMost areas will still see some drier and sunnier moments through the three days, with parts of north and west Scotland perhaps seeing very little rainfall at all. During the sunnier spells the late August sunshine still has enough strength to make it feels reasonably warm too.\nHowever, on Saturday the forecast shows several zones of heavy showers sweeping across England and Wales especially. Like recent days some of these could be torrential and thundery, especially in the southern half of England and Wales. For northern parts of England the showers are likely to merge into longer spells of rain during the afternoon.\nGiven the downpours already this week, some parts of the Midlands and northern England are more susceptible to the risk of flash flooding.\nA large portion of Scotland and Northern Ireland will stay dry.\nSunday may start dry and bright for many, perhaps with some mist and fog patches in central and northern areas of the UK.\nIt is northern parts this time where there may be some early showers, but through the afternoon another zone of heavy and thundery showers are expected to sweep across the country from the west. For some in East Anglia and south-east England it may stay dry until late in the day.\nSouth-eastern parts of the UK might get lucky again on bank holiday Monday. Scattered showers in the west during the morning will gradually develop more widely through the day, but these shouldn't be as intense as those on the previous two days.\nGusty winds in southern areas\nIf bouts of rain wasn't enough, parts of southern England and Wales will be buffeted by strong winds at times too. This may make travel and camping a challenge at times.\nThe strongest winds of the weekend are expected on Saturday across southern counties of England and Wales as well as the Channel Islands. Some hills and coasts could experience gusts of 40 to 50mph.\nMonday will be a blustery day more widely across the UK, but again it will be southern areas seeing the strongest gusts - generally 30-40mph.\nThis will make for a cooler feeling spell of weather at times. Throughout the weekend temperatures across the UK will be around 15 to 22 Celsius, a shade below the average for the time of year.\nWith numerous festivals on this weekend, including Reading and Leeds, Creamfields and the Notting Hill Carnival it is worth keeping across the forecast. Should any weather warnings be issued you can find them on your BBC Weather app or on our website.",
+ "new_text": "- Published\nAfter weeks of scorching heat and drought, summer's swan song is looking increasingly unsettled, with further heavy downpours and strong winds still on the way for some.\nHeavy rain and showers have already affected parts of the UK this weekend, and there's more unsettled weather to come through Sunday and into Bank Holiday Monday, although there will also be some drier and brighter spells.\nThis could still make for some soggy moments at festivals and outdoor events taking place on Sunday and into Bank Holiday Monday.\nStrong winds could also cause some disruption for travellers and holidaymakers, particularly across southern parts of the UK, with some exposed coastal areas seeing gusty conditions.\nLet's start with the good news â for many of us, there's still no need to write off the rest of the bank holiday weekend. It's certainly worth checking the hourly breakdown on your weather app, as showers can be tricky to forecast and conditions could change quite quickly through the day.\nMost areas will still see some drier and sunnier moments, with parts of northern and western Scotland perhaps seeing very little rainfall at all.\nDuring the sunnier spells, the late-August sunshine still has enough strength to make it feel reasonably warm too.\nWill it rain everywhere for the rest of the bank holiday weekend?\nAfter a quiet start to the day on Sunday, a zone of heavy and potentially thundery showers are expected to develop widely and will sweep eastwards from the west.\nThe Met Office have issued yellow thunderstorm warnings across large parts of the UK for Sunday.\nLooking ahead to Bank Holiday Monday, south-eastern parts could once again see some of the best conditions. There'll be scattered showers in the west during the morning, gradually spreading eastwards through the day, but they're not expected to be as intense as those seen over the weekend.\nGusty winds in southern areas\nIf bouts of rain wasn't enough, parts of southern England and Wales will continue to be buffeted by strong winds at times too. This may make travel and camping a challenge at times.\nSunday will see stronger winds across southern areas of England and Wales as low pressure slowly crosses the country.\nMonday will be a blustery day more widely across the UK, but again it will be southern areas seeing the strongest gusts - generally 30-40mph.\nThis will make for a cooler feeling spell of weather at times. Temperatures across the UK will be around 15 to 22 Celsius, a shade below the average for the time of year.\nWith numerous festivals on this weekend, including Reading and Leeds, Creamfields and the Notting Hill Carnival it is worth keeping across the forecast.\nShould any further weather warnings be issued, or existing ones updated, you'll find the latest information on the BBC Weather app or our website.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published After weeks of scorching heat and"
+    ],
+    [
+     "del",
+     "drought the"
+    ],
+    [
+     "ins",
+     "drought,"
+    ],
+    [
+     "eq",
+     "summer's swan song is"
+    ],
+    [
+     "del",
+     "set to be one of frequent"
+    ],
+    [
+     "ins",
+     "looking increasingly unsettled, with further heavy"
+    ],
+    [
+     "eq",
+     "downpours"
+    ],
+    [
+     "del",
+     "as well as gales"
+    ],
+    [
+     "ins",
+     "and strong winds still on the way"
+    ],
+    [
+     "eq",
+     "for some."
+    ],
+    [
+     "del",
+     "Areas of heavy"
+    ],
+    [
+     "ins",
+     "Heavy"
+    ],
+    [
+     "eq",
+     "rain and showers"
+    ],
+    [
+     "del",
+     "are expected to sweep across"
+    ],
+    [
+     "ins",
+     "have already affected"
+    ],
+    [
+     "eq",
+     "parts of the UK"
+    ],
+    [
+     "del",
+     "on each day of the"
+    ],
+    [
+     "ins",
+     "this"
+    ],
+    [
+     "eq",
+     "weekend,"
+    ],
+    [
+     "del",
+     "which is a bank holiday for many."
+    ],
+    [
+     "ins",
+     "and there's more unsettled weather to come through Sunday and into Bank Holiday Monday, although there will also be some drier and brighter spells."
+    ],
+    [
+     "eq",
+     "This could"
+    ],
+    [
+     "ins",
+     "still"
+    ],
+    [
+     "eq",
+     "make for some soggy moments at"
+    ],
+    [
+     "del",
+     "many of the"
+    ],
+    [
+     "eq",
+     "festivals"
+    ],
+    [
+     "ins",
+     "and outdoor events"
+    ],
+    [
+     "eq",
+     "taking place"
+    ],
+    [
+     "del",
+     "over the coming days."
+    ],
+    [
+     "ins",
+     "on Sunday and into Bank Holiday Monday."
+    ],
+    [
+     "eq",
+     "Strong winds"
+    ],
+    [
+     "del",
+     "and gales may"
+    ],
+    [
+     "ins",
+     "could"
+    ],
+    [
+     "eq",
+     "also cause"
+    ],
+    [
+     "del",
+     "problems"
+    ],
+    [
+     "ins",
+     "some disruption"
+    ],
+    [
+     "eq",
+     "for travellers and"
+    ],
+    [
+     "del",
+     "holidaymakers in"
+    ],
+    [
+     "ins",
+     "holidaymakers, particularly across"
+    ],
+    [
+     "eq",
+     "southern parts of the"
+    ],
+    [
+     "del",
+     "UK. Will it rain everywhere this weekend? Let us"
+    ],
+    [
+     "ins",
+     "UK, with some exposed coastal areas seeing gusty conditions. Let's"
+    ],
+    [
+     "eq",
+     "start with the good news"
+    ],
+    [
+     "del",
+     "-"
+    ],
+    [
+     "ins",
+     "â"
+    ],
+    [
+     "eq",
+     "for many of"
+    ],
+    [
+     "del",
+     "us it won't be a complete washout"
+    ],
+    [
+     "ins",
+     "us, there's still no need to write off the rest"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "a"
+    ],
+    [
+     "ins",
+     "the bank holiday"
+    ],
+    [
+     "eq",
+     "weekend."
+    ],
+    [
+     "del",
+     "It is"
+    ],
+    [
+     "ins",
+     "It's"
+    ],
+    [
+     "eq",
+     "certainly worth"
+    ],
+    [
+     "del",
+     "looking deeper into your weather app forecasts to see"
+    ],
+    [
+     "ins",
+     "checking"
+    ],
+    [
+     "eq",
+     "the hourly breakdown"
+    ],
+    [
+     "ins",
+     "on your weather app,"
+    ],
+    [
+     "eq",
+     "as showers can"
+    ],
+    [
+     "del",
+     "sometimes"
+    ],
+    [
+     "eq",
+     "be tricky to"
+    ],
+    [
+     "del",
+     "forecast."
+    ],
+    [
+     "ins",
+     "forecast and conditions could change quite quickly through the day."
+    ],
+    [
+     "eq",
+     "Most areas will still see some drier and sunnier"
+    ],
+    [
+     "del",
+     "moments through the three days,"
+    ],
+    [
+     "ins",
+     "moments,"
+    ],
+    [
+     "eq",
+     "with parts of"
+    ],
+    [
+     "del",
+     "north"
+    ],
+    [
+     "ins",
+     "northern"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "west"
+    ],
+    [
+     "ins",
+     "western"
+    ],
+    [
+     "eq",
+     "Scotland perhaps seeing very little rainfall at all. During the sunnier"
+    ],
+    [
+     "del",
+     "spells"
+    ],
+    [
+     "ins",
+     "spells,"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "late August"
+    ],
+    [
+     "ins",
+     "late-August"
+    ],
+    [
+     "eq",
+     "sunshine still has enough strength to make it"
+    ],
+    [
+     "del",
+     "feels"
+    ],
+    [
+     "ins",
+     "feel"
+    ],
+    [
+     "eq",
+     "reasonably warm too."
+    ],
+    [
+     "del",
+     "However, on Saturday"
+    ],
+    [
+     "ins",
+     "Will it rain everywhere for"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "forecast shows several zones of heavy showers sweeping across England and Wales especially. Like recent days some of these could be torrential and thundery, especially in the southern half of England and Wales. For northern parts of England the showers are likely to merge into longer spells of rain during the afternoon. Given the downpours already this week, some parts"
+    ],
+    [
+     "ins",
+     "rest"
+    ],
+    [
+     "eq",
+     "of the"
+    ],
+    [
+     "del",
+     "Midlands and northern England are more susceptible"
+    ],
+    [
+     "ins",
+     "bank holiday weekend? After a quiet start"
+    ],
+    [
+     "eq",
+     "to the"
+    ],
+    [
+     "del",
+     "risk of flash flooding. A large portion of Scotland and Northern Ireland will stay dry. Sunday may start dry and bright for many, perhaps with some mist and fog patches in central and northern areas of the UK. It is northern parts this time where there may be some early showers, but through the afternoon another"
+    ],
+    [
+     "ins",
+     "day on Sunday, a"
+    ],
+    [
+     "eq",
+     "zone of heavy and"
+    ],
+    [
+     "ins",
+     "potentially"
+    ],
+    [
+     "eq",
+     "thundery showers are expected to"
+    ],
+    [
+     "ins",
+     "develop widely and will"
+    ],
+    [
+     "eq",
+     "sweep"
+    ],
+    [
+     "del",
+     "across the country"
+    ],
+    [
+     "ins",
+     "eastwards"
+    ],
+    [
+     "eq",
+     "from the west."
+    ],
+    [
+     "del",
+     "For some in East Anglia and south-east England it may stay dry until late in the day. South-eastern"
+    ],
+    [
+     "ins",
+     "The Met Office have issued yellow thunderstorm warnings across large"
+    ],
+    [
+     "eq",
+     "parts of the UK"
+    ],
+    [
+     "del",
+     "might get lucky"
+    ],
+    [
+     "ins",
+     "for Sunday. Looking ahead to Bank Holiday Monday, south-eastern parts could once"
+    ],
+    [
+     "eq",
+     "again"
+    ],
+    [
+     "del",
+     "on bank holiday Monday. Scattered"
+    ],
+    [
+     "ins",
+     "see some of the best conditions. There'll be scattered"
+    ],
+    [
+     "eq",
+     "showers in the west during the"
+    ],
+    [
+     "del",
+     "morning will"
+    ],
+    [
+     "ins",
+     "morning,"
+    ],
+    [
+     "eq",
+     "gradually"
+    ],
+    [
+     "del",
+     "develop more widely"
+    ],
+    [
+     "ins",
+     "spreading eastwards"
+    ],
+    [
+     "eq",
+     "through the day, but"
+    ],
+    [
+     "del",
+     "these shouldn't"
+    ],
+    [
+     "ins",
+     "they're not expected to"
+    ],
+    [
+     "eq",
+     "be as intense as those"
+    ],
+    [
+     "del",
+     "on"
+    ],
+    [
+     "ins",
+     "seen over"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "previous two days."
+    ],
+    [
+     "ins",
+     "weekend."
+    ],
+    [
+     "eq",
+     "Gusty winds in southern areas If bouts of rain wasn't enough, parts of southern England and Wales will"
+    ],
+    [
+     "ins",
+     "continue to"
+    ],
+    [
+     "eq",
+     "be buffeted by strong winds at times too. This may make travel and camping a challenge at times."
+    ],
+    [
+     "del",
+     "The strongest"
+    ],
+    [
+     "ins",
+     "Sunday will see stronger"
+    ],
+    [
+     "eq",
+     "winds"
+    ],
+    [
+     "del",
+     "of the weekend are expected on Saturday"
+    ],
+    [
+     "eq",
+     "across southern"
+    ],
+    [
+     "del",
+     "counties"
+    ],
+    [
+     "ins",
+     "areas"
+    ],
+    [
+     "eq",
+     "of England and Wales as"
+    ],
+    [
+     "del",
+     "well as"
+    ],
+    [
+     "ins",
+     "low pressure slowly crosses"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "Channel Islands. Some hills and coasts could experience gusts of 40 to 50mph."
+    ],
+    [
+     "ins",
+     "country."
+    ],
+    [
+     "eq",
+     "Monday will be a blustery day more widely across the UK, but"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "This will make for a cooler feeling spell of weather at times."
+    ],
+    [
+     "del",
+     "Throughout the weekend temperatures"
+    ],
+    [
+     "ins",
+     "Temperatures"
+    ],
+    [
+     "eq",
+     "across the UK will be around 15 to 22 Celsius, a shade"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Notting Hill Carnival it is worth keeping across the forecast. Should any"
+    ],
+    [
+     "ins",
+     "further"
+    ],
+    [
+     "eq",
+     "weather warnings be"
+    ],
+    [
+     "del",
+     "issued you can"
+    ],
+    [
+     "ins",
+     "issued, or existing ones updated, you'll"
+    ],
+    [
+     "eq",
+     "find"
+    ],
+    [
+     "del",
+     "them"
+    ],
+    [
+     "ins",
+     "the latest information"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "your"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "BBC Weather app or"
+    ],
+    [
+     "del",
+     "on"
+    ],
+    [
+     "eq",
+     "our website."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.8486,
+  "numbers_changed": [
+   "40",
+   "50"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 2,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.534,
+ "similarity": 0.8643,
+ "adjudicated_by": "rules"
+}

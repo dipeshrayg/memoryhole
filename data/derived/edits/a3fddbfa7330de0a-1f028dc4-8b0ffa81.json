@@ -1,0 +1,60 @@
+{
+ "id": "a3fddbfa7330de0a-1f028dc4-8b0ffa81",
+ "url": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-30T11:36:11Z",
+ "date": "2026-08-30",
+ "old_title": "Sarah Ferguson expected back in the UK shortly, source tells BBC",
+ "new_title": "Sarah Ferguson expected back in the UK shortly, source tells BBC",
+ "old_text": "- Published\nThe former Duchess of York is expected \"back in the UK shortly\", a source close to her has told the BBC.\nSarah Ferguson was thought to be living abroad after she was forced to move out of Royal Lodge in Windsor, which she shared with her ex-husband Andrew Mountbatten-Windsor, in October.\nFerguson had last seen in public at the Duchess of Kent's funeral the previous month.\nShe is reportedly renting out a gated property in the Home Counties, according to the Sun newspaper.\nMountbatten-Windsor and Ferguson relinquished their royal titles following increased scrutiny and revelations surrounding their links to disgraced financier and sex offender Jeffrey Epstein.\nFerguson is expected to move into the six-bedroom home \"imminently\", which could be as soon as next week, the Sun reported, external.\nIt is believed she has been spending her time out of the public eye at an Alpine chalet in Verbier, Switzerland, since leaving Royal Lodge. Her belongings were collected from Mountbatten-Windsor's home in Sandringham this week, the newspaper added.\nShe had been keeping a low profile since losing her titles alongside Mountbatten-Windsor after she became mired in the scandal about her connections to Epstein, and faced calls to speak to US authorities after last year's release of millions of documents shed new light on their relationship.\nIn one email exchange from 2011, she appeared to privately apologise for her public rejection of Epstein, saying: \"You have always been a steadfast, generous and supreme friend to me and my family.\"\nA spokesperson for the duchess previously said the email was sent after Epstein had threatened to sue her for defamation - in an effort to convince him not to.\nAnother email suggested Ferguson took her daughters to see Epstein in the US days after he was released from prison for child sex crimes.\nThe emails do not indicate any wrongdoing.\nEpstein was also ultimately the downfall of Mountbatten-Windsor, who was stripped of his titles by the King because of \"serious lapses of judgment\" over his friendship with the late paedophile. Mountbatten-Windsor has always denied any wrongdoing in relation to Epstein.\nFerguson lost her courtesy royal divorcee title and reverted to her maiden name, and also lost the freedom of the city of York after councillors voted unanimously to remove the honour over the scandal.\nHer expected return comes just days after the Duke and Duchess of Sussex came back to Britain with their children to begin a new life after six years living in the US.",
+ "new_text": "- Published\nThe former Duchess of York is expected \"back in the UK shortly\", a source close to her has told the BBC.\nSarah Ferguson was thought to be living abroad after she was forced to move out of Royal Lodge in Windsor, which she shared with her ex-husband Andrew Mountbatten-Windsor, in October.\nFerguson was last seen in public at the Duchess of Kent's funeral the previous month.\nShe is reportedly renting a gated property in the Home Counties, according to the Sun newspaper.\nMountbatten-Windsor and Ferguson relinquished their royal titles following increased scrutiny and revelations surrounding their links to disgraced financier and sex offender Jeffrey Epstein.\nFerguson is expected to move into the six-bedroom home \"imminently\", which could be as soon as next week, the Sun reported, external.\nIt is believed she has been spending her time out of the public eye at an Alpine chalet in Verbier, Switzerland, since leaving Royal Lodge. Her belongings were collected from Mountbatten-Windsor's home in Sandringham this week, the newspaper added.\nShe had been keeping a low profile since losing her titles alongside Mountbatten-Windsor after she became mired in the scandal about her connections to Epstein, and faced calls to speak to US authorities after last year's release of millions of documents shed new light on their relationship.\nIn one email exchange from 2011, she appeared to privately apologise for her public rejection of Epstein, saying: \"You have always been a steadfast, generous and supreme friend to me and my family.\"\nA spokesperson for the duchess previously said the email was sent after Epstein had threatened to sue her for defamation - in an effort to convince him not to.\nAnother email suggested Ferguson took her daughters to see Epstein in the US days after he was released from prison for child sex crimes.\nThe emails do not indicate any wrongdoing.\nEpstein was also ultimately the downfall of Mountbatten-Windsor, who was stripped of his titles by the King because of \"serious lapses of judgment\" over his friendship with the late paedophile. Mountbatten-Windsor has always denied any wrongdoing in relation to Epstein.\nFerguson lost her courtesy royal divorcee title and reverted to her maiden name, and also lost the freedom of the city of York after councillors voted unanimously to remove the honour over the scandal.\nHer expected return comes just days after the Duke and Duchess of Sussex came back to Britain with their children to begin a new life after six years living in the US.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Windsor, which she shared with her ex-husband Andrew Mountbatten-Windsor, in October. Ferguson"
+    ],
+    [
+     "del",
+     "had"
+    ],
+    [
+     "ins",
+     "was"
+    ],
+    [
+     "eq",
+     "last seen in public at the Duchess of Kent's funeral the previous month. She is reportedly renting"
+    ],
+    [
+     "del",
+     "out"
+    ],
+    [
+     "eq",
+     "a gated property in the Home Counties, according to the Sun newspaper."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0072,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9975,
+ "adjudicated_by": "rules"
+}

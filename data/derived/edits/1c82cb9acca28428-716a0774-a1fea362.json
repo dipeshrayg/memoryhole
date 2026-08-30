@@ -1,0 +1,76 @@
+{
+ "id": "1c82cb9acca28428-716a0774-a1fea362",
+ "url": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-08-30T11:47:22Z",
+ "date": "2026-08-30",
+ "old_title": "Harrison Armstrong: Nottingham Forest bid Â£40m for Everton teenager",
+ "new_title": "Harrison Armstrong: Nottingham Forest bid Â£40m for Everton teenager",
+ "old_text": "- Published\nNottingham Forest have launched an ambitious bid to sign Everton's teenage midfielder Harrison Armstrong.\nForest are keen to strengthen before the end of the transfer window and, as reported by The Athletic, are preparing to offer Â£40m plus a potential sell-on clause to clinch a deal for Armstrong.\nIt would be a major surprise should Everton sanction a deal, but there is hope at Forest that they can pull off the move to prise away the elegant England under-19 star, who is regarded as having a big future ahead of him.\nArmstrong, 19, has made 23 appearances for Everton and started in their 2-0 Premier League win against Crystal Palace last week.\nAs yet, there are no indications as to whether Everton will agree to sell.\nThe England Under-19 international is part of the travelling Everton squad for Saturday's Premier League match against Bournemouth (15:00 BST).\nLosing Armstrong would be hard for fans to stomach - analysis\nThe Friedkin Group, Everton's American owners, will be risking the fury of their own fanbase should they agree to the sale of Harrison Armstrong to Nottingham Forest.\nThe notion that Everton could even consider parting with Armstrong sparked an instant reaction of disbelief and anger among supporters, with the teenager regarded as their brightest home-grown prospect for years and a big hope for the future.\nAs yet, there are no indications that Everton will accept an offer, but Forest's interest is real, although it would be a real coup should they pull it off.\nIt would also send out worrying signals about the scale of TFG's ambitions.\nManager David Moyes has been frustrated by the club's lack of incoming transfer activity this summer.\nMoyes made it abundantly clear after Wednesday's 4-0 Carabao Cup second-round win at Championship side Preston that he wanted reinforcements.\nHis hope was that TFG would provide backing for further arrivals.\nSince then, however, Everton's main creator Iliman Ndiaye has been heavily linked with Manchester City, and now Forest are ready to test their resolve over Armstrong.\nHow Moyes would view, or indeed explain, such a sale, would be intriguing. It would appear totally at odds with his stated intention of building a better squad.\nAnd while Everton and their support may have to accept their prize assets being spirited away by clubs such as Manchester City, the idea that their most promising young player could be taken away by Nottingham Forest â a club they would be expecting to challenge or even surpass â may be harder to stomach.\nThat is why the manner in which Everton handle Forest's approach for Armstrong, who has already excelled this season, may be a defining moment for TFG and Moyes.",
+ "new_text": "- Published\nNottingham Forest have launched an ambitious bid to sign Everton's teenage midfielder Harrison Armstrong.\nForest are keen to strengthen before the end of the transfer window and, as reported by The Athletic, are preparing to offer Â£40m plus a potential sell-on clause to clinch a deal for Armstrong.\nIt would be a major surprise should Everton sanction a deal, but there is hope at Forest that they can pull off the move to prise away the elegant England under-19 star, who is regarded as having a big future ahead of him.\nArmstrong, 19, has made 23 appearances for Everton and started in their 2-0 Premier League win against Crystal Palace last week.\nAs yet, there are no indications as to whether Everton will agree to sell.\nThe England Under-19 international was named in the starting XI for Saturday's Premier League match at Bournemouth (15:00 BST).\nLosing Armstrong would be hard for fans to stomach - analysis\nThe Friedkin Group, Everton's American owners, will be risking the fury of their own fanbase should they agree to the sale of Harrison Armstrong to Nottingham Forest.\nThe notion that Everton could even consider parting with Armstrong sparked an instant reaction of disbelief and anger among supporters, with the teenager regarded as their brightest home-grown prospect for years and a big hope for the future.\nAs yet, there are no indications that Everton will accept an offer, but Forest's interest is real, although it would be a real coup should they pull it off.\nIt would also send out worrying signals about the scale of TFG's ambitions.\nManager David Moyes has been frustrated by the club's lack of incoming transfer activity this summer.\nMoyes made it abundantly clear after Wednesday's 4-0 Carabao Cup second-round win at Championship side Preston that he wanted reinforcements.\nHis hope was that TFG would provide backing for further arrivals.\nSince then, however, Everton's main creator Iliman Ndiaye has been heavily linked with Manchester City, and now Forest are ready to test their resolve over Armstrong.\nHow Moyes would view, or indeed explain, such a sale, would be intriguing. It would appear totally at odds with his stated intention of building a better squad.\nAnd while Everton and their support may have to accept their prize assets being spirited away by clubs such as Manchester City, the idea that their most promising young player could be taken away by Nottingham Forest â a club they would be expecting to challenge or even surpass â may be harder to stomach.\nThat is why the manner in which Everton handle Forest's approach for Armstrong, who has already excelled this season, may be a defining moment for TFG and Moyes.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "as to whether Everton will agree to sell. The England Under-19 international"
+    ],
+    [
+     "del",
+     "is part of"
+    ],
+    [
+     "ins",
+     "was named in"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "travelling Everton squad"
+    ],
+    [
+     "ins",
+     "starting XI"
+    ],
+    [
+     "eq",
+     "for Saturday's Premier League match"
+    ],
+    [
+     "del",
+     "against"
+    ],
+    [
+     "ins",
+     "at"
+    ],
+    [
+     "eq",
+     "Bournemouth (15:00 BST). Losing Armstrong would be hard for fans to stomach"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0289,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9938,
+ "adjudicated_by": "rules"
+}

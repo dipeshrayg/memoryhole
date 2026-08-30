@@ -1,0 +1,136 @@
+{
+ "id": "b7f830d0694189fd-4a069aa2-aabb5ba8",
+ "url": "https://www.npr.org/2026/08/29/nx-s1-5946842/pennsylvania-measles-deaths-ignite-clash-over-rfk-jr-s-vaccination-claims",
+ "domain": "www.npr.org",
+ "source": "NPR Health",
+ "country": "United States",
+ "category": "health",
+ "lang": "en",
+ "detected_at": "2026-08-30T11:49:53Z",
+ "date": "2026-08-30",
+ "old_title": "Pennsylvania measles deaths ignite clash over RFK Jr.'s vaccination claims",
+ "new_title": "Pennsylvania measles deaths ignite clash over RFK Jr.'s vaccination claims",
+ "old_text": "Pennsylvania measles deaths ignite clash over RFK Jr.'s vaccination claimsTwo deaths associated with the measles outbreak in Pennsylvania prompted messaging from the health secretary that both encouraged and undermined vaccinations.\nTwo deaths associated with the measles outbreak in Pennsylvania prompted messaging from the health secretary that both encouraged and undermined vaccinations.\nNPR does not offer or accept money for coverage or interviews.\nAnyone who makes such an offer or request is not an NPR employee and does not represent NPR.",
+ "new_text": "Pennsylvania measles deaths ignite clash over RFK Jr.'s vaccination claims\nTwo deaths associated with the measles outbreak in Pennsylvania prompted messaging from the health secretary that both encouraged and undermined vaccinations.\nSCOTT SIMON, HOST:\nHealth Secretary Robert F. Kennedy junior traveled to Florida this week for events about regenerative farming, childhood fitness and school nutrition, but measles kept coming up instead. This week, the governor of Pennsylvania announced two deaths have been linked to the disease. Speaking with reporters in Tampa, Secretary Kennedy questioned whether those deaths were real.\n(SOUNDBITE OF ARCHIVED RECORDING)\nROBERT F KENNEDY JR: We're trying to figure out whether - you know, who those deaths were and whether they actually happened.\nSIMON: Kennedy went on to say that vaccination should be a personal choice for parents and that vaccine requirements are motivated by profits for Big Pharma.\n(SOUNDBITE OF ARCHIVED RECORDING)\nKENNEDY: We're doing a better job than any country in the world at controlling the measles outbreak. This is a worldwide epidemic.\nSIMON: NPR's Selena Simmons-Duffin joins us. Selena, thanks so much for being with us.\nSELENA SIMMONS-DUFFIN, BYLINE: Hi, Scott.\nSIMON: Please tell us more about what we know about these two deaths in Pennsylvania.\nSIMMONS-DUFFIN: Yeah. The deaths were announced by Governor Josh Shapiro, and they were billed as the first measles deaths in 2026 and the first in Pennsylvania in 35 years. And that announcement turned into a very public conflict. Secretary Kennedy used his personal X account to accuse the governor of gaslighting. He also suggested the measles vaccine has fetal tissue in it. It does not. He did not offer condolences to the families for the lives lost, that I've seen, and he did not urge people who are not vaccinated for measles and live in an area with an outbreak to get the vaccine.\nI called up Kathleen Sebelius to talk about this. She had the same job as Kennedy, health secretary during the Obama administration, and she said the fact that Kennedy is even going to these events about school lunches as measles cases are rising nationwide is a choice.\nKATHLEEN SEBELIUS: Talking about anything else, doing anything else, seems to me a very intentional refusal to confront both the spread of measles throughout the country, but also the effectiveness of vaccines and a call to action for parents to get their kids vaccinated.\nSIMMONS-DUFFIN: I reached out to HHS to ask whether Kennedy recommends that people who are unvaccinated get the MMR vaccine, which protects against measles, and I did not receive a response by my deadline.\nSIMON: Did Kathleen Sebelius say what she thought Secretary Kennedy could or should be doing?\nSIMMONS-DUFFIN: Yeah. She said he could be highlighting the case numbers, engaging with community groups to talk about the outbreaks and encourage more people to get vaccinated. She says Kennedy's response to the current situation is baffling to her.\nSEBELIUS: We have an emergency in measles outbreaks all over this country, and we have a vaccination rate that is diminishing among children going to kindergarten.\nSIMMONS-DUFFIN: She says that promoting the MMR vaccine would protect vulnerable people from potentially serious complications like blindness or death, especially since measles is extremely contagious. Sebelius told me she's especially distressed that Kennedy is pointedly not sharing that message because it's back-to-school time, and there's a real danger that these outbreaks will get worse as kids are back in the classroom.\nSIMON: Josh Shapiro, the governor of Pennsylvania, has also faced criticism this week for how he handled the two deaths, hasn't he?\nSIMMONS-DUFFIN: Yeah. He held a press conference in Lancaster County to announce the deaths but then released extremely limited information about the people who died, citing privacy concerns. And that has fueled theories online that they never happened or weren't caused by the measles after all. Some public health experts said this week that state officials should have had more information at the ready to tamp down those kinds of theories. Cynthia Baur is an expert of health literacy and communication at the University of Maryland, and she told me this is kind of the new normal since the COVID pandemic, and it's not good.\nCYNTHIA BAUR: For public servants, for people who are supposed to be serving the public interest, it does not help anybody to have those kinds of disagreements over basic facts in the public space.\nSIMMONS-DUFFIN: She said Pennsylvania officials should be rock-solid in what they're saying, and HHS should be backing them up. Otherwise, the public doesn't know who to believe, and that breeds distrust and cynicism.\nSIMON: Secretary Kennedy also made other news this week related to measles. It goes back to his work with an anti-vaccine group before he was health secretary.\nSIMMONS-DUFFIN: Yeah. That's right. Some Democratic members of Congress have called on Kennedy to resign or be fired, charging that he lied to Congress during his confirmation hearing. And that's related to a report the AP and The Guardian published this week about a trip Kennedy took to Samoa in 2019 when it had a deadly measles outbreak. During his confirmation hearing, he said that trip had nothing to do with vaccines, but new documents published this week suggest that it very much did. I should say there are no signs at this point that Kennedy is going to resign or be fired by President Trump.\nSIMON: NPR's Selena Simmons-Duffin. Thanks so much.\nSIMMONS-DUFFIN: You're welcome.\nCopyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.\nAccuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR's programming is the audio record.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Pennsylvania measles deaths ignite clash over RFK Jr.'s vaccination"
+    ],
+    [
+     "del",
+     "claimsTwo deaths associated with the measles outbreak in Pennsylvania prompted messaging from the health secretary that both encouraged and undermined vaccinations."
+    ],
+    [
+     "ins",
+     "claims"
+    ],
+    [
+     "eq",
+     "Two deaths associated with the measles outbreak in Pennsylvania prompted messaging from the health secretary that both encouraged and undermined vaccinations."
+    ],
+    [
+     "del",
+     "NPR"
+    ],
+    [
+     "ins",
+     "SCOTT SIMON, HOST: Health Secretary Robert F. Kennedy junior traveled to Florida this week for events about regenerative farming, childhood fitness and school nutrition, but measles kept coming up instead. This week, the governor of Pennsylvania announced two deaths have been linked to the disease. Speaking with reporters in Tampa, Secretary Kennedy questioned whether those deaths were real. (SOUNDBITE OF ARCHIVED RECORDING) ROBERT F KENNEDY JR: We're trying to figure out whether - you know, who those deaths were and whether they actually happened. SIMON: Kennedy went on to say that vaccination should be a personal choice for parents and that vaccine requirements are motivated by profits for Big Pharma. (SOUNDBITE OF ARCHIVED RECORDING) KENNEDY: We're doing a better job than any country in the world at controlling the measles outbreak. This is a worldwide epidemic. SIMON: NPR's Selena Simmons-Duffin joins us. Selena, thanks so much for being with us. SELENA SIMMONS-DUFFIN, BYLINE: Hi, Scott. SIMON: Please tell us more about what we know about these two deaths in Pennsylvania. SIMMONS-DUFFIN: Yeah. The deaths were announced by Governor Josh Shapiro, and they were billed as the first measles deaths in 2026 and the first in Pennsylvania in 35 years. And that announcement turned into a very public conflict. Secretary Kennedy used his personal X account to accuse the governor of gaslighting. He also suggested the measles vaccine has fetal tissue in it. It does not. He did not offer condolences to the families for the lives lost, that I've seen, and he did not urge people who are not vaccinated for measles and live in an area with an outbreak to get the vaccine. I called up Kathleen Sebelius to talk about this. She had the same job as Kennedy, health secretary during the Obama administration, and she said the fact that Kennedy is even going to these events about school lunches as measles cases are rising nationwide is a choice. KATHLEEN SEBELIUS: Talking about anything else, doing anything else, seems to me a very intentional refusal to confront both the spread of measles throughout the country, but also the effectiveness of vaccines and a call to action for parents to get their kids vaccinated. SIMMONS-DUFFIN: I reached out to HHS to ask whether Kennedy recommends that people who are unvaccinated get the MMR vaccine, which protects against measles, and I did not receive a response by my deadline. SIMON: Did Kathleen Sebelius say what she thought Secretary Kennedy could or should be doing? SIMMONS-DUFFIN: Yeah. She said he could be highlighting the case numbers, engaging with community groups to talk about the outbreaks and encourage more people to get vaccinated. She says Kennedy's response to the current situation is baffling to her. SEBELIUS: We have an emergency in measles outbreaks all over this country, and we have a vaccination rate that is diminishing among children going to kindergarten. SIMMONS-DUFFIN: She says that promoting the MMR vaccine would protect vulnerable people from potentially serious complications like blindness or death, especially since measles is extremely contagious. Sebelius told me she's especially distressed that Kennedy is pointedly not sharing that message because it's back-to-school time, and there's a real danger that these outbreaks will get worse as kids are back in the classroom. SIMON: Josh Shapiro, the governor of Pennsylvania, has also faced criticism this week for how he handled the two deaths, hasn't he? SIMMONS-DUFFIN: Yeah. He held a press conference in Lancaster County to announce the deaths but then released extremely limited information about the people who died, citing privacy concerns. And that has fueled theories online that they never happened or weren't caused by the measles after all. Some public health experts said this week that state officials should have had more information at the ready to tamp down those kinds of theories. Cynthia Baur is an expert of health literacy and communication at the University of Maryland, and she told me this is kind of the new normal since the COVID pandemic, and it's not good. CYNTHIA BAUR: For public servants, for people who are supposed to be serving the public interest, it"
+    ],
+    [
+     "eq",
+     "does not"
+    ],
+    [
+     "del",
+     "offer"
+    ],
+    [
+     "ins",
+     "help anybody to have those kinds of disagreements over basic facts in the public space. SIMMONS-DUFFIN: She said Pennsylvania officials should be rock-solid in what they're saying, and HHS should be backing them up. Otherwise, the public doesn't know who to believe, and that breeds distrust and cynicism. SIMON: Secretary Kennedy also made other news this week related to measles. It goes back to his work with an anti-vaccine group before he was health secretary. SIMMONS-DUFFIN: Yeah. That's right. Some Democratic members of Congress have called on Kennedy to resign"
+    ],
+    [
+     "eq",
+     "or"
+    ],
+    [
+     "del",
+     "accept money"
+    ],
+    [
+     "ins",
+     "be fired, charging that he lied to Congress during his confirmation hearing. And that's related to a report the AP and The Guardian published this week about a trip Kennedy took to Samoa in 2019 when it had a deadly measles outbreak. During his confirmation hearing, he said that trip had nothing to do with vaccines, but new documents published this week suggest that it very much did. I should say there are no signs at this point that Kennedy is going to resign or be fired by President Trump. SIMON: NPR's Selena Simmons-Duffin. Thanks so much. SIMMONS-DUFFIN: You're welcome. Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org"
+    ],
+    [
+     "eq",
+     "for"
+    ],
+    [
+     "del",
+     "coverage"
+    ],
+    [
+     "ins",
+     "further information. Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors"
+    ],
+    [
+     "eq",
+     "or"
+    ],
+    [
+     "del",
+     "interviews. Anyone who makes such an offer"
+    ],
+    [
+     "ins",
+     "match updates to audio. Audio on npr.org may be edited after its original broadcast"
+    ],
+    [
+     "eq",
+     "or"
+    ],
+    [
+     "del",
+     "request"
+    ],
+    [
+     "ins",
+     "publication. The authoritative record of NPR's programming"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "del",
+     "not an NPR employee and does not represent NPR."
+    ],
+    [
+     "ins",
+     "the audio record."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 12.2375,
+  "numbers_changed": [
+   "2019",
+   "2026",
+   "35"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 3,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.9,
+ "similarity": 0.7993,
+ "adjudicated_by": "rules"
+}
