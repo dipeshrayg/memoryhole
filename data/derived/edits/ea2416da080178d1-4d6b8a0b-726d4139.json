@@ -1,0 +1,44 @@
+{
+ "id": "ea2416da080178d1-4d6b8a0b-726d4139",
+ "url": "https://www.abc.net.au/news/2026-08-28/bathla-stands-down-staff-after-calling-in-administrators/107092394",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-31T13:15:28Z",
+ "date": "2026-08-31",
+ "old_title": "Bathla workers stood down as company struggles to stay afloat",
+ "new_title": "Bathla workers stood down as company struggles to stay afloat",
+ "old_text": "Staff of major property developer Bathla group have been stood down as the company struggles to stay afloat.\nIt comes as the NSW government knocked back a request from the company's administrators for financial support.\nThe Bathla Group fell into voluntary administration earlier this week, unable to pay debts that topped $3.2 billion.\nThe administrators stood down staff at the property developer's headquarters on Friday as the firm sought an urgent cash injection of $40 million to see it through until the end of September.\nA spokesman for the NSW government said administrators made approaches to it for assistance.\n\"The government does not yet have a complete picture of the company's financial position,\" the spokesman said.\n\"Given the circumstances, we are not willing to put taxpayers' money on the line to guarantee profits for private creditors.\"\nSeveral private credit firms have lent money to the developer, some of which have now limited investor redemptions.\nAbout 2,000 homes are under construction across the group, and about 13,000 more are in its development pipeline.\nBathla is one of Sydney's most prolific residential developers, particularly across the city's west.\nThe company blamed a \"perfect storm\" of conditions for its collapse, including softening home sales, the federal government's property tax changes and high costs.",
+ "new_text": "Staff of major property developer Bathla group have been stood down as the company struggles to stay afloat.\nIt comes as the NSW government knocked back a request from the company's administrators for financial support.\nThe Bathla Group fell into voluntary administration earlier this week, unable to pay debts that topped $3.2 billion.\nThe administrators stood down staff at the property developer's headquarters on Friday as the firm sought an urgent cash injection of $40 million to see it through until the end of September.\nA spokesman for the NSW government said administrators made approaches to it for assistance.\n\"The government does not yet have a complete picture of the company's financial position,\" the spokesman said.\n\"Given the circumstances, we are not willing to put taxpayers' money on the line to guarantee profits for private creditors.\"\nSeveral private credit firms have lent money to the developer, some of which have now limited investor redemptions.\nAbout 2,000 homes are under construction across the group, and about 13,000 more are in its development pipeline.\nBathla is one of Sydney's most prolific residential developers, particularly across the city's west.\nThe company blamed a \"perfect storm\" of conditions for its collapse, including softening home sales, the federal government's property tax changes and high costs.\nLoading...",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "softening home sales, the federal government's property tax changes and high costs."
+    ],
+    [
+     "ins",
+     "Loading..."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0048,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

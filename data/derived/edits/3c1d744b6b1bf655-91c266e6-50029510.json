@@ -1,0 +1,150 @@
+{
+ "id": "3c1d744b6b1bf655-91c266e6-50029510",
+ "url": "https://www.theguardian.com/sport/2026/aug/30/tadej-pogacar-vuelta-a-espana-cycling-crash-hospital-stage-nine",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-08-31T13:23:40Z",
+ "date": "2026-08-31",
+ "old_title": "Tadej Pogacar shares picture from hospital after Vuelta-ending crash",
+ "new_title": "Tadej Pogacar shares picture from hospital after Vuelta-ending crash",
+ "old_text": "Tadej Pogacar, who was dramatically forced to withdraw from the Vuelta a España on Saturday after a heavy fall, has shared a photo of himself from hospital accompanied by the Bee Gees' song Stayin' Alive.\nPogacar, the clear leader of the Vuelta until his crash, greeted followers on his Instagram account with a photo showing him in a hospital bed wearing a neck brace. The Slovenian five-time Tour de France winner could also be seen with a plaster near his right eyebrow, as well as on his right hand, which he held in his usual gesture of raising his index finger and little finger.\nThe UAE Team Emirates rider soundtracked the photo with the 1977 upbeat disco anthem, appearing to be in good spirits as he awaits surgery on his collarbone.\nPogacar crashed on Saturday during the eighth stage of the Vuelta, just over 30km from the finish line in the Valencian town of Xeraco, a stage that was initially expected to be transitional. The 27-year-old had been leading by a massive 3min 50sec a week into the race, and was the overwhelming favourite for victory in his attempt to complete a career clean sweep of the three Grand Tours.\nAccording to the medical report provided by his team, Pogacar was \"diagnosed with a concussion, displaced left clavicle fracture, a stable C7 cervical fracture, and multiple abrasions\".\nUAE's statement added that there were \"fortunately, no other major injuries and no neurological fallout\". The team has not specified how long Pogacar will be out of action, but it seems unlikely he will be fit to defend his world title in late September in Canada.\nThe race continues on Sunday with a 187.5km mountainous ride from Villajoyosa to a summit finish at Alto de Aitana, before a rest day on Monday.\n-\nThis report will update after stage nine of the Vuelta",
+ "new_text": "Tadej Pogacar, who was dramatically forced to withdraw from the Vuelta a España on Saturday after a heavy fall, has shared a photo of himself from hospital accompanied by the Bee Gees' song Stayin' Alive.\nPogacar, the clear leader of the Vuelta until his crash, greeted followers on his Instagram account with a photo showing him in a hospital bed wearing a neck brace. The Slovenian five-time Tour de France winner could also be seen with a plaster near his right eyebrow, as well as on his right hand, which he held in his usual gesture of raising his index finger and little finger.\nThe UAE Team Emirates rider soundtracked the photo with the 1977 upbeat disco anthem, appearing to be in good spirits as he awaits surgery on his collarbone.\nPogacar crashed on Saturday during the eighth stage of the Vuelta, just over 30km from the finish line in the Valencian town of Xeraco, a stage that was initially expected to be transitional. The 27-year-old had been leading by a massive 3min 50sec a week into the race, and was the overwhelming favourite for victory in his attempt to complete a career clean sweep of the three Grand Tours.\nAccording to the medical report provided by his team, Pogacar was \"diagnosed with a concussion, displaced left clavicle fracture, a stable C7 cervical fracture, and multiple abrasions\". UAE's statement added that there were \"fortunately, no other major injuries and no neurological fallout\". The team has not specified how long Pogacar will be out of action, but it seems unlikely he will be fit to defend his world title in late September in Canada.\nOnce racing resumed on Sunday, the home rider Enric Mas extended his lead by winning stage nine. Mas beat Britain's Oscar Onley in a two-man sprint finish to enlarge his advantage over the four-time former winner Primoz Roglic, who finished in third 12sec behind.\nRoglic now trails Mas by 1min 18sec, with Austria's Felix Gall, who shipped 18sec in finishing fourth, third overall at 1min 39sec. Onley, who leads the best young rider category, moved up a place to fourth at 2min 20sec as the former winner Sepp Kuss tumbled three places to seventh overall after coming home 1min 44sec behind Mas.\n\"Now I understand Tadej - the red jersey gives you wings,\" smiled Mas, who said that he felt in the form of his life. \"The team was 10 out of 10, we controlled the situation really well and I felt good in the finish.\"\nMas's victory on the 187.4km mountainous stage from Villajoyosa to Alto de Aitana, ended his Spanish team Movistar's five-year win drought at their home Grand Tour. Monday is the first rest daty of this year's race, with the Vuelta resuming on Tuesday with a hilly 187.5km run from Alcaraz to Elche de la Sierra in south-east Spain.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "be fit to defend his world title in late September in Canada."
+    ],
+    [
+     "del",
+     "The race continues"
+    ],
+    [
+     "ins",
+     "Once racing resumed"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "Sunday"
+    ],
+    [
+     "ins",
+     "Sunday, the home rider Enric Mas extended his lead by winning stage nine. Mas beat Britain's Oscar Onley in a two-man sprint finish to enlarge his advantage over the four-time former winner Primoz Roglic, who finished in third 12sec behind. Roglic now trails Mas by 1min 18sec,"
+    ],
+    [
+     "eq",
+     "with"
+    ],
+    [
+     "ins",
+     "Austria's Felix Gall, who shipped 18sec in finishing fourth, third overall at 1min 39sec. Onley, who leads the best young rider category, moved up"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "187.5km"
+    ],
+    [
+     "ins",
+     "place to fourth at 2min 20sec as the former winner Sepp Kuss tumbled three places to seventh overall after coming home 1min 44sec behind Mas. \"Now I understand Tadej - the red jersey gives you wings,\" smiled Mas, who said that he felt in the form of his life. \"The team was 10 out of 10, we controlled the situation really well and I felt good in the finish.\" Mas's victory on the 187.4km"
+    ],
+    [
+     "eq",
+     "mountainous"
+    ],
+    [
+     "del",
+     "ride"
+    ],
+    [
+     "ins",
+     "stage"
+    ],
+    [
+     "eq",
+     "from Villajoyosa to"
+    ],
+    [
+     "del",
+     "a summit finish at"
+    ],
+    [
+     "eq",
+     "Alto de Aitana,"
+    ],
+    [
+     "del",
+     "before a"
+    ],
+    [
+     "ins",
+     "ended his Spanish team Movistar's five-year win drought at their home Grand Tour. Monday is the first"
+    ],
+    [
+     "eq",
+     "rest"
+    ],
+    [
+     "del",
+     "day on Monday. - This report will update after stage nine"
+    ],
+    [
+     "ins",
+     "daty"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "ins",
+     "this year's race, with"
+    ],
+    [
+     "eq",
+     "the Vuelta"
+    ],
+    [
+     "ins",
+     "resuming on Tuesday with a hilly 187.5km run from Alcaraz to Elche de la Sierra in south-east Spain."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.6839,
+  "numbers_changed": [
+   "1",
+   "10",
+   "12",
+   "18",
+   "187.4",
+   "2",
+   "20",
+   "39",
+   "44"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.9,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

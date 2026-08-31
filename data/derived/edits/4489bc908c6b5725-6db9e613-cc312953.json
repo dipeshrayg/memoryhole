@@ -1,0 +1,168 @@
+{
+ "id": "4489bc908c6b5725-6db9e613-cc312953",
+ "url": "https://www.dw.com/en/ferry-carrying-over-260-people-capsizes-off-cyprus-reports/a-78562769?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-31T13:14:01Z",
+ "date": "2026-08-31",
+ "old_title": "Ferry carrying over 260 people capsizes off Cyprus: reports",
+ "new_title": "Ferry carrying over 260 people capsizes off Cyprus",
+ "old_text": "A passenger ferry capsized off the coast of northern Cyprus on Sunday, the local government said.\n\"All necessary preparations are being made for a swift response from rescue and health services,\" the Health Ministry of the Turkish Republic of Northern Cyprus said in a statement.\nPassenger boat heading from northern Cyprus to Turkey\nTurkish media reported that a ferry carrying more than 260 passengers was traveling from the port of Kyrenia, also known as Girne, to the Turkish port of Tasucu in Mersin province.\nVideo footage from the scene shows people with life jackets in the waters around the capsized ferry.\nThere are no reports of casualties so far.\nMore to come...",
+ "new_text": "A passenger ferry capsized off the coast of northern Cyprus on Sunday, shortly after leaving port, the local government said.\nAt least eight people have died, Turkish state media reported, citing Unal Ustel, prime minister of the self-proclaimed Turkish Republic of Northern Cyprus (TRNC).\nUstel said some 237 people had been rescued, while 23 people were missing.\nHe also nnounced that the ship's captain and seven crew members had been arrested.\nCyprus has been divided since 1974, with the northern part under the administration of the TRNC, which is recognized internationally only by Turkey.\nPassenger boat heading from northern Cyprus to Turkey\nTurkish media reported that a ferry carrying more than 260 passengers was traveling from the port of Kyrenia, also known as Girne, to the Turkish port of Tasucu in southern Mersin province when it sank.\nErhan Arikli, the TRNC's transport minister, told Turkish and Cypriot media that there were 267 people on board - 259 passengers and eight crew members.\n\"All necessary preparations are being made for a swift response from rescue and health services,\" the TRNC's Health Ministry said in a statement.\nSearch-and-rescue operations ongoing\nIn a post on X, Turkish Vice President Cevdet Yilmaz said: \"We are closely following the unfortunate incident that has occurred and providing all possible support to the search-and-rescue efforts.\"\nTurkey's state-run TRT news channel reported that the ferry began taking on water 7.5 kilometers (4 nautical miles) from the coast.\nEdited by: Natalie Muller, Dmytro Hubenko\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "A passenger ferry capsized off the coast of northern Cyprus on Sunday,"
+    ],
+    [
+     "ins",
+     "shortly after leaving port,"
+    ],
+    [
+     "eq",
+     "the local government said."
+    ],
+    [
+     "del",
+     "\"All necessary preparations are being made for a swift response from rescue and health services,\" the Health Ministry"
+    ],
+    [
+     "ins",
+     "At least eight people have died, Turkish state media reported, citing Unal Ustel, prime minister"
+    ],
+    [
+     "eq",
+     "of the"
+    ],
+    [
+     "ins",
+     "self-proclaimed"
+    ],
+    [
+     "eq",
+     "Turkish Republic of Northern Cyprus"
+    ],
+    [
+     "ins",
+     "(TRNC). Ustel"
+    ],
+    [
+     "eq",
+     "said"
+    ],
+    [
+     "del",
+     "in a statement."
+    ],
+    [
+     "ins",
+     "some 237 people had been rescued, while 23 people were missing. He also nnounced that the ship's captain and seven crew members had been arrested. Cyprus has been divided since 1974, with the northern part under the administration of the TRNC, which is recognized internationally only by Turkey."
+    ],
+    [
+     "eq",
+     "Passenger boat heading from northern Cyprus to Turkey Turkish media reported that"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Kyrenia, also known as Girne, to the Turkish port of Tasucu in"
+    ],
+    [
+     "ins",
+     "southern"
+    ],
+    [
+     "eq",
+     "Mersin"
+    ],
+    [
+     "del",
+     "province. Video footage"
+    ],
+    [
+     "ins",
+     "province when it sank. Erhan Arikli, the TRNC's transport minister, told Turkish and Cypriot media that there were 267 people on board - 259 passengers and eight crew members. \"All necessary preparations are being made for a swift response from rescue and health services,\" the TRNC's Health Ministry said in a statement. Search-and-rescue operations ongoing In a post on X, Turkish Vice President Cevdet Yilmaz said: \"We are closely following the unfortunate incident that has occurred and providing all possible support to the search-and-rescue efforts.\" Turkey's state-run TRT news channel reported that the ferry began taking on water 7.5 kilometers (4 nautical miles)"
+    ],
+    [
+     "eq",
+     "from the"
+    ],
+    [
+     "del",
+     "scene shows people with life jackets in"
+    ],
+    [
+     "ins",
+     "coast. Edited by: Natalie Muller, Dmytro Hubenko Don't let"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "waters around"
+    ],
+    [
+     "ins",
+     "algorithm hide"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "capsized ferry. There are no reports of casualties"
+    ],
+    [
+     "ins",
+     "news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button,"
+    ],
+    [
+     "eq",
+     "so"
+    ],
+    [
+     "del",
+     "far. More to come..."
+    ],
+    [
+     "ins",
+     "you'll always see our verified news first."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 2.4107,
+  "numbers_changed": [
+   "1974",
+   "23",
+   "237",
+   "259",
+   "267",
+   "4",
+   "7.5"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 1,
+  "blocks_added": 3,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.986,
+ "similarity": 0.8223,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,157 @@
+{
+ "id": "005d1e35519c5ec9-2902755b-0566d91b",
+ "url": "https://www.independent.co.uk/news/uk/home-news/robert-guanco-big-church-festival-sign-death-b3041735.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-31T13:16:36Z",
+ "date": "2026-08-31",
+ "old_title": "Pastor, 41, killed by falling sign at Big Church Festival named",
+ "new_title": "Tributes paid to pastor, 41, who died after sign falls at Big Church Festival",
+ "old_text": "A 41-year-old pastor who died after a heavy sign fell onto people at a Christian festival has been named by his church.\nRobert Guanco, 41, from Eastbourne, was pronounced dead at the scene following the incident at the Big Church Festival.\nJesus the Living Water Church Eastbourne announced the father's death on social media, describing him as \"a faithful servant of God.\"\n\"We are mourning, grieving, praying, and trusting in the Lord during this incredibly difficult time,\" the church said.\n\"Pastor Robert was a faithful servant of God, a loving husband to Isay, a devoted and caring father to Ellie, and a blessing to so many people whose lives he touched. His life, his faith, his love, and his service to God will never be forgotten.\"\nA fundraising page has been set up by the church to raise £18,000 for his wife Isaeli and their daughter Ellie.\nPastor Norman Ponce, from Jesus the Living Water World Wide Church, said: \"His life reflected humility, faith, love, compassion, and service. Through his ministry, kindness, prayers, and encouragement, he touched many lives. His passing is deeply felt by everyone who had the privilege of knowing him.\n\"Today, his family - his wife, daughter, parents, siblings, and loved ones - are facing an unimaginable loss. Alongside the deep grief of losing a husband, father, son, and brother, they are also facing the practical and financial challenges that come with such an unexpected tragedy.\"\nMore on this breaking news story...",
+ "new_text": "A 41-year-old pastor who died after a heavy sign fell onto people at a Christian festival has been named by his church.\nRobert Guanco, 41, from Eastbourne, was pronounced dead at the scene following the incident at the Big Church Festival, near Steyning, West Sussex, on Friday afternoon.\nJesus the Living Water Church Eastbourne announced the father's death on social media, describing him as \"a faithful servant of God.\"\n\"We are mourning, grieving, praying, and trusting in the Lord during this incredibly difficult time,\" the church said.\n\"Pastor Robert was a faithful servant of God, a loving husband to Isay, a devoted and caring father to Ellie, and a blessing to so many people whose lives he touched. His life, his faith, his love, and his service to God will never be forgotten.\"\nAnother six people were injured in the incident after a sign with the words \"Everything's Unmissable\" fell down. Witnesses reported seeing worshippers rushing to lift the structure from the victims.\nEmergency services were called to the scene just after 3.30pm and four people were taken to local hospitals, South East Coast Ambulance Service said.\nA GoFundMe page has been set up by the church to raise £18,000 for Mr Guanco's wife and daughter, with more than £12,000 already donated.\nPastor Norman Ponce, from Jesus the Living Water World Wide Church, said the incident was an \"unimaginable tragedy\".\n\"His life reflected humility, faith, love, compassion, and service. Through his ministry, kindness, prayers, and encouragement, he touched many lives. His passing is deeply felt by everyone who had the privilege of knowing him.\n\"Today, his family - his wife, daughter, parents, siblings, and loved ones - are facing an unimaginable loss. Alongside the deep grief of losing a husband, father, son, and brother, they are also facing the practical and financial challenges that come with such an unexpected tragedy.\"\nSussex Police said the incident had been reported to the health and safety executive and local authority.\nDetective Chief Superintendent Richard McDonagh said: \"I recognise the immense distress this will have caused people at the festival, and we are working with a number of partners as we seek to establish exactly what happened.\n\"We know there were thousands of people at the festival and we're urging anyone with any information, or any relevant video footage, to please come forward.\"\nThe festival was due to run until Sunday, but organisers cancelled the remaining days after the incident.\nIn a statement, it said it was \"devastated\" by what happened and would work with emergency services, police and the Health and Safety Executive to help them establish the circumstances surrounding the incident.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "pronounced dead at the scene following the incident at the Big Church"
+    ],
+    [
+     "del",
+     "Festival."
+    ],
+    [
+     "ins",
+     "Festival, near Steyning, West Sussex, on Friday afternoon."
+    ],
+    [
+     "eq",
+     "Jesus the Living Water Church Eastbourne announced the father's death on social"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "faith, his love, and his service to God will never be forgotten.\""
+    ],
+    [
+     "ins",
+     "Another six people were injured in the incident after a sign with the words \"Everything's Unmissable\" fell down. Witnesses reported seeing worshippers rushing to lift the structure from the victims. Emergency services were called to the scene just after 3.30pm and four people were taken to local hospitals, South East Coast Ambulance Service said."
+    ],
+    [
+     "eq",
+     "A"
+    ],
+    [
+     "del",
+     "fundraising"
+    ],
+    [
+     "ins",
+     "GoFundMe"
+    ],
+    [
+     "eq",
+     "page has been set up by the church to raise £18,000 for"
+    ],
+    [
+     "del",
+     "his"
+    ],
+    [
+     "ins",
+     "Mr Guanco's"
+    ],
+    [
+     "eq",
+     "wife"
+    ],
+    [
+     "del",
+     "Isaeli"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "their daughter Ellie."
+    ],
+    [
+     "ins",
+     "daughter, with more than £12,000 already donated."
+    ],
+    [
+     "eq",
+     "Pastor Norman Ponce, from Jesus the Living Water World Wide Church,"
+    ],
+    [
+     "del",
+     "said:"
+    ],
+    [
+     "ins",
+     "said the incident was an \"unimaginable tragedy\"."
+    ],
+    [
+     "eq",
+     "\"His life reflected humility, faith, love, compassion, and service. Through his ministry,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the practical and financial challenges that come with such an unexpected tragedy.\""
+    ],
+    [
+     "del",
+     "More on"
+    ],
+    [
+     "ins",
+     "Sussex Police said the incident had been reported to the health and safety executive and local authority. Detective Chief Superintendent Richard McDonagh said: \"I recognise the immense distress"
+    ],
+    [
+     "eq",
+     "this"
+    ],
+    [
+     "del",
+     "breaking news story..."
+    ],
+    [
+     "ins",
+     "will have caused people at the festival, and we are working with a number of partners as we seek to establish exactly what happened. \"We know there were thousands of people at the festival and we're urging anyone with any information, or any relevant video footage, to please come forward.\" The festival was due to run until Sunday, but organisers cancelled the remaining days after the incident. In a statement, it said it was \"devastated\" by what happened and would work with emergency services, police and the Health and Safety Executive to help them establish the circumstances surrounding the incident."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.898,
+  "numbers_changed": [
+   "12,000",
+   "3.30"
+  ],
+  "market_figures_changed": [
+   "£12,000"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.503,
+ "similarity": 0.8195,
+ "adjudicated_by": "rules"
+}

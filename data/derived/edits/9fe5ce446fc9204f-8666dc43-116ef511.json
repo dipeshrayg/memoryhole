@@ -1,0 +1,216 @@
+{
+ "id": "9fe5ce446fc9204f-8666dc43-116ef511",
+ "url": "https://www.dw.com/en/manhunt-underway-after-woman-killed-in-swiss-rave-shooting/a-78561106?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-31T13:14:08Z",
+ "date": "2026-08-31",
+ "old_title": "Manhunt underway after woman killed in Swiss rave shooting",
+ "new_title": "Manhunt underway after woman killed in Swiss rave shooting",
+ "old_text": "A 22-year-old woman has died after a shooting at a rave in Aarau, Switzerland, police said Sunday.\nFive other people, aged between 24 and 27, were wounded in the incident, some of them seriously, the police added.\nA \"manhunt\" for the \"unknown perpetrator(s)\" is underway, the police said in a statement on X, adding that the motive and the exact circumstances of the incident were still unclear.\nA large contingent of the Aargau Cantonal Police has been deployed and a probe into the incident has begun, the police said.\nPolice in Freiburg, in neighboring Germany, were also taking part in the manhunt, the German news agency dpa reported.\nMeanwhile, the Cantonal police said a major operation was ongoing and asked people to stay away from the area. They have also appealed to people to share any videos or images of the incident.\nWhat else do we know about the shooting?\nAccording to Swiss newspaper Blick, the shots were fired before 3:00 a.m. local time (0100 GMT) during the annual Aarauer Rave.\nThe newspaper quoted police spokeswoman Vanessa Rumpold as saying that the shooting occurred at the Schachen race course where the techno party was being held.\nAarau has about 22,300 residents and is located about 40 kilometers (25 miles) west of Zurich.\nEdited by: Natalie Muller\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "A 22-year-old woman has died after a shooting at a rave in Aarau, near Zürich, Switzerland, police said Sunday.\nThe woman was an Italian national, Italy's Foreign Ministry said in a statement.\nFive other people, aged between 24 and 27, were wounded in the incident, some of them seriously, according to local police.\nManhunt after fatal rave shooting in Switzerland\nSwiss police were hunting at least one gunman who opened fire at the overnight rave party - a rare event in the Alpine nation despite relatively widespread gun ownership.\n\"For the moment, we have no reliable information regarding the perpetrators. We do not know whether it is a single person or several, nor whether they fled in a vehicle or on foot,\" police spokesman Bernhard Graser told reporters.\n\"Certain elements suggest they may no longer be in the area, but we have still deployed a significant police presence in the region ... so that we can arrest them if they are still there,\" he added.\nOfficers urged people to stay away from the area, and asked for any videos or images of the incident.\nPolice in Freiburg, in neighboring Germany, were also taking part in the manhunt, the German news agency dpa reported.\nWhat else do we know about the Switzerland shooting?\nAccording to Swiss newspaper Blick, the shots were fired before 3:00 a.m. local time (0100 GMT) during the annual Aarauer Rave.\nThe newspaper quoted police spokeswoman Vanessa Rumpold as saying that the shooting occurred at the Schachen race course where the techno party was being held.\nAarau has about 22,300 residents and is located about 40 kilometers (25 miles) west of Zürich.\nEdited by: Natalie Muller. Dmytro Hubenko\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "22-year-old woman has died after a shooting at a rave in Aarau,"
+    ],
+    [
+     "ins",
+     "near Zürich,"
+    ],
+    [
+     "eq",
+     "Switzerland, police said Sunday."
+    ],
+    [
+     "ins",
+     "The woman was an Italian national, Italy's Foreign Ministry said in a statement."
+    ],
+    [
+     "eq",
+     "Five other people, aged between 24 and 27, were wounded in the incident, some of them seriously,"
+    ],
+    [
+     "ins",
+     "according to local police. Manhunt after fatal rave shooting in Switzerland Swiss police were hunting at least one gunman who opened fire at"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "police added. A \"manhunt\" for"
+    ],
+    [
+     "ins",
+     "overnight rave party - a rare event in"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "\"unknown perpetrator(s)\""
+    ],
+    [
+     "ins",
+     "Alpine nation despite relatively widespread gun ownership. \"For the moment, we have no reliable information regarding the perpetrators. We do not know whether it"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "del",
+     "underway, the police said"
+    ],
+    [
+     "ins",
+     "a single person or several, nor whether they fled"
+    ],
+    [
+     "eq",
+     "in a"
+    ],
+    [
+     "del",
+     "statement"
+    ],
+    [
+     "ins",
+     "vehicle or"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "X, adding"
+    ],
+    [
+     "ins",
+     "foot,\" police spokesman Bernhard Graser told reporters. \"Certain elements suggest they may no longer be in the area, but we have still deployed a significant police presence in the region ... so"
+    ],
+    [
+     "eq",
+     "that"
+    ],
+    [
+     "ins",
+     "we can arrest them if they are still there,\" he added. Officers urged people to stay away from"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "motive"
+    ],
+    [
+     "ins",
+     "area,"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "the exact circumstances"
+    ],
+    [
+     "ins",
+     "asked for any videos or images"
+    ],
+    [
+     "eq",
+     "of the"
+    ],
+    [
+     "del",
+     "incident were still unclear. A large contingent of the Aargau Cantonal Police has been deployed and a probe into the incident has begun, the police said."
+    ],
+    [
+     "ins",
+     "incident."
+    ],
+    [
+     "eq",
+     "Police in Freiburg, in neighboring Germany, were also taking part in the manhunt, the German news agency dpa reported."
+    ],
+    [
+     "del",
+     "Meanwhile, the Cantonal police said a major operation was ongoing and asked people to stay away from the area. They have also appealed to people to share any videos or images of the incident."
+    ],
+    [
+     "eq",
+     "What else do we know about the"
+    ],
+    [
+     "ins",
+     "Switzerland"
+    ],
+    [
+     "eq",
+     "shooting? According to Swiss newspaper Blick, the shots were fired before 3:00"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "22,300 residents and is located about 40 kilometers (25 miles) west of"
+    ],
+    [
+     "del",
+     "Zurich."
+    ],
+    [
+     "ins",
+     "Zürich."
+    ],
+    [
+     "eq",
+     "Edited by: Natalie"
+    ],
+    [
+     "del",
+     "Muller"
+    ],
+    [
+     "ins",
+     "Muller. Dmytro Hubenko"
+    ],
+    [
+     "eq",
+     "Don't let the algorithm hide the news. If you rely on our"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.8517,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 1,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 2.325,
+ "similarity": 0.8159,
+ "adjudicated_by": "rules"
+}

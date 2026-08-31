@@ -1,0 +1,111 @@
+{
+ "id": "26201267c3d9cf7e-c2575413-384b9e46",
+ "url": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-31T13:11:19Z",
+ "date": "2026-08-31",
+ "old_title": "British woman killed in stabbing at German railway station",
+ "new_title": "British woman killed in stabbing at German railway station",
+ "old_text": "- Published\nA British woman has died after being stabbed at a railway station in southern Germany in the early hours of Sunday morning, police have said.\nThe 31-year-old woman was attacked at the station in Rosenheim, Bavaria, shortly before 1am local time (00:00BST). She was taken to hospital where she died as a result of \"severe\" injuries, the Bavarian Police said in a statement.\nOfficers arrested a 27-year-old German man at the scene immediately after the incident. The background and motive for the attack is under investigation, the statement added.\nPolice have asked anyone who may have witnessed \"an argument or physical altercation\" at the station late on Saturday or early on Sunday to contact them.\nThe suspect will be brought before magistrates later on Sunday, according to German news agency DPA.\nIt is not known if the two knew each other or what the woman was doing in Bavaria, DPA also reported.\nRosenheim is one of the largest cities in Upper Bavaria and is a busy rail hub for passengers travelling to Austrian cities including Vienna, Salzburg and Innsbruck.\nThe Rosenheimer Herbstfest - an event similar to the Oktoberfest beer festival - is currently taking place in the area.",
+ "new_text": "- Published\nA British woman has died after being stabbed at a railway station in southern Germany in the early hours of Sunday morning, police have said.\nThe 31-year-old woman was attacked at the station in Rosenheim, Bavaria, shortly before 01:00 local time (00:00 BST). She was taken to hospital where she died as a result of \"severe\" injuries, the Bavarian Police said in a statement.\nOfficers arrested a 27-year-old German man at the scene immediately after the incident. The background and motive for the attack is under investigation, the statement added.\nPolice have asked anyone who may have witnessed \"an argument or physical altercation\" at the station late on Saturday or early on Sunday to contact them.\nThe suspect, from the FÃ1⁄4rstenfeldbruck district, will be brought before magistrates later on Sunday, according to German news agency DPA.\nIt is unclear whether the two knew each other or what the woman was doing in Bavaria, DPA also reported.\nRosenheim is one of the largest cities in Upper Bavaria and is a busy rail hub for passengers travelling to Austrian cities including Vienna, Salzburg and Innsbruck.\nThe Rosenheimer Herbstfest - an event similar to the Oktoberfest beer festival - is currently taking place in the area.\nResponding to the attack, Rosenheim Mayor Abuzar Erdogan said \"there are no indications of a security threat in our city or of any link to our Herbstfest\".\n\"The criminal investigation department is working closely with the public prosecutor's office to investigate the circumstances and motive behind the crime as a matter of urgency,\" he wrote in a statement.\nA Foreign Office spokesperson told the BBC: \"We are supporting the family of a British woman who died in Germany [and] are in touch with the local authorities.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "31-year-old woman was attacked at the station in Rosenheim, Bavaria, shortly before"
+    ],
+    [
+     "del",
+     "1am"
+    ],
+    [
+     "ins",
+     "01:00"
+    ],
+    [
+     "eq",
+     "local time"
+    ],
+    [
+     "del",
+     "(00:00BST)."
+    ],
+    [
+     "ins",
+     "(00:00 BST)."
+    ],
+    [
+     "eq",
+     "She was taken to hospital where she died as a result of"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "station late on Saturday or early on Sunday to contact them. The"
+    ],
+    [
+     "del",
+     "suspect"
+    ],
+    [
+     "ins",
+     "suspect, from the FÃ1⁄4rstenfeldbruck district,"
+    ],
+    [
+     "eq",
+     "will be brought before magistrates later on Sunday, according to German news agency DPA. It is"
+    ],
+    [
+     "del",
+     "not known if"
+    ],
+    [
+     "ins",
+     "unclear whether"
+    ],
+    [
+     "eq",
+     "the two knew each other or what the woman was doing in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the Oktoberfest beer festival - is currently taking place in the area."
+    ],
+    [
+     "ins",
+     "Responding to the attack, Rosenheim Mayor Abuzar Erdogan said \"there are no indications of a security threat in our city or of any link to our Herbstfest\". \"The criminal investigation department is working closely with the public prosecutor's office to investigate the circumstances and motive behind the crime as a matter of urgency,\" he wrote in a statement. A Foreign Office spokesperson told the BBC: \"We are supporting the family of a British woman who died in Germany [and] are in touch with the local authorities.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5075,
+  "numbers_changed": [
+   "01",
+   "4"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9834,
+ "adjudicated_by": "rules"
+}

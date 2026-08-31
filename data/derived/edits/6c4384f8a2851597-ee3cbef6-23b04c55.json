@@ -1,0 +1,55 @@
+{
+ "id": "6c4384f8a2851597-ee3cbef6-23b04c55",
+ "url": "https://www.aljazeera.com/gallery/2026/8/30/photos-nepal-issues-fresh-flood-alerts-as-regional-death-toll-hits-750?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-08-31T13:13:19Z",
+ "date": "2026-08-31",
+ "old_title": "Photos: Nepal issues alerts as region's flash flood death toll reaches 750",
+ "new_title": "Photos: Nepal issues alerts as region's flash flood death toll nears 800",
+ "old_text": "In Pictures\nAuthorities in Nepal have warned of further flooding, urging residents in inundated districts to remain on high alert after water levels rose in the Bhotekoshi River.\nFlood alerts were sent to mobile phones on Sunday morning as rescue teams worked to clear a main highway linking Kathmandu with one of the areas worst hit by Wednesday's catastrophic flash flood.\nThe combined death toll in Nepal and China's Tibet region has risen to 750, with more than 3,000 people still missing. Nepal's disaster agency said the death toll there had climbed to 734, with 2,498 people missing, while Chinese authorities reported 16 deaths and 546 people unaccounted for, including more than 100 Nepalis and others from over a dozen countries.\nThe latest warnings followed a notice from Chinese authorities to their Nepali counterparts of increased water flow upstream, Dharam Raj Uprety, chief executive of Nepal's National Disaster Risk Reduction and Management Authority, told The Associated Press news agency.\nAs many as 93,000 people in Nepal have been affected by the disaster, according to the Red Cross.\nNepal appealed on Saturday for international financial assistance, as well as specialised rescue support, including heavy-lift drones, DNA testing kits and body freezer units.\nThe United States and Canada said they would provide about $3.6m each in humanitarian assistance.\nThe United Kingdom has pledged $6.8m in aid, while the United Nations has released $2.5m in emergency funding.\nThe European Union on Friday promised $2.3m, and the International Federation of Red Cross and Red Crescent Societies allocated more than $1m and launched an emergency appeal for $31m.\nChinese President Xi Jinping on Friday offered Beijing's assistance.",
+ "new_text": "In Pictures\nAuthorities in Nepal have warned of further flooding, urging residents in inundated districts to remain on high alert after water levels rose in the Bhotekoshi River.\nFlood alerts were sent to mobile phones on Sunday morning as rescue teams worked to clear a main highway linking Kathmandu with one of the areas worst hit by Wednesday's catastrophic flash flood.\nThe combined death toll in Nepal and China's Tibet region has risen to nearly 800, with more than 3,000 people still missing. Nepal's disaster agency said the death toll there had climbed to 734, with 2,498 people missing, while Chinese authorities reported 16 deaths and 546 people unaccounted for, including more than 100 Nepalis and others from over a dozen countries.\nThe latest warnings followed a notice from Chinese authorities to their Nepali counterparts of increased water flow upstream, Dharam Raj Uprety, chief executive of Nepal's National Disaster Risk Reduction and Management Authority, told The Associated Press news agency.\nAs many as 93,000 people in Nepal have been affected by the disaster, according to the Red Cross.\nNepal appealed on Saturday for international financial assistance, as well as specialised rescue support, including heavy-lift drones, DNA testing kits and body freezer units.\nThe United States and Canada said they would provide about $3.6m each in humanitarian assistance.\nThe United Kingdom has pledged $6.8m in aid, while the United Nations has released $2.5m in emergency funding.\nThe European Union on Friday promised $2.3m, and the International Federation of Red Cross and Red Crescent Societies allocated more than $1m and launched an emergency appeal for $31m.\nChinese President Xi Jinping on Friday offered Beijing's assistance.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "combined death toll in Nepal and China's Tibet region has risen to"
+    ],
+    [
+     "del",
+     "750,"
+    ],
+    [
+     "ins",
+     "nearly 800,"
+    ],
+    [
+     "eq",
+     "with more than 3,000 people still missing. Nepal's disaster agency said the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.011,
+  "numbers_changed": [
+   "750",
+   "800"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9989,
+ "adjudicated_by": "rules"
+}
