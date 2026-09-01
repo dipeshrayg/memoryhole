@@ -1,0 +1,116 @@
+{
+ "id": "1d629588d4abd66b-2201f2ae-ebf8f53e",
+ "url": "https://www.independent.co.uk/sport/football/liverpool-bradley-barcola-deal-transfer-news-b3042140.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-01T11:30:48Z",
+ "date": "2026-09-01",
+ "old_title": "Liverpool complete statement signing of Bradley Barcola from PSG",
+ "new_title": "Liverpool complete statement signing of Bradley Barcola from PSG",
+ "old_text": "Liverpool have completed the signing of Bradley Barcola from Paris Saint-Germain in a marquee addition to Andoni Iraola's squad.\nThe French forward arrives on a five-year deal for an initial fee of £106m, which could rise to £123m.\nThe 23-year-old has been a Liverpool target throughout this summer, and desired a move to Merseyside even while attracting interest from other clubs.\nBarcola continues Liverpool's heavy investment over the past two years, with Alexander Isak and Florian Wirtz brought in for more than £100m last summer.\nCapped 28 times by France, Barcola was part of the PSG side that won back-to-back Champions League crowns in 2025 and 2026, featuring off the bench in both finals.\n\"It's a great pride to be able to play for Liverpool. I'm very happy,\" Barcola said.\n\"It took a long time but I'm really happy today to be able to play for Liverpool and all I want is to be on the pitch and be able to play.\n\"I hope to achieve very big things. First of all, winning the Premier League - it's one of my biggest dreams in my life. It is to do that and to stay in this team in the long term - that's why I signed a long contract - and I hope I can do it.\"\nBarcola will wear the No 29 shirt after sealing his switch. He joins Victor Munoz and Jeremy Jacquet as senior arrivals at Anfield this summer, with the possibility of another winger still to come with the club weighing up whether to let Cody Gakpo join Manchester City.\n\"I had the chance to play twice in this stadium and I saw the atmosphere and how the fans were behind the Liverpool players,\" Barcola added of his decision to move to Anfield.\n\"When I knew about Liverpool's interest in me, I didn't ask questions and I knew it was a very big club for me.\"",
+ "new_text": "Liverpool have completed the signing of Bradley Barcola from Paris Saint-Germain in a marquee addition to Andoni Iraola's squad.\nThe French forward arrives on a five-year deal for an initial fee of £106m, which could rise to £123m.\nThe 23-year-old has been a Liverpool target throughout this summer, and desired a move to Merseyside even while attracting interest from other clubs.\nBarcola continues Liverpool's heavy investment over the past two years, with Alexander Isak and Florian Wirtz brought in for more than £100m last summer.\nCapped 28 times by France, Barcola was part of the PSG side that won back-to-back Champions League crowns in 2025 and 2026, featuring off the bench in both finals.\n\"It's a great pride to be able to play for Liverpool. I'm very happy,\" Barcola said.\n\"It took a long time, but I'm really happy today to be able to play for Liverpool, and all I want is to be on the pitch and be able to play.\n\"I hope to achieve very big things. First of all, winning the Premier League - it's one of my biggest dreams in my life. It is to do that and to stay in this team in the long term - that's why I signed a long contract - and I hope I can do it.\"\nBarcola will wear the No 29 shirt after sealing his switch. He joins Victor Munoz and Jeremy Jacquet as senior arrivals at Anfield this summer, with the possibility of another winger still to come, with the club weighing up whether to let Cody Gakpo join Manchester City.\n\"I had the chance to play twice in this stadium, and I saw the atmosphere and how the fans were behind the Liverpool players,\" Barcola added of his decision to move to Anfield.\n\"When I knew about Liverpool's interest in me, I didn't ask questions, and I knew it was a very big club for me.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "play for Liverpool. I'm very happy,\" Barcola said. \"It took a long"
+    ],
+    [
+     "del",
+     "time"
+    ],
+    [
+     "ins",
+     "time,"
+    ],
+    [
+     "eq",
+     "but I'm really happy today to be able to play for"
+    ],
+    [
+     "del",
+     "Liverpool"
+    ],
+    [
+     "ins",
+     "Liverpool,"
+    ],
+    [
+     "eq",
+     "and all I want is to be on the pitch and be"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "at Anfield this summer, with the possibility of another winger still to"
+    ],
+    [
+     "del",
+     "come"
+    ],
+    [
+     "ins",
+     "come,"
+    ],
+    [
+     "eq",
+     "with the club weighing up whether to let Cody Gakpo join Manchester City. \"I had the chance to play twice in this"
+    ],
+    [
+     "del",
+     "stadium"
+    ],
+    [
+     "ins",
+     "stadium,"
+    ],
+    [
+     "eq",
+     "and I saw the atmosphere and how the fans were behind the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Anfield. \"When I knew about Liverpool's interest in me, I didn't ask"
+    ],
+    [
+     "del",
+     "questions"
+    ],
+    [
+     "ins",
+     "questions,"
+    ],
+    [
+     "eq",
+     "and I knew it was a very big club for me.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0312,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

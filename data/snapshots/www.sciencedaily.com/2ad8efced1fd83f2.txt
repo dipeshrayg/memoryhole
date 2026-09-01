@@ -1,0 +1,43 @@
+A âquantum bathâ puts quantum entanglement on autopilot
+A 20-year-old quantum prediction has finally been demonstrated, using a bath of correlated light to automatically entangle distant qubits.
+- Date:
+- August 31, 2026
+- Source:
+- Institute of Science and Technology Austria
+- Summary:
+- Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and active control normally required. The team created a âquantum bath,â a shared environment filled with correlated microwave photons that automatically pushes separated qubits into an entangled state and helps keep them there. The experiment confirms a theoretical prediction made more than 20 years ago and could offer a simpler way to connect modules in future quantum computers.
+- Share:
+Future quantum computers may depend on the ability to connect widely separated modules through distributed entanglement. Until now, creating this kind of connection has generally required active control and repeated measurements. Physicists at the Institute of Science and Technology Austria (ISTA) have now demonstrated a fully autonomous alternative based on a "quantum bath" made from correlated particles of light.
+Connecting Distant Quantum Bits
+Entanglement is one of the defining phenomena of quantum physics. It allows particles or systems to share correlations that cannot be explained by classical physics. Creating distributed entanglement between physically separated qubits (quantum bits) could be important for building larger quantum computers and future quantum networks.
+Previous attempts to entangle distant qubits have generally followed one of two strategies. One method sends a single, actively controlled photon from one qubit to another. Another has each qubit emit a photon, with the two photons then matched in an effort to generate entanglement.
+The second approach was recognized by the 2022 Nobel Prize in Physics. However, it still depends on repeated measurements and post-selection, and even then, the process does not always successfully produce entanglement.
+PhD student Alejandro Andrés-Juanes and professor Johannes Fink at the Institute of Science and Technology Austria (ISTA) worked with international collaborators to develop a different solution. Their system uses a quantum bath that automatically brings distant qubits into synchronization. In a prototype device, the researchers used a shared source of correlated light particles to entangle two separated qubits, experimentally realizing an idea that had remained theoretical for more than two decades.
+Fully Autonomous Quantum Entanglement
+Quantum entanglement can take several forms. Continuous-variable entangled states can be produced efficiently and are therefore relatively accessible. They can be compared with a pendulum, whose position and momentum change continuously.
+Many useful quantum technologies, however, depend on "discrete-variable" systems. These involve 'all-or-nothing' forms of entanglement that stationary qubits can use. The challenge for the ISTA team was finding a way to connect these readily available continuous forms of entanglement with the discrete forms needed for practical applications.
+"In this work, we aimed to overcome this mismatch between the readily available and the practically useful forms of entanglement," says Andrés-Juanes. "By stabilizing the entangled states remotely, our approach is fully autonomous and requires no active control or measurement."
+A Quantum Bath Powered by Correlated Light
+Maintaining both entanglement and quantum coherence is one of the major difficulties facing quantum computing.
+The researchers addressed that problem by making the qubits' surrounding environment itself responsible for producing and stabilizing entanglement.
+"In our method, the quantum bath -- meaning the qubits' environment -- is the source of entanglement. It creates a new ground state through a continuous stream of correlated photons," says Fink. "This way, the entangled qubit state is stabilized, even beyond the qubits' own 'lifetime', and remains always available as a resource for further quantum processing. This makes the approach conceptually significant."
+Because the entangled state remains available, researchers can access it whenever it is needed. That differs from temporary entanglement, which has to be used during the brief period when it exists.
+Microwave Photons Keep Qubits Connected
+To couple the qubits with the entangled photon source, the researchers relied on microwave photons. These low-energy light particles are especially useful for manipulating quantum information and are already central to leading superconducting-qubit technology.
+Optical photons serve a different role and are commonly used in optics and atomic physics. They may also become important for carrying quantum information between distant quantum computers through fiber optics, an area that the Fink group at ISTA is also investigating.
+Measuring the Hidden Quantum State
+The researchers needed to confirm that the two qubits were actually synchronized inside the quantum bath. To do that, they used quantum tomography, a technique that reconstructs a quantum system by examining many different 'slices' of its behavior.
+"Qubits can be in a superposition of states, but all these states collapse when we measure them, leaving us with a 0 or 1 state," says Andrés-Juanes.
+Quantum tomography allowed the researchers to perform measurements lasting only 20-80 nanoseconds and use those observations to investigate the qubits' underlying states. A nanosecond is one billionth of a second.
+A 20-Year Prediction Becomes an Experiment
+By successfully entangling two isolated qubits through a quantum bath, the ISTA researchers created a proof-of-concept laboratory prototype for the long-standing theoretical proposal.
+"We present a relatively simple method that could be scaled up to synchronize multiple distant qubits," says Andrés-Juanes.
+The new approach is promising, but it is not yet as efficient as methods that actively control qubit states. "Our method currently transfers about 10% of the bath's available entanglement."
+The researchers suggest that one reason the idea took more than two decades to demonstrate is that the original theory was developed under idealized conditions that are difficult to reproduce experimentally.
+"Our experiments helped us reveal several factors that may have prevented scientists from designing a functional quantum bath using a single source of correlated photons for distributed entanglement," says Fink.
+The prototype developed at ISTA could provide new opportunities for quantum-optics experiments. It may also contribute to efforts to expand quantum processors and ultimately move them closer to fault-tolerant operation.
+Story Source:
+Materials provided by Institute of Science and Technology Austria. Note: Content may be edited for style and length.
+Journal Reference:
+- A. AndrÃ©s-Juanes, J. AgustÃ, R. Sett, E.âS. Redchenko, L.âN. Kapoor, S. Hawaldar, P. Rabl, J.âM. Fink. Distributing Stationary Qubit Entanglement through a Nonlocal Squeezed Reservoir. Physical Review X, 2026; 16 (3) DOI: 10.1103/r4jt-j39w
+Cite This Page:

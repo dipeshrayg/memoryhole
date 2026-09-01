@@ -1,0 +1,207 @@
+{
+ "id": "58bd93cde81f55d2-0b54327f-40e20aa2",
+ "url": "https://www.theguardian.com/world/2026/aug/31/morocco-ceuta-border-breach-spanish-pm-migration-pedro-sanchez",
+ "domain": "www.theguardian.com",
+ "source": "The Guardian",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-01T11:24:55Z",
+ "date": "2026-09-01",
+ "old_title": "Morocco not to blame for Ceuta border breach, says Spanish PM",
+ "new_title": "Morocco not to blame for Ceuta border breach, says Spanish PM",
+ "old_text": "Spain's prime minister, Pedro Sánchez, has insisted there was no evidence to suggest the Moroccan government was behind last month's massive border crossing into Ceuta.\nAs many as 141 people are thought to have died trying to enter the Spanish enclave at the end of July. The influx of about 70,000 men, women and children unleashed a political crisis, a humanitarian emergency and reignited tensions over immigration within the EU.\nAlthough the overwhelming majority of the migrants crossed back into Morocco weeks ago, hundreds of people, including minors, are still on the streets of Ceuta, leading to tensions with residents.\nDespite speculation that Rabat may have engineered the mass crossing as a means of showing its displeasure at Spain's rapprochement with Algeria, Sánchez said there was nothing to indicate the involvement of the Moroccan authorities.\n\"There's no information from any intelligence agency that raises doubts over the involvement of Moroccan authorities,\" he told Cadena Ser radio on Monday.\n\"Cooperation with Morocco is frankly positive. I'd like to stress that we need to be aware that this crisis can be resolved only through cooperation - and not through a lack of trust in Morocco, which would only further aggravate the already complex situation we have in Ceuta.\"\nThe prime minister once again pointed the finger at \"criminal gangs\" who had used disinformation to falsely claim that a ruling by Spain's supreme court meant that no one who entered Ceuta by swimming could be deported back to Morocco.\nHe also said fake news had been pumped out on social media accounts \"associated with Russia, Israel and the international far right that always use migration to attack not just Spain but also Europe\".\nSánchez said that about 1,500 migrants remained in Ceuta, of whom 1,200 are minors, and there would soon be \"sufficient capacity\" to accommodate all those still in the enclave.\nTheir continuing presence has led to clashes between some Ceuta residents and police, while some of the migrants have had their belongings burned while sleeping rough on beaches. On Saturday, four Moroccan migrants were arrested for throwing stones at Spanish soldiers.\nSpain's conservative People's party has accused the government of failing to protect the people of Ceuta. \"It did nothing to avoid the invasion on 30 July and it's doing nothing to stop the public order crisis that's getting worse every day,\" the PP's leader, Alberto Núñez Feijóo, said last week.\nSantiago Abascal, the leader of the far-right Vox party, has described events in Ceuta as \"an invasion and an act of war promoted by Morocco and allowed by Sánchez, who is incapable of responding because he is subservient to Morocco\".",
+ "new_text": "Spain's prime minister, Pedro Sánchez, has said there is no evidence to suggest the Moroccan government was behind last month's massive border crossing into Ceuta but accused Israel and Russia of spreading disinformation.\nAs many as 141 people are thought to have died trying to enter the Spanish enclave at the end of July. The influx of about 70,000 men, women and children unleashed a political crisis, a humanitarian emergency and reignited tensions within the EU over immigration.\nDespite speculation that Rabat may have engineered the mass crossing as a means of showing its displeasure at Spain's rapprochement with Algeria, Sánchez said there was nothing to indicate the involvement of the Moroccan authorities.\n\"There's no information from any intelligence agency that raises doubts over the involvement of Moroccan authorities,\" he told Cadena Ser radio on Monday. \"Cooperation with Morocco is frankly positive. I'd like to stress that we need to be aware that this crisis can be resolved only through cooperation - and not through a lack of trust in Morocco, which would only further aggravate the already complex situation we have in Ceuta.\"\nSánchez said fake news had been pumped out on social media accounts \"associated with Russia, Israel and the international far right that always use migration to attack not just Spain but also Europe\".\nThe accusation drew a furious response from Israel. The country's foreign minister, Gideon Sa'ar, called it a \"brazen lie\", adding: \"Continuing to spread defamatory lies will not distract from Sánchez's disgraceful failure to manage his country's affairs.\"\nThe Kremlin rejected allegations that Russia was connected to the Ceuta migration crisis, the RBC daily reported on Monday.\nSánchez repeated his assertion that the influx was due to the activities of \"criminal gangs\" who had used disinformation to falsely claim that a ruling by Spain's supreme court meant that no one who entered Ceuta by swimming could be deported back to Morocco.\nAlthough the overwhelming majority of the migrants crossed back into Morocco weeks ago, at least 5,000 people, including 1,200 minors, are still on the streets of Ceuta. Their continuing presence has led to clashes between some Ceuta residents and police, while some of the migrants have had their belongings burned while sleeping rough on beaches. On Saturday, four Moroccan migrants were arrested for throwing stones at Spanish soldiers.\nSánchez said there would soon be \"sufficient capacity\" to accommodate all those still in the enclave.\nSpain's conservative People's party has accused the government of failing to protect the people of Ceuta. \"It did nothing to avoid the invasion on 30 July and it's doing nothing to stop the public order crisis that's getting worse every day,\" the PP's leader, Alberto Núñez Feijóo, said last week.\nSantiago Abascal, the leader of the far-right Vox party, has described events in Ceuta as \"an invasion and an act of war promoted by Morocco and allowed by Sánchez, who is incapable of responding because he is subservient to Morocco\".",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Spain's prime minister, Pedro Sánchez, has"
+    ],
+    [
+     "del",
+     "insisted"
+    ],
+    [
+     "ins",
+     "said"
+    ],
+    [
+     "eq",
+     "there"
+    ],
+    [
+     "del",
+     "was"
+    ],
+    [
+     "ins",
+     "is"
+    ],
+    [
+     "eq",
+     "no evidence to suggest the Moroccan government was behind last month's massive border crossing into"
+    ],
+    [
+     "del",
+     "Ceuta."
+    ],
+    [
+     "ins",
+     "Ceuta but accused Israel and Russia of spreading disinformation."
+    ],
+    [
+     "eq",
+     "As many as 141 people are thought to have died trying to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and children unleashed a political crisis, a humanitarian emergency and reignited tensions"
+    ],
+    [
+     "del",
+     "over immigration"
+    ],
+    [
+     "eq",
+     "within the"
+    ],
+    [
+     "del",
+     "EU. Although the overwhelming majority of the migrants crossed back into Morocco weeks ago, hundreds of people, including minors, are still on the streets of Ceuta, leading to tensions with residents."
+    ],
+    [
+     "ins",
+     "EU over immigration."
+    ],
+    [
+     "eq",
+     "Despite speculation that Rabat may have engineered the mass crossing as a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "would only further aggravate the already complex situation we have in Ceuta.\""
+    ],
+    [
+     "del",
+     "The prime minister once again pointed the finger at \"criminal gangs\" who had used disinformation to falsely claim that a ruling by Spain's supreme court meant that no one who entered Ceuta by swimming could be deported back to Morocco. He also"
+    ],
+    [
+     "ins",
+     "Sánchez"
+    ],
+    [
+     "eq",
+     "said fake news had been pumped out on social media accounts \"associated"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "that always use migration to attack not just Spain but also Europe\"."
+    ],
+    [
+     "ins",
+     "The accusation drew a furious response from Israel. The country's foreign minister, Gideon Sa'ar, called it a \"brazen lie\", adding: \"Continuing to spread defamatory lies will not distract from Sánchez's disgraceful failure to manage his country's affairs.\" The Kremlin rejected allegations that Russia was connected to the Ceuta migration crisis, the RBC daily reported on Monday."
+    ],
+    [
+     "eq",
+     "Sánchez"
+    ],
+    [
+     "del",
+     "said"
+    ],
+    [
+     "ins",
+     "repeated his assertion"
+    ],
+    [
+     "eq",
+     "that"
+    ],
+    [
+     "del",
+     "about 1,500"
+    ],
+    [
+     "ins",
+     "the influx was due to the activities of \"criminal gangs\" who had used disinformation to falsely claim that a ruling by Spain's supreme court meant that no one who entered Ceuta by swimming could be deported back to Morocco. Although the overwhelming majority of the"
+    ],
+    [
+     "eq",
+     "migrants"
+    ],
+    [
+     "del",
+     "remained in Ceuta,"
+    ],
+    [
+     "ins",
+     "crossed back into Morocco weeks ago, at least 5,000 people, including 1,200 minors, are still on the streets"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "whom 1,200 are minors, and there would soon be \"sufficient capacity\" to accommodate all those still in the enclave."
+    ],
+    [
+     "ins",
+     "Ceuta."
+    ],
+    [
+     "eq",
+     "Their continuing presence has led to clashes between some Ceuta residents and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Saturday, four Moroccan migrants were arrested for throwing stones at Spanish soldiers."
+    ],
+    [
+     "ins",
+     "Sánchez said there would soon be \"sufficient capacity\" to accommodate all those still in the enclave."
+    ],
+    [
+     "eq",
+     "Spain's conservative People's party has accused the government of failing to protect"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5841,
+  "numbers_changed": [
+   "1,500",
+   "5,000"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 1,
+  "blocks_added": 2,
+  "blocks_removed": 2,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.751,
+ "similarity": 0.9115,
+ "adjudicated_by": "rules"
+}
