@@ -1,0 +1,274 @@
+{
+ "id": "4711ebc22194c80b-095bb188-ee9b7e29",
+ "url": "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-02T11:00:32Z",
+ "date": "2026-09-02",
+ "old_title": "Israeli attacks on Gaza kill at least four, including children",
+ "new_title": "Israeli strikes on Gaza kill at least five, including children",
+ "old_text": "At least four people have been killed and several wounded in Israeli attacks on the besieged Gaza Strip, health officials said.\nAt least three people, including two children, were killed and eight people were wounded in an Israeli drone attack in the al-Kateeba district west of Gaza City in northern Gaza on Tuesday morning, a medical source at al-Shifa Hospital told Al Jazeera.\nRecommended Stories\nlist of 3 items\n- list 1 of 3Israeli strike kills 3-year-old child in Gaza\n- list 2 of 3Israeli air strikes on Gaza kill at least five people\n- list 3 of 3Damaged Gaza ambulance becomes 'dream bus' for children\nImages shared online showed smoke rising and the sound of successive explosions from the attack.\nReporting from Gaza City, Al Jazeera's Hani Mahmoud said he counted at least 13 drones in the area at the time of the attack.\n\"For 35 minutes there were nonstop attacks involving drones, three of them hovering at a dangerously low level,\" he said.\n\"Security personnel on the ground say they spotted a group of special forces who got into a direct exchange of fire. But the aerial coverage was so intense. The situation was very chaotic.\"\nIn central Gaza, a separate Israeli attack in Deir el-Balah killed at least one person, Al-Aqsa Martyrs Hospital said in a statement, without providing further details.\nThe Israeli military said it struck several targets in Gaza, claiming the strikes were aimed at removing threats to its forces.\nThe Israeli television station Channel 12 reported explosions were heard across the Strip, while the Palestinian news network Quds reported that missiles and quadcopter drones were used in the attacks.\nIsrael has killed at least 1,320 Palestinians and injured more than 4,300 since the so-called \"ceasefire\" in Gaza took effect in October 2025.",
+ "new_text": "Israeli strikes on the besieged Gaza Strip have killed at least five people and wounded several, health officials have reported.\nAt least four people, including two children, were killed and eight wounded by a drone attack in the al-Kateeba district west of Gaza City in northern Gaza on Tuesday morning, a medical source at al-Shifa Hospital told Al Jazeera. A strike in central Gaza killed another person.\nRecommended Stories\nlist of 3 items\n- list 1 of 3Israeli strike kills 3-year-old child in Gaza\n- list 2 of 3Israeli air strikes on Gaza kill at least five people\n- list 3 of 3Damaged Gaza ambulance becomes 'dream bus' for children\nReporting from Gaza City, Al Jazeera's Hani Mahmoud said he counted at least 13 drones in the area at the time of the attack. Images shared online showed smoke rising and the sound of successive explosions.\n\"For 35 minutes, there were nonstop attacks involving drones, three of them hovering at a dangerously low level,\" Mahmoud said.\n\"Security personnel on the ground say they spotted a group of special forces who got into a direct exchange of fire. But the aerial coverage was so intense. The situation was very chaotic,\" he added.\nIsraeli Defence Minister Israel Katz later asserted that aerial strikes had been launched on the enclave in order to protect Israeli forces whose operation to arrest a member of Hamas was discovered.\nAccording to unverified reports, the head of Hamas's internal security service was detained.\nHamas official Ismail al-Thawabta confirmed that an Israeli special force had been detected while conducting an operation in Gaza City.\nIn central Gaza, a separate Israeli attack in Deir el-Balah killed at least one person, Al-Aqsa Martyrs Hospital said in a statement, without providing further details.\nThe Israeli military said it had struck several targets across Gaza, insisting that the strikes were aimed at removing threats to its forces.\nIsraeli television station Channel 12 reported explosions were heard across the Strip. Palestinian news network Quds reported that missiles and quadcopter drones were used in the attacks.\nThe Israeli military has been striking Gaza on a daily basis despite a United States-backed \"ceasefire\" having taken effect in October.\nSince that time, Israel has killed at least 1,320 Palestinians and injured more than 4,300.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "At least four people have been killed and several wounded in"
+    ],
+    [
+     "eq",
+     "Israeli"
+    ],
+    [
+     "del",
+     "attacks"
+    ],
+    [
+     "ins",
+     "strikes"
+    ],
+    [
+     "eq",
+     "on the besieged Gaza"
+    ],
+    [
+     "del",
+     "Strip,"
+    ],
+    [
+     "ins",
+     "Strip have killed at least five people and wounded several,"
+    ],
+    [
+     "eq",
+     "health officials"
+    ],
+    [
+     "del",
+     "said."
+    ],
+    [
+     "ins",
+     "have reported."
+    ],
+    [
+     "eq",
+     "At least"
+    ],
+    [
+     "del",
+     "three"
+    ],
+    [
+     "ins",
+     "four"
+    ],
+    [
+     "eq",
+     "people, including two children, were killed and eight"
+    ],
+    [
+     "del",
+     "people were"
+    ],
+    [
+     "eq",
+     "wounded"
+    ],
+    [
+     "del",
+     "in an Israeli"
+    ],
+    [
+     "ins",
+     "by a"
+    ],
+    [
+     "eq",
+     "drone attack in the al-Kateeba district west of Gaza City in northern"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "on Tuesday morning, a medical source at al-Shifa Hospital told Al Jazeera."
+    ],
+    [
+     "ins",
+     "A strike in central Gaza killed another person."
+    ],
+    [
+     "eq",
+     "Recommended Stories list of 3 items - list 1 of 3Israeli strike"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "- list 3 of 3Damaged Gaza ambulance becomes 'dream bus' for children"
+    ],
+    [
+     "del",
+     "Images shared online showed smoke rising and the sound of successive explosions from the attack."
+    ],
+    [
+     "eq",
+     "Reporting from Gaza City, Al Jazeera's Hani Mahmoud said he counted at least 13 drones in the area at the time of the attack."
+    ],
+    [
+     "ins",
+     "Images shared online showed smoke rising and the sound of successive explosions."
+    ],
+    [
+     "eq",
+     "\"For 35"
+    ],
+    [
+     "del",
+     "minutes"
+    ],
+    [
+     "ins",
+     "minutes,"
+    ],
+    [
+     "eq",
+     "there were nonstop attacks involving drones, three of them hovering at a dangerously low level,\""
+    ],
+    [
+     "del",
+     "he"
+    ],
+    [
+     "ins",
+     "Mahmoud"
+    ],
+    [
+     "eq",
+     "said. \"Security personnel on the ground say they spotted a group of"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "fire. But the aerial coverage was so intense. The situation was very"
+    ],
+    [
+     "del",
+     "chaotic.\""
+    ],
+    [
+     "ins",
+     "chaotic,\" he added. Israeli Defence Minister Israel Katz later asserted that aerial strikes had been launched on the enclave in order to protect Israeli forces whose operation to arrest a member of Hamas was discovered. According to unverified reports, the head of Hamas's internal security service was detained. Hamas official Ismail al-Thawabta confirmed that an Israeli special force had been detected while conducting an operation in Gaza City."
+    ],
+    [
+     "eq",
+     "In central Gaza, a separate Israeli attack in Deir el-Balah killed at"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "in a statement, without providing further details. The Israeli military said it"
+    ],
+    [
+     "ins",
+     "had"
+    ],
+    [
+     "eq",
+     "struck several targets"
+    ],
+    [
+     "del",
+     "in"
+    ],
+    [
+     "ins",
+     "across"
+    ],
+    [
+     "eq",
+     "Gaza,"
+    ],
+    [
+     "del",
+     "claiming"
+    ],
+    [
+     "ins",
+     "insisting that"
+    ],
+    [
+     "eq",
+     "the strikes were aimed at removing threats to its forces."
+    ],
+    [
+     "del",
+     "The"
+    ],
+    [
+     "eq",
+     "Israeli television station Channel 12 reported explosions were heard across the"
+    ],
+    [
+     "del",
+     "Strip, while the"
+    ],
+    [
+     "ins",
+     "Strip."
+    ],
+    [
+     "eq",
+     "Palestinian news network Quds reported that missiles and quadcopter drones were used in the attacks."
+    ],
+    [
+     "ins",
+     "The Israeli military has been striking Gaza on a daily basis despite a United States-backed \"ceasefire\" having taken effect in October. Since that time,"
+    ],
+    [
+     "eq",
+     "Israel has killed at least 1,320 Palestinians and injured more than"
+    ],
+    [
+     "del",
+     "4,300 since the so-called \"ceasefire\" in Gaza took effect in October 2025."
+    ],
+    [
+     "ins",
+     "4,300."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.6443,
+  "numbers_changed": [
+   "2025"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 1,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.65,
+ "similarity": 0.9709,
+ "adjudicated_by": "rules"
+}

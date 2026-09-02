@@ -1,0 +1,62 @@
+- Published
+Over an alfalfa field in California's San Joaquin Valley, a small crop-spraying plane is flying scarily low to the ground. There's little risk to humans though, as the plane is pilot-free.
+"We can actually go lower than a human pilot can," says Russ Marotzke, as the aircraft skims over the crop.
+Flying lower means less spray drift and therefore less chemicals are needed than in conventional manned crop-dusting, he says.
+The pilotless plane belongs to Pyka, where Marotzke works as a flight test engineer.
+Based in a converted Second World War hangar overlooking San Francisco Bay, the start-up makes self-flying aircraft without cockpits, designed either to spray crops or deliver cargo.
+It is among a small group of companies racing to bring autonomous fixed-wing aircraft into commercial service.
+Flying urban air taxis, so called electric vertical take-off and landing (eVTOL) aircraft, have captured much of the attention around autonomous aviation.
+But a quieter race is also under way to deploy self-flying planes, first for jobs like crop spraying and cargo delivery â and eventually, many of their makers hope, carrying passengers too.
+"A fully scaled, ubiquitous passenger operation is the holy grail," says Michael Norcia, Pyka's co-founder and CEO, who envisions a large fleet of minibus-capacity Pyka planes ferrying passengers up and down the US east and west coasts.
+"There's a decent chance we'll get to that point before the eVTOL industry."
+I've come to one of Pyka's crop-sprayer test sites, about 80km (50 miles) east of the company's factory and reached by a bumpy dirt road.
+Today, Marotzke and a colleague are trying out a software update on a demonstration aircraft.
+About a dozen Pyka aircraft are already in Brazil where they are used to spray crops such as cotton and soybeans, work previously carried out by human pilots.
+The crop-spraying plane is fully electric, with its battery in the nose. It can fly for about 35 minutes and carries up to 300L of spray in a tank in its middle.
+Pyka's planes are sometimes called large drones, but it seems an understatement: they all have 11.5m wingspans.
+Inside a shipping container beside the field, the engineers highlight on a computer the area they want the aircraft to spray. The software then plans the route, taking account of obstacles such as nearby power lines that have already been mapped.
+The take-off, down a runway beside the field, is seamless. About 15 minutes later, after sensing that it is running low on spray â water for today's purposes â the aircraft lands itself for a manual refill and demonstration battery swap. It then takes to the air again to resume spraying precisely where it left off.
+Autonomous flight is different from autopilot.
+Autopilot assists, much like cruise control and lane-keeping functions in a car.
+Autonomous systems aim to handle the entire flight, including take-off and landing, with little or no human intervention, using algorithms to process sensor data and control the aircraft.
+Self-flying planes have been slower to emerge than self-driving cars, despite operating in what is generally considered a more structured and predictable environment.
+That is partly because big tech companies "doubled down" on cars, pouring vast sums into the technology, says Mykel Kochenderfer, an expert in safe aviation autonomy at Stanford University.
+But it is also because aircraft are held to stricter safety standards than cars, creating a much higher bar for deployment.
+"The consequences for air accidents can just be so severe," says Kochenderfer.
+Military interest has been helping propel the technology. Many of the companies have defence contracts to demonstrate and trial their systems, often with fewer regulatory hurdles than on the civilian side, and some are even already supplying military customers, external.
+In the US, the largest autonomous fixed-wing aircraft approved for commercial civilian use so far is Pyka's crop sprayer, which won authorization last year.
+Though operations are limited to a tightly defined agricultural setting and require a ground operator and visual observer. It earlier secured similar approval in Brazil, where rules are more permissive.
+Pyka aims to scale up production from around two dozen planes a year currently to 1000 by 2030. Each sells for $550,000, with customers trained to operate them.
+The UK has yet to approve any such longer-term operations, though British firm Windracers is seeking permission to launch an autonomous cargo service in Shetland and Orkney. Its aircraft, designed to carry goods to remote areas, are also flying missions in Ukraine.
+"It would be the first heavy-lift air cargo service by drone certainly in the UK and probably anywhere," says Stephen Wright, Windracers founder and chairman.
+Supporters say autonomous aircraft could address pilot shortages, remove people from dangerous work such as crop spraying, improve efficiency â for example, by allowing aircraft to carry more cargo â and cut costs if one operator can oversee many planes.
+They also argue automation could make flying safer, pointing to past declines in accidents as more automated systems have been introduced.
+Pilots' groups remain wary.
+The US Air Line Pilots Association (ALPA) calls removing pilots "a serious gamble with safety and a step too far".
+The US National Agricultural Aviation Association, which represents crop dusting pilots, says small uncrewed aircraft can be hard for its aviators to see. Piloted planes, it adds, can spray a much larger area faster.
+Pyka and Windracers are building aircraft from scratch, arguing this allows autonomy to be designed in from the outset and the aircraft tailored to the job.
+Others are retrofitting existing larger planes.
+Backed by Boeing's investment arm, US-based Reliable Robotics is currently testing its system on the Cessna 208B Grand Caravan, a single-pilot cargo plane that can carry about 1360kg of payload over hundreds of kilometers.
+Retrofitting on certified aircraft lets the company focus exclusively on proving the autonomous system's safety rather than also having to seek approval for a new aircraft, says Robert Rose, its co-founder and CEO.
+Merlin Labs, also US-based, has been working its way up through progressively larger military aircraft and is now applying its system to the two-pilot Lockheed Martin C-130J military transport plane, with commercial multi-crew cargo planes next.
+"It is a common autonomy brain that can transition between different aircraft," explains Matt George, Merlin's founder and CEO.
+The companies also differ in their approach to AI.
+Reliable is avoiding it altogether, arguing it would complicate certification.
+Merlin, meanwhile, is taking a far more AI-centric approach.
+The divide is evident in so-called detect and avoid systems.
+One of autonomous flight's biggest challenges is replicating a pilot's ability to spot and maneuver safely around other aircraft and obstacles, and there is virtually no margin for error.
+With no perfect solution yet, companies are adding different sensor systems as well as duplicating those that already come as standard to provide extra back-up.
+Reliable has added forward-looking air-to-air radar to detect other aircraft more than eight kilometers ahead, with software that follows fixed rules to decide how the plane should respond.
+It is "better than a pilot's eyeballs" says Rose.
+Merlin, meanwhile, is using AI-powered cameras to detect and classify objects.
+Pyka has used lidar from the outset to detect trees, vehicles, large birds and terrain. But it's short range, so the company also plans to add AI-powered cameras, its first real use of AI onboard.
+"For a lot of things there's no need to use AIâ¦but for figuring out that six pixels in the distance are an airplane versus some other smudge, it is perfect territory," says Norcia.
+The AI dilemma also extends to communicating with air traffic control.
+In shared airspace, aircraft must be able to receive, interpret and respond to radio instructions, typically from air traffic control.
+Reliable's solution is to have a remote pilot on the ground, initially fully trained, to handle communications and make safety-critical decisions.
+Merlin plans to use generative AI, trained on thousands of hours of recorded exchanges, to interpret instructions and respond itself.
+"Our problem is harderâ¦ but we want to move beyond remote piloting," says George.
+Merlin plans to reduce pilots in stages, from two to one and eventually none.
+Pyka, says Norcia, is content to let others "blaze the trail" in finding the best way to operate in shared airspace.
+Meanwhile, even if fully autonomous passenger flight remains elusive, many expect the technology being pioneered will inch into commercial aviation, potentially making piloted flying safer.
+That, notes ALPA, the US pilots' association, would be a welcome development.

@@ -1,0 +1,75 @@
+{
+ "id": "711ff5814125b6f9-a9c2953c-07e2c99b",
+ "url": "https://www.abc.net.au/news/2026-09-01/missing-australian-found-alive-in-tibet-floods-nepal/107104646",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-02T11:03:26Z",
+ "date": "2026-09-02",
+ "old_title": "Australian missing in Nepal-Tibet floods found alive",
+ "new_title": "Missing Australian found in Tibet was not in flood zone, China says",
+ "old_text": "Australian found alive after Nepal-Tibet floods\nIn short:\nOne of 43 Australians reported missing in the Nepal-Tibet flood disaster has been found alive in Tibet.\nThe person is receiving support from Australian consular officers and has spoken with family members.\nWhat's next?\nMore than 4,400 people remain missing across the affected areas, with search and rescue efforts continuing along the Nepal-China border.",
+ "new_text": "Australian found alive after Nepal-Tibet floods\nIn short:\nOne of 38 Australians reported missing in the Nepal-Tibet flood disaster has been found alive in Tibet.\nThe person is receiving support from Australian consular officers and has spoken with family members but China says the person was not in the \"epicentre of the disaster\".\nWhat's next?\nMore than 4,400 people remain missing across the affected areas, with search and rescue efforts continuing along the Nepal-China border.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Australian found alive after Nepal-Tibet floods In short: One of"
+    ],
+    [
+     "del",
+     "43"
+    ],
+    [
+     "ins",
+     "38"
+    ],
+    [
+     "eq",
+     "Australians reported missing in the Nepal-Tibet flood disaster has been found alive"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "is receiving support from Australian consular officers and has spoken with family"
+    ],
+    [
+     "del",
+     "members."
+    ],
+    [
+     "ins",
+     "members but China says the person was not in the \"epicentre of the disaster\"."
+    ],
+    [
+     "eq",
+     "What's next? More than 4,400 people remain missing across the affected areas, with search and rescue efforts continuing along the Nepal-China border."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2742,
+  "numbers_changed": [
+   "38",
+   "43"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9875,
+ "adjudicated_by": "rules"
+}
