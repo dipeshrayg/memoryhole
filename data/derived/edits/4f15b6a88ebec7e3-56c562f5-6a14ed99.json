@@ -1,0 +1,46 @@
+{
+ "id": "4f15b6a88ebec7e3-56c562f5-6a14ed99",
+ "url": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-03T10:58:30Z",
+ "date": "2026-09-03",
+ "old_title": "What we know about reported strike on Iran wedding celebrations",
+ "new_title": "What we know about reported strike on Iran wedding celebrations",
+ "old_text": "What we know about reported strike on Iran wedding celebrations\nIran has launched missile and drone attacks at US targets across the Middle East, after American forces resumed strikes against Iran.\nThe Iranian Red Crescent said four people - including a child - were killed at wedding celebrations when a US missile hit a building in southern Iran.\nBBC Verify has analysed footage released of the aftermath of the strike and spoken to a weapons expert to identify munition remnants.\nThe US military says it is aware of the reports but that it never targets civilians, and was striking Iranian targets in response to \"recent attempted attacks\" on American forces and commercial shipping in the Strait of Hormuz.\nMerlyn Thomas reports.\nProduced by Kevin Nguyen. Graphics by Sally Nicholls. Verification by Paul Brown and Shayan Sardarizadeh.",
+ "new_text": "What we know about reported strike on Iran wedding celebrations\nIran has launched missile and drone attacks at US targets across the Middle East, after American forces resumed strikes against Iran.\nThe Iranian Red Crescent said four people - including a child - were killed at wedding celebrations when a US missile hit a building in southern Iran.\nBBC Verify has analysed footage released of the aftermath of the strike and spoken to a weapons expert to identify munition remnants.\nThe US military says it is aware of the reports but that it never targets civilians, and was striking Iranian targets in response to \"recent attempted attacks\" on American forces and commercial shipping in the Strait of Hormuz.\nMerlyn Thomas reports.\nProduced by Kevin Nguyen. Graphics by Sally Nicholls. Verification by Paul Brown and Shayan Sardarizadeh.\nUpdate: An earlier version of this video carried analysis from N R Jenzen Jones and Trevor Ball which identified the fragments shown on Iranian media as being from a US munition - AGM 84 Standoff Land Attack Missile (SLAM-ER). But after further analysis of imagery these experts think it is more likely to be a different US weapon, a JSOW, although there remains a possibility it is a SLAM-ER.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Nguyen. Graphics by Sally Nicholls. Verification by Paul Brown and Shayan Sardarizadeh."
+    ],
+    [
+     "ins",
+     "Update: An earlier version of this video carried analysis from N R Jenzen Jones and Trevor Ball which identified the fragments shown on Iranian media as being from a US munition - AGM 84 Standoff Land Attack Missile (SLAM-ER). But after further analysis of imagery these experts think it is more likely to be a different US weapon, a JSOW, although there remains a possibility it is a SLAM-ER."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5074,
+  "numbers_changed": [
+   "84"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.004,
+ "similarity": 0.8776,
+ "adjudicated_by": "rules"
+}

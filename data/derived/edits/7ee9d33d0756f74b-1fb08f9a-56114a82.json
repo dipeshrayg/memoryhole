@@ -1,0 +1,106 @@
+{
+ "id": "7ee9d33d0756f74b-1fb08f9a-56114a82",
+ "url": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-09-03T11:08:01Z",
+ "date": "2026-09-03",
+ "old_title": "Apple Maps renames Lake Ontario as Lake America after Trump order",
+ "new_title": "Apple Maps renames Lake Ontario as Lake America after Trump order",
+ "old_text": "- Published\nApple has renamed Lake Ontario as Lake America on its Maps app, after an order from US President Donald Trump as part of Washington's trade spat with Canada.\nThe change was made for US-based users, while those in Canada will continue to see Lake Ontario displayed. The BBC has contacted Apple for comment.\nThe iPhone maker's move follows Trump's executive order to change the lake's name after trade talks between the neighbouring countries collapsed late last month, with Washington imposing new 50% tariffs on $20bn (Â£14.8bn; C$28bn) worth of Canadian goods.\nRival technology giant Google made a similar switch for its users in the US in recent days, leading to backlash on social media.\nCanada has responded to Washington's levies, saying it will implement \"dollar for dollar\" counter-tariffs.\nPrime Minister Mark Carney's administration had walked away from the trade negotiations, due to what his office has called unacceptable demands.\nCarney told the Trump administration to \"start being serious\" and stop trying to be tough before discussions between the sides can restart.\nTrump's executive order gives the US Department of the Interior 30 days to update the change with the Geographic Names Information Service - the official database of what places are called in the country.\nApple was specifically urged by Trump to rename Lake Ontario on its Maps platform to comply with the executive order signed, according to US Interior Secretary Doug Burgum\nThe president has also posted several AI-generated videos on social media, including a clip of him kicking over a Lake Ontario sign and replacing it with another that says \"Welcome to Lake America\".\nAt the lake itself, Canada has installed a new sign with the words \"Lake Ontario. Now and Always\".\n\"Just in case President Trump or anyone else forgets, we've set up this sign to remind them, it's Lake Ontario, now and forever,\" Ontario Premier Doug Ford said.\nThe names of four of the five Great Lakes - Ontario, Huron, Michigan and Erie - come from indigenous words.\nLake Superior was named after an anglicised French word.\nLake Ontario, the smallest of the Great Lakes, sits between the Canadian province and the US state of New York.\nNot all map providers have adopted the new name.\nMapQuest, a free web mapping service, said \"we're not changing it\" in a short Facebook post on Friday.\nThe platform rose to the top of the most-downloaded free applications earlier this week on the Canadian Apple App Store.\nLast week, Google said in a blog post that it had changed the name on its Maps service for US-based users.\nThe Maps app is updated to \"reflect name changes in official government sources\", meaning that users in the US will see Lake America while those in Canada will see Lake Ontario, Google said.\nThe company made a similar decision in 2025 to re-designate the Gulf of Mexico after Trump declared it would be called the Gulf of America.\nGoogle was sued by Mexico over allegedly ignoring the country's requests not to rename the Gulf for US users.\nApple also changed the name of the Gulf of Mexico to the Gulf of America on its maps service for US users.",
+ "new_text": "- Published\nApple has renamed Lake Ontario as Lake America on its Maps app, after an order from US President Donald Trump as part of Washington's trade spat with Canada.\nThe change was made for US-based users, while those in Canada will continue to see Lake Ontario displayed. The BBC has contacted Apple for comment.\nThe iPhone maker's move follows Trump's executive order to change the lake's name after trade talks between the neighbouring countries collapsed late last month, with Washington imposing new 50% tariffs on $20bn (Â£14.8bn; C$28bn) worth of Canadian goods.\nRival technology giant Google made a similar switch for its users in the US in recent days, leading to backlash on social media.\nCanada has responded to Washington's levies, saying it will implement \"dollar for dollar\" counter-tariffs.\nPrime Minister Mark Carney's administration had walked away from the trade negotiations, due to what his office has called unacceptable demands.\nCarney told the Trump administration to \"start being serious\" and stop trying to be tough before discussions between the sides can restart.\nTrump's executive order gives the US Department of the Interior 30 days to update the change with the Geographic Names Information Service - the official database of what places are called in the country.\nApple was specifically urged by Trump to rename Lake Ontario on its Maps platform to comply with the executive order signed, according to US Interior Secretary Doug Burgum\nThe president has also posted several AI-generated videos on social media, including a clip of him kicking over a Lake Ontario sign and replacing it with another that says \"Welcome to Lake America\".\nAt the lake itself, Canada has installed a new sign with the words \"Lake Ontario. Now and Always\".\n\"Just in case President Trump or anyone else forgets, we've set up this sign to remind them, it's Lake Ontario, now and forever,\" Ontario Premier Doug Ford said.\nThe names of three of the five Great Lakes - Ontario, Michigan and Erie - come from indigenous words. Two, Lake Huron and Lake Superior, have French roots.\nLake Ontario, the smallest of the Great Lakes, sits between the Canadian province and the US state of New York.\nNot all map providers have adopted the new name.\nMapQuest, a free web mapping service, said \"we're not changing it\" in a short Facebook post on Friday.\nThe platform rose to the top of the most-downloaded free applications earlier this week on the Canadian Apple App Store.\nLast week, Google said in a blog post that it had changed the name on its Maps service for US-based users.\nThe Maps app is updated to \"reflect name changes in official government sources\", meaning that users in the US will see Lake America while those in Canada will see Lake Ontario, Google said.\nThe company made a similar decision in 2025 to re-designate the Gulf of Mexico after Trump declared it would be called the Gulf of America.\nGoogle was sued by Mexico over allegedly ignoring the country's requests not to rename the Gulf for US users.\nApple also changed the name of the Gulf of Mexico to the Gulf of America on its maps service for US users.\nCorrection 2 September: This article originally suggested that the names of four of the five Great Lakes come from indigenous words. We have amended this to say that only three do so, and that Lake Huron has French origins.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Ontario, now and forever,\" Ontario Premier Doug Ford said. The names of"
+    ],
+    [
+     "del",
+     "four"
+    ],
+    [
+     "ins",
+     "three"
+    ],
+    [
+     "eq",
+     "of the five Great Lakes - Ontario,"
+    ],
+    [
+     "del",
+     "Huron,"
+    ],
+    [
+     "eq",
+     "Michigan and Erie - come from indigenous words."
+    ],
+    [
+     "ins",
+     "Two,"
+    ],
+    [
+     "eq",
+     "Lake"
+    ],
+    [
+     "del",
+     "Superior was named after an anglicised"
+    ],
+    [
+     "ins",
+     "Huron and Lake Superior, have"
+    ],
+    [
+     "eq",
+     "French"
+    ],
+    [
+     "del",
+     "word."
+    ],
+    [
+     "ins",
+     "roots."
+    ],
+    [
+     "eq",
+     "Lake Ontario, the smallest of the Great Lakes, sits between the Canadian"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to the Gulf of America on its maps service for US users."
+    ],
+    [
+     "ins",
+     "Correction 2 September: This article originally suggested that the names of four of the five Great Lakes come from indigenous words. We have amended this to say that only three do so, and that Lake Huron has French origins."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1057,
+  "numbers_changed": [
+   "2"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

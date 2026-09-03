@@ -1,0 +1,402 @@
+{
+ "id": "990bfae3c63a0401-166df697-10676d7f",
+ "url": "https://www.theguardian.com/business/2026/sep/02/bp-appoints-new-chair-after-ousting-of-albert-manifold-in-may",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-09-03T11:08:57Z",
+ "date": "2026-09-03",
+ "old_title": "BP appoints new chair after contentious ousting of Albert Manifold in May",
+ "new_title": "BP seeks to end years of boardroom turmoil with appointment of new chair",
+ "old_text": "BP has appointed a new chair after a months-long search following the controversial ousting of Albert Manifold, seeking to draw a line under the boardroom turmoil at the oil and gas company.\nIan Tyler, who has served as the interim chair and sat on the BP board as a non-executive director since April 2025, is assuming the role on a permanent basis immediately.\nHis appointment comes after Manifold's shock removal in late May after only eight months in the role, with BP citing concerns about governance oversight and conduct.\nAmanda Blanc, BP's senior independent director who led the search for a new chair and also runs the insurer Aviva as chief executive, announced on Wednesday she would stand down at next year's annual meeting.\nShe was criticised after Manifold's short tenure as chair, as she had led the process that resulted in his appointment to replace Helge Lund. When Manifold exited, Blanc said that while he had helped drive BP's transformation, there were \"governance oversight and conduct issues it [the board] deems unacceptable\".\nReports claimed senior colleagues had felt belittled by Manifold, while he was also accused of trying to exert control as if he were an executive rather than a chair.\nManifold responded by accusing the oil company of firing him without warning and disputed reports about his conduct.\nTyler is a former chief executive of the construction company Balfour Beatty, he chairs the builders merchants Grafton Group and is senior independent director of the mining company Anglo American. In the past he chaired Cairn Energy and the housebuilder Vistry Group and served as a non-executive director of the defence contractor BAE Systems.\nHe is tasked with overseeing a shift in BP's strategy to refocus on fossil fuel extraction and ditch renewable energy investments. Meg O'Neill, the BP chief executive, last month urged Andy Burnham to make use of the UK's oil and gas resources even though the oil company wants to sell its North Sea business.\nHowever, she said North Sea investments were \"not competitive\" within BP's portfolio, as the company reported its highest quarterly profits since the first year of Russia's war on Ukraine, boosted by rising oil and gas prices caused by the Middle East crisis.\nBlanc said on Wednesday: \"I am delighted that the board has unanimously appointed Ian Tyler as chair of BP. Ian brings significant experience providing challenge and support to executive teams, while maintaining strong governance and oversight on behalf of shareholders.\"\nTyler said: \"I will lead the board's evolution, ensuring we have the depth, experience and capabilities needed to support the company's strategic priorities and long-term value creation. I am committed to establishing regular and transparent engagement with our shareholders.\"",
+ "new_text": "BP has appointed a new chair after a months-long search triggered by the controversial ousting of Albert Manifold, seeking to draw a line under years of boardroom turmoil at the UK oil and gas company.\nIan Tyler, who has served as the interim chair and has sat on the BP board as a non-executive director since April 2025, will assume the role on a permanent basis immediately.\nHis appointment comes after Manifold's shock removal in late May after only eight months in the role, with BP citing \"serious concerns\" about his tenure.\nAmanda Blanc, BP's senior independent director who led the search for a new chair and also runs the insurer Aviva as chief executive, announced on Wednesday she would stand down at next year's annual meeting.\nShe was criticised after Manifold's short tenure as chair, because she had led the process that led to his appointment to replace Helge Lund. When Manifold left, Blanc said he had helped drive BP's transformation but there had been \"governance oversight and conduct issues\" which the board deemed unacceptable.\nReports claimed senior colleagues had felt belittled by Manifold. He was also accused of aggressive behaviour and acting as if he had been an executive rather than a chair. Manifold responded by accusing the company of firing him without warning and disputed reports about his conduct.\nBlanc came under fire after praising Manifold for his \"relentless focus on performance which is well suited to BP's needs\" when he was appointed chair last July, after what she described as a \"rigorous and comprehensive global search\".\nTyler is a former chief executive of the construction company Balfour Beatty. He chairs the builders merchants Grafton Group and is a senior independent director of the mining company Anglo American. In the past he chaired Cairn Energy and the housebuilder Vistry Group and served as a non-executive director of the defence contractor BAE Systems.\nHe is tasked with overseeing a shift in BP's strategy to refocus on fossil fuel extraction and ditch renewable energy investments. The company's chief executive, Meg O'Neill, urged Andy Burnham last month to make use of the UK's oil and gas resources even though BP wants to sell its North Sea business.\nO'Neill took the helm in April, the company's third chief executive in less than five years. Bernard Looney, who had set a green strategy, resigned three years ago after admitting that he had failed to fully detail relationships with colleagues.\nHe was succeeded by Murray Auchincloss, who was ousted last December. BP came under pressure to improve its performance from the New York hedge fund Elliott Investment Management, which took a stake in the company last year.\nBlanc said Tyler brought \"significant experience providing challenge and support to executive teams, while maintaining strong governance and oversight on behalf of shareholders\".\nTyler said: \"I will lead the board's evolution, ensuring we have the depth, experience and capabilities needed to support the company's strategic priorities and long-term value creation. I am committed to establishing regular and transparent engagement with our shareholders.\"\nHe said he had asked Blanc to stay, but she believed that after four years it was an appropriate time for her to leave with a new chair in place.\nMark van Baal, the chief executive of the Dutch green activist shareholder group Follow This, said: \"Many investors will ask if the new chair is able to fix BP's broken governance.\"\nHe said BP's last annual meeting in April showed it was \"completely out of touch with its shareholders\" after protest votes against several resolutions, including an 18% vote against the re-election of Manifold as chair. More than half of the shareholders opposed BP's plans to scrap its existing climate reporting.\n\"Having been on the board since 2025, Tyler is jointly responsible for BP's governance problems,\" he said. \"We're keen to learn what lessons he takes away from the triple shareholder rebellion in 2026, and how he aims to fix BP's broken governance.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "BP has appointed a new chair after a months-long search"
+    ],
+    [
+     "del",
+     "following"
+    ],
+    [
+     "ins",
+     "triggered by"
+    ],
+    [
+     "eq",
+     "the controversial ousting of Albert Manifold, seeking to draw a line under"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "ins",
+     "years of"
+    ],
+    [
+     "eq",
+     "boardroom turmoil at the"
+    ],
+    [
+     "ins",
+     "UK"
+    ],
+    [
+     "eq",
+     "oil and gas company. Ian Tyler, who has served as the interim chair and"
+    ],
+    [
+     "ins",
+     "has"
+    ],
+    [
+     "eq",
+     "sat on the BP board as a non-executive director since April 2025,"
+    ],
+    [
+     "del",
+     "is assuming"
+    ],
+    [
+     "ins",
+     "will assume"
+    ],
+    [
+     "eq",
+     "the role on a permanent basis immediately. His appointment comes after Manifold's"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "late May after only eight months in the role, with BP citing"
+    ],
+    [
+     "del",
+     "concerns"
+    ],
+    [
+     "ins",
+     "\"serious concerns\""
+    ],
+    [
+     "eq",
+     "about"
+    ],
+    [
+     "del",
+     "governance oversight and conduct."
+    ],
+    [
+     "ins",
+     "his tenure."
+    ],
+    [
+     "eq",
+     "Amanda Blanc, BP's senior independent director who led the search for a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "year's annual meeting. She was criticised after Manifold's short tenure as chair,"
+    ],
+    [
+     "del",
+     "as"
+    ],
+    [
+     "ins",
+     "because"
+    ],
+    [
+     "eq",
+     "she had led the process that"
+    ],
+    [
+     "del",
+     "resulted in"
+    ],
+    [
+     "ins",
+     "led to"
+    ],
+    [
+     "eq",
+     "his appointment to replace Helge Lund. When Manifold"
+    ],
+    [
+     "del",
+     "exited,"
+    ],
+    [
+     "ins",
+     "left,"
+    ],
+    [
+     "eq",
+     "Blanc said"
+    ],
+    [
+     "del",
+     "that while"
+    ],
+    [
+     "eq",
+     "he had helped drive BP's"
+    ],
+    [
+     "del",
+     "transformation,"
+    ],
+    [
+     "ins",
+     "transformation but"
+    ],
+    [
+     "eq",
+     "there"
+    ],
+    [
+     "del",
+     "were"
+    ],
+    [
+     "ins",
+     "had been"
+    ],
+    [
+     "eq",
+     "\"governance oversight and conduct"
+    ],
+    [
+     "del",
+     "issues it [the board] deems unacceptable\"."
+    ],
+    [
+     "ins",
+     "issues\" which the board deemed unacceptable."
+    ],
+    [
+     "eq",
+     "Reports claimed senior colleagues had felt belittled by"
+    ],
+    [
+     "del",
+     "Manifold, while he"
+    ],
+    [
+     "ins",
+     "Manifold. He"
+    ],
+    [
+     "eq",
+     "was also accused of"
+    ],
+    [
+     "del",
+     "trying to exert control"
+    ],
+    [
+     "ins",
+     "aggressive behaviour and acting"
+    ],
+    [
+     "eq",
+     "as if he"
+    ],
+    [
+     "del",
+     "were"
+    ],
+    [
+     "ins",
+     "had been"
+    ],
+    [
+     "eq",
+     "an executive rather than a chair. Manifold responded by accusing the"
+    ],
+    [
+     "del",
+     "oil"
+    ],
+    [
+     "eq",
+     "company of firing him without warning and disputed reports about his conduct."
+    ],
+    [
+     "ins",
+     "Blanc came under fire after praising Manifold for his \"relentless focus on performance which is well suited to BP's needs\" when he was appointed chair last July, after what she described as a \"rigorous and comprehensive global search\"."
+    ],
+    [
+     "eq",
+     "Tyler is a former chief executive of the construction company Balfour"
+    ],
+    [
+     "del",
+     "Beatty, he"
+    ],
+    [
+     "ins",
+     "Beatty. He"
+    ],
+    [
+     "eq",
+     "chairs the builders merchants Grafton Group and is"
+    ],
+    [
+     "ins",
+     "a"
+    ],
+    [
+     "eq",
+     "senior independent director of the mining company Anglo American. In the past"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "strategy to refocus on fossil fuel extraction and ditch renewable energy investments."
+    ],
+    [
+     "ins",
+     "The company's chief executive,"
+    ],
+    [
+     "eq",
+     "Meg O'Neill,"
+    ],
+    [
+     "del",
+     "the BP chief executive, last month"
+    ],
+    [
+     "eq",
+     "urged Andy Burnham"
+    ],
+    [
+     "ins",
+     "last month"
+    ],
+    [
+     "eq",
+     "to make use of the UK's oil and gas resources even though"
+    ],
+    [
+     "del",
+     "the oil company"
+    ],
+    [
+     "ins",
+     "BP"
+    ],
+    [
+     "eq",
+     "wants to sell its North Sea business."
+    ],
+    [
+     "del",
+     "However, she said North Sea investments were \"not competitive\" within BP's portfolio, as"
+    ],
+    [
+     "ins",
+     "O'Neill took the helm in April, the company's third chief executive in less than five years. Bernard Looney, who had set a green strategy, resigned three years ago after admitting that he had failed to fully detail relationships with colleagues. He was succeeded by Murray Auchincloss, who was ousted last December. BP came under pressure to improve its performance from the New York hedge fund Elliott Investment Management, which took a stake in"
+    ],
+    [
+     "eq",
+     "the company"
+    ],
+    [
+     "del",
+     "reported its highest quarterly profits since the first year of Russia's war on Ukraine, boosted by rising oil and gas prices caused by the Middle East crisis."
+    ],
+    [
+     "ins",
+     "last year."
+    ],
+    [
+     "eq",
+     "Blanc said"
+    ],
+    [
+     "del",
+     "on Wednesday: \"I am delighted that the board has unanimously appointed Ian"
+    ],
+    [
+     "eq",
+     "Tyler"
+    ],
+    [
+     "del",
+     "as chair of BP. Ian brings significant"
+    ],
+    [
+     "ins",
+     "brought \"significant"
+    ],
+    [
+     "eq",
+     "experience providing challenge and support to executive teams, while maintaining strong governance and oversight on behalf of"
+    ],
+    [
+     "del",
+     "shareholders.\""
+    ],
+    [
+     "ins",
+     "shareholders\"."
+    ],
+    [
+     "eq",
+     "Tyler said: \"I will lead the board's evolution, ensuring we have the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "I am committed to establishing regular and transparent engagement with our shareholders.\""
+    ],
+    [
+     "ins",
+     "He said he had asked Blanc to stay, but she believed that after four years it was an appropriate time for her to leave with a new chair in place. Mark van Baal, the chief executive of the Dutch green activist shareholder group Follow This, said: \"Many investors will ask if the new chair is able to fix BP's broken governance.\" He said BP's last annual meeting in April showed it was \"completely out of touch with its shareholders\" after protest votes against several resolutions, including an 18% vote against the re-election of Manifold as chair. More than half of the shareholders opposed BP's plans to scrap its existing climate reporting. \"Having been on the board since 2025, Tyler is jointly responsible for BP's governance problems,\" he said. \"We're keen to learn what lessons he takes away from the triple shareholder rebellion in 2026, and how he aims to fix BP's broken governance.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.9265,
+  "numbers_changed": [
+   "18",
+   "2025",
+   "2026"
+  ],
+  "market_figures_changed": [
+   "18%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 2,
+  "blocks_added": 3,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.6,
+ "similarity": 0.9913,
+ "adjudicated_by": "rules"
+}

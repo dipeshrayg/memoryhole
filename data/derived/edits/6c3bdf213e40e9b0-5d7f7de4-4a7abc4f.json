@@ -1,0 +1,161 @@
+{
+ "id": "6c3bdf213e40e9b0-5d7f7de4-4a7abc4f",
+ "url": "https://www.bbc.co.uk/news/articles/clyk5016mpyo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-09-03T11:07:58Z",
+ "date": "2026-09-03",
+ "old_title": "Range Rover launches first fully electric model",
+ "new_title": "Range Rover launches first fully electric model",
+ "old_text": "- Published\nRange Rover has unveiled its first fully electric model, after a yearâlong delay to its planned launch.\nThe Range Rover Electric, to be built in Solihull, marks a major shift in its electrification programme, backed by largeâscale upgrades across its West Midlands sites.\nParent company JLR said it had up-skilled 10,500 workers for electric production as it pushes ahead with modernisation despite recent financial pressures and planned job cuts.\nThe launch comes as the Coventryâbased carmaker faces falling profits, supply chain disruption and restructuring following a cyber attack last year.\nThe company said the launch was being supported by new battery and electric drive unit production lines as well as training about 9,000 employees in Solihull for electrification and a further 1,500 across the West Midlands region.\nJLR's electric propulsion manufacturing centre, in Wolverhampton, is now producing battery packs and electric drive units alongside internal combustion engines.\nMartin Limpert, managing director of Range Rover, called the new model the result of a decade of \"considered engineering\".\nJLR's electric roll-out comes after a turbulent year with profits dropping to Â£66m in the first quarter after a fire at a key Norwegian supplier.\nThe business is also undergoing restructuring, confirming that fewer than 300 roles will go less than a year after a cyber attack halted production for more than a month.\nAt the time of the results, the firm said new product launches would leave \"JLR in good shape whilst acknowledging the continuing geopolitical, inflationary and regulatory challenges the industry faces\".",
+ "new_text": "- Published\nRange Rover has unveiled its first fully electric model, after a yearâlong delay to its planned launch.\nThe Range Rover Electric, to be built in Solihull, marks a major shift in its electrification programme, backed by largeâscale upgrades across its West Midlands sites.\nParent company JLR said it had up-skilled 10,500 workers as it pushes ahead with modernisation despite recent financial pressures and planned job cuts.\nThe launch comes as the Coventryâbased carmaker faces falling profits, supply chain disruption and restructuring following a cyber attack a year ago that cost an estimated Â£1.9bn, making it the most economically damaging cyber event in UK history, researchers said.\nJLR's electric roll-out comes after the turbulence continued into 2026, with profits dropping to Â£66m in the first quarter after a fire at a key Norwegian supplier.\nThe company said the launch was being supported by new battery and electric drive unit production lines, as well as training about 9,000 employees in Solihull for electrification and a further 1,500 across the West Midlands region.\nJLR's electric propulsion manufacturing centre, in Wolverhampton, is now producing battery packs and electric drive units alongside internal combustion engines.\nMartin Limpert, managing director of Range Rover, said the new model was the result of a decade of \"considered engineering\".\n\"This is a pivotal for us at Range Rover, for JLR, I really believe that for us it's also for our partners for our retailers for our communities,\" he told the BBC.\n\"This secures jobs this provides for the economy and we are really excited.\"\n'A profound change'\nDavid Bailey, professor of business economics at the University of Birmingham, said the launch was the \"start of a new era\" for the firm.\n\"It's hugely important, as it's the start of their proper shift into electrification and its going to mean a profound change for the company but also the supply chain in the West Midlands.\" he said.\nThe business is also undergoing restructuring, confirming that fewer than 300 roles will go less than a year after a cyber attack halted production for more than a month.\nAt the time of the results, the firm said new product launches would leave \"JLR in good shape whilst acknowledging the continuing geopolitical, inflationary and regulatory challenges the industry faces\".",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "West Midlands sites. Parent company JLR said it had up-skilled 10,500 workers"
+    ],
+    [
+     "del",
+     "for electric production"
+    ],
+    [
+     "eq",
+     "as it pushes ahead with modernisation despite recent financial pressures and planned"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "faces falling profits, supply chain disruption and restructuring following a cyber attack"
+    ],
+    [
+     "del",
+     "last year."
+    ],
+    [
+     "ins",
+     "a year ago that cost an estimated Â£1.9bn, making it the most economically damaging cyber event in UK history, researchers said. JLR's electric roll-out comes after the turbulence continued into 2026, with profits dropping to Â£66m in the first quarter after a fire at a key Norwegian supplier."
+    ],
+    [
+     "eq",
+     "The company said the launch was being supported by new battery and electric drive unit production"
+    ],
+    [
+     "del",
+     "lines"
+    ],
+    [
+     "ins",
+     "lines,"
+    ],
+    [
+     "eq",
+     "as well as training about 9,000 employees in Solihull for electrification and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "units alongside internal combustion engines. Martin Limpert, managing director of Range Rover,"
+    ],
+    [
+     "del",
+     "called"
+    ],
+    [
+     "ins",
+     "said"
+    ],
+    [
+     "eq",
+     "the new model"
+    ],
+    [
+     "ins",
+     "was"
+    ],
+    [
+     "eq",
+     "the result of a decade of \"considered engineering\"."
+    ],
+    [
+     "del",
+     "JLR's electric roll-out comes after"
+    ],
+    [
+     "ins",
+     "\"This is"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "turbulent year with profits dropping"
+    ],
+    [
+     "ins",
+     "pivotal for us at Range Rover, for JLR, I really believe that for us it's also for our partners for our retailers for our communities,\" he told the BBC. \"This secures jobs this provides for the economy and we are really excited.\" 'A profound change' David Bailey, professor of business economics at the University of Birmingham, said the launch was the \"start of a new era\" for the firm. \"It's hugely important, as it's the start of their proper shift into electrification and its going"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "Â£66m"
+    ],
+    [
+     "ins",
+     "mean a profound change for the company but also the supply chain"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "first quarter after a fire at a key Norwegian supplier."
+    ],
+    [
+     "ins",
+     "West Midlands.\" he said."
+    ],
+    [
+     "eq",
+     "The business is also undergoing restructuring, confirming that fewer than 300 roles"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.7222,
+  "numbers_changed": [
+   "1.9",
+   "2026"
+  ],
+  "market_figures_changed": [
+   "£1.9bn"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.25,
+ "similarity": 0.9458,
+ "adjudicated_by": "rules"
+}
