@@ -1,0 +1,226 @@
+{
+ "id": "9b2e6ca20ddebd5f-1f7ff24f-93b62377",
+ "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-09-04T11:07:21Z",
+ "date": "2026-09-04",
+ "old_title": "Trump $1 coin makes him first living president on US currency in a century",
+ "new_title": "Trump $1 coin makes him first living president on US currency in a century",
+ "old_text": "- Published\nDonald Trump's portrait has made its way on to a US coin - the latest move by the president to put his personal stamp on American institutions.\nOn Wednesday, the US Mint launched the $1 coin with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\", to celebrate America's 250th anniversary.\nThe Mint said the coins were not being put into circulation, but they may be used as legal tender.\nFederal law prohibits a living president from appearing on US currency, but a design clause in legislation for the anniversary was used to overcome the ban.\nThe coins - priced at $61 (Â£45) for a roll of 25 and $154.50 for a bag of 100 - were \"not currently in stock\" on the mint's website within hours of going on sale. They were also being sold in vending machines at the US Mint store in Washington DC.\nThe BBC has contacted the US Mint, the Treasury and the White House for further details.\nThe coin has been \"created to celebrate this historic national milestone\" with a \"once-in-a-generation anniversary design destined to become a standout addition to modern collections\", the US Mint said.\nWhile the coins have a golden colour they do not contain any actual gold. According to the US Mint, they are 88.5% copper with the balance being made up of zinc, manganese and nickel.\nIn May, Treasury Secretary Scott Bessent said his department was planning to issue a new $250 bill bearing a portrait of President Trump.\nAt the time, Bessent highlighted that another living US president has previously appeared on the country's currency.\nA half-dollar that was issued to commemorate America's 150th anniversary in 1926 featured then-President Calvin Coolidge.\nThe Trump administration has also cited the Circulating Collectible Coin Redesign Act of 2020, from Trump's first term.\nWhile this statute prohibits portraits of living people on the reverse (tails side) of coins, it does not explicitly cover the obverse (heads side), where Trump's likeness appears on the new $1 coins.\nIn March, the Treasury announced that US paper money would soon bear Trump's signature - another first for a sitting US president.",
+ "new_text": "- Published\nDonald Trump's portrait has made its way on to a US coin - the latest move by the president to put his personal stamp on American institutions.\nOn Wednesday, the US Mint launched the $1 (Â£0.74) coin with a portrait of Trump alongside the words \"Liberty\" and \"In God We Trust\", to celebrate America's 250th anniversary.\nThe Mint said the coins, which are being marketed as a collectable, were not being put into circulation for daily use.\nThe law bans living presidents from appearing on US currency, but a design clause in legislation for the anniversary was used to overcome this.\nThe coins - priced at $61 for a roll of 25 and $154.50 for a bag of 100 - were \"not currently in stock\" on the mint's website within hours of going on sale but it said more are being made.\nThe coins were also being sold in vending machines at the US Mint store in Washington DC.\nThe BBC has contacted the US Mint, the Treasury and the White House for further details.\nThe coin has been \"created to celebrate this historic national milestone\" with a \"once-in-a-generation anniversary design destined to become a standout addition to modern collections\", the US Mint said.\nThe coins have a golden colour but do not contain any actual gold. According to the US Mint, they are 88.5% copper with the balance being made up of zinc, nickel and a manganese brass outer layer.\nWhile they are not in circulation, they can be used as legal tender to pay off debt and taxes, although federal law states that businesses can decide whether or not to accept them.\nIn May, Treasury Secretary Scott Bessent said his department was planning to issue a new $250 bill bearing a portrait of President Trump.\nAt the time, Bessent highlighted that another living US president has previously appeared on the country's currency.\nA half-dollar that was issued to commemorate America's 150th anniversary in 1926 featured then-President Calvin Coolidge.\nThe Trump administration has also cited the Circulating Collectible Coin Redesign Act of 2020, from Trump's first term.\nWhile this statute prohibits portraits of living people on the reverse (tails side) of coins, it does not explicitly cover the obverse (heads side), where Trump's likeness appears on the new $1 coins.\nIn March, the Treasury announced that US paper money would soon bear Trump's signature - another first for a sitting US president.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "stamp on American institutions. On Wednesday, the US Mint launched the $1"
+    ],
+    [
+     "ins",
+     "(Â£0.74)"
+    ],
+    [
+     "eq",
+     "coin with a portrait of Trump alongside the words"
+    ],
+    [
+     "del",
+     "\"LIBERTY\""
+    ],
+    [
+     "ins",
+     "\"Liberty\""
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "\"IN GOD WE TRUST\","
+    ],
+    [
+     "ins",
+     "\"In God We Trust\","
+    ],
+    [
+     "eq",
+     "to celebrate America's 250th anniversary. The Mint said the"
+    ],
+    [
+     "del",
+     "coins"
+    ],
+    [
+     "ins",
+     "coins, which are being marketed as a collectable,"
+    ],
+    [
+     "eq",
+     "were not being put into"
+    ],
+    [
+     "del",
+     "circulation, but they may be used as legal tender. Federal"
+    ],
+    [
+     "ins",
+     "circulation for daily use. The"
+    ],
+    [
+     "eq",
+     "law"
+    ],
+    [
+     "del",
+     "prohibits a"
+    ],
+    [
+     "ins",
+     "bans"
+    ],
+    [
+     "eq",
+     "living"
+    ],
+    [
+     "del",
+     "president"
+    ],
+    [
+     "ins",
+     "presidents"
+    ],
+    [
+     "eq",
+     "from appearing on US currency, but a design clause in legislation for the anniversary was used to overcome"
+    ],
+    [
+     "del",
+     "the ban."
+    ],
+    [
+     "ins",
+     "this."
+    ],
+    [
+     "eq",
+     "The coins - priced at $61"
+    ],
+    [
+     "del",
+     "(Â£45)"
+    ],
+    [
+     "eq",
+     "for a roll of 25 and $154.50 for a bag of 100"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "currently in stock\" on the mint's website within hours of going on"
+    ],
+    [
+     "del",
+     "sale. They"
+    ],
+    [
+     "ins",
+     "sale but it said more are being made. The coins"
+    ],
+    [
+     "eq",
+     "were also being sold in vending machines at the US Mint store"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to become a standout addition to modern collections\", the US Mint said."
+    ],
+    [
+     "del",
+     "While the"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "coins have a golden colour"
+    ],
+    [
+     "del",
+     "they"
+    ],
+    [
+     "ins",
+     "but"
+    ],
+    [
+     "eq",
+     "do not contain any actual gold. According to the US Mint, they are 88.5% copper with the balance being made up of zinc,"
+    ],
+    [
+     "ins",
+     "nickel and a"
+    ],
+    [
+     "eq",
+     "manganese"
+    ],
+    [
+     "ins",
+     "brass outer layer. While they are not in circulation, they can be used as legal tender to pay off debt"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "nickel."
+    ],
+    [
+     "ins",
+     "taxes, although federal law states that businesses can decide whether or not to accept them."
+    ],
+    [
+     "eq",
+     "In May, Treasury Secretary Scott Bessent said his department was planning to"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.277,
+  "numbers_changed": [
+   "0.74",
+   "45"
+  ],
+  "market_figures_changed": [
+   "£0.74",
+   "£45"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.75,
+ "similarity": 0.9893,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,188 @@
+{
+ "id": "c7e32e7ed4e117d5-b5190338-504daa71",
+ "url": "https://www.theguardian.com/sport/2026/sep/03/south-africa-airline-behind-greatest-rivalry-flyby-cancels-repeat-display-rugby-union",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-09-04T11:12:45Z",
+ "date": "2026-09-04",
+ "old_title": "South African airline behind low-level flyby stunt cancels repeat display",
+ "new_title": "South African airline behind low-level flyby stunt cancels repeat display",
+ "old_text": "South African airline Airlink has cancelled a planned flypast before Saturday's Springboks-All Blacks rugby Test as the country's aviation regulator reviews a similar display conducted by the airline last week.\nAirlink said on Wednesday it had withdrawn its application for a formation flyby ahead of the Rugby Championship clash at Johannesburg's FNB Stadium, citing forecasts of unfavourable weather. The South African civil aviation authority (SACAA) is conducting a compliance verification of the airline's 29 August flypast over Cape Town's DHL Stadium.\n\"We are currently conducting a compliance verification just to satisfy ourselves that all safety protocols were adhered to by the crew,\" said the SACAA executive Phindiwe Gwebu.\nJust before the start of the second Test between South Africa and New Zealand, two Airlink Embraer aircraft flew in formation over the packed stadium, drawing widespread attention on social media. According to flight-tracking website Flightradar24, the lead aircraft passed less than 50 feet (15m) above the top of the stadium.\nThe SACAA said it was analysing flight data recorder downloads provided by the airline and had requested additional information from the operator before reaching a conclusion.\nAirlink said it had voluntarily provided the data and maintained the flyby \"was performed safely\" by crews comprising three senior captains with a combined 75,000 hours of flying experience. \"Although we have also heard the widespread enthusiasm for a flyby at FNB Stadium this weekend, the forecast weather points to unfavourable conditions for a safe formation flyby,\" chief executive De Villiers Engelbrecht said.\nSouth Africa and New Zealand are level at 1-1 in the four-Test Greatest Rivalry series heading into Saturday's encounter at Soccer City in Soweto.",
+ "new_text": "The South African airline Airlink has cancelled a planned flypast before Saturday's Springboks v All Blacks rugby Test as the country's aviation regulator reviews a similar display conducted by the airline last week.\nAirlink said on Wednesday it had withdrawn its application for a formation flyby at the Rugby Championship clash at Johannesburg's FNB Stadium, citing forecasts of unfavourable weather. The South African civil aviation authority (SACAA) is conducting a compliance verification of the airline's 29 August flypast over Cape Town's DHL Stadium.\n\"We are currently conducting a compliance verification just to satisfy ourselves that all safety protocols were adhered to by the crew,\" said the SACAA executive Phindiwe Gwebu.\nJust before the start of the second Test between South Africa and New Zealand, two Airlink Embraer aircraft flew in formation over the packed stadium, drawing widespread attention on social media. According to the flight-tracking website Flightradar24, the lead aircraft passed less than 50 feet (15m) above the top of the stadium.\nThe SACAA said it was analysing flight data recorder downloads provided by the airline and had requested additional information from the operator before reaching a conclusion.\nAirlink said it had voluntarily provided the data and maintained the flyby \"was performed safely\" by crews comprising three senior captains with a combined 75,000 hours of flying experience.\n\"Although we have also heard the widespread enthusiasm for a flyby at FNB Stadium this weekend, the forecast weather points to unfavourable conditions for a safe formation flyby,\" the chief executive, De Villiers Engelbrecht, said.\nMeanwhile, New Zealand have announced three changes to their starting lineup for the third Test at Soccer City on Saturday, including dropping the experienced hooker Codie Taylor. Asafo Aumua will take his place with Samisoni Taukei'aho coming on to the bench in the change to the front row.\nSam Darry will play his first Test of the four-match series as he replaces Fabian Holland in the second row, with Holland dropping to the bench and Patrick Tuipulotu falling out of the matchday squad.\nPeter Lakai is brought into the loose trio in place of Simon Parker, with Wallace Sititi included among the replacements for the first time in the Test series.\nThe backline remains unchanged from last Saturday's 33-26 loss to the Springboks in the second Test in Cape Town. Ardie Savea will again captain the side with a five-three split between forwards and backs on the bench.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "South African airline Airlink has cancelled a planned flypast before Saturday's"
+    ],
+    [
+     "del",
+     "Springboks-All"
+    ],
+    [
+     "ins",
+     "Springboks v All"
+    ],
+    [
+     "eq",
+     "Blacks rugby Test as the country's aviation regulator reviews a similar display"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "said on Wednesday it had withdrawn its application for a formation flyby"
+    ],
+    [
+     "del",
+     "ahead of"
+    ],
+    [
+     "ins",
+     "at"
+    ],
+    [
+     "eq",
+     "the Rugby Championship clash at Johannesburg's FNB Stadium, citing forecasts of unfavourable"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "over the packed stadium, drawing widespread attention on social media. According to"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "flight-tracking website Flightradar24, the lead aircraft passed less than 50 feet (15m)"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the forecast weather points to unfavourable conditions for a safe formation flyby,\""
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "chief"
+    ],
+    [
+     "del",
+     "executive"
+    ],
+    [
+     "ins",
+     "executive,"
+    ],
+    [
+     "eq",
+     "De Villiers"
+    ],
+    [
+     "del",
+     "Engelbrecht"
+    ],
+    [
+     "ins",
+     "Engelbrecht,"
+    ],
+    [
+     "eq",
+     "said."
+    ],
+    [
+     "del",
+     "South Africa and"
+    ],
+    [
+     "ins",
+     "Meanwhile,"
+    ],
+    [
+     "eq",
+     "New Zealand"
+    ],
+    [
+     "del",
+     "are level at 1-1 in"
+    ],
+    [
+     "ins",
+     "have announced three changes to their starting lineup for"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "four-Test Greatest Rivalry series heading into Saturday's encounter"
+    ],
+    [
+     "ins",
+     "third Test"
+    ],
+    [
+     "eq",
+     "at Soccer City"
+    ],
+    [
+     "ins",
+     "on Saturday, including dropping the experienced hooker Codie Taylor. Asafo Aumua will take his place with Samisoni Taukei'aho coming on to the bench"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "Soweto."
+    ],
+    [
+     "ins",
+     "the change to the front row. Sam Darry will play his first Test of the four-match series as he replaces Fabian Holland in the second row, with Holland dropping to the bench and Patrick Tuipulotu falling out of the matchday squad. Peter Lakai is brought into the loose trio in place of Simon Parker, with Wallace Sititi included among the replacements for the first time in the Test series. The backline remains unchanged from last Saturday's 33-26 loss to the Springboks in the second Test in Cape Town. Ardie Savea will again captain the side with a five-three split between forwards and backs on the bench."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.6324,
+  "numbers_changed": [
+   "1",
+   "26",
+   "33"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 0.9898,
+ "adjudicated_by": "rules"
+}

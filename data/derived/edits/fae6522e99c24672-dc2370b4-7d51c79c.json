@@ -1,0 +1,52 @@
+{
+ "id": "fae6522e99c24672-dc2370b4-7d51c79c",
+ "url": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-09-04T11:15:18Z",
+ "date": "2026-09-04",
+ "old_title": "Spending deal comes with a bonus: Blocking political control of grants",
+ "new_title": "Spending deal comes with a bonus: Blocking political control of grants",
+ "old_text": "On Tuesday, the House of Representatives passed a stopgap measure that would continue funding the US government through early December. While the measure still requires the signature of President Trump, it's widely expected that he will act to avoid a government shutdown immediately before the midterm elections.\nThis is a normal part of how the US government has operated in recent years, as it's often difficult to build the political support needed to pass a full year's budget in advance. In fact, dissent within the House's Republican caucus prevented them from agreeing on their own measure to keep the government open; instead, the House simply adopted a version of the spending bill that had previously passed the Senate.\nFrom the perspective of scientists and their supporters, that adoption turned out to be a very good thing. Because the Senate's budget bill, passed in early August, contains a provision that blocks the Office of Management and Budget (OMB) from implementing new rules that would give political appointees full control over what science is funded and allow them to cancel any grant at any time. The proposed rule has been widely decried as catastrophic for science, and it faced widespread opposition from scientific and health-focused organizations.\nThat opposition likely contributed to two senators, Patty Murray (D-Wash.) and Susan Collins (R-Maine), inserting language into the budget deal that prevents the OMB from implementing it prior to the expiration of the stopgap measure on December 11.\nWhile this is not a permanent reprieve, it does signal that the legislature is not interested in handing OMB and other administration officials that much control over federal spending-the bill passed the Senate by a 90-6 margin, and by 370-48 in the House, where opposition largely focused on other aspects of the measure. Those margins raise the prospect that similar language could be inserted into any further budget deals without triggering opposition.",
+ "new_text": "On Tuesday, the House of Representatives passed a stopgap measure that would continue funding the US government through early December. While the measure still requires the signature of President Trump, it's widely expected that he will act to avoid a government shutdown immediately before the midterm elections.\nThis is a normal part of how the US government has operated in recent years, as it's often difficult to build the political support needed to pass a full year's budget in advance. In fact, dissent within the House's Republican caucus prevented them from agreeing on their own measure to keep the government open; instead, the House simply adopted a version of the spending bill that had previously passed the Senate.\nFrom the perspective of scientists and their supporters, that adoption turned out to be a very good thing, because the Senate's budget bill, passed in early August, contains a provision that blocks the Office of Management and Budget (OMB) from implementing new rules that would give political appointees full control over what science is funded and allow them to cancel any grant at any time. The proposed rule has been widely decried as catastrophic for science, and it faced widespread opposition from scientific and health-focused organizations.\nThat opposition likely contributed to two senators, Patty Murray (D-Wash.) and Susan Collins (R-Maine), inserting language into the budget deal that prevents the OMB from implementing it prior to the expiration of the stopgap measure on December 11.\nWhile this is not a permanent reprieve, it does signal that the legislature is not interested in handing OMB and other administration officials that much control over federal spending-the bill passed the Senate by a 90-6 margin, and by 370-48 in the House, where opposition largely focused on other aspects of the measure. Those margins raise the prospect that similar language could be inserted into any further budget deals without triggering opposition.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "and their supporters, that adoption turned out to be a very good"
+    ],
+    [
+     "del",
+     "thing. Because"
+    ],
+    [
+     "ins",
+     "thing, because"
+    ],
+    [
+     "eq",
+     "the Senate's budget bill, passed in early August, contains a provision that"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0127,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

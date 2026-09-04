@@ -1,0 +1,74 @@
+{
+ "id": "4906225191d162d0-8652b34c-df0e1aff",
+ "url": "https://www.bbc.co.uk/news/videos/cly4zxd7e7wo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-09-04T11:09:58Z",
+ "date": "2026-09-04",
+ "old_title": "Canadian 'island' appears to vanish and reappear miles away",
+ "new_title": "Canadian 'island' appears to vanish and reappear miles away, satellite images show",
+ "old_text": "Why did this Canadian 'island' seemingly vanish and reappear miles away?\nA floating \"island\" in a reservoir in British Columbia has turned up about 20 miles (32km) from where it was last spotted, after seeming to vanish in July.\nThe organisation that manages the reservoir says it initially believed the discovery was a \"hoax\".\nBBC Verify has used satellite imagery to track its journey and looked into why it travelled such a distance - as Jake Horton reports.\nProduced by Krystal Campos. Graphic by Sally Nicholls",
+ "new_text": "Satellite images show how Canadian 'island' vanished before turning up 20 miles away\nA floating \"island\" in a reservoir in British Columbia has turned up about 20 miles (32km) from where it was last spotted, after seeming to vanish in July.\nThe organisation that manages the reservoir says it initially believed the discovery was a \"hoax\".\nBBC Verify has used satellite imagery to track its journey and looked into why it travelled such a distance - as Jake Horton reports.\nProduced by Krystal Campos. Graphic by Sally Nicholls",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Why did this"
+    ],
+    [
+     "ins",
+     "Satellite images show how"
+    ],
+    [
+     "eq",
+     "Canadian 'island'"
+    ],
+    [
+     "del",
+     "seemingly vanish and reappear"
+    ],
+    [
+     "ins",
+     "vanished before turning up 20"
+    ],
+    [
+     "eq",
+     "miles"
+    ],
+    [
+     "del",
+     "away?"
+    ],
+    [
+     "ins",
+     "away"
+    ],
+    [
+     "eq",
+     "A floating \"island\" in a reservoir in British Columbia has turned up"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2093,
+  "numbers_changed": [
+   "20"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9751,
+ "adjudicated_by": "rules"
+}
