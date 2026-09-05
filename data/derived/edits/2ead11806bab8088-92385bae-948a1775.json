@@ -1,0 +1,48 @@
+{
+ "id": "2ead11806bab8088-92385bae-948a1775",
+ "url": "https://www.abc.net.au/news/2026-09-04/romanian-prosecutors-indict-andrew-tristan-tate/107118732",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-05T10:22:48Z",
+ "date": "2026-09-05",
+ "old_title": "Romanian prosecutors indict Tate brothers for trafficking minors, laundering charges",
+ "new_title": "Romanian prosecutors indict Tate brothers for trafficking minors, money laundering",
+ "old_text": "Romanian prosecutors indict Tate brothers for trafficking minors, laundering charges\nIn short:\nRomanian prosecutors has officially indicted manosphere influencer Andrew Tate alongside his brother Tristan.\nRomanian prosecutors allege the Tates recruited their victims by seducing them before forcing them to produce pornographic content for a webcam business.\nWhat's next?\nThe Tate brothers remain in jail in the US while a judge decides on the request for their extradition to Britain.",
+ "new_text": "Romanian prosecutors indict Tate brothers for trafficking minors, money laundering charges\nIn short:\nRomanian prosecutors has officially indicted manosphere influencer Andrew Tate alongside his brother Tristan.\nRomanian prosecutors allege the Tates recruited their victims by seducing them before forcing them to produce pornographic content for a webcam business.\nWhat's next?\nThe Tate brothers remain in jail in the US while a judge decides on the request for their extradition to Britain.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Romanian prosecutors indict Tate brothers for trafficking minors,"
+    ],
+    [
+     "ins",
+     "money"
+    ],
+    [
+     "eq",
+     "laundering charges In short: Romanian prosecutors has officially indicted manosphere influencer Andrew"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0143,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9983,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,264 @@
+{
+ "id": "bdf27ad4d1d891e3-2edaee55-5decb6c8",
+ "url": "https://www.abc.net.au/news/2026-09-04/woman-charged-with-murder-of-man-teven-creek-nsw/107114980",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-05T10:22:51Z",
+ "date": "2026-09-05",
+ "old_title": "Woman charged with murder after body found in creek on NSW north coast",
+ "new_title": "No bail for woman charged with domestic violence-related murder of 81yo man",
+ "old_text": "A woman has been charged with murder after the body of a man was found in a creek on a property on the NSW north coast.\nPolice were called just after midday yesterday to a house on Teven Road, Teven, west of Ballina, after reports of a concern for welfare.\nOfficers found the body of an 81-year-old man in a creek on the property.\nA crime scene was established, and an on-site investigation into the circumstances of the man's death is underway.\nNSW Police alleged the man and woman were known to one another.\nA 51-year-old woman was arrested at the scene and taken to the Lismore Police station.\nShe was later taken to Lismore Base Hospital for assessment and then released into police custody this morning, where she was returned to the station and charged with murder.\nThe woman was refused bail to appear before bail division court tomorrow",
+ "new_text": "A woman has been refused bail after being charged with domestic violence-related murder following the discovery of a man's body in a creek at a property on the NSW north coast.\nPolice were called just after midday on Thursday to a house on Teven Road, in Teven, west of Ballina, after reports of a concern for welfare.\nOfficers searched the property and found the body of an 81-year-old man in a creek.\nPolice have since identified the man as Sam Singh and provided an image supplied by his family, who have requested privacy.\nA crime scene was established, and an on-site investigation into the circumstances of the man's death is underway.\nNSW Police alleged the man and woman were known to one another.\nElizabeth Simone Fell, 51, was arrested at the scene and taken to the Lismore police station.\nShe was later transported to Lismore Base Hospital for assessment and then released into police custody on Friday morning, where she was taken back to the station and charged with murder.\nBail refused\nWearing a hospital gown, Ms Fell faced a bail court via audio visual link on Saturday morning.\nHer defence lawyer told the court she had number of health conditions, including bipolar, ADHD and autism.\nMs Fell asked the court when she would be able to see a doctor, saying: \"I need to be in hospital.\"\nThe judge said a request had been made and Corrective Services would facilitate a medical consultation for her.\nBail was not applied for and it was formally refused.\nThe case was adjourned to Lismore Local Court in late October.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "A woman has been"
+    ],
+    [
+     "ins",
+     "refused bail after being"
+    ],
+    [
+     "eq",
+     "charged with"
+    ],
+    [
+     "ins",
+     "domestic violence-related"
+    ],
+    [
+     "eq",
+     "murder"
+    ],
+    [
+     "del",
+     "after"
+    ],
+    [
+     "ins",
+     "following"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "body"
+    ],
+    [
+     "ins",
+     "discovery"
+    ],
+    [
+     "eq",
+     "of a"
+    ],
+    [
+     "del",
+     "man was found"
+    ],
+    [
+     "ins",
+     "man's body"
+    ],
+    [
+     "eq",
+     "in a creek"
+    ],
+    [
+     "del",
+     "on"
+    ],
+    [
+     "ins",
+     "at"
+    ],
+    [
+     "eq",
+     "a property on the NSW north coast. Police were called just after midday"
+    ],
+    [
+     "del",
+     "yesterday"
+    ],
+    [
+     "ins",
+     "on Thursday"
+    ],
+    [
+     "eq",
+     "to a house on Teven Road,"
+    ],
+    [
+     "ins",
+     "in"
+    ],
+    [
+     "eq",
+     "Teven, west of Ballina, after reports of a concern for welfare. Officers"
+    ],
+    [
+     "ins",
+     "searched the property and"
+    ],
+    [
+     "eq",
+     "found the body of an 81-year-old man in a"
+    ],
+    [
+     "del",
+     "creek on"
+    ],
+    [
+     "ins",
+     "creek. Police have since identified"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "property."
+    ],
+    [
+     "ins",
+     "man as Sam Singh and provided an image supplied by his family, who have requested privacy."
+    ],
+    [
+     "eq",
+     "A crime scene was established, and an on-site investigation into the circumstances"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "NSW Police alleged the man and woman were known to one another."
+    ],
+    [
+     "del",
+     "A 51-year-old woman"
+    ],
+    [
+     "ins",
+     "Elizabeth Simone Fell, 51,"
+    ],
+    [
+     "eq",
+     "was arrested at the scene and taken to the Lismore"
+    ],
+    [
+     "del",
+     "Police"
+    ],
+    [
+     "ins",
+     "police"
+    ],
+    [
+     "eq",
+     "station. She was later"
+    ],
+    [
+     "del",
+     "taken"
+    ],
+    [
+     "ins",
+     "transported"
+    ],
+    [
+     "eq",
+     "to Lismore Base Hospital for assessment and then released into police custody"
+    ],
+    [
+     "del",
+     "this"
+    ],
+    [
+     "ins",
+     "on Friday"
+    ],
+    [
+     "eq",
+     "morning, where she was"
+    ],
+    [
+     "del",
+     "returned"
+    ],
+    [
+     "ins",
+     "taken back"
+    ],
+    [
+     "eq",
+     "to the station and charged with murder."
+    ],
+    [
+     "ins",
+     "Bail refused Wearing a hospital gown, Ms Fell faced a bail court via audio visual link on Saturday morning. Her defence lawyer told the court she had number of health conditions, including bipolar, ADHD and autism. Ms Fell asked the court when she would be able to see a doctor, saying: \"I need to be in hospital.\""
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "woman"
+    ],
+    [
+     "ins",
+     "judge said a request had been made and Corrective Services would facilitate a medical consultation for her. Bail"
+    ],
+    [
+     "eq",
+     "was"
+    ],
+    [
+     "del",
+     "refused bail"
+    ],
+    [
+     "ins",
+     "not applied for and it was formally refused. The case was adjourned"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "appear before bail division court tomorrow"
+    ],
+    [
+     "ins",
+     "Lismore Local Court in late October."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.12,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.767,
+ "similarity": 0.8672,
+ "adjudicated_by": "rules"
+}
