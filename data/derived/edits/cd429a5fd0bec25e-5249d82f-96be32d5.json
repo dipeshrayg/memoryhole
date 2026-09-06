@@ -1,0 +1,52 @@
+{
+ "id": "cd429a5fd0bec25e-5249d82f-96be32d5",
+ "url": "https://www.abc.net.au/news/2026-09-05/alleged-axe-attack-gippsland-victoria-police-search/107120310",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-06T10:43:30Z",
+ "date": "2026-09-06",
+ "old_title": "Man on run after allegedly attacking three people with axe",
+ "new_title": "Man on run after allegedly attacking three people with axe",
+ "old_text": "A man believed to be wielding an axe has allegedly attacked three people, including an elderly man and woman, in Gippsland and remains on the run, say Victoria Police.\nPolice were told the man, who is known to the victims, allegedly attacked the pair and another man at an address in Cowies Road, Tyers, about 12:30pm today.\nThe man, in his 50s, fled the address and the victims were able to call emergency services for help.\nThe elderly male and the second man were airlifted to hospital in Melbourne with life-threatening injuries, police said in a statement.\n\"The elderly woman also sustained critical injuries and was taken to hospital.\"\nPolice said a large-scale search was underway for the alleged offender, whom they believe may be armed with an axe and a handsaw.\nHe was last seen wearing a black-and-mustard-coloured jacket and carrying a black backpack.\nPolice said anyone who sees the man should not approach him, and instead contact Triple Zero (000).\nAnyone with information has been urged to contact Crime Stoppers via 1800 333 000 or www.crimestoppersvic.com.au.",
+ "new_text": "A man believed to be wielding an axe has allegedly attacked three people, including an elderly man and woman, in Gippsland and remains on the run, say Victoria Police.\nPolice were told the man, who is known to the victims, allegedly attacked the pair and another man at an address in Cowies Road, Tyers, about 12:30pm Saturday.\nThe man, in his 50s, fled the address and the victims were able to call emergency services for help.\nThe elderly male and the second man were airlifted to hospital in Melbourne with life-threatening injuries, police said in a statement.\n\"The elderly woman also sustained critical injuries and was taken to hospital.\"\nPolice said a large-scale search was underway for the alleged offender, whom they believe may be armed with an axe and a handsaw.\nHe was last seen wearing a black-and-mustard-coloured jacket and carrying a black backpack.\nPolice said anyone who sees the man should not approach him, and instead contact Triple Zero (000).\nAnyone with information has been urged to contact Crime Stoppers via 1800 333 000 or www.crimestoppersvic.com.au.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "and another man at an address in Cowies Road, Tyers, about 12:30pm"
+    ],
+    [
+     "del",
+     "today."
+    ],
+    [
+     "ins",
+     "Saturday."
+    ],
+    [
+     "eq",
+     "The man, in his 50s, fled the address and the victims were"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0112,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9998,
+ "adjudicated_by": "rules"
+}
