@@ -1,0 +1,68 @@
+{
+ "id": "37f1df725140cee6-d680f8da-2731995b",
+ "url": "https://www.dw.com/en/germany-plans-anti-drone-shield-after-leipzig-attack-report/a-79052604?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-07T12:05:16Z",
+ "date": "2026-09-07",
+ "old_title": "Germany plans anti-drone shield after Leipzig attack: report",
+ "new_title": "Germany plans anti-drone shield over Leipzig attack - report",
+ "old_text": "Germany is planning a comprehensive protective shield to prevent attacks like the failed assault on Leipzig airport, Interior Minister Alexander Dobrindt said Sunday.\nOn August 4, several small drones targeted Leipzig-Halle Airport in eastern Germany, with one hitting a parked plane, while another is thought to have struck an inbound cargo jet.\nGerman intelligence agencies blamed Russia for the incident, which Moscow has denied.\nWhat did Dobrindt say about the shield?\nDobrindt told Bild am Sonntag newspaper that Russia's hybrid attacks are now a \"daily\" reality, adding: \"These attacks will increase, but we can defend ourselves and protect ourselves.\"\nBild cited information from the Interior Ministry showing the government plans to expand the federal police's mobile drone-defense units.\nThe measures include vehicles and helicopters that can be quickly deployed to protect airspace over key cities like Frankfurt, Munich and Berlin to counter drone attacks.\nBild said the shield would not only intercept drones, but could also defuse drone bombs and other explosive devices.\nThe newspaper described how a change in the law would allow critical infrastructure operators - including water, power and defense companies - to detect and defend against drone sabotage.\nNew tech planned to boost cyber security\nBild also described how a national protective cyber shield would be set up to detect and intercept hacking attacks.\nThe measure comes amid hundreds of cyberattacks on government departments, infrastructure and companies each day, many of them blamed on Russia, other states and criminal gangs.\nThe newspaper said the government also wants to increase the use of AI, biometric facial recognition and video surveillance, especially at transport hubs, to identify suspected attackers before they carry out attacks.\nOver 1,000 drone sightings in 2025\nThe head of Germany's Federal Criminal Police Office (BKA), Holger Münch, told Bild in December that more than a thousand suspicious drone flights were recorded over Germany last year.\nThese incidents mostly targeted military sites, airports, ports and defense firms and were treated as surveillance or harassment, rather than attacks.\nLeipzig airport has been targeted by sabotage before. In July 2024, a suspected Russian incendiary parcel caught fire at the airport's DHL hub.\nThe cargo hub is also utilized by the Ukrainian military and NATO to airlift arms for use in the Ukrainian defense against Russia's invasion.\nEdited by: Wesley Dockery\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "Germany is planning a comprehensive protective shield to prevent attacks like the failed assault on Leipzig airport, Interior Minister Alexander Dobrindt said Sunday.\nOn August 4, several small drones targeted Leipzig-Halle Airport in eastern Germany, with one hitting a parked plane, while another is thought to have struck an inbound cargo jet.\nGerman intelligence agencies blamed Russia for the incident, which Moscow has denied.\nWhat did Dobrindt say about the shield?\nDobrindt told Bild am Sonntag newspaper that Russia's hybrid attacks are now a \"daily\" reality, adding: \"These attacks will increase, but we can defend ourselves and protect ourselves.\"\nThe newspaper cited information from the Interior Ministry showing the government plans to expand the federal police's mobile drone-defense units.\nThe measures include vehicles and helicopters that can be quickly deployed to protect airspace over key cities like Frankfurt, Munich and Berlin to counter drone attacks.\nBild said the shield would not only intercept drones, but could also defuse drone bombs and other explosive devices.\nThe newspaper described how a change in the law would allow critical infrastructure operators - including water, power and defense companies - to detect and defend against drone sabotage.\nRussia's Lavrov accuses Merz of wanting war\nOn Sunday, Russia's Foreign Minister Sergey Lavrov claimed the German accusations levelled against Russia were \"by and large, the start of a real war.\"\nHe reiterated Russia's denial of any involvement with the Leipzig drone attack and criticized German Chancellor Friedrich Merz for wanting to boost the country's military capability in response to hybrid threats.\n\"All these statements by Merz about making Germany the leading military power in Europe once again - they are being put into practice. He is, in effect, declaring war on us,\" Lavrov told Russian state-run TV channel Vesti.\nHe also criticized Germany's closure of Russian House cultural center in berlin and the Russian consulate in Bonn.\nNew tech planned to boost cyber security\nBild also described how a national protective cyber shield would be set up to detect and intercept hacking attacks.\nThe measure comes amid hundreds of cyberattacks on government departments, infrastructure and companies each day, many of them blamed on Russia, other states and criminal gangs.\nThe newspaper said the government also wants to increase the use of AI, biometric facial recognition and video surveillance, especially at transport hubs, to identify suspected attackers before they carry out attacks.\nOver 1,000 drone sightings in 2025\nThe head of Germany's Federal Criminal Police Office (BKA), Holger Münch, told Bild in December that more than a thousand suspicious drone flights were recorded over Germany last year.\nThese incidents mostly targeted military sites, airports, ports and defense firms and were treated as surveillance or harassment, rather than attacks.\nLeipzig airport has been targeted by sabotage before. In July 2024, a suspected Russian incendiary parcel caught fire at the airport's DHL hub.\nThe cargo hub is also utilized by the Ukrainian military and NATO to airlift arms for use in the Ukrainian defense against Russia's invasion.\nEdited by: Wesley Dockery\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "\"These attacks will increase, but we can defend ourselves and protect ourselves.\""
+    ],
+    [
+     "del",
+     "Bild"
+    ],
+    [
+     "ins",
+     "The newspaper"
+    ],
+    [
+     "eq",
+     "cited information from the Interior Ministry showing the government plans to expand"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "power and defense companies - to detect and defend against drone sabotage."
+    ],
+    [
+     "ins",
+     "Russia's Lavrov accuses Merz of wanting war On Sunday, Russia's Foreign Minister Sergey Lavrov claimed the German accusations levelled against Russia were \"by and large, the start of a real war.\" He reiterated Russia's denial of any involvement with the Leipzig drone attack and criticized German Chancellor Friedrich Merz for wanting to boost the country's military capability in response to hybrid threats. \"All these statements by Merz about making Germany the leading military power in Europe once again - they are being put into practice. He is, in effect, declaring war on us,\" Lavrov told Russian state-run TV channel Vesti. He also criticized Germany's closure of Russian House cultural center in berlin and the Russian consulate in Bonn."
+    ],
+    [
+     "eq",
+     "New tech planned to boost cyber security Bild also described how a"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2814,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.15,
+ "similarity": 0.9714,
+ "adjudicated_by": "rules"
+}

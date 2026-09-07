@@ -1,0 +1,96 @@
+{
+ "id": "a96a58ae5f60d8f1-e0f5a211-6ccffd18",
+ "url": "https://www.abc.net.au/news/2026-09-06/bushfires-qld-warrego-highway-hottest-september-day-in-years/107121800",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-07T12:06:51Z",
+ "date": "2026-09-07",
+ "old_title": "Dozens of bushfires burn as Qld swelters through above-average temps",
+ "new_title": "Dozens of bushfires burn as Qld swelters through above-average temps",
+ "old_text": "A large bushfire has caused major disruptions on the Warrego Highway west of Brisbane, as dozens of fires burn in Queensland.\nA Prepare to Leave warning was issued about 3:45pm for the blaze burning at Plainland in the Lockyer Valley, forcing the highway to close in both directions between Brisbane and Toowoomba.\nThe warning has since been downgraded to a Stay Informed advisory, and the highway fully reopened about 5:30pm.\nThe fire is expected to continue to burn for several days.\nThere are 78 bushfires across south-east Queensland.\nA 24-hour fire ban was imposed yesterday for Ipswich and the Lockyer Valley, set to end at midnight tonight.\nQueensland Fire Department deputy chief officer Joel Gordon said hot, dry weather had created challenging firefighting conditions.\n\"We're currently watching three fires that have been burning for a little while ... one up at Sandy Creek ... we've also been monitoring [the] fire that started yesterday at Plainland, another one just a little bit further down at Prenzlau.\"\nHomes under threat\nLockyer Valley Regional Council Mayor Tanya Milligan said up to 20 homes could have been at risk.\n\"They're the homes that the QPS [Queensland Police Service] went and doorknocked,\" she said.\n\"A lot of people voluntarily evacuated and left; some decided not to.\n\"We had some pain-in-the-backside northerly winds, which created some havoc and just made it really unpredictable. We had 26 appliances on site ... we had two water bombers. The fire also ... jumped across the highway.\"\nParts of the state sweltered through some of the hottest September temperatures in seven years today, with temperatures five to 10 degrees above average for the month in parts of the south-east.\nSenior meteorologist Steven Hadley said the mercury in inland areas reached 34 to 36 degrees Celsius.\n\"That's the hottest we've seen in September since 2019,\"\n\"We're getting into spring now so the sun's getting higher in the sky, [and] more intense, so it's able to heat the ground and air up more readily than it was in August.\"",
+ "new_text": "A large bushfire has caused major disruptions on the Warrego Highway west of Brisbane, as dozens of fires burn in Queensland.\nA Prepare to Leave warning was issued about 3:45pm Sunday for the blaze burning at Plainland in the Lockyer Valley, forcing the highway to close in both directions between Brisbane and Toowoomba.\nThe warning has since been downgraded to a Stay Informed advisory, and the highway fully reopened about 5:30pm.\nThe fire is expected to continue to burn for several days.\nAs of Sunday evening, there were 78 bushfires across south-east Queensland.\nA 24-hour fire ban was imposed yesterday for Ipswich and the Lockyer Valley, set to end at midnight tonight.\nQueensland Fire Department deputy chief officer Joel Gordon said hot, dry weather had created challenging firefighting conditions.\n\"We're currently watching three fires that have been burning for a little while ... one up at Sandy Creek ... we've also been monitoring [the] fire that started yesterday at Plainland, another one just a little bit further down at Prenzlau.\"\nHomes under threat\nLockyer Valley Regional Council Mayor Tanya Milligan said up to 20 homes could have been at risk.\n\"They're the homes that the QPS [Queensland Police Service] went and doorknocked,\" she said.\n\"A lot of people voluntarily evacuated and left; some decided not to.\n\"We had some pain-in-the-backside northerly winds, which created some havoc and just made it really unpredictable. We had 26 appliances on site. We had two water bombers. The fire also jumped across the highway.\"\nParts of the state sweltered through some of the hottest September temperatures in seven years today, with temperatures five to 10 degrees above average for the month in parts of the south-east.\nSenior meteorologist Steven Hadley said the mercury in inland areas reached 34 to 36 degrees Celsius.\n\"That's the hottest we've seen in September since 2019,\"\n\"We're getting into spring now so the sun's getting higher in the sky, [and] more intense, so it's able to heat the ground and air up more readily than it was in August.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "burn in Queensland. A Prepare to Leave warning was issued about 3:45pm"
+    ],
+    [
+     "ins",
+     "Sunday"
+    ],
+    [
+     "eq",
+     "for the blaze burning at Plainland in the Lockyer Valley, forcing the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "5:30pm. The fire is expected to continue to burn for several days."
+    ],
+    [
+     "del",
+     "There are"
+    ],
+    [
+     "ins",
+     "As of Sunday evening, there were"
+    ],
+    [
+     "eq",
+     "78 bushfires across south-east Queensland. A 24-hour fire ban was imposed yesterday"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "havoc and just made it really unpredictable. We had 26 appliances on"
+    ],
+    [
+     "del",
+     "site ... we"
+    ],
+    [
+     "ins",
+     "site. We"
+    ],
+    [
+     "eq",
+     "had two water bombers. The fire also"
+    ],
+    [
+     "del",
+     "..."
+    ],
+    [
+     "eq",
+     "jumped across the highway.\" Parts of the state sweltered through some of"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0445,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9851,
+ "adjudicated_by": "rules"
+}

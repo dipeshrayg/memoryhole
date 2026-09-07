@@ -1,0 +1,68 @@
+{
+ "id": "c7d25a59ee4e7ecb-514d9f63-5747cbed",
+ "url": "https://www.france24.com/en/video/20260906-germany-s-far-right-afd-clear-frontrunner-in-eastern-state-vote",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-07T12:06:04Z",
+ "date": "2026-09-07",
+ "old_title": "Germany's far-right AfD clear frontrunner in eastern state vote",
+ "new_title": "Germany's AfD chases historic breakthrough as Saxony-Anhalt votes",
+ "old_text": "Germany's far-right AfD clear frontrunner in eastern state vote\nIssued on:\nShare\nGerman voters headed to the polls Sunday for a crucial regional election in the ex-communist east where the far-right, anti-immigration and Moscow-friendly AfD is expected to win easily.",
+ "new_text": "Germany's AfD chases historic breakthrough as Saxony-Anhalt votes\nIssued on: Modified:\nShare\nGerman voters headed to the polls Sunday for a crucial regional election in the ex-communist east where the far-right, anti-immigration and Moscow-friendly AfD is expected to win easily.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Germany's"
+    ],
+    [
+     "del",
+     "far-right"
+    ],
+    [
+     "eq",
+     "AfD"
+    ],
+    [
+     "del",
+     "clear frontrunner in eastern state vote"
+    ],
+    [
+     "ins",
+     "chases historic breakthrough as Saxony-Anhalt votes"
+    ],
+    [
+     "eq",
+     "Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "Share German voters headed to the polls Sunday for a crucial regional"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.35,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.413,
+ "similarity": 0.8512,
+ "adjudicated_by": "rules"
+}
