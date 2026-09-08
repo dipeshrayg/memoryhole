@@ -1,0 +1,44 @@
+{
+ "id": "9ce201b28f9ca496-f792fc56-f1e75c99",
+ "url": "https://finance.yahoo.com/small-business/articles/stalled-exit-market-sponsors-consolidating-112415745.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-09-08T11:09:57Z",
+ "date": "2026-09-08",
+ "old_title": "In a stalled exit market, sponsors are consolidating their way out",
+ "new_title": "In a stalled exit market, sponsors are consolidating their way out",
+ "old_text": "Featured image by Jenna O'Malley/PitchBook News\nEuropean PE add-ons are stuck at decade highs for the obvious reason-sponsors playing it safe-but increasingly also because a consolidated platform is what enhances the chance to exit.\nAccording to PitchBook's Q2 2026 European PE Breakdown, there were 2,121 add-on deals in H1 2026, reaching a decade high of 57.7% of the total European PE deal count. It's the third straight quarter the strategy has held near record levels.\nRichard Damming, head of PE investments Europe at Schroders Capital, spoke with PitchBook News about why a consolidated platform may help secure an exit in the subdued market and how to create value in times of low financial leverage.\nThis interview has been edited for length and clarity.\nGet our daily digest of private capital markets in the EMEA region.\nPitchBook: Is the high financing cost the biggest challenge for value creation now in the lower mid-market?\nRichard Damming, Head of PE Investments Europe, Schroders Capital\nDamming: Yes, definitely. Since 2022, when interest rates shot up and inflation was high, there has been a clear impact on the PE industry and financing has become more difficult. In the lower mid-market-where there are smaller transactions with typically lower valuations-you need less leverage, and they can typically be financed by private debt funds or even through local banks that are still active in that space.\nYou do not need to arrange huge syndicates of investors to take on that debt, which happens with the very large transactions. We continue to favor the lower mid-market in this environment: it is easier to finance, valuations are more attractive, there is more consolidation and value-creation opportunity, and it is more insulated from the geopolitical issues we have globally. In this segment, debt is usually more expensive, but we see some very high-margin businesses, so they do not necessarily have less buffer, they can service their interest payments quite well.\nHow can an add-on strategy help in times of high leverage cost?\nConsolidating markets is a big theme; it creates a lot of value for larger buyers at exits. A lot of bigger corporates do not want to do that consolidation work themselves, so they are happy to buy something that has been nicely consolidated and integrate it into their larger organization, you are basically doing that work already for the future buyer.\nIt is also about generational transition. There are a lot of small businesses run by older people nowadays, and they need an exit route-they are happy to sell, and often not even maximise the price. So, typically, you might buy a platform at 10-12x EBITDA, but you buy these add-ons for 6x. You put it on the platform and it suddenly becomes worth 12 times, having been bought at 6 timmes.It is immediately very additive to the value.",
+ "new_text": "Jenna O'Malley/PitchBook News\nEuropean PE add-ons are stuck at decade highs for the obvious reason-sponsors playing it safe-but increasingly also because a consolidated platform is what enhances the chance to exit.\nAccording to PitchBook's Q2 2026 European PE Breakdown, there were 2,121 add-on deals in H1 2026, reaching a decade high of 57.7% of the total European PE deal count. It's the third straight quarter the strategy has held near record levels.\nRichard Damming, head of PE investments Europe at Schroders Capital, spoke with PitchBook News about why a consolidated platform may help secure an exit in the subdued market and how to create value in times of low financial leverage.\nThis interview has been edited for length and clarity.\nGet our daily digest of private capital markets in the EMEA region.\nPitchBook: Is the high financing cost the biggest challenge for value creation now in the lower mid-market?\nRichard Damming, Head of PE Investments Europe, Schroders Capital\nDamming: Yes, definitely. Since 2022, when interest rates shot up and inflation was high, there has been a clear impact on the PE industry and financing has become more difficult. In the lower mid-market-where there are smaller transactions with typically lower valuations-you need less leverage, and they can typically be financed by private debt funds or even through local banks that are still active in that space.\nYou do not need to arrange huge syndicates of investors to take on that debt, which happens with the very large transactions. We continue to favor the lower mid-market in this environment: it is easier to finance, valuations are more attractive, there is more consolidation and value-creation opportunity, and it is more insulated from the geopolitical issues we have globally. In this segment, debt is usually more expensive, but we see some very high-margin businesses, so they do not necessarily have less buffer, they can service their interest payments quite well.\nHow can an add-on strategy help in times of high leverage cost?\nConsolidating markets is a big theme; it creates a lot of value for larger buyers at exits. A lot of bigger corporates do not want to do that consolidation work themselves, so they are happy to buy something that has been nicely consolidated and integrate it into their larger organization, you are basically doing that work already for the future buyer.\nIt is also about generational transition. There are a lot of small businesses run by older people nowadays, and they need an exit route-they are happy to sell, and often not even maximise the price. So, typically, you might buy a platform at 10-12x EBITDA, but you buy these add-ons for 6x. You put it on the platform and it suddenly becomes worth 12 times, having been bought at 6 timmes.It is immediately very additive to the value.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Featured image by"
+    ],
+    [
+     "eq",
+     "Jenna O'Malley/PitchBook News European PE add-ons are stuck at decade highs for"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0064,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.077,
+ "similarity": 0.9571,
+ "adjudicated_by": "rules"
+}

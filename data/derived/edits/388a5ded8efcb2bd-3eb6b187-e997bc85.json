@@ -1,0 +1,44 @@
+{
+ "id": "388a5ded8efcb2bd-3eb6b187-e997bc85",
+ "url": "https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-08T10:58:00Z",
+ "date": "2026-09-08",
+ "old_title": "Four murder arrests over baby's death in Staffordshire woodland",
+ "new_title": "Four murder arrests over baby's death in Staffordshire woodland",
+ "old_text": "- Published\nFour people have been arrested on suspicion of murder after a baby was found dead while camping with her family in Staffordshire.\nThe three-month-old girl died after emergency services were called to reports of a child in cardiac arrest in woodland off Strawberry Lane, near Cheslyn Hay, at 08:45 BST on Saturday.\nThe people arrested were a 42-year-old man and 30-year-old woman from south Staffordshire, a 20-year-old woman from Wolverhampton and an 18-year-old man from Walsall.\nAll four were detained at the scene and have since been bailed while inquiries continue, Staffordshire Police said.\nDet Insp Josh Lee said officers were working to gather further evidence around the circumstances of the girl's death and were \"keeping an open mind\".\nHe said it was being treated as an isolated incident and urged people not to share \"unconfirmed and speculative\" claims online.\nThe scene of the tragedy was described as being \"hidden away\" from the main woodland in the Wyrley and Essington Branch Canal Local Nature Reserve.\nIt is not an official camping site but locals said people would often fish in two nearby pools, while the nature trail is also popular with dog walkers and runners.\nOfficers were in the area over the weekend to provide reassurance to the community and a bunch of roses was left nearby in tribute to the girl.\nA cordon was in place around the scene, close to the fishing lake, where two camping tents had been pitched.\nResidents living in Cheslyn Hay, which has a population of about 7,000 people, were said to have been left shocked by the child's death.\nCouncillor Robert Duncan, of South Staffordshire Council, said the community was devastated and urged residents to \"avoid speculation\".\nPeople should \"allow the family and responders the privacy and respect they deserve\", he added.\nThe superintendent of the Cannock Chase Methodist Church Circuit, Rev Samantha Hagerman, said: \"Our thoughts and prayers are with family, friends and emergency services affected by the incident near Cheslyn Hay yesterday.\"",
+ "new_text": "- Published\nFour people have been arrested on suspicion of murder after a baby was found dead while camping with her family in Staffordshire.\nThe three-month-old girl died after emergency services were called to reports of a child in cardiac arrest in woodland off Strawberry Lane, near Cheslyn Hay, at 08:45 BST on Saturday.\nThe people arrested were a 42-year-old man and 30-year-old woman from south Staffordshire, a 20-year-old woman from Wolverhampton and an 18-year-old man from Walsall.\nAll four were detained at the scene and have since been bailed while inquiries continue, Staffordshire Police said.\nDet Insp Josh Lee said officers were working to gather further evidence around the circumstances of the girl's death and were \"keeping an open mind\".\nHe said it was being treated as an isolated incident and urged people not to share \"unconfirmed and speculative\" claims online.\nThe scene of the tragedy was described as being \"hidden away\" from the main woodland in the Wyrley and Essington Branch Canal Local Nature Reserve.\nIt is not an official camping site but locals said people would often fish in two nearby pools, while the nature trail is also popular with dog walkers and runners.\nOfficers were in the area over the weekend to provide reassurance to the community and a bunch of roses was left nearby in tribute to the girl.\nA cordon was in place around the scene, close to the fishing lake, where two camping tents had been pitched.\nResidents living in Cheslyn Hay, which has a population of about 7,000 people, were said to have been left shocked by the child's death.\nCouncillor Robert Duncan, of South Staffordshire Council, said the community was devastated and urged residents to \"avoid speculation\".\nPeople should \"allow the family and responders the privacy and respect they deserve\", he added.\nThe superintendent of the Cannock Chase Methodist Church Circuit, Rev Samantha Hagerman, said: \"Our thoughts and prayers are with family, friends and emergency services affected by the incident near Cheslyn Hay yesterday.\"\nSir Gavin Williamson, MP for Stone, Great Wyrley and Penkridge, described it as \"extremely distressing news\" which had caused a lot of concern in the area.\nHe also called for people not to speculate about what happened and to allow police to carry out their investigations.\n\"I am extremely grateful to the emergency services and my thoughts are with the child's family at this incredibly upsetting time,\" he said on Facebook.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "friends and emergency services affected by the incident near Cheslyn Hay yesterday.\""
+    ],
+    [
+     "ins",
+     "Sir Gavin Williamson, MP for Stone, Great Wyrley and Penkridge, described it as \"extremely distressing news\" which had caused a lot of concern in the area. He also called for people not to speculate about what happened and to allow police to carry out their investigations. \"I am extremely grateful to the emergency services and my thoughts are with the child's family at this incredibly upsetting time,\" he said on Facebook."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2132,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

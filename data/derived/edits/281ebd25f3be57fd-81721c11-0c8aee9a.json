@@ -1,0 +1,48 @@
+{
+ "id": "281ebd25f3be57fd-81721c11-0c8aee9a",
+ "url": "https://www.bbc.co.uk/sport/boxing/articles/c624gxplj72o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-09-08T11:11:49Z",
+ "date": "2026-09-08",
+ "old_title": "Joshua vs Fury: Tyson Fury says he is looking for new opponent and calls out Oleksandr Usyk",
+ "new_title": "Joshua vs Fury: Tyson Fury says he is looking for new opponent and calls out Oleksandr Usyk",
+ "old_text": "- Published\nTyson Fury claims he is looking for a new opponent for November and has called out Oleksandr Usyk despite being contracted to fight Anthony Joshua next.\nThe all-British heavyweight showdown is being targeted for November, with both Joshua and Fury signing individual contracts for the contest.\nBut the issue of where the fight takes place has caused a delay in an official announcement with organisers pushing to stage it in the US rather than Joshua's preferred location of Wembley Stadium.\nIn an expletive-laden video posted on Instagram, Fury claimed Joshua was backing out of the fight.\n\"This will only lead me to a fight with Oleksandr Usyk,\" he said.\n\"Oleksandr you're his [Joshua's] trainer and his sensei and you know he is weak minded... and that he would never fight the Gypsy King which you have had the guts to do twice.\n\"You got the decisions last time, fair play to you.\n\"Good luck to you, let's do it again. Let's run it back in November. The ball is now in your court... do you want to fight me this year, 2026, or are you calling it quits?\n\"Let me know because I am now looking for a new opponent.\"\nFury has twice lost to Usyk, with the two-time undisputed heavyweight champion now working with Joshua as part of his training and coaching team.\nSela, Queensberry and Matchroom declined to comment on whether talks had broken down when contacted by BBC Sport.\nSaudi Arabian promoter Sela is fronting the bill for the prospective Joshua-Fury fight, with both men signing separate contracts with the company.\nJoshua's contract stipulates it must take place in the UK, leading to his promoter Eddie Hearn renegotiating details in that deal.\nBut after London Mayor Sir Sadiq Khan made a public plea for the fight to happen at Wembley, Hearn said talks about staging it in the UK had \"re-opened\".\nSela and broadcaster Netflix are understood to favour New York's Madison Square Garden.\nBBC Sport understands Sela has contacted the London mayor's office in recent weeks about bringing the long-awaited contest to the national stadium, but have not progressed talks further since last week.\nHearn had said he hoped an announcement could happen in the coming week, but that now seems unlikely given the latest developments.\nA bout at Wembley may need to happen in the early hours - which would draw in a larger television audience in the US.\nKhan says his team would back such a proposal.\n\"A message to the promoters - we want to host it in London. Talk to us, we're really keen to have it,\" Khan told BBC Sport on Thursday.\n\"I'm hoping the promoters understand that not only will you get 100,000 people watching this bout live, you'll get millions watching it across the globe, where both boxers are cheered on by their loyal fans.\"",
+ "new_text": "- Published\nTyson Fury claims he is looking for a new opponent for November and has called out Oleksandr Usyk despite being contracted to fight Anthony Joshua next.\nThe all-British heavyweight showdown is being targeted for November, with both Joshua and Fury signing individual contracts for the contest.\nBut the issue of where the fight takes place has caused a delay in an official announcement with organisers pushing to stage it in the US rather than Joshua's preferred location of Wembley Stadium.\nIn an expletive-laden video posted on Instagram, Fury claimed Joshua was backing out of the fight.\n\"This will only lead me to a fight with Oleksandr Usyk,\" he said.\n\"Oleksandr you're his [Joshua's] trainer and his sensei and you know he is weak minded... and that he would never fight the Gypsy King which you have had the guts to do twice.\n\"You got the decisions last time, fair play to you.\n\"Good luck to you, let's do it again. Let's run it back in November. The ball is now in your court... do you want to fight me this year, 2026, or are you calling it quits?\n\"Let me know because I am now looking for a new opponent.\"\nHowever, Usyk's manager Sergey Lapin says the Ukrainian \"is not Tyson's back-up plan\".\nIn a statement to Sky Sports News, Lapin said: \"Oleksandr is always open to big challenges. But serious intentions are backed by a concrete offer, not statements in the press.\"\nFury has twice lost to Usyk, with the two-time undisputed heavyweight champion now working with Joshua as part of his training and coaching team.\nSela, Queensberry and Matchroom declined to comment on whether talks had broken down when contacted by BBC Sport.\nSaudi Arabian promoter Sela is fronting the bill for the prospective Joshua-Fury fight, with both men signing separate contracts with the company.\nJoshua's contract stipulates it must take place in the UK, leading to his promoter Eddie Hearn renegotiating details in that deal.\nBut after London Mayor Sir Sadiq Khan made a public plea for the fight to happen at Wembley, Hearn said talks about staging it in the UK had \"re-opened\".\nSela and broadcaster Netflix are understood to favour New York's Madison Square Garden.\nBBC Sport understands Sela has contacted the London mayor's office in recent weeks about bringing the long-awaited contest to the national stadium, but have not progressed talks further since last week.\nHearn had said he hoped an announcement could happen in the coming week, but that now seems unlikely given the latest developments.\nA bout at Wembley may need to happen in the early hours - which would draw in a larger television audience in the US.\nKhan says his team would back such a proposal.\n\"A message to the promoters - we want to host it in London. Talk to us, we're really keen to have it,\" Khan told BBC Sport on Thursday.\n\"I'm hoping the promoters understand that not only will you get 100,000 people watching this bout live, you'll get millions watching it across the globe, where both boxers are cheered on by their loyal fans.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "\"Let me know because I am now looking for a new opponent.\""
+    ],
+    [
+     "ins",
+     "However, Usyk's manager Sergey Lapin says the Ukrainian \"is not Tyson's back-up plan\". In a statement to Sky Sports News, Lapin said: \"Oleksandr is always open to big challenges. But serious intentions are backed by a concrete offer, not statements in the press.\""
+    ],
+    [
+     "eq",
+     "Fury has twice lost to Usyk, with the two-time undisputed heavyweight champion"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.09,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

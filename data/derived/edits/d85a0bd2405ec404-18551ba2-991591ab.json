@@ -1,0 +1,52 @@
+{
+ "id": "d85a0bd2405ec404-18551ba2-991591ab",
+ "url": "https://www.gov.uk/government/news/derek-wilson-reappointed-as-chair-of-the-sports-grounds-safety-authority-board",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "country": "United Kingdom",
+ "category": "government",
+ "lang": "en",
+ "detected_at": "2026-09-08T11:06:55Z",
+ "date": "2026-09-08",
+ "old_title": "Derek Wilson reappointed as Chair of the Sports Grounds Safety Authority Board",
+ "new_title": "Derek Wilson reappointed as Chair of the Sports Grounds Safety Authority Board",
+ "old_text": "Derek Wilson\nReappointed for a third term from 1 April 2027 to 31 March 2030.\nWith a 30-year career as a specialist sports architect, Derek's work is driven by his passion for sport. His expertise in stadium design, developed through his work on the Olympic and Paralympic Games, has fostered a particular focus on safety, accessibility, and major events.\nDerek brings extensive private and public sector experience, having established architectural practices and served as a board member for the Football Licensing Authority (FLA) and the Sports Ground Safety Authority (SGSA). Having contributed to five Olympic and Paralympic Games since Sydney 2000, Derek served as Head of Design and Overlay for London 2012.\nHis stadium portfolio includes high-profile projects for clubs such as Arsenal FC, Everton FC, and Optus Stadium (Perth). Since 2014, he has also served as an accessibility advisor to the Premier League and contributed to the delivery of 10 NFL Super Bowls. Building on his previous tenure on the SGSA Board, Derek has helped shape numerous safety and accessibility standards, and he currently chairs the Premier League Stadium Improvement Panel.\nRemuneration and Governance Code\nThe Chair of Sports Grounds Safety Authority is remunerated at £36,260 per annum.\nThis appointment has been made in accordance with the Governance Code on Public Appointments. The appointments process is regulated by the Commissioner for Public Appointments.\nUnder the Code, any significant political activity undertaken by an appointee in the last five years must be declared. This is defined as including holding office, public speaking, making a recordable donation, or candidature for election.\nDerek Wilson has not declared any such political activity.\nNotes to Editors\nDCMS has around 400 regulated public appointment roles across 44 Public Bodies including Arts Council England, Theatres Trust, the National Gallery, UK Sport and the Gambling Commission. We encourage applications from talented individuals from all backgrounds and across the whole of the United Kingdom. To find out more about Public Appointments or to apply visit the HM Government Public Appointments Website.",
+ "new_text": "Derek Wilson\nReappointed for a third term from 1 April 2027 to 31 March 2030.\nWith a 30-year career as a specialist sports architect, Derek's work is driven by his passion for sport. His expertise in stadium design, developed through his work on the Olympic and Paralympic Games, has fostered a particular focus on safety, accessibility, and major events.\nDerek brings extensive private and public sector experience, having established architectural practices and served as a board member for the Football Licensing Authority (FLA) and the Sports Grounds Safety Authority (SGSA). Having contributed to five Olympic and Paralympic Games since Sydney 2000, Derek served as Head of Design and Overlay for London 2012.\nHis stadium portfolio includes high-profile projects for clubs such as Arsenal FC, Everton FC, and Optus Stadium (Perth). Since 2014, he has also served as an accessibility advisor to the Premier League and contributed to the delivery of 10 NFL Super Bowls. Building on his previous tenure on the SGSA Board, Derek has helped shape numerous safety and accessibility standards, and he currently chairs the Premier League Stadium Improvement Panel.\nRemuneration and Governance Code\nThe Chair of Sports Grounds Safety Authority is remunerated at £36,260 per annum.\nThis appointment has been made in accordance with the Governance Code on Public Appointments. The appointments process is regulated by the Commissioner for Public Appointments.\nUnder the Code, any significant political activity undertaken by an appointee in the last five years must be declared. This is defined as including holding office, public speaking, making a recordable donation, or candidature for election.\nDerek Wilson has not declared any such political activity.\nNotes to Editors\nDCMS has around 400 regulated public appointment roles across 44 Public Bodies including Arts Council England, Theatres Trust, the National Gallery, UK Sport and the Gambling Commission. We encourage applications from talented individuals from all backgrounds and across the whole of the United Kingdom. To find out more about Public Appointments or to apply visit the HM Government Public Appointments Website.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "a board member for the Football Licensing Authority (FLA) and the Sports"
+    ],
+    [
+     "del",
+     "Ground"
+    ],
+    [
+     "ins",
+     "Grounds"
+    ],
+    [
+     "eq",
+     "Safety Authority (SGSA). Having contributed to five Olympic and Paralympic Games since"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.006,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9998,
+ "adjudicated_by": "rules"
+}
