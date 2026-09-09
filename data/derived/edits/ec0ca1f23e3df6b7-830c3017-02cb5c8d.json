@@ -1,0 +1,152 @@
+{
+ "id": "ec0ca1f23e3df6b7-830c3017-02cb5c8d",
+ "url": "https://www.theguardian.com/football/2026/sep/08/gianni-infantino-fifa-complaint-donald-trump-folarin-balogun",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-09-09T11:14:10Z",
+ "date": "2026-09-09",
+ "old_title": "More than 100,000 people add names to complaint against Gianni Infantino",
+ "new_title": "More than 100,000 people add names to complaint against Gianni Infantino",
+ "old_text": "More than 100,000 people have added their names to a complaint against Gianni Infantino, alleging the Fifa president has \"at a minimum, abused his power, violated his duty of political neutrality, and violated his duty of loyalty\" through his interactions with Donald Trump.\nThe Reboot Fifa campaign was launched before the World Cup with the aim of delivering \"the biggest complaint Fifa has ever received\" over the organisation's alleged failings of governance. The campaign has since extended the scope of its accusations to include the overturning of the red card awarded to Folarin Balogun at the tournament and the aborted Fifa Forward Enterprise (FFE) scheme.\nThe complaint was submitted to Fifa's ethics committee on Tuesday and in a supporting letter the organisers of Reboot Fifa,the advocacy group Fair Square, call on the committee to take action. An original complaint, submitted in December of last year, failed to receive a response from the committee, but has gained the backing of the Norwegian football federation and 50 European parliamentarians.\n\"The fact that 100,000 individuals added their names to this call for accountability is clear evidence of mounting public concern,\" the Fair Square letter said. \"As the independent judicial body tasked with the critical task of upholding the 'integrity and reputation of football', the Ethics Committee must not only act, it must be seen to act with appropriate haste, transparency and rigour.\"\nThe letter lists eight incidents that form the basis of the Reboot Fifa complaint, which Fair Square alleges \"provide compelling evidence that the Fifa president has, at a minimum, abused his power, violated his duty of political neutrality, and violated his duty of loyalty in his efforts to ingratiate himself with the US President.\"\nThe incidents include the Balogun affair - where Trump admitted he asked Fifa to review the US striker's red card - and the FFE scandal. They also cite the awarding of the Fifa peace prize to Trump, Infantino's involvement in Trump's Board of Peace in the Middle East and the Fifa president's promise to work with Trump to \"make not only America great again but also the entire world\", an act Fair Square suggests shows a failure to remain politically neutral.\nFifa, when approached for comment, pointed to a statement first published a month ago. \"It is increasingly evident that there is a concerted and ongoing effort by some to undermine Fifa and its president,\" the statement said. \"Those who do not have the support of Fifa's member associations should not seek to achieve through allegation, insinuation or misinformation what they cannot achieve through Fifa's established democratic processes.\"\nFifa confirmed on Sunday that Infantino would be seeking re-election for a fourth and final term next year despite pressure from Uefa and criticism from within the Asian confederation and Concacaf (the North and Central American and Caribbean confederation). Uefa has called on Infantino to stand down and recently announced its intention to pursue criminal claims in the US over the FFE plans.",
+ "new_text": "More than 100,000 people have added their names to a complaint against Gianni Infantino, alleging the Fifa president has \"at a minimum, abused his power, violated his duty of political neutrality, and violated his duty of loyalty\" through his interactions with Donald Trump.\nThe Reboot Fifa campaign was launched before the World Cup with the aim of delivering \"the biggest complaint Fifa has ever received\" over the organisation's alleged failings of governance. The campaign has since extended the scope of its accusations to include the reversal of the ban for Folarin Balogun at the tournament and the aborted Fifa Forward Enterprise (FFE) scheme.\nThe complaint was submitted on Tuesday to Fifa's ethics committee and in a supporting letter the organisers of Reboot Fifa, the advocacy group Fair Square, call on the committee to take action. An original complaint, submitted in December of last year, failed to receive a response from the committee but has gained the backing of the Norwegian football federation and 50 European parliamentarians.\n\"The fact that 100,000 individuals added their names to this call for accountability is clear evidence of mounting public concern,\" the Fair Square letter said. \"As the independent judicial body tasked with the critical task of upholding the 'integrity and reputation of football', the ethics committee must not only act, it must be seen to act with appropriate haste, transparency and rigour.\"\nThe letter lists eight incidents that form the basis of the Reboot Fifa complaint, which Fair Square alleges \"provide compelling evidence that the Fifa president has, at a minimum, abused his power, violated his duty of political neutrality, and violated his duty of loyalty in his efforts to ingratiate himself with the US president.\"\n. The incidents include the Balogun affair - where Trump admitted he asked Fifa to review the US striker's red card - and the FFE scandal. They also cite the awarding of the Fifa peace prize to Trump, Infantino's involvement in Trump's Board of Peace in the Middle East and the Fifa president's promise to work with Trump to \"make not only America great again but also the entire world\", an act Fair Square suggests shows a failure to remain politically neutral.\nFifa, when approached for comment, pointed to a statement first published a month ago. \"It is increasingly evident that there is a concerted and ongoing effort by some to undermine Fifa and its president,\" the statement said.\n\"Those who do not have the support of Fifa's member associations should not seek to achieve through allegation, insinuation or misinformation what they cannot achieve through Fifa's established democratic processes.\"\nFifa confirmed on Sunday that Infantino would be seeking re-election for a fourth and final term next year despite pressure from Uefa and criticism from within the Asian confederation and Concacaf (the North and Central American and Caribbean confederation). Uefa has called on Infantino to stand down and recently announced its intention to pursue criminal claims in the US over the FFE plans.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "campaign has since extended the scope of its accusations to include the"
+    ],
+    [
+     "del",
+     "overturning"
+    ],
+    [
+     "ins",
+     "reversal"
+    ],
+    [
+     "eq",
+     "of the"
+    ],
+    [
+     "del",
+     "red card awarded to"
+    ],
+    [
+     "ins",
+     "ban for"
+    ],
+    [
+     "eq",
+     "Folarin Balogun at the tournament and the aborted Fifa Forward Enterprise (FFE) scheme. The complaint was submitted"
+    ],
+    [
+     "ins",
+     "on Tuesday"
+    ],
+    [
+     "eq",
+     "to Fifa's ethics committee"
+    ],
+    [
+     "del",
+     "on Tuesday"
+    ],
+    [
+     "eq",
+     "and in a supporting letter the organisers of Reboot"
+    ],
+    [
+     "del",
+     "Fifa,the"
+    ],
+    [
+     "ins",
+     "Fifa, the"
+    ],
+    [
+     "eq",
+     "advocacy group Fair Square, call on the committee to take action. An"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "in December of last year, failed to receive a response from the"
+    ],
+    [
+     "del",
+     "committee,"
+    ],
+    [
+     "ins",
+     "committee"
+    ],
+    [
+     "eq",
+     "but has gained the backing of the Norwegian football federation and 50"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the critical task of upholding the 'integrity and reputation of football', the"
+    ],
+    [
+     "del",
+     "Ethics Committee"
+    ],
+    [
+     "ins",
+     "ethics committee"
+    ],
+    [
+     "eq",
+     "must not only act, it must be seen to act with appropriate"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "duty of loyalty in his efforts to ingratiate himself with the US"
+    ],
+    [
+     "del",
+     "President.\""
+    ],
+    [
+     "ins",
+     "president.\" ."
+    ],
+    [
+     "eq",
+     "The incidents include the Balogun affair - where Trump admitted he asked"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0486,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9833,
+ "adjudicated_by": "rules"
+}

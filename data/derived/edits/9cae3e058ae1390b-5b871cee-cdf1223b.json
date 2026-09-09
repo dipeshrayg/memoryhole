@@ -1,0 +1,295 @@
+{
+ "id": "9cae3e058ae1390b-5b871cee-cdf1223b",
+ "url": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
+ "domain": "www.cnbc.com",
+ "source": "CNBC Markets",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-09-09T11:10:50Z",
+ "date": "2026-09-09",
+ "old_title": "Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens",
+ "new_title": "Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens",
+ "old_text": "Canada's retaliatory tariffs on a swathe of U.S. goods took effect on Tuesday after trade talks collapsed last month, as relations between Washington and Ottawa continue to sour.\nThe duties range from 15% to 50% across hundreds of U.S. products worth a total $27.6 billion, including dairy, agricultural equipment, paper, household appliances and electronics. Canadian tariffs on U.S. steel, aluminum and iron products doubled to 50%, while furniture, motorbikes, clothing and some beauty products were among the goods hit with the highest rate.\nCanada called the move a \"dollar for dollar\" response to U.S. levies on its own goods, which have been targeted by Section 338 tariffs. Its Department of Finance said it would protect Canadian workers, producers and manufacturers by allowing them to better compete with U.S. products sold in the domestic market.\nExisting Canadian counter-tariffs against the U.S., including 25% on the politically sensitive autos sector, remain in place.\nTrade talks between the longstanding allies fell apart at the end of August, with officials on each side blaming one another for the failure to reach a deal and publicly disagreeing over which areas they could not find compromise.\nU.S. President Donald Trump on Monday called for a boycott of Canadian airplane manufacturer Bombardier, posting on Truth Social: \"NO MORE SELLING BOMBARDIER IN THE UNITED STATES!\"\nThe U.S. exported $333.6 billion worth of goods to Canada, and imported $381.9 billion from its northern neighbor. The pair share trade in many of the same sectors, including energy, vehicles, heavy machinery, aircraft, pharmaceuticals, gems and jewelry, furniture, clothing and a host of foods and drinks.\nEconomists say that while the impacted goods are a relatively small portion of overall trade, small- to medium-sized businesses and those in the most-impacted sectors face a severe blow.\nOttawa announced a $7.5 billion support package for businesses and workers last month, extending an existing $25 billion it provided in response to the U.S. global tariff offensive, which began in April 2025.",
+ "new_text": "Canada's retaliatory tariffs on a wide array of U.S. goods took effect Tuesday, further escalating a feud between Washington and Ottawa that had already boiled over after trade talks collapsed last month.\nThe duties range from 15% to 50% across hundreds of U.S. products worth a total CA$27.6 billion, including dairy, agricultural equipment, paper, household appliances and electronics. Canadian tariffs on U.S. steel, aluminum and iron products doubled to 50%, while furniture, motorbikes, clothing and some beauty products were among the goods hit with the highest rate.\nOttawa called the move a \"dollar for dollar\" response to the U.S. slapping new 50% tariffs on about $20 billion worth of Canadian wine, hockey sticks and other key goods on Aug. 22.\nThose U.S. levies, brought under a Depression-era law that has rarely been cited, were imposed hours after the longtime allies failed to strike a trade deal that would have averted them. Officials on both sides have repeatedly accused each other of making untenable last-minute changes to a deal that was nearly complete.\nCanada's Department of Finance said it would protect its workers, producers and manufacturers by allowing them to better compete with U.S. products sold in the domestic market.\nExisting Canadian counter-tariffs against the U.S., including 25% on the politically sensitive autos sector, remain in place.\nPresident Donald Trump had already ratcheted up tensions with Canada on Monday by calling for a boycott of Canadian airplane manufacturer Bombardier.\n\"NO MORE SELLING BOMBARDIER IN THE UNITED STATES!\" Trump wrote in a Truth Social post. \"If they want our Market, they must build here, and stop treating America like a 'piggybank.'\"\nBombardier pushed back, telling CNBC in a statement later Monday that it employs workers in more than 20 states and builds its products with many U.S.-made components.\n\"Bombardier values its great partnership with American companies and its U.S. employees,\" it said.\nTrump's broadside also spurred rebuttals from some of his Republican allies from states where Bombardier maintains a presence, including both senators from Kansas.\nSen. Jerry Moran, R-Kan., said in a statement that Bombardier's Wichita operation \"supports a local workforce of more than a thousand employees, who contribute their talent and expertise to our nation's defense and aerospace capabilities.\"\nMoran added that he reached out to the Trump administration \"to make certain the President is aware of the significant contributions of Bombardier to Kansas.\"\nSen. Roger Marshall, R-Kan., wrote in an X post Tuesday morning, \"I'm going to fight to keep Bombardier's over 1,200 Kansas jobs. I've already taken that concern inside the Oval Office.\"\nIn 2025, the U.S. exported $333.6 billion worth of goods to Canada and imported $381.9 billion from its northern neighbor, according to the U.S. Trade Representative's office. The pair share trade in many of the same sectors, including energy, vehicles, heavy machinery, aircraft, pharmaceuticals, gems and jewelry, furniture, clothing and a host of foods and drinks.\nEconomists say that while the impacted goods are a relatively small portion of overall trade, small- to medium-sized businesses and those in the most-impacted sectors face a severe blow.\nOttawa announced a CA$7.5 billion support package for businesses and workers last month, extending an existing CA$25 billion it provided in response to the U.S. global tariff offensive, which began in April 2025.\nClarification: This story has been updated to clarify that Canada imposed tariffs on U.S. goods worth $27.6 billion in Canadian dollars.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Canada's retaliatory tariffs on a"
+    ],
+    [
+     "del",
+     "swathe"
+    ],
+    [
+     "ins",
+     "wide array"
+    ],
+    [
+     "eq",
+     "of U.S. goods took effect"
+    ],
+    [
+     "del",
+     "on Tuesday"
+    ],
+    [
+     "ins",
+     "Tuesday, further escalating a feud between Washington and Ottawa that had already boiled over"
+    ],
+    [
+     "eq",
+     "after trade talks collapsed last"
+    ],
+    [
+     "del",
+     "month, as relations between Washington and Ottawa continue to sour."
+    ],
+    [
+     "ins",
+     "month."
+    ],
+    [
+     "eq",
+     "The duties range from 15% to 50% across hundreds of U.S. products worth a total"
+    ],
+    [
+     "del",
+     "$27.6"
+    ],
+    [
+     "ins",
+     "CA$27.6"
+    ],
+    [
+     "eq",
+     "billion, including dairy, agricultural equipment, paper, household appliances and electronics. Canadian tariffs"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "some beauty products were among the goods hit with the highest rate."
+    ],
+    [
+     "del",
+     "Canada"
+    ],
+    [
+     "ins",
+     "Ottawa"
+    ],
+    [
+     "eq",
+     "called the move a \"dollar for dollar\" response to"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "U.S."
+    ],
+    [
+     "del",
+     "levies"
+    ],
+    [
+     "ins",
+     "slapping new 50% tariffs"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "its own goods, which"
+    ],
+    [
+     "ins",
+     "about $20 billion worth of Canadian wine, hockey sticks and other key goods on Aug. 22. Those U.S. levies, brought under a Depression-era law that has rarely been cited, were imposed hours after the longtime allies failed to strike a trade deal that would"
+    ],
+    [
+     "eq",
+     "have"
+    ],
+    [
+     "del",
+     "been targeted by Section 338 tariffs. Its"
+    ],
+    [
+     "ins",
+     "averted them. Officials on both sides have repeatedly accused each other of making untenable last-minute changes to a deal that was nearly complete. Canada's"
+    ],
+    [
+     "eq",
+     "Department of Finance said it would protect"
+    ],
+    [
+     "del",
+     "Canadian"
+    ],
+    [
+     "ins",
+     "its"
+    ],
+    [
+     "eq",
+     "workers, producers and manufacturers by allowing them to better compete with U.S."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "U.S., including 25% on the politically sensitive autos sector, remain in place."
+    ],
+    [
+     "del",
+     "Trade talks between the longstanding allies fell apart at the end of August, with officials on each side blaming one another for the failure to reach a deal and publicly disagreeing over which areas they could not find compromise. U.S."
+    ],
+    [
+     "eq",
+     "President Donald Trump"
+    ],
+    [
+     "ins",
+     "had already ratcheted up tensions with Canada"
+    ],
+    [
+     "eq",
+     "on Monday"
+    ],
+    [
+     "del",
+     "called"
+    ],
+    [
+     "ins",
+     "by calling"
+    ],
+    [
+     "eq",
+     "for a boycott of Canadian airplane manufacturer"
+    ],
+    [
+     "del",
+     "Bombardier, posting on Truth Social:"
+    ],
+    [
+     "ins",
+     "Bombardier."
+    ],
+    [
+     "eq",
+     "\"NO MORE SELLING BOMBARDIER IN THE UNITED STATES!\""
+    ],
+    [
+     "del",
+     "The"
+    ],
+    [
+     "ins",
+     "Trump wrote in a Truth Social post. \"If they want our Market, they must build here, and stop treating America like a 'piggybank.'\" Bombardier pushed back, telling CNBC in a statement later Monday that it employs workers in more than 20 states and builds its products with many U.S.-made components. \"Bombardier values its great partnership with American companies and its U.S. employees,\" it said. Trump's broadside also spurred rebuttals from some of his Republican allies from states where Bombardier maintains a presence, including both senators from Kansas. Sen. Jerry Moran, R-Kan., said in a statement that Bombardier's Wichita operation \"supports a local workforce of more than a thousand employees, who contribute their talent and expertise to our nation's defense and aerospace capabilities.\" Moran added that he reached out to the Trump administration \"to make certain the President is aware of the significant contributions of Bombardier to Kansas.\" Sen. Roger Marshall, R-Kan., wrote in an X post Tuesday morning, \"I'm going to fight to keep Bombardier's over 1,200 Kansas jobs. I've already taken that concern inside the Oval Office.\" In 2025, the"
+    ],
+    [
+     "eq",
+     "U.S. exported $333.6 billion worth of goods to"
+    ],
+    [
+     "del",
+     "Canada,"
+    ],
+    [
+     "ins",
+     "Canada"
+    ],
+    [
+     "eq",
+     "and imported $381.9 billion from its northern"
+    ],
+    [
+     "del",
+     "neighbor."
+    ],
+    [
+     "ins",
+     "neighbor, according to the U.S. Trade Representative's office."
+    ],
+    [
+     "eq",
+     "The pair share trade in many of the same sectors, including energy,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "those in the most-impacted sectors face a severe blow. Ottawa announced a"
+    ],
+    [
+     "del",
+     "$7.5"
+    ],
+    [
+     "ins",
+     "CA$7.5"
+    ],
+    [
+     "eq",
+     "billion support package for businesses and workers last month, extending an existing"
+    ],
+    [
+     "del",
+     "$25"
+    ],
+    [
+     "ins",
+     "CA$25"
+    ],
+    [
+     "eq",
+     "billion it provided in response to the U.S. global tariff offensive, which began in April 2025."
+    ],
+    [
+     "ins",
+     "Clarification: This story has been updated to clarify that Canada imposed tariffs on U.S. goods worth $27.6 billion in Canadian dollars."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.2117,
+  "numbers_changed": [
+   "1,200",
+   "20",
+   "2025",
+   "22",
+   "338",
+   "50"
+  ],
+  "market_figures_changed": [
+   "$20 billion",
+   "$27.6 billion",
+   "50%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.871,
+ "similarity": 0.9249,
+ "adjudicated_by": "rules"
+}

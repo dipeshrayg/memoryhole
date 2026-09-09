@@ -1,0 +1,494 @@
+{
+ "id": "411a756ea8b61786-104161a7-620422cb",
+ "url": "https://www.independent.co.uk/news/business/netflix-uk-price-rise-subscription-b3045045.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-09T11:06:55Z",
+ "date": "2026-09-09",
+ "old_title": "Netflix raises price of UK subscriptions for second time this year",
+ "new_title": "Netflix raises price of UK subscriptions in latest hike",
+ "old_text": "Netflix has increased its subscription rates in the UK for the second time this year.\nThe streaming platform has updated its pricing for users accessing its library of titles, which includes television series such as Adolescence, Stranger Things and Bridgerton, as well as feature films like KPop Demon Hunters and Happy Gilmore 2.\nIt follows a previous price hike in February.\nIts standard ad-supported option now costs £7.99 a month, up 33.4 per cent from the previous £5.99 fee.\nThe standard ad-free tier has risen by 7.7 per cent, moving from £12.99 to £13.99 per month.\nMeanwhile, the premium tier - allowing streaming on additional devices and the inclusion of extra users - has risen 10.5 per cent, moving from £18.99 to £20.99 per month.\nThe cost of adding an extra member to an existing plan has also gone up, moving from £4.99 to £5.99 a month.\nThe adjusted rates apply immediately to new customers.\nExisting subscribers will receive one month's advance notice via email, with the precise timing of the rate change dependent on their individual billing cycle.\nA spokesperson for Netflix said the latest updates to pricing \"reflect improvements to our wide range of entertainment and the quality of our service\".\n\"We know members have never had more choices in entertainment, and we're committed to delivering an experience that meets and exceeds their expectations,\" Netflix said.\nNew and upcoming releases this year include The Gentlemen 2, Black Doves 2, and Pride And Prejudice, while recently-announced new commissions include The Unheard starring Kate Winslet and Jonny Boy starring Barry Keoghan.\nNetflix generated 45.2 billion US dollars (£33.4 billion) in revenues in 2025, which was 17% higher than 2024.\nThe US-based streaming giant recorded an operating profit of 13.3 billion (£9.8 billion) for the year.\nMax Beckett, broadband and TV expert for price comparison site Uswitch, said: \"The good news is that if you pay Netflix directly, you're not locked in.\n\"If the new price doesn't feel worth it, you can downgrade or cancel penalty-free at any time - dropping from standard to the ad-supported plan now saves £6 a month, or £72 a year, if you can live with the adverts.\n\"Free services like ITVX, Channel 4 and Tubi cost nothing at all.\n\"It's also a good moment to add up what you spend on streaming and broadband together, and check whether a better bundle could cut the total.\"",
+ "new_text": "Netflix has raised the prices of its UK subscriptions, with its cheapest plan jumping by a third in the latest round of hikes.\nThe streaming platform updated its pricing for customers who subscribe to access its roster of TV shows from Adolescence and Stranger Things to Bridgerton - and films like KPop Demon Hunters and Happy Gilmore 2.\nNetflix is now charging £7.99 a month for its cheapest standard plan, with adverts - which represents a 33.4% increase from the previous price of £5.99 a month.\nThe advert-free standard plan has increased by 7.7% from £12.99 a month to £13.99 a month.\nAnd the premium plan - which lets people stream on extra devices and add more members - has increased by 10.5% from £18.99 a month to £20.99 a month.\nThe cost of adding an extra member to a subscription plan has also risen from £4.99 month to £5.99 a month.\nThe new pricing is already in place for new customers signing up to one of its plans.\nExisting subscribers will be given one month's notice of the changes by email - with the exact timing of the changes depending on their billing cycle.\nThe last time that Netflix increased the prices of its UK plans was in February 2025. It hiked the prices of its US subscriptions earlier this year.\nA spokeswoman for Netflix said the latest updates to pricing \"reflect improvements to our wide range of entertainment and the quality of our service\".\n\"We know members have never had more choices in entertainment, and we're committed to delivering an experience that meets and exceeds their expectations,\" Netflix said.\nNew and upcoming releases this year include The Gentlemen 2, Black Doves 2, and Pride And Prejudice, while recently-announced new commissions include The Unheard starring Kate Winslet and Jonny Boy starring Barry Keoghan.\nNetflix generated 45.2 billion US dollars (£33.4 billion) in revenues in 2025, which was 17% higher than 2024.\nThe US-based streaming giant recorded an operating profit of 13.3 billion (£9.8 billion) for the year.\nMax Beckett, broadband and TV expert for price comparison site Uswitch, said: \"The good news is that if you pay Netflix directly, you're not locked in.\n\"If the new price doesn't feel worth it, you can downgrade or cancel penalty-free at any time - dropping from standard to the ad-supported plan now saves £6 a month, or £72 a year, if you can live with the adverts.\n\"Free services like ITVX, Channel 4 and Tubi cost nothing at all.\n\"It's also a good moment to add up what you spend on streaming and broadband together, and check whether a better bundle could cut the total.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Netflix has"
+    ],
+    [
+     "del",
+     "increased"
+    ],
+    [
+     "ins",
+     "raised the prices of"
+    ],
+    [
+     "eq",
+     "its"
+    ],
+    [
+     "del",
+     "subscription rates"
+    ],
+    [
+     "ins",
+     "UK subscriptions, with its cheapest plan jumping by a third"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "UK for the second time this year."
+    ],
+    [
+     "ins",
+     "latest round of hikes."
+    ],
+    [
+     "eq",
+     "The streaming platform"
+    ],
+    [
+     "del",
+     "has"
+    ],
+    [
+     "eq",
+     "updated its pricing for"
+    ],
+    [
+     "del",
+     "users accessing"
+    ],
+    [
+     "ins",
+     "customers who subscribe to access"
+    ],
+    [
+     "eq",
+     "its"
+    ],
+    [
+     "del",
+     "library"
+    ],
+    [
+     "ins",
+     "roster"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "titles, which includes television series such as Adolescence,"
+    ],
+    [
+     "ins",
+     "TV shows from Adolescence and"
+    ],
+    [
+     "eq",
+     "Stranger Things"
+    ],
+    [
+     "ins",
+     "to Bridgerton -"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "Bridgerton, as well as feature"
+    ],
+    [
+     "eq",
+     "films like KPop Demon Hunters and Happy Gilmore 2."
+    ],
+    [
+     "del",
+     "It follows a previous price hike in February. Its standard ad-supported option"
+    ],
+    [
+     "ins",
+     "Netflix is"
+    ],
+    [
+     "eq",
+     "now"
+    ],
+    [
+     "del",
+     "costs"
+    ],
+    [
+     "ins",
+     "charging"
+    ],
+    [
+     "eq",
+     "£7.99 a"
+    ],
+    [
+     "del",
+     "month, up 33.4 per cent"
+    ],
+    [
+     "ins",
+     "month for its cheapest standard plan, with adverts - which represents a 33.4% increase"
+    ],
+    [
+     "eq",
+     "from the previous"
+    ],
+    [
+     "ins",
+     "price of"
+    ],
+    [
+     "eq",
+     "£5.99"
+    ],
+    [
+     "del",
+     "fee."
+    ],
+    [
+     "ins",
+     "a month."
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "ins",
+     "advert-free"
+    ],
+    [
+     "eq",
+     "standard"
+    ],
+    [
+     "del",
+     "ad-free tier"
+    ],
+    [
+     "ins",
+     "plan"
+    ],
+    [
+     "eq",
+     "has"
+    ],
+    [
+     "del",
+     "risen"
+    ],
+    [
+     "ins",
+     "increased"
+    ],
+    [
+     "eq",
+     "by"
+    ],
+    [
+     "del",
+     "7.7 per cent, moving"
+    ],
+    [
+     "ins",
+     "7.7%"
+    ],
+    [
+     "eq",
+     "from £12.99"
+    ],
+    [
+     "ins",
+     "a month"
+    ],
+    [
+     "eq",
+     "to £13.99"
+    ],
+    [
+     "del",
+     "per"
+    ],
+    [
+     "ins",
+     "a"
+    ],
+    [
+     "eq",
+     "month."
+    ],
+    [
+     "del",
+     "Meanwhile,"
+    ],
+    [
+     "ins",
+     "And"
+    ],
+    [
+     "eq",
+     "the premium"
+    ],
+    [
+     "del",
+     "tier"
+    ],
+    [
+     "ins",
+     "plan"
+    ],
+    [
+     "eq",
+     "-"
+    ],
+    [
+     "del",
+     "allowing streaming"
+    ],
+    [
+     "ins",
+     "which lets people stream"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "additional"
+    ],
+    [
+     "ins",
+     "extra"
+    ],
+    [
+     "eq",
+     "devices and"
+    ],
+    [
+     "del",
+     "the inclusion of extra users"
+    ],
+    [
+     "ins",
+     "add more members"
+    ],
+    [
+     "eq",
+     "- has"
+    ],
+    [
+     "del",
+     "risen 10.5 per cent, moving"
+    ],
+    [
+     "ins",
+     "increased by 10.5%"
+    ],
+    [
+     "eq",
+     "from £18.99"
+    ],
+    [
+     "ins",
+     "a month"
+    ],
+    [
+     "eq",
+     "to £20.99"
+    ],
+    [
+     "del",
+     "per"
+    ],
+    [
+     "ins",
+     "a"
+    ],
+    [
+     "eq",
+     "month. The cost of adding an extra member to"
+    ],
+    [
+     "del",
+     "an existing"
+    ],
+    [
+     "ins",
+     "a subscription"
+    ],
+    [
+     "eq",
+     "plan has also"
+    ],
+    [
+     "del",
+     "gone up, moving"
+    ],
+    [
+     "ins",
+     "risen"
+    ],
+    [
+     "eq",
+     "from £4.99"
+    ],
+    [
+     "ins",
+     "month"
+    ],
+    [
+     "eq",
+     "to £5.99 a month. The"
+    ],
+    [
+     "del",
+     "adjusted rates apply immediately"
+    ],
+    [
+     "ins",
+     "new pricing is already in place for new customers signing up"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "new customers."
+    ],
+    [
+     "ins",
+     "one of its plans."
+    ],
+    [
+     "eq",
+     "Existing subscribers will"
+    ],
+    [
+     "del",
+     "receive"
+    ],
+    [
+     "ins",
+     "be given"
+    ],
+    [
+     "eq",
+     "one month's"
+    ],
+    [
+     "del",
+     "advance"
+    ],
+    [
+     "eq",
+     "notice"
+    ],
+    [
+     "del",
+     "via email,"
+    ],
+    [
+     "ins",
+     "of the changes by email -"
+    ],
+    [
+     "eq",
+     "with the"
+    ],
+    [
+     "del",
+     "precise"
+    ],
+    [
+     "ins",
+     "exact"
+    ],
+    [
+     "eq",
+     "timing of the"
+    ],
+    [
+     "del",
+     "rate change dependent"
+    ],
+    [
+     "ins",
+     "changes depending"
+    ],
+    [
+     "eq",
+     "on their"
+    ],
+    [
+     "del",
+     "individual"
+    ],
+    [
+     "eq",
+     "billing cycle."
+    ],
+    [
+     "ins",
+     "The last time that Netflix increased the prices of its UK plans was in February 2025. It hiked the prices of its US subscriptions earlier this year."
+    ],
+    [
+     "eq",
+     "A"
+    ],
+    [
+     "del",
+     "spokesperson"
+    ],
+    [
+     "ins",
+     "spokeswoman"
+    ],
+    [
+     "eq",
+     "for Netflix said the latest updates to pricing \"reflect improvements to our"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5625,
+  "numbers_changed": [
+   "2025"
+  ],
+  "market_figures_changed": [
+   "10.5%",
+   "33.4%",
+   "7.7%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.78,
+ "similarity": 0.9566,
+ "adjudicated_by": "rules"
+}

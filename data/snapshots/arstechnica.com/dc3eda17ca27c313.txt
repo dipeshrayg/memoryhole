@@ -1,0 +1,8 @@
+LG TVs are facing scrutiny due to a video seemingly showing the devices' capability to track users when the TVs are off.
+YouTube channel Gamers Nexus worked with Level1Techs, a technology-focused YouTube channel, and security researchers to analyze LG TVs' tracking capabilities. They shared packet captures that pointed to the TVs, including LG's pricey G5 OLED TV, scanning the LAN for other devices.
+"The [G5] crawled our entire network and found dozens of unrelated devices, including smartwatches and phones of our staff who didn't even know we were working on this," Steve Burke, Gamers Nexus' editor-in-chief, said.
+LG's ad business, LG Ad Solutions, has said in recent marketing materials that it can reach 363 million "addressable secondary devices" in the US.
+When reached for comment, a company representative shared a statement from LG Electronics via email:
+LG TVs can identify compatible devices on the same network to enable features such as device connectivity, content sharing or smart home functionality.
+The YouTube channel used Wireshark, a network protocol analyzer tool, and inspected the TV's firmware and found that LG TVs "are capable of identifying your IP address, geographic location, name of every Wi-Fi network in the vicinity and signal strength, channel numbers of neighboring Wi-Fi networks in range, and other devices on the network, even if not connected to the TV in any way, and the internal IP address of other devices on the network, alongside others."
+It's unclear if LG TVs use this functionality for any purposes beyond advertising, such as diagnostics, or if this information is all sent to LG. It remains concerning, however, that devices with this technology are sitting in unsuspecting owners' homes.

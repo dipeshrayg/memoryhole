@@ -1,0 +1,268 @@
+{
+ "id": "0cbb38ff7dce33e8-9be237c4-5f252b1a",
+ "url": "https://www.independent.co.uk/bulletin/news/uk-israel-sanctions-burnham-west-bank-b3046399.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-09T11:06:51Z",
+ "date": "2026-09-09",
+ "old_title": "Israel slams UK plan to sanction West Bank settlements as 'discrimination'",
+ "new_title": "Israel hits out at UK plan to sanction West Bank settlements",
+ "old_text": "Israel slams UK plan to sanction West Bank settlements as 'discrimination'\n- US Ambassador to Israel Mike Huckabee has strongly condemned expected UK sanctions on illegal West Bank settlements, branding the trade restrictions an irrational action and discrimination against Jewish people while warning of potential economic damage.\n- Foreign Secretary Ed Miliband is set to announce a reset of UK-Israel relations in Parliament, outlining targeted measures and potential trade restrictions on goods originating from illegal Israeli settlements in the West Bank.\n- Work and Pensions Secretary Pat McFadden rejected allegations of discrimination, clarifying that the policy targets illegal settlement expansion specifically and does not amount to a wider boycott of Israeli trade or security co-operation.\n- Political figures and commentators, including Shadow Foreign Secretary Tom Tugendhat and Labour MP Peter Prinsley, warned the move could undermine vital counter-terrorism intelligence sharing with Israel and risk escalating attacks against the British Jewish community.\n- Israeli ministers responded with threats of retaliation, with Foreign Minister Gideon Saar stating Israel would act against Britain if sanctions were imposed, while Public Security Minister Itamar Ben-Gvir called on Benjamin Netanyahu to recognise Argentine sovereignty over the Falkland Islands.",
+ "new_text": "Israel hits out at UK plan to sanction West Bank settlements\n- Foreign Secretary Ed Miliband is set to announce a comprehensive reset of the UK's relations with Israel, which includes proposed trade restrictions on goods produced in illegal West Bank settlements to protect the viability of a two-state solution.\n- Israeli President Isaac Herzog condemned the proposed trade ban as a grave miscalculation and gross interference in Israel's sovereign democratic elections, while Finance Minister Bezalel Smotrich called for the expulsion of the British ambassador.\n- US Ambassador to Israel Mike Huckabee denounced the planned sanctions as an irrational action and discrimination against the Jewish people, warning that the policy could inflict significant damage on British business interests.\n- Work and Pensions Secretary Pat McFadden defended the British government's position, clarifying that the measures target illegal settlement expansion specifically rather than acting as a wider economic or security boycott against Israel.\n- Critics including Shadow Foreign Secretary Tom Tugendhat and former foreign secretary Sir Malcolm Rifkind warned that the stance risks creating a political backlash in Israel and could endanger crucial intelligence cooperation that keeps the UK safe.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Israel"
+    ],
+    [
+     "del",
+     "slams"
+    ],
+    [
+     "ins",
+     "hits out at"
+    ],
+    [
+     "eq",
+     "UK plan to sanction West Bank settlements"
+    ],
+    [
+     "del",
+     "as 'discrimination' - US Ambassador to Israel Mike Huckabee has strongly condemned expected UK sanctions on illegal West Bank settlements, branding the trade restrictions an irrational action and discrimination against Jewish people while warning of potential economic damage."
+    ],
+    [
+     "eq",
+     "- Foreign Secretary Ed Miliband is set to announce a"
+    ],
+    [
+     "ins",
+     "comprehensive"
+    ],
+    [
+     "eq",
+     "reset of"
+    ],
+    [
+     "del",
+     "UK-Israel"
+    ],
+    [
+     "ins",
+     "the UK's"
+    ],
+    [
+     "eq",
+     "relations"
+    ],
+    [
+     "del",
+     "in Parliament, outlining targeted measures and potential"
+    ],
+    [
+     "ins",
+     "with Israel, which includes proposed"
+    ],
+    [
+     "eq",
+     "trade restrictions on goods"
+    ],
+    [
+     "del",
+     "originating from"
+    ],
+    [
+     "ins",
+     "produced in"
+    ],
+    [
+     "eq",
+     "illegal"
+    ],
+    [
+     "ins",
+     "West Bank settlements to protect the viability of a two-state solution. -"
+    ],
+    [
+     "eq",
+     "Israeli"
+    ],
+    [
+     "del",
+     "settlements"
+    ],
+    [
+     "ins",
+     "President Isaac Herzog condemned the proposed trade ban as a grave miscalculation and gross interference"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "ins",
+     "Israel's sovereign democratic elections, while Finance Minister Bezalel Smotrich called for"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "West Bank."
+    ],
+    [
+     "ins",
+     "expulsion of the British ambassador. - US Ambassador to Israel Mike Huckabee denounced the planned sanctions as an irrational action and discrimination against the Jewish people, warning that the policy could inflict significant damage on British business interests."
+    ],
+    [
+     "eq",
+     "- Work and Pensions Secretary Pat McFadden"
+    ],
+    [
+     "del",
+     "rejected allegations of discrimination,"
+    ],
+    [
+     "ins",
+     "defended the British government's position,"
+    ],
+    [
+     "eq",
+     "clarifying that the"
+    ],
+    [
+     "del",
+     "policy targets"
+    ],
+    [
+     "ins",
+     "measures target"
+    ],
+    [
+     "eq",
+     "illegal settlement expansion specifically"
+    ],
+    [
+     "del",
+     "and does not amount to"
+    ],
+    [
+     "ins",
+     "rather than acting as"
+    ],
+    [
+     "eq",
+     "a wider"
+    ],
+    [
+     "del",
+     "boycott of Israeli trade"
+    ],
+    [
+     "ins",
+     "economic"
+    ],
+    [
+     "eq",
+     "or security"
+    ],
+    [
+     "del",
+     "co-operation."
+    ],
+    [
+     "ins",
+     "boycott against Israel."
+    ],
+    [
+     "eq",
+     "-"
+    ],
+    [
+     "del",
+     "Political figures and commentators,"
+    ],
+    [
+     "ins",
+     "Critics"
+    ],
+    [
+     "eq",
+     "including Shadow Foreign Secretary Tom Tugendhat and"
+    ],
+    [
+     "del",
+     "Labour MP Peter Prinsley,"
+    ],
+    [
+     "ins",
+     "former foreign secretary Sir Malcolm Rifkind"
+    ],
+    [
+     "eq",
+     "warned"
+    ],
+    [
+     "ins",
+     "that"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "move could undermine vital counter-terrorism intelligence sharing with"
+    ],
+    [
+     "ins",
+     "stance risks creating a political backlash in"
+    ],
+    [
+     "eq",
+     "Israel and"
+    ],
+    [
+     "del",
+     "risk escalating attacks against"
+    ],
+    [
+     "ins",
+     "could endanger crucial intelligence cooperation that keeps"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "British Jewish community. - Israeli ministers responded with threats of retaliation, with Foreign Minister Gideon Saar stating Israel would act against Britain if sanctions were imposed, while Public Security Minister Itamar Ben-Gvir called on Benjamin Netanyahu to recognise Argentine sovereignty over the Falkland Islands."
+    ],
+    [
+     "ins",
+     "UK safe."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.3542,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 2,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.142,
+ "similarity": 0.8797,
+ "adjudicated_by": "rules"
+}

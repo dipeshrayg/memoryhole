@@ -1,0 +1,55 @@
+{
+ "id": "6cad8690bde13b0f-bb974461-8420d237",
+ "url": "https://www.theguardian.com/news/2026/sep/08/billionaire-chris-rokos-tax-quit-uk",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-09-09T11:10:28Z",
+ "date": "2026-09-09",
+ "old_title": "Billionaire Chris Rokos, who paid £330m in tax last year, to quit UK",
+ "new_title": "Billionaire Chris Rokos, who paid £330m in tax last year, to quit UK",
+ "old_text": "The hedge fund billionaire Chris Rokos is poised to leave the UK, the latest in a string of high-profile exits among Britain's super-rich.\nThe founder of Rokos Capital Management is preparing to move his residency to Greece, and will open an office in Athens as part of the move, according to Bloomberg.\nHe joins a number of billionaires who have left the UK, which many have blamed on the abolition of the non-dom regime, as well as higher tax on private equity investments, inheritance and capital gains.\nRokos, who founded his firm in 2015, was ranked third in the Sunday Times's annual list of top taxpayers in the UK, paying an estimated bill of £330m in 2025. He has a net worth of about $4bn (£2.96bn), according to Bloomberg's billionaires index.\nThis year he also made a record £190m donation to the University of Cambridge to fund the creation of the Rokos School of Government.\nRokos, who went to a state primary school before being offered a scholarship to Eton college and studying maths at Oxford, said at the time that he \"would like to give something back to Britain\".\nThe publicity-shy tycoon and former Tory donor has spent much of the past decade presiding over one of England's most expensive home renovations ever, of the 200-room Tottenham House mansion near Marlborough in Wiltshire, adding a tennis pavilion and private cinema in the £175m revamp.\nGreece offers a 15-year high-net-worth investor regime, which requires individuals to invest at least €500,000 ($430,000) in real estate, businesses or shares based in Greece within three years of applying for the tax status. In exchange, they can pay a flat tax of €100,000 a year on their income earned abroad.\nRokos's exit comes after the chancellor, John Healey, who will present his debut budget in October, said in his first big speech on Monday that he wanted to see Britain \"as a country of wealth creation\".\nAndy Burnham has previously expressed support for higher taxation on wealth, although in July signalled that he would not increase such taxes immediately after becoming prime minister.\nThere have been several high-profile exits from the UK since the Conservative chancellor Jeremy Hunt laid out plans to overhaul the non-dom system in 2024. They include Shravin Bharti Mittal, an heir of one of India's richest families; Nassef Sawiris, an Egyptian investor; and Richard Gnodde, a veteran Goldman Sachs banker.\nGnodde left for Milan, while Sawiris is reported to be resident in Italy and Abu Dhabi. Mittal listed the United Arab Emirates as his residency, after previously naming the UK in an official registry filing.\nThe Labour government brought in a new regime last year, under which foreign income and gains are subject to UK tax after four years rather than the previous 15. A new residence-based system means also that their global assets are subject to inheritance tax after 10 years.\nWhile there have been several high-profile moves, the extent to which higher tax has triggered an exodus of wealthy people is not yet clear in official data. The latest provisional figures show a modest 0.5% decline in the number of non-domiciled residents in the tax year ended in April last year, at 73,400.\nOther European countries have created tax regimes designed to draw in rich foreigners, including Italy, which has proved a popular destination owing to its flat tax of €300,000 on foreign-sourced income.\nA representative for Rokos was approached for comment.",
+ "new_text": "The hedge fund billionaire Chris Rokos is poised to leave the UK, the latest in a string of high-profile exits among Britain's super-rich.\nThe founder of Rokos Capital Management is preparing to move his residency to Greece, and will open an office in Athens as part of the move, according to Bloomberg.\nHe joins a number of billionaires who have left the UK, which many have blamed on the abolition of the non-dom regime, as well as higher tax on private equity investments, inheritance and capital gains.\nRokos, who founded his firm in 2015, was ranked third in the Sunday Times's annual list of top taxpayers in the UK, paying an estimated bill of £330m in 2025. He has a net worth of about $4bn (£2.96bn), according to Bloomberg's billionaires index.\nThis year he also made a record £190m donation to the University of Cambridge to fund the creation of the Rokos School of Government.\nRokos, who went to a state primary school before being offered a scholarship to Eton college and studying maths at Oxford, said at the time that he \"would like to give something back to Britain\".\nThe publicity-shy tycoon and former Tory donor has spent much of the past decade presiding over one of England's most expensive home renovations ever, of the 200-room Tottenham House mansion near Marlborough in Wiltshire, adding a tennis pavilion and private cinema in the £175m revamp.\nGreece offers a 15-year high-net-worth investor regime, which requires individuals to invest at least €500,000 (£430,000) in real estate, businesses or shares based in Greece within three years of applying for the tax status. In exchange, they can pay a flat tax of €100,000 a year on their income earned abroad.\nRokos's exit comes after the chancellor, John Healey, who will present his debut budget in October, said in his first big speech on Monday that he wanted to see Britain \"as a country of wealth creation\".\nAndy Burnham has previously expressed support for higher taxation on wealth, although in July signalled that he would not increase such taxes immediately after becoming prime minister.\nThere have been several high-profile exits from the UK since the Conservative chancellor Jeremy Hunt laid out plans to overhaul the non-dom system in 2024. They include Shravin Bharti Mittal, an heir of one of India's richest families; Nassef Sawiris, an Egyptian investor; and Richard Gnodde, a veteran Goldman Sachs banker.\nGnodde left for Milan, while Sawiris is reported to be resident in Italy and Abu Dhabi. Mittal listed the United Arab Emirates as his residency, after previously naming the UK in an official registry filing.\nThe Labour government brought in a new regime last year, under which foreign income and gains are subject to UK tax after four years rather than the previous 15. A new residence-based system means also that their global assets are subject to inheritance tax after 10 years.\nWhile there have been several high-profile moves, the extent to which higher tax has triggered an exodus of wealthy people is not yet clear in official data. The latest provisional figures show a modest 0.5% decline in the number of non-domiciled residents in the tax year ended in April last year, at 73,400.\nOther European countries have created tax regimes designed to draw in rich foreigners, including Italy, which has proved a popular destination owing to its flat tax of €300,000 on foreign-sourced income.\nA representative for Rokos was approached for comment.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "15-year high-net-worth investor regime, which requires individuals to invest at least €500,000"
+    ],
+    [
+     "del",
+     "($430,000)"
+    ],
+    [
+     "ins",
+     "(£430,000)"
+    ],
+    [
+     "eq",
+     "in real estate, businesses or shares based in Greece within three years"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0035,
+  "numbers_changed": [],
+  "market_figures_changed": [
+   "$430,000",
+   "£430,000"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

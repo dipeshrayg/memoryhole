@@ -1,0 +1,177 @@
+{
+ "id": "7e88a01ffadea50c-18d670e0-0390a146",
+ "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-8-dow-sp-500-nasdaq-080440338.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-09-09T11:11:37Z",
+ "date": "2026-09-09",
+ "old_title": "Stock market today: Dow, S&P 500, Nasdaq futures slip amid rising oil prices",
+ "new_title": "Stock market today: Dow drops 600 points, S&P 500 and Nasdaq retreat as oil nears $100",
+ "old_text": "US stock futures slipped on Tuesday as rising oil prices and inflation jitters took focus at the start of the holiday-shortened week.\nFutures on the Dow Jones Industrial Average (YM=F) declined by 0.7%, while those on the S&P 500 (ES=F) fell 0.2%. Contracts for the Nasdaq-100 (NQ=F) dropped just below the flatline as investors eyed inflation data and Oracle earnings later this week.\nRising oil prices put pressure on markets as Iran said it was close to a deal with Oman to manage traffic through the Strait of Hormuz. Brent crude oil futures (BZ=F), the global benchmark, crept toward $100 per barrel, while US benchmark WTI crude (CL=F) neared $93 per barrel.\nFears of an ongoing war in the Middle East have revived angst about inflation and a potential Federal Reserve rate hike this month, particularly after Friday's blowout jobs report showed strong job gains in August. Investors are bracing for a fresh Consumer Price Index reading on Friday, which will indicate whether inflation is moving back down toward the Fed's 2% goal or whether it remains a thorn in the central bank's - and consumers' - side.\nOn the earnings calendar, Oracle (ORCL) earnings are the highlight this week. But first, GameStop (GME) reports on Tuesday.",
+ "new_text": "US stocks slid on Tuesday as the US and Canada's trade war escalated and rising oil prices and inflation jitters took focus at the start of the holiday-shortened week.\nThe Dow Jones Industrial Average (^DJI) fell 1.1%, while the S&P 500 (^GSPC) slipped roughly 0.5%. The tech-heavy Nasdaq Composite (^IXIC) fell 0.3% as investors eyed inflation data and Oracle earnings later this week.\nRising oil prices put pressure on markets as Iran said it was close to a deal with Oman to manage traffic through the Strait of Hormuz. Brent crude oil futures (BZ=F), the global benchmark, crept toward $100 per barrel, while US benchmark WTI crude (CL=F) traded above $93 per barrel.\nFears of an ongoing war in the Middle East have revived angst about inflation and a potential Federal Reserve rate hike this month, particularly after Friday's blowout jobs report showed strong job gains in August. Investors are bracing for a fresh Consumer Price Index reading on Friday, which will indicate whether inflation is moving back down toward the Fed's 2% goal or whether it remains a thorn in the central bank's - and consumers' - side.\nAdding to market uncertainty, Canada imposed tariffs of up to 50% on some US goods on Tuesday, escalating the trade spat between the two neighboring countries. The like-for-like tariffs affect approximately $20 billion in US goods and target dairy, steel, and wood products, among others.\nOn the earnings calendar, Oracle (ORCL) earnings are the highlight this week. But first, GameStop (GME) reports on Tuesday.\n- Gold slumps amid increasing odds of a rate hike, but Wall Street remains bullish in long termGold has come under renewed pressure as Treasury yields rise and investors await inflation data this Friday, followed by a key Fed interest-rate decision next week. The precious metal saw a solid 10% rally in August. But prices have slumped in recent days as a better-than-expected jobs report raised expectations for a rate hike. Investors have raised the odds of a hike to 58%, according to CME FedWatch. Still, some Wall Street strategists remain positive on gold long-term. \"We believe the long-term investment case for gold remains positive,\" Ulrike Hoffmann-Burchardi, CIO Americas at UBS Chief Investment Office, wrote in a note on Tuesday. \"Under-allocated investors could use periods of weakness to build strategic exposure within a well-diversified portfolio,\" she added.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "US"
+    ],
+    [
+     "del",
+     "stock futures slipped"
+    ],
+    [
+     "ins",
+     "stocks slid"
+    ],
+    [
+     "eq",
+     "on Tuesday as"
+    ],
+    [
+     "ins",
+     "the US and Canada's trade war escalated and"
+    ],
+    [
+     "eq",
+     "rising oil prices and inflation jitters took focus at the start of the holiday-shortened week."
+    ],
+    [
+     "del",
+     "Futures on the"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "Dow Jones Industrial Average"
+    ],
+    [
+     "del",
+     "(YM=F) declined by 0.7%,"
+    ],
+    [
+     "ins",
+     "(^DJI) fell 1.1%,"
+    ],
+    [
+     "eq",
+     "while"
+    ],
+    [
+     "del",
+     "those on"
+    ],
+    [
+     "eq",
+     "the S&P 500"
+    ],
+    [
+     "del",
+     "(ES=F)"
+    ],
+    [
+     "ins",
+     "(^GSPC) slipped roughly 0.5%. The tech-heavy Nasdaq Composite (^IXIC)"
+    ],
+    [
+     "eq",
+     "fell"
+    ],
+    [
+     "del",
+     "0.2%. Contracts for the Nasdaq-100 (NQ=F) dropped just below the flatline"
+    ],
+    [
+     "ins",
+     "0.3%"
+    ],
+    [
+     "eq",
+     "as investors eyed inflation data and Oracle earnings later this week. Rising"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "benchmark, crept toward $100 per barrel, while US benchmark WTI crude (CL=F)"
+    ],
+    [
+     "del",
+     "neared"
+    ],
+    [
+     "ins",
+     "traded above"
+    ],
+    [
+     "eq",
+     "$93 per barrel. Fears of an ongoing war in the Middle East"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "remains a thorn in the central bank's - and consumers' - side."
+    ],
+    [
+     "ins",
+     "Adding to market uncertainty, Canada imposed tariffs of up to 50% on some US goods on Tuesday, escalating the trade spat between the two neighboring countries. The like-for-like tariffs affect approximately $20 billion in US goods and target dairy, steel, and wood products, among others."
+    ],
+    [
+     "eq",
+     "On the earnings calendar, Oracle (ORCL) earnings are the highlight this week. But first, GameStop (GME) reports on Tuesday."
+    ],
+    [
+     "ins",
+     "- Gold slumps amid increasing odds of a rate hike, but Wall Street remains bullish in long termGold has come under renewed pressure as Treasury yields rise and investors await inflation data this Friday, followed by a key Fed interest-rate decision next week. The precious metal saw a solid 10% rally in August. But prices have slumped in recent days as a better-than-expected jobs report raised expectations for a rate hike. Investors have raised the odds of a hike to 58%, according to CME FedWatch. Still, some Wall Street strategists remain positive on gold long-term. \"We believe the long-term investment case for gold remains positive,\" Ulrike Hoffmann-Burchardi, CIO Americas at UBS Chief Investment Office, wrote in a note on Tuesday. \"Under-allocated investors could use periods of weakness to build strategic exposure within a well-diversified portfolio,\" she added."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.1256,
+  "numbers_changed": [
+   "0.2",
+   "0.3",
+   "0.5",
+   "0.7",
+   "1.1",
+   "10",
+   "100",
+   "20",
+   "50",
+   "58"
+  ],
+  "market_figures_changed": [
+   "$20 billion",
+   "0.2%",
+   "0.3%",
+   "0.5%",
+   "0.7%",
+   "1.1%",
+   "10%",
+   "50%",
+   "58%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.771,
+ "similarity": 0.9415,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,138 @@
+{
+ "id": "f6dd17a426b548f8-bc996d8d-14f4aa10",
+ "url": "https://www.abc.net.au/news/2026-09-08/renoir-paintings-stolen-art-heist-france/107130868",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-09T11:06:05Z",
+ "date": "2026-09-09",
+ "old_title": "Thieves steal three paintings from Renoir Museum",
+ "new_title": "Thieves steal two paintings from Renoir Museum worth 9 million euros",
+ "old_text": "Thieves steal three paintings from Renoir Museum worth 9 million euros\nIn short:\nThieves have stolen three paintings from the Renoir Museum in France, worth 9 million euros ($14.5 million).\nTwo thieves broke into the museum in the early hours of the morning, stealing four artworks, dropping one as they fled.\nWhat's next?\nThe thieves have not been caught and are being \"actively sought\", according to local mayor.",
+ "new_text": "In short:\nThieves have stolen four paintings from the Renoir Museum in France, worth 9 million euros ($14.5 million).\nThe group broke into the museum in the early hours of the morning, stealing four artworks but dropping two as they fled.\nWhat's next?\nThe museum remains closed while the thieves are being \"actively sought\", according to the local mayor.\nThieves have stolen two paintings from the Renoir Museum in France via a hole made in a garden fence.\nThe town's mayor, Bryan Masson, said a group of \"well-equipped\" and \"well-informed\" thieves broke into the museum dedicated to French impressionist painter Pierre-Auguste Renoir early on Tuesday, local time.\nThey sliced through a fence and entered the museum through the ground floor, then cut the clips securing the artwork frames, Mr Masson said.\nThe museum had 12 works by Renoir in total. Four were stolen, but two canvases were dropped during the police chase and found in the museum garden.\nLocal French newspaper Nice-Matin reported the paintings as Portrait of Madame Stephen Pichon (1895), Portrait of Madame Colonna Romano (1910), Coco Lisant (1905) and Jeune Fille au Puits (Young woman at the well, 1886).\nThe mayor confirmed Portrait of Madame Colonna Romano and Jeune Fille au Puits were the two artworks still missing.\nMr Masson's office estimated the value of the stolen works at 9 million euros ($14.5 million).\n\"Spotted thanks to the town's video surveillance cameras, the two individuals fled, abandoning one of the stolen paintings as they ran,\" Mr Masson said.\n\"The museum alarm went off at 5:48am. At 5:53am, just five minutes later, our municipal police were on the scene.\n\"Since this morning, both the municipal and national police have been deployed to the site.\n\"The perpetrators are being actively sought, and the investigation is ongoing.\"\nThe museum was closed on Tuesday while the investigation unfolded.\nThe Renoir Museum was opened in 1960 in the painter's last home before his death in 1919.\nIts collection includes objects and furniture that belonged to Renoir, including his easel and wheelchair, as well as portraits, landscapes and nudes painted by the artist.\nSpate of art heists in Europe\nThe theft comes less than a year after jewels valued at around 88 million euros ($141 million) were stolen during a daylight robbery from the Louvre in Paris.\nThe four suspected Louvre robbers have been arrested, but the stolen items still have not been found despite extensive searches by French investigators in the Paris region and exchanges with police in Belgium, Italy and beyond.\nIn August, three century-old paintings, including a Renoir, stolen by an organised gang from an Italian museum during a three-minute heist were recovered.\nThe artworks included Fish by Auguste Renoir, Paul Cézanne's Still Life with Cherries, and Odalisque on the Terrace by Henri Matisse.\nDays after their recovery, another four paintings were stolen from another Italian museum.\nArtworks by 15th century painter Antonello da Messina were taken from the Museo Regionale di Messina - the pieces some of the only surviving work by the Renaissance painter to have remained in his native city.\nABC/AFP/AP",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Thieves steal three paintings from Renoir Museum worth 9 million euros"
+    ],
+    [
+     "eq",
+     "In short: Thieves have stolen"
+    ],
+    [
+     "del",
+     "three"
+    ],
+    [
+     "ins",
+     "four"
+    ],
+    [
+     "eq",
+     "paintings from the Renoir Museum in France, worth 9 million euros ($14.5 million)."
+    ],
+    [
+     "del",
+     "Two thieves"
+    ],
+    [
+     "ins",
+     "The group"
+    ],
+    [
+     "eq",
+     "broke into the museum in the early hours of the morning, stealing four"
+    ],
+    [
+     "del",
+     "artworks,"
+    ],
+    [
+     "ins",
+     "artworks but"
+    ],
+    [
+     "eq",
+     "dropping"
+    ],
+    [
+     "del",
+     "one"
+    ],
+    [
+     "ins",
+     "two"
+    ],
+    [
+     "eq",
+     "as they fled. What's next? The"
+    ],
+    [
+     "ins",
+     "museum remains closed while the"
+    ],
+    [
+     "eq",
+     "thieves"
+    ],
+    [
+     "del",
+     "have not been caught and"
+    ],
+    [
+     "eq",
+     "are being \"actively sought\", according to"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "local mayor."
+    ],
+    [
+     "ins",
+     "Thieves have stolen two paintings from the Renoir Museum in France via a hole made in a garden fence. The town's mayor, Bryan Masson, said a group of \"well-equipped\" and \"well-informed\" thieves broke into the museum dedicated to French impressionist painter Pierre-Auguste Renoir early on Tuesday, local time. They sliced through a fence and entered the museum through the ground floor, then cut the clips securing the artwork frames, Mr Masson said. The museum had 12 works by Renoir in total. Four were stolen, but two canvases were dropped during the police chase and found in the museum garden. Local French newspaper Nice-Matin reported the paintings as Portrait of Madame Stephen Pichon (1895), Portrait of Madame Colonna Romano (1910), Coco Lisant (1905) and Jeune Fille au Puits (Young woman at the well, 1886). The mayor confirmed Portrait of Madame Colonna Romano and Jeune Fille au Puits were the two artworks still missing. Mr Masson's office estimated the value of the stolen works at 9 million euros ($14.5 million). \"Spotted thanks to the town's video surveillance cameras, the two individuals fled, abandoning one of the stolen paintings as they ran,\" Mr Masson said. \"The museum alarm went off at 5:48am. At 5:53am, just five minutes later, our municipal police were on the scene. \"Since this morning, both the municipal and national police have been deployed to the site. \"The perpetrators are being actively sought, and the investigation is ongoing.\" The museum was closed on Tuesday while the investigation unfolded. The Renoir Museum was opened in 1960 in the painter's last home before his death in 1919. Its collection includes objects and furniture that belonged to Renoir, including his easel and wheelchair, as well as portraits, landscapes and nudes painted by the artist. Spate of art heists in Europe The theft comes less than a year after jewels valued at around 88 million euros ($141 million) were stolen during a daylight robbery from the Louvre in Paris. The four suspected Louvre robbers have been arrested, but the stolen items still have not been found despite extensive searches by French investigators in the Paris region and exchanges with police in Belgium, Italy and beyond. In August, three century-old paintings, including a Renoir, stolen by an organised gang from an Italian museum during a three-minute heist were recovered. The artworks included Fish by Auguste Renoir, Paul Cézanne's Still Life with Cherries, and Odalisque on the Terrace by Henri Matisse. Days after their recovery, another four paintings were stolen from another Italian museum. Artworks by 15th century painter Antonello da Messina were taken from the Museo Regionale di Messina - the pieces some of the only surviving work by the Renaissance painter to have remained in his native city. ABC/AFP/AP"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 7.1765,
+  "numbers_changed": [
+   "12",
+   "14.5",
+   "141",
+   "15",
+   "1886",
+   "1895",
+   "1905",
+   "1910",
+   "1919",
+   "1960",
+   "48",
+   "5",
+   "53",
+   "88"
+  ],
+  "market_figures_changed": [
+   "$14.5 m",
+   "$141 m"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.768,
+ "similarity": 0.867,
+ "adjudicated_by": "rules"
+}

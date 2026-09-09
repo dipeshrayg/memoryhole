@@ -1,0 +1,75 @@
+{
+ "id": "c949d36ad179bbfb-ceacb9d6-464d0167",
+ "url": "https://www.dw.com/en/german-police-arrest-suspect-in-power-grid-sabotage-case-reports/a-79161142?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-09T11:04:20Z",
+ "date": "2026-09-09",
+ "old_title": "Germany: Police arrest suspect in power grid sabotage case",
+ "new_title": "Germany: Police arrest suspect in power grid sabotage case",
+ "old_text": "German police on Tuesday said they had arrested a 48-year-old man suspected of carrying out a series of sabotage attacks on the country's electricity network.\nThe suspect was reportedly spotted near the Weisweiler power station, close to Aachen in western Germany, after being sought by authorities for several days.\nThis is a breaking news story. Check back here for updates.",
+ "new_text": "German police on Tuesday said they had arrested a 48-year-old man suspected of carrying out a series of sabotage attacks on the country's electricity network.\nThe suspect was reportedly spotted near the Weisweiler power station, close to Aachen in western Germany, after being sought by authorities for several days.\nHow were the attacks carried out?\nInvestigators suspect the man of trying to cause short circuits at several locations in the states of North Rhine-Westphalia, Brandenburg and Saxony over the past week, using homemade rockets to fire thin conductive wire across high-voltage power lines.\nThe method appears to have worked in at least two cases.\nIn Bergheim, west of Cologne, several units at a power station were put out of operation for several days.\nAt a substation near the Jänschwalde power station in Brandenburg, more than 20 homemade rockets were allegedly used to fire conductive material onto power lines, causing two short circuits.\nHowever, neither incident resulted in a power outage.\nLast week, armed police located and raided a truck thought to have been used in the attacks.\nWhat was the suspected motive?\nInvestigators have linked a series of letters claiming responsibility for the attacks to the 48-year-old suspect from Gevelsberg, in the southern Ruhr region.\nGerman Interior Minister Alexander Dobrindt said the letters contained information that could only have been known to the perpetrator.\n\"The knowledge revealed in these letters is clearly knowledge belonging to the perpetrator,\" Dobrindt said.\nHe described the attacks as apparent \"climate terrorism\" carried out by a lone offender.\nIn the letters, the suspected attacker reportedly justified targeting the electricity network as part of a campaign against fossil fuels.\n\"Generating electricity from fossil fuels is a crime,\" one of the letters said.\nLignite is still mined and used for electricity generation in all three states where the suspected attacks took place. The burning of lignite releases massive amounts of carbon dioxide into the air, a major factor in climate breakdown.\nEdited by: Elizabeth Schumacher\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Aachen in western Germany, after being sought by authorities for several days."
+    ],
+    [
+     "del",
+     "This"
+    ],
+    [
+     "ins",
+     "How were the attacks carried out? Investigators suspect the man of trying to cause short circuits at several locations in the states of North Rhine-Westphalia, Brandenburg and Saxony over the past week, using homemade rockets to fire thin conductive wire across high-voltage power lines. The method appears to have worked in at least two cases. In Bergheim, west of Cologne, several units at a power station were put out of operation for several days. At a substation near the Jänschwalde power station in Brandenburg, more than 20 homemade rockets were allegedly used to fire conductive material onto power lines, causing two short circuits. However, neither incident resulted in a power outage. Last week, armed police located and raided a truck thought to have been used in the attacks. What was the suspected motive? Investigators have linked a series of letters claiming responsibility for the attacks to the 48-year-old suspect from Gevelsberg, in the southern Ruhr region. German Interior Minister Alexander Dobrindt said the letters contained information that could only have been known to the perpetrator. \"The knowledge revealed in these letters is clearly knowledge belonging to the perpetrator,\" Dobrindt said. He described the attacks as apparent \"climate terrorism\" carried out by a lone offender. In the letters, the suspected attacker reportedly justified targeting the electricity network as part of a campaign against fossil fuels. \"Generating electricity from fossil fuels"
+    ],
+    [
+     "eq",
+     "is a"
+    ],
+    [
+     "del",
+     "breaking"
+    ],
+    [
+     "ins",
+     "crime,\" one of the letters said. Lignite is still mined and used for electricity generation in all three states where the suspected attacks took place. The burning of lignite releases massive amounts of carbon dioxide into the air, a major factor in climate breakdown. Edited by: Elizabeth Schumacher Don't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified"
+    ],
+    [
+     "eq",
+     "news"
+    ],
+    [
+     "del",
+     "story. Check back here for updates."
+    ],
+    [
+     "ins",
+     "first."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 5.5167,
+  "numbers_changed": [
+   "20",
+   "48"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.9,
+ "similarity": 0.7009,
+ "adjudicated_by": "rules"
+}
