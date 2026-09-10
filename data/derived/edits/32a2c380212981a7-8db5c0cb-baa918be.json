@@ -1,0 +1,48 @@
+{
+ "id": "32a2c380212981a7-8db5c0cb-baa918be",
+ "url": "https://www.france24.com/en/video/20260909-diplomatic-row-escalates-as-uk-france-and-canada-move-to-sanction-israeli-settlements",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-10T11:02:08Z",
+ "date": "2026-09-10",
+ "old_title": "Diplomatic row escalates as UK, France and Canada move to sanction Israeli settlements",
+ "new_title": "Diplomatic row escalates as UK, France and Canada move to sanction Israeli settlements",
+ "old_text": "Diplomatic row escalates as UK, France and Canada move to sanction Israeli settlements\nIssued on:\nShare\nBritain, France and Canada said Tuesday they will ban imports from Israeli settlements in the occupied West Bank, with a UK minister accusing Israel of turning a blind eye to the \"ethnic cleansing\" of Palestinians there. The moves prompted a furious Israel to unveil immediate counter-measures targeting Britain, as Jerusalem-based journalist Jordana Miller reports.",
+ "new_text": "Diplomatic row escalates as UK, France and Canada move to sanction Israeli settlements\nIssued on: Modified:\nShare\nBritain, France and Canada said Tuesday they will ban imports from Israeli settlements in the occupied West Bank, with a UK minister accusing Israel of turning a blind eye to the \"ethnic cleansing\" of Palestinians there. The moves prompted a furious Israel to unveil immediate counter-measures targeting Britain, as Jerusalem-based journalist Jordana Miller reports.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "as UK, France and Canada move to sanction Israeli settlements Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "Share Britain, France and Canada said Tuesday they will ban imports from"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0143,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9969,
+ "adjudicated_by": "rules"
+}

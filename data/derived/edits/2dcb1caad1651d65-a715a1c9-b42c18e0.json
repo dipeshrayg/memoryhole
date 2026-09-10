@@ -1,0 +1,60 @@
+{
+ "id": "2dcb1caad1651d65-a715a1c9-b42c18e0",
+ "url": "https://www.npr.org/2026/09/09/nx-s1-5961264/conflict-and-relationships-comic-priya-parker",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-10T10:59:41Z",
+ "date": "2026-09-10",
+ "old_title": "COMIC: If we fight, is our love doomed? And other honest questions about conflict",
+ "new_title": "How to fight with the people we care about, illustrated",
+ "old_text": "COMIC: If we fight, is our love doomed? And other honest questions about conflict\nLife Kit\nWant more intimacy in your relationships? Conflict could help\nShould we argue with the people we love? For Priya Parker, author of a book published in September, The Art of Fighting: The Transformative Power of Conflict, the answer is yes.\nWhile many people dread conflict, it's not necessarily a bad thing. In fact, it's necessary if we want to be in close, authentic relationships, says Parker. So when you have a moment of misalignment with someone, try thinking of it as a signal. There's something here to talk about.\n\"We assume if the heat is rising, this must be bad. But the reframe is that there's something relevant here. I should pay attention,\" she says.\nParker, who has been a conflict resolution facilitator for 20 years, shares advice about common questions you may have about getting into fights - whether that's with a partner, a family member or a friend.\nNavied Mahdavian is a New Yorker cartoonist and the author of the graphic memoir This Country: Searching for Home in (Very) Rural America.\nMore comics from Life Kit\nStill cringing about that awkward moment? Here's what to do about it. Experts demystify the science of awkwardness - and explain how to reduce the emotional intensity of mortifying flashbacks (like that one time you called your teacher \"Mommy\").\nTo raise a confident little talker, learn to speak 'parentese'. So you've got a baby in your life. How do you talk to them, exactly? In this comic, experts explain why conversing with your baby is important - and share ways to help them develop their language skills.\nDon't panic! 6 strategies to keep you calm in a crisis. House fires, mass shootings, emergency medical procedures and mental health crises. Emergencies can happen at any time - and knowing how to overcome feelings of panic, stress and indecision can be a matter of life or death.\nThis digital story was edited by Malaka Gharib. The visual editor is CJ Riculan. We'd love to hear from you. Email us at LifeKit@npr.org. Listen to Life Kit on Apple Podcasts and Spotify, and sign up for our newsletter.",
+ "new_text": "How to fight with the people we care about, illustrated\nLife Kit\nWant more intimacy in your relationships? Conflict could help\nShould we argue with the people we love? For Priya Parker, author of a book published in September, The Art of Fighting: The Transformative Power of Conflict, the answer is yes.\nWhile many people dread conflict, it's not necessarily a bad thing. In fact, it's necessary if we want to be in close, authentic relationships, says Parker. So when you have a moment of misalignment with someone, try thinking of it as a signal. There's something here to talk about.\n\"We assume if the heat is rising, this must be bad. But the reframe is that there's something relevant here. I should pay attention,\" she says.\nParker, who has been a conflict resolution facilitator for 20 years, shares advice about common questions you may have about getting into fights - whether that's with a partner, a family member or a friend.\nNavied Mahdavian is a New Yorker cartoonist and the author of the graphic memoir This Country: Searching for Home in (Very) Rural America.\nMore comics from Life Kit\nStill cringing about that awkward moment? Here's what to do about it. Experts demystify the science of awkwardness - and explain how to reduce the emotional intensity of mortifying flashbacks (like that one time you called your teacher \"Mommy\").\nTo raise a confident little talker, learn to speak 'parentese'. So you've got a baby in your life. How do you talk to them, exactly? In this comic, experts explain why conversing with your baby is important - and share ways to help them develop their language skills.\nDon't panic! 6 strategies to keep you calm in a crisis. House fires, mass shootings, emergency medical procedures and mental health crises. Emergencies can happen at any time - and knowing how to overcome feelings of panic, stress and indecision can be a matter of life or death.\nThis digital story was edited by Malaka Gharib. The visual editor is CJ Riculan. We'd love to hear from you. Email us at LifeKit@npr.org. Listen to Life Kit on Apple Podcasts and Spotify, and sign up for our newsletter.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "COMIC: If"
+    ],
+    [
+     "ins",
+     "How to fight with the people"
+    ],
+    [
+     "eq",
+     "we"
+    ],
+    [
+     "del",
+     "fight, is our love doomed? And other honest questions about conflict"
+    ],
+    [
+     "ins",
+     "care about, illustrated"
+    ],
+    [
+     "eq",
+     "Life Kit Want more intimacy in your relationships? Conflict could help Should"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0598,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.724,
+ "similarity": 0.966,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,84 @@
+{
+ "id": "fa9cd804c06c3672-d3ff2eb2-06cbfb24",
+ "url": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-09-10T11:06:42Z",
+ "date": "2026-09-10",
+ "old_title": "Learner drivers still waiting 20 weeks to book tests",
+ "new_title": "Learner drivers still forced to wait months to book tests",
+ "old_text": "- Published\nLearner drivers have to wait an average 20 weeks before booking a practical test, according to new figures, despite attempts to reduce delays.\nThe data from the Driver and Vehicle Standards Agency (DVSA) for August is only a marginal improvement from 20.2 weeks in July.\nThe average wait time between booking and sitting a test is unchanged at 11.1 weeks.\nThe DVSA initially had a target of reducing the average waiting time to seven weeks by the end of last year. Transport Secretary Heidi Alexander pushed the target back to summer 2026, but subsequently admitted even that would not be possible.\nThe DVSA made a number of changes to its practical driving test booking system earlier this year.\nOnly the learner driver themself is now able to book their driving test, blocking an instructor or third parties from booking using the learner's details.\nThere is also a geographical restriction which means a learner can only book a test at their three local test centres, rather than one at the other side of the country if they found a test available.\nThe number of times a would-be driver can swap a test date has also been restricted.\n'I feel a lot of pressure to pass'\nLucy Rend is 19 and lives in south east London and has been learning to drive for two-and-a-half years. She has a driving test on Thursday and feels under pressure to pass because getting a slot has been so difficult.\nIt meant getting up at 5.45am everyday to get on the DVSA for 6am. \"Then I'd be 21,000 in the queue,\" she said. \"It was very hard but randomly one popped up.\"\nRend: \"I feel lots of pressure to pass because if I don't pass I will have to go through all that again and try find another test, so would rather pass this one and then it is done.\"\nHer friends are also struggling to book a test and \"most of them have given up and not going to bother anymore\".\n'More to do'\nThe DVSA said on Wednesday that more than 2.13 million practical driving tests took place in the 12 months to August 2026 â the highest rolling 12-month figure on record.\nDVSA chief executive Beverley Warmington, said: \"There's more to do and we're not going to stop until every learner can get a fair test slot when they need one but today's figures show our plan is working.\"\nThe long wait times have been frustrating for driving teachers too.\nAdem Veli, who has been an instructor for 16 years and runs his driving school Passman in Sidcup, said: \"Before Covid we had the luxury we could pick the test date and work towards that date.\"\nBut he said learners having to wait so long can have a huge impact on their confidence.\n\"It's about a six month wait,\" he said. \"Can you imagine if you did fail your driving test, you're test standard and ready to go [but] have to wait another six months to get back in?\"\nDVSA figures revealed that the pass rate for driving tests remains over 50%.\nVeli said that some of the changes the DVSA has made have been positive, such as limiting the number of swaps a learner can make.\nHowever, while the DVSA has made changes to stop third parties booking tests, Veli said: \"I get messages weekly, they're trying to sell them to me.\n\"I've had students ask me about this site or that site, but I tell them don't bother with it now as there's so many scams.\"",
+ "new_text": "- Published\nLearner drivers have to wait an average 20 weeks, or around five months, before booking a practical test, according to new figures, despite attempts to reduce delays.\nThe data from the Driver and Vehicle Standards Agency (DVSA) for August is only a marginal improvement from 20.2 weeks in July.\nThe average wait time between booking and sitting a test is unchanged at 11.1 weeks.\nThe DVSA initially had a target of reducing the average waiting time to seven weeks by the end of last year. Transport Secretary Heidi Alexander pushed the target back to summer 2026, but subsequently admitted even that would not be possible.\nThe DVSA made a number of changes to its practical driving test booking system earlier this year.\nOnly the learner driver themself is now able to book their driving test, blocking an instructor or third parties from booking using the learner's details.\nThere is also a geographical restriction which means a learner can only book a test at their three local test centres, rather than one at the other side of the country if they found a test available.\nThe number of times a would-be driver can swap a test date has also been restricted.\n'I feel a lot of pressure to pass'\nLucy Rend is 19 and lives in south east London and has been learning to drive for two-and-a-half years. She has a driving test on Thursday and feels under pressure to pass because getting a slot has been so difficult.\nIt meant getting up at 5.45am everyday to get on the DVSA for 6am. \"Then I'd be 21,000 in the queue,\" she said. \"It was very hard but randomly one popped up.\"\nRend: \"I feel lots of pressure to pass because if I don't pass I will have to go through all that again and try find another test, so would rather pass this one and then it is done.\"\nHer friends are also struggling to book a test and \"most of them have given up and not going to bother anymore\".\n'More to do'\nThe DVSA said on Wednesday that more than 2.13 million practical driving tests took place in the 12 months to August 2026 â the highest rolling 12-month figure on record.\nDVSA chief executive Beverley Warmington, said: \"There's more to do and we're not going to stop until every learner can get a fair test slot when they need one but today's figures show our plan is working.\"\nCarly Brookfield, the chief executive of the Driving Instructors Association, said the higher number of available tests was \"progress that should be recognised\" but, for learners and instructors \"the pressure is still very real\".\n\"The ultimate measure of recovery has to be a testing service that learners and the professional training community can access when they need it,\" she said.\nAdem Veli, who has been an instructor for 16 years and runs his driving school Passman in Sidcup, said: \"Before Covid we had the luxury we could pick the test date and work towards that date.\"\nBut he said learners having to wait so long can have a huge impact on their confidence.\n\"It's about a six month wait,\" he said. \"Can you imagine if you did fail your driving test, you're test standard and ready to go [but] have to wait another six months to get back in?\"\nDVSA figures revealed that the pass rate for driving tests remains over 50%.\nVeli said that some of the changes the DVSA has made have been positive, such as limiting the number of swaps a learner can make.\nHowever, while the DVSA has made changes to stop third parties booking tests, Veli said: \"I get messages weekly, they're trying to sell them to me.\n\"I've had students ask me about this site or that site, but I tell them don't bother with it now as there's so many scams.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published Learner drivers have to wait an average 20"
+    ],
+    [
+     "del",
+     "weeks"
+    ],
+    [
+     "ins",
+     "weeks, or around five months,"
+    ],
+    [
+     "eq",
+     "before booking a practical test, according to new figures, despite attempts to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "when they need one but today's figures show our plan is working.\""
+    ],
+    [
+     "del",
+     "The long wait times have been frustrating"
+    ],
+    [
+     "ins",
+     "Carly Brookfield, the chief executive of the Driving Instructors Association, said the higher number of available tests was \"progress that should be recognised\" but,"
+    ],
+    [
+     "eq",
+     "for"
+    ],
+    [
+     "del",
+     "driving teachers too."
+    ],
+    [
+     "ins",
+     "learners and instructors \"the pressure is still very real\". \"The ultimate measure of recovery has to be a testing service that learners and the professional training community can access when they need it,\" she said."
+    ],
+    [
+     "eq",
+     "Adem Veli, who has been an instructor for 16 years and runs"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1256,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.15,
+ "similarity": 0.9912,
+ "adjudicated_by": "rules"
+}
