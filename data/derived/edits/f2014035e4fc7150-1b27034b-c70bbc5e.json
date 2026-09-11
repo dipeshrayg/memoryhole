@@ -1,0 +1,52 @@
+{
+ "id": "f2014035e4fc7150-1b27034b-c70bbc5e",
+ "url": "https://www.theguardian.com/science/audio/2026/sep/10/dark-matter-science-biggest-discovery-podcast",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-09-11T11:09:22Z",
+ "date": "2026-09-11",
+ "old_title": "'One of the biggest discoveries in science': have scientists found dark matter? - podcast",
+ "new_title": "'One of the biggest discoveries in science': have scientists found dark matter? - podcast",
+ "old_text": "Support the Guardian: theguardian.com/sciencepod\n'One of the biggest discoveries in science': have scientists found dark matter? - podcast\nFor decades physicists have been puzzling over the enigma of dark matter. We think it makes up 85% of the matter in the universe, but the mysterious substance cannot be seen or detected, and we know about it mainly through observations of the gravitational effects it has on other things. But now scientists believe they may be a step closer to detecting it. Science editor Ian Sample explains to Madeleine Finlay why, if confirmed, the finding could completely transform our understanding of the universe. And Dr Samuel Erikson, senior research associate at the University of Bristol, and first author of the research paper, explains how the finding has been received in the physics community",
+ "new_text": "Support the Guardian: theguardian.com/sciencepod\n'One of the biggest discoveries in science': have scientists found dark matter? - podcast\nFor decades physicists have been puzzling over the enigma of dark matter. We think it makes up 85% of the matter in the universe, but the mysterious substance cannot be seen or detected, and we know about it mainly through observations of the gravitational effects it has on other things. But now scientists believe they may be a step closer to detecting it. Science editor Ian Sample explains to Madeleine Finlay why, if confirmed, the finding could completely transform our understanding of the universe. And Dr Samuel Eriksen, senior research associate at the University of Bristol, and first author of the research paper, explains how the finding has been received in the physics community",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "finding could completely transform our understanding of the universe. And Dr Samuel"
+    ],
+    [
+     "del",
+     "Erikson,"
+    ],
+    [
+     "ins",
+     "Eriksen,"
+    ],
+    [
+     "eq",
+     "senior research associate at the University of Bristol, and first author of"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0152,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9915,
+ "adjudicated_by": "rules"
+}
