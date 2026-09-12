@@ -1,0 +1,87 @@
+{
+ "id": "308f1b1dd8e4b887-60050633-580a01f8",
+ "url": "https://www.npr.org/2026/09/09/nx-s1-5962678/national-guard-arrested",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-12T10:25:33Z",
+ "date": "2026-09-12",
+ "old_title": "National Guard member arrested after drawing gun on fellow soldier in D.C.",
+ "new_title": "National Guard member accused of drawing gun on fellow soldier in D.C.",
+ "old_text": "National Guard member arrested after drawing gun on fellow soldier in D.C.\nA member of the National Guard was arrested earlier this month in Washington, D.C., on felony charges for allegedly pointing his gun at a fellow guard member during a dispute over regulation hairstyles.\nAccording to an arrest affidavit filed in the Superior Court of the District of Columbia, during the argument, Zion Mitchell, 21, a National Guard member from Georgia, drew his service revolver and pointed it at another soldier.\nThe female guard member, who had the gun pointed at her, stated to detectives that she believed the firearm was loaded since all National Guard firearms are \"generally loaded.\"\nMitchell has been charged with two felonies: assault with a dangerous weapon and possession of a firearm during a crime of violence or dangerous crime. During a preliminary hearing on Sept. 4, he was ordered held without bond in a D.C. jail \"due to the nature of the crimes,\" according to a court docket.\nMitchell's lawyer and the D.C. Joint Task Force, the law enforcement collaboration behind the guard's deployment, did not immediately respond to requests for comment.\nThe arrest affidavit said that on Aug. 25, several guard members were sitting in a black van during a patrol break outside of a Popeyes restaurant. Mitchell and a female guard member were arguing about whether their hairstyles were following army regulations.\nMitchell, who was sitting in the third row of the van, and the female guard member, who was sitting in the front seat, got into an increasingly heated exchange. According to the affidavit, the woman in the argument said that \"Mitchell stated something to the effect of 'I would slap the Jackson 5 out of you.'\" After more back-and-forths, the female guard member, who was not identified in court documents, responded: \"shut the f*** up.\"\nThough the woman in the front seat did not see Mitchell pull his gun out, she said she heard a \"holster click\" and witnesses inside the van stated they saw it raised. The female guard member then left the van and went inside Popeyes.\nMitchell initially told detectives that he was in a \"playful argument\" with the female guard member when \"he pulled a pistol magazine out of his vest pocket and pointed it at her.\"\nMitchell later recanted that version of events and according to the affidavit he told detectives that \"during the argument, he did pull out his pistol and point it in the direction of [the female guard member], but that the pistol was pointed at a roughly 45 degree angle downward and not pointed towards her head.\"\nThe National Guard was deployed to Washington, D.C., by President Trump as part of an anti-crime initiative more than a year ago. Their deployment was extended to the end of his term.\nSome guard members who are no longer a part of the mission told NPR in August that they worry that Trump's unprecedented use of the military in domestic matters is damaging the National Guard's reputation with the American public.",
+ "new_text": "National Guard member accused of drawing gun on fellow soldier in D.C.\nA member of the National Guard was arrested earlier this month in Washington, D.C., on felony charges for allegedly pointing his gun at a fellow guard member during a dispute over regulation hairstyles.\nAccording to an arrest affidavit filed in the Superior Court of the District of Columbia, during the argument, Zion Mitchell, 21, a National Guard member from Georgia, drew his service weapon and pointed it at another soldier.\nThe female guard member, who had the gun pointed at her, stated to detectives that she believed the firearm was loaded since all National Guard firearms are \"generally loaded.\"\nMitchell has been charged with two felonies: assault with a dangerous weapon and possession of a firearm during a crime of violence or dangerous crime. During a preliminary hearing on Sept. 4, he was ordered held without bond in a D.C. jail \"due to the nature of the crimes,\" according to a court docket.\nMitchell's lawyer and the D.C. Joint Task Force, the law enforcement collaboration behind the guard's deployment, did not immediately respond to requests for comment.\nThe arrest affidavit said that on Aug. 25, several guard members were sitting in a black van during a patrol break outside of a Popeyes restaurant. Mitchell and a female guard member were arguing about whether their hairstyles were following army regulations.\nMitchell, who was sitting in the third row of the van, and the female guard member, who was sitting in the front seat, got into an increasingly heated exchange. According to the affidavit, the woman in the argument said that \"Mitchell stated something to the effect of 'I would slap the Jackson 5 out of you.'\" After more back-and-forths, the female guard member, who was not identified in court documents, responded: \"shut the f*** up.\"\nThough the woman in the front seat did not see Mitchell pull his gun out, she said she heard a \"holster click\" and witnesses inside the van stated they saw it raised. The female guard member then left the van and went inside Popeyes.\nMitchell initially told detectives that he was in a \"playful argument\" with the female guard member when \"he pulled a pistol magazine out of his vest pocket and pointed it at her.\"\nMitchell later recanted that version of events and according to the affidavit he told detectives that \"during the argument, he did pull out his pistol and point it in the direction of [the female guard member], but that the pistol was pointed at a roughly 45 degree angle downward and not pointed towards her head.\"\nThe National Guard was deployed to Washington, D.C., by President Trump as part of an anti-crime initiative more than a year ago. Their deployment was extended to the end of his term.\nSome guard members who are no longer a part of the mission told NPR in August that they worry that Trump's unprecedented use of the military in domestic matters is damaging the National Guard's reputation with the American public.\nCorrection Sept. 11, 2026\nA previous version of this story referred to the weapon that a National Guard member allegedly pointed at another as a service revolver. The arrest affidavit does not specify the type of firearm.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "National Guard member"
+    ],
+    [
+     "del",
+     "arrested after"
+    ],
+    [
+     "ins",
+     "accused of"
+    ],
+    [
+     "eq",
+     "drawing gun on fellow soldier in D.C. A member of the National"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Zion Mitchell, 21, a National Guard member from Georgia, drew his service"
+    ],
+    [
+     "del",
+     "revolver"
+    ],
+    [
+     "ins",
+     "weapon"
+    ],
+    [
+     "eq",
+     "and pointed it at another soldier. The female guard member, who had"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "domestic matters is damaging the National Guard's reputation with the American public."
+    ],
+    [
+     "ins",
+     "Correction Sept. 11, 2026 A previous version of this story referred to the weapon that a National Guard member allegedly pointed at another as a service revolver. The arrest affidavit does not specify the type of firearm."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0846,
+  "numbers_changed": [
+   "11",
+   "2026"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.15,
+ "similarity": 0.9966,
+ "adjudicated_by": "rules"
+}

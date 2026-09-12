@@ -1,0 +1,131 @@
+{
+ "id": "d274c2efa2784d60-87f48bd4-919cdf1f",
+ "url": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-09-12T10:38:48Z",
+ "date": "2026-09-12",
+ "old_title": "Hull City's Sorba Thomas crashes car outside training ground",
+ "new_title": "Hull City's Sorba Thomas crashes outside training ground",
+ "old_text": "- Published\nPremier League winger Sorba Thomas has been involved in a car crash close to Hull City's training ground, the club has confirmed.\nThe 27-year-old walked away from the crash, which happened on Millhouse Woods Lane in Cottingham on Friday morning. His vehicle, a grey Land Rover Defender, was pictured on its roof, with broken windows.\nHumberside Police said emergency services remain at the scene, as investigations take place and asked people to avoid the area.\nIn a statement, the club said it was \"relieved\" to hear its player, who joined the Tigers from Championship side Stoke earlier this month, was unharmed.\nThe club added: \"The club is aware of images of Sorba's car circulating on social media and can reassure supporters that he has sustained no injuries and emerged from his vehicle completely unscathed.\"\nThomas signed for an undisclosed fee at the end of the transfer window.\nHe will be with the Tigers until summer 2030.\nThomas represented Wales at the 2022 World Cup in Qatar.\nListen to highlights from Hull and East Yorkshire on BBC Sounds, watch the latest episode of Look North.",
+ "new_text": "- Published\nPremier League winger Sorba Thomas has been involved in a car crash close to Hull City's training ground, the club has confirmed.\nThe 27-year-old walked away from the crash, which happened on Millhouse Woods Lane in Cottingham on Friday morning. His vehicle, a grey Land Rover Defender, was pictured on its roof, with broken windows.\nHumberside Police said emergency services remained at the scene and asked people to avoid the area.\nIn a statement, the club said it was \"relieved\" to hear its player, who joined the Tigers from Championship side Stoke City earlier this month, was unharmed.\nThe club added: \"The club is aware of images of Sorba's car circulating on social media and can reassure supporters that he has sustained no injuries and emerged from his vehicle completely unscathed.\"\nA woman who lives at the scene said the crash, which happened at about 08:30 BST, woke her up.\n\"I was laid in bed [and] heard a noise â crash, bang,\" she said.\n\"I got up, come down and the car is in my hedge.\"\nAn NHS worker who lives on the road said the incident had left him unable to go to work as the road was blocked.\n\"There will be patients who will miss appointments because of this,\" he said.\n\"It's one road in and one road out. It was an accident waiting to happen.\"\nThomas signed for an undisclosed fee at the end of the transfer window until summer 2030.\nHe represented Wales at the 2022 World Cup in Qatar.\nListen to highlights from Hull and East Yorkshire on BBC Sounds, and watch the latest episode of Look North.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "pictured on its roof, with broken windows. Humberside Police said emergency services"
+    ],
+    [
+     "del",
+     "remain"
+    ],
+    [
+     "ins",
+     "remained"
+    ],
+    [
+     "eq",
+     "at the"
+    ],
+    [
+     "del",
+     "scene, as investigations take place"
+    ],
+    [
+     "ins",
+     "scene"
+    ],
+    [
+     "eq",
+     "and asked people to avoid the area. In a statement, the club"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to hear its player, who joined the Tigers from Championship side Stoke"
+    ],
+    [
+     "ins",
+     "City"
+    ],
+    [
+     "eq",
+     "earlier this month, was unharmed. The club added: \"The club is aware"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "he has sustained no injuries and emerged from his vehicle completely unscathed.\""
+    ],
+    [
+     "ins",
+     "A woman who lives at the scene said the crash, which happened at about 08:30 BST, woke her up. \"I was laid in bed [and] heard a noise â crash, bang,\" she said. \"I got up, come down and the car is in my hedge.\" An NHS worker who lives on the road said the incident had left him unable to go to work as the road was blocked. \"There will be patients who will miss appointments because of this,\" he said. \"It's one road in and one road out. It was an accident waiting to happen.\""
+    ],
+    [
+     "eq",
+     "Thomas signed for an undisclosed fee at the end of the transfer"
+    ],
+    [
+     "del",
+     "window. He will be with the Tigers"
+    ],
+    [
+     "ins",
+     "window"
+    ],
+    [
+     "eq",
+     "until summer 2030."
+    ],
+    [
+     "del",
+     "Thomas"
+    ],
+    [
+     "ins",
+     "He"
+    ],
+    [
+     "eq",
+     "represented Wales at the 2022 World Cup in Qatar. Listen to highlights from Hull and East Yorkshire on BBC Sounds,"
+    ],
+    [
+     "ins",
+     "and"
+    ],
+    [
+     "eq",
+     "watch the latest episode of Look North."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.629,
+  "numbers_changed": [
+   "08",
+   "30"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.15,
+ "similarity": 0.7848,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,158 @@
+{
+ "id": "caa0e98a6350940d-122d924b-eb80c4b5",
+ "url": "https://www.dw.com/en/yemen-houthis-tighten-control-of-strategic-red-sea-towns/a-79220628?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-12T10:27:52Z",
+ "date": "2026-09-12",
+ "old_title": "Yemen: Houthis tighten control of strategic Red Sea towns",
+ "new_title": "Yemen: Houthis tighten control of strategic Red Sea towns",
+ "old_text": "Yemen's Houthi militia have captured strategic points on the Bab el-Mandeb strait, one of the world's most important shipping routes.\nIn addition to the Iran-backed group's takeover of the port city of Mokha yesterday, Yemeni government sources told several news agencies on Friday that the Houthis have now also captured the island of Perim, also called Mayyun in Arabic.\nReuters reported that Yemeni government forces said they had withdrawn from Perim, and that the Houthis had also taken the mainland Red Sea coastal town of Dhubab, located south of Mokha and closer to the narrowest part of the strait.\nMokha is located 80 kilometers up the Red Sea coast from the Bab el-Mandeb strait, while Perim Island is located in the strait itself.\nVital Red Sea transport route vulnerable?\nThe Red Sea has served as a key alternative to the Strait of Hormuz, where shipping has been disrupted amid the United States' war with Iran, sending global oil prices skyrocketing.\nHouthi spokesperson Abdulsalam was cited by the Reuters news agency as saying that freedom of navigation and international trade in the Red Sea and the Strait remain safe and operations are limited to specific targets.\nThe Houthis have in the past targeted international shipping in the Red Sea, saying it is in solidarity with Palestinians in Gaza.\nMeanwhile, Houthi rebels accused Saudi Arabia of launching strikes on the southwestern province of Taiz.\n\"The Saudi enemy launched 10 strikes on the Dhubab district in western Taiz,\" the Houthis' Al-Masirah TV channel was cited by AFP news agency as saying.\nDhubab lies just south of Mokha.\nFighting intensifies between Houthis and Yemeni government\nFighting has intensified between the Houthis and Yemen's internationally recognized government in recent months after four years of relative calm, with rebels intensifying efforts to solidify their control over the country's coastline.\nThe capture of Mokha is the Iran-backed militia's biggest territorial gain since a UN-brokered truce signed in 2022.\nThe Iran-backed Houthis control the Yemeni capital, Sanaa, as well as much of the more populous areas in the country's north and west.\nThe internationally recognized government has its headquarters in the southern city of Aden and receives considerable support from Saudi Arabia.\nYemen's civil war has killed over 150,000 people and brought others to the brink of famine.\nEdited by: Wesley Rahn, Dmytro Hubenko\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "new_text": "Yemen's Houthi militia have captured strategic points on the Bab el-Mandeb strait, one of the world's most important shipping routes.\nIn addition to the Iran-backed group's takeover of the port city of Mokha on Thursday, Yemeni government sources told several news agencies on Friday that the Houthis have now also captured the island of Perim, also called Mayyun in Arabic.\nReuters reported that Saudi-backed Yemeni government forces said they had withdrawn from Perim, and that the Houthis had also taken the mainland Red Sea coastal town of Dhubab, located south of Mokha and closer to the narrowest part of the strait.\nMokha is located 80 kilometers (50 miles) up the Red Sea coast from the Bab el-Mandeb strait, while Perim Island is located in the strait itself.\nVital Red Sea transport route vulnerable?\nThe Red Sea has served as a key alternative to the Strait of Hormuz, where shipping has been disrupted amid the United States' war with Iran, sending global oil prices skyrocketing.\nHouthi spokesperson Abdulsalam was cited by the Reuters news agency as saying that freedom of navigation and international trade in the Red Sea and the Strait remain safe and operations are limited to specific targets.\nThe Houthis have in the past targeted international shipping in the Red Sea, saying it is in solidarity with Palestinians in Gaza.\nSaudi Arabia closes oil pipeline after attack\nSaudi authorities said that they temporarily closed the East-West oil pipeline near Riyadh and Medina on Thursday after it came under attack.\nThe pipeline runs across the Arabian Peninsula, from the Persian Gulf coast to the Red Sea, and is a key part of the route bypassing the Strait of Hormuz.\n\"The East-West pipeline in the Riyadh and Medina regions was subjected to several attacks,\" the official told the SPA news agency on Friday. \"The pipeline was stopped as a precaution, and the attacks resulted in some injuries.\"\nThe Foreign Ministry said the drones involved in the attack were launched from Iraq.\nMeanwhile, Houthi rebels accused Saudi Arabia of launching strikes on the southwestern province of Taiz.\n\"The Saudi enemy launched 10 strikes on the Dhubab district in western Taiz,\" the Houthis' Al-Masirah TV channel was cited by AFP news agency as saying.\nDhubab lies just south of Mokha.\nFighting intensifies between Houthis and Yemeni government\nFighting has intensified between the Houthis and Yemen's internationally recognized government in recent months after four years of relative calm, with rebels stepping up efforts to solidify their control over the country's coastline.\nThe capture of Mokha is the Iran-backed militia's biggest territorial gain since a UN-brokered truce signed in 2022.\nThe Iran-backed Houthis control the Yemeni capital, Sanaa, as well as much of the more populous areas in the country's north and west.\nThe internationally recognized government is headquartered in the southern city of Aden and receives considerable support from Saudi Arabia.\nYemen's civil war has killed over 150,000 people and brought others to the brink of famine.\nEdited by: Wesley Rahn, Dmytro Hubenko and Wesley Dockery\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "addition to the Iran-backed group's takeover of the port city of Mokha"
+    ],
+    [
+     "del",
+     "yesterday,"
+    ],
+    [
+     "ins",
+     "on Thursday,"
+    ],
+    [
+     "eq",
+     "Yemeni government sources told several news agencies on Friday that the Houthis"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the island of Perim, also called Mayyun in Arabic. Reuters reported that"
+    ],
+    [
+     "ins",
+     "Saudi-backed"
+    ],
+    [
+     "eq",
+     "Yemeni government forces said they had withdrawn from Perim, and that the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to the narrowest part of the strait. Mokha is located 80 kilometers"
+    ],
+    [
+     "ins",
+     "(50 miles)"
+    ],
+    [
+     "eq",
+     "up the Red Sea coast from the Bab el-Mandeb strait, while Perim"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the Red Sea, saying it is in solidarity with Palestinians in Gaza."
+    ],
+    [
+     "ins",
+     "Saudi Arabia closes oil pipeline after attack Saudi authorities said that they temporarily closed the East-West oil pipeline near Riyadh and Medina on Thursday after it came under attack. The pipeline runs across the Arabian Peninsula, from the Persian Gulf coast to the Red Sea, and is a key part of the route bypassing the Strait of Hormuz. \"The East-West pipeline in the Riyadh and Medina regions was subjected to several attacks,\" the official told the SPA news agency on Friday. \"The pipeline was stopped as a precaution, and the attacks resulted in some injuries.\" The Foreign Ministry said the drones involved in the attack were launched from Iraq."
+    ],
+    [
+     "eq",
+     "Meanwhile, Houthi rebels accused Saudi Arabia of launching strikes on the southwestern"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "government in recent months after four years of relative calm, with rebels"
+    ],
+    [
+     "del",
+     "intensifying"
+    ],
+    [
+     "ins",
+     "stepping up"
+    ],
+    [
+     "eq",
+     "efforts to solidify their control over the country's coastline. The capture of"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "populous areas in the country's north and west. The internationally recognized government"
+    ],
+    [
+     "del",
+     "has its headquarters"
+    ],
+    [
+     "ins",
+     "is headquartered"
+    ],
+    [
+     "eq",
+     "in the southern city of Aden and receives considerable support from Saudi"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "others to the brink of famine. Edited by: Wesley Rahn, Dmytro Hubenko"
+    ],
+    [
+     "ins",
+     "and Wesley Dockery"
+    ],
+    [
+     "eq",
+     "If you rely on our team for trusted reporting, please take a"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3029,
+  "numbers_changed": [
+   "50"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9933,
+ "adjudicated_by": "rules"
+}

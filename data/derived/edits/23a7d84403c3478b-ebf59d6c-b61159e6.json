@@ -1,0 +1,52 @@
+{
+ "id": "23a7d84403c3478b-ebf59d6c-b61159e6",
+ "url": "https://finance.yahoo.com/small-business/articles/popular-womens-clothing-chain-closes-231700943.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-09-12T10:36:59Z",
+ "date": "2026-09-12",
+ "old_title": "Popular women's clothing chain closes 177 stores",
+ "new_title": "Popular women's clothing chain closes 177 stores",
+ "old_text": "While I buy most of my clothes from Amazon, when I needed a new wardrobe for a video shoot, my wife and I went on a tour of local retailers.\nSince I needed shirts that would hold up well in hot weather, we went to Target and Bass Pro Shops, and as much as I don't like trying clothes on, I took advantage of the stores' dressing rooms.\nI'm not alone in wanting to try things on before I buy.\n\"The opportunity to try on clothes and test products is a major driver of store traffic,\nwith 52% of consumers surveyed saying they go to stores instead of shopping online because of this. References to trying on/testing products surged 32% YoY on average at retailers and were up 58% at beauty retailers,\" according to a Chatmeter report published last year.\nPeople, me included, like seeing what they're buying before committing to a purchase.\n\"When asked about their favorite part of a recent store visit, 21% mentioned trying a\nproduct while 25% mentioned seeing a product in real life,\" the data showed.\nOnce I picked out the shirt I liked, I bought a few from the store, went back a week later to buy more, but then ordered more colors online. And since we no longer live near Bass Pro Shops, I'll likely become an online customer.\nThat's the problem facing retailers like Torrid. Physical stores deliver a better experience, because they introduce customers to merchandise and allow them to leave the store with their size. But if customers buy in-store once and then order online, that dramatically changes the economics for brick-and-mortar locations.\nThat's at least part of the struggle for Torrid, a women's specialty retailer featuring plus-sized clothes, which has closed 20% of its stores.\nTorrid has shrunk its store base\nIn June 2025, Torrid shared a plan to close around 180 underperforming stores from its fleet of just over 620.\nTorrid CEO Lisa Harper shared her company's plan in its first-quarter earnings release.\n\"Digital continues to be our customers' preferred channel, now approaching 70% of total demand. We're accelerating our transformation to a more digitally-led business, which includes optimizing our retail footprint,\" she said.\nHarper then got specific about the planned shutdowns.\n\"We now plan to close up to 180 underperforming stores this year - allowing us to reduce fixed costs and reinvest in areas that drive long-term growth, including customer acquisition and omnichannel enhancements,\" she added.\nMore Retail:",
+ "new_text": "While I buy most of my clothes from Amazon, when I needed a new wardrobe for a video shoot, my wife and I went on a tour of local retailers.\nSince I needed shirts that would hold up well in hot weather, we went to Target and Bass Pro Shops, and as much as I don't like trying clothes on, I took advantage of the stores' dressing rooms.\nI'm not alone in wanting to try things on before I buy.\n\"The opportunity to try on clothes and test products is a major driver of store traffic, with 52% of consumers surveyed saying they go to stores instead of shopping online because of this. References to trying on/testing products surged 32% YoY on average at retailers and were up 58% at beauty retailers,\" according to a Chatmeter report published last year.\nPeople, me included, like seeing what they're buying before committing to a purchase.\n\"When asked about their favorite part of a recent store visit, 21% mentioned trying a product while 25% mentioned seeing a product in real life,\" the data showed.\nOnce I picked out the shirt I liked, I bought a few from the store, went back a week later to buy more, but then ordered more colors online. And since we no longer live near Bass Pro Shops, I'll likely become an online customer.\nThat's the problem facing retailers like Torrid. Physical stores deliver a better experience because they introduce customers to merchandise and allow them to leave the store with their size. But if customers buy in-store once and then order online, that dramatically changes the economics for brick-and-mortar locations.\nThat's at least part of the struggle for Torrid, a women's specialty retailer featuring plus-sized clothes, which has closed 20% of its stores.\nTorrid has shrunk its store base\nIn June 2025, Torrid shared a plan to close around 180 underperforming stores from its fleet of just over 620.\nTorrid CEO Lisa Harper shared her company's plan in its first-quarter earnings release.\n\"Digital continues to be our customers' preferred channel, now approaching 70% of total demand. We're accelerating our transformation to a more digitally-led business, which includes optimizing our retail footprint,\" she said.\nHarper then got specific about the planned shutdowns.\n\"We now plan to close up to 180 underperforming stores this year - allowing us to reduce fixed costs and reinvest in areas that drive long-term growth, including customer acquisition and omnichannel enhancements,\" she added.\nMore Retail:",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "That's the problem facing retailers like Torrid. Physical stores deliver a better"
+    ],
+    [
+     "del",
+     "experience,"
+    ],
+    [
+     "ins",
+     "experience"
+    ],
+    [
+     "eq",
+     "because they introduce customers to merchandise and allow them to leave the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0049,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

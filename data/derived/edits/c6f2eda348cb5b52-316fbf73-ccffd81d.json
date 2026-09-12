@@ -1,0 +1,64 @@
+{
+ "id": "c6f2eda348cb5b52-316fbf73-ccffd81d",
+ "url": "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-09-12T10:42:51Z",
+ "date": "2026-09-12",
+ "old_title": "When it comes to Beatles references, scientists can't let it be",
+ "new_title": "When it comes to Beatles references, scientists can't let it be",
+ "old_text": "Scientists have an indisputable playful side, evidenced by frequent allusions to popular culture in their research publications. That includes popular song lyrics. And the most popular musical group, in terms of how frequently their songs and lyrics appear in the scientific literature, is The Beatles, according to a new paper published in the journal PLoS ONE.\n\"Some of these are genuinely brilliant,\" said co-author Gabriel Budel of Delft University of Technology in the Netherlands. \"'The lung and winding road' is a paper on Long COVID that changes one vowel of the more than 3,000 references they found to The Beatles. 'Here comes the SU(N)' turns 'Here Comes the Sun' into a quantum computing paper about mathematical groups. Someone was having a very good day at their desk.\"\nBack in 2014, scientists at the Karolinska Institute in Sweden revealed that they had been deliberately inserting Bob Dylan lyrics into their papers as part of a long-running bet, starting with a 1997 Nature review entitled \"Nitric Oxide and inflammation: The answer is blowing in the wind.\" That resulted in a 2015 study on whether Dylan lyrics appeared elsewhere in the biomedical literature; the most frequently referenced were \"The Times They Are A'Changin'\" and \"Blowing in the Wind.\"\nMeteorologists and climate scientists were also keen on referencing Dylan lyrics. This was followed by a 2017 study comparing the frequency of Dylan and Beatles lyrics in the biomedical literature-The Beatles were more prevalent-and a 2023 analysis of the frequent use of The Clash's \"Should I Stay or Should I Go\" in scientific papers. That paper found that The Clash dominated with 408 references to the song, compared to 236 for the Beatles' \"The Long and Winding Road,\" and 128 for \"The Times They Are A'Changin'.\"\nAnd now Budel et al. are getting in on the fun. Naturally, the authors are all Beatles fans who couldn't help noticing how much their favorite band had permeated the world of science. A quick search of the Nature site, for instance, revealed 116 articles specifically referencing the Beatles as of July 2025, and in the field of drug discovery, the challenge of bringing new drugs to market with significantly higher benefits than the best existing treatments is known as the \"better than The Beatles\" problem. Even NASA couldn't resist naming a research project on ice-cored hills called \"pingos\" Pingo STARR (SubTerranean Aquifer Reconnaissance and Reconstruction).",
+ "new_text": "Scientists have an indisputable playful side, evidenced by frequent allusions to popular culture in their research publications. That includes popular song lyrics. And the most popular musical group, in terms of how frequently their songs and lyrics appear in the scientific literature, is The Beatles, according to a new paper published in the journal PLoS ONE.\n\"Some of these are genuinely brilliant,\" said co-author Gabriel Budel of Delft University of Technology in the Netherlands of the more than 3,000 references they found to The Beatles. \"'The lung and winding road' is a paper on Long COVID that changes one vowel. 'Here comes the SU(N)' turns 'Here Comes the Sun' into a quantum computing paper about mathematical groups. Someone was having a very good day at their desk.\"\nBack in 2014, scientists at the Karolinska Institute in Sweden revealed that they had been deliberately inserting Bob Dylan lyrics into their papers as part of a long-running bet, starting with a 1997 Nature review entitled \"Nitric Oxide and inflammation: The answer is blowing in the wind.\" That resulted in a 2015 study on whether Dylan lyrics appeared elsewhere in the biomedical literature; the most frequently referenced were \"The Times They Are A'Changin'\" and \"Blowing in the Wind.\"\nMeteorologists and climate scientists were also keen on referencing Dylan lyrics. This was followed by a 2017 study comparing the frequency of Dylan and Beatles lyrics in the biomedical literature-The Beatles were more prevalent-and a 2023 analysis of the frequent use of The Clash's \"Should I Stay or Should I Go\" in scientific papers. That paper found that The Clash dominated with 408 references to the song, compared to 236 for the Beatles' \"The Long and Winding Road,\" and 128 for \"The Times They Are A'Changin'.\"\nAnd now Budel et al. are getting in on the fun. Naturally, the authors are all Beatles fans who couldn't help noticing how much their favorite band had permeated the world of science. A quick search of the Nature site, for instance, revealed 116 articles specifically referencing the Beatles as of July 2025, and in the field of drug discovery, the challenge of bringing new drugs to market with significantly higher benefits than the best existing treatments is known as the \"better than The Beatles\" problem. Even NASA couldn't resist naming a research project on ice-cored hills called \"pingos\" Pingo STARR (SubTerranean Aquifer Reconnaissance and Reconstruction).",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "brilliant,\" said co-author Gabriel Budel of Delft University of Technology in the"
+    ],
+    [
+     "del",
+     "Netherlands."
+    ],
+    [
+     "ins",
+     "Netherlands of the more than 3,000 references they found to The Beatles."
+    ],
+    [
+     "eq",
+     "\"'The lung and winding road' is a paper on Long COVID that changes one"
+    ],
+    [
+     "del",
+     "vowel of the more than 3,000 references they found to The Beatles."
+    ],
+    [
+     "ins",
+     "vowel."
+    ],
+    [
+     "eq",
+     "'Here comes the SU(N)' turns 'Here Comes the Sun' into a quantum"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0655,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9963,
+ "adjudicated_by": "rules"
+}

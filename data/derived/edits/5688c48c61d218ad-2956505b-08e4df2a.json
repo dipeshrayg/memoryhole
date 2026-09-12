@@ -1,0 +1,48 @@
+{
+ "id": "5688c48c61d218ad-2956505b-08e4df2a",
+ "url": "https://www.bbc.co.uk/sport/football/videos/ce874m9ld2mo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-09-12T10:38:40Z",
+ "date": "2026-09-12",
+ "old_title": "Highlights - Champions League - Liverpool 2-1 Atletico Madrid",
+ "new_title": "Highlights - Champions League - Liverpool 2-1 Atletico Madrid",
+ "old_text": "Liverpool come from behind to beat Atletico Madrid\nThere was an error\nAlexis Mac Allister scores an emphatic winner as Liverpool began their Champions League campaign with a win over Atletico Madrid at Anfield.\nMATCH REPORT: Champions League - Liverpool 2-1 Atletico Madrid\nAvailable to UK users only.",
+ "new_text": "Liverpool come from behind to beat Atletico Madrid\nThis content isn't available any more.\nThere was an error\nAlexis Mac Allister scores an emphatic winner as Liverpool began their Champions League campaign with a win over Atletico Madrid at Anfield.\nMATCH REPORT: Champions League - Liverpool 2-1 Atletico Madrid\nAvailable to UK users only.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Liverpool come from behind to beat Atletico Madrid"
+    ],
+    [
+     "ins",
+     "This content isn't available any more."
+    ],
+    [
+     "eq",
+     "There was an error Alexis Mac Allister scores an emphatic winner as"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.125,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.029,
+ "similarity": 0.9651,
+ "adjudicated_by": "rules"
+}
