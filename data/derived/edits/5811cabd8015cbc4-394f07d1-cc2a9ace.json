@@ -1,0 +1,76 @@
+{
+ "id": "5811cabd8015cbc4-394f07d1-cc2a9ace",
+ "url": "https://news.un.org/feed/view/en/story/2026/09/1168318",
+ "domain": "news.un.org",
+ "source": "UN News",
+ "country": "International",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-13T11:32:06Z",
+ "date": "2026-09-13",
+ "old_title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
+ "new_title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
+ "old_text": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones\nThe Security Council met to mark 25 years since the 9/11 attacks, with a briefing on counter-terrorism as ambassadors take stock of a threat that has morphed dramatically since resolution 1373 built the council's counter-terrorism machinery in 2001. Briefers are expected to zero in on militants' growing use of artificial intelligence, drones and encrypted platforms for recruitment and attack planning. Members are also set to adopt a presidential statement - the Council's first on terrorism in five years - after reportedly tense talks over references to specific groups and new tech language.",
+ "new_text": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones\nThe Security Council met to mark 25 years since the 9/11 attacks with a briefing on counter-terrorism as ambassadors take stock of a threat that has morphed dramatically since resolution 1373 built the council's counter-terrorism machinery in 2001. Briefers highlighted militants' growing use of artificial intelligence, drones and encrypted platforms for recruitment and attack planning.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "drones The Security Council met to mark 25 years since the 9/11"
+    ],
+    [
+     "del",
+     "attacks,"
+    ],
+    [
+     "ins",
+     "attacks"
+    ],
+    [
+     "eq",
+     "with a briefing on counter-terrorism as ambassadors take stock of a threat"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "dramatically since resolution 1373 built the council's counter-terrorism machinery in 2001. Briefers"
+    ],
+    [
+     "del",
+     "are expected to zero in on"
+    ],
+    [
+     "ins",
+     "highlighted"
+    ],
+    [
+     "eq",
+     "militants' growing use of artificial intelligence, drones and encrypted platforms for recruitment and attack planning."
+    ],
+    [
+     "del",
+     "Members are also set to adopt a presidential statement - the Council's first on terrorism in five years - after reportedly tense talks over references to specific groups and new tech language."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3905,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.596,
+ "similarity": 0.9456,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,118 @@
+{
+ "id": "15c68b7ca17a1990-d61beb2d-f46ecf52",
+ "url": "https://www.france24.com/en/europe/20260912-french-police-investigate-suspected-sabotage-in-train-derailment",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-13T11:28:59Z",
+ "date": "2026-09-13",
+ "old_title": "French police suspect Normandy train derailment was result of sabotage",
+ "new_title": "French police suspect Normandy train derailment was result of sabotage",
+ "old_text": "French police suspect Normandy train derailment was result of sabotage\nA police source said Saturday that French investigators suspect sabotage caused a train derailment in northwest France after a fragment of rail was found on the track. At least 44 people were injured in the derailment that occurred a day earlier, including an 18-year-old woman \"in a critical condition\".\nInvestigators suspect that a train derailment in northwest France which injured 44, one gravely, was the result of sabotage, a police source told AFP on Saturday.\nA fragment of rail was found on the track, with the possibility of a malicious act being treated as the main line of inquiry as a result, the source said.\nRead moreOne dead and dozens injured in train collision north of London\nCarrying 186 passengers, the train was running between the Normandy cities of Rouen and Caen when it derailed around 7:45pm (17:45 GMT) Friday.\nAuthorities activated a mass-casualty response plan, with 130 firefighters, five medical teams and 80 vehicles drafted in.\nRouen prosecutor Sebastien Gallois said 44 people were injured, including an 18-year-old woman evacuated \"in a critical condition\", while tests for drugs and alcohol on the train driver had come back negative.\nSNCF Réseau, which controls the French rail network, told AFP that traffic on the line has been suspended and power to the tracks cut to allow emergency services to operate.\n(FRANCE 24 with AFP)",
+ "new_text": "French police suspect Normandy train derailment was result of sabotage\nA police source said Saturday that French investigators suspect sabotage caused a train derailment in northwest France after a fragment of rail was found on the track. At least 44 people were injured in the derailment that occurred a day earlier, including an 18-year-old woman \"in a critical condition\".\nInvestigators suspect that a train derailment in northwest France which injured 44, one gravely, was the result of sabotage, a police source told AFP on Saturday.\nA fragment of rail was found on the track, with the possibility of a malicious act being treated as the main line of inquiry as a result, the source said.\nRead moreOne dead and dozens injured in train collision north of London\nCarrying 186 passengers, the train was running between the Normandy cities of Rouen and Caen when it derailed around 7:45pm (1745 GMT) Friday close to Renault's factory in the town of Cleon.\nAuthorities activated a mass-casualty response plan, with 130 firefighters, five medical teams and 80 vehicles drafted in.\nAn AFP photographer saw a mass of railway staff working around the train on Saturday morning.\nRouen prosecutor Sebastien Gallois said 44 people were injured including an 18-year-old woman evacuated \"in a critical condition\", while tests for drugs and alcohol on the train driver had come back negative.\n\"Suddenly there were a few jolts, and then after about three seconds it got stronger and stronger,\" one of the passengers, Louis, 24, told ICI Normandie radio.\n\"I couldn't stay in my seat any more,\" he said. \"The windows partially shattered, the stones from the track came into the carriage. It was really shocking. I'm still shaking.\"\nThose who escaped unharmed were taken to a room made available by Cleon's mayor, according to the authorities.\n'Major disruptions'\nSNCF Réseau, which controls the French rail network, told AFP that traffic on the line had been suspended and power to the tracks cut to allow emergency services to operate.\nAccording to SNCF, the accident caused \"major disruptions\" to rail traffic between Rouen and Caen and between Caen and Le Havre in both directions.\nA spokesperson for SNCF Réseau said on Saturday morning that services had resumed.\nOn the Rouen-Caen line, which usually sees 10 return services per day and six at weekends, a replacement bus service has been set up, SNCF Voyageurs said.\nAccording to the spokesperson, the train will only be lifted off the line once the public prosecutor allows it, with investigations into the cause of the derailment still ongoing.\nSNCF insisted that it would offer \"full cooperation in complete transparency\" to the inquiry.\n(FRANCE 24 with AFP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the Normandy cities of Rouen and Caen when it derailed around 7:45pm"
+    ],
+    [
+     "del",
+     "(17:45"
+    ],
+    [
+     "ins",
+     "(1745"
+    ],
+    [
+     "eq",
+     "GMT)"
+    ],
+    [
+     "del",
+     "Friday."
+    ],
+    [
+     "ins",
+     "Friday close to Renault's factory in the town of Cleon."
+    ],
+    [
+     "eq",
+     "Authorities activated a mass-casualty response plan, with 130 firefighters, five medical teams and 80 vehicles drafted in."
+    ],
+    [
+     "ins",
+     "An AFP photographer saw a mass of railway staff working around the train on Saturday morning."
+    ],
+    [
+     "eq",
+     "Rouen prosecutor Sebastien Gallois said 44 people were"
+    ],
+    [
+     "del",
+     "injured,"
+    ],
+    [
+     "ins",
+     "injured"
+    ],
+    [
+     "eq",
+     "including an 18-year-old woman evacuated \"in a critical condition\", while tests for drugs and alcohol on the train driver had come back negative."
+    ],
+    [
+     "ins",
+     "\"Suddenly there were a few jolts, and then after about three seconds it got stronger and stronger,\" one of the passengers, Louis, 24, told ICI Normandie radio. \"I couldn't stay in my seat any more,\" he said. \"The windows partially shattered, the stones from the track came into the carriage. It was really shocking. I'm still shaking.\" Those who escaped unharmed were taken to a room made available by Cleon's mayor, according to the authorities. 'Major disruptions'"
+    ],
+    [
+     "eq",
+     "SNCF Réseau, which controls the French rail network, told AFP that traffic on the line"
+    ],
+    [
+     "del",
+     "has"
+    ],
+    [
+     "ins",
+     "had"
+    ],
+    [
+     "eq",
+     "been suspended and power to the tracks cut to allow emergency services to operate."
+    ],
+    [
+     "ins",
+     "According to SNCF, the accident caused \"major disruptions\" to rail traffic between Rouen and Caen and between Caen and Le Havre in both directions. A spokesperson for SNCF Réseau said on Saturday morning that services had resumed. On the Rouen-Caen line, which usually sees 10 return services per day and six at weekends, a replacement bus service has been set up, SNCF Voyageurs said. According to the spokesperson, the train will only be lifted off the line once the public prosecutor allows it, with investigations into the cause of the derailment still ongoing. SNCF insisted that it would offer \"full cooperation in complete transparency\" to the inquiry."
+    ],
+    [
+     "eq",
+     "(FRANCE 24 with AFP)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.9313,
+  "numbers_changed": [
+   "10",
+   "17",
+   "1745",
+   "24",
+   "45"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.9,
+ "similarity": 0.9731,
+ "adjudicated_by": "rules"
+}
