@@ -1,0 +1,37 @@
+Scientists are building a microscope powered by a quantum computer
+- Date:
+- September 13, 2026
+- Source:
+- UniversitÃ¤t Wien
+- Summary:
+- Scientists are combining an electron microscope with a quantum computer to squeeze far more information from each electron. The approach could reveal faint details with fewer electrons, helping protect fragile samples that conventional microscopy can damage.
+- Share:
+Electron microscopes can reveal structures far smaller than anything visible with ordinary light. But researchers in Austria say conventional electron microscopes may be leaving valuable information on the table.
+In a standard system, electrons are mainly counted to build an image. Yet each electron also carries quantum information that normally goes unused. Researchers at TU Wien, working with teams from the University of Vienna, JKU Linz and the University of Innsbruck, have developed a new approach designed to capture and process some of that extra information.
+Their idea is to connect an electron microscope to a quantum computer. By doing so, the researchers hope to extract more useful information from each electron, potentially allowing scientists to form clearer images while exposing delicate samples to fewer electrons. That could be especially valuable for biological materials that are easily damaged. A quantum computer electron microscope based on the concept is now being constructed at TU Wien.
+Using Quantum Entanglement to Get More From Each Electron
+Modern electron microscopes already achieve extraordinary resolution.
+"Today, we can image tiny details on the atomic scale," says Philipp Haslinger from the Institute of Atomic and Subatomic Physics at TU Wien. "However, this requires a large number of electrons. And not every sample can be exposed to so many electrons without being damaged. This is often a problem, particularly when imaging biological samples such as individual proteins."
+The challenge, then, is to learn more from each electron so researchers can reduce the total number needed to produce an image.
+The team proposes doing this by linking the electrons to a quantum computer built around trapped ions.
+"Our idea is to combine the electrons with a quantum computer. We let them interact with ions that are held in place along the path of the electron beam," explains Elias Pescoller, first author of the publication and a doctoral student at the Institute for Theoretical Physics and the Institute of Atomic and Subatomic Physics at TU Wien. "This can, for example, create quantum entanglement between the electron and the quantum computer. The electron and the ion then share a joint quantum state."
+Quantum entanglement allows two quantum systems to share information in ways that have no direct equivalent in classical physics. In this setup, an electron passing through the microscope can become entangled with an ion in the quantum computer, allowing information about the electron to be stored in the ion.
+Turning Weak Signals Into Useful Information
+After one electron interacts with the trapped ion, another electron can pass through and become entangled with the quantum computer as well. By repeatedly carrying out carefully designed quantum operations, the system can combine information from multiple electrons.
+"If we perform very specific quantum-computing operations each time, we can optimally combine the information from several electrons so that we obtain a signal of maximum strength even though we use only a relatively small number of electrons," says Dennis Rätzel from the Institute of Atomic and Subatomic Physics at TU Wien.
+The algorithms needed to carry out this processing were developed in collaboration with Johannes Kofler's team at JKU Linz.
+The basic imaging process still relies on electrons, just as it does in a conventional electron microscope. The difference is that the quantum computer can process information that those electrons carry that would otherwise be lost.
+"The electrons themselves are used to image small objects, just as in any other electron microscope. But by processing the quantum information carried by these electrons in a quantum computer, we can extract significantly more information from the process," says Iva Březinová from the Institute for Theoretical Physics at TU Wien. "What would previously have been indistinguishable from random noise can thus become a clear signal."
+That could allow scientists to recover useful details that would be impossible to identify using ordinary electron counting alone.
+"Quantum physics allows us to overcome the statistical limits that constrain conventional electron microscopes," says Elias Pescoller.
+From Mathematical Proof to a Working Microscope
+So far, the researchers have shown mathematically that the new method should offer important advantages. The next challenge is to demonstrate those benefits experimentally.
+At TU Wien's University Service Center for Transmission Electron Microscopy (USTEM), researchers are preparing to integrate an ion-based quantum computer into an electron microscope. The quantum computer was developed by Philipp Schindler's team at the University of Innsbruck.
+If the system works as expected, it could open a new approach to electron microscopy in which researchers gain more information while exposing sensitive samples to fewer electrons.
+"It is really exciting that, within the quantA Cluster of Excellence, we can combine the expertise in quantum information, quantum computing and electron microscopy available at the different universities in Austria. This allows us to launch a unique project," says Thomas Juffmann from the University of Vienna.
+Major funding for the consortium, which is coordinated by the University of Vienna, comes from the Austrian Science Fund (FWF) through the Cluster of Excellence quantA and from the Gordon and Betty Moore Foundation.
+Story Source:
+Materials provided by UniversitÃ¤t Wien. Note: Content may be edited for style and length.
+Journal Reference:
+- Elias Pescoller, Santiago BeltrÃ¡n-Romero, Sebastian Egginger, Nicolas Jungwirth, Martino Zanetti, Dominik Hornof, Michael S. Seifner, Iva BÅezinovÃ¡, Philipp Haslinger, Thomas Juffmann, Johannes Kofler, Philipp Schindler, Dennis RÃ¤tzel. Coupling free electrons to a trapped-ion quantum computer. arXiv, 16 Jan 2026 DOI: 10.48550/arXiv.2601.11446
+Cite This Page:

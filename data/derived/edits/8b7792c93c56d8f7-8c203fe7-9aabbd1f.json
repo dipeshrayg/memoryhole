@@ -1,0 +1,52 @@
+{
+ "id": "8b7792c93c56d8f7-8c203fe7-9aabbd1f",
+ "url": "https://www.abc.net.au/news/2026-09-13/aflw-round-five-north-mlebourne-kangaroos-carlton-blues/107148534",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-14T12:23:03Z",
+ "date": "2026-09-14",
+ "old_title": "Kangaroos survive Blues scare to keep AFLW record alive",
+ "new_title": "Kangaroos survive Blues scare to keep AFLW record alive",
+ "old_text": "Sat, 12 Sept, 1:05 pm, Final score, Hawks 41, Bulldogs 30\nKangaroos survive Blues scare to keep AFLW record alive with 10-point win\nIn short:\nNorth Melbourne is still unbeaten after a gritty 10-point victory over Carlton at Arden Street.\nThe Kangaroos have won a record 32 consecutive matches.\nMelbourne, Richmond and Sydney also posted wins on Sunday.",
+ "new_text": "Sat, 12 Sept, 1:05 pm, Final score, Hawks 41, Bulldogs 30\nKangaroos survive Blues scare to keep AFLW record alive with 10-point win\nIn short:\nNorth Melbourne is still unbeaten after a gritty 10-point victory over Carlton at Arden Street.\nThe Kangaroos have won a record 32 consecutive matches.\nMelbourne, Richmond, Fremantle and Sydney also posted wins on Sunday.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Arden Street. The Kangaroos have won a record 32 consecutive matches. Melbourne,"
+    ],
+    [
+     "del",
+     "Richmond"
+    ],
+    [
+     "ins",
+     "Richmond, Fremantle"
+    ],
+    [
+     "eq",
+     "and Sydney also posted wins on Sunday."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0517,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9991,
+ "adjudicated_by": "rules"
+}

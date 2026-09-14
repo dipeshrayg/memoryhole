@@ -1,0 +1,69 @@
+{
+ "id": "306185c011fe0f51-a7da4d11-6b94fbaa",
+ "url": "https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-14T12:18:47Z",
+ "date": "2026-09-14",
+ "old_title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
+ "new_title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
+ "old_text": "- Published\nThere is only a \"slim chance\" the government will meet its target of building 1.5 million homes in England by the next election, Housing Secretary Angela Rayner has told the BBC.\n\"Headwinds\" including the Iran war and rising construction costs are making it harder to meet the key Labour manifesto pledge, Rayner told the BBC's Sunday with Laura Kuenssberg.\n\"But I'm definitely not giving it up,\" she said, and stressed that the government was \"making a difference\" through investing billions in social and affordable homes.\nData up to March this year suggested the government was behind on the rate of construction needed to meet the goal, which housebuilders have previously warned was too optimistic.\nLabour promised to hit the target through building both private and social housing by the end of the current parliament, meaning summer 2029 at the latest.\nThis implied an average of 300,000 new properties would be needed each year - a rate of construction not seen in decades.\nRayner told the BBC on Sunday: \"It's a slim chance, but I'm definitely not giving it up.\"\nShe said it was important to keep the goal - which she said had always been a \"stretch target\" - in place, but that she was \"being honest with the public\" that it would be difficult to achieve.\n\"The prime minister wants us to make sure we're building council houses. He's made that absolutely, fundamentally clear,\" she said.\n\"We're seeing home starts up by 15% last year, so we are making a difference.\"\nPrime Minister Andy Burnham has promised \"the biggest council house building programme since the post-war period\" - although he has not provided details on exactly what this will entail.\nBBC Verify analysis showed a decline in the number of new houses being built during Labour's first year in power - continuing a fall that began under the Conservatives.\nRayner's predecessor in the role, Steve Reed, last year admitted a sharp surge in construction would be needed to reach the goal - but said he expected it would just about be met once the impact of planning reforms took hold.\nAnalysts have said reforms introduced by Sir Keir Starmer's government should help increase construction in the long term, including changing the rules on green belt development to increase the area in which homes can be built.\nBut some argue that construction is being held back by factors including high house prices relative to average incomes, higher costs due to global conflict and labour shortages since Brexit.",
+ "new_text": "- Published\nThere is only a \"slim chance\" the government will meet its target of building 1.5 million homes in England by the next election, Housing Secretary Angela Rayner has told the BBC.\n\"Headwinds\" including the Iran war and rising construction costs are making it harder to meet the key Labour manifesto pledge, Rayner told the BBC's Sunday with Laura Kuenssberg.\n\"But I'm definitely not giving it up,\" she said, and stressed that the government was \"making a difference\" through investing billions in social and affordable homes.\nData up to June this year suggested the government was behind on the rate of construction needed to meet the goal, which housebuilders have previously warned was too optimistic.\nLabour promised to hit the target through building both private and social housing by the end of the current parliament, meaning summer 2029 at the latest.\nThis implied an average of 300,000 new properties would be needed each year - a rate of construction not seen in decades.\nRayner told the BBC on Sunday: \"It's a slim chance, but I'm definitely not giving it up.\"\nShe said it was important to keep the goal - which she said had always been a \"stretch target\" - in place, but that she was \"being honest with the public\" that it would be difficult to achieve.\n\"The prime minister wants us to make sure we're building council houses. He's made that absolutely, fundamentally clear,\" she said.\n\"We're seeing home starts up by 15% last year, so we are making a difference.\"\nPrime Minister Andy Burnham has promised \"the biggest council house building programme since the post-war period\" - although he has not provided details on exactly what this will entail.\nBBC Verify analysis showed a decline in the number of new houses being built during Labour's first year in power - continuing a fall that began under the Conservatives.\nRayner's predecessor in the role, Steve Reed, last year admitted a sharp surge in construction would be needed to reach the goal - but said he expected it would just about be met once the impact of planning reforms took hold.\nAnalysts have said reforms introduced by Sir Keir Starmer's government should help increase construction in the long term, including changing the rules on green belt development to increase the area in which homes can be built.\nBut some argue that construction is being held back by factors including high house prices relative to average incomes, higher costs due to global conflict and labour shortages since Brexit.\nBBC Verify has been tracking performance against the target using government data on Energy Performance Certificates (EPC). Each newly created dwelling must have an EPC by law, making it the most timely indicator of new homes being built.\nData for the 12 months to June 2026 suggested about 203,000 new homes were delivered in England that year, far short of the 300,000 needed to meet the target.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "difference\" through investing billions in social and affordable homes. Data up to"
+    ],
+    [
+     "del",
+     "March"
+    ],
+    [
+     "ins",
+     "June"
+    ],
+    [
+     "eq",
+     "this year suggested the government was behind on the rate of construction"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "incomes, higher costs due to global conflict and labour shortages since Brexit."
+    ],
+    [
+     "ins",
+     "BBC Verify has been tracking performance against the target using government data on Energy Performance Certificates (EPC). Each newly created dwelling must have an EPC by law, making it the most timely indicator of new homes being built. Data for the 12 months to June 2026 suggested about 203,000 new homes were delivered in England that year, far short of the 300,000 needed to meet the target."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1647,
+  "numbers_changed": [
+   "12",
+   "2026",
+   "203,000",
+   "300,000"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9995,
+ "adjudicated_by": "rules"
+}

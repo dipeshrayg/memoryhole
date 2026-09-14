@@ -1,0 +1,115 @@
+{
+ "id": "453e744fcec7a5cd-ddb662c3-15a13d7f",
+ "url": "https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-14T12:20:35Z",
+ "date": "2026-09-14",
+ "old_title": "Israeli attack on Gaza kills two Palestinians",
+ "new_title": "Israeli attack on Gaza kills two Palestinians",
+ "old_text": "An Israeli air strike on a vehicle in Gaza City has killed at least two people and wounded 13 others, medics say.\nThe attack on Sunday in the city's Tal al-Hawa neighbourhood had dismembered the bodies of the deceased, health officials said, appealing to the public for information that could help identify them.\nRecommended Stories\nlist of 2 items\n- list 1 of 2Trump says a unified Ireland would be 'fantastic' during Irish visit\n- list 2 of 2Gaza genocide documentary 'NAZA' wins Special Jury Prize at Venice\nFootage circulating on social media and verified by Al Jazeera showed the targeted vehicle mangled and gutted, its roof and doors torn away.\nThe Israeli military said it had targeted two Hamas fighters.\nThe strike is the latest in a wave of near-daily Israeli attacks on the war-ravaged, besieged Palestinian territory since a \"ceasefire\" was agreed by Israel and Hamas last October.\nMore than 1,300 Palestinians have been killed in Israeli attacks across Gaza since the United States-brokered \"truce\" began, according to health authorities.\nHamas has accused Israel of violating the \"ceasefire\", obstructing US President Donald Trump's plan to end the genocidal war against Palestinians in Gaza, which includes an eventual Israeli withdrawal from the Palestinian enclave and the disarmament of Hamas.\nDuring a visit to Ireland on Saturday, Trump defended his administration's record on Gaza, saying, \"We put out the fire, and we got all the hostages back. There's very little happening right now in Gaza.\"\n\"If you look at Gaza, there's a lot of good relationships taking place right now. It's been quite amazing. I think we've done a great job,\" he added.\nIsrael's genocidal war has killed at least 73,669 people, mostly women and children, since October 2023, according to local authorities.",
+ "new_text": "An Israeli air strike on a vehicle in Gaza City has killed at least two people and wounded 13, medics say.\nThe attack on Sunday in the city's Tal al-Hawa neighbourhood had dismembered the bodies of the deceased, health officials said, appealing to the public for information that could help identify them.\nRecommended Stories\nlist of 2 items\n- list 1 of 2Trump says a unified Ireland would be 'fantastic' during Irish visit\n- list 2 of 2Gaza genocide documentary 'NAZA' wins Special Jury Prize at Venice\nFootage circulating on social media and verified by Al Jazeera showed the targeted vehicle mangled and gutted, its roof and doors torn away.\nThe Israeli military said it had targeted two Hamas fighters.\nThe strike is the latest in a wave of near-daily Israeli attacks on the war-ravaged, besieged Palestinian territory since a \"ceasefire\" was agreed by Israel and Hamas last October.\nMore than 1,300 Palestinians have been killed in Israeli attacks across Gaza since the United States-brokered \"truce\" began, according to health authorities.\nHamas has accused Israel of violating the \"ceasefire\" and obstructing US President Donald Trump's plan to end the genocidal war against Palestinians in Gaza, which includes an eventual Israeli withdrawal from the Palestinian enclave and the disarmament of Hamas.\nGaza's Ministry of Health said on Sunday that several hospital generators have stopped working in recent days because of shortages of oil, fuel and spare parts.\nOfficials said the limited oil Israel has allowed into Gaza covers only emergency needs and falls far short of the 2,500 litres (660 gallons) hospitals require each month.\nDuring a visit to Ireland on Saturday, Trump defended his administration's record on Gaza.\n\"We put out the fire, and we got all the hostages back. There's very little happening right now in Gaza,\" he told reporters at a news conference.\n\"If you look at Gaza, there's a lot of good relationships taking place right now. It's been quite amazing. I think we've done a great job,\" he added.\nIsrael's genocidal war has killed at least 73,669 people, mostly women and children, since October 2023, according to local authorities.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "vehicle in Gaza City has killed at least two people and wounded"
+    ],
+    [
+     "del",
+     "13 others,"
+    ],
+    [
+     "ins",
+     "13,"
+    ],
+    [
+     "eq",
+     "medics say. The attack on Sunday in the city's Tal al-Hawa neighbourhood"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "began, according to health authorities. Hamas has accused Israel of violating the"
+    ],
+    [
+     "del",
+     "\"ceasefire\","
+    ],
+    [
+     "ins",
+     "\"ceasefire\" and"
+    ],
+    [
+     "eq",
+     "obstructing US President Donald Trump's plan to end the genocidal war against"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "eventual Israeli withdrawal from the Palestinian enclave and the disarmament of Hamas."
+    ],
+    [
+     "ins",
+     "Gaza's Ministry of Health said on Sunday that several hospital generators have stopped working in recent days because of shortages of oil, fuel and spare parts. Officials said the limited oil Israel has allowed into Gaza covers only emergency needs and falls far short of the 2,500 litres (660 gallons) hospitals require each month."
+    ],
+    [
+     "eq",
+     "During a visit to Ireland on Saturday, Trump defended his administration's record on"
+    ],
+    [
+     "del",
+     "Gaza, saying,"
+    ],
+    [
+     "ins",
+     "Gaza."
+    ],
+    [
+     "eq",
+     "\"We put out the fire, and we got all the hostages back. There's very little happening right now in"
+    ],
+    [
+     "del",
+     "Gaza.\""
+    ],
+    [
+     "ins",
+     "Gaza,\" he told reporters at a news conference."
+    ],
+    [
+     "eq",
+     "\"If you look at Gaza, there's a lot of good relationships taking"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2457,
+  "numbers_changed": [
+   "2,500",
+   "660"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 1,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.95,
+ "similarity": 0.9965,
+ "adjudicated_by": "rules"
+}

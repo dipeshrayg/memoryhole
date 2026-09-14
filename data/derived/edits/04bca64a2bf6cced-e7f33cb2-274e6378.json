@@ -1,0 +1,52 @@
+{
+ "id": "04bca64a2bf6cced-e7f33cb2-274e6378",
+ "url": "https://www.abc.net.au/news/2026-09-13/motocyclist-dies-after-hitting-pothole-on-western-highway/107148416",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-14T12:23:06Z",
+ "date": "2026-09-14",
+ "old_title": "71yo motorcyclist dies after hitting pothole on highway",
+ "new_title": "71yo motorcyclist dies after hitting pothole on highway",
+ "old_text": "Motorcyclist dies after hitting pothole on Western Highway in Victoria\nIn short:\nA motorcyclist has died after hitting a pothole on the Western Highway in Victoria's south-west this afternoon.\nThe 71-year-old Ballarat man died at the scene.\nWhat's next?\nVictoria Police say the exact circumstances surrounding the crash are yet to be determined.",
+ "new_text": "Motorcyclist dies after hitting pothole on Western Highway in Victoria\nIn short:\nA motorcyclist has died after hitting a pothole on the Western Highway, west of Ballarat this afternoon.\nThe 71-year-old Ballarat man died at the scene.\nWhat's next?\nVictoria Police say the exact circumstances surrounding the crash are yet to be determined.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "short: A motorcyclist has died after hitting a pothole on the Western"
+    ],
+    [
+     "del",
+     "Highway in Victoria's south-west"
+    ],
+    [
+     "ins",
+     "Highway, west of Ballarat"
+    ],
+    [
+     "eq",
+     "this afternoon. The 71-year-old Ballarat man died at the scene. What's next?"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1509,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9929,
+ "adjudicated_by": "rules"
+}
