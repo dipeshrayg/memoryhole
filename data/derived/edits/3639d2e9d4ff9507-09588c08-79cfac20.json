@@ -1,0 +1,217 @@
+{
+ "id": "3639d2e9d4ff9507-09588c08-79cfac20",
+ "url": "https://finance.yahoo.com/news/carney-locked-us-trade-war-100319218.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-09-15T11:36:24Z",
+ "date": "2026-09-15",
+ "old_title": "Carney, locked in US trade war, pitches Canada to global investment titans",
+ "new_title": "Carney, locked in US trade war, pitches Canada to global investment titans",
+ "old_text": "By Nivedita Balu and Promit Mukherjee\nTORONTO, Sept 14 (Reuters) - Canadian Prime Minister Mark Carney welcomes dozens of global investors to Toronto this week, hoping to lure investments for more than 160 projects that he says are key to steering Canada's economy through a trade war with the United States.\nConfirmed attendees, many from the former Goldman Sachs executive and central bank chief's personal rolodex, include BlackRock CEO Larry Fink and Blackstone President Jon Gray from the United States, as well as Singapore fund Temasek's CEO Dilhan Pillay and Dutch pension fund APG Groep's CEO Annette Mosman, according to a source with knowledge of the event.\nThe two-day summit, which begins on Monday, will kick off discussions for future investments, although major deals could take 12 to 18 months to materialize, a government source said. Carney has pledged to attract investments of C$1 trillion ($721 billion) in the next five years by cutting red tape and developing mining, energy, technology and infrastructure projects.\n\"The world's largest investors, managing over C$120 trillion dollars of assets, will come to 'peer into our shop window' because the world is looking at Canada differently,\" Carney said at a welcome reception on Sunday.\nAttracting investment is crucial for Canada's economy to weather mounting tariffs imposed by the United States, Canada's top trade partner. Carney has sought to do business with new partners in the Middle East and Asia and to strengthen Canada's alliance with Europe.\nMATCHMAKER\nThe summit aims to match some 100 global investors with Canadian CEOs, companies and local officials to facilitate investments or partnerships. The projects are in various stages, from concept stage to shovel-ready, according to a copy of a prospectus seen by Reuters. It pitches Canada as a stable and predictable market poised for long-term economic growth.\nCarney's office declined to comment.\nThe dealbook also speaks to Canada's technology aspirations, with 96 data centers in development. Opportunities include an equity investment for Xanadu's photonic quantum computer targeted for commercialization by 2029-2030, equity investment in a data center campus in Alberta, and project financing for a hyperscale and AI-focused campus in New Brunswick.\nThe Crawford Nickel Project, which will produce low-carbon nickel for batteries and green steel, is also on the list.\nThe prospectus also lists infrastructure projects, generally favored by pension funds and other long-term investors, including C$900 million in financing sought for a proposed high-speed transportation pod between Calgary and Edmonton.",
+ "new_text": "By Nivedita Balu and Promit Mukherjee\nTORONTO, Sept 14 (Reuters) - Canadian Prime Minister Mark Carney welcomes dozens of global investors to Toronto this week, hoping to lure investments for more than 160 projects that he says are key to steering Canada's economy through a trade war with the United States.\nCarney, a former Goldman Sachs executive and central bank chief, on Monday held bilateral meetings with attendees including BlackRock CEO Larry Fink and Blackstone President Jon Gray, his office said.\nThe summit, to be held mainly on Tuesday, will host discussions for future investments, although major deals could take 12 to 18 months to materialize, a government source said. Carney has pledged to attract investments of C$1 trillion ($721 billion) in the next five years by cutting red tape and developing mining, energy, technology and infrastructure projects.\n\"The world's largest investors, managing over C$120 trillion of assets, will come to 'peer into our shop window' because the world is looking at Canada differently,\" Carney said at a welcome reception on Sunday.\nAttracting investment is crucial for Canada's economy to weather mounting tariffs imposed by the United States, Canada's top trade partner. Carney has sought to do business with new partners in the Middle East and Asia and to strengthen Canada's alliance with Europe.\nCarney has tried to address past concerns of a tedious and time-consuming regulatory regime and lack of large-scale investment-grade projects in the country.\nOn Monday, Finance Minister Francois-Philippe Champagne said the federal tax agency will prioritize advance income tax ruling requests for investments of C$1 billion or more to help investors get a binding decision quickly on how tax law will apply to a proposed deal before they commit capital.\nMATCHMAKER\nThe summit aims to match some 100 global investors with Canadian CEOs, companies and local officials to facilitate investments or partnerships. The projects are in various stages, from concept stage to shovel-ready, according to a copy of a prospectus seen by Reuters. It pitches Canada as a stable and predictable market poised for long-term economic growth.\nBell Canada CEO Mirko Bibic tried to set the tone by announcing an expansion of a previously announced data center in Saskatchewan.\n\"Today, we're announcing that we're expanding that project, quadrupling it. It will now be a 1.2 gigawatt facility at full buildout, requiring C$50 billion in capital investment,\" Bibic said.\nThe dealbook speaks to Canada's technology aspirations, with 96 data centers in development. Opportunities include an equity investment for Xanadu's photonic quantum computer targeted for commercialization by 2029 to 2030, equity investment in a data center campus in Alberta, and project financing for a hyperscale and AI-focused campus in New Brunswick.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "to steering Canada's economy through a trade war with the United States."
+    ],
+    [
+     "del",
+     "Confirmed attendees, many from the"
+    ],
+    [
+     "ins",
+     "Carney, a"
+    ],
+    [
+     "eq",
+     "former Goldman Sachs executive and central bank"
+    ],
+    [
+     "del",
+     "chief's personal rolodex, include"
+    ],
+    [
+     "ins",
+     "chief, on Monday held bilateral meetings with attendees including"
+    ],
+    [
+     "eq",
+     "BlackRock CEO Larry Fink and Blackstone President Jon"
+    ],
+    [
+     "del",
+     "Gray from the United States, as well as Singapore fund Temasek's CEO Dilhan Pillay and Dutch pension fund APG Groep's CEO Annette Mosman, according"
+    ],
+    [
+     "ins",
+     "Gray, his office said. The summit,"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "a source with knowledge of the event. The two-day summit, which begins"
+    ],
+    [
+     "ins",
+     "be held mainly"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "Monday,"
+    ],
+    [
+     "ins",
+     "Tuesday,"
+    ],
+    [
+     "eq",
+     "will"
+    ],
+    [
+     "del",
+     "kick off"
+    ],
+    [
+     "ins",
+     "host"
+    ],
+    [
+     "eq",
+     "discussions for future investments, although major deals could take 12 to 18"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "technology and infrastructure projects. \"The world's largest investors, managing over C$120 trillion"
+    ],
+    [
+     "del",
+     "dollars"
+    ],
+    [
+     "eq",
+     "of assets, will come to 'peer into our shop window' because the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the Middle East and Asia and to strengthen Canada's alliance with Europe."
+    ],
+    [
+     "ins",
+     "Carney has tried to address past concerns of a tedious and time-consuming regulatory regime and lack of large-scale investment-grade projects in the country. On Monday, Finance Minister Francois-Philippe Champagne said the federal tax agency will prioritize advance income tax ruling requests for investments of C$1 billion or more to help investors get a binding decision quickly on how tax law will apply to a proposed deal before they commit capital."
+    ],
+    [
+     "eq",
+     "MATCHMAKER The summit aims to match some 100 global investors with Canadian"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Canada as a stable and predictable market poised for long-term economic growth."
+    ],
+    [
+     "del",
+     "Carney's office declined"
+    ],
+    [
+     "ins",
+     "Bell Canada CEO Mirko Bibic tried"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "comment."
+    ],
+    [
+     "ins",
+     "set the tone by announcing an expansion of a previously announced data center in Saskatchewan. \"Today, we're announcing that we're expanding that project, quadrupling it. It will now be a 1.2 gigawatt facility at full buildout, requiring C$50 billion in capital investment,\" Bibic said."
+    ],
+    [
+     "eq",
+     "The dealbook"
+    ],
+    [
+     "del",
+     "also"
+    ],
+    [
+     "eq",
+     "speaks to Canada's technology aspirations, with 96 data centers in development. Opportunities"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "an equity investment for Xanadu's photonic quantum computer targeted for commercialization by"
+    ],
+    [
+     "del",
+     "2029-2030,"
+    ],
+    [
+     "ins",
+     "2029 to 2030,"
+    ],
+    [
+     "eq",
+     "equity investment in a data center campus in Alberta, and project financing for a hyperscale and AI-focused campus in New Brunswick."
+    ],
+    [
+     "del",
+     "The Crawford Nickel Project, which will produce low-carbon nickel for batteries and green steel, is also on the list. The prospectus also lists infrastructure projects, generally favored by pension funds and other long-term investors, including C$900 million in financing sought for a proposed high-speed transportation pod between Calgary and Edmonton."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.6203,
+  "numbers_changed": [
+   "1",
+   "1.2",
+   "50",
+   "900"
+  ],
+  "market_figures_changed": [
+   "$1 billion",
+   "$50 billion",
+   "$900 m"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.75,
+ "similarity": 0.9118,
+ "adjudicated_by": "rules"
+}

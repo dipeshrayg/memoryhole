@@ -1,0 +1,302 @@
+{
+ "id": "d85187b311c3dd64-da3a88b1-ade3fc25",
+ "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-09-15T11:35:17Z",
+ "date": "2026-09-15",
+ "old_title": "Oil prices rise after drone attacks shut down Saudi Arabia's East-West pipeline",
+ "new_title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
+ "old_text": "Oil prices have climbed above $108 a barrel after a series of drone attacks forced Saudi Arabia to close its east-west crude pipeline.\nBrent crude, the international benchmark for oil prices, surged to as much as $108.03 a barrel on Monday - a 3.25% increase on the day.\nThe spike came after Yemen's Iran-aligned Houthi forces launched several attacks against Saudi Arabia and captured the strategic island of Perim in the Bab al-Mandab strait on Sunday, expanding their control of the waterway.\nMarket concerns were also fuelled by the Gulf states postponing a meeting with Tehran to discuss creating a temporary shipping lane through the strait of Hormuz, a vital channel through which a fifth of the world's oil and gas supply normally passes.\nTraders in the kingdom have warned it will run out of oil stocks for export if it does not reopen the east-west pipeline within days.\nGas prices also climbed higher on Monday, with the UK benchmark rising by 5% to 208.73p a therm - its highest level since December 2022.\nEnergy prices have surged this year, as the US-Israel war with Iran has disrupted oil and gas supply across the Middle East. The oil price peaked at $126 in April but later fell back over the summer amid hopes of a lasting ceasefire.\nThe price then began to climb again after the memorandum of understanding between the US and Iran fell apart. After a fresh stepping up of hostilities the benchmark again rose above the $100 a barrel threshold last week for the first time since July.\nChris Beauchamp, of the broker IG, said that a \"move back to the spring highs\" looked increasingly likely.\n\"Oil markets are being subjected to their worst fears all at once - attacks on energy infrastructure, the closure of Hormuz and a breakdown in attempts to restart negotiations,\" he said.\n\"The risk of further disruption is also spreading beyond the Gulf, with the threat of renewed Houthi attacks on shipping adding another layer of uncertainty around key energy and trade routes.\n\"The major surprise is how calm markets remain in the face of all this, but if prices breach the March highs, things could get ugly very quickly.\"\nOil output from Saudi Arabia had been under pressure before the attacks on its major pipeline. Riyadh told the Opec oil cartel recently that its crude production in August was at its lowest level since 1990, according to Bloomberg.\nThe spike in energy prices has triggered higher inflation across large economies around the world. Central bankers in the US, Japan and the UK must contend with the renewed rise in the cost of energy and accelerating price rises as they prepare to set interest rates this week.",
+ "new_text": "US government borrowing costs have risen to 5% for the first time since 2023 as soaring oil prices fuelled by the war in the Middle East trigger an intensifying sell-off in the global bond market.\nThe yield - in effect the interest rate - on 10-year US Treasury bonds hit the psychologically important threshold on Monday, on a day of renewed selling pressure on Wall Street as the global oil price reached $108 a barrel.\nWith traders awaiting a crunch US Federal Reserve interest rate decision on Wednesday, the benchmark rate has steadily climbed from a low this year of 4% before the outbreak of the US-Israeli war on Iran in late February. The yield was last above 5% in October 2023.\nIt comes as the rising global oil price stokes inflation fears, with the latest move prompted by a series of drone attacks that have forced Saudi Arabia to close a vital east-west crude pipeline as the fallout from the war mounts.\nBrent crude, the international benchmark for oil prices, surged to more than $108.5 a barrel on Monday - a 3.7% increase on the day.\nThe spike came after Yemen's Iran-aligned Houthi forces launched several attacks against Saudi Arabia and captured the strategic island of Perim in the Bab al-Mandab strait on Sunday, expanding their control of the waterway.\nThe rise was also fuelled by the Gulf states postponing a meeting with Tehran to discuss creating a temporary shipping lane through the strait of Hormuz, a vital channel through which a fifth of the world's oil and gas supply normally passes.\nTraders in the kingdom have warned it will run out of oil stocks for export if it does not reopen the east-west pipeline within days.\nGas prices also climbed higher on Monday, with the UK benchmark rising by 5% to 208.73p a therm - its highest level since December 2022.\nIt came despite Donald Trump on Monday announcing a deal between Ukraine and Russia not to hit each other's energy targets, while insisting that he believed a politically sensitive rise in US diesel fuel prices was being driven by the conflict in Europe rather than the war in Iran.\nWith fears mounting as the Middle East war escalates, bond markets have come under intense selling pressure. The US 10-year Treasury yield is used in global financial markets as a benchmark for pricing other assets, meaning a jump in borrowing costs for Washington has consequences for countries, businesses and households worldwide.\nBorrowing costs also rose across Europe on Monday, including a rise in 30-year UK government yields to the highest level since March 1998.\nThe moves come as traders await decisions on interest rates from the US Federal Reserve on Wednesday and the Bank of England on Thursday after the European Central Bank raised borrowing costs last week.\nWith investors anticipating an increase from the Fed and a hold decision from Threadneedle Street amid mounting inflationary pressures, analysts said global bond markets could face another week of renewed volatility.\nDaniela Hathorn, a senior market analyst at Capital.com, said: \"Markets are starting the week on a defensive footing, with the combination of another escalation in the Middle East and increasingly hawkish central-bank expectations weighing on risk appetite.\"\nWith wholesale energy prices on the rise, the cost of petrol and diesel hit new Iran war highs on Monday, according to the RAC, with the average cost of petrol climbing to 169.68p and diesel hitting 191.68p.\nThe US-Israeli war with Iran has disrupted oil and gas supply across the Middle East this year, sending the oil price soaring from its prewar level of about $72 a barrel to peak at $126 in April.\nBrent crude later fell back over the summer amid hopes of a lasting ceasefire, before starting to climb again after the memorandum of understanding between the US and Iran fell apart.\nAfter a recent stepping-up of hostilities the benchmark again rose above the $100 a barrel threshold last week for the first time since July.\nChris Beauchamp, of the broker IG, said a \"move back to the spring highs\" looked increasingly likely. \"Oil markets are being subjected to their worst fears all at once - attacks on energy infrastructure, the closure of Hormuz and a breakdown in attempts to restart negotiations,\" he said.\n\"The risk of further disruption is also spreading beyond the Gulf, with the threat of renewed Houthi attacks on shipping adding another layer of uncertainty around key energy and trade routes.\n\"The major surprise is how calm markets remain in the face of all this, but if prices breach the March highs, things could get ugly very quickly.\"\nOil output from Saudi Arabia had been under pressure before the attacks on its major pipeline. Riyadh told the Opec oil cartel recently that its crude production in August was at its lowest level since 1990, according to Bloomberg.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Oil"
+    ],
+    [
+     "ins",
+     "US government borrowing costs have risen to 5% for the first time since 2023 as soaring oil"
+    ],
+    [
+     "eq",
+     "prices"
+    ],
+    [
+     "del",
+     "have climbed above"
+    ],
+    [
+     "ins",
+     "fuelled by the war in the Middle East trigger an intensifying sell-off in the global bond market. The yield - in effect the interest rate - on 10-year US Treasury bonds hit the psychologically important threshold on Monday, on a day of renewed selling pressure on Wall Street as the global oil price reached"
+    ],
+    [
+     "eq",
+     "$108 a"
+    ],
+    [
+     "del",
+     "barrel after"
+    ],
+    [
+     "ins",
+     "barrel. With traders awaiting a crunch US Federal Reserve interest rate decision on Wednesday, the benchmark rate has steadily climbed from a low this year of 4% before the outbreak of the US-Israeli war on Iran in late February. The yield was last above 5% in October 2023. It comes as the rising global oil price stokes inflation fears, with the latest move prompted by"
+    ],
+    [
+     "eq",
+     "a series of drone attacks"
+    ],
+    [
+     "ins",
+     "that have"
+    ],
+    [
+     "eq",
+     "forced Saudi Arabia to close"
+    ],
+    [
+     "del",
+     "its"
+    ],
+    [
+     "ins",
+     "a vital"
+    ],
+    [
+     "eq",
+     "east-west crude"
+    ],
+    [
+     "del",
+     "pipeline."
+    ],
+    [
+     "ins",
+     "pipeline as the fallout from the war mounts."
+    ],
+    [
+     "eq",
+     "Brent crude, the international benchmark for oil prices, surged to"
+    ],
+    [
+     "del",
+     "as much as $108.03"
+    ],
+    [
+     "ins",
+     "more than $108.5"
+    ],
+    [
+     "eq",
+     "a barrel on Monday - a"
+    ],
+    [
+     "del",
+     "3.25%"
+    ],
+    [
+     "ins",
+     "3.7%"
+    ],
+    [
+     "eq",
+     "increase on the day. The spike came after Yemen's Iran-aligned Houthi forces"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the Bab al-Mandab strait on Sunday, expanding their control of the waterway."
+    ],
+    [
+     "del",
+     "Market concerns were"
+    ],
+    [
+     "ins",
+     "The rise was"
+    ],
+    [
+     "eq",
+     "also fuelled by the Gulf states postponing a meeting with Tehran to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "5% to 208.73p a therm - its highest level since December 2022."
+    ],
+    [
+     "del",
+     "Energy"
+    ],
+    [
+     "ins",
+     "It came despite Donald Trump on Monday announcing a deal between Ukraine and Russia not to hit each other's energy targets, while insisting that he believed a politically sensitive rise in US diesel fuel"
+    ],
+    [
+     "eq",
+     "prices"
+    ],
+    [
+     "del",
+     "have surged this year,"
+    ],
+    [
+     "ins",
+     "was being driven by the conflict in Europe rather than the war in Iran. With fears mounting"
+    ],
+    [
+     "eq",
+     "as the"
+    ],
+    [
+     "del",
+     "US-Israel"
+    ],
+    [
+     "ins",
+     "Middle East war escalates, bond markets have come under intense selling pressure. The US 10-year Treasury yield is used in global financial markets as a benchmark for pricing other assets, meaning a jump in borrowing costs for Washington has consequences for countries, businesses and households worldwide. Borrowing costs also rose across Europe on Monday, including a rise in 30-year UK government yields to the highest level since March 1998. The moves come as traders await decisions on interest rates from the US Federal Reserve on Wednesday and the Bank of England on Thursday after the European Central Bank raised borrowing costs last week. With investors anticipating an increase from the Fed and a hold decision from Threadneedle Street amid mounting inflationary pressures, analysts said global bond markets could face another week of renewed volatility. Daniela Hathorn, a senior market analyst at Capital.com, said: \"Markets are starting the week on a defensive footing, with the combination of another escalation in the Middle East and increasingly hawkish central-bank expectations weighing on risk appetite.\" With wholesale energy prices on the rise, the cost of petrol and diesel hit new Iran war highs on Monday, according to the RAC, with the average cost of petrol climbing to 169.68p and diesel hitting 191.68p. The US-Israeli"
+    ],
+    [
+     "eq",
+     "war with Iran has disrupted oil and gas supply across the Middle"
+    ],
+    [
+     "del",
+     "East. The"
+    ],
+    [
+     "ins",
+     "East this year, sending the"
+    ],
+    [
+     "eq",
+     "oil price"
+    ],
+    [
+     "del",
+     "peaked"
+    ],
+    [
+     "ins",
+     "soaring from its prewar level of about $72 a barrel to peak"
+    ],
+    [
+     "eq",
+     "at $126 in"
+    ],
+    [
+     "del",
+     "April but"
+    ],
+    [
+     "ins",
+     "April. Brent crude"
+    ],
+    [
+     "eq",
+     "later fell back over the summer amid hopes of a lasting"
+    ],
+    [
+     "del",
+     "ceasefire. The price then began"
+    ],
+    [
+     "ins",
+     "ceasefire, before starting"
+    ],
+    [
+     "eq",
+     "to climb again after the memorandum of understanding between the US and Iran fell apart. After a"
+    ],
+    [
+     "del",
+     "fresh stepping up"
+    ],
+    [
+     "ins",
+     "recent stepping-up"
+    ],
+    [
+     "eq",
+     "of hostilities the benchmark again rose above the $100 a barrel threshold"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the first time since July. Chris Beauchamp, of the broker IG, said"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "eq",
+     "a \"move back to the spring highs\" looked increasingly likely. \"Oil markets"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "in August was at its lowest level since 1990, according to Bloomberg."
+    ],
+    [
+     "del",
+     "The spike in energy prices has triggered higher inflation across large economies around the world. Central bankers in the US, Japan and the UK must contend with the renewed rise in the cost of energy and accelerating price rises as they prepare to set interest rates this week."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.1538,
+  "numbers_changed": [
+   "10",
+   "108.03",
+   "108.5",
+   "169.68",
+   "191.68",
+   "1998",
+   "2023",
+   "3.25",
+   "3.7",
+   "30",
+   "4",
+   "5",
+   "72"
+  ],
+  "market_figures_changed": [
+   "$108.03",
+   "$108.5",
+   "$72",
+   "3.25%",
+   "3.7%",
+   "4%",
+   "5%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 4,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.6,
+ "similarity": 0.7489,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "5ce692b1faf42f32-9aeeac15-bf58da49",
+ "url": "https://www.bbc.co.uk/sport/football/articles/cmg49n3g7exlo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-09-15T11:37:51Z",
+ "date": "2026-09-15",
+ "old_title": "Arsenal to contact Pro Ref over Ezri Konsa penalty incident",
+ "new_title": "Arsenal to contact Pro Ref over Ezri Konsa penalty incident",
+ "old_text": "- Published\nArsenal will contact refereeing body Pro Ref over the incident in which Ezri Konsa conceded a penalty in Saturday's win over Sunderland.\nKonsa and Black Cats defender Dan Ballard were involved in a physical exchange inside the penalty area in which the Arsenal defender was adjudged to have fouled the Sunderland captain for excessive holding.\nAfter the game Gunners manager Mikel Arteta criticised the decision, and it is understood the Premier League champions will hold talks with the professional referee's body for an explanation as to why the penalty was awarded.\nIt is understood Arsenal are keen to avoid major refereeing decisions impacting on results and want clarity over how referee John Brooks came to his decision.\nBrooks initially awarded Sunderland the spot-kick on the field, and the decision was backed up by the video assistant referee (VAR).\n\"The referee's call of penalty to Sunderland for a holding offence by Konsa on Ballard was checked and confirmed by VAR,\" read a statement published by the Premier League Match Centre.\nBut after the game Arteta said: \"This is not acceptable at this level.\n\"I watched it 20 times and I cannot find a way to understand how they think to give a penalty in that situation, or the way the VAR has to intervene.\n\"So I don't know what to think. I'm sad that we have to discuss this after such a beautiful game, that at this level has the gravity of that. Because that changes the course of the season and it can cost you the championship.\n\"At this level, with all the work we put in, this cannot happen.\"\nMatch of the Day pundits Ashley Williams and Thomas Frank both said Sunderland should not have been awarded a penalty, claiming that Arsenal should have had a free-kick.\n\"I think he's got it completely wrong,\" said Williams. \"It's almost like a perfect hip toss in judo [from Ballard]. In no way is it a penalty.\"",
+ "new_text": "- Published\nArsenal will contact refereeing body Pro Ref over the incident in which Ezri Konsa conceded a penalty in Saturday's win over Sunderland.\nKonsa and Black Cats defender Dan Ballard were involved in a physical exchange inside the penalty area in which the Arsenal defender was adjudged to have fouled the Sunderland player for excessive holding.\nAfter the game Gunners manager Mikel Arteta criticised the decision, and it is understood the Premier League champions will hold talks with the professional referee's body for an explanation as to why the penalty was awarded.\nIt is understood Arsenal are keen to avoid major refereeing decisions impacting on results and want clarity over how referee John Brooks came to his decision.\nBrooks initially awarded Sunderland the spot-kick on the field, and the decision was backed up by the video assistant referee (VAR).\n\"The referee's call of penalty to Sunderland for a holding offence by Konsa on Ballard was checked and confirmed by VAR,\" read a statement published by the Premier League Match Centre.\nBut after the game Arteta said: \"This is not acceptable at this level.\n\"I watched it 20 times and I cannot find a way to understand how they think to give a penalty in that situation, or the way the VAR has to intervene.\n\"So I don't know what to think. I'm sad that we have to discuss this after such a beautiful game, that at this level has the gravity of that. Because that changes the course of the season and it can cost you the championship.\n\"At this level, with all the work we put in, this cannot happen.\"\nMatch of the Day pundits Ashley Williams and Thomas Frank both said Sunderland should not have been awarded a penalty, claiming that Arsenal should have had a free-kick.\n\"I think he's got it completely wrong,\" said Williams. \"It's almost like a perfect hip toss in judo [from Ballard]. In no way is it a penalty.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "in which the Arsenal defender was adjudged to have fouled the Sunderland"
+    ],
+    [
+     "del",
+     "captain"
+    ],
+    [
+     "ins",
+     "player"
+    ],
+    [
+     "eq",
+     "for excessive holding. After the game Gunners manager Mikel Arteta criticised the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0061,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9984,
+ "adjudicated_by": "rules"
+}

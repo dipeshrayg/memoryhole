@@ -1,0 +1,281 @@
+{
+ "id": "48848ee4e6ad82b7-7590c538-d191010c",
+ "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-09-15T11:36:20Z",
+ "date": "2026-09-15",
+ "old_title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Anthropic's AI warning spooks tech traders, oil prices jump",
+ "new_title": "Stock market today: Dow, S&P 500, Nasdaq slip as chip stocks fall on AI warning",
+ "old_text": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Anthropic's AI warning spooks tech traders, oil prices jump\nUS stock futures sank on Monday morning after the two leading frontier artificial intelligence companies called for an industrywide slowdown of AI development, sending tech stocks tumbling. Rising oil prices and an upcoming Fed meeting this week also put pressure on stocks.\nFutures on the tech-heavy Nasdaq-100 (NQ=F) fell 1.5%, led by losses in chip stocks, including Nvidia (NVDA). Futures on the Dow Jones Industrial Average (YM=F) fell 0.3%, while those on the S&P 500 (ES=F) declined by 0.6%. In Asia, shares of memory chip makers SK Hynix (SKHY) and Samsung (005930.KS) dropped.\nTech stocks were poised to fall after Anthropic (ANTH.PVT) CEO Dario Amodei wrote a 3,800-word essay over the weekend, arguing that AI companies should slow the pace of improving AI models in order to address safety concerns. Sam Altman, the CEO of rival AI lab OpenAI (OPAI.PVT), agreed in a post on X, putting the two AI companies at odds with Wall Street, which has banked on a brisk pace of improvement.\nWorries about AI safety also led OpenAI to delay its initial public offering until 2027, Altman told Fortune. Anthropic still plans to list in the fall and has reportedly chosen the Nasdaq for its highly anticipated IPO.\nOil prices, meanwhile, continued to climb after Saudi Arabia shut down a key pipeline in the Middle East and as the war in the Middle East spread. Brent crude (BZ=F) traded near $108 per barrel.\nThat sets the stage for the Federal Reserve's policy meeting on Wednesday. Trader bets of a Fed rate hike spiked to 86% following Friday's consumer inflation report, creating a consensus even as Fed Chairman Kevin Warsh has emphasized that he will not provide forward guidance about the Fed policymaking.",
+ "new_text": "US stocks sank on Monday but pared steeper losses after the two leading frontier artificial intelligence companies called for an industrywide slowdown of AI development.\nRising oil prices and bond yields also put pressure on stocks, as the 10-year Treasury (^TNX) yield briefly breached the 5% threshold for the first time since 2023. The 30-year yield (^TYX) also remained elevated at 5.33% ahead of the Federal Reserve's policy meeting this week.\nThe tech-heavy Nasdaq-100 (^IXIC) pared losses to a 0.5% decline, after falling by as much as 1.5% in early trading, as gains in Big Tech stocks offset a sell-off in chip stocks. The Dow Jones Industrial Average (^DJI) and the S&P 500 (^GSPC) slid 0.3% and 0.5%, respectively.\nTech stocks were under pressure after Anthropic (ANTH.PVT) CEO Dario Amodei wrote a 3,800-word essay over the weekend, arguing that AI companies should slow the pace of improving AI models in order to address safety concerns. Sam Altman, the CEO of rival AI lab OpenAI (OPAI.PVT), agreed in a post on X, putting the two AI companies at odds with Wall Street, which has banked on a brisk pace of improvement.\nWorries about AI safety also led OpenAI to delay its initial public offering until 2027, Altman told Fortune. Anthropic still plans to list in the fall and has reportedly chosen the Nasdaq for its highly anticipated IPO.\nOil prices, meanwhile, continued to climb after Saudi Arabia shut down a key pipeline in the Middle East and as the war in the Middle East spread. Brent crude (BZ=F) traded near $106 per barrel.\nThat sets the stage for the Federal Reserve's policy meeting on Wednesday. Trader bets of a Fed rate hike have spiked to 88% following Friday's consumer inflation report, creating a consensus even as Fed Chairman Kevin Warsh has emphasized that he will not provide forward guidance about the Fed policymaking.\n- BofA stock falls over 5% on weaker dealmaking, trading fee forecastsShares of Bank of America (BAC) fell more than 5% on Monday after CEO Brian Moynihan delivered an underwhelming forecast for his bank's quarterly dealmaking fees. Moynihan said investment banking fees are on pace to reach $1.6 billion to $1.8 billion in the third quarter, or down about 10%-20% from the $2 billion it earned in the third quarter of last year. The broader investment banking market is on pace to be down roughly 10%, according to Dealogic data. \"We're not as well-positioned in some of the businesses that have more activity,\" Moynihan said, adding that the deal pipeline remains strong and \"part of it is just getting the deals through the system.\" Meanwhile, the sales and trading business is poised to be flat from a year ago. Moynihan said Bank of America's financing and prime brokerage activity that boosted results earlier this year cooled as investors pulled back on risk. In July, the global AI trade faced a sharp unwind as shares of chipmakers and tech giants fell amid mounting scrutiny of their valuations and rising capital expenditures. That move prompted a dramatic unwind the same month by the AI-focused hedge fund Situational Awareness, run by former 24-year-old OpenAI researcher Leopold Aschenbrenner. The CEO was far more upbeat about the bank's more Main Street focused operations. He said loans and deposits are growing, and net interest income is tracking in line with the bank's expectations. \"We feel very good about the underlying US economy,\" he said, adding that even if the Federal Reserve raises interest rates this week, it should not knock the economy off its current trajectory.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Stock market today: Dow, S&P 500, Nasdaq futures fall as Anthropic's AI warning spooks tech traders, oil prices jump"
+    ],
+    [
+     "eq",
+     "US"
+    ],
+    [
+     "del",
+     "stock futures"
+    ],
+    [
+     "ins",
+     "stocks"
+    ],
+    [
+     "eq",
+     "sank on Monday"
+    ],
+    [
+     "del",
+     "morning"
+    ],
+    [
+     "ins",
+     "but pared steeper losses"
+    ],
+    [
+     "eq",
+     "after the two leading frontier artificial intelligence companies called for an industrywide slowdown of AI"
+    ],
+    [
+     "del",
+     "development, sending tech stocks tumbling."
+    ],
+    [
+     "ins",
+     "development."
+    ],
+    [
+     "eq",
+     "Rising oil prices and"
+    ],
+    [
+     "del",
+     "an upcoming Fed meeting this week"
+    ],
+    [
+     "ins",
+     "bond yields"
+    ],
+    [
+     "eq",
+     "also put pressure on"
+    ],
+    [
+     "del",
+     "stocks. Futures on"
+    ],
+    [
+     "ins",
+     "stocks, as"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "ins",
+     "10-year Treasury (^TNX) yield briefly breached the 5% threshold for the first time since 2023. The 30-year yield (^TYX) also remained elevated at 5.33% ahead of the Federal Reserve's policy meeting this week. The"
+    ],
+    [
+     "eq",
+     "tech-heavy Nasdaq-100"
+    ],
+    [
+     "del",
+     "(NQ=F) fell 1.5%, led"
+    ],
+    [
+     "ins",
+     "(^IXIC) pared losses to a 0.5% decline, after falling"
+    ],
+    [
+     "eq",
+     "by"
+    ],
+    [
+     "del",
+     "losses"
+    ],
+    [
+     "ins",
+     "as much as 1.5% in early trading, as gains in Big Tech stocks offset a sell-off"
+    ],
+    [
+     "eq",
+     "in chip"
+    ],
+    [
+     "del",
+     "stocks, including Nvidia (NVDA). Futures on the"
+    ],
+    [
+     "ins",
+     "stocks. The"
+    ],
+    [
+     "eq",
+     "Dow Jones Industrial Average"
+    ],
+    [
+     "del",
+     "(YM=F) fell 0.3%, while those on"
+    ],
+    [
+     "ins",
+     "(^DJI) and"
+    ],
+    [
+     "eq",
+     "the S&P 500"
+    ],
+    [
+     "del",
+     "(ES=F) declined by 0.6%. In Asia, shares of memory chip makers SK Hynix (SKHY)"
+    ],
+    [
+     "ins",
+     "(^GSPC) slid 0.3%"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "Samsung (005930.KS) dropped."
+    ],
+    [
+     "ins",
+     "0.5%, respectively."
+    ],
+    [
+     "eq",
+     "Tech stocks were"
+    ],
+    [
+     "del",
+     "poised to fall"
+    ],
+    [
+     "ins",
+     "under pressure"
+    ],
+    [
+     "eq",
+     "after Anthropic (ANTH.PVT) CEO Dario Amodei wrote a 3,800-word essay over the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the war in the Middle East spread. Brent crude (BZ=F) traded near"
+    ],
+    [
+     "del",
+     "$108"
+    ],
+    [
+     "ins",
+     "$106"
+    ],
+    [
+     "eq",
+     "per barrel. That sets the stage for the Federal Reserve's policy meeting on Wednesday. Trader bets of a Fed rate hike"
+    ],
+    [
+     "ins",
+     "have"
+    ],
+    [
+     "eq",
+     "spiked to"
+    ],
+    [
+     "del",
+     "86%"
+    ],
+    [
+     "ins",
+     "88%"
+    ],
+    [
+     "eq",
+     "following Friday's consumer inflation report, creating a consensus even as Fed Chairman"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "emphasized that he will not provide forward guidance about the Fed policymaking."
+    ],
+    [
+     "ins",
+     "- BofA stock falls over 5% on weaker dealmaking, trading fee forecastsShares of Bank of America (BAC) fell more than 5% on Monday after CEO Brian Moynihan delivered an underwhelming forecast for his bank's quarterly dealmaking fees. Moynihan said investment banking fees are on pace to reach $1.6 billion to $1.8 billion in the third quarter, or down about 10%-20% from the $2 billion it earned in the third quarter of last year. The broader investment banking market is on pace to be down roughly 10%, according to Dealogic data. \"We're not as well-positioned in some of the businesses that have more activity,\" Moynihan said, adding that the deal pipeline remains strong and \"part of it is just getting the deals through the system.\" Meanwhile, the sales and trading business is poised to be flat from a year ago. Moynihan said Bank of America's financing and prime brokerage activity that boosted results earlier this year cooled as investors pulled back on risk. In July, the global AI trade faced a sharp unwind as shares of chipmakers and tech giants fell amid mounting scrutiny of their valuations and rising capital expenditures. That move prompted a dramatic unwind the same month by the AI-focused hedge fund Situational Awareness, run by former 24-year-old OpenAI researcher Leopold Aschenbrenner. The CEO was far more upbeat about the bank's more Main Street focused operations. He said loans and deposits are growing, and net interest income is tracking in line with the bank's expectations. \"We feel very good about the underlying US economy,\" he said, adding that even if the Federal Reserve raises interest rates this week, it should not knock the economy off its current trajectory."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.4393,
+  "numbers_changed": [
+   "0.5",
+   "0.6",
+   "005930",
+   "1.6",
+   "1.8",
+   "10",
+   "106",
+   "108",
+   "2",
+   "20",
+   "2023",
+   "24",
+   "30",
+   "5",
+   "5.33",
+   "500",
+   "86",
+   "88"
+  ],
+  "market_figures_changed": [
+   "$1.6 billion",
+   "$1.8 billion",
+   "$106",
+   "$108",
+   "$2 billion",
+   "0.5%",
+   "0.6%",
+   "10%",
+   "20%",
+   "5%",
+   "5.33%",
+   "86%",
+   "88%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.437,
+ "similarity": 0.8305,
+ "adjudicated_by": "rules"
+}
