@@ -1,0 +1,180 @@
+{
+ "id": "e48e7accfc8c7ce7-f383c67f-7131a849",
+ "url": "https://www.aljazeera.com/sports/2026/9/15/nairobi-to-host-world-athletics-championships-in-2029?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-16T11:13:32Z",
+ "date": "2026-09-16",
+ "old_title": "Nairobi to host Africa's first World Athletics Championships in 2029",
+ "new_title": "Nairobi to host Africa's first World Athletics Championships in 2029",
+ "old_text": "Nairobi will host the World Athletics Championships in 2029, beating off competition from London, Munich and Rome to become the first African hosts, World Athletics has announced.\nThe 2031 championships will be held in Munich, track and field's governing body said after a council meeting on Tuesday in Budapest, host to the recently concluded Ultimate Championship.\n\"We were fortunate to have four outstanding bids for 2029 and 2031, and this was not an easy decision for the Council,\" World Athletics president Sebastian Coe told a press conference.\nThe 2027 event has already been awarded to Beijing.\n\"This council decision today means we're able to deliver our World Athletics Championships in Asia, Africa, and Europe over its next three editions,\" the Briton added.\n\"Taking our championships to Africa for the first time will be historic. Nairobi has presented a compelling and emotional bid.\"\nCoe added: \"It was important that the world championship should come to Africa when we had the right host, the right bid, and the right circumstances.\n\"Nairobi has demonstrated emphatically that this is their moment to supercharge the development of our sport in Kenya and across Africa, leaving a compelling legacy that inspires a continent.\"\nKenya, which failed with a bid for the 2025 world championships, has previously hosted the 2007 World Cross Country Championships in Mombasa, the World Under-18 Championships in Nairobi in 2017, and the World Under-20 Championships in the capital in 2021.\nNairobi also staged the 2010 African Athletics Championships.\n\"Having also been part of the bidding process for 2025, the (Nairobi) team understood and grasped what was required, and came back with a stronger proposition, and a renovated Kasarani Stadium, which is currently undergoing a complete overhaul ahead of hosting the Africa Cup of Nations (AFCON) 2027,\" said Coe.",
+ "new_text": "Nairobi will host the World Athletics Championships in 2029, beating off competition from London, Munich and Rome to become the first African hosts, World Athletics has announced.\nThe 2031 championships will be held in Munich, Germany, track and field's governing body said after a council meeting on Tuesday in Budapest, Hungary, which hosted the recently concluded Ultimate Championships.\n\"We were fortunate to have four outstanding bids for 2029 and 2031, and this was not an easy decision for the council,\" World Athletics president Sebastian Coe told a news conference.\nThe 2027 event has already been awarded to Beijing.\n\"This council decision today means we're able to deliver our World Athletics Championships in Asia, Africa, and Europe over its next three editions,\" the Briton added.\n\"Taking our championships to Africa for the first time will be historic. Nairobi has presented a compelling and emotional bid.\"\nCoe added: \"It was important that the World Championships should come to Africa when we had the right host, the right bid, and the right circumstances.\n\"Nairobi has demonstrated emphatically that this is their moment to supercharge the development of our sport in Kenya and across Africa, leaving a compelling legacy that inspires a continent.\"\nKenya, which failed with a bid for the 2025 World Championships, has previously hosted the 2007 World Cross Country Championships in Mombasa, the World Under-18 Championships in Nairobi in 2017, and the World Under-20 Championships in the capital in 2021.\nNairobi also staged the 2010 African Athletics Championships.\n\"Having also been part of the bidding process for 2025, the [Nairobi] team understood and grasped what was required and came back with a stronger proposition and a renovated Kasarani Stadium, which is currently undergoing a complete overhaul ahead of hosting the Africa Cup of Nations (AFCON) 2027,\" said Coe.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "World Athletics has announced. The 2031 championships will be held in Munich,"
+    ],
+    [
+     "ins",
+     "Germany,"
+    ],
+    [
+     "eq",
+     "track and field's governing body said after a council meeting on Tuesday in Budapest,"
+    ],
+    [
+     "del",
+     "host to"
+    ],
+    [
+     "ins",
+     "Hungary, which hosted"
+    ],
+    [
+     "eq",
+     "the recently concluded Ultimate"
+    ],
+    [
+     "del",
+     "Championship."
+    ],
+    [
+     "ins",
+     "Championships."
+    ],
+    [
+     "eq",
+     "\"We were fortunate to have four outstanding bids for 2029 and 2031, and this was not an easy decision for the"
+    ],
+    [
+     "del",
+     "Council,\""
+    ],
+    [
+     "ins",
+     "council,\""
+    ],
+    [
+     "eq",
+     "World Athletics president Sebastian Coe told a"
+    ],
+    [
+     "del",
+     "press"
+    ],
+    [
+     "ins",
+     "news"
+    ],
+    [
+     "eq",
+     "conference. The 2027 event has already been awarded to Beijing. \"This council"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "a compelling and emotional bid.\" Coe added: \"It was important that the"
+    ],
+    [
+     "del",
+     "world championship"
+    ],
+    [
+     "ins",
+     "World Championships"
+    ],
+    [
+     "eq",
+     "should come to Africa when we had the right host, the right"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "inspires a continent.\" Kenya, which failed with a bid for the 2025"
+    ],
+    [
+     "del",
+     "world championships,"
+    ],
+    [
+     "ins",
+     "World Championships,"
+    ],
+    [
+     "eq",
+     "has previously hosted the 2007 World Cross Country Championships in Mombasa, the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Championships. \"Having also been part of the bidding process for 2025, the"
+    ],
+    [
+     "del",
+     "(Nairobi)"
+    ],
+    [
+     "ins",
+     "[Nairobi]"
+    ],
+    [
+     "eq",
+     "team understood and grasped what was"
+    ],
+    [
+     "del",
+     "required,"
+    ],
+    [
+     "ins",
+     "required"
+    ],
+    [
+     "eq",
+     "and came back with a stronger"
+    ],
+    [
+     "del",
+     "proposition,"
+    ],
+    [
+     "ins",
+     "proposition"
+    ],
+    [
+     "eq",
+     "and a renovated Kasarani Stadium, which is currently undergoing a complete overhaul ahead of hosting the Africa Cup of Nations (AFCON) 2027,\" said Coe."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0881,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.994,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,160 @@
+{
+ "id": "e9129605c02e4572-de48aa08-e771dec5",
+ "url": "https://www.abc.net.au/news/2026-09-15/cricket-live-australia-zimbabwe-first-odi-scorecentre/107154728",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-16T11:16:08Z",
+ "date": "2026-09-16",
+ "old_title": "ODI live scores: Australia faces Zimbabwe in first of African series",
+ "new_title": "Renshaw scores first ODI century as Aussies defeat Zimbabwe",
+ "old_text": "The Australian men's team's journey to the highly anticipated Test series against South Africa starts in Harare with the first of three ODIs against Zimbabwe.\nCheck out the live scores and stats below.\nScorecard\nManhattan\nBall-by-ball\nThe ABC of SPORT\nSports content to make you think... or allow you not to. A newsletter delivered each Saturday.",
+ "new_text": "Matt Renshaw has scored his first ODI century, while Nathan Ellis took five wickets to guide Australia to a 59-run win over hosts Zimbabwe in the first clash of their three-match series.\nAustralia chose to bat first, and the surprise decision from captain Mitchell Marsh was vindicated as the tourists scored 8-294 from their 50 overs, setting Zimbabwe an imposing target at Harare Sports Club.\nIn reply, Zimbabwe was dismissed for 235 in 45.1 overs, showing good fight but always behind the required run rate.\nRenshaw, who last scored an international ton in a Test against Pakistan in 2017, made 109.\nHe featured in some key partnerships, while Cooper Connolly made 51.\nRenshaw put on 72 runs with Alex Carey for the fifth wicket and 75 with Ollie Peake for the sixth wicket, leaving Zimbabwe with a required run rate of 5.90.\nThe 20-year-old left-arm quick Newman Nyamhuri finished with 5-62, only the second Zimbabwe bowler to take five wickets in an ODI against Australia.\nZimbabwe lost four wickets quickly before Craig Ervine and Sikandar steadied the innings with a 98-run partnership that offered the hosts hope of victory on a surface that traditionally gets better for batting as the day wears on.\nEllis had taken two wickets in his first spell and when he was reintroduced, took three balls to clean bowl Ervine for 59 and put the brakes on Zimbabwe.\nSikandar was dispensed by Spencer Johnson for 57 to leave Zimbabwe still significantly adrift.\nEllis finished with 5-31 in 9.1 overs, also cleaning up the tail.\nThe second ODI will be played on Friday in Harare, after which Australia moves to South Africa.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "The Australian men's team's journey"
+    ],
+    [
+     "ins",
+     "Matt Renshaw has scored his first ODI century, while Nathan Ellis took five wickets"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "the highly anticipated Test series against South Africa starts"
+    ],
+    [
+     "ins",
+     "guide Australia to a 59-run win over hosts Zimbabwe"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "Harare with"
+    ],
+    [
+     "eq",
+     "the first"
+    ],
+    [
+     "ins",
+     "clash"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "ins",
+     "their three-match series. Australia chose to bat first, and the surprise decision from captain Mitchell Marsh was vindicated as the tourists scored 8-294 from their 50 overs, setting Zimbabwe an imposing target at Harare Sports Club. In reply, Zimbabwe was dismissed for 235 in 45.1 overs, showing good fight but always behind the required run rate. Renshaw, who last scored an international ton in a Test against Pakistan in 2017, made 109. He featured in some key partnerships, while Cooper Connolly made 51. Renshaw put on 72 runs with Alex Carey for the fifth wicket and 75 with Ollie Peake for the sixth wicket, leaving Zimbabwe with a required run rate of 5.90. The 20-year-old left-arm quick Newman Nyamhuri finished with 5-62, only the second Zimbabwe bowler to take five wickets in an ODI against Australia. Zimbabwe lost four wickets quickly before Craig Ervine and Sikandar steadied the innings with a 98-run partnership that offered the hosts hope of victory on a surface that traditionally gets better for batting as the day wears on. Ellis had taken two wickets in his first spell and when he was reintroduced, took"
+    ],
+    [
+     "eq",
+     "three"
+    ],
+    [
+     "del",
+     "ODIs against"
+    ],
+    [
+     "ins",
+     "balls to clean bowl Ervine for 59 and put the brakes on"
+    ],
+    [
+     "eq",
+     "Zimbabwe."
+    ],
+    [
+     "del",
+     "Check out"
+    ],
+    [
+     "ins",
+     "Sikandar was dispensed by Spencer Johnson for 57 to leave Zimbabwe still significantly adrift. Ellis finished with 5-31 in 9.1 overs, also cleaning up"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "live scores and stats below. Scorecard Manhattan Ball-by-ball"
+    ],
+    [
+     "ins",
+     "tail."
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "ABC of SPORT Sports content"
+    ],
+    [
+     "ins",
+     "second ODI will be played on Friday in Harare, after which Australia moves"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "make you think... or allow you not to. A newsletter delivered each Saturday."
+    ],
+    [
+     "ins",
+     "South Africa."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 5.5536,
+  "numbers_changed": [
+   "109",
+   "20",
+   "2017",
+   "235",
+   "294",
+   "31",
+   "45.1",
+   "5",
+   "5.90",
+   "50",
+   "51",
+   "57",
+   "59",
+   "62",
+   "72",
+   "75",
+   "8",
+   "9.1",
+   "98"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.15,
+ "similarity": 0.5578,
+ "adjudicated_by": "rules"
+}

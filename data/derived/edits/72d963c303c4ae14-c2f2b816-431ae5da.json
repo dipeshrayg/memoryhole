@@ -1,0 +1,52 @@
+{
+ "id": "72d963c303c4ae14-c2f2b816-431ae5da",
+ "url": "https://www.dw.com/en/us-confirms-it-has-weapons-in-space/a-79268894?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-16T11:14:21Z",
+ "date": "2026-09-16",
+ "old_title": "US confirms it has weapons in space",
+ "new_title": "US confirms it has weapons in space",
+ "old_text": "The United States has weapons deployed in spatial orbit, the US Space Force said, confirming the existence of such capabilities for the first time.\n\"The US has on-orbit space control weapons capable of defending the Joint Force against hostile adversary action,\" a US Space Force spokesperson said in a press release. The statement did not provide specifics on the weapons in question.\n\"Space control encapsulates the mission areas required to contest and control the space domain - employing kinetic and non-kinetic means to affect adversary capabilities,\" it said, adding that \"these capabilities can be employed for offensive and defensive purposes.\"\nUS Air Force Secretary Troy Meink also confirmed the existence of US weapons in space, while speaking at the Air, Space and Cyber Conference on Monday.\nThe Space Force, the US military's arm dedicated to space, justified the weapons deployment by citing its two biggest geopolitical rivals - Russia and China. It said both countries pose a threat to American interests in space.\nChina \"develops and operates space and counterspace capabilities as part of a military modernization strategy,\" while Russia \"views space as a warfighting domain and believes space supremacy will be a decisive factor in future conflicts,\" the statement read.\nWhat have China and Russia said?\nIn response, China urged Washington to \"stop preparing for war\" in outer space.\n\"We urge the US side to stop expanding its military capabilities and preparing for war in outer space,\" Foreign Ministry spokesman Guo Jiakun said, warning against an \"arms race\" in space.\nRussia on Tuesday also called for space to be kept free of weapons.\n\"We believe that space must be free of any weapon,\" Kremlin spokesman Dmitry Peskov told reporters in Moscow, adding: \"We are counting on broad international consolidation to continue working toward the complete demilitarization of space.\"\nThe final frontier\nThe militarization of space is an issue as old as the race to space itself.\nIn 1967, the world's biggest superpowers and other nations signed the Outer Space Treaty addressing the single biggest concern - the deployment of nuclear weapons in space.\nSince then, Russia, the US, India and China have been exploring ways to fight in space outside of that treaty. That includes targeting each other's satellites critical for military communication, navigation and surveillance.\nEdited by: Natalie Muller\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "The United States has weapons deployed in spatial orbit, the US Space Force announced, confirming the existence of such capabilities for the first time.\n\"The US has on-orbit space control weapons capable of defending the Joint Force against hostile adversary action,\" a US Space Force spokesperson said in a press release. The statement did not provide specifics on the weapons in question.\n\"Space control encapsulates the mission areas required to contest and control the space domain - employing kinetic and non-kinetic means to affect adversary capabilities,\" it said, adding that \"these capabilities can be employed for offensive and defensive purposes.\"\nUS Air Force Secretary Troy Meink also confirmed the existence of US weapons in space, while speaking at the Air, Space and Cyber Conference on Monday.\nThe Space Force, the US military's arm dedicated to space, justified the weapons deployment by citing its two biggest geopolitical rivals - Russia and China. It said both countries pose a threat to American interests in space.\nChina \"develops and operates space and counterspace capabilities as part of a military modernization strategy,\" while Russia \"views space as a warfighting domain and believes space supremacy will be a decisive factor in future conflicts,\" the statement read.\nWhat have China and Russia said?\nIn response, China urged Washington to \"stop preparing for war\" in outer space.\n\"We urge the US side to stop expanding its military capabilities and preparing for war in outer space,\" Foreign Ministry spokesman Guo Jiakun said, warning against an \"arms race\" in space.\nRussia on Tuesday also called for space to be kept free of weapons.\n\"We believe that space must be free of any weapon,\" Kremlin spokesman Dmitry Peskov told reporters in Moscow, adding: \"We are counting on broad international consolidation to continue working toward the complete demilitarization of space.\"\nThe final frontier\nThe militarization of space is an issue as old as the race to space itself.\nIn 1967, the world's biggest superpowers and other nations signed the Outer Space Treaty addressing the single biggest concern - the deployment of nuclear weapons in space.\nSince then, Russia, the US, India and China have been exploring ways to fight in space outside of that treaty. That includes targeting each other's satellites critical for military communication, navigation and surveillance.\nEdited by: Natalie Muller\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "United States has weapons deployed in spatial orbit, the US Space Force"
+    ],
+    [
+     "del",
+     "said,"
+    ],
+    [
+     "ins",
+     "announced,"
+    ],
+    [
+     "eq",
+     "confirming the existence of such capabilities for the first time. \"The US"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0047,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9996,
+ "adjudicated_by": "rules"
+}

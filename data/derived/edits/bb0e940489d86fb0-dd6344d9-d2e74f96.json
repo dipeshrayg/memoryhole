@@ -1,0 +1,80 @@
+{
+ "id": "bb0e940489d86fb0-dd6344d9-d2e74f96",
+ "url": "https://www.independent.co.uk/news/uk/home-news/doncaster-crash-white-rose-way-b3050459.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-16T11:16:52Z",
+ "date": "2026-09-16",
+ "old_title": "Two dead, four injured after car crashes into pedestrians",
+ "new_title": "Two dead, four injured after car crashes into pedestrians",
+ "old_text": "Two people died, and four others were seriously injured in a \"multiple-vehicle collision\" on Sunday.\nThe fatal incident happened on White Rose Way, between Carriage Drive and Middle Bank Roundabout, in Doncaster at 11am.\nSouth Yorkshire Police said a black Mitsubishi L200 reportedly hit four pedestrians on the carriageway before colliding with a black Audi and a silver BMW moving in the other direction.\nTwo pedestrians were pronounced dead at the scene. Officers are currently working to identify and inform their next of kin.\nFour other people were taken to hospital with serious but not life-threatening injuries.\nThe driver of the Mitsubishi was arrested on suspicion of two counts of causing death by dangerous driving, two counts of causing serious injury by dangerous driving, and driving while unfit.\nThe 30-year-old man has since been bailed pending further inquiries.\nThe force is appealing for witnesses or anyone who may have dashcam footage to come forward.\nTo share information, either call 101 or use the online reporting system, quoting incident number 345 of 13 September 2026.",
+ "new_text": "Two people died, and four others were seriously injured in a \"multiple-vehicle collision\" on Sunday.\nThe fatal incident occurred on White Rose Way, between Carriage Drive and Middle Bank Roundabout, close to Lakeside Village outlet shopping centre and Nuffield Health Doncaster fitness and wellbeing centre, in Doncaster about 11am.\nSouth Yorkshire Police said a black Mitsubishi L200 pick-up truck reportedly hit four pedestrians on the carriageway before colliding with a black Audi and a silver BMW moving in the other direction.\nTwo pedestrians were pronounced dead at the scene. Officers are currently working to identify and inform their next of kin.\nFour other people were taken to hospital with serious but not life-threatening injuries.\nThe driver of the Mitsubishi was arrested on suspicion of two counts of causing death by dangerous driving, two counts of causing serious injury by dangerous driving, and driving while unfit.\nThe 30-year-old man has since been bailed pending further inquiries.\nThe force is appealing for witnesses or anyone who may have dashcam footage to come forward.\nTo share information, either call 101 or use the online reporting system, quoting incident number 345 of 13 September 2026.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "were seriously injured in a \"multiple-vehicle collision\" on Sunday. The fatal incident"
+    ],
+    [
+     "del",
+     "happened"
+    ],
+    [
+     "ins",
+     "occurred"
+    ],
+    [
+     "eq",
+     "on White Rose Way, between Carriage Drive and Middle Bank Roundabout,"
+    ],
+    [
+     "ins",
+     "close to Lakeside Village outlet shopping centre and Nuffield Health Doncaster fitness and wellbeing centre,"
+    ],
+    [
+     "eq",
+     "in Doncaster"
+    ],
+    [
+     "del",
+     "at"
+    ],
+    [
+     "ins",
+     "about"
+    ],
+    [
+     "eq",
+     "11am. South Yorkshire Police said a black Mitsubishi L200"
+    ],
+    [
+     "ins",
+     "pick-up truck"
+    ],
+    [
+     "eq",
+     "reportedly hit four pedestrians on the carriageway before colliding with a black"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1207,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.103,
+ "similarity": 0.9529,
+ "adjudicated_by": "rules"
+}

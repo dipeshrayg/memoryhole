@@ -1,0 +1,120 @@
+{
+ "id": "60791b55f7b70996-623c347e-157dece4",
+ "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-16T11:11:39Z",
+ "date": "2026-09-16",
+ "old_title": "Denmark says Russian warship fired flares at military helicopter",
+ "new_title": "Denmark says Russian warship fired flares at military helicopter",
+ "old_text": "- Published\nDenmark has accused a Russian warship of firing two emergency flares at one of its helicopters while it was tracking the vessel in the Baltic Sea.\nThe Danish government has summoned the Russian ambassador over the incident, which it said happened during a \"routine\" monitoring operation on Monday.\nPrime Minister Mette Frederiksen branded the Russian action \"reckless\" and said it was designed to \"intimidate and divide\".\nMoscow has not commented on the incident.\nIt came on the same day Nato forces shot down a drone over Lithuania in the latest security scare on the alliance's eastern flank, where tensions remain high during Russia's full-scale invasion of Ukraine.\nIn a statement detailing the incident in the Baltic Sea, the Danish armed forces said: \"One of the air force's Fennec helicopters was today fired at with flares during a routine photographic operation of a Russian frigate, which was located in international waters off Gedser.\"\nOf the two flares fired at the helicopter, one passed close to it, the statement added.\nThe Danish foreign ministry described the incident as \"completely unacceptable\".\nDanish Foreign Minister Lars Lokke Rasmussen accused Russia of \"gradually shifting the boundary for what they consider acceptable behaviour\", adding: \"That is something we cannot accept.\"\nOvernight, Nato fighter pilots shot down a drone that entered Lithuania's airspace.\nAuthorities said the drone likely entered southern Lithuania, near the second-largest city of Kaunas, from neighbouring Belarus shortly after midnight on Tuesday.\nThe origins of the drone are yet to be determined, the Lithuanian national crisis management centre said, but the country's president pointed to increased Russian aggression in recent months.\nPresident Gitanas NausÄda wrote on X: \"With Russia intensifying its aggression against Ukraine, such readiness is vital for our region. Together with our Nato Allies, Lithuania will defend its airspace.\"\nLithuania shares a large part of its southern and eastern border with Belarus, a key Russian ally.\nPoland also announced there had been \"aviation operations\" in its airspace on Monday night \"due to the activity of Russian Federation's jet-powered unmanned aerial vehicles conducting strikes on Ukrainian territory\".\nIt said the overnight operations were of a \"preventive nature\" and aimed at \"securing airspace and its protection, especially in areas adjacent to threatened regions\".\nNato jets have been scrambled several times to shoot down stray Ukrainian drones that have crossed into Baltic countries Estonia and Latvia this year.\nUkraine has blamed the stray drones on Russian electronic warfare, technology designed to change the flight paths of Ukrainian drones.",
+ "new_text": "- Published\nDenmark has accused a Russian warship of firing two emergency flares at one of its helicopters while it was tracking the vessel in the Baltic Sea.\nThe Danish government has summoned the Russian ambassador over the incident, which it said happened during a \"routine\" monitoring operation on Monday.\nPrime Minister Mette Frederiksen branded the Russian action \"reckless\" and said it was designed to \"intimidate and divide\".\nRussia said it would \"thoroughly investigate\" the incident but accused Danish helicopters of making \"dangerous manoeuvres\" near Russian warships.\nIt came on the same day that Nato forces shot down a drone over Lithuania in the latest security scare on the alliance's eastern flank, where tensions remain high amid Russia's full-scale invasion of Ukraine.\nIn a statement detailing the incident in the Baltic Sea, the Danish armed forces said: \"One of the air force's Fennec helicopters was today fired at with flares during a routine photographic operation of a Russian frigate, which was located in international waters off Gedser.\"\nOf the two flares fired at the helicopter, one passed close to it, the statement added.\nThe Danish foreign ministry described the incident as \"completely unacceptable\".\nDanish Foreign Minister Lars Lokke Rasmussen accused Russia of \"gradually shifting the boundary for what they consider acceptable behaviour\", adding: \"That is something we cannot accept.\"\nIn a statement, Russian ambassador Vladimir Barbin said Moscow would \"thoroughly investigate all the circumstances of the incident\" but accused the Danish helicopter of carrying out \"provocative actions\".\nBarbin said this was \"not the first time that Danish Air Force helicopters have carried out dangerous manoeuvres near Russian warships\".\nHe said he had complained about a similar incident last year, adding that the latest event showed that \"communication problems lie not with the Russian Navy's vessels, but with the Danish side\".\nRussia's behaviour was \"reckless and dangerous,\" the President of the European Commission Ursula von der Leyen said in a post on social media.\nThis incident â together with the drone over Lithuania â was \"part of a broader pattern of Russian aggression and provocation against Europe\", she added.\nDanish Defence Minister Jeppe Bruus told Reuters no attempt to make contact with helicopters had been made by the frigate's crew.\nOvernight, Nato fighter pilots shot down a drone that entered Lithuania's airspace.\nAuthorities said the drone likely entered southern Lithuania, near the second-largest city of Kaunas, from neighbouring Belarus shortly after midnight on Tuesday.\nThe origins of the drone have yet to be determined, the Lithuanian national crisis management centre said, but the country's president pointed to increased Russian aggression in recent months.\nPresident Gitanas NausÄda wrote on X: \"With Russia intensifying its aggression against Ukraine, such readiness is vital for our region. Together with our Nato Allies, Lithuania will defend its airspace.\"\nLithuania shares a large part of its southern and eastern border with Belarus, a key Russian ally.\nPoland also announced there had been \"aviation operations\" in its airspace on Monday night \"due to the activity of Russian Federation's jet-powered unmanned aerial vehicles conducting strikes on Ukrainian territory\".\nIt said the overnight operations were of a \"preventive nature\" and aimed at \"securing airspace and its protection, especially in areas adjacent to threatened regions\".\nNato jets have been scrambled several times to shoot down stray Ukrainian drones that have crossed into Baltic countries Estonia and Latvia this year.\nUkraine has blamed the stray drones on Russian electronic warfare, technology designed to change the flight paths of Ukrainian drones.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Russian action \"reckless\" and said it was designed to \"intimidate and divide\"."
+    ],
+    [
+     "del",
+     "Moscow has not commented on"
+    ],
+    [
+     "ins",
+     "Russia said it would \"thoroughly investigate\""
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "incident."
+    ],
+    [
+     "ins",
+     "incident but accused Danish helicopters of making \"dangerous manoeuvres\" near Russian warships."
+    ],
+    [
+     "eq",
+     "It came on the same day"
+    ],
+    [
+     "ins",
+     "that"
+    ],
+    [
+     "eq",
+     "Nato forces shot down a drone over Lithuania in the latest security scare on the alliance's eastern flank, where tensions remain high"
+    ],
+    [
+     "del",
+     "during"
+    ],
+    [
+     "ins",
+     "amid"
+    ],
+    [
+     "eq",
+     "Russia's full-scale invasion of Ukraine. In a statement detailing the incident in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "what they consider acceptable behaviour\", adding: \"That is something we cannot accept.\""
+    ],
+    [
+     "ins",
+     "In a statement, Russian ambassador Vladimir Barbin said Moscow would \"thoroughly investigate all the circumstances of the incident\" but accused the Danish helicopter of carrying out \"provocative actions\". Barbin said this was \"not the first time that Danish Air Force helicopters have carried out dangerous manoeuvres near Russian warships\". He said he had complained about a similar incident last year, adding that the latest event showed that \"communication problems lie not with the Russian Navy's vessels, but with the Danish side\". Russia's behaviour was \"reckless and dangerous,\" the President of the European Commission Ursula von der Leyen said in a post on social media. This incident â together with the drone over Lithuania â was \"part of a broader pattern of Russian aggression and provocation against Europe\", she added. Danish Defence Minister Jeppe Bruus told Reuters no attempt to make contact with helicopters had been made by the frigate's crew."
+    ],
+    [
+     "eq",
+     "Overnight, Nato fighter pilots shot down a drone that entered Lithuania's airspace."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "neighbouring Belarus shortly after midnight on Tuesday. The origins of the drone"
+    ],
+    [
+     "del",
+     "are"
+    ],
+    [
+     "ins",
+     "have"
+    ],
+    [
+     "eq",
+     "yet to be determined, the Lithuanian national crisis management centre said, but"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4313,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.455,
+ "similarity": 0.9692,
+ "adjudicated_by": "rules"
+}

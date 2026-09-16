@@ -1,0 +1,306 @@
+{
+ "id": "32eb878469cc57b7-91fa50fa-412bd90d",
+ "url": "https://www.france24.com/en/france/20260915-french-labour-strike-reduces-capacity-key-dunkirk-gas-terminal",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-16T11:15:16Z",
+ "date": "2026-09-16",
+ "old_title": "French labour strike reduces capacity at key Dunkirk gas terminal",
+ "new_title": "French labour strike reduces capacity at key Dunkirk gas terminal",
+ "old_text": "French labour strike reduces capacity at key Dunkirk gas terminal\nIndustrial action was expected to reduce French electricity supply by up to 5 gigawatts on Tuesday as energy sector unions stage a 24-hour strike in protest over calls to curb employee benefits such as access to cheaper power.\nA 24-hour labour strike in France's power sector on Tuesday was expected to reduce delivery capacity at the Dunkirk LNG terminal to 4 gigawatt-hours per day, Fluxys data showed.\nThe terminal normally delivers a minimum of 9.4 GWh per day.\nUnions called a strike for Tuesday at state-owned nuclear operator EDF, Belgian gas terminal operator Fluxys and French gas terminal operator Elengy to protest a recommendation from the French Court of Auditors to curb employee benefits such as access to cheaper power.\nFrance is one of Europe's largest exporters of gas across the continent and the strike comes as Europe scrambles to refill its gas storage ahead of winter, with Germany and other gas-reliant countries lagging behind European Union storage targets.\nThe disruption is likely to affect sendout ability only, as no cargoes have been scheduled to arrive at Dunkirk and none were seen redirected to other terminals, LSEG analyst Dzmitry Dauhalevich said.\nA spokesperson for Elengy said there were no disruptions at the two Fos terminals or the Montoir terminal.\nThe strike took 6.5 gigawatts of electricity offline overnight on Monday, EDF data showed.\nWorkers and retirees in the French energy sector pay discounted rates for gas and electricity, which their unions view as a core part of their compensation package.\n(FRANCE 24 with Reuters)",
+ "new_text": "French labour strike reduces capacity at key Dunkirk gas terminal\nIndustrial action was expected to reduce French electricity supply by up to 5 gigawatts on Tuesday as energy sector unions stage a 24-hour strike in protest over calls to curb employee benefits such as access to cheaper power.\nFrance's biggest liquefied natural gas (LNG) terminal was forced to cut its delivery capacity on Tuesday, potentially reducing supplies outside the country, after workers in the French energy sector began a strike to protest a proposed change to employee electricity discounts.\nThe Dunkirk LNG terminal is expected to reduce delivery capacity to 4 gigawatt-hours (GWh) per day, down from a minimum of 9.4 GWh per day, data from terminal operator Fluxys showed.\nThree other LNG terminals in the country - two at Fos in southern France and one in Montoir in western France - ere operating as normal, operator Elengy said.\nFrance is one of Europe's largest exporters of gas to the rest of the continent and the strike comes as Europe scrambles to refill its gas storage before winter, with Germany and other gas-reliant countries lagging behind European Union storage targets.\nThe strike is set to add pressure on gas prices that are already trading at their highest levels since late 2022 due to supply disruptions from the Middle East and low European storage levels.\nThe disruption is likely to affect sendout only by an estimated 476 GWh a day, as no cargoes have been scheduled to arrive at Dunkirk and none were redirected to other terminals, LSEG analyst Dzmitry Dauhalevich said.\nHowever, some of this volume might be offset by increasing sendout from terminals in the Netherlands, Belgium and the Montoir terminal, he added.\nThe strike had also cut French electricity supply by 6.2 gigawatts by midday, data from utility EDF showed. That equals about 13% of total power demand in midday hours, but does not affect the country's status as a net exporter, data from grid operator RTE showed.\nEDF said 59% of its work force in the electricity and gas industries union - or about 38,000 people - took part in the strike action by midday on Tuesday.\nThe turnout is the highest in decades, eclipsing the number of workers on strike in 2011 when changes to the subsidy were also being considered.\nUnions called the 24-hour strike at state-owned nuclear operator EDF, Belgium's Fluxys and French gas terminal operator Elengy to protest a recommendation made in July by the French Court of Auditors to curb employee benefits including access to cheaper power.\nWorkers and retirees in the French energy sector pay discounted rates for gas and electricity, which their unions view as a core part of their compensation. The court estimated this cost EDF over €700 million ($807.7 million) in lost revenue in 2024.\nSpeaking on France 2 TV, delegate energy minister Maud Bregeon said auditors had recommended taxing the employee benefit at a higher rate, adding that she planned to discuss the matter with unions later today.\n(FRANCE 24 with Reuters)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "over calls to curb employee benefits such as access to cheaper power."
+    ],
+    [
+     "del",
+     "A 24-hour labour"
+    ],
+    [
+     "ins",
+     "France's biggest liquefied natural gas (LNG) terminal was forced to cut its delivery capacity on Tuesday, potentially reducing supplies outside the country, after workers in the French energy sector began a"
+    ],
+    [
+     "eq",
+     "strike"
+    ],
+    [
+     "del",
+     "in France's power sector on Tuesday was"
+    ],
+    [
+     "ins",
+     "to protest a proposed change to employee electricity discounts. The Dunkirk LNG terminal is"
+    ],
+    [
+     "eq",
+     "expected to reduce delivery capacity"
+    ],
+    [
+     "del",
+     "at the Dunkirk LNG terminal"
+    ],
+    [
+     "eq",
+     "to 4 gigawatt-hours"
+    ],
+    [
+     "ins",
+     "(GWh)"
+    ],
+    [
+     "eq",
+     "per day,"
+    ],
+    [
+     "del",
+     "Fluxys data showed. The terminal normally delivers"
+    ],
+    [
+     "ins",
+     "down from"
+    ],
+    [
+     "eq",
+     "a minimum of 9.4 GWh per"
+    ],
+    [
+     "del",
+     "day. Unions called a strike for Tuesday at state-owned nuclear operator EDF, Belgian gas"
+    ],
+    [
+     "ins",
+     "day, data from"
+    ],
+    [
+     "eq",
+     "terminal operator Fluxys"
+    ],
+    [
+     "ins",
+     "showed. Three other LNG terminals in the country - two at Fos in southern France"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "French gas terminal"
+    ],
+    [
+     "ins",
+     "one in Montoir in western France - ere operating as normal,"
+    ],
+    [
+     "eq",
+     "operator Elengy"
+    ],
+    [
+     "del",
+     "to protest a recommendation from the French Court of Auditors to curb employee benefits such as access to cheaper power."
+    ],
+    [
+     "ins",
+     "said."
+    ],
+    [
+     "eq",
+     "France is one of Europe's largest exporters of gas"
+    ],
+    [
+     "del",
+     "across"
+    ],
+    [
+     "ins",
+     "to the rest of"
+    ],
+    [
+     "eq",
+     "the continent and the strike comes as Europe scrambles to refill its gas storage"
+    ],
+    [
+     "del",
+     "ahead of"
+    ],
+    [
+     "ins",
+     "before"
+    ],
+    [
+     "eq",
+     "winter, with Germany and other gas-reliant countries lagging behind European Union storage targets. The"
+    ],
+    [
+     "ins",
+     "strike is set to add pressure on gas prices that are already trading at their highest levels since late 2022 due to supply disruptions from the Middle East and low European storage levels. The"
+    ],
+    [
+     "eq",
+     "disruption is likely to affect sendout"
+    ],
+    [
+     "del",
+     "ability only,"
+    ],
+    [
+     "ins",
+     "only by an estimated 476 GWh a day,"
+    ],
+    [
+     "eq",
+     "as no cargoes have been scheduled to arrive at Dunkirk and none were"
+    ],
+    [
+     "del",
+     "seen"
+    ],
+    [
+     "eq",
+     "redirected to other terminals, LSEG analyst Dzmitry Dauhalevich said."
+    ],
+    [
+     "del",
+     "A spokesperson for Elengy said there were no disruptions at"
+    ],
+    [
+     "ins",
+     "However, some of this volume might be offset by increasing sendout from terminals in"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "two Fos terminals or"
+    ],
+    [
+     "ins",
+     "Netherlands, Belgium and"
+    ],
+    [
+     "eq",
+     "the Montoir"
+    ],
+    [
+     "del",
+     "terminal."
+    ],
+    [
+     "ins",
+     "terminal, he added."
+    ],
+    [
+     "eq",
+     "The strike"
+    ],
+    [
+     "ins",
+     "had also cut French electricity supply by 6.2 gigawatts by midday, data from utility EDF showed. That equals about 13% of total power demand in midday hours, but does not affect the country's status as a net exporter, data from grid operator RTE showed. EDF said 59% of its work force in the electricity and gas industries union - or about 38,000 people -"
+    ],
+    [
+     "eq",
+     "took"
+    ],
+    [
+     "del",
+     "6.5 gigawatts"
+    ],
+    [
+     "ins",
+     "part in the strike action by midday on Tuesday. The turnout is the highest in decades, eclipsing the number"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "electricity offline overnight"
+    ],
+    [
+     "ins",
+     "workers"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "Monday, EDF data showed."
+    ],
+    [
+     "ins",
+     "strike in 2011 when changes to the subsidy were also being considered. Unions called the 24-hour strike at state-owned nuclear operator EDF, Belgium's Fluxys and French gas terminal operator Elengy to protest a recommendation made in July by the French Court of Auditors to curb employee benefits including access to cheaper power."
+    ],
+    [
+     "eq",
+     "Workers and retirees in the French energy sector pay discounted rates for"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and electricity, which their unions view as a core part of their"
+    ],
+    [
+     "del",
+     "compensation package."
+    ],
+    [
+     "ins",
+     "compensation. The court estimated this cost EDF over €700 million ($807.7 million) in lost revenue in 2024. Speaking on France 2 TV, delegate energy minister Maud Bregeon said auditors had recommended taxing the employee benefit at a higher rate, adding that she planned to discuss the matter with unions later today."
+    ],
+    [
+     "eq",
+     "(FRANCE 24 with Reuters)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.6023,
+  "numbers_changed": [
+   "13",
+   "2",
+   "2011",
+   "2022",
+   "2024",
+   "38,000",
+   "476",
+   "59",
+   "6.2",
+   "6.5",
+   "700",
+   "807.7"
+  ],
+  "market_figures_changed": [
+   "$807.7 m",
+   "13%",
+   "59%",
+   "€700 m"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 5,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.123,
+ "similarity": 0.9329,
+ "adjudicated_by": "rules"
+}

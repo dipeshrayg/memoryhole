@@ -1,0 +1,84 @@
+{
+ "id": "c541394a5b9b1636-6154f981-55a7a9d2",
+ "url": "https://www.abc.net.au/news/2026-09-15/cue-clothing-veronika-maine-in-receivership/107156840",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-16T11:16:06Z",
+ "date": "2026-09-16",
+ "old_title": "Aussie fashion brand Cue Clothing falls into receivership",
+ "new_title": "Aussie fashion brand Cue Clothing falls into receivership",
+ "old_text": "Sydney-based fashion business Cue Clothing Co entered receivership on Tuesday afternoon.\nIn a statement, FTI Consulting, appointed as receivers and managers for Cue, said increased sales and other improvements across the group were not enough to offset the overhead costs.\nThe company, which was founded in 1968 and operates Cue and its sister brand Veronika Maine, will continue trading while the receivers assess the business and restructuring options.\nCue's store locator map shows 69 stores across Australia, including a retail presence in David Jones, Myer and DFO.\nA sale process seeking offers for the business would \"commence immediately\" to secure the future of the brands, according to FTI Consulting.\nDuncan Clubb and Shaun McKinnon of BDO were appointed as voluntary administrators on the same day.\nIt is unclear at this stage whether there will be any job losses due to the company's receivership.",
+ "new_text": "Sydney-based fashion business Cue Clothing Co entered receivership on Tuesday afternoon.\nIn a statement, FTI Consulting, appointed as receivers and managers for Cue, said increased sales and other improvements across the group were not enough to offset the overhead costs.\nThe company, which was founded in 1968 and operates Cue and its sister brand Veronika Maine, will continue trading while the receivers assess the business and restructuring options.\nCue has 69 stores across Australia, including concessions in Myer and David Jones department stores.\nA sale process seeking offers for the business would \"commence immediately\" to secure the future of the brands, according to FTI Consulting.\nDuncan Clubb and Shaun McKinnon of BDO were appointed as voluntary administrators on the same day.\nIt is unclear at this stage whether there will be any job losses due to the company's receivership.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "will continue trading while the receivers assess the business and restructuring options."
+    ],
+    [
+     "del",
+     "Cue's store locator map shows"
+    ],
+    [
+     "ins",
+     "Cue has"
+    ],
+    [
+     "eq",
+     "69 stores across Australia, including"
+    ],
+    [
+     "del",
+     "a retail presence"
+    ],
+    [
+     "ins",
+     "concessions"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "David Jones,"
+    ],
+    [
+     "eq",
+     "Myer and"
+    ],
+    [
+     "del",
+     "DFO."
+    ],
+    [
+     "ins",
+     "David Jones department stores."
+    ],
+    [
+     "eq",
+     "A sale process seeking offers for the business would \"commence immediately\" to"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1259,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9827,
+ "adjudicated_by": "rules"
+}

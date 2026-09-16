@@ -1,0 +1,48 @@
+{
+ "id": "9014e08d8a030ee7-7fac6d5e-961ae00d",
+ "url": "https://www.dw.com/en/russian-warship-fires-flares-at-danish-helicopter/a-79270510?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-16T11:14:25Z",
+ "date": "2026-09-16",
+ "old_title": "Russian warship fires flares at Danish helicopter",
+ "new_title": "Russian warship fires flares at Danish helicopter",
+ "old_text": "A Russian warship fired two flares toward a Danish military helicopter in the Baltic Sea, with one passing close to the aircraft, Denmark's armed forces said on Tuesday.\nThe confrontation comes amid heightened security concerns on NATO's eastern flank during Russia's war in Ukraine.\nHow has Denmark responded?\nDanish Prime Minister Mette Frederiksen said the incident fitted a broader pattern of increasingly aggressive Russian behavior in Europe.\nShe accused Moscow of intensifying its \"hybrid war against Europe\" and testing and challenging NATO, and called on European countries to strengthen their defenses.\n\"Reckless action from Russia towards Danish military during a routine overflight yesterday. Russian actions are meant to intimidate and divide. They will not succeed. We will not waver,\" Frederiksen said in a statement on X.\nDanish Foreign Minister Lars Lokke Rasmussen condemned the incident as \"completely unacceptable\" and summoned Russia's ambassador, saying the action could have put lives at risk.\nThe foreign minister accused Moscow of \"gradually shifting the boundary for what they consider acceptable behaviour,\" adding: \"That is something we cannot accept.\"\nWhat happened in the Baltic Sea?\nDenmark's armed forces said one of its Fennec helicopters was carrying out a routine photographic reconnaissance mission when the incident occurred.\nThe helicopter was observing a Russian frigate in international waters off Gedser, a Danish port on the Baltic Sea.\nThe Russian vessel fired two flares towards the helicopter, according to the Danish military.\n\"One of the flares passed at close range to the helicopter,\" it said. No one on board was injured.\nThe incident came against a backdrop of growing tensions along NATO's eastern flank. Poland has repeatedly scrambled fighter jets during Russian attacks on neighboring Ukraine and reported incursions by Russian drones into its airspace.\nNATO members in the region have stepped up air patrols and other defenses as Moscow's war in Ukraine has increasingly raised fears of spillover and direct confrontations between Russian and alliance forces.\nEdited by: Natalie Muller\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "A Russian warship fired two flares toward a Danish military helicopter in the Baltic Sea, with one passing close to the aircraft, Denmark's armed forces said on Tuesday.\nThe confrontation comes amid heightened security concerns on NATO's eastern flank during Russia's war in Ukraine.\nHow has Denmark responded?\nDanish Prime Minister Mette Frederiksen said the incident fitted a broader pattern of increasingly aggressive Russian behavior in Europe.\nShe accused Moscow of intensifying its \"hybrid war against Europe\" and testing and challenging NATO, and called on European countries to strengthen their defenses.\n\"Reckless action from Russia towards Danish military during a routine overflight yesterday. Russian actions are meant to intimidate and divide. They will not succeed. We will not waver,\" Frederiksen said in a statement on X.\nDanish Foreign Minister Lars Lokke Rasmussen condemned the incident as \"completely unacceptable\" and summoned Russia's ambassador, saying the action could have put lives at risk.\nThe foreign minister accused Moscow of \"gradually shifting the boundary for what they consider acceptable behaviour,\" adding: \"That is something we cannot accept.\"\nWhat happened in the Baltic Sea?\nDenmark's armed forces said one of its Fennec helicopters was carrying out a routine photographic reconnaissance mission when the incident occurred.\nThe helicopter was observing a Russian frigate in international waters off Gedser, a Danish port on the Baltic Sea.\nThe Russian vessel fired two flares towards the helicopter, according to the Danish military.\n\"One of the flares passed at close range to the helicopter,\" it said. No one on board was injured.\nThe incident came against a backdrop of growing tensions along NATO's eastern flank. Poland has repeatedly scrambled fighter jets during Russian attacks on neighboring Ukraine and reported incursions by Russian drones into its airspace.\nNATO members in the region have stepped up air patrols and other defenses as Moscow's war in Ukraine has increasingly raised fears of spillover and direct confrontations between Russian and alliance forces.\nWhat has Russia said?\nRussia's ambassador to Denmark, Vladimir Barbin, accused the Danish helicopter of carrying out \"provocative actions against the Russian frigate.\"\nBarbin said it was \"not the first time\" Danish Air Force helicopters had carried out what he described as \"dangerous maneuvers near Russian warships.\"\nEdited by: Natalie Muller\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "raised fears of spillover and direct confrontations between Russian and alliance forces."
+    ],
+    [
+     "ins",
+     "What has Russia said? Russia's ambassador to Denmark, Vladimir Barbin, accused the Danish helicopter of carrying out \"provocative actions against the Russian frigate.\" Barbin said it was \"not the first time\" Danish Air Force helicopters had carried out what he described as \"dangerous maneuvers near Russian warships.\""
+    ],
+    [
+     "eq",
+     "Edited by: Natalie Muller If you rely on our team for trusted"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1295,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}
