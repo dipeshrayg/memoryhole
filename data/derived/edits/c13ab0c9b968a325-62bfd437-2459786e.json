@@ -1,0 +1,152 @@
+{
+ "id": "c13ab0c9b968a325-62bfd437-2459786e",
+ "url": "https://www.dw.com/en/us-announces-south-africa-visa-curbs-over-race-claims/a-79288287?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-17T11:23:31Z",
+ "date": "2026-09-17",
+ "old_title": "US announces South Africa visa curbs over race claims",
+ "new_title": "US announces South Africa visa curbs over race claims",
+ "old_text": "The United States has announced a new visa restriction policy for South Africans amid continuing claims that the white, Afrikaner minority in the African country is suffering from \"race-based discrimination.\"\nUS President Donald Trump's administration has criticized South Africa over a range of issues including land and employment laws that are meant to redress inequalities that Black people still face 30 years after the end of apartheid.\n\"As President Trump has made clear, the South African people are being failed by a government that is destroying its economy through an obsessive pursuit of racial grievance against the Afrikaner minority,\" US Secretary of State Marco Rubio claimed.\n\"The United States will not allow such behavior to go unchecked,\" Rubio said. \"These actions directly undermine peace, economic stability, and the rule of law, and they are incompatible with the pillars of America's foreign policy.\"\nThe US ambassador to South Africa said on social media on Wednesday that the visa restrictions were \"only the first step in a series of escalatory measures.\"\nRubio did not name any individuals to be immediately affected by the restrictions but said they would target those who promote \"race-based discrimination, incite violence, or enable land confiscation without compensation in South Africa.\"\nSouth Africa: Discrimination claims based on misinformation\nSouth African President Cyril Ramaphosa says there is no evidence of discrimination against white people in his country and has called for global efforts to debunk false stories about white persecution.\nNevertheless, the Trump administration has continued to attack South Africa.\nIn 2025, Trump berated President Ramaphosa in the Oval Office over discredited claims of a \"white genocide\" in South Africa. He has also hit the country with high tariffs, boycotted a G20 summit in Johannesburg and launched a special program allowing thousands of white Afrikaners to settle in the United States.\nRelations between Washington and Pretoria have also nosedived over South Africa's genocide case against Israel at the International Court of Justice (ICJ), in which it accuses the US ally of war crimes and crimes against humanity in the Gaza Strip.\nEdited by: Natalie Muller",
+ "new_text": "The United States has announced a new visa restriction policy for South Africans amid continuing claims that the country's white Afrikaner minority is suffering from \"race-based discrimination.\"\nUS President Donald Trump's administration has criticized South Africa over a range of issues including land and employment laws that are meant to redress inequalities that Black people still face 30 years after the end of apartheid.\n\"As President Trump has made clear, the South African people are being failed by a government that is destroying its economy through an obsessive pursuit of racial grievance against the Afrikaner minority,\" US Secretary of State Marco Rubio claimed.\n\"The United States will not allow such behavior to go unchecked,\" Rubio said. \"These actions directly undermine peace, economic stability and the rule of law, and they are incompatible with the pillars of America's foreign policy.\"\nThe US ambassador to South Africa said on social media on Wednesday that the visa restrictions were \"only the first step in a series of escalatory measures.\"\nRubio did not name anyone who would immediately be affected but said the restrictions would target people who promote \"race-based discrimination, incite violence or enable land confiscation without compensation in South Africa.\"\nSouth Africa: Discrimination claims based on misinformation\nSouth African President Cyril Ramaphosa says there is no evidence of discrimination against white people in his country and has called for global efforts to debunk false stories about white persecution.\nNevertheless, the Trump administration has continued to attack South Africa.\nIn 2025, Trump berated President Ramaphosa in the Oval Office over discredited claims of a \"white genocide\" in South Africa. He has also hit the country with high tariffs, boycotted a G20 summit in Johannesburg and launched a special program allowing thousands of white Afrikaners to settle in the United States.\nRelations between Washington and Pretoria have also nosedived over South Africa's genocide case against Israel at the International Court of Justice (ICJ), in which it accuses the US ally of war crimes and crimes against humanity in the Gaza Strip.\nEdited by: Natalie Muller",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "new visa restriction policy for South Africans amid continuing claims that the"
+    ],
+    [
+     "del",
+     "white,"
+    ],
+    [
+     "ins",
+     "country's white"
+    ],
+    [
+     "eq",
+     "Afrikaner minority"
+    ],
+    [
+     "del",
+     "in the African country"
+    ],
+    [
+     "eq",
+     "is suffering from \"race-based discrimination.\" US President Donald Trump's administration has criticized"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "behavior to go unchecked,\" Rubio said. \"These actions directly undermine peace, economic"
+    ],
+    [
+     "del",
+     "stability,"
+    ],
+    [
+     "ins",
+     "stability"
+    ],
+    [
+     "eq",
+     "and the rule of law, and they are incompatible with the pillars"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "first step in a series of escalatory measures.\" Rubio did not name"
+    ],
+    [
+     "del",
+     "any individuals to"
+    ],
+    [
+     "ins",
+     "anyone who would immediately"
+    ],
+    [
+     "eq",
+     "be"
+    ],
+    [
+     "del",
+     "immediately"
+    ],
+    [
+     "eq",
+     "affected"
+    ],
+    [
+     "del",
+     "by"
+    ],
+    [
+     "ins",
+     "but said"
+    ],
+    [
+     "eq",
+     "the restrictions"
+    ],
+    [
+     "del",
+     "but said they"
+    ],
+    [
+     "eq",
+     "would target"
+    ],
+    [
+     "del",
+     "those"
+    ],
+    [
+     "ins",
+     "people"
+    ],
+    [
+     "eq",
+     "who promote \"race-based discrimination, incite"
+    ],
+    [
+     "del",
+     "violence,"
+    ],
+    [
+     "ins",
+     "violence"
+    ],
+    [
+     "eq",
+     "or enable land confiscation without compensation in South Africa.\" South Africa: Discrimination"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.078,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9942,
+ "adjudicated_by": "rules"
+}

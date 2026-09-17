@@ -1,0 +1,216 @@
+{
+ "id": "03db5b07d41c80d6-770330a4-94997407",
+ "url": "https://www.theguardian.com/sport/2026/sep/16/number-of-sprint-races-increased-f1-2027-calendar",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-09-17T11:33:37Z",
+ "date": "2026-09-17",
+ "old_title": "F1 sprint races increase from six to 10 and Portugal and Turkey return in 2027 calendar",
+ "new_title": "F1 sprint races increase from six to 10 and Portugal and Turkey return in 2027 calendar",
+ "old_text": "Formula One has announced its calendar for 2027, with an increase in sprint races to 10 events, including at Monaco, and the addition of meetings in Portugal and Turkey.\nThe season of 24 races will open in Bahrain, while the British grand prix at Silverstone is to take place on the weekend of 2-4 July. All four races in the Middle East are scheduled to take place in their normal slots.\nThe sport also stated that as things stand this season the calendar remains the same, with the meetings in Qatar and Abu Dhabi still poised to close out the championship as the last two races. In April this year the Bahrain and Saudi Arabian grands prix were called off because of the war in the Middle East. The Bahrain race has been moved to Malaysia in October.\nF1 considers the sprint events to have been successful and popular with fans and has chosen to increase their frequency in 2027 from six to 10. Bahrain, Australia, Japan, Monaco and Abu Dhabi will host the short-form races for the first time, while the format will also return to Montreal, Silverstone, Monza, São Paulo and Lusail.\nThe season is due to open in Bahrain on 14 March and close in Abu Dhabi on 12 December, with Portugal and Turkey the two meetings making a return to the calendar. Portugal's meeting in Portimão is to be held on 20 June, with the circuit having last hosted F1 during the Covid pandemic in 2021. The Istanbul circuit in Turkey will make its comeback on 3 October, with it having also last hosted a race during the pandemic in 2021 but having held a regular meeting between 2005 and 2011.\nThe meeting in Barcelona, as was planned, is no longer included, as it is set to rotate hosting a race on alternate years with the Belgian GP at Spa, while the Dutch GP at Zandvoort was held for the last time this year.\nThere will be three triple-headers. Australia, Japan and China in April; then Azerbaijan, Turkey and Singapore in September-October, and the US, Mexico and Brazil in October-November. For the first time since it joined the calendar Las Vegas will not run back-to-back with Qatar and Abu Dhabi, in what was a gruelling finish to the season, unpopular with many teams. There will now be a one-week gap after the meeting in Nevada.\nAs things stand there has been no mention of contingency arrangements for alternatives to the races in the Middle East should they be necessary but it is understood F1 has already been considering options if required. For this season while the sport's position is to continue as planned in Qatar and Abu Dhabi, Imola is expected to be employed to host the season finale in December if they are cancelled.\nF1's CEO, Stefano Domenicali, believes the new calendar is representative of the sport's increasing global popularity. \"Formula One continues to go from strength-to-strength, attracting new audiences around the globe,\" he said. \"Week after week, the world's greatest drivers will battle on some of the most challenging tracks in motor sport, supported by F1's outstanding teams, world-class manufacturers, and global partners. Together, they create a spectacle unlike anything else in sport.\"",
+ "new_text": "Formula One has announced its calendar for 2027, which will see an increase in sprint races to 10 events, including at Monaco, and the addition of meetings in Portugal and Turkey.\nThe season of 24 races will open in Bahrain, while the British Grand Prix at Silverstone is to take place on the weekend of 2-4 July. All four races in the Middle East are scheduled to take place in their normal slots.\nThe sport also stated that as things stand this season the calendar remains the same, with the meetings in Qatar and Abu Dhabi still poised to close out the championship as the last two races. In April this year the Bahrain and Saudi Arabian grands prix were called off because of the war in the Middle East. The Bahrain race has been moved to Malaysia in October.\nF1 considers the sprint events to have been successful and popular with fans and has chosen to increase their number in 2027 from six to 10. Bahrain, Melbourne, Suzuka, Monaco and Abu Dhabi will host the short‐form races for the first time, while the format will also return to Montreal, Silverstone, Monza, São Paulo and Lusail.\nThe season is due to open in Bahrain on 14 March and close in Abu Dhabi on 12 December, with Portugal and Turkey the two meetings making a return to the calendar. Portugal's meeting in Portimão is to be held on 20 June, with the circuit having last hosted F1 during the Covid pandemic in 2021. The Istanbul circuit in Turkey will make its comeback on 3 October; it also last hosted a race during the pandemic in 2021 but held a regular meeting between 2005 and 2011.\nThe meeting in Barcelona, as was planned, is no longer included, as it is set to rotate hosting a race on alternate years with the Belgian GP at Spa, while the Dutch GP at Zandvoort was held for the last time this year.\nThere will be three triple-headers: Australia, Japan and China in April; then Azerbaijan, Turkey and Singapore in September-October; and the US, Mexico and Brazil in October‐November. For the first time since it joined the calendar Las Vegas will not run back-to-back with Qatar and Abu Dhabi, in what was a gruelling finish to the season, unpopular with many teams. There will now be a one-week gap after the meeting in Nevada.\nAs things stand there has been no mention of contingency arrangements for alternatives to the races in the Middle East should they be necessary but it is understood F1 has already been considering options if required. For this season, while the sport's position is to continue as planned in Qatar and Abu Dhabi, Imola is expected to be employed to host the season finale in December if they are cancelled.\nF1's CEO, Stefano Domenicali, believes the new calendar is representative of the sport's increasing global popularity. \"Formula One continues to go from strength-to-strength, attracting new audiences around the globe,\" he said. \"Week after week, the world's greatest drivers will battle on some of the most challenging tracks in motor sport, supported by F1's outstanding teams, world-class manufacturers, and global partners. Together, they create a spectacle unlike anything else in sport.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Formula One has announced its calendar for 2027,"
+    ],
+    [
+     "del",
+     "with"
+    ],
+    [
+     "ins",
+     "which will see"
+    ],
+    [
+     "eq",
+     "an increase in sprint races to 10 events, including at Monaco, and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "The season of 24 races will open in Bahrain, while the British"
+    ],
+    [
+     "del",
+     "grand prix"
+    ],
+    [
+     "ins",
+     "Grand Prix"
+    ],
+    [
+     "eq",
+     "at Silverstone is to take place on the weekend of 2-4 July."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "been successful and popular with fans and has chosen to increase their"
+    ],
+    [
+     "del",
+     "frequency"
+    ],
+    [
+     "ins",
+     "number"
+    ],
+    [
+     "eq",
+     "in 2027 from six to 10. Bahrain,"
+    ],
+    [
+     "del",
+     "Australia, Japan,"
+    ],
+    [
+     "ins",
+     "Melbourne, Suzuka,"
+    ],
+    [
+     "eq",
+     "Monaco and Abu Dhabi will host the"
+    ],
+    [
+     "del",
+     "short-form"
+    ],
+    [
+     "ins",
+     "short‐form"
+    ],
+    [
+     "eq",
+     "races for the first time, while the format will also return to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "2021. The Istanbul circuit in Turkey will make its comeback on 3"
+    ],
+    [
+     "del",
+     "October, with"
+    ],
+    [
+     "ins",
+     "October;"
+    ],
+    [
+     "eq",
+     "it"
+    ],
+    [
+     "del",
+     "having"
+    ],
+    [
+     "eq",
+     "also last hosted a race during the pandemic in 2021 but"
+    ],
+    [
+     "del",
+     "having"
+    ],
+    [
+     "eq",
+     "held a regular meeting between 2005 and 2011. The meeting in Barcelona,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "was held for the last time this year. There will be three"
+    ],
+    [
+     "del",
+     "triple-headers."
+    ],
+    [
+     "ins",
+     "triple-headers:"
+    ],
+    [
+     "eq",
+     "Australia, Japan and China in April; then Azerbaijan, Turkey and Singapore in"
+    ],
+    [
+     "del",
+     "September-October,"
+    ],
+    [
+     "ins",
+     "September-October;"
+    ],
+    [
+     "eq",
+     "and the US, Mexico and Brazil in"
+    ],
+    [
+     "del",
+     "October-November."
+    ],
+    [
+     "ins",
+     "October‐November."
+    ],
+    [
+     "eq",
+     "For the first time since it joined the calendar Las Vegas will"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "is understood F1 has already been considering options if required. For this"
+    ],
+    [
+     "del",
+     "season"
+    ],
+    [
+     "ins",
+     "season,"
+    ],
+    [
+     "eq",
+     "while the sport's position is to continue as planned in Qatar and"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0538,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9972,
+ "adjudicated_by": "rules"
+}

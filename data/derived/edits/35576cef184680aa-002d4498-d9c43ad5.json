@@ -1,0 +1,128 @@
+{
+ "id": "35576cef184680aa-002d4498-d9c43ad5",
+ "url": "https://www.independent.co.uk/sport/football/mbappe-vinicius-jr-ceuta-tshirt-real-madrid-elche-b3051156.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-17T11:26:02Z",
+ "date": "2026-09-17",
+ "old_title": "Real Madrid defend Kylian Mbappe and Vinicius Jr after Ceuta t-shirt controversy",
+ "new_title": "Real Madrid defend Kylian Mbappe and Vinicius Jr after Ceuta t-shirt controversy",
+ "old_text": "Real Madrid have supported their squad's right to express differing views after forwards Kylian Mbappe and Vinicius Jr covered up a display of solidarity with the people of Ceuta prior to Tuesday's La Liga game against Elche.\nBoth teams entered the pitch wearing t-shirts bearing the words \"Todos somos caballas\" (\"We are all mackerels\"), referencing a nickname for inhabitants of the Spanish territory of Ceuta.\nHowever, Mbappe and Vinicius hitched their shirts up to chest level, rendering the slogan unreadable, before removing them completely as they left the tunnel. Teammate Ibrahima Konate chose simply to carry his shirt in his hands.\nThis act of support follows more than 70,000 irregular crossings into Ceuta from Morocco recorded during July, which triggered solidarity movements across Spain.\nA representative from Real Madrid informed Reuters that while the club agreed to Elche's request to wear the shirts in solidarity, as an organisation they respect individual opinions and gave players the freedom to decide whether to participate.\nReal previously staged a tifo display in their singing section during last Tuesday's Champions League match against Inter Milan, where supporters held up placards depicting the Ceuta flag.\nThe garment initiative was backed by the Valencian Business Association, though Barcelona opted against wearing the shirts during Sunday's fixture against Levante.\nOn Monday, Moroccan international Ez Abde was targeted with abusive social media posts after wearing the top ahead of Real Betis' game against Villarreal.\nAbde issued a statement asserting he would not apologise, explaining the message supported a community and social cause rather than carrying political intent.\nReal Madrid went on to win Tuesday's match as they edged a five-goal thriller thanks to a stoppage-time winner.\nJose Mourinho's men had been appeared on course for a comfortable victory after moving into a two-goal lead following a Matias Dituro own goal and an Mbappe strike.\nHowever, Elche got back on level terms with seven minutes remaining thanks to goals from Abiel Osorio and Fer Nino.\nIt was left to Carlos Espi to rescue a hard-earned win for Real Madrid, as he tapped home into an empty net after an unselfish pass from Mbappe.",
+ "new_text": "Real Madrid have supported their squad's right to express differing views after forwards Kylian Mbappe and Vinicius Jr covered up a display of solidarity with the people of Ceuta prior to Tuesday's La Liga game against Elche.\nBoth teams entered the pitch wearing t-shirts bearing the words \"Todos somos caballas\" (\"We are all mackerels\"), referencing a nickname for inhabitants of the Spanish territory of Ceuta, which shares a border with Morocco in North Africa.\nHowever, Mbappe and Vinicius hitched their shirts up to chest level, rendering the slogan unreadable, before removing them completely as they left the tunnel. Teammate Ibrahima Konate chose simply to carry his shirt in his hands.\nThis act of support follows more than 70,000 irregular crossings into Ceuta from Morocco recorded during July, which triggered solidarity movements across Spain.\nA Real Madrid official said the club accepted Elche's request to display solidarity by wearing the shirts, while also underlining their desire to accept differing opinions, with players afforded the chance to wear the t-shirt or not.\nReal previously staged a tifo display in their singing section during last Tuesday's Champions League match against Inter Milan, where supporters held up placards depicting the Ceuta flag.\nThe garment initiative was backed by the Valencian Business Association, though Barcelona opted against wearing the shirts during Sunday's fixture against Levante.\nOn Monday, Moroccan international Ez Abde was targeted with abusive social media posts after wearing the top ahead of Real Betis' game against Villarreal.\nAbde issued a statement asserting he would not apologise, explaining the message supported a community and social cause rather than carrying political intent.\n\"At no point was the shirt referring to the people of Ceuta used with a political purpose or as a sign of disrespect toward my people, the Moroccan people,\" Abde said on Instagram.\n\"It was a shirt with a social purpose, intended to support a community. That said, this is not an apology to anyone, and anyone who wishes to use this to question my love for my country is free to do so. I will continue to live each day with my head held high.\"\nReal Madrid went on to win Tuesday's match as they edged a five-goal thriller thanks to a stoppage-time winner.\nJose Mourinho's men had been appeared on course for a comfortable victory after moving into a two-goal lead following a Matias Dituro own goal and an Mbappe strike.\nHowever, Elche got back on level terms with seven minutes remaining thanks to goals from Abiel Osorio and Fer Nino.\nIt was left to Carlos Espi to rescue a hard-earned win for Real Madrid, as he tapped home into an empty net after an unselfish pass from Mbappe.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "all mackerels\"), referencing a nickname for inhabitants of the Spanish territory of"
+    ],
+    [
+     "del",
+     "Ceuta."
+    ],
+    [
+     "ins",
+     "Ceuta, which shares a border with Morocco in North Africa."
+    ],
+    [
+     "eq",
+     "However, Mbappe and Vinicius hitched their shirts up to chest level, rendering"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "from Morocco recorded during July, which triggered solidarity movements across Spain. A"
+    ],
+    [
+     "del",
+     "representative from"
+    ],
+    [
+     "eq",
+     "Real Madrid"
+    ],
+    [
+     "del",
+     "informed Reuters that while"
+    ],
+    [
+     "ins",
+     "official said"
+    ],
+    [
+     "eq",
+     "the club"
+    ],
+    [
+     "del",
+     "agreed to"
+    ],
+    [
+     "ins",
+     "accepted"
+    ],
+    [
+     "eq",
+     "Elche's request to"
+    ],
+    [
+     "ins",
+     "display solidarity by wearing the shirts, while also underlining their desire to accept differing opinions, with players afforded the chance to"
+    ],
+    [
+     "eq",
+     "wear the"
+    ],
+    [
+     "del",
+     "shirts in solidarity, as an organisation they respect individual opinions and gave players the freedom to decide whether to participate."
+    ],
+    [
+     "ins",
+     "t-shirt or not."
+    ],
+    [
+     "eq",
+     "Real previously staged a tifo display in their singing section during last"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "message supported a community and social cause rather than carrying political intent."
+    ],
+    [
+     "ins",
+     "\"At no point was the shirt referring to the people of Ceuta used with a political purpose or as a sign of disrespect toward my people, the Moroccan people,\" Abde said on Instagram. \"It was a shirt with a social purpose, intended to support a community. That said, this is not an apology to anyone, and anyone who wishes to use this to question my love for my country is free to do so. I will continue to live each day with my head held high.\""
+    ],
+    [
+     "eq",
+     "Real Madrid went on to win Tuesday's match as they edged a"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4294,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 0.9846,
+ "adjudicated_by": "rules"
+}

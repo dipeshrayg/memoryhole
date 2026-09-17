@@ -1,0 +1,52 @@
+{
+ "id": "f036cbff4131ef18-dd2a77a5-a7fce071",
+ "url": "https://www.independent.co.uk/sport/football/enzo-maresca-erling-haaland-manchester-derby-goal-b3051139.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-17T11:26:00Z",
+ "date": "2026-09-17",
+ "old_title": "Maresca laments focus on Haaland's controversial derby goal as 'quite poor'",
+ "new_title": "Maresca laments focus on Haaland's controversial derby goal as 'quite poor'",
+ "old_text": "Manchester City boss Enzo Maresca has described the focus on Erling Haaland's controversial winner in last weekend's Manchester derby as \"quite poor\" after his side put in an \"unbelievable\" performance.\nCity were down to 10 men after an early red card for Phil Foden, who was sent off for kicking out at Bruno Fernandes, but more of the attention post-game was on Haaland's winner as they held on for a 1-0 result.\nRefereeing body Pro Ref later admitted there was an \"error of judgement\" made in allowing the Norwegian's goal to stand despite teammate Enzo Fernandez being offside and interfering with play as he lunged for the ball. The incident has once again put VAR under the spotlight and resulted in fierce criticism of the technology and the officials responsible for the mistake.\nMaresca expressed some sympathy for the officials, however, saying on Wednesday: \"It's not easy for the VAR and the people in front of the screen. To make a decision in 10, 20 seconds is not easy for them. Sometimes they make mistakes. I make mistakes, players make mistakes. It's part of our job.\n\"It's also complicated for them... There is knowledge that there was a mistake and that's all.\"\nHe drew a comparison to another Manchester derby at Old Trafford; in January 2023 United won 2-1 with Fernandes scoring an equaliser despite teammate Marcus Rashford being in an offside position. City argued that Rashford had interfered with play despite not touching the ball, but their protests were in vain.\nMaresca said: \"Three years ago when I was here it happened the exact same against Manchester United. The goal was not a regular goal and no one apologised. We are still waiting for the apology for that.\n\"Sometimes it goes for you, sometimes against you. It's football.\"\nSpeaking ahead of City's League Cup tie against Norwich on Thursday, the former Chelsea boss tried to put the focus back on how City held out for a win despite playing the majority of the game with 10 men.\nHe said: \"To talk about one moment after that game when we played for 70, 75 minutes with 10 players is quite poor. I think the performance was unbelievable and I'm pleased.\n\"Tomorrow night, it's another competition but the ambition is the same. There is no VAR but we don't plan the game in a different way.\"\nHe conceded that Foden's suspension was a major blow and that the England international \"knows that the reaction was probably not a good one but it is finished and we move on\".\nAsked if the club intended to appeal his red card, Maresca said: \"We didn't speak about it, to be honest. I don't know.\"\nHe also said he would rotate his squad for the Norwich game, and confirmed that academy players Ryan McAidoo, Kaden Braithwaite and Floyd Samba, among others, would be involved.",
+ "new_text": "Manchester City boss Enzo Maresca has described the focus on Erling Haaland's controversial winner in last weekend's Manchester derby as \"quite poor\" after his side put in an \"unbelievable\" performance.\nCity were down to 10 men after an early red card for Phil Foden, who was sent off for kicking out at Bruno Fernandes, but more of the attention post-game was on Haaland's winner as they held on for a 1-0 result.\nRefereeing body Pro Ref later admitted there was an \"error of judgement\" made in allowing the Norwegian's goal to stand despite teammate Enzo Fernandez being offside and interfering with play as he lunged for the ball. The incident has once again put VAR under the spotlight and resulted in fierce criticism of the technology and the officials responsible for the mistake.\nMaresca expressed some sympathy for the officials, however, saying on Wednesday: \"It's not easy for the VAR and the people in front of the screen. To make a decision in 10, 20 seconds is not easy for them. Sometimes they make mistakes. I make mistakes, players make mistakes. It's part of our job.\n\"It's also complicated for them... There is knowledge that there was a mistake and that's all.\"\nHe drew a comparison to another Manchester derby at Old Trafford, when he worked as assistant to former City boss Pep Guardiola. In January 2023 United won 2-1 with Fernandes scoring an equaliser despite teammate Marcus Rashford being in an offside position. City argued that Rashford had interfered with play despite not touching the ball, but their protests were in vain.\nMaresca said: \"Three years ago when I was here it happened the exact same against Manchester United. The goal was not a regular goal and no one apologised. We are still waiting for the apology for that.\n\"Sometimes it goes for you, sometimes against you. It's football.\"\nSpeaking ahead of City's League Cup tie against Norwich on Thursday, the former Chelsea boss tried to put the focus back on how City held out for a win despite playing the majority of the game with 10 men.\nHe said: \"To talk about one moment after that game when we played for 70, 75 minutes with 10 players is quite poor. I think the performance was unbelievable and I'm pleased.\n\"Tomorrow night, it's another competition but the ambition is the same. There is no VAR but we don't plan the game in a different way.\"\nHe conceded that Foden's suspension was a major blow and that the England international \"knows that the reaction was probably not a good one but it is finished and we move on\".\nAsked if the club intended to appeal his red card, Maresca said: \"We didn't speak about it, to be honest. I don't know.\"\nHe also said he would rotate his squad for the Norwich game, and confirmed that academy players Ryan McAidoo, Kaden Braithwaite and Floyd Samba, among others, would be involved.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "that's all.\" He drew a comparison to another Manchester derby at Old"
+    ],
+    [
+     "del",
+     "Trafford; in"
+    ],
+    [
+     "ins",
+     "Trafford, when he worked as assistant to former City boss Pep Guardiola. In"
+    ],
+    [
+     "eq",
+     "January 2023 United won 2-1 with Fernandes scoring an equaliser despite teammate"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0313,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}
