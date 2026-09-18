@@ -1,0 +1,102 @@
+{
+ "id": "bf92db686141c098-976221e6-b78656af",
+ "url": "https://www.abc.net.au/news/2026-09-17/woman-arrested-after-baby-found-dead-in-sydney-bin/107166370",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-18T11:00:08Z",
+ "date": "2026-09-18",
+ "old_title": "Woman arrested after baby found dead in Sydney bin",
+ "new_title": "Woman charged after baby found dead in Sydney bin",
+ "old_text": "Police arrest woman believed to be mother of baby found dead in Sydney bin\nIn short:\nA woman believed to be the mother of a baby found dead in a Sydney bin last month has been arrested.\nIn a statement, police said she was taken to hospital for assessment and arrested after she was released.\nShe has been taken to Auburn Police Station, where inquiries are ongoing.",
+ "new_text": "Police charge woman believed to be mother of baby found dead in Sydney bin\nIn short:\nA woman believed to be the mother of a baby found dead in a Sydney bin last month has been charged with mother alone conceal birth by disposing body.\nIn a statement, police said she was taken to hospital for assessment and arrested after she was released.\nWhat's next?\nShe is due to appear in court on October 27.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Police"
+    ],
+    [
+     "del",
+     "arrest"
+    ],
+    [
+     "ins",
+     "charge"
+    ],
+    [
+     "eq",
+     "woman believed to be mother of baby found dead in Sydney bin"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "a baby found dead in a Sydney bin last month has been"
+    ],
+    [
+     "del",
+     "arrested."
+    ],
+    [
+     "ins",
+     "charged with mother alone conceal birth by disposing body."
+    ],
+    [
+     "eq",
+     "In a statement, police said she was taken to hospital for assessment and arrested after she was released."
+    ],
+    [
+     "ins",
+     "What's next?"
+    ],
+    [
+     "eq",
+     "She"
+    ],
+    [
+     "del",
+     "has been taken"
+    ],
+    [
+     "ins",
+     "is due"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "Auburn Police Station, where inquiries are ongoing."
+    ],
+    [
+     "ins",
+     "appear in court on October 27."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4776,
+  "numbers_changed": [
+   "27"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.031,
+ "similarity": 0.9149,
+ "adjudicated_by": "rules"
+}

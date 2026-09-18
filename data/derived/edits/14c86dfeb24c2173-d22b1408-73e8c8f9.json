@@ -1,0 +1,56 @@
+{
+ "id": "14c86dfeb24c2173-d22b1408-73e8c8f9",
+ "url": "https://www.abc.net.au/news/2026-09-17/murder-charge-over-railton-assault-death/107166380",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-18T11:00:10Z",
+ "date": "2026-09-18",
+ "old_title": "Man charged with murder after alleged assault in Tasmania's north",
+ "new_title": "Man charged with murder after alleged assault in Tasmania's north",
+ "old_text": "A 42-year-old man has been charged with murder after allegedly assaulting a man at a house in Tasmania's north.\nTasmania Police said shortly after 8.30am on Wednesday, emergency services attended a private residence following reports that a man had been assaulted at Railton, south of Devonport.\nThe alleged offender had left the scene and was arrested at a nearby location a short time later, police said in a statement.\nPolice said the victim and offender were known to each other, and there was no ongoing threat to the wider community.\nOn Thursday night, police said the Tarleton man had been charged with murder after the 48-year-old victim, a man from Railton, died at the Royal Hobart Hospital.\nThe man was set to appear in the Devonport Magistrates Court on Thursday night.",
+ "new_text": "A 42-year-old man has been charged with murder after allegedly assaulting a man at a house in Tasmania's north.\nTasmania Police said shortly after 8.30am on Wednesday, emergency services attended a private residence following reports that a man had been assaulted at Railton, south of Devonport.\nThe alleged offender had left the scene and was arrested at a nearby location a short time later, police said in a statement.\nPolice said the victim and offender were known to each other, and there was no ongoing threat to the wider community.\nOn Thursday night, police said the Tarleton man had been charged with murder after the 48-year-old victim, a man from Railton, died at the Royal Hobart Hospital.\nThe man appeared in the Devonport Magistrates Court on Thursday night.\nHe will re-appear in court on Friday afternoon.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "a man from Railton, died at the Royal Hobart Hospital. The man"
+    ],
+    [
+     "del",
+     "was set to appear"
+    ],
+    [
+     "ins",
+     "appeared"
+    ],
+    [
+     "eq",
+     "in the Devonport Magistrates Court on Thursday night."
+    ],
+    [
+     "ins",
+     "He will re-appear in court on Friday afternoon."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0992,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9953,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,118 @@
+{
+ "id": "1053990ab1e26863-531cb775-1b2a9978",
+ "url": "https://www.bbc.co.uk/sport/tennis/articles/c617j8qdk2v8o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-09-18T11:08:59Z",
+ "date": "2026-09-18",
+ "old_title": "Six-time Grand Slam champion Joe Salisbury retires",
+ "new_title": "Six-time Grand Slam champion Joe Salisbury retires",
+ "old_text": "- Published\nFormer world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis.\nSalisbury chose this month's US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire.\nThe venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men's doubles titles.\nSalisbury is Britain's most successful men's doubles player of the Open Era. He also won the 2020 Australian Open with Ram, and two mixed doubles titles with Desirae Krawczyk.\nThe 34-year-old says he has been thinking about his future for a while, and is now \"very happy with the decision\".\n\"Tennis has been my life for as long as I can remember and I have been incredibly fortunate to have had all the opportunities, experiences and success that I have,\" he posted on Instagram.\n\"To be able to travel the world and call playing tennis my job has been a dream come true and I never believed I could have lived the life and had the career that I have.\n\"I gave it my all and know I can be proud and look back with no regrets.\"\nSalisbury took a three month break at the start of this year, having told BBC Sport about the anxiety which had been affecting him on tour.\nWhile he did not think it affected his tennis very much, he said it left him with a \"feeling of dread\" which made life on the road far less enjoyable.\nSalisbury finishes his career with 17 tour level titles, including the season ending ATP Finals of 2022 and 2023.",
+ "new_text": "- Published\nFormer world number one doubles player and six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis.\nLondoner Salisbury chose this month's US Open as his final event and reached the semi-finals with his long-time partner Rajeev Ram, who had also decided to retire.\nThe venue was fitting, as in 2023 Salisbury and Ram became the first pair in history to win three consecutive US Open men's doubles titles.\nSalisbury is Britain's most successful men's doubles player of the Open era. He also won the 2020 Australian Open with Ram, and two mixed doubles titles with Desirae Krawczyk.\nThe 34-year-old says he has been thinking about his future for a while, and is now \"very happy with the decision\".\n\"Tennis has been my life for as long as I can remember and I have been incredibly fortunate to have had all the opportunities, experiences and success that I have,\" he posted on Instagram.\n\"To be able to travel the world and call playing tennis my job has been a dream come true and I never believed I could have lived the life and had the career that I have.\n\"I gave it my all and know I can be proud and look back with no regrets.\"\nSalisbury took a three-month break at the start of this year, having told BBC Sport about the anxiety which had been affecting him on tour.\nWhile he did not think it affected his tennis very much, he said it left him with a \"feeling of dread\" which made life on the road far less enjoyable.\n\"I had some time off for a few months earlier on in the year - I wasn't really enjoying being on tour for a few reasons,\" he told BBC Radio 5 Live.\n\"I came back and I didn't really have a successful year. Then I teamed back up with my partner, Rajeev Ram, who I had all my success in Grand Slam titles [with] so it was great playing with him again and he was retiring at the US Open this year.\n\"I thought I could go on [until the] end of this year, maybe next year but I felt like it was nice to finish my career playing with him at the US Open where we had our success, and we had a good run making the semi-finals to finish.\"\nSalisbury finishes his career with 17 tour level titles, including the season-ending ATP Finals of 2022 and 2023.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "six-time Grand Slam doubles champion Joe Salisbury has retired from professional tennis."
+    ],
+    [
+     "ins",
+     "Londoner"
+    ],
+    [
+     "eq",
+     "Salisbury chose this month's US Open as his final event and reached"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "titles. Salisbury is Britain's most successful men's doubles player of the Open"
+    ],
+    [
+     "del",
+     "Era."
+    ],
+    [
+     "ins",
+     "era."
+    ],
+    [
+     "eq",
+     "He also won the 2020 Australian Open with Ram, and two mixed"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "can be proud and look back with no regrets.\" Salisbury took a"
+    ],
+    [
+     "del",
+     "three month"
+    ],
+    [
+     "ins",
+     "three-month"
+    ],
+    [
+     "eq",
+     "break at the start of this year, having told BBC Sport about"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "\"feeling of dread\" which made life on the road far less enjoyable."
+    ],
+    [
+     "ins",
+     "\"I had some time off for a few months earlier on in the year - I wasn't really enjoying being on tour for a few reasons,\" he told BBC Radio 5 Live. \"I came back and I didn't really have a successful year. Then I teamed back up with my partner, Rajeev Ram, who I had all my success in Grand Slam titles [with] so it was great playing with him again and he was retiring at the US Open this year. \"I thought I could go on [until the] end of this year, maybe next year but I felt like it was nice to finish my career playing with him at the US Open where we had our success, and we had a good run making the semi-finals to finish.\""
+    ],
+    [
+     "eq",
+     "Salisbury finishes his career with 17 tour level titles, including the"
+    ],
+    [
+     "del",
+     "season ending"
+    ],
+    [
+     "ins",
+     "season-ending"
+    ],
+    [
+     "eq",
+     "ATP Finals of 2022 and 2023."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.493,
+  "numbers_changed": [
+   "5"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.988,
+ "adjudicated_by": "rules"
+}

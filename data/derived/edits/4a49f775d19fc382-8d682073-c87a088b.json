@@ -1,0 +1,76 @@
+{
+ "id": "4a49f775d19fc382-8d682073-c87a088b",
+ "url": "https://variety.com/2026/gaming/news/physint-bill-skarsgard-hideo-kojima-xbox-game-1236865279/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-09-18T11:14:55Z",
+ "date": "2026-09-18",
+ "old_title": "Bill Skarsgard to Star in Hideo Kojima's 'Physint' Video Game From Xbox",
+ "new_title": "Bill Skarsgard to Star in Hideo Kojima's 'Physint' Video Game From Xbox",
+ "old_text": "Bill Skarsgård will star as the lead in Hideo Kojima's upcoming action-espionage video game \"Physint.\"\nThe casting news comes on the heels of last week's announcement that \"Physint\" would now be published by Xbox after being scrapped at Kojima Productions' longtime partner publisher, PlayStation.\nKojima (the creator of the \"Death Stranding\" and \"Metal Gear\" video game franchises) was already working with Xbox to publish \"OD,\" his next planned release before \"Physint.\" The title is a horror game made in collaboration with Jordan Peele which features a cast including Sophia Lillis and Hunter Schafer.\nPopular on Variety\nPer Kojima Productions, \"'Physint' is the third original IP from Kojima Productions and has been described by Hideo Kojima as the culmination of his 40-year career as a video game creator. With the full support of Xbox, Physint' will use cutting-edge technology and a stellar cast to create a game experience like no other, with the aim of setting a new benchmark for the action-espionage genre.\"\nFor \"Physint,\" Skarsgård joins a cast that also includes previously announced stars Charlee Fraser, Don Lee and Minami Hamabe.\n\"I'm delighted to confirm the lead role for 'Physint' will be Bill Skarsgård,\" Kojima said while announcing the casting news Thursday during the Xbox Tokyo Game Show 2026 Broadcast. \"We are both long-time fans of each other's work, and we've decided to embark on this new adventure together. The costume fittings, scans, and camera tests we conducted with Bill and Charlee earlier this year gave me tremendous confidence in the direction of the project.\"\nBest known for his performance as Pennywise in Warner Bros. \"It\" film and TV franchise, Skarsgård was most recently seen in Gus Van Sant's \"Dead Man's Wire.\" He'll next star in Peter Bergs's \"The Mosquito Bowl\" and Andrew Niccol's \"Lords of War\" opposite Nicolas Cage. Earlier this year, Skarsgård was featured in \"The Death of Robin Hood\" along with Hugh Jackman and Jodie Comer.\nWatch Kojima's announcement in the video below, followed by the new \"Physint\" key art featuring Skarsgård and Fraser.",
+ "new_text": "Bill Skarsgård will star as the lead in Hideo Kojima's upcoming action-espionage video game \"Physint.\"\nThe casting news comes on the heels of last week's announcement that \"Physint\" would now be published by Xbox after being scrapped at Kojima Productions' longtime partner publisher PlayStation.\nXbox and Kojima Productions have said this expansion of their working relationship will \"extend beyond games, with Xbox and Kojima Productions collaborating across film and television to bring new stories to broader audiences.\"\nPopular on Variety\nKojima (the creator of the \"Death Stranding\" and \"Metal Gear\" video game franchises) was already working with Xbox to publish \"OD,\" his next planned release before \"Physint.\" The title is a horror game made in collaboration with Jordan Peele which features a cast including Sophia Lillis and Hunter Schafer.\nPer Kojima Productions, \"'Physint' is the third original IP from Kojima Productions and has been described by Hideo Kojima as the culmination of his 40-year career as a video game creator. With the full support of Xbox, Physint' will use cutting-edge technology and a stellar cast to create a game experience like no other, with the aim of setting a new benchmark for the action-espionage genre.\"\nFor \"Physint,\" Skarsgård joins a cast that also includes previously announced stars Charlee Fraser, Don Lee and Minami Hamabe.\n\"I'm delighted to confirm the lead role for 'Physint' will be Bill Skarsgård,\" Kojima said while announcing the casting news Thursday during the Xbox Tokyo Game Show 2026 Broadcast. \"We are both long-time fans of each other's work, and we've decided to embark on this new adventure together. The costume fittings, scans, and camera tests we conducted with Bill and Charlee earlier this year gave me tremendous confidence in the direction of the project.\"\nBest known for his performance as Pennywise in Warner Bros. \"It\" film and TV franchise, Skarsgård was most recently seen in Gus Van Sant's \"Dead Man's Wire.\" He'll next star in Peter Bergs's \"The Mosquito Bowl\" and Andrew Niccol's \"Lords of War\" opposite Nicolas Cage. Earlier this year, Skarsgård was featured in \"The Death of Robin Hood\" along with Hugh Jackman and Jodie Comer.\nWatch Kojima's announcement in the video below, followed by the new \"Physint\" key art featuring Skarsgård and Fraser.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "be published by Xbox after being scrapped at Kojima Productions' longtime partner"
+    ],
+    [
+     "del",
+     "publisher,"
+    ],
+    [
+     "ins",
+     "publisher"
+    ],
+    [
+     "eq",
+     "PlayStation."
+    ],
+    [
+     "ins",
+     "Xbox and Kojima Productions have said this expansion of their working relationship will \"extend beyond games, with Xbox and Kojima Productions collaborating across film and television to bring new stories to broader audiences.\" Popular on Variety"
+    ],
+    [
+     "eq",
+     "Kojima (the creator of the \"Death Stranding\" and \"Metal Gear\" video game"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Jordan Peele which features a cast including Sophia Lillis and Hunter Schafer."
+    ],
+    [
+     "del",
+     "Popular on Variety"
+    ],
+    [
+     "eq",
+     "Per Kojima Productions, \"'Physint' is the third original IP from Kojima Productions"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1217,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 0.9783,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "9d0cf4253de8f2a0-f4b106a3-d26e9491",
+ "url": "https://www.independent.co.uk/bulletin/news/snp-plaid-cymru-sinn-fein-independence-referendums-b3049776.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-18T11:00:47Z",
+ "date": "2026-09-18",
+ "old_title": "Could Burnham be Britain's last prime minister? The UK's devolved leaders think so",
+ "new_title": "Could Burnham be Britain's last prime minister? The UK's devolved leaders think so",
+ "old_text": "Could Andy Burnham be Britain's last ever prime minister? The UK's devolved leaders think so\n- Leaders from the SNP, Plaid Cymru and Sinn Féin have signed a joint agreement in Cardiff pressuring Downing Street to permit independence referendums.\n- Scottish First Minister John Swinney declared Prime Minister Andy Burnham would be the last UK leader, calling for a referendum within five years.\n- The signed memorandum asserts that Westminster's control is ending and demands the British government prepare for constitutional change.\n- Downing Street rejected the pact, stating prime minister Andy Burnham is focused on the cost-of-living crisis rather than constitutional debates.\n- Sinn Féin vice president Michelle O'Neill highlighted comments by Donald Trump supporting a united Ireland as evidence of momentum for change.",
+ "new_text": "Could Andy Burnham be Britain's last ever prime minister? The UK's devolved leaders think so\n- Leaders from the SNP, Plaid Cymru and Sinn Féin have signed a joint agreement in Cardiff pressuring Downing Street to permit independence referendums.\n- Scottish First Minister John Swinney declared Prime Minister Andy Burnham would be the last UK leader, calling for a referendum within five years.\n- The signed memorandum asserts that Westminster's control is ending and demands the British government prepare for constitutional change.\n- Downing Street rejected the pact, stating prime minister Andy Burnham is focused on the cost-of-living crisis rather than constitutional debates.\n- Sinn Féin vice president Michelle O'Neill highlighted comments by Donald Trump supporting a united Ireland as evidence of momentum for change.\nMore bulletins",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Donald Trump supporting a united Ireland as evidence of momentum for change."
+    ],
+    [
+     "ins",
+     "More bulletins"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.016,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9927,
+ "adjudicated_by": "rules"
+}

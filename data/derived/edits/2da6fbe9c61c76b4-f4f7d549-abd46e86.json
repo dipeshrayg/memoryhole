@@ -1,0 +1,142 @@
+{
+ "id": "2da6fbe9c61c76b4-f4f7d549-abd46e86",
+ "url": "https://www.bbc.co.uk/news/articles/cqzrz03pvd43o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-18T10:54:41Z",
+ "date": "2026-09-18",
+ "old_title": "Brantham showed love and positivity in search for Noah Woods - rector",
+ "new_title": "Brantham showed positivity in search for Noah Woods, says rector",
+ "old_text": "- Published\nThe love shown by a community who rallied to search for missing three-year-old Noah Woods was a \"thread of positivity\" amongst the tragedy, a rector has said.\nNoah disappeared from a playground in Brantham, Suffolk, at about 15:00 BST on Tuesday after becoming separated from a relative.\nAt least 1,300 people helped to try to find him in the following 24 hours, before a child's body was discovered on Wednesday afternoon at a nearby pond.\nThe Reverend Chris Willis said: \"Everybody was as one... what we saw throughout was a real coming together of people and a willingness to work together which, in spite of the deep sadness, was a thread of real positivity seeing how people cared.\"\nAbout 100 bunches of flowers have been left at the playground where he was last seen and more than Â£21,000 has been donated to a fundraiser to support his family.\nWillis, parish rector of St Michael's Church in Brantham, said he had \"never seen anything like\" the outpouring of support.\n\"I was moved, overwhelmed and staggered actually that people were coming from far and wide,\" he said.\n\"It was hundreds, even into the thousands, coming together with one deep, common concern to find a little boy, who longed to find a happy ending for him and his family.\n\"Sadly, very sadly that wasn't to be.\"\nPeople from as far afield as Birmingham and Hampshire had turned up to help find Noah, who was from East Bergholt.\nHelicopters, dog units and members of the public had been scouring the area, close to the River Stour on the Essex border.\nWillis said it was \"devastating\" when news came that a body had been found.\n\"It was a moment of, in one sense, the news that you don't want to hear and obviously, as time went on, it was the news we feared the most,\" he said.\n\"Then immediately, while we all feel that deeply, we've got to then be thinking of Noah's family for whom it is incomprehensible.\"\nWillis said Brantham would pull together, as it had after a previous tragedy.\nIn 2024 Anita Rose was murdered while walking her dog on a footpath in the village.\n\"This is a community that knows tragedy and has had to contend with tragedy in recent years,\" he said.\n\"All I can say, unequivocally, is this is a community that has been amazingly positive. [It] has dealt with the pain of loss and I have no doubt we'll pull together.\n\"There was a love shown, that was my first impression, and I hope and believe we'll see that continue.\"\nDo you have a story suggestion for Suffolk? Contact us below.",
+ "new_text": "- Published\nThe love shown by a community who rallied to search for missing three-year-old Noah Woods was a \"thread of positivity\" amongst the tragedy, a rector has said.\nNoah disappeared from a playground in Brantham, Suffolk, at about 15:00 BST on Tuesday after becoming separated from a relative.\nAt least 1,300 people helped to try to find him in the following 24 hours, before a child's body was discovered on Wednesday afternoon at a nearby pond. Police confirmed on Thursday the body had been identified as Noah's.\n\"Everybody was as one,\" said the Reverend Chris Willis.\n\"What we saw throughout was a real coming together of people and a willingness to work together which, in spite of the deep sadness, was a thread of real positivity seeing how people cared.\"\nAbout 100 bunches of flowers have been left at the playground where he was last seen and more than Â£21,000 has been donated to a fundraiser to support his family.\nWillis, parish rector of St Michael's Church in Brantham, said he had \"never seen anything like\" the outpouring of support.\n\"I was moved, overwhelmed and staggered actually that people were coming from far and wide,\" he said.\n\"It was hundreds, even into the thousands, coming together with one deep, common concern to find a little boy, who longed to find a happy ending for him and his family.\n\"Sadly, very sadly that wasn't to be.\"\nPeople from as far afield as Birmingham and Hampshire had turned up to help find Noah, who was from East Bergholt.\nHelicopters, dog units and members of the public had been scouring the area, close to the River Stour on the Essex border.\nWillis said it was \"devastating\" when news came that a body had been found.\n\"It was a moment of, in one sense, the news that you don't want to hear and obviously, as time went on, it was the news we feared the most,\" he said.\n\"Then immediately, while we all feel that deeply, we've got to then be thinking of Noah's family for whom it is incomprehensible.\"\nWillis said Brantham would pull together, as it had after a previous tragedy.\nIn 2024, Anita Rose was murdered while walking her dog on a footpath in the village.\n\"This is a community that knows tragedy and has had to contend with tragedy in recent years,\" he said.\n\"This is a community that has been amazingly positive. [It] has dealt with the pain of loss and I have no doubt we'll pull together.\"\nSuffolk Police said Noah's death was not being treated as suspicious but officers still had inquiries to complete before submitting a file for the coroner.\nSupt Tom Pearse thanked everyone who provided help and support \"over an intense 24-hour period\", including officers and police staff, emergency services colleagues and volunteers from Suffolk Lowland Search and Rescue.\n\"I cannot pay tribute enough to the response from the local community and people who travelled from further afield to assist with the search for Noah,\" he added.\n\"This was a case where the people of Suffolk rallied together and showed the county at its best in what transpired to be the most tragic of circumstances.\"\nDo you have a story suggestion for Suffolk? Contact us below.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "a child's body was discovered on Wednesday afternoon at a nearby pond."
+    ],
+    [
+     "del",
+     "The Reverend Chris Willis said:"
+    ],
+    [
+     "ins",
+     "Police confirmed on Thursday the body had been identified as Noah's."
+    ],
+    [
+     "eq",
+     "\"Everybody was as"
+    ],
+    [
+     "del",
+     "one... what"
+    ],
+    [
+     "ins",
+     "one,\" said the Reverend Chris Willis. \"What"
+    ],
+    [
+     "eq",
+     "we saw throughout was a real coming together of people and a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Brantham would pull together, as it had after a previous tragedy. In"
+    ],
+    [
+     "del",
+     "2024"
+    ],
+    [
+     "ins",
+     "2024,"
+    ],
+    [
+     "eq",
+     "Anita Rose was murdered while walking her dog on a footpath in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and has had to contend with tragedy in recent years,\" he said."
+    ],
+    [
+     "del",
+     "\"All I can say, unequivocally, is this"
+    ],
+    [
+     "ins",
+     "\"This"
+    ],
+    [
+     "eq",
+     "is a community that has been amazingly positive. [It] has dealt with the pain of loss and I have no doubt we'll pull"
+    ],
+    [
+     "del",
+     "together. \"There"
+    ],
+    [
+     "ins",
+     "together.\" Suffolk Police said Noah's death was not being treated as suspicious but officers still had inquiries to complete before submitting a file for the coroner. Supt Tom Pearse thanked everyone who provided help and support \"over an intense 24-hour period\", including officers and police staff, emergency services colleagues and volunteers from Suffolk Lowland Search and Rescue. \"I cannot pay tribute enough to the response from the local community and people who travelled from further afield to assist with the search for Noah,\" he added. \"This"
+    ],
+    [
+     "eq",
+     "was a"
+    ],
+    [
+     "del",
+     "love shown, that was my first impression,"
+    ],
+    [
+     "ins",
+     "case where the people of Suffolk rallied together"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "I hope and believe we'll see that continue.\""
+    ],
+    [
+     "ins",
+     "showed the county at its best in what transpired to be the most tragic of circumstances.\""
+    ],
+    [
+     "eq",
+     "Do you have a story suggestion for Suffolk? Contact us below."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.364,
+  "numbers_changed": [
+   "24"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 1,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.65,
+ "similarity": 0.9773,
+ "adjudicated_by": "rules"
+}

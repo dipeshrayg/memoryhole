@@ -1,0 +1,35 @@
+To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot
+It started with an accident.
+A network of clinics for pregnant women in Kenya set up an automated text messaging service to send out appointment reminders. But when the moms received the texts, they started to write back.
+Some asked if it's safe to eat avocados during pregnancy (you can!). Others asked if certain symptoms they were experiencing, like swelling or headaches, are normal during pregnancy.
+"At the time I joined I think we were getting less than 100 questions a day," recalls Jay Patel, director of technology for Jacaranda Health. "Now it's 15,000."
+At first, Jacaranda hired nurses to answer questions one by one. But over the years since 2020, developers have created a program that uses artificial intelligence to understand patient's questions, prioritize them and flag when a user may need immediate medical care. It's called PROMPTS - and is used by patients visiting public clinics in 24 Kenyan counties.
+For women without a smartphone, cell reception, or easy access to the internet, a text to PROMPTS may be the fastest way to get a question answered. Other times, it's a reliable way to determine if a long trip to a hospital is necessary.
+"If a mom in a rural part of Kenya starts bleeding at 2 a.m., she can't just Google it," Patel says. "But this service runs completely over SMS. It's completely free to the user, and it's accessible to anyone who has a basic phone."
+About 7% of messages are flagged by the system as potentially urgent. These are routed directly to a nurse.
+"It bypasses all AI functionality and gets straight to the help desk, into a special queue," Patel says. "They can pick it up immediately, look at the mom's question history and call her."
+That kind of quick response is critical in Kenya, where about 6,000 women die each year from childbirth or pregnancy-related causes. That's 16 women a day. Almost a third of those deaths are believed to be related to delays in seeking care.
+Lisa Mushega, a policy expert for HENNET, a Kenyan coalition of health care providers, says PROMPTS helps prevent these delays by giving women a direct line to a health professional. (Jacaranda Health is a member of the coalition).
+"It's a referral," Mushega says. "[PROMPTS] is data driven and can improve the quality of care - informed by the voices of mothers themselves."
+Mushega says she has met women who used PROMPTS to correctly identify signs of pre-eclampsia, a life-threatening condition that can start with swollen legs. Another new mother used the system when her newborn seemed sick, and she wasn't sure how to calm him.
+"She was told to go to the nearest health facility, because her baby was actually having jaundice," Mushega says. "It really comes in handy."
+At a time when the use of artificial intelligence is drawing existential concerns and calls for regulation, a program like PROMPTS demonstrates its potential value, says Smisha Agarwal, director of global digital health at Johns Hopkins University.
+The AI Edge
+Historically, most public health messaging is one-sided: Public service advertisements, billboards or automated messages written by health authorities and disseminated to the public.
+"That conversation is really bounded by what a health system decides a mother should know," Agarwal says. Artificial intelligence sets a different course: "What the LLM really changes is the direction of conversation. Because now we can center it on what the mother actually wants to know, and in a private space on her own phone. There is a fundamental change in power."
+In Kenya, PROMPTS understands messages in English, Swahili and Sheng - a popular dialect in Nairobi that is a mix of the two languages. Jacaranda has also expanded to parts of Ghana, Nigeria and Tanzania, building versions for speakers of Twi and Hausa.
+"There's local context," Patel says. "If there's a question about nutrition in Kenya, and you give the same answer from a question about nutrition in Nigeria, you're going to get laughed out of the room."
+Jacaranda Health is also using PROMPTS to help doctors identify areas of need, based on anonymous feedback from some of the estimated 700,000 users each year.
+"Lots of mothers are reporting that they're getting blood pressure checks, but very few report getting breast exams," says spokesperson Laura Down. "It gives mums more agency in the health system - as well as a better understanding of their pregnancy history."
+In other cases, Down says the questions mothers are asking can help doctors understand what's happening in their own community.
+"So for example, we're starting to see correlations between a spike in extreme heat and a spike in mothers reporting issues like headaches or swelling or dehydration," Down says.
+Any potential drawbacks?
+But there are limits. These interventions work best in places that already have functional healthcare systems, Agarwal says. There's very little margin for error when human medical needs are processed by a machine. The way the system is trained to do a rapid handoff to a human nurse in an emergency becomes a key factor.
+"The first thing I want to know is, what happens when the system gets a message wrong?" says Javaid Iqbal Sofi, a researcher focusing on AI policy and governance at Virginian Tech University. "Suppose a woman describes something urgent, but the system treats it as routine. Would someone catch that? How quickly?"
+Patient privacy issues and missed opportunities for care are common concerns, as AI platforms are adopted in medical contexts worldwide. Last month, the use of platforms developed by Palantir to automate staff schedules in hospitals in the United States drew protests by a national nursing union. The use of AI by insurance companies to process and deny medical claims - even without a human reviewing them - has led to outrage and calls for regulation.
+In contrast, PROMPTS operates as a limited-use program, trained on a relatively narrow set of issues and concerns. Its developers say the human element of the system is the most important part. A team of 18 nurses are employed to monitor, audit, and respond to PROMPTS questions around the clock.
+"Humans are responsible for ensuring the quality of messages going out, and we audit the quality of the answers," says Javan Waita, Jacaranda Health's director of programs in Kenya.
+Maintaining a significant human component of the program improves accuracy but raises the cost. Right now, it costs about $2 per user to maintain PROMPTS, which is absorbed by the nonprofit. That gets a mom through pregnancy, and stays with her for a year after birth.
+Waita says this is an important backstop, especially when mothers might not have an alternative.
+"The sooner a mother is able to access care, the sooner doctors will be able to understand the problem," Waita says. "If PROMPTS isn't there, it means more complications for mothers, more complications for newborns."
+For stories about life in our changing world, subscribe to NPR's Global Health newsletter.

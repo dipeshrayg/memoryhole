@@ -1,0 +1,52 @@
+{
+ "id": "00f56e1b1eec192b-dc39ec37-d5c07bd3",
+ "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-09-18T11:13:47Z",
+ "date": "2026-09-18",
+ "old_title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+ "new_title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+ "old_text": "Apple is working on an AI server that would use Apple's high-performance M-series Ultra chips found in Mac desktops. The potential product's expected release in 2029 would mark the first Apple server to hit the market in nearly two decades-and could capitalize on the surging popularity of Apple hardware among AI developers.\nThe enterprise server would come in two configurations that include either two or four of Apple's future M8 Ultra chips, according to The Information. The project reportedly received support from new Apple CEO John Ternus when it began a year ago, back when Ternus led Apple's hardware engineering efforts.\nThis revelation coincides with booming sales for Apple's Mac mini and Mac Studio as AI developers and companies snap up the Mac computers to run AI workloads. The popularity of such computing devices that rely on Apple's M-series Ultra chips has undoubtedly encouraged Apple's pursuit of an enterprise server using the same chips.\nThe Information reported that AI companies such as OpenAI have bought \"tens of thousands\" of Mac minis and Mac Studios to train AI agents through trial-and-error reinforcement learning, while Anthropic has also rented Mac minis from Amazon Web Services.",
+ "new_text": "Apple is working on an AI server that would use Apple's high-performance M-series Ultra chips found in Mac desktops. The potential product's expected release in 2029 would mark the first Apple server to hit the market in nearly two decades-and could capitalize on the surging popularity of Apple hardware among AI developers.\nThe enterprise server would come in two configurations that include either two or four of Apple's future M8 Ultra chips, according to The Information. The project reportedly received support from new Apple CEO John Ternus when it began a year ago, back when Ternus led Apple's hardware engineering efforts.\nThis revelation coincides with booming sales for Apple's Mac mini and Mac Studio as AI developers and companies snap up the Mac computers to run AI workloads. The popularity of such computing devices that rely on Apple's M-series Ultra chips has undoubtedly encouraged Apple's pursuit of an enterprise server using the same chips.\nThe Information reported that AI companies like OpenAI have bought \"tens of thousands\" of Mac minis and Mac Studios to train AI agents through trial-and-error reinforcement learning, while Anthropic has also rented Mac minis from Amazon Web Services.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "enterprise server using the same chips. The Information reported that AI companies"
+    ],
+    [
+     "del",
+     "such as"
+    ],
+    [
+     "ins",
+     "like"
+    ],
+    [
+     "eq",
+     "OpenAI have bought \"tens of thousands\" of Mac minis and Mac Studios"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0155,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9991,
+ "adjudicated_by": "rules"
+}

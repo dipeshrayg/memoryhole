@@ -1,0 +1,72 @@
+{
+ "id": "62b1e26a843ebcc5-8e6b36a4-fe1cca16",
+ "url": "https://variety.com/2026/film/festivals/dubai-film-festival-revived-2027-1236865324/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-09-18T11:14:47Z",
+ "date": "2026-09-18",
+ "old_title": "Dubai Film Festival Revived With New Edition Set for December 2027",
+ "new_title": "Dubai Film Festival Revived With New Edition Set for December 2027",
+ "old_text": "Ten years after being abruptly shuttered, the Dubai International Film Festival is being revived with a new edition set to kick off on Dec. 8, 2027.\nThe announcement - which was reported by local media and confirmed by Dubai sources - was made on Thursday by Mona Ghanem Al Marri, vice chairperson and managing director of the Dubai Media Council, during the Arab Media Summit.\nAl Marri specified in a speech that the fest's new format will focus on Arab cinema and intends to boost Dubai's role as a film and TV production hub. She described the relaunch as a new chapter in the fest's journey, which began in 2004 and became the top film event in the Middle East. The festival was shuttered in 2018, reportedly to divert government funds to the Dubai expo.\nDubai Film Festival manager Shivani Pandya Malhotra, who was subsequently instrumental to launching Saudi Arabia's Red Sea Film Festival as its managing director - and recently stepped down from that role - is not involved in relaunching the Dubai fest in its upcoming incarnation.\nPopular on Variety\nThe management of the new Dubai fest, as well an many other details, has yet to be announced.\nFor its final edition in December 2017, DIFF launched a rich selection of 18 Arab features - more than one-third of which were world premieres - as well as regional premieres of the cream of the global film crop, including \"Star Wars: The Last Jedi,\" which was the festival's closer. The fest also hosted delegations from the the Academy of Motion Picture Arts and Sciences and the Golden Globes, with which the DIFF team had forged close ties.",
+ "new_text": "Ten years after being abruptly shuttered, the Dubai International Film Festival is being revived with a new edition set to kick off on Dec. 8, 2027.\nThe announcement - which was reported by local media and confirmed by Dubai sources - was made on Thursday by Mona Ghanem Al Marri, vice chairperson and managing director of the Dubai Media Council, during the Arab Media Summit.\nAl Marri specified in a speech that the fest's new format will focus on Arab cinema and intends to boost Dubai's role as a film and TV production hub. She described the relaunch as a new chapter in the fest's journey, which began in 2004 and led it to become the top film event in the Middle East. The festival was shuttered in 2018, reportedly to divert government funds to the Dubai expo.\nDubai Film Festival manager Shivani Pandya Malhotra, who was subsequently instrumental to launching Saudi Arabia's Red Sea Film Festival as its managing director - and recently stepped down from that role - is not involved in relaunching the Dubai fest in its upcoming incarnation.\nPopular on Variety\nThe management of the new Dubai fest, as well as many other details, has yet to be announced.\nFor its final edition in December 2017, DIFF launched a rich selection of 18 Arab features - more than one-third of which were world premieres - as well as regional premieres of the cream of the global film crop, including \"Star Wars: The Last Jedi,\" which was the festival's closer. The fest also hosted delegations from the the Academy of Motion Picture Arts and Sciences and the Golden Globes, with which the DIFF team had forged close ties.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "a new chapter in the fest's journey, which began in 2004 and"
+    ],
+    [
+     "del",
+     "became"
+    ],
+    [
+     "ins",
+     "led it to become"
+    ],
+    [
+     "eq",
+     "the top film event in the Middle East. The festival was shuttered"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Popular on Variety The management of the new Dubai fest, as well"
+    ],
+    [
+     "del",
+     "an"
+    ],
+    [
+     "ins",
+     "as"
+    ],
+    [
+     "eq",
+     "many other details, has yet to be announced. For its final edition"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0252,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9936,
+ "adjudicated_by": "rules"
+}

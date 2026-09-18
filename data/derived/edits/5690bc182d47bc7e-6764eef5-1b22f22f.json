@@ -1,0 +1,111 @@
+{
+ "id": "5690bc182d47bc7e-6764eef5-1b22f22f",
+ "url": "https://www.theguardian.com/football/2026/sep/17/real-madrid-leading-race-sign-jj-gabriel-manchester-united",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-09-18T11:10:33Z",
+ "date": "2026-09-18",
+ "old_title": "Real Madrid leading race to sign JJ Gabriel from Manchester United",
+ "new_title": "Real Madrid leading race to sign JJ Gabriel from Manchester United",
+ "old_text": "Real Madrid are leading the race to sign the Manchester United teenager JJ Gabriel after he told the Premier League club he wants to cancel his registration.\nThe 15-year-old has attracted interest from across Europe as his reputation has grown with academy performances. Barcelona have been keen to acquire him and Bayern Munich are known to admire the winger. It is understood Gabriel prefers a move to Europe and having an Irish passport would enable that.\nAlthough surprised by Gabriel's decision, some at United felt he might not sign a professional contract as other clubs circled. United, however, still feel they may be able to rectify the matter having developed him since he joined at 11. He would be eligible to sign as a scholar when he turns 16 next month and as a professional a year later.\nA move to Real Madrid comes with the prospect of accelerated progression to senior football with their B team, Castilla, who play in the regionalised Spanish third tier.\nHad Gabriel not informed United of his desire to leave, he would have been called up by Michael Carrick for the Carabao Cup tie against Brighton on Wednesday. If he had played he would have become the youngest player in the club's history.\n\"I just think we've got to be really careful of the whole situation,\" Carrick said of Gabriel after the defeat by Brighton. \"He's a young boy. He's 15, and for me, definitely, and from a club point of view, looking after our younger players - their welfare, their wellbeing, their exposure - we've got to be really conscious of that in this situation.\"\nGabriel featured in a pre-season friendly against Atlético Madrid in Stockholm and has regularly trained with the first-team recently.",
+ "new_text": "Real Madrid are leading the race to sign the Manchester United teenager JJ Gabriel after he told the Premier League club he wants to cancel his registration.\nThe 15-year-old has attracted interest from across Europe as his reputation has grown with academy performances. Barcelona have been keen to acquire him and Bayern Munich are known to admire the winger. It is understood Gabriel prefers a move to Europe and has an Irish EU passport through his father.\nAlthough surprised by Gabriel's decision, some at United felt he might not sign a professional contract as other clubs circled. United, however, still feel they may be able to rectify the matter having developed him since he joined at 11. He would be eligible to sign as a scholar when he turns 16 next month and as a professional a year later.\nA move to Real Madrid comes with the prospect of accelerated progression to senior football with their B team, Castilla, who play in the regionalised Spanish third tier.\nHad Gabriel not informed United of his desire to leave, he would have been called up by Michael Carrick for the Carabao Cup tie against Brighton on Wednesday. If he had played he would have become the youngest player in the club's history.\n\"I just think we've got to be really careful of the whole situation,\" Carrick said of Gabriel after the 3-2 defeat by Brighton.\n\"He's a young boy. He's 15, and for me, definitely, and from a club point of view, looking after our younger players - their welfare, their wellbeing, their exposure - we've got to be really conscious of that in this situation.\"\nGabriel featured in a pre-season friendly against Atlético Madrid in Stockholm and has regularly trained with the first team recently.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the winger. It is understood Gabriel prefers a move to Europe and"
+    ],
+    [
+     "del",
+     "having"
+    ],
+    [
+     "ins",
+     "has"
+    ],
+    [
+     "eq",
+     "an Irish"
+    ],
+    [
+     "ins",
+     "EU"
+    ],
+    [
+     "eq",
+     "passport"
+    ],
+    [
+     "del",
+     "would enable that."
+    ],
+    [
+     "ins",
+     "through his father."
+    ],
+    [
+     "eq",
+     "Although surprised by Gabriel's decision, some at United felt he might not"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "really careful of the whole situation,\" Carrick said of Gabriel after the"
+    ],
+    [
+     "ins",
+     "3-2"
+    ],
+    [
+     "eq",
+     "defeat by Brighton. \"He's a young boy. He's 15, and for me,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "friendly against Atlético Madrid in Stockholm and has regularly trained with the"
+    ],
+    [
+     "del",
+     "first-team"
+    ],
+    [
+     "ins",
+     "first team"
+    ],
+    [
+     "eq",
+     "recently."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0447,
+  "numbers_changed": [
+   "2",
+   "3"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9965,
+ "adjudicated_by": "rules"
+}

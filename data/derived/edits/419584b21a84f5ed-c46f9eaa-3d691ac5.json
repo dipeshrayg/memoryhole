@@ -1,0 +1,44 @@
+{
+ "id": "419584b21a84f5ed-c46f9eaa-3d691ac5",
+ "url": "https://www.independent.co.uk/bulletin/culture/ariana-grande-jonathan-bailey-sunday-in-the-park-with-george-b3049814.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-18T11:00:45Z",
+ "date": "2026-09-18",
+ "old_title": "London musical called off following Ariana Grande and Jonathan Bailey pullouts",
+ "new_title": "London musical called off following Ariana Grande and Jonathan Bailey pullouts",
+ "old_text": "London musical called off following Ariana Grande and Jonathan Bailey pullouts\n- The planned 2027 London revival of Stephen Sondheim's musical Sunday In The Park With George at the Barbican Theatre has been cancelled following the departure of its lead actors.\n- Wicked co-stars Ariana Grande and Jonathan Bailey both pulled out of the production, which was set to be directed by Marianne Elliott, with Grande stepping back from the spotlight in August and Bailey withdrawing earlier this month.\n- Empire Street Productions confirmed that the Barbican run will not go ahead as scheduled, but the company retains the rights with plans to present the show in 2028.\n- Jonathan Bailey expressed his unwavering support for Grande, describing the musical as a passion project while wishing the production team well as new actors are sought for the lead roles.\n- This marks the second delay for a revival of the musical, following an earlier production starring Jake Gyllenhaal and Annaleigh Ashford that was postponed indefinitely in 2021 due to Covid-19.",
+ "new_text": "London musical called off following Ariana Grande and Jonathan Bailey pullouts\n- The planned 2027 London revival of Stephen Sondheim's musical Sunday In The Park With George at the Barbican Theatre has been cancelled following the departure of its lead actors.\n- Wicked co-stars Ariana Grande and Jonathan Bailey both pulled out of the production, which was set to be directed by Marianne Elliott, with Grande stepping back from the spotlight in August and Bailey withdrawing earlier this month.\n- Empire Street Productions confirmed that the Barbican run will not go ahead as scheduled, but the company retains the rights with plans to present the show in 2028.\n- Jonathan Bailey expressed his unwavering support for Grande, describing the musical as a passion project while wishing the production team well as new actors are sought for the lead roles.\n- This marks the second delay for a revival of the musical, following an earlier production starring Jake Gyllenhaal and Annaleigh Ashford that was postponed indefinitely in 2021 due to Covid-19.\nMore bulletins",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "and Annaleigh Ashford that was postponed indefinitely in 2021 due to Covid-19."
+    ],
+    [
+     "ins",
+     "More bulletins"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0118,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9987,
+ "adjudicated_by": "rules"
+}
