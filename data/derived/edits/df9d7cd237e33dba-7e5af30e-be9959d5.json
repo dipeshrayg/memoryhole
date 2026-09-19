@@ -1,0 +1,83 @@
+{
+ "id": "df9d7cd237e33dba-7e5af30e-be9959d5",
+ "url": "https://www.abc.net.au/news/2026-09-18/north-melbourne-winning-streak-over-after-shock-loss-to-hawks/107171070",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-19T10:42:37Z",
+ "date": "2026-09-19",
+ "old_title": "North Melbourne's 32-game winning streak over after shock loss to Hawthorn",
+ "new_title": "North Melbourne's 32-game winning streak over after shock loss to Hawthorn",
+ "old_text": "Sat, 12 Sept, 1:05 pm, Final score, Hawks 41, Bulldogs 30\nNorth Melbourne's 32-game winning streak over after shock loss to Hawthorn\nIn short:\nNorth Melbourne's record AFLW winning streak is over, with the Kangaroos falling to a shock 7-point defeat to Hawthorn in Cairns.\nThe defeat ended a run of 32 consecutive wins for North, an V/AFL and AFLW record.\nHawks midfielder Jasmine Fleming starred with 25 disposals in the absence of injured captain Emily Bates.",
+ "new_text": "Fri, 18 Sept, 5:45 pm, Final score, Hawks 32, Kangaroos 25\nNorth Melbourne's 32-game winning streak over after shock loss to Hawthorn\nIn short:\nNorth Melbourne's record AFLW winning streak is over, with the Kangaroos falling to a shock 7-point defeat to Hawthorn in Cairns.\nThe defeat ended a run of 32 consecutive wins for North, an V/AFL and AFLW record.\nHawks midfielder Jasmine Fleming starred with 25 disposals in the absence of injured captain Emily Bates.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Sat, 12"
+    ],
+    [
+     "ins",
+     "Fri, 18"
+    ],
+    [
+     "eq",
+     "Sept,"
+    ],
+    [
+     "del",
+     "1:05"
+    ],
+    [
+     "ins",
+     "5:45"
+    ],
+    [
+     "eq",
+     "pm, Final score, Hawks"
+    ],
+    [
+     "del",
+     "41, Bulldogs 30"
+    ],
+    [
+     "ins",
+     "32, Kangaroos 25"
+    ],
+    [
+     "eq",
+     "North Melbourne's 32-game winning streak over after shock loss to Hawthorn In"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1558,
+  "numbers_changed": [
+   "05",
+   "1",
+   "12",
+   "18",
+   "25",
+   "30",
+   "32",
+   "41",
+   "45",
+   "5"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9927,
+ "adjudicated_by": "rules"
+}

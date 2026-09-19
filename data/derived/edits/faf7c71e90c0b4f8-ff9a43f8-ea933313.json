@@ -1,0 +1,181 @@
+{
+ "id": "faf7c71e90c0b4f8-ff9a43f8-ea933313",
+ "url": "https://www.dw.com/en/philippines-at-least-2-students-killed-in-school-shooting/a-79319854?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-19T10:40:42Z",
+ "date": "2026-09-19",
+ "old_title": "Philippines: At least 2 students killed in school shooting",
+ "new_title": "Philippines: At least 3 students killed in school shooting",
+ "old_text": "At least three people have been killed, including the suspected gunman, at a school shooting incident in the southern Philippines on Friday, officials said. Several other wounded students have been taken to the hospital.\n\"The incident resulted in three confirmed deaths and several individuals wounded,\" Philippine National Police said in a statement.\nWhat we know\nEmergency services were called to Banga National High School in South Cotabato province in Mindanao at about 1:30 p.m. local time (0530 GMT).\nSouth Cotabato Governor Reynaldo Tamayo said two students were killed, a boy and a girl, both 14, and that the gunman was the third person who died.\nBanga town mayor Albert Palencia was quoted by the Reuters news agency as saying that the third person, believed to be a 16-year-old suspected gunman, was also killed.\nEight people were injured, with four in citical condition, he said, adding that the victims were all aged between 14 and 17.\nIncident under investigation\n\"The incident remains under investigation. Responding police personnel immediately secured the area and coordinated with school authorities and medical responders to assist those affected and ensure the safety of students and school personnel,\" police said.\nIt was not immediately clear how many shooters were involved.\nThere was also no immediate information about a possible motive.\nIn a video posted on Facebook and verified by the AFP news agency, a man is seen carrying what appears to be a wounded child from the school.\nIn another, a teacher speaking in a local dialect can be heard saying there were two shooters, with a student insisting they were outsiders.\nEdited by: Natalie Muller\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "new_text": "At least three people have been killed, including the suspected gunman, at a school shooting in the southern Philippines, officials said Friday.\nSeveral other wounded students have been taken to the hospital.\n\"The incident resulted in three confirmed deaths and several individuals wounded,\" Philippine National Police said in a statement.\nEmergency services were called to Banga National High School in South Cotabato province in Mindanao at about 1:30 p.m. local time (0530 GMT).\nSouth Cotabato Governor Reynaldo Tamayo said two students were killed, a boy and a girl, both 14, and that the gunman was the third person who died.\nBanga town mayor Albert Palencia was quoted by the Reuters news agency as saying eight people were injured, with four in critical condition.\nIncident under investigation\nThere was also no immediate information about a possible motive.\n\"The incident remains under investigation. Responding police personnel immediately secured the area and coordinated with school authorities and medical responders to assist those affected and ensure the safety of students and school personnel,\" police said.\nIn a video posted on Facebook and verified by the AFP news agency, a man was seen carrying what appears to be a wounded child from the school.\nIn another, a teacher speaking in a local dialect could be heard saying there were two shooters, with a student insisting they were outsiders.\nRecent school shootings in the Philippines\nWhile school shootings are rare in the Philippines and gun ownership is tightly regulated, there have been a few shooting incidents at centers of learning in recent months.\nIn August, a high school student opened fire at a private university campus in the Philippines, killing a fellow student and wounding two others before turning the gun on himself.\nEarlier, in June, three pupils were killed and around 20 others injured in another school shooting in an attack that took place in Tacloban City in the east of the country and resulted in the arrests of two suspects, aged 14 and 15.\nEdited by: Natalie Muller\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "people have been killed, including the suspected gunman, at a school shooting"
+    ],
+    [
+     "del",
+     "incident"
+    ],
+    [
+     "eq",
+     "in the southern"
+    ],
+    [
+     "del",
+     "Philippines on Friday,"
+    ],
+    [
+     "ins",
+     "Philippines,"
+    ],
+    [
+     "eq",
+     "officials"
+    ],
+    [
+     "del",
+     "said."
+    ],
+    [
+     "ins",
+     "said Friday."
+    ],
+    [
+     "eq",
+     "Several other wounded students have been taken to the hospital. \"The incident"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "deaths and several individuals wounded,\" Philippine National Police said in a statement."
+    ],
+    [
+     "del",
+     "What we know"
+    ],
+    [
+     "eq",
+     "Emergency services were called to Banga National High School in South Cotabato"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "mayor Albert Palencia was quoted by the Reuters news agency as saying"
+    ],
+    [
+     "del",
+     "that the third person, believed to be a 16-year-old suspected gunman, was also killed. Eight"
+    ],
+    [
+     "ins",
+     "eight"
+    ],
+    [
+     "eq",
+     "people were injured, with four in"
+    ],
+    [
+     "del",
+     "citical condition, he said, adding that the victims were all aged between 14 and 17."
+    ],
+    [
+     "ins",
+     "critical condition."
+    ],
+    [
+     "eq",
+     "Incident under investigation"
+    ],
+    [
+     "ins",
+     "There was also no immediate information about a possible motive."
+    ],
+    [
+     "eq",
+     "\"The incident remains under investigation. Responding police personnel immediately secured the area"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "affected and ensure the safety of students and school personnel,\" police said."
+    ],
+    [
+     "del",
+     "It was not immediately clear how many shooters were involved. There was also no immediate information about a possible motive."
+    ],
+    [
+     "eq",
+     "In a video posted on Facebook and verified by the AFP news agency, a man"
+    ],
+    [
+     "del",
+     "is"
+    ],
+    [
+     "ins",
+     "was"
+    ],
+    [
+     "eq",
+     "seen carrying what appears to be a wounded child from the school. In another, a teacher speaking in a local dialect"
+    ],
+    [
+     "del",
+     "can"
+    ],
+    [
+     "ins",
+     "could"
+    ],
+    [
+     "eq",
+     "be heard saying there were two shooters, with a student insisting they were outsiders."
+    ],
+    [
+     "ins",
+     "Recent school shootings in the Philippines While school shootings are rare in the Philippines and gun ownership is tightly regulated, there have been a few shooting incidents at centers of learning in recent months. In August, a high school student opened fire at a private university campus in the Philippines, killing a fellow student and wounding two others before turning the gun on himself. Earlier, in June, three pupils were killed and around 20 others injured in another school shooting in an attack that took place in Tacloban City in the east of the country and resulted in the arrests of two suspects, aged 14 and 15."
+    ],
+    [
+     "eq",
+     "Edited by: Natalie Muller If you rely on our team for trusted"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.6187,
+  "numbers_changed": [
+   "15",
+   "16",
+   "17",
+   "20"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.15,
+ "similarity": 0.9736,
+ "adjudicated_by": "rules"
+}

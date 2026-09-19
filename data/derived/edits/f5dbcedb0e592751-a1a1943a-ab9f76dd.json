@@ -1,0 +1,84 @@
+{
+ "id": "f5dbcedb0e592751-a1a1943a-ab9f76dd",
+ "url": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-09-19T10:56:53Z",
+ "date": "2026-09-19",
+ "old_title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+ "new_title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+ "old_text": "Anti-vaccine Health Secretary Robert F. Kennedy Jr. announced the names of eight new members of a 16-person federal task force intended to make scientifically independent, evidence-based recommendations on an array of preventive medicine services for Americans-from depression screening to statin use, colonoscopies, and mammograms.\nRecommendations from the panel-the US Preventive Services Task Force (USPSTF)-don't simply provide guidance for Americans; they also determine access. The USPSTF is supposed to use a rigorous, transparent framework for evaluating evidence and sets graded recommendations on an A to D scale. Health insurance providers are required to cover, at no cost, all preventive services that are given recommendations given an A or B grade.\nKennedy has sidelined the USPSTF for more than a year, canceling its meetings and refusing to appoint new members as terms expired and members left. In May, Kennedy also fired two leaders, sparking outcry and exacerbating fears that he would corrupt the nonpartisan, independent panel by stacking it with unqualified, ideological-allies-which he did with an influence vaccine advisory committee at the Centers for Disease Control and Prevention.\nThose fears seemed to be realized today with the announcement of members who are largely out of line with previous appointments. Many of the new members have expressed a shared ideology with Kennedy and the Trump administration. At least one voiced criticism of COVID-19 vaccines. At least two have attacked gender-affirming care. One is not even a doctor but a health economist who has worked with the Trump administration.\n\"A significant departure\"\nFive of the eight members are specialists, including cardiologists, a gastroenterologist, and a radiologist; the USPSTF has previously been made up of people who provide preventive care-generalist and primary care providers. This prevents specialists from swaying recommendations based on conflicts of interest. Notably, the USPSTF's policy on conflict of interest disclosures has been removed, and the webpage that previously included it said the policy is now being updated.",
+ "new_text": "Anti-vaccine Health Secretary Robert F. Kennedy Jr. announced the names of eight new members of a 16-person federal task force intended to make scientifically independent, evidence-based recommendations on an array of preventive medicine services for Americans-from depression screening to statin use, colonoscopies, and mammograms.\nRecommendations from the panel-the US Preventive Services Task Force (USPSTF)-don't simply provide guidance for Americans; they also determine access. The USPSTF is supposed to use a rigorous, transparent framework for evaluating evidence and sets graded recommendations on an A to D scale. Health insurance providers are required to cover, at no cost, all preventive services that are given recommendations of an A or B grade.\nKennedy has sidelined the USPSTF for more than a year, canceling its meetings and refusing to appoint new members as terms expired and members left. In May, Kennedy also fired two leaders, sparking outcry and exacerbating fears that he would corrupt the nonpartisan independent panel by stacking it with unqualified ideological allies-which he did with an influence vaccine advisory committee at the Centers for Disease Control and Prevention.\nThose fears seemed to be realized today with the announcement of members who are largely out of line with previous appointments. Many of the new members have expressed a shared ideology with Kennedy and the Trump administration. At least one voiced criticism of COVID-19 vaccines. At least two have attacked gender-affirming care. One is not even a doctor but a health economist who has worked with the Trump administration.\n\"A significant departure\"\nFive of the eight members are specialists, including cardiologists, a gastroenterologist, and a radiologist; the USPSTF has previously been made up of people who provide preventive care-generalist and primary care providers. This prevents specialists from swaying recommendations based on conflicts of interest. Notably, the USPSTF's policy on conflict of interest disclosures has been removed, and the webpage that previously included it said the policy is now being updated.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "to cover, at no cost, all preventive services that are given recommendations"
+    ],
+    [
+     "del",
+     "given"
+    ],
+    [
+     "ins",
+     "of"
+    ],
+    [
+     "eq",
+     "an A or B grade. Kennedy has sidelined the USPSTF for more"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "two leaders, sparking outcry and exacerbating fears that he would corrupt the"
+    ],
+    [
+     "del",
+     "nonpartisan,"
+    ],
+    [
+     "ins",
+     "nonpartisan"
+    ],
+    [
+     "eq",
+     "independent panel by stacking it with"
+    ],
+    [
+     "del",
+     "unqualified, ideological-allies-which"
+    ],
+    [
+     "ins",
+     "unqualified ideological allies-which"
+    ],
+    [
+     "eq",
+     "he did with an influence vaccine advisory committee at the Centers for"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0285,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9986,
+ "adjudicated_by": "rules"
+}

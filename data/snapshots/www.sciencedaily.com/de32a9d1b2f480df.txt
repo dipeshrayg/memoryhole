@@ -1,0 +1,35 @@
+Caltechâs tiny new chip can steer light in 74 quadrillionths of a second
+- Date:
+- September 18, 2026
+- Source:
+- Caltech
+- Summary:
+- A new Caltech device can redirect a beam of light in just 74 femtoseconds using another beam and a nanoscale silicon metasurface. The breakthrough could pave the way for dramatically faster photonic communications, computing, and sensing technologies.
+- Share:
+Light can transmit huge amounts of information at extraordinary speed, which is why photonic technologies are being explored for faster communications, more powerful computing, and highly sensitive sensors. To make those systems work, however, researchers need precise ways to control the direction of light and change it extremely quickly.
+Caltech researchers have now developed a device that uses one beam of light to redirect another in just 74 femtoseconds (74 quadrillionths of a second). That is roughly the amount of time light needs to travel across the width of a human hair.
+"Steering light with light is very challenging because light typically interacts very weakly with matter. Using optical meta-surfaces (ultrathin carefully nanoengineered sheets), we can up the interaction strength to make this possible with much higher efficiency," says Harry Atwater, the Howard Hughes Professor of Applied Physics and Materials Science and the Otis Booth Leadership Chair of the Division of Engineering and Applied Science at Caltech.
+The researchers report their findings in a paper recently published in Nature Nanotechnology. Lead author Claudio Hail carried out the research while he was a postdoctoral scholar in Atwater's Caltech lab. He is now an assistant professor of mechanical engineering at UC Berkeley.
+Why Conventional Light Steering Has a Speed Limit
+Many existing technologies for steering or modulating light depend on changing the electronic properties of a material. Examples include liquid-crystal panels used in projectors and optical chips found in telecommunications systems.
+In these devices, electrons are pushed into higher energy states before returning to lower ones and releasing their excess energy. That relaxation takes time, creating a bottleneck that usually limits light modulation to nanosecond or picosecond timescales (trillionths of a second).
+Atwater's team took a different approach by eliminating the need for an electrical signal. Instead, the researchers used a powerful beam of light, known as the pump, with a carefully designed pattern that temporarily altered the optical behavior of a material.
+A second, weaker beam, called the probe, then passed through that material. Its direction changed according to the pattern created by the pump beam.
+Using the Optical Kerr Effect
+The system relies on a phenomenon known as the optical Kerr effect. When an intense beam of light passes through a material, it can briefly produce a very small change in the material's refractive index, which describes how much light slows down and bends as it travels through that material.
+The effect comes from changes in the motion of electrons within their orbitals, regions around an atom's nucleus where electrons have a high probability of being located. Crucially, the electrons are not pushed into separate, longer-lasting excited states.
+As a result, the change can appear and vanish almost as quickly as the light pulse itself. There is no need to wait for excited electrons to fall back to lower energy levels.
+On its own, though, the optical Kerr effect is too weak to redirect a beam of light by an amount that would be useful in practical devices.
+Nanoscale Silicon Pillars Amplify the Effect
+To strengthen the response, the researchers created a meta-surface from a thin film of amorphous silicon. The surface was covered with nanoscale pillars, each smaller than the wavelength of the pump's light.
+By carefully choosing the size and spacing of these pillars, the team caused light to remain inside the meta-surface slightly longer and circulate within it instead of simply passing straight through.
+That additional interaction time amplified the small refractive index change in the silicon. The resulting effect became strong enough to redirect the probe beam.
+Using this design, the researchers steered light by angles of up to 13 degrees in as little as 74 femtoseconds. They also showed that the modulation speed was limited by the duration of the pump pulse (which was also 74 femtoseconds).
+Even Faster Light Control May Be Possible
+The researchers say the current speed limit comes from the laser pulses used to operate the system, not from the fundamental properties of the meta-material itself.
+That leaves open the possibility of making the process even faster. With further development, the technology could reach timescales relevant to emerging photonic concepts including time crystals and synthetic time-varying optical materials.
+The paper is titled "Ultrafast, reconfigurable all-optical beam steering and spatial light modulation." Along with Hail and Atwater, Lior Michaeli is also an author of the paper. He completed the work as a postdoctoral scholar at Caltech and is now an assistant professor of electrical and computer engineering at Tel Aviv University.
+The work was supported by funding from the Air Force Office of Scientific Research and its Meta-Imaging Multidisciplinary University Research Initiative, the Swiss National Science Foundation, the Fulbright Fellowship program, and the Breakthrough Foundation. The Kavli Nanoscience Institute at Caltech provided infrastructure and support for the work.
+Journal Reference:
+- Claudio U. Hail, Lior Michaeli, Harry A. Atwater. Ultrafast, reconfigurable all-optical beam steering and spatial light modulation. Nature Nanotechnology, 2026; 21 (7): 940 DOI: 10.1038/s41565-026-02199-w
+Cite This Page:

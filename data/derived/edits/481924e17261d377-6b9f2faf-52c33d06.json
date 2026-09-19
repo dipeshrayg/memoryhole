@@ -1,0 +1,47 @@
+{
+ "id": "481924e17261d377-6b9f2faf-52c33d06",
+ "url": "https://www.npr.org/2026/09/18/nx-s1-5973135/doctors-raise-concerns-about-views-and-experience-of-members-on-federal-task-force",
+ "domain": "www.npr.org",
+ "source": "NPR Health",
+ "country": "United States",
+ "category": "health",
+ "lang": "en",
+ "detected_at": "2026-09-19T10:55:06Z",
+ "date": "2026-09-19",
+ "old_title": "Doctors raise concerns about views and experience of members on federal task force",
+ "new_title": "Doctors raise concerns about views and experience of members on federal task force",
+ "old_text": "Doctors raise concerns about views and experience of members on federal task force\nHealth Secretary Robert F. Kennedy Jr. names new members to powerful federal task force that plays a key role in determining the kind of preventive case people get. In a major departure, the new members of the U.S. Preventive Services Task Force include specialists instead of experts on preventive care and general medicine, raising fears among many doctors.",
+ "new_text": "Doctors raise concerns about views and experience of members on federal task force\nHealth Secretary Robert F. Kennedy Jr. names new members to powerful federal task force that plays a key role in determining the kind of preventive case people get. In a major departure, the new members of the U.S. Preventive Services Task Force include specialists instead of experts on preventive care and general medicine, raising fears among many doctors.\nA MARTÍNEZ, HOST:\nThe Trump administration has remade yet another powerful federal health committee raising concerns about the care Americans get. Here's NPR health correspondent Rob Stein.\nROB STEIN, BYLINE: The U.S. Preventive Services Task Force issues recommendations that doctors use for all kinds of health problems to cut their patients' risks for cancer, heart attacks, allergies, which vitamins to urge people to take, how to prevent postpartum depression, alcoholism, drug addiction. Dr. Alex Christ of Virginia Commonwealth University previously chaired the task force. He's also a family physician who uses the recommendations every day.\nALEX CHRIST: It includes the entire lifespan. So it ranges from kids all the way to older adults as well, women's health, men's health issues. It applies to every person at any point in their life.\nSTEIN: The task force also determines whether insurance companies will pay for tests, procedures and treatments necessary to prevent disease. Dr. Aaron Carroll is president of AcademyHealth, a nonpartisan health research group.\nAARON CARROLL: Every insured Americans' free mammograms, free colonoscopies, their statins, all of that traces back to a task force grade. This is not an esoteric research group that writes reports that get put on a shelf. It's massively important.\nSTEIN: Traditionally, the task force has mostly included primary care doctors. But on Thursday, Health Secretary Robert F. Kennedy Jr., announced new members that include specialists - radiologists, gastroenterologists, cardiologists. And that, Christ, Carroll and others say, could be a big problem.\nCARROLL: Primary care doctors see all the patients and decide all who gets preventive screening and because of that, they sort of really holistically understand both the benefits and the harms of screening. And they are experts on all screening so that they can provide their expertise.\nSTEIN: The fear is that specialists tend to be too inclined to, say, recommend more mammograms or colonoscopies that are necessary, which could lead to lots of false alarms, risky procedures like biopsies and other complications. And so far, the administration has yet to release any information about potential conflicts of interest for the new members, including, say, ownership in companies that profit from preventive services.\nSeveral of the new members have also expressed controversial views like questioning gender-affirming care for trans people and the safety of the COVID-19 vaccines. The task force did not respond to NPR's request for comment.\nRob Stein, NPR News.\n(SOUNDBITE OF MUSIC)\nCopyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.\nAccuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR's programming is the audio record.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "experts on preventive care and general medicine, raising fears among many doctors."
+    ],
+    [
+     "ins",
+     "A MARTÍNEZ, HOST: The Trump administration has remade yet another powerful federal health committee raising concerns about the care Americans get. Here's NPR health correspondent Rob Stein. ROB STEIN, BYLINE: The U.S. Preventive Services Task Force issues recommendations that doctors use for all kinds of health problems to cut their patients' risks for cancer, heart attacks, allergies, which vitamins to urge people to take, how to prevent postpartum depression, alcoholism, drug addiction. Dr. Alex Christ of Virginia Commonwealth University previously chaired the task force. He's also a family physician who uses the recommendations every day. ALEX CHRIST: It includes the entire lifespan. So it ranges from kids all the way to older adults as well, women's health, men's health issues. It applies to every person at any point in their life. STEIN: The task force also determines whether insurance companies will pay for tests, procedures and treatments necessary to prevent disease. Dr. Aaron Carroll is president of AcademyHealth, a nonpartisan health research group. AARON CARROLL: Every insured Americans' free mammograms, free colonoscopies, their statins, all of that traces back to a task force grade. This is not an esoteric research group that writes reports that get put on a shelf. It's massively important. STEIN: Traditionally, the task force has mostly included primary care doctors. But on Thursday, Health Secretary Robert F. Kennedy Jr., announced new members that include specialists - radiologists, gastroenterologists, cardiologists. And that, Christ, Carroll and others say, could be a big problem. CARROLL: Primary care doctors see all the patients and decide all who gets preventive screening and because of that, they sort of really holistically understand both the benefits and the harms of screening. And they are experts on all screening so that they can provide their expertise. STEIN: The fear is that specialists tend to be too inclined to, say, recommend more mammograms or colonoscopies that are necessary, which could lead to lots of false alarms, risky procedures like biopsies and other complications. And so far, the administration has yet to release any information about potential conflicts of interest for the new members, including, say, ownership in companies that profit from preventive services. Several of the new members have also expressed controversial views like questioning gender-affirming care for trans people and the safety of the COVID-19 vaccines. The task force did not respond to NPR's request for comment. Rob Stein, NPR News. (SOUNDBITE OF MUSIC) Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information. Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR's programming is the audio record."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 6.5352,
+  "numbers_changed": [
+   "19",
+   "2026"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.253,
+ "similarity": 0.8361,
+ "adjudicated_by": "rules"
+}

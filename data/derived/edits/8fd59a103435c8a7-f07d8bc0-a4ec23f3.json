@@ -1,0 +1,360 @@
+{
+ "id": "8fd59a103435c8a7-f07d8bc0-a4ec23f3",
+ "url": "https://www.aljazeera.com/news/2026/9/18/bomb-attack-at-pakistan-mosque-kills-at-least-15-injures-50?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-19T10:39:42Z",
+ "date": "2026-09-19",
+ "old_title": "Bomb attack at Pakistan mosque kills at least 15, injures 50",
+ "new_title": "Bomb attack at Pakistan mosque kills at least 31 people",
+ "old_text": "A bomb attack at a mosque in Pakistan's restive north-west has killed at least 15 people, with more than 50 reported injured.\nAn explosive-laden car was rammed into the entrance of a mosque at a police headquarters in Kohat, in the province of Khyber Pakhtunkhwa near the Afghan border, as people gathered for Friday prayers.\nAt least 15 bodies and more than 50 injured people were taken to hospital in the town, Dr Tahir Shah said, according to the dpa news agency. The death toll could rise as several injured people were in a critical condition, he added.\nThere was no immediate claim of responsibility for the attack. However, both a regional affiliate of the ISIL armed group and the Pakistani Taliban (TTP) are active in the region and regularly target security forces.\nViolence has surged in Pakistan's remote regions near the Afghan border in recent years. Islamabad accuses Afghanistan's Taliban rulers of allowing militants who orchestrate attacks in Pakistan to operate from Afghan territory.\nOfficials in Kabul deny the accusation. However, the issue has seen the pair swap strikes across the border across recent months.\nMore to come...",
+ "new_text": "Deadly blast hits mosque at Pakistan police complex\nA suicide bomb attack at a mosque and subsequent gun battle in Pakistan's restive northwest have killed at least 31 people, including 16 police personnel, with dozens of others injured, according to the AFP news agency.\nAs worshippers gathered for Friday prayers, an explosive-laden car was rammed into the entrance of a mosque at a police headquarters in Kohat. The city is in Khyber Pakhtunkhwa province near the Afghan border.\nRecommended Stories\nlist of 4 items\n- list 1 of 4Pakistan pledges full committment to defence of Saudi Arabia\n- list 2 of 4India-Pakistan navy ship collision sparks alarm over unintended escalation\n- list 3 of 4Bomb attack at Pakistan mosque kills at least 31 people\n- list 4 of 4Deadly blast hits mosque at Pakistan police complex\nA faction of the Pakistan Taliban, known by the acronym TTP, claimed responsibility. Ittehadul Mujahideen, which means Mujahideen Alliance and is linked to Taliban commander Hafiz Gul Bahadur, said it carried out the suicide bomb attack.\nProvincial police chief Zulfikar Hameed confirmed the suicide bombing. After the explosion, gunmen attempted to enter the police compound and exchanged fire with officers.\nAt least 15 bodies and more than 50 injured were taken to hospital, said Dr Tahir Shah, according to the dpa news agency.\nSources told Al Jazeera that at least 75 people were injured.\nSenior rescue official Bilal Faizi said most of the wounded were worshippers, the Associated Press news agency reported.\nThe mosque was badly damaged, and the police station's outer wall collapsed. Residents said they heard the blast from some distance away.\nAl Jazeera's Kamal Hyder, reporting from Islamabad, said at least six of the attackers were killed in the fighting. He added that Pakistan accuses the Afghan Taliban of allowing the TTP and other groups that orchestrate attacks to operate from Afghan territory. Officials in Kabul deny the accusation.\nThe TTP is separate from, but allied with, the Taliban, which returned to power in Afghanistan in 2021.\n\"Kohat is close to the Afghan border, it is the main city en route to the restive North Waziristan region, it is also on the way to Bannu and Dera Ismail Khan. Over the past few months, we've seen deadly attacks on all these areas,\" Hyder said.\nThose armed groups are trying to \"overthrow the Pakistan government\", said Michael Semple, a visiting professor at Queen's University Belfast and a former EU representative in Afghanistan who negotiated with the Afghan Taliban.\nSophisticated attacks such as in Kohat could not be attempted without planning, logistics and training, Semple told Al Jazeera.\n\"Essentially, this seems to fit into the pattern of the Afghan Taliban providing sanctuary to both al-Qaeda and different factions of the TTP to do the kind of training for this kind of attack,\" he added.\nThe tension has seen both states launch intermittent cross-border attacks.\nThe attack in Kohat came the day after a roadside bomb killed six soldiers in a security forces convoy in the northwestern Hangu district.\nGovernment troops raided various areas on Thursday and killed 10 suspected Taliban fighters, the military and police said.\nPakistan's Prime Minister Shehbaz Sharif condemned the bomb attack and directed authorities to accelerate rescue operations.\nThe Ministry of Interior said the attackers' \"cowardly actions\" could not weaken the \"nation's firm resolve\".",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "Deadly blast hits mosque at Pakistan police complex"
+    ],
+    [
+     "eq",
+     "A"
+    ],
+    [
+     "ins",
+     "suicide"
+    ],
+    [
+     "eq",
+     "bomb attack at a mosque"
+    ],
+    [
+     "ins",
+     "and subsequent gun battle"
+    ],
+    [
+     "eq",
+     "in Pakistan's restive"
+    ],
+    [
+     "del",
+     "north-west has"
+    ],
+    [
+     "ins",
+     "northwest have"
+    ],
+    [
+     "eq",
+     "killed at least"
+    ],
+    [
+     "del",
+     "15"
+    ],
+    [
+     "ins",
+     "31"
+    ],
+    [
+     "eq",
+     "people,"
+    ],
+    [
+     "ins",
+     "including 16 police personnel,"
+    ],
+    [
+     "eq",
+     "with"
+    ],
+    [
+     "del",
+     "more than 50 reported injured. An"
+    ],
+    [
+     "ins",
+     "dozens of others injured, according to the AFP news agency. As worshippers gathered for Friday prayers, an"
+    ],
+    [
+     "eq",
+     "explosive-laden car was rammed into the entrance of a mosque at a police headquarters in"
+    ],
+    [
+     "del",
+     "Kohat,"
+    ],
+    [
+     "ins",
+     "Kohat. The city is"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "the province of"
+    ],
+    [
+     "eq",
+     "Khyber Pakhtunkhwa"
+    ],
+    [
+     "ins",
+     "province"
+    ],
+    [
+     "eq",
+     "near the Afghan"
+    ],
+    [
+     "del",
+     "border, as"
+    ],
+    [
+     "ins",
+     "border. Recommended Stories list of 4 items - list 1 of 4Pakistan pledges full committment to defence of Saudi Arabia - list 2 of 4India-Pakistan navy ship collision sparks alarm over unintended escalation - list 3 of 4Bomb attack at Pakistan mosque kills at least 31"
+    ],
+    [
+     "eq",
+     "people"
+    ],
+    [
+     "del",
+     "gathered for Friday prayers."
+    ],
+    [
+     "ins",
+     "- list 4 of 4Deadly blast hits mosque at Pakistan police complex A faction of the Pakistan Taliban, known by the acronym TTP, claimed responsibility. Ittehadul Mujahideen, which means Mujahideen Alliance and is linked to Taliban commander Hafiz Gul Bahadur, said it carried out the suicide bomb attack. Provincial police chief Zulfikar Hameed confirmed the suicide bombing. After the explosion, gunmen attempted to enter the police compound and exchanged fire with officers."
+    ],
+    [
+     "eq",
+     "At least 15 bodies and more than 50 injured"
+    ],
+    [
+     "del",
+     "people"
+    ],
+    [
+     "eq",
+     "were taken to"
+    ],
+    [
+     "del",
+     "hospital in the town,"
+    ],
+    [
+     "ins",
+     "hospital, said"
+    ],
+    [
+     "eq",
+     "Dr Tahir"
+    ],
+    [
+     "del",
+     "Shah said,"
+    ],
+    [
+     "ins",
+     "Shah,"
+    ],
+    [
+     "eq",
+     "according to the dpa news agency."
+    ],
+    [
+     "del",
+     "The death toll could rise as several injured"
+    ],
+    [
+     "ins",
+     "Sources told Al Jazeera that at least 75"
+    ],
+    [
+     "eq",
+     "people were"
+    ],
+    [
+     "del",
+     "in a critical condition, he added. There was no immediate claim of responsibility for the attack. However, both a regional affiliate"
+    ],
+    [
+     "ins",
+     "injured. Senior rescue official Bilal Faizi said most"
+    ],
+    [
+     "eq",
+     "of the"
+    ],
+    [
+     "del",
+     "ISIL armed group"
+    ],
+    [
+     "ins",
+     "wounded were worshippers, the Associated Press news agency reported. The mosque was badly damaged,"
+    ],
+    [
+     "eq",
+     "and the"
+    ],
+    [
+     "del",
+     "Pakistani Taliban (TTP) are active"
+    ],
+    [
+     "ins",
+     "police station's outer wall collapsed. Residents said they heard the blast from some distance away. Al Jazeera's Kamal Hyder, reporting from Islamabad, said at least six of the attackers were killed"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "region and regularly target security forces. Violence has surged in Pakistan's remote regions near"
+    ],
+    [
+     "ins",
+     "fighting. He added that Pakistan accuses"
+    ],
+    [
+     "eq",
+     "the Afghan"
+    ],
+    [
+     "del",
+     "border in recent years. Islamabad accuses Afghanistan's"
+    ],
+    [
+     "eq",
+     "Taliban"
+    ],
+    [
+     "del",
+     "rulers"
+    ],
+    [
+     "eq",
+     "of allowing"
+    ],
+    [
+     "del",
+     "militants who"
+    ],
+    [
+     "ins",
+     "the TTP and other groups that"
+    ],
+    [
+     "eq",
+     "orchestrate attacks"
+    ],
+    [
+     "del",
+     "in Pakistan"
+    ],
+    [
+     "eq",
+     "to operate from Afghan territory. Officials in Kabul deny the accusation."
+    ],
+    [
+     "del",
+     "However,"
+    ],
+    [
+     "ins",
+     "The TTP is separate from, but allied with,"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "issue"
+    ],
+    [
+     "ins",
+     "Taliban, which returned to power in Afghanistan in 2021. \"Kohat is close to the Afghan border, it is the main city en route to the restive North Waziristan region, it is also on the way to Bannu and Dera Ismail Khan. Over the past few months, we've seen deadly attacks on all these areas,\" Hyder said. Those armed groups are trying to \"overthrow the Pakistan government\", said Michael Semple, a visiting professor at Queen's University Belfast and a former EU representative in Afghanistan who negotiated with the Afghan Taliban. Sophisticated attacks such as in Kohat could not be attempted without planning, logistics and training, Semple told Al Jazeera. \"Essentially, this seems to fit into the pattern of the Afghan Taliban providing sanctuary to both al-Qaeda and different factions of the TTP to do the kind of training for this kind of attack,\" he added. The tension"
+    ],
+    [
+     "eq",
+     "has seen"
+    ],
+    [
+     "ins",
+     "both states launch intermittent cross-border attacks. The attack in Kohat came"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "pair swap strikes across"
+    ],
+    [
+     "ins",
+     "day after a roadside bomb killed six soldiers in a security forces convoy in"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "border across recent months. More"
+    ],
+    [
+     "ins",
+     "northwestern Hangu district. Government troops raided various areas on Thursday and killed 10 suspected Taliban fighters, the military and police said. Pakistan's Prime Minister Shehbaz Sharif condemned the bomb attack and directed authorities"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "come..."
+    ],
+    [
+     "ins",
+     "accelerate rescue operations. The Ministry of Interior said the attackers' \"cowardly actions\" could not weaken the \"nation's firm resolve\"."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 3.0053,
+  "numbers_changed": [
+   "1",
+   "10",
+   "15",
+   "16",
+   "2",
+   "2021",
+   "3",
+   "31",
+   "4",
+   "50",
+   "75"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 5,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.472,
+ "similarity": 0.8246,
+ "adjudicated_by": "rules"
+}
