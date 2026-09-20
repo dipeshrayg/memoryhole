@@ -1,0 +1,52 @@
+{
+ "id": "eaa6c6d527891f59-c958353d-2e26d2d1",
+ "url": "https://www.france24.com/en/americas/20260919-trump-says-son-repaid-russian-oligarch-who-funded-wedding-festivities",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-20T11:04:40Z",
+ "date": "2026-09-20",
+ "old_title": "Trump says son repaid Russian oligarch who funded wedding festivities",
+ "new_title": "Trump claims son repaid Russian oligarch who funded wedding festivities",
+ "old_text": "Trump says son repaid Russian oligarch who funded wedding festivities\nUS President Donald Trump said Friday that his eldest son had repaid a Kremlin-linked Russian businessman who funded two days of lavish wedding celebrations in the Bahamas, after the gift raised questions over foreign influence and ethics.\nUS President Donald Trump said Friday that his eldest son had reimbursed a Kremlin-linked Russian businessman who paid for two days of wedding celebrations in the Bahamas in May.\nDonald Trump Jr. and Bettina Trump confirmed on Monday that their \"dear friend\" Umar Kremlev \"very generously hosted two incredible nights\".\nThe lavish gift sparked questions about ethics and foreign influence.\n\"It's totally allowed but as I understand it, he paid him back,\" Trump said when an AFP reporter asked him in the Oval Office if it had been appropriate for his son to accept the gift.\n\"I guess a friend of his gave him a wedding party. That's very common, I've heard of many people giving wedding parties. I've given many parties.\"\nPressed on the fact that Don Jr. had not previously mentioned paying back Kremlev, Trump replied: \"When I heard the story, I asked about it and he said 'No, I'm paying him back, Dad,' and that was a while ago, so I've heard he's paid him.\"\nThe wedding payment first emerged after the ProPublica investigative website reported that Kremlev footed the bill for the parties, paying hundreds of thousands of dollars.\nTrump said at the time that he did not know Kremlev. He did not attend the wedding, saying he was too busy with talks on the Iran war.\nDon Jr. and Bettina Trump had confirmed the gift in a joint Instagram post in which they defended it.\n\"It's unfortunate that something so personal and happy can be recast as something political or sinister simply because of who someone is or where they come from,\" the post added.\nKremlev is head of the International Boxing Association (IBA), with which the International Olympic Committee severed links after repeated warnings over financial governance and ethical concerns.\nRussian President Vladimir Putin presented Kremlev with the \"Order of Friendship\" award in April 2026, according to an IBA press release, which featured a photo of Putin and Kremlev shaking hands.\nThe IBA website also featured photos of Donald Trump Jr. on stage with Kremlev at an event in Istanbul in September 2025.\nProPublica posted a group photo from the wedding that it said showed the top of Kremlev's head.\nAccording to Russian investigative media outlet Proekt, Kremlev is a Tajik native who worked as a mid-level boxing promoter and cultivated links with the Federal Protective Service (FSO), whose role is to protect high-level officials in Russia.\nKremlev is also a member of the pro-Kremlin Night Wolves biker club, it reported.\nThe Night Wolves rode en masse to Ukraine's Crimea peninsula just after it was annexed by Russia in March 2014, and members have also fought side by side with pro-Russian separatists in eastern Ukraine.\nDuring his first term, President Trump faced an investigation into alleged collusion between his 2016 election campaign and Russia, which the Republican billionaire branded a \"witch hunt\".\n(FRANCE 24 with AFP)",
+ "new_text": "Trump claims son repaid Russian oligarch who funded wedding festivities\nUS President Donald Trump said Friday that his eldest son had repaid a Kremlin-linked Russian businessman who funded two days of lavish wedding celebrations in the Bahamas, after the gift raised questions over foreign influence and ethics.\nUS President Donald Trump said Friday that his eldest son had reimbursed a Kremlin-linked Russian businessman who paid for two days of wedding celebrations in the Bahamas in May.\nDonald Trump Jr. and Bettina Trump confirmed on Monday that their \"dear friend\" Umar Kremlev \"very generously hosted two incredible nights\".\nThe lavish gift sparked questions about ethics and foreign influence.\n\"It's totally allowed but as I understand it, he paid him back,\" Trump said when an AFP reporter asked him in the Oval Office if it had been appropriate for his son to accept the gift.\n\"I guess a friend of his gave him a wedding party. That's very common, I've heard of many people giving wedding parties. I've given many parties.\"\nPressed on the fact that Don Jr. had not previously mentioned paying back Kremlev, Trump replied: \"When I heard the story, I asked about it and he said 'No, I'm paying him back, Dad,' and that was a while ago, so I've heard he's paid him.\"\nThe wedding payment first emerged after the ProPublica investigative website reported that Kremlev footed the bill for the parties, paying hundreds of thousands of dollars.\nTrump said at the time that he did not know Kremlev. He did not attend the wedding, saying he was too busy with talks on the Iran war.\nDon Jr. and Bettina Trump had confirmed the gift in a joint Instagram post in which they defended it.\n\"It's unfortunate that something so personal and happy can be recast as something political or sinister simply because of who someone is or where they come from,\" the post added.\nKremlev is head of the International Boxing Association (IBA), with which the International Olympic Committee severed links after repeated warnings over financial governance and ethical concerns.\nRussian President Vladimir Putin presented Kremlev with the \"Order of Friendship\" award in April 2026, according to an IBA press release, which featured a photo of Putin and Kremlev shaking hands.\nThe IBA website also featured photos of Donald Trump Jr. on stage with Kremlev at an event in Istanbul in September 2025.\nProPublica posted a group photo from the wedding that it said showed the top of Kremlev's head.\nAccording to Russian investigative media outlet Proekt, Kremlev is a Tajik native who worked as a mid-level boxing promoter and cultivated links with the Federal Protective Service (FSO), whose role is to protect high-level officials in Russia.\nKremlev is also a member of the pro-Kremlin Night Wolves biker club, it reported.\nThe Night Wolves rode en masse to Ukraine's Crimea peninsula just after it was annexed by Russia in March 2014, and members have also fought side by side with pro-Russian separatists in eastern Ukraine.\nDuring his first term, President Trump faced an investigation into alleged collusion between his 2016 election campaign and Russia, which the Republican billionaire branded a \"witch hunt\".\n(FRANCE 24 with AFP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Trump"
+    ],
+    [
+     "del",
+     "says"
+    ],
+    [
+     "ins",
+     "claims"
+    ],
+    [
+     "eq",
+     "son repaid Russian oligarch who funded wedding festivities US President Donald Trump"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0038,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9994,
+ "adjudicated_by": "rules"
+}

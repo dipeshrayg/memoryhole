@@ -1,0 +1,122 @@
+{
+ "id": "070d392405e7174d-54dc2bc6-fc5c6225",
+ "url": "https://www.independent.co.uk/news/uk/politics/michael-marra-scottish-labour-leader-sarwar-latest-b3052843.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-20T11:06:41Z",
+ "date": "2026-09-20",
+ "old_title": "New Scottish Labour leader announced after Sarwar quit to join Burnham's government",
+ "new_title": "New Scottish Labour leader announced after Sarwar quit to join Burnham's government",
+ "old_text": "Labour MSP Michael Marra has been elected as his party's new Scottish leader, succeeding Anas Sarwar who quit Holyrood to join Andy Burnham's government.\nMSPs Marra and Joe Fagan competed to succeed Anas Sarwar after he stood down from the post in July this year, saying afterwards it was the \"hardest job in British politics\".\nNorth East Scotland MSP Mr Marra defeated his leadership rival Joe Fagan by 4,266 votes to 2,485.\nMarra takes charge after the party suffered its worst result in the history of devolution in May's Scottish Parliament elections - returning just 17 MSPs.\nWhile the now Lord Sarwar had originally vowed to stay on in the post in the wake of that defeat, he quit Holyrood in July to join the House of Lords, becoming a trade minister in new prime minister Andy Burnham's government.\nThat appointment came after the then Scottish Labour leader became the first senior figure in the party to publicly call for Mr Burnham's predecessor Keir Starmer to resign as prime minister.\nMarra is Scottish Labour's 11th leader of the devolution era, excluding those who have held the post on an interim basis.\nHaving worked for Dundee University prior to entering politics, Mr Marra was made Scottish Labour's education spokesperson in 2021.\nThe former Dundee councillor then went on to become his party's finance spokesperson some two years later.\nHe describes himself as being \"rooted in Labour\", telling party members during the campaign how he went on trade union marches as a child with his sister and his parents.\nThis is a breaking story - more follows...",
+ "new_text": "Labour MSP Michael Marra has been elected as his party's new Scottish leader, succeeding Anas Sarwar who quit Holyrood to join Andy Burnham's government.\nMSPs Marra and Joe Fagan competed to succeed Anas Sarwar after he stood down from the post in July this year, saying afterwards it was the \"hardest job in British politics\".\nNorth East Scotland MSP Mr Marra defeated his leadership rival Joe Fagan by 4,266 votes to 2,485.\nMarra takes charge after the party suffered its worst result in the history of devolution in May's Scottish Parliament elections - returning just 17 MSPs.\nWhile the now Lord Sarwar had originally vowed to stay on in the post in the wake of that defeat, he quit Holyrood in July to join the House of Lords, becoming a trade minister in new prime minister Andy Burnham's government.\nThat appointment came after the then Scottish Labour leader became the first senior figure in the party to publicly call for Mr Burnham's predecessor Keir Starmer to resign as prime minister.\nMarra is Scottish Labour's 11th leader of the devolution era, excluding those who have held the post on an interim basis.\nIn his victory speech in Edinburgh, Mr Marra said: \"To be entrusted with the leadership of our Scottish Labour Party is a singular honour and a great responsibility.\n\"I am grateful for your trust and take on the duty of advancing our cause of a fairer, more equal Scotland with all that I can possibly give.\"\nHe added: \"It is the honour of my life to be elected leader of the Scottish Labour Party. I know what a responsibility it is.\"\nOutlining his vision for Scottish Labour under his leadership, Mr Marra said: \"Rather than reaching straight for the political attack line, we should be convening all those who have been failed, building movements and alliances, and delivering change.\n\"That's what Andy Burnham's success in Manchester was all about. It was starting with the people and the policy, not the politics.\"\nPrime Minister Mr Burnham congratulated him on his win and said he would \"give it everything you've got\", adding: \"Looking forward to working closely together to bring back hope in Scotland.\"\nMr Marra takes on the role just more than five years after being elected to the Scottish Parliament to represent the North East region.\nHis sister Jenny Marra had previously been a Labour MSP for the same area but stood down from Holyrood at the election that saw her brother elected.\nHaving worked for Dundee University prior to entering politics, he was made Scottish Labour's education spokesman in 2021.\nThe former Dundee councillor then went on to become his party's finance spokesman some two years later.\nHe describes himself as being \"rooted in Labour\", telling party members during the campaign how he as a child he went on trade union marches with his sister and his parents.\nHowever, with Labour having seen its tally of MSPs fall again in the 2026 Scottish Parliament election, he was clear to members that change is needed.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "era, excluding those who have held the post on an interim basis."
+    ],
+    [
+     "ins",
+     "In his victory speech in Edinburgh, Mr Marra said: \"To be entrusted with the leadership of our Scottish Labour Party is a singular honour and a great responsibility. \"I am grateful for your trust and take on the duty of advancing our cause of a fairer, more equal Scotland with all that I can possibly give.\" He added: \"It is the honour of my life to be elected leader of the Scottish Labour Party. I know what a responsibility it is.\" Outlining his vision for Scottish Labour under his leadership, Mr Marra said: \"Rather than reaching straight for the political attack line, we should be convening all those who have been failed, building movements and alliances, and delivering change. \"That's what Andy Burnham's success in Manchester was all about. It was starting with the people and the policy, not the politics.\" Prime Minister Mr Burnham congratulated him on his win and said he would \"give it everything you've got\", adding: \"Looking forward to working closely together to bring back hope in Scotland.\" Mr Marra takes on the role just more than five years after being elected to the Scottish Parliament to represent the North East region. His sister Jenny Marra had previously been a Labour MSP for the same area but stood down from Holyrood at the election that saw her brother elected."
+    ],
+    [
+     "eq",
+     "Having worked for Dundee University prior to entering politics,"
+    ],
+    [
+     "del",
+     "Mr Marra"
+    ],
+    [
+     "ins",
+     "he"
+    ],
+    [
+     "eq",
+     "was made Scottish Labour's education"
+    ],
+    [
+     "del",
+     "spokesperson"
+    ],
+    [
+     "ins",
+     "spokesman"
+    ],
+    [
+     "eq",
+     "in 2021. The former Dundee councillor then went on to become his party's finance"
+    ],
+    [
+     "del",
+     "spokesperson"
+    ],
+    [
+     "ins",
+     "spokesman"
+    ],
+    [
+     "eq",
+     "some two years later. He describes himself as being \"rooted in Labour\", telling party members during the campaign how he"
+    ],
+    [
+     "ins",
+     "as a child he"
+    ],
+    [
+     "eq",
+     "went on trade union marches"
+    ],
+    [
+     "del",
+     "as a child"
+    ],
+    [
+     "eq",
+     "with his sister and his parents."
+    ],
+    [
+     "del",
+     "This"
+    ],
+    [
+     "ins",
+     "However, with Labour having seen its tally of MSPs fall again in the 2026 Scottish Parliament election, he was clear to members that change"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "del",
+     "a breaking story - more follows..."
+    ],
+    [
+     "ins",
+     "needed."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.0151,
+  "numbers_changed": [
+   "2026"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9981,
+ "adjudicated_by": "rules"
+}

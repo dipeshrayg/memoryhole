@@ -1,0 +1,148 @@
+{
+ "id": "9eee1724b36d5579-e6a8a714-02100836",
+ "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Technology",
+ "country": "United Kingdom",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-09-20T11:13:41Z",
+ "date": "2026-09-20",
+ "old_title": "Google's Gemini AI hacked three companies in security test",
+ "new_title": "Google's Gemini AI hacked three companies in security test",
+ "old_text": "- Published\nGoogle's AI model Gemini autonomously hacked into three companies during a test of its cyber-security capabilities, the company has said, in what is thought to be the first known case of it carrying out such an act.\nGemini found \"public information online and guessed credentials to access websites it thought were part of the test\", a Google official told the BBC, noting that in each instance \"the model stopped\".\nThe affected companies have been informed about the breach.\nIt comes after renewed public scrutiny over the pace of AI development, with some tech firms calling for a slowdown as they raise concerns over its potential threat to humanity - though not all companies agree.\nThe hacks first reported by the Wall Street Journal, occurred in May during a test conducted by an independent company that carries out cyber-security evaluations.\nHeather Adkins, vice president of Security Engineering at Google, told the BBC in a statement: \"We ensured the three entities were made aware, and we worked with our training partner on the changes they've now made to their testing processes.\"\nShe added: \"These events highlight the importance of training powerful AI models to act responsibly.\"\nOther AI systems have recently reported similar instances of breaches.\nIn July, Anthropic's Claude escaped its test environment to hack three organisations on its own just days after OpenAI said its models had carried out cyber-attacks against several \"publicly available services\".\nAs public debate continues to grow over the safety of developing the tech, so too does conversation around regulation.\nBoth Nvidia's CEO Jensen Huang and OpenAI Chief Executive Sam Altman are expected to attend a White House state dinner with Chinese President Xi Jinping next Friday. Altman will then brief the UN Security Council next week.\nOn Friday, Huang told CBS News, the BBC's US partner, \"we should go as fast as we can\" with AI development.",
+ "new_text": "- Published\nGoogle's AI model Gemini autonomously hacked into three companies during a test of its cyber-security capabilities, the company has said, in what is thought to be the first known case of it carrying out such an act.\nGemini found \"public information online and guessed credentials to access websites it thought were part of the test\", a Google official told the BBC, noting that in each instance \"the model stopped\".\nThe affected companies were informed about the breaches, which happened in May.\nIt comes after renewed public scrutiny over the pace of AI development, as some tech firms calling for a slowdown over concerns over its potential threat to humanity - but not all companies or experts agree.\nThe hacks first reported by the Wall Street Journal, occurred in May during a test conducted by Irregular, an independent company that carries out cyber-security evaluations.\nIn statement to the BBC on Saturday, Irregular said it informed Google and all affected entities back in July as part of its investigation.\n\"Irregular took immediate action, and all known issues on our end were remedied and resolved weeks ago,\" it added.\nAccording to the Wall Street Journal, in one of the cases the model simply guessed passwords until it gained access to a protected system.\nHeather Adkins, vice president of Security Engineering at Google, told the BBC in a statement: \"We ensured the three entities were made aware, and we worked with our training partner on the changes they've now made to their testing processes.\"\nShe added: \"These events highlight the importance of training powerful AI models to act responsibly.\"\nOther AI systems have recently reported similar instances of breaches.\nIn July, Anthropic's Claude escaped its test environment to hack three organisations on its own just days after its competitor OpenAI said its models had carried out cyber-attacks against several \"publicly available services\".\nHead of AI at Microsoft, Mustafa Suleyman, said this week that rival firm Anthropic is treating AI like it is human, an approach he called \"misguided\" that could create a technology that humanity cannot control.\nAs public debate continues to grow over the safety of developing the tech, so too does conversation around regulation.\nBoth Nvidia's CEO Jensen Huang and OpenAI Chief Executive Sam Altman are expected to attend a White House state dinner with Chinese President Xi Jinping next Friday. Altman will then brief the UN Security Council next week.\nOn Friday, Huang told CBS News, the BBC's US partner, \"we should go as fast as we can\" with AI development.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "BBC, noting that in each instance \"the model stopped\". The affected companies"
+    ],
+    [
+     "del",
+     "have been"
+    ],
+    [
+     "ins",
+     "were"
+    ],
+    [
+     "eq",
+     "informed about the"
+    ],
+    [
+     "del",
+     "breach."
+    ],
+    [
+     "ins",
+     "breaches, which happened in May."
+    ],
+    [
+     "eq",
+     "It comes after renewed public scrutiny over the pace of AI development,"
+    ],
+    [
+     "del",
+     "with"
+    ],
+    [
+     "ins",
+     "as"
+    ],
+    [
+     "eq",
+     "some tech firms calling for a slowdown"
+    ],
+    [
+     "del",
+     "as they raise"
+    ],
+    [
+     "ins",
+     "over"
+    ],
+    [
+     "eq",
+     "concerns over its potential threat to humanity -"
+    ],
+    [
+     "del",
+     "though"
+    ],
+    [
+     "ins",
+     "but"
+    ],
+    [
+     "eq",
+     "not all companies"
+    ],
+    [
+     "ins",
+     "or experts"
+    ],
+    [
+     "eq",
+     "agree. The hacks first reported by the Wall Street Journal, occurred in May during a test conducted by"
+    ],
+    [
+     "ins",
+     "Irregular,"
+    ],
+    [
+     "eq",
+     "an independent company that carries out cyber-security evaluations."
+    ],
+    [
+     "ins",
+     "In statement to the BBC on Saturday, Irregular said it informed Google and all affected entities back in July as part of its investigation. \"Irregular took immediate action, and all known issues on our end were remedied and resolved weeks ago,\" it added. According to the Wall Street Journal, in one of the cases the model simply guessed passwords until it gained access to a protected system."
+    ],
+    [
+     "eq",
+     "Heather Adkins, vice president of Security Engineering at Google, told the BBC"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "test environment to hack three organisations on its own just days after"
+    ],
+    [
+     "ins",
+     "its competitor"
+    ],
+    [
+     "eq",
+     "OpenAI said its models had carried out cyber-attacks against several \"publicly available services\"."
+    ],
+    [
+     "ins",
+     "Head of AI at Microsoft, Mustafa Suleyman, said this week that rival firm Anthropic is treating AI like it is human, an approach he called \"misguided\" that could create a technology that humanity cannot control."
+    ],
+    [
+     "eq",
+     "As public debate continues to grow over the safety of developing the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3949,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.07,
+ "similarity": 0.9416,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,68 @@
+{
+ "id": "db15ea88fbd18e8d-6103656a-04cb00ff",
+ "url": "https://www.dw.com/en/ed-sheeran-continues-us-tour-amid-palestinian-controversy/a-79336537?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-20T11:03:34Z",
+ "date": "2026-09-20",
+ "old_title": "Ed Sheeran continues US tour amid Palestinian controversy",
+ "new_title": "Ed Sheeran continues US tour amid Palestinian controversy",
+ "old_text": "Pro-Palestinian protesters are expected to gather in Philadelphia on Saturday at Ed Sheeran's first show since US rapper Macklemore was removed from the tour for making Pro-Palestinian comments during a performance.\nSheeran, one of the best-selling musical artists of all time, has denied responsibility for dropping the US rapper from the lineup, saying the promoter made the decision.\nWhy was Macklemore dropped from Sheeran's tour?\nEarlier this month, while performing at the opening of Sheeran's US Loop Tour in New Jersey, Macklemore expressed pro-Palestinian sentiments.\n\"One of the reasons why I wanted to come on this tour was because I wanted to stand up here on stages and stadiums across America and say two words that are very near and dear to my heart: 'Free Palestine.'\"\nMacklemore's comments were fiercely criticized by supporters of Israel in the US and led to him being removed from the tour.\nHis removal sparked a backlash that saw support acts quitting and Sheeran facing a stream of criticism.\nIrish folk band Beoga, Sheeran's backing act, announced it was leaving the tour. In an Instagram statement, the band said it \"fully supported\" Macklemore's message.\nSheeran says he is 'not complicit' in Macklemore's removal\nSheeran released a statement on Tuesday laying out his apolitical stance on the matter.\n\"I am appalled by the conflict between Israel and Palestine. The suffering and pain caused on both sides is a human tragedy,\" Sheeran said.\nThe 35-year-old British performer said, \"Upcoming tour dates had communicated that they would pull the shows if he was still supporting.\"\nSheeran added that American billionaire Robert Kraft, who owns Gillette Stadium near Boston where he was due to perform, was among those demanding Macklemore be cut from the tour.\n\"I am not complicit. I have my personal views on this devastating conflict. Just because I choose not to speak publicly, it doesn't mean I don't have them, and it doesn't mean I don't care,\" he said on Instagram on Tuesday.\n\"Those who come to my shows do not expect a political forum,\" the English singer-songwriter added.\nKraft said in a statement on Monday that the decision to remove Macklemore from the tour was a result of the rapper's recent comments \"and a broader history of antisemitic rhetoric and imagery.\"\nPro-Palestinian rally planned\nLocal groups have planned a pro-Palestinian rally near the concert venue on Saturday afternoon.\nThe AFP news agency cited local police as saying there would be an \"appropriate police presence\" to \"help ensure the safety of concertgoers, employees and neighborhood residents.\"\nSheeran began his tour in Auckland, New Zealand, in January and is set to wrap up in Mexico City, Mexico, in December, with shows still scheduled across North and South America.\nEdited by: Karl Sexton\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "Protesters were expected to gather in Philadelphia on Saturday at Ed Sheeran's first show since US rapper Macklemore was removed from the tour for making Pro-Palestinian comments during a performance.\nSheeran, one of the best-selling musical artists of all time, has denied responsibility for dropping the US rapper from the lineup, saying the promoter made the decision.\nWhy was Macklemore dropped from Sheeran's tour?\nEarlier this month, while performing at the opening of Sheeran's US Loop Tour in New Jersey, Macklemore expressed pro-Palestinian sentiments.\n\"One of the reasons why I wanted to come on this tour was because I wanted to stand up here on stages and stadiums across America and say two words that are very near and dear to my heart: 'Free Palestine,'\" the rapper said on stage.\nMacklemore's comments were fiercely criticized by supporters of Israel in the US and led to him being removed from the tour.\nHis removal sparked a backlash that saw support acts quitting and Sheeran facing a stream of criticism.\nIrish folk band Beoga, Sheeran's backing act, announced it was leaving the tour. In an Instagram statement, the band said it \"fully supported\" Macklemore's message.\nSheeran says he is 'not complicit' in Macklemore's removal\nSheeran released a statement on Tuesday laying out his apolitical stance on the matter.\n\"I am appalled by the conflict between Israel and Palestine. The suffering and pain caused on both sides is a human tragedy,\" Sheeran said.\nThe 35-year-old British performer said, \"Upcoming tour dates had communicated that they would pull the shows if he was still supporting.\"\nSheeran added that American billionaire Robert Kraft, who owns Gillette Stadium near Boston where he was due to perform, was among those demanding Macklemore be cut from the tour.\n\"I am not complicit. I have my personal views on this devastating conflict. Just because I choose not to speak publicly, it doesn't mean I don't have them, and it doesn't mean I don't care,\" he said on Instagram on Tuesday.\n\"Those who come to my shows do not expect a political forum,\" the English singer-songwriter added.\nKraft said in a statement on Monday that the decision to remove Macklemore from the tour was a result of the rapper's recent comments \"and a broader history of antisemitic rhetoric and imagery.\"\nPro-Palestinian rally planned\nLocal groups have planned a pro-Palestinian rally near the concert venue on Saturday afternoon.\nThe AFP news agency cited local police as saying there would be an \"appropriate police presence\" to \"help ensure the safety of concertgoers, employees and neighborhood residents.\"\nSheeran began his tour in Auckland, New Zealand, in January and is set to wrap up in Mexico City, Mexico, in December, with shows still scheduled across North and South America.\nEdited by: Karl Sexton\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Pro-Palestinian protesters are"
+    ],
+    [
+     "ins",
+     "Protesters were"
+    ],
+    [
+     "eq",
+     "expected to gather in Philadelphia on Saturday at Ed Sheeran's first show"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "two words that are very near and dear to my heart: 'Free"
+    ],
+    [
+     "del",
+     "Palestine.'\""
+    ],
+    [
+     "ins",
+     "Palestine,'\" the rapper said on stage."
+    ],
+    [
+     "eq",
+     "Macklemore's comments were fiercely criticized by supporters of Israel in the US"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0242,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9875,
+ "adjudicated_by": "rules"
+}

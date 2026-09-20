@@ -1,0 +1,53 @@
+Scientists find that âperfectâ systems may be surprisingly fragile
+Scientists found that a surprising dose of disorder can make complex systems more stable, turning âimperfectionsâ into a potential design advantage.
+- Date:
+- September 19, 2026
+- Source:
+- Northwestern University
+- Summary:
+- Complex systems may work better when their parts are not perfectly alike. Northwestern physicists found that carefully balanced variation, or âdisorder,â can make networks such as power grids, ecosystems, neurons, and materials more stable. Even random differences sometimes improved stability compared with completely uniform systems. The discovery could help researchers design more resilient technologies and explain why natural systems are so rarely perfectly uniform.
+- Share:
+Perfection may not always be the best recipe for stability, especially in complex systems such as electrical grids, ecosystems, and advanced materials.
+For years, researchers often worked from the assumption that networks should perform more reliably when their individual parts behave as similarly as possible. Real systems, however, rarely look that tidy. Power generators operate differently from one another, neurons vary in form and behavior, species occupy different roles in ecosystems, and the components inside engineered materials are not always perfectly uniform.
+Physicists at Northwestern University now say those differences may sometimes be an advantage rather than a defect.
+Why Disorder Can Improve Stability
+In a new study, the researchers created a mathematical framework designed to determine when variation, which scientists often describe as disorder, can actually make a network more stable. Their results suggest that many physical, engineered, and biological systems can become more resilient when their components, or the connections between them, are not identical.
+That finding challenges the idea that uniformity should always be the goal. Instead, carefully introducing differences into a system could help engineers design more resilient power grids, architected materials and other interconnected technologies. The work also may help explain why irregularity is so common in natural systems, including neural, biological and ecological networks.
+The study was published Sept. 17 in the journal Science. The researchers also developed a website that allows users to explore the framework visually. By adjusting different parameters, users can watch network components interact, synchronize and form organized patterns.
+"Previous studies found a growing number of cases in which disorder (also called heterogeneity, irregularity or asymmetry) across a network's nodes can actually improve stability and desirable behavior," said Northwestern's Adilson Motter, who led the work. "We have seen this in important real-world systems, including power grids, metamaterials and brain computation. But we didn't know how widespread this effect was or which kinds of systems could benefit from it. Our new study answers those questions, explains why these differences can improve stability and even reveals why scientists overlooked this effect for so long."
+Motter is the Charles E. and Emma H. Morrison Professor of Physics and Astronomy at Northwestern's Weinberg College of Arts and Sciences and director of the Center for Network Dynamics. Northwestern postdoctoral researcher Arthur Montanari and graduate student Pietro Zanin, both members of the Motter group, are the study's co-first authors.
+Why Older Network Models Missed the Effect
+Many interconnected systems survive only if they can recover from disturbances. A strong gust can break apart a flock. A sudden spike in electricity demand can strain a power grid. An impact can deform a material.
+Scientists often represent these systems as networks made up of individual components, called nodes, that are connected by links. In an electrical grid, generators act as the nodes and transmission lines form the links between them. In an ecological network, species are the nodes while their relationships (competition, cooperation, and predation) form the links.
+Traditionally, researchers have focused heavily on how those nodes are connected. Many studies also rely on simplified mathematical models, including the widely used Kuramoto model, that represent each node with only a single variable.
+Those simplified approaches have produced valuable insights, but they can leave out important behavior found in real-world systems, where individual components and their interactions can be far more complicated.
+"Real systems are rarely uniform," Montanari said. "Birds differ in personalities, neurons vary in shape, and even our social relationships can be asymmetric. These differences might appear random, but they can profoundly affect how the whole system behaves."
+Earlier research had already suggested that such differences could sometimes be beneficial. In a 2020 Nature Physics study, Motter's team showed that electrical generators could synchronize more successfully when they operated somewhat differently from one another. A 2025 Nature Communications study led by Montanari found comparable effects in models involving flocking behavior and drone swarms.
+What remained unclear was whether these examples represented rare exceptions or pointed to a much broader rule.
+"Disorder can stabilize networks, but only when the node dynamics are rich enough," Motter said. "Simplified models can inadvertently strip away the very stabilizing effect we want to capture."
+Finding the Right Amount of Disorder
+To investigate the question more broadly, the researchers developed a mathematical framework that could account for more realistic network behavior.
+They first examined systems close to a stable condition. Next, they calculated what happened after small disturbances were introduced. If those disturbances gradually disappeared, the system returned to stability. If they grew larger, the system moved toward instability.
+The team then compared networks whose components were identical with networks containing differences among their components or connections. This allowed the researchers to identify the general circumstances in which heterogeneity can outperform uniformity.
+Motter and his colleagues tested the framework using models of power grids, neurons, flocks, architected materials and ecological networks.
+They found that disorder can improve stability in two main ways. Differences can exist among the nodes themselves, or they can appear in the links connecting those nodes. The effect also depends on both the location and the amount of variation.
+A moderate level of disorder might make a network more stable, while excessive variation could eventually push that same system in the opposite direction.
+"If you make the system more homogeneous, you lose stability," Montanari said. "But if you increase disorder too much, you also lose stability. Our framework can help pinpoint the level of disorder that helps the system achieve optimal stability."
+Random Variation Can Sometimes Be Enough
+The researchers also discovered that beneficial differences do not always need to be carefully designed in advance.
+In many of their models, randomly introduced variation produced greater stability than the best completely uniform configuration. That means simply allowing some degree of diversity within a system can sometimes provide an advantage.
+There was an important exception when the variation occurred in the links connecting nodes rather than within the nodes themselves. In those cases, even networks with relatively simple node dynamics could gain stability from disorder.
+Why Nature May Favor Imperfect Networks
+The findings could help researchers better understand existing complex systems, particularly ecological networks, while also providing engineers with new strategies for designing systems from the ground up.
+One longstanding ecological puzzle is that older mathematical models predicted large, complicated ecosystems should be inherently unstable. Nature, however, contains many ecosystems that are both highly diverse and persistent.
+"Since the 1970s, mathematical models have predicted that large, complex ecosystems should destabilize and collapse," Montanari said. "Yet very large and highly diverse ecosystems persist in nature. Our findings suggest that variation among mutually beneficial interactions, such as those between pollinators and flowers, could help explain this paradox."
+The same principle could eventually influence the design of advanced materials.
+Architected materials are often built from repeating, nearly identical units. The new findings suggest engineers might be able to create different or improved behaviors by deliberately varying the shapes, sizes, orientations, and physical properties of those units.
+To do that effectively, researchers would need to treat these materials as mechanical networks and use models detailed enough to preserve the system's true dynamics. Computational techniques could then be used to search for combinations of variation that provide the greatest benefit.
+"When disorder enhances stability, the next challenge is figuring out how best to design it," Motter said.
+The study, "Disorder-promoted stability," was supported by the Army Research Office (grant number W911NF-22-2-0109) and the National Science Foundation (grant number DMS-2308341). The study also acknowledges the stimulating research environment provided by the NSF-Simons National Institute for Theory and Mathematics in Biology (NSF grant number DMS-2235451 and Simons Foundation grant number MP-TMPS-00005320).
+Story Source:
+Materials provided by Northwestern University. Note: Content may be edited for style and length.
+Journal Reference:
+- Arthur N. Montanari, Pietro Zanin, Adilson E. Motter. Disorder-promoted stability. Science, 2026; 393 (6817): 1241 DOI: 10.1126/science.aeg3946
+Cite This Page:
