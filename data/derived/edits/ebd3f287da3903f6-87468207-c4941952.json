@@ -1,0 +1,112 @@
+{
+ "id": "ebd3f287da3903f6-87468207-c4941952",
+ "url": "https://www.abc.net.au/news/2026-09-20/bushfire-seacombe-central-gippsland-victoria/107174124",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-21T12:30:20Z",
+ "date": "2026-09-21",
+ "old_title": "Watch and Act issued as bushfire burns in Victoria's Central Gippsland",
+ "new_title": "Watch and Act issued as bushfire burns along central Gippsland coast",
+ "old_text": "Watch and Act issued as out-of-control bushfire burns in Victoria's Central Gippsland\nIn short:\nThe CFA has told residents of Golden Beach, Paradise Beach, Seacombe and Dutson Downs in Victoria's Gippsland region to monitor conditions after an out-of-control bushfire broke out on Sunday afternoon.\nThe fire is burning in a south-easterly direction along the Longford-Loch Sport Road at Seacombe.\nWhat's next?\nThe CFA will provide further updates as crews fight the blaze.",
+ "new_text": "Watch and Act issued as out-of-control bushfire burns along Gippsland coast\nIn short:\nThe CFA has told residents of Golden Beach, Paradise Beach, Seacombe and Dutson Downs in Victoria's Gippsland region to monitor conditions after an out-of-control bushfire broke out on Sunday afternoon.\nThe fire is burning at the south end of Longford-Loch Sport Road, in a south-easterly direction towards Paradise Beach.\nWhat's next?\nCFA crews are continuing to fight the blaze.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Watch and Act issued as out-of-control bushfire burns"
+    ],
+    [
+     "del",
+     "in Victoria's Central"
+    ],
+    [
+     "ins",
+     "along"
+    ],
+    [
+     "eq",
+     "Gippsland"
+    ],
+    [
+     "ins",
+     "coast"
+    ],
+    [
+     "eq",
+     "In short: The CFA has told residents of Golden Beach, Paradise Beach,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "an out-of-control bushfire broke out on Sunday afternoon. The fire is burning"
+    ],
+    [
+     "ins",
+     "at the south end of Longford-Loch Sport Road,"
+    ],
+    [
+     "eq",
+     "in a south-easterly direction"
+    ],
+    [
+     "del",
+     "along the Longford-Loch Sport Road at Seacombe."
+    ],
+    [
+     "ins",
+     "towards Paradise Beach."
+    ],
+    [
+     "eq",
+     "What's next?"
+    ],
+    [
+     "del",
+     "The"
+    ],
+    [
+     "eq",
+     "CFA"
+    ],
+    [
+     "del",
+     "will provide further updates as"
+    ],
+    [
+     "eq",
+     "crews"
+    ],
+    [
+     "ins",
+     "are continuing to"
+    ],
+    [
+     "eq",
+     "fight the blaze."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4444,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.973,
+ "adjudicated_by": "rules"
+}

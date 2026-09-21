@@ -1,0 +1,305 @@
+{
+ "id": "4503f2df43db49c2-5ff602a5-09714f30",
+ "url": "https://www.theguardian.com/sport/2026/sep/20/luke-littler-threatens-to-boycott-netherlands-darts-events-after-booing",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-09-21T12:38:45Z",
+ "date": "2026-09-21",
+ "old_title": "Luke Littler threatens to boycott Netherlands darts events after booing",
+ "new_title": "Luke Littler threatens to boycott Netherlands darts events after booing",
+ "old_text": "Luke Littler has threatened to boycott tournaments in the Netherlands after being booed and whistled during the World Series of Darts Finals in Amsterdam.\nThe back-to-back world champion faced a hostile environment during Friday's win over home favourite Danny Noppert and it escalated on Saturday night as referee Charlie Costorphine had to intervene in the last-16 win over Nathan Aspinall.\nLittler has taken a stance against volatile crowds before, refusing to travel to European Tour events in Germany as a result of his treatment from fans there.\nAnd he is \"100 %\" prepared to do the same in the Netherlands. \"With the Germans, I haven't been for a long time, we will have to see in Dortmund whether it changes or stays the same,\" he told Online Darts.\n\"If the Dutch stay like this, then I'm not going to do any Euro tours over there. There's just no point in me travelling, wasting my time whilst I'm getting booed. I just want to play my darts, obviously sign autographs.\n\"The past two nights, I've done nothing, I've just walked off stage without thanking anybody. There's no point thanking everyone when they are booing me.\"\nDespite the bearpit atmosphere, Littler came out on top in a last-leg decider with Aspinall to keep his dream of a clean sweep alive. The 19-year-old is hoping to become the first man to win all 10 major televised tournaments in a calendar year, having triumphed in the first five.\nWelshman Jonny Clayton awaits in the quarter-final on Sunday afternoon.",
+ "new_text": "Luke Littler has threatened to boycott tournaments in the Netherlands after being booed and whistled during the World Series of Darts Finals in Amsterdam. Littler lost to Jonny Clayton in the quarter-finals, with Ross Smith going on to win the event.\nThe back-to-back world champion faced a hostile environment during his win against the home favourite Danny Noppert on Friday and it escalated on Saturday night as the referee had to intervene in the last-16 win against Nathan Aspinall.\nLittler has taken a stance against volatile crowds before, refusing to travel to European Tour events in Germany as a result of his treatment from fans there. He is \"100%\" prepared to do the same in the Netherlands.\n\"With the Germans, I haven't been for a long time, we will have to see in Dortmund whether it changes or stays the same,\" Littler told Online Darts. \"If the Dutch stay like this, then I'm not going to do any Euro tours over there.\"\n\"There's just no point in me travelling, wasting my time whilst I'm getting booed. I just want to play my darts, obviously sign autographs,\" the world No 1 added. \"The past two nights, I've done nothing, I've just walked off stage without thanking anybody. There's no point thanking everyone when they are booing me.\"\nDespite the bearpit atmosphere, Littler came out on top in a last‐leg decider with Aspinall but was defeated 10-4 by Clayton in their quarter-final on Sunday to end the 19-year-old's hopes of becoming the first player to win all 10 major televised tournaments in a calendar year, having triumphed in the first five.\nAfter a competitive start, Clayton levelled at 3-3 with a 136 checkout and he soon took charge of the contest, completing his victory with a checkout of 40 to set up a semi-final tie with fellow Welshman Gerwyn Price.\nPrice went on to beat Clayton 11-7 and followed up with a 10-7 semi-final victory over James Wade to set up a final against Smith, who had claimed a 11-8 win over Gian van Veen in the other final-four tie.\nInitially little could separate Price and Smith during the final but with the score locked at 5-5, Smith suddenly took control, winning the next six straight legs and finishing with an average of 103.89.\nSmith's 11-5 win over Price in the final secured a maiden World Series of Darts Finals crown for the Englishman. Victory also sealed a second major PDC title for \"Smudger\", and his first since the European Championship in 2022.\nHis path to the final saw him beat Josh Rock 10-7 in the quarter-finals to set up that meeting with Van Veen, who had recovered from trailing 8-6 to claim a 10-8 win over Dirk van Duijvenbode in the last eight.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "booed and whistled during the World Series of Darts Finals in Amsterdam."
+    ],
+    [
+     "ins",
+     "Littler lost to Jonny Clayton in the quarter-finals, with Ross Smith going on to win the event."
+    ],
+    [
+     "eq",
+     "The back-to-back world champion faced a hostile environment during"
+    ],
+    [
+     "del",
+     "Friday's"
+    ],
+    [
+     "ins",
+     "his"
+    ],
+    [
+     "eq",
+     "win"
+    ],
+    [
+     "del",
+     "over"
+    ],
+    [
+     "ins",
+     "against the"
+    ],
+    [
+     "eq",
+     "home favourite Danny Noppert"
+    ],
+    [
+     "ins",
+     "on Friday"
+    ],
+    [
+     "eq",
+     "and it escalated on Saturday night as"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "referee"
+    ],
+    [
+     "del",
+     "Charlie Costorphine"
+    ],
+    [
+     "eq",
+     "had to intervene in the last-16 win"
+    ],
+    [
+     "del",
+     "over"
+    ],
+    [
+     "ins",
+     "against"
+    ],
+    [
+     "eq",
+     "Nathan Aspinall. Littler has taken a stance against volatile crowds before, refusing"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "events in Germany as a result of his treatment from fans there."
+    ],
+    [
+     "del",
+     "And he"
+    ],
+    [
+     "ins",
+     "He"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "del",
+     "\"100 %\""
+    ],
+    [
+     "ins",
+     "\"100%\""
+    ],
+    [
+     "eq",
+     "prepared to do the same in the Netherlands. \"With the Germans, I"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "have to see in Dortmund whether it changes or stays the same,\""
+    ],
+    [
+     "del",
+     "he"
+    ],
+    [
+     "ins",
+     "Littler"
+    ],
+    [
+     "eq",
+     "told Online Darts. \"If the Dutch stay like this, then I'm not going to do any Euro tours over"
+    ],
+    [
+     "del",
+     "there. There's"
+    ],
+    [
+     "ins",
+     "there.\" \"There's"
+    ],
+    [
+     "eq",
+     "just no point in me travelling, wasting my time whilst I'm getting booed. I just want to play my darts, obviously sign"
+    ],
+    [
+     "del",
+     "autographs."
+    ],
+    [
+     "ins",
+     "autographs,\" the world No 1 added."
+    ],
+    [
+     "eq",
+     "\"The past two nights, I've done nothing, I've just walked off stage"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "me.\" Despite the bearpit atmosphere, Littler came out on top in a"
+    ],
+    [
+     "del",
+     "last-leg"
+    ],
+    [
+     "ins",
+     "last‐leg"
+    ],
+    [
+     "eq",
+     "decider with Aspinall"
+    ],
+    [
+     "ins",
+     "but was defeated 10-4 by Clayton in their quarter-final on Sunday"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "keep his dream"
+    ],
+    [
+     "ins",
+     "end the 19-year-old's hopes"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "a clean sweep alive. The 19-year-old is hoping to become"
+    ],
+    [
+     "ins",
+     "becoming"
+    ],
+    [
+     "eq",
+     "the first"
+    ],
+    [
+     "del",
+     "man"
+    ],
+    [
+     "ins",
+     "player"
+    ],
+    [
+     "eq",
+     "to win all 10 major televised tournaments in a calendar year, having triumphed in the first five."
+    ],
+    [
+     "ins",
+     "After a competitive start, Clayton levelled at 3-3 with a 136 checkout and he soon took charge of the contest, completing his victory with a checkout of 40 to set up a semi-final tie with fellow"
+    ],
+    [
+     "eq",
+     "Welshman"
+    ],
+    [
+     "del",
+     "Jonny"
+    ],
+    [
+     "ins",
+     "Gerwyn Price. Price went on to beat"
+    ],
+    [
+     "eq",
+     "Clayton"
+    ],
+    [
+     "del",
+     "awaits"
+    ],
+    [
+     "ins",
+     "11-7 and followed up with a 10-7 semi-final victory over James Wade to set up a final against Smith, who had claimed a 11-8 win over Gian van Veen"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "quarter-final on Sunday afternoon."
+    ],
+    [
+     "ins",
+     "other final-four tie. Initially little could separate Price and Smith during the final but with the score locked at 5-5, Smith suddenly took control, winning the next six straight legs and finishing with an average of 103.89. Smith's 11-5 win over Price in the final secured a maiden World Series of Darts Finals crown for the Englishman. Victory also sealed a second major PDC title for \"Smudger\", and his first since the European Championship in 2022. His path to the final saw him beat Josh Rock 10-7 in the quarter-finals to set up that meeting with Van Veen, who had recovered from trailing 8-6 to claim a 10-8 win over Dirk van Duijvenbode in the last eight."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.0866,
+  "numbers_changed": [
+   "1",
+   "10",
+   "103.89",
+   "11",
+   "136",
+   "2022",
+   "3",
+   "4",
+   "40",
+   "5",
+   "6",
+   "7",
+   "8"
+  ],
+  "market_figures_changed": [
+   "100 %",
+   "100%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 0.9708,
+ "adjudicated_by": "rules"
+}

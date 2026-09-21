@@ -1,0 +1,52 @@
+{
+ "id": "e30b6170782853a7-cd78c0af-48b3a0af",
+ "url": "https://www.france24.com/en/germany-could-regional-polls-froce-friedrich-merz-to-step-down",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-21T12:29:27Z",
+ "date": "2026-09-21",
+ "old_title": "Germany: Could regional polls froce Friedrich Merz to step down?",
+ "new_title": "Germany: Could regional polls force Friedrich Merz to step down?",
+ "old_text": "Germany: Could regional polls froce Friedrich Merz to step down?\nIssued on: Modified:\nShare\nPolling is underway in the German capital Berlin and the largely rural state of Mecklenburg-Western Pomerania for regional elections. Both elections are seen as a test for Germany's centre-right Chancellor Friedrich Merz. He has already scheduled a crisis meeting and decided to skip this week's UN General Assembly to deal with the potential fallout. Could he be forced to step down based on the election's results? Details and analysis by Yann Wernert, senior policy fellow at the Jacques Delors Centre in Berlin.",
+ "new_text": "Germany: Could regional polls force Friedrich Merz to step down?\nIssued on: Modified:\nShare\nPolling is underway in the German capital Berlin and the largely rural state of Mecklenburg-Western Pomerania for regional elections. Both elections are seen as a test for Germany's centre-right Chancellor Friedrich Merz. He has already scheduled a crisis meeting and decided to skip this week's UN General Assembly to deal with the potential fallout. Could he be forced to step down based on the election's results? Details and analysis by Yann Wernert, senior policy fellow at the Jacques Delors Centre in Berlin.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Germany: Could regional polls"
+    ],
+    [
+     "del",
+     "froce"
+    ],
+    [
+     "ins",
+     "force"
+    ],
+    [
+     "eq",
+     "Friedrich Merz to step down? Issued on: Modified: Share Polling is underway"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0208,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9761,
+ "adjudicated_by": "rules"
+}
