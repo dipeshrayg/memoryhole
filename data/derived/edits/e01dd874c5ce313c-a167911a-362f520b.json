@@ -1,0 +1,216 @@
+{
+ "id": "e01dd874c5ce313c-a167911a-362f520b",
+ "url": "https://www.theguardian.com/sport/2026/sep/21/shaun-edwards-england-coaching-role-red-roses-rugby-union",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-09-22T11:33:21Z",
+ "date": "2026-09-22",
+ "old_title": "Shaun Edwards finally lands England coaching role after joining Red Roses",
+ "new_title": "Shaun Edwards finally lands England coaching role after joining Red Roses",
+ "old_text": "Defence guru Shaun Edwards has joined the Red Roses coaching set-up in a consultancy role until the end of the WXV Global Series.\nThe former Wales and France men's coach has not had a role in women's rugby before but has been brought on board with the Red Roses head coach, John Mitchell, describing his credentials as \"exceptional\" in the highest echelons of the sport.\nThe 59-year-old Edwards is already in situ and will help the team as they prepare to take on New Zealand at Allianz Stadium this Saturday before travelling with the squad to the Canada and the USA next month.\nEdwards, who played rugby league for Wigan Warriors and Great Britain, left his role with France in June after more than six years when Fabien Galthié restructured Les Bleus' backroom staff.\nMitchell said: \"Since his time with France ended, we have had a conversation about our game, and he expressed an interest in working in an international women's setup for the first time. He has a huge amount of respect for the Red Roses and what we stand for; he sees it as a privilege to join our environment.\n\"His coaching credentials are exceptional and his experience at the highest level of the game speaks for itself. Defensively, Sarah Hunter [England's defence coach] is relishing the opportunity to learn from him, alongside the rest of our coaching group, as we head into another exciting Test match against New Zealand. Shaun will add to the programme and provide incredible value to the girls over the remainder of the WXV Global Series.\"\nEdwards began his coaching career in rugby union at the Premiership club Wasps, first joining as a defence and backs coach in 2001. He was promoted to head coach in 2005 and the club won the Heineken Cup and Premiership during his tenure.\nHe then moved to Wales as a defence coach in 2011 and won four Six Nations titles, three of which were Grand Slams, alongside the head coach Warren Gatland.\nEdwards signed on as the French defence coach in 2020 and won three Six Nations titles with the team. The coach cannot win a trophy with the Red Roses as the WXV is a series of matches with no silverware. However, he can help to get their victory record back on track after their 39-game winning streak came to an end last Saturday after drawing 26-26 against Canada.\nEngland will play the Black Ferns - who were the last team to beat the Red Roses in the World Cup final in 2022 - in front of more than 50,000 this weekend.",
+ "new_text": "The defence guru Shaun Edwards has joined the Red Roses coaching setup in a consultancy role until the end of the WXV Global Series.\nThe former Wales and France men's coach has not had a role in women's rugby before but has been brought on board with the Red Roses head coach, John Mitchell, describing his credentials as \"exceptional\" in the highest echelons of the sport.\nThe 59-year-old Edwards is already in situ and will help the team as they prepare to take on New Zealand at Allianz Stadium this Saturday before travelling next month with the squad to Canada and the US.\nEdwards, who played rugby league for Wigan Warriors and Great Britain, left his role with France in June after more than six years when Fabien Galthié restructured the backroom staff.\nMitchell said: \"Since his time with France ended, we have had a conversation about our game, and he expressed an interest in working in an international women's setup for the first time. He has a huge amount of respect for the Red Roses and what we stand for; he sees it as a privilege to join our environment.\n\"His coaching credentials are exceptional and his experience at the highest level of the game speaks for itself. Defensively, Sarah Hunter [England's defence coach] is relishing the opportunity to learn from him, alongside the rest of our coaching group, as we head into another exciting Test match against New Zealand. Shaun will add to the programme and provide incredible value to the girls over the remainder of the WXV Global Series.\"\nEdwards began his coaching career in rugby union at the Premiership club Wasps, first joining as a defence and backs coach in 2001. He was promoted to head coach in 2005 and the club won the Heineken Cup and Premiership during his tenure. He then moved to Wales as a defence coach in 2011 and won four Six Nations titles, three of which were grand slams, alongside the head coach Warren Gatland.\nEdwards signed on as the France defence coach in 2020 and won three Six Nations titles with the team. He cannot win a trophy with the Red Roses as the WXV is a series of matches with no silverware. But he can help to get their victory record back on track after their 39-game winning run came to an end last Saturday in a 26-26 draw against Canada.\nEngland will play the Black Ferns - who were the last team to beat the Red Roses, in the World Cup final in 2022 - in front of more than 50,000 this weekend.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Defence"
+    ],
+    [
+     "ins",
+     "The defence"
+    ],
+    [
+     "eq",
+     "guru Shaun Edwards has joined the Red Roses coaching"
+    ],
+    [
+     "del",
+     "set-up"
+    ],
+    [
+     "ins",
+     "setup"
+    ],
+    [
+     "eq",
+     "in a consultancy role until the end of the WXV Global Series."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to take on New Zealand at Allianz Stadium this Saturday before travelling"
+    ],
+    [
+     "ins",
+     "next month"
+    ],
+    [
+     "eq",
+     "with the squad to"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "eq",
+     "Canada and the"
+    ],
+    [
+     "del",
+     "USA next month."
+    ],
+    [
+     "ins",
+     "US."
+    ],
+    [
+     "eq",
+     "Edwards, who played rugby league for Wigan Warriors and Great Britain, left"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "France in June after more than six years when Fabien Galthié restructured"
+    ],
+    [
+     "del",
+     "Les Bleus'"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "backroom staff. Mitchell said: \"Since his time with France ended, we have"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "in 2011 and won four Six Nations titles, three of which were"
+    ],
+    [
+     "del",
+     "Grand Slams,"
+    ],
+    [
+     "ins",
+     "grand slams,"
+    ],
+    [
+     "eq",
+     "alongside the head coach Warren Gatland. Edwards signed on as the"
+    ],
+    [
+     "del",
+     "French"
+    ],
+    [
+     "ins",
+     "France"
+    ],
+    [
+     "eq",
+     "defence coach in 2020 and won three Six Nations titles with the team."
+    ],
+    [
+     "del",
+     "The coach"
+    ],
+    [
+     "ins",
+     "He"
+    ],
+    [
+     "eq",
+     "cannot win a trophy with the Red Roses as the WXV is a series of matches with no silverware."
+    ],
+    [
+     "del",
+     "However,"
+    ],
+    [
+     "ins",
+     "But"
+    ],
+    [
+     "eq",
+     "he can help to get their victory record back on track after their 39-game winning"
+    ],
+    [
+     "del",
+     "streak"
+    ],
+    [
+     "ins",
+     "run"
+    ],
+    [
+     "eq",
+     "came to an end last Saturday"
+    ],
+    [
+     "del",
+     "after drawing"
+    ],
+    [
+     "ins",
+     "in a"
+    ],
+    [
+     "eq",
+     "26-26"
+    ],
+    [
+     "ins",
+     "draw"
+    ],
+    [
+     "eq",
+     "against Canada. England will play the Black Ferns - who were the last team to beat the Red"
+    ],
+    [
+     "del",
+     "Roses"
+    ],
+    [
+     "ins",
+     "Roses,"
+    ],
+    [
+     "eq",
+     "in the World Cup final in 2022 - in front of more than 50,000 this weekend."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0803,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 0.9861,
+ "adjudicated_by": "rules"
+}

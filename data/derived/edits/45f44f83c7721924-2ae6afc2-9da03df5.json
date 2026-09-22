@@ -1,0 +1,92 @@
+{
+ "id": "45f44f83c7721924-2ae6afc2-9da03df5",
+ "url": "https://www.theguardian.com/football/2026/sep/21/granit-xhaka-admits-receiving-fake-covid-vaccination-certificate",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-09-22T11:33:15Z",
+ "date": "2026-09-22",
+ "old_title": "Granit Xhaka admits to receiving fake Covid vaccination certificate in 2022",
+ "new_title": "Granit Xhaka admits to receiving fake Covid vaccination certificate in 2022",
+ "old_text": "Granit Xhaka has been withdrawn from Switzerland's squad after he admitted receiving a fake Covid vaccination certificate in 2022. The Sunderland and Switzerland captain - who was an Arsenal player at the time - has apologised for this \"mistake\" and will sit out his country's forthcoming four Nations League matches.\nXhaka is poised to be questioned by the prosecutor's office in Lucerne next week as it decides whether any criminal proceedings will be initiated regarding the alleged issue of a series of false Covid certificates by a doctor based in the Swiss city during the pandemic. The doctor, who was first investigated in 2023, has denied the allegations.\nIn a statement issued via Instagram, Xhaka acknowledged he had decided not to be inoculated against the virus. \"In recent days there has been much reporting about a matter from my past. I would like to address this personally,\" he wrote. \"At the time, I was personally very uncertain and had serious concerns regarding the Covid-19 vaccination. I felt deep distrust of the vaccine and was plagued by fear and uncertainty.\n\"In this turbulent emotional state, I obtained a vaccination certificate instead of clarifying my open questions through the proper channels. Today I clearly see this was not the right course of action. It was a mistake. I am sorry. I take responsibility for this decision, am committed to investigating the matter and am co-operating with the relevant authorities\". Xhaka tested positive for Covid in September 2022 and the 33-year-old - he turns 34 on Sunday - did not feature in Switzerland's internationals that month.\nA spokesperson for the Lucerne Cantonal Prosector's Office said: \"The aim [of the inquiries] is to clarify whether there has been conduct relevant under criminal law in connection with the possible fraudulent obtaining of a false certification and/or document forgery.\"\nShould charges be brought, Xhaka could face a heavy fine or, theoretically, a five-year prison sentence. However, the imposition of the latter sanction - or any sort of custodial punishment - is understood to be extremely unlikely.\nGiven that Xhaka was with Arsenal in 2022, Sunderland have told the Guardian they are not commenting on the matter. The midfielder left north London to join Bayer Leverkusen in 2023 and arrived at the Stadium of Light two years later.\nXhaka, who has been capped 152 times by Switzerland, will now miss the impending Nations League matches away to North Macedonia and Scotland and at home against Slovenia and North Macedonia.",
+ "new_text": "Granit Xhaka has been withdrawn from Switzerland's squad after he admitted receiving a fake Covid vaccination certificate in 2022. The Sunderland and Switzerland captain - who was an Arsenal player at the time - has apologised for this \"mistake\" and will sit out his country's forthcoming four Nations League matches.\nXhaka is poised to be questioned by the prosecutor's office in Lucerne next week as it decides whether any criminal proceedings will be initiated regarding the alleged issue of a series of false Covid certificates by a doctor based in the Swiss city during the pandemic. The doctor, who was first investigated in 2023, has denied the allegations.\nIn a statement issued via Instagram, Xhaka acknowledged he had decided not to be inoculated against the virus. \"In recent days there has been much reporting about a matter from my past. I would like to address this personally,\" he wrote. \"At the time, I was personally very uncertain and had serious concerns regarding the Covid-19 vaccination. I felt deep distrust of the vaccine and was plagued by fear and uncertainty.\n\"In this turbulent emotional state, I obtained a vaccination certificate instead of clarifying my open questions through the proper channels. Today I clearly see this was not the right course of action. It was a mistake. I am sorry. I take responsibility for this decision, am committed to investigating the matter and am co-operating with the relevant authorities.\"\nXhaka tested positive for Covid in September 2022 and the 33-year-old - he turns 34 on Sunday - did not feature in Switzerland's internationals that month.\nA spokesperson for the Lucerne cantonal prosector's office said: \"The aim [of the inquiries] is to clarify whether there has been conduct relevant under criminal law in connection with the possible fraudulent obtaining of a false certification and/or document forgery.\"\nShould charges be brought, Xhaka could face a heavy fine or, theoretically, a five-year prison sentence. However, the imposition of the latter sanction - or any sort of custodial punishment - is understood to be extremely unlikely.\nGiven that Xhaka was with Arsenal in 2022, Sunderland have told the Guardian they are not commenting on the matter. The midfielder left north London to join Bayer Leverkusen in 2023 and arrived at the Stadium of Light two years later.\nXhaka, who has been capped 152 times by Switzerland, will now miss the Nations League matches away to North Macedonia and Scotland and at home against Slovenia and North Macedonia.\nThe president of the Swiss Football Association, Peter Knabel, said: \"Granit Xhaka approached us about the situation last [Sunday] night and told us he would admit it publicly and take responsibility. We welcome Granit taking this step and facing the consequences. We jointly concluded that it is in the team's interests to complete the entire camp without him. Our priority now is to calm the situation.\"\nAlthough the Swiss FA possess the power to hit Xhaka with a suspension from football - something they could ask Fifa to apply worldwide - that scenario is regarded as highly unlikely.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "am committed to investigating the matter and am co-operating with the relevant"
+    ],
+    [
+     "del",
+     "authorities\"."
+    ],
+    [
+     "ins",
+     "authorities.\""
+    ],
+    [
+     "eq",
+     "Xhaka tested positive for Covid in September 2022 and the 33-year-old -"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "not feature in Switzerland's internationals that month. A spokesperson for the Lucerne"
+    ],
+    [
+     "del",
+     "Cantonal Prosector's Office"
+    ],
+    [
+     "ins",
+     "cantonal prosector's office"
+    ],
+    [
+     "eq",
+     "said: \"The aim [of the inquiries] is to clarify whether there has"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "who has been capped 152 times by Switzerland, will now miss the"
+    ],
+    [
+     "del",
+     "impending"
+    ],
+    [
+     "eq",
+     "Nations League matches away to North Macedonia and Scotland and at home against Slovenia and North Macedonia."
+    ],
+    [
+     "ins",
+     "The president of the Swiss Football Association, Peter Knabel, said: \"Granit Xhaka approached us about the situation last [Sunday] night and told us he would admit it publicly and take responsibility. We welcome Granit taking this step and facing the consequences. We jointly concluded that it is in the team's interests to complete the entire camp without him. Our priority now is to calm the situation.\" Although the Swiss FA possess the power to hit Xhaka with a suspension from football - something they could ask Fifa to apply worldwide - that scenario is regarded as highly unlikely."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2597,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

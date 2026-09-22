@@ -1,0 +1,145 @@
+{
+ "id": "76d71a6c95d99fb9-6bcb41e0-a1e36c4e",
+ "url": "https://www.npr.org/2026/09/21/nx-s1-5972971/is-homegrown-food-safer",
+ "domain": "www.npr.org",
+ "source": "NPR Health",
+ "country": "United States",
+ "category": "health",
+ "lang": "en",
+ "detected_at": "2026-09-22T11:34:56Z",
+ "date": "2026-09-22",
+ "old_title": "Is homegrown food safer?",
+ "new_title": "Is produce from a home garden safer than store bought? 'It depends'",
+ "old_text": "Is homegrown food safer?Home gardening is getting a boost in part from fears of foodborne illness. Experts say what is, or is not, safer when it comes to home grown.\nHome gardening is getting a boost in part from fears of foodborne illness. Experts say what is, or is not, safer when it comes to home grown.\nNPR does not offer or accept money for coverage or interviews.\nAnyone who makes such an offer or request is not an NPR employee and does not represent NPR.",
+ "new_text": "Is produce from a home garden safer than store bought? 'It depends'\nMany consumers responded to this summer's record foodborne illness numbers by buying more produce from farmers markets or growing their own at home. A third of Americans - 44 million households - grow some type of fruits or vegetables, up about 4% every year for the past five years, according to the National Gardening Association.\nBut is buying from small farms or growing your own safer?\n\"As with anything, it depends,\" says James Rogers, director of food safety for Consumer Reports, which regularly tests retail produce. What shapes safety is the farming practices, and has less to do with the operation's size, he says.\nOn one hand, large operations are regulated by cleanliness standards, and can track produce using bar codes, which can help to quickly trace back contamination. But co-mingling huge volumes of produce in washing and processing warehouses can also lead to big outbreaks\n\"You can have a problem if you have one batch that's contaminated, it will contaminate the entire batch,\" Rogers says.\nMost small growers, he notes, are exempt from Food and Drug Administration rules, dealing with irrigation or testing for microorganisms. So their practices vary widely, which is how you end up with contrasting food-safety approaches like those of Phil Tocco and Dave Whitinger - both veteran gardeners growing lettuce in their own home gardens.\nThe fastidious gardener\nTocco, who lives in Jackson, Mich., is a Michigan State University agricultural food-safety expert who advises farms of all sizes. He considers himself more fastidious than your average farmer: \"Some backyard gardeners don't understand the risks - the fecal risks.\"\nTocco's wife contracted amoebic dysentery - a painful intestinal parasite - from lettuce grown at a small farm 25 years ago. He says she still suffers from aftereffects of the infection. So Tocco keeps his garden free of animals and small children, who might track feces and pathogens like salmonella, E.coli, or Cyclospora that may be in it. He won't, as some gardeners do, use water from barrels collecting rainwater in his garden, because they might harbor bacteria.\n\"If then someone uses water from that rain barrel that's going to go into their mouth in a day, it's kind of like bacterial soup,\" he says.\nTocco replicates what he can of the sanitary practices he preaches: He harvests with sanitized hands and buckets, won't harvest food near bird or other wild animal droppings, and uses a commercial form of hydroxyacetic acid to rid any pathogens on his leafy greens. He says washing with water alone eliminates only about 90% of most pathogens - leaving enough to still potentially sicken a person.\nA different approach\nMeanwhile, Westlake, Texas, gardener Dave Whitinger is no less concerned for food safety.\n\"I told my wife to stop buying lettuce from the store,\" he says. \"I was like, 'Hey, we're going to make sure that we're growing lettuce this fall because I don't want to buy any store bought lettuce until this whole thing dies down,'\" he says, referring to the record-breaking caseload of the parasitic cyclosporiasis outbreak, traced back in large part to contamination with Taylor Farms lettuce grown in Mexico.\nWhitinger runs a family seed business and is director of the National Gardening Association, an organization that has educated and surveyed home gardeners since the mid-1970s. He says his belief in growing his own food is shaped in part by a mistrust of large agricultural operations, especially when it comes to handling manure as fertilizer. That isn't an issue in his fenced garden: \"I know what I'm fertilizing with; I know where the seeds came from.\"\nAlthough microbes are invisible to the naked eye, Whitinger says he feels safe picking and eating leafy greens from his garden - even without washing: \"If it's coming in from my backyard and like, for example, lettuce: I don't want to get wet,\" he says. \"You know how hard it is to dry lettuce if you get it wet.\"\nSo how should most consumers deal with fresh produce?\nRogers, at Consumer Reports, says it's best to wash everything - just with water - no matter where the produce came from.\nHe and other food safety experts note contamination can also occur in the kitchen, when raw meats aren't kept separate from produce, for example. The FDA advises consumers to keep hands and cooking surfaces clean, including cutting boards when preparing different foods. Also, home chefs should heat food to the right temperature to prevent foodborne illness.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Is"
+    ],
+    [
+     "del",
+     "homegrown"
+    ],
+    [
+     "ins",
+     "produce from a home garden safer than store bought? 'It depends' Many consumers responded to this summer's record foodborne illness numbers by buying more produce from farmers markets or growing their own at home. A third of Americans - 44 million households - grow some type of fruits or vegetables, up about 4% every year for the past five years, according to the National Gardening Association. But is buying from small farms or growing your own safer? \"As with anything, it depends,\" says James Rogers, director of"
+    ],
+    [
+     "eq",
+     "food"
+    ],
+    [
+     "del",
+     "safer?Home gardening"
+    ],
+    [
+     "ins",
+     "safety for Consumer Reports, which regularly tests retail produce. What shapes safety"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "del",
+     "getting"
+    ],
+    [
+     "ins",
+     "the farming practices, and has less to do with the operation's size, he says. On one hand, large operations are regulated by cleanliness standards, and can track produce using bar codes, which can help to quickly trace back contamination. But co-mingling huge volumes of produce in washing and processing warehouses can also lead to big outbreaks \"You can have"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "boost"
+    ],
+    [
+     "ins",
+     "problem if you have one batch that's contaminated, it will contaminate the entire batch,\" Rogers says. Most small growers, he notes, are exempt from Food and Drug Administration rules, dealing with irrigation or testing for microorganisms. So their practices vary widely, which is how you end up with contrasting food-safety approaches like those of Phil Tocco and Dave Whitinger - both veteran gardeners growing lettuce in their own home gardens. The fastidious gardener Tocco, who lives in Jackson, Mich., is a Michigan State University agricultural food-safety expert who advises farms of all sizes. He considers himself more fastidious than your average farmer: \"Some backyard gardeners don't understand the risks - the fecal risks.\" Tocco's wife contracted amoebic dysentery - a painful intestinal parasite - from lettuce grown at a small farm 25 years ago. He says she still suffers from aftereffects of the infection. So Tocco keeps his garden free of animals and small children, who might track feces and pathogens like salmonella, E.coli, or Cyclospora that may be in it. He won't, as some gardeners do, use water from barrels collecting rainwater in his garden, because they might harbor bacteria. \"If then someone uses water from that rain barrel that's going to go into their mouth in a day, it's kind of like bacterial soup,\" he says. Tocco replicates what he can of the sanitary practices he preaches: He harvests with sanitized hands and buckets, won't harvest food near bird or other wild animal droppings, and uses a commercial form of hydroxyacetic acid to rid any pathogens on his leafy greens. He says washing with water alone eliminates only about 90% of most pathogens - leaving enough to still potentially sicken a person. A different approach Meanwhile, Westlake, Texas, gardener Dave Whitinger is no less concerned for food safety. \"I told my wife to stop buying lettuce from the store,\" he says. \"I was like, 'Hey, we're going to make sure that we're growing lettuce this fall because I don't want to buy any store bought lettuce until this whole thing dies down,'\" he says, referring to the record-breaking caseload of the parasitic cyclosporiasis outbreak, traced back in large part to contamination with Taylor Farms lettuce grown in Mexico. Whitinger runs a family seed business and is director of the National Gardening Association, an organization that has educated and surveyed home gardeners since the mid-1970s. He says his belief in growing his own food is shaped"
+    ],
+    [
+     "eq",
+     "in part"
+    ],
+    [
+     "del",
+     "from fears"
+    ],
+    [
+     "ins",
+     "by a mistrust"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "foodborne illness. Experts say what is, or is not, safer"
+    ],
+    [
+     "ins",
+     "large agricultural operations, especially"
+    ],
+    [
+     "eq",
+     "when it comes to"
+    ],
+    [
+     "ins",
+     "handling manure as fertilizer. That isn't an issue in his fenced garden: \"I know what I'm fertilizing with; I know where the seeds came from.\" Although microbes are invisible to the naked eye, Whitinger says he feels safe picking and eating leafy greens from his garden - even without washing: \"If it's coming in from my backyard and like, for example, lettuce: I don't want to get wet,\" he says. \"You know how hard it is to dry lettuce if you get it wet.\" So how should most consumers deal with fresh produce? Rogers, at Consumer Reports, says it's best to wash everything - just with water - no matter where the produce came from. He and other food safety experts note contamination can also occur in the kitchen, when raw meats aren't kept separate from produce, for example. The FDA advises consumers to keep hands and cooking surfaces clean, including cutting boards when preparing different foods. Also,"
+    ],
+    [
+     "eq",
+     "home"
+    ],
+    [
+     "del",
+     "grown. Home gardening is getting a boost in part from fears of"
+    ],
+    [
+     "ins",
+     "chefs should heat food to the right temperature to prevent"
+    ],
+    [
+     "eq",
+     "foodborne illness."
+    ],
+    [
+     "del",
+     "Experts say what is, or is not, safer when it comes to home grown. NPR does not offer or accept money for coverage or interviews. Anyone who makes such an offer or request is not an NPR employee and does not represent NPR."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 9.4419,
+  "numbers_changed": [
+   "1970",
+   "25",
+   "4",
+   "44",
+   "90"
+  ],
+  "market_figures_changed": [
+   "4%",
+   "90%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 4,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.6,
+ "similarity": 0.6377,
+ "adjudicated_by": "rules"
+}

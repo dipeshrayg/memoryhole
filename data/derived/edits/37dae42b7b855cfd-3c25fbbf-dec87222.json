@@ -1,0 +1,280 @@
+{
+ "id": "37dae42b7b855cfd-3c25fbbf-dec87222",
+ "url": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-09-22T11:31:37Z",
+ "date": "2026-09-22",
+ "old_title": "England squad: Morgan Gibbs-White set to replace Cole Palmer for Nations League games",
+ "new_title": "England squad: Cole Palmer and Declan Rice among five withdrawals from England squad",
+ "old_text": "- Published\nMorgan Gibbs-White is in line for an England recall to replace Cole Palmer, who is set to withdraw from the squad because of a minor injury.\nNottingham Forest midfielder Gibbs-White missed out on selection in the initial squad for the upcoming Nations League matches, but is set to be called up.\nThree Lions boss Thomas Tuchel admitted on Friday that Gibbs-White was close to making the cut and the 26-year-old is now expected to replace Chelsea's Palmer.\nPalmer, 24, had been recalled by Tuchel after being controversially left out of England's World Cup squad.\nTuchel previously said Palmer had a \"point to prove\" and needed \"to step up\" to \"keep his shirt and justify the nomination\".\nHowever, the Blues forward will now miss the extended international break in which England play four games.\nThe Three Lions face World Cup winners Spain at Wembley on Saturday, 26 September, then travel to the Czech Republic (29 September) and Croatia (3 October) before hosting the Czechs on 6 October.\nManchester United duo Marcus Rashford and Kobbie Mainoo are also both thought to be injury doubts for England.\nThey are being assessed by their club after being taken off in the closing stages of Sunday's 1-1 draw at Fulham.\nIf Mainoo withdraws, it is understood Everton midfielder James Garner - who made his senior England debut in March but was not selected for the World Cup - is a strong option to replace him.\nPalmer's withdrawal comes after he played the full game for Chelsea in their 3-0 defeat at Brentford on Friday.\nFollowing a summer off after missing out on World Cup selection, he has started six of Chelsea's seven games and played the full 90 minutes in five of them - scoring four goals and providing two assists.\nPalmer, who last played for England in their 1-0 friendly defeat by Japan in March, was hampered by a recurring groin injury in 2025-26, which Chelsea had to manage.\nGibbs-White made his most recent England appearance in a 3-0 friendly win against Wales in October 2025.\nHe has one goal and two assists from Forest's five league games this season.",
+ "new_text": "- Published\nTino Livramento, Kobbie Mainoo, Cole Palmer, Marcus Rashford and Declan Rice have all pulled out of England's squad for the forthcoming Nations League matches.\nNottingham Forest midfielder Morgan Gibbs-White and Everton's James Garner have been called up by manager Thomas Tuchel and will join the squad on Tuesday.\nTuchel said on Friday that 26-year-old Gibbs-White, who has six international caps, was close to being included in the initial group.\nPalmer, 24, had been recalled by Tuchel after being controversially left out of England's World Cup squad but has withdrawn with a minor injury.\nTuchel previously said Palmer had a \"point to prove\" and needed \"to step up\" to \"keep his shirt and justify the nomination\".\nThe Three Lions face World Cup winners Spain at Wembley on Saturday, 26 September, then travel to the Czech Republic (29 September) and Croatia (3 October) before hosting the Czechs on 6 October in an extended international break.\nManchester United duo Rashford and Mainoo were assessed by their club after being taken off in the closing stages of Sunday's 1-1 draw at Fulham.\nRice, who played the full game for Arsenal in their 3-0 defeat by Brighton, will also be unavailable to Tuchel, along with Livramento, who has been limited to three substitute appearances for Newcastle United this season.\nThe England medical department and all their counterparts at each of the clubs have agreed the five players can withdraw. No specific details have been released to the media on the nature of the injuries.\nPalmer's withdrawal comes after he played the full game for Chelsea in their 3-0 defeat at Brentford on Friday.\nFollowing a summer off, after missing out on World Cup selection, he has started six of Chelsea's seven games and played the full 90 minutes in five of them - scoring four goals and providing two assists.\nPalmer, who last played for England in their 1-0 friendly defeat by Japan in March, was hampered by a recurring groin injury in 2025-26, which Chelsea had to manage.\nGibbs-White made his most recent England appearance in a 3-0 friendly win against Wales in October 2025.\nHe has one goal and two assists from Forest's five league games this season.\nLike Gibbs-White, Garner - who made both of his two senior England appearances in March - comes in after not being selected for the 2026 World Cup.\nRice played 69 games for Arsenal and England last season. But he did much of it carrying a hamstring injury which affected him at the World Cup. Despite this, he has played in 549 minutes of the 630 possible for Arsenal this term.\nLivramento played no part in Newcastle's opening two league games but came on as a substitute in the draw with Bournemouth for the final minute. The full-back featured for the second half of their League Cup win at Millwall and played 32 minutes in the defeat at Leeds, before withdrawing late from the squad for Saturday's game against Hull with a knee injury.\nRashford and Mainoo have each started four of Manchester United's five Premier League games this season.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "Morgan Gibbs-White is in line for an England recall to replace"
+    ],
+    [
+     "ins",
+     "Tino Livramento, Kobbie Mainoo,"
+    ],
+    [
+     "eq",
+     "Cole Palmer,"
+    ],
+    [
+     "del",
+     "who is set to withdraw from"
+    ],
+    [
+     "ins",
+     "Marcus Rashford and Declan Rice have all pulled out of England's squad for"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "squad because of a minor injury."
+    ],
+    [
+     "ins",
+     "forthcoming Nations League matches."
+    ],
+    [
+     "eq",
+     "Nottingham Forest midfielder"
+    ],
+    [
+     "ins",
+     "Morgan"
+    ],
+    [
+     "eq",
+     "Gibbs-White"
+    ],
+    [
+     "del",
+     "missed out"
+    ],
+    [
+     "ins",
+     "and Everton's James Garner have been called up by manager Thomas Tuchel and will join the squad"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "selection"
+    ],
+    [
+     "ins",
+     "Tuesday. Tuchel said on Friday that 26-year-old Gibbs-White, who has six international caps, was close to being included"
+    ],
+    [
+     "eq",
+     "in the initial"
+    ],
+    [
+     "del",
+     "squad for the upcoming Nations League matches, but is set to be called up. Three Lions boss Thomas Tuchel admitted on Friday that Gibbs-White was close to making the cut and the 26-year-old is now expected to replace Chelsea's Palmer."
+    ],
+    [
+     "ins",
+     "group."
+    ],
+    [
+     "eq",
+     "Palmer, 24, had been recalled by Tuchel after being controversially left out of England's World Cup"
+    ],
+    [
+     "del",
+     "squad."
+    ],
+    [
+     "ins",
+     "squad but has withdrawn with a minor injury."
+    ],
+    [
+     "eq",
+     "Tuchel previously said Palmer had a \"point to prove\" and needed \"to step up\" to \"keep his shirt and justify the nomination\"."
+    ],
+    [
+     "del",
+     "However, the Blues forward will now miss the extended international break in which England play four games."
+    ],
+    [
+     "eq",
+     "The Three Lions face World Cup winners Spain at Wembley on Saturday,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "(29 September) and Croatia (3 October) before hosting the Czechs on 6"
+    ],
+    [
+     "del",
+     "October."
+    ],
+    [
+     "ins",
+     "October in an extended international break."
+    ],
+    [
+     "eq",
+     "Manchester United duo"
+    ],
+    [
+     "del",
+     "Marcus"
+    ],
+    [
+     "eq",
+     "Rashford and"
+    ],
+    [
+     "del",
+     "Kobbie"
+    ],
+    [
+     "eq",
+     "Mainoo"
+    ],
+    [
+     "del",
+     "are also both thought to be injury doubts for England. They are being"
+    ],
+    [
+     "ins",
+     "were"
+    ],
+    [
+     "eq",
+     "assessed by their club after being taken off in the closing stages of Sunday's 1-1 draw at Fulham."
+    ],
+    [
+     "del",
+     "If Mainoo withdraws, it is understood Everton midfielder James Garner -"
+    ],
+    [
+     "ins",
+     "Rice,"
+    ],
+    [
+     "eq",
+     "who"
+    ],
+    [
+     "del",
+     "made his senior"
+    ],
+    [
+     "ins",
+     "played the full game for Arsenal in their 3-0 defeat by Brighton, will also be unavailable to Tuchel, along with Livramento, who has been limited to three substitute appearances for Newcastle United this season. The"
+    ],
+    [
+     "eq",
+     "England"
+    ],
+    [
+     "del",
+     "debut in March but was not selected for"
+    ],
+    [
+     "ins",
+     "medical department and all their counterparts at each of"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "World Cup - is a strong option"
+    ],
+    [
+     "ins",
+     "clubs have agreed the five players can withdraw. No specific details have been released"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "replace him."
+    ],
+    [
+     "ins",
+     "the media on the nature of the injuries."
+    ],
+    [
+     "eq",
+     "Palmer's withdrawal comes after he played the full game for Chelsea in their 3-0 defeat at Brentford on Friday. Following a summer"
+    ],
+    [
+     "del",
+     "off"
+    ],
+    [
+     "ins",
+     "off,"
+    ],
+    [
+     "eq",
+     "after missing out on World Cup selection, he has started six of"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "one goal and two assists from Forest's five league games this season."
+    ],
+    [
+     "ins",
+     "Like Gibbs-White, Garner - who made both of his two senior England appearances in March - comes in after not being selected for the 2026 World Cup. Rice played 69 games for Arsenal and England last season. But he did much of it carrying a hamstring injury which affected him at the World Cup. Despite this, he has played in 549 minutes of the 630 possible for Arsenal this term. Livramento played no part in Newcastle's opening two league games but came on as a substitute in the draw with Bournemouth for the final minute. The full-back featured for the second half of their League Cup win at Millwall and played 32 minutes in the defeat at Leeds, before withdrawing late from the squad for Saturday's game against Hull with a knee injury. Rashford and Mainoo have each started four of Manchester United's five Premier League games this season."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.1788,
+  "numbers_changed": [
+   "0",
+   "2026",
+   "3",
+   "32",
+   "549",
+   "630",
+   "69"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.184,
+ "similarity": 0.8727,
+ "adjudicated_by": "rules"
+}

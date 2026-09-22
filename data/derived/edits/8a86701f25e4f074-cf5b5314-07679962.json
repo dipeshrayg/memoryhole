@@ -1,0 +1,49 @@
+{
+ "id": "8a86701f25e4f074-cf5b5314-07679962",
+ "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-09-22T11:36:20Z",
+ "date": "2026-09-22",
+ "old_title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+ "new_title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+ "old_text": "An AI tool is set to start advising air traffic controllers on managing air traffic in the congested airspace above the Washington, DC, area. The expected launch would be the first step toward a planned nationwide rollout covering the 29 million square miles of US national airspace overseen by the Federal Aviation Administration.\nThe FAA describes the SMART system as using AI models to predict air traffic flows and identify potential conflicts based on operational factors like airline schedules, weather, airport capacity, and airspace conditions. US government and industry officials told The Wall Street Journal that SMART could debut for the three major airports in the Washington, DC, area as soon as Monday, September 21.\nThe decision to launch SMART in a limited scope before going nationwide is the \"right call,\" said Philip Mann, principal consultant at Vector Strategic Consulting LLC, where he advises on aviation safety and AI governance. Mann previously worked at the FAA in multiple roles for 17 years.\n\"SMART's risk was never any single prediction-it is a national-scale system with AI components carrying more unknowns than anything the FAA has fielded,\" Mann wrote in an email to Ars. \"Every cut in scope shrinks the unknowns.\"\nThe AI-driven forecasts and recommendations are meant to give the FAA, airlines, and aircraft operators the same shared view of operational conditions so that they can agree on the most efficient routes and departure times. The goals of SMART include reducing aircraft fuel burn, improving on-time performance for flights, and speeding up recovery from weather and air traffic congestion events.\nHowever, the airline industry was reportedly confused for weeks about the agency's plans to deploy the AI tool, according to Politico. Anonymous airline officials told Politico that their concerns only eased after the FAA said the SMART AI tool would not change any procedures for air traffic controllers or airlines, and would instead produce \"alternative route information\" that is made available through existing FAA systems.",
+ "new_text": "An AI tool is set to start advising air traffic controllers on managing air traffic in the congested airspace above the Washington, DC, area. The expected launch would be the first step toward a planned nationwide rollout covering the 29 million square miles of US national airspace overseen by the Federal Aviation Administration.\nThe FAA describes the SMART system as using AI models to predict air traffic flows and identify potential conflicts based on operational factors like airline schedules, weather, airport capacity, and airspace conditions. US government and industry officials told The Wall Street Journal that SMART could debut for the three major airports in the Washington, DC, area as soon as Monday, September 21.\nThe decision to launch SMART in a limited scope before going nationwide is the \"right call,\" said Philip Mann, principal consultant at Vector Strategic Consulting LLC, where he advises on aviation safety and AI governance. Mann previously worked at the FAA in multiple roles for 17 years.\n\"SMART's risk was never any single prediction-it is a national-scale system with AI components carrying more unknowns than anything the FAA has fielded,\" Mann wrote in an email to Ars. \"Every cut in scope shrinks the unknowns.\"\nThe AI-driven forecasts and recommendations are meant to give the FAA, airlines, and aircraft operators the same shared view of operational conditions so that they can agree on the most efficient routes and departure times. The goals of SMART include reducing aircraft fuel burn, improving on-time performance for flights, and speeding up recovery from weather and air traffic congestion events.\nHowever, the airline industry was reportedly confused for weeks about the agency's plans to deploy the AI tool, according to Politico. Anonymous airline officials told Politico that their concerns only eased after the FAA said the SMART AI tool would not change any procedures for air traffic controllers or airlines, and would instead produce \"alternative route information\" that is made available through existing FAA systems.\nPinning down the AI\nSMART is part of an $875 million, 12-year contract awarded to the Boston-based company Air Space Intelligence in June. The contract also covers development of a Flow Management Data and Services system meant to replace the current system in the FAA's Air Traffic Control System Command Center in Virginia.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "produce \"alternative route information\" that is made available through existing FAA systems."
+    ],
+    [
+     "ins",
+     "Pinning down the AI SMART is part of an $875 million, 12-year contract awarded to the Boston-based company Air Space Intelligence in June. The contract also covers development of a Flow Management Data and Services system meant to replace the current system in the FAA's Air Traffic Control System Command Center in Virginia."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1636,
+  "numbers_changed": [
+   "12",
+   "875"
+  ],
+  "market_figures_changed": [
+   "$875 m"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

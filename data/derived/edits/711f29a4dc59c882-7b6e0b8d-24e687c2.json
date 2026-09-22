@@ -1,0 +1,160 @@
+{
+ "id": "711f29a4dc59c882-7b6e0b8d-24e687c2",
+ "url": "https://www.dw.com/en/taliban-says-three-killed-in-new-pakistan-airstrikes-on-afghanistan/a-79350604?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-22T11:20:58Z",
+ "date": "2026-09-22",
+ "old_title": "Pakistan airstrikes on Afghanistan kill 3, Taliban says",
+ "new_title": "Pakistan says strikes in Afghanistan killed '28 terrorists'",
+ "old_text": "Pakistan conducted airstrikes on northeastern Afghanistan on Monday on what Pakistani security officials described as militant hideouts, resulting in some deaths.\nThe two neighbors reported conflicting casualty tolls.\nThe Taliban government in Kabul claimed that three people were killed as it accused Pakistan of bombarding \"civilian homes,\" while the Associated Press news agency cited two unnamed Pakistani security officials as saying that 28 suspected militants were killed.\nAfghanistan's deputy government spokesperson Hamdullah Fitrat said that the strikes took place in the Kunar and Paktika provinces.\nFitrat wrote on X that one strike hit at around 3:00 am Monday (2230 UTC, Sunday) in Kunar's Nurgal district and \"completely destroyed\" a house, adding that three people were killed and four other members of the family were wounded.\nHe said that two locations were also hit in the Paktika province, claiming that a shop and an unoccupied house were destroyed.\nThere has yet to be an official statement from Pakistan on the strikes.\nStrikes follow last week's militant attack in Pakistan\nThe reported strikes come after a suicide bombing and a 20-hour gun battle between militants and police on Friday, which took place at a district police headquarters compound in the Pakistani city of Kohat, situated near the Afghan border.\nAt least 31 people, including 16 police officers, were killed in the attack.\nIttehad-ul-Mujahideen Pakistan, a local militant group linked to the jihadist group Tehreek-i-Taliban Pakistan (TTP), claimed responsibility for the attack.\nThe Afghanistan-Pakistan conflict\nRelations between Afghanistan and Pakistan have been tense since the Taliban returned to power in 2021.\nThe latest strikes threaten to shatter three months of relative calm after former South Asian allies engaged in their worst clashes in years in February.\nPakistan declared that month that it was in an \"open war\" with Afghanistan, following a rise in militant attacks on civilians and security forces inside Pakistan.\nAfghanistan launched retaliatory strikes after Pakistan carried out airstrikes inside Afghan territory and the cross-border fighting has since claimed the lives of hundreds of people.\nPakistan last mounted deadly airstrikes in Afghanistan in June.\nIslamabad accuses Afghanistan of sheltering militant groups which launch attacks inside Pakistan's territory.\nMain among these is the TTP, often referred to as the Pakistani Taliban and Baloch separatist groups from the border areas.\nThe Taliban has dismissed the allegations, saying that militancy in Pakistan is an internal problem.\nEdited by: Karl Sexton\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "new_text": "Pakistan conducted airstrikes on northeastern Afghanistan on Monday on what Pakistan's Ministry of Information described as suicide bomber training facilities.\nIt was the first Pakistani strike of its kind on Afghan territory since June, and followed soon after an attack targeting Pakistani police across the border in Kohat.\nThe uneasy neighbors reported seemingly conflicting casualty tolls.\nWhat were the conflicting accounts on the strikes?\nPakistan's Ministry of Information and Broadcasting claimed online that the attacks had targeted terrorist training sites in Afghanistan with \"precision and accuracy.\"\n\"Three targets were destroyed with precision including a Suicide Bombers training markaz [station], killing 28 terrorists alongside multiple suicide bombers. Large quantities of weapons and ammunition ... were also destroyed,\" the Ministry said.\nThe Taliban government in Kabul, meanwhile, claimed that three people were killed as it accused Pakistan of bombarding \"civilian homes.\"\nAfghanistan's deputy government spokesperson Hamdullah Fitrat said that the strikes took place in the Kunar and Paktika provinces.\nFitrat wrote on X that one strike hit at around 3:00 am Monday (2230 UTC, Sunday) in Kunar's Nurgal district and \"completely destroyed\" a house, adding that three people were killed and four other members of the family were wounded.\nHe said that two locations were also hit in the Paktika province, claiming that a shop and an unoccupied house were destroyed.\nNeither side's assertions on the details of and casualties from the strikes could be immediately verified.\nStrikes follow last week's militant attack in Pakistan\nThe reported strikes come after a suicide bombing and a 20-hour gun battle between militants and police on Friday, which took place at a district police headquarters compound in the Pakistani city of Kohat, situated near the Afghan border.\nAt least 31 people, including 16 police officers, were killed in the attack.\nIttehad-ul-Mujahideen Pakistan, a local militant group linked to the jihadist group Tehreek-i-Taliban Pakistan (TTP), claimed responsibility for the attack.\nThe Afghanistan-Pakistan conflict\nRelations between Afghanistan and Pakistan have been tense since the Taliban returned to power in 2021.\nThe latest strikes threaten to shatter three months of relative calm after former South Asian allies engaged in their worst clashes in years in February.\nPakistan declared that month that it was in an \"open war\" with Afghanistan, following a rise in militant attacks on civilians and security forces inside Pakistan.\nAfghanistan launched retaliatory strikes after Pakistan carried out airstrikes inside Afghan territory and the cross-border fighting has since claimed the lives of hundreds of people.\nPakistan last mounted deadly airstrikes in Afghanistan in June.\nIslamabad accuses Afghanistan of sheltering militant groups which launch attacks inside Pakistan's territory.\nMain among these is the TTP, often referred to as the Pakistani Taliban and Baloch separatist groups from the border areas.\nThe Taliban has dismissed the allegations, saying that militancy in Pakistan is an internal problem.\nEdited by: Karl Sexton\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Pakistan conducted airstrikes on northeastern Afghanistan on Monday on what"
+    ],
+    [
+     "del",
+     "Pakistani security officials"
+    ],
+    [
+     "ins",
+     "Pakistan's Ministry of Information"
+    ],
+    [
+     "eq",
+     "described as"
+    ],
+    [
+     "del",
+     "militant hideouts, resulting"
+    ],
+    [
+     "ins",
+     "suicide bomber training facilities. It was the first Pakistani strike of its kind on Afghan territory since June, and followed soon after an attack targeting Pakistani police across the border"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "some deaths."
+    ],
+    [
+     "ins",
+     "Kohat."
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "two"
+    ],
+    [
+     "ins",
+     "uneasy"
+    ],
+    [
+     "eq",
+     "neighbors reported"
+    ],
+    [
+     "ins",
+     "seemingly"
+    ],
+    [
+     "eq",
+     "conflicting casualty tolls."
+    ],
+    [
+     "ins",
+     "What were the conflicting accounts on the strikes? Pakistan's Ministry of Information and Broadcasting claimed online that the attacks had targeted terrorist training sites in Afghanistan with \"precision and accuracy.\" \"Three targets were destroyed with precision including a Suicide Bombers training markaz [station], killing 28 terrorists alongside multiple suicide bombers. Large quantities of weapons and ammunition ... were also destroyed,\" the Ministry said."
+    ],
+    [
+     "eq",
+     "The Taliban government in"
+    ],
+    [
+     "del",
+     "Kabul"
+    ],
+    [
+     "ins",
+     "Kabul, meanwhile,"
+    ],
+    [
+     "eq",
+     "claimed that three people were killed as it accused Pakistan of bombarding \"civilian"
+    ],
+    [
+     "del",
+     "homes,\" while the Associated Press news agency cited two unnamed Pakistani security officials as saying that 28 suspected militants were killed."
+    ],
+    [
+     "ins",
+     "homes.\""
+    ],
+    [
+     "eq",
+     "Afghanistan's deputy government spokesperson Hamdullah Fitrat said that the strikes took place"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Paktika province, claiming that a shop and an unoccupied house were destroyed."
+    ],
+    [
+     "del",
+     "There has yet to be an official statement from Pakistan"
+    ],
+    [
+     "ins",
+     "Neither side's assertions"
+    ],
+    [
+     "eq",
+     "on the"
+    ],
+    [
+     "del",
+     "strikes."
+    ],
+    [
+     "ins",
+     "details of and casualties from the strikes could be immediately verified."
+    ],
+    [
+     "eq",
+     "Strikes follow last week's militant attack in Pakistan The reported strikes come"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3732,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.853,
+ "similarity": 0.9278,
+ "adjudicated_by": "rules"
+}

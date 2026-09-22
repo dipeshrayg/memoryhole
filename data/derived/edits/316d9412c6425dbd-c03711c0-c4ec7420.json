@@ -1,0 +1,172 @@
+{
+ "id": "316d9412c6425dbd-c03711c0-c4ec7420",
+ "url": "https://www.abc.net.au/news/2026-09-21/cnn-ms-now-politico-trump-white-house-access-lawsuit/107178896",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-22T11:23:04Z",
+ "date": "2026-09-22",
+ "old_title": "CNN, MS NOW, Politico to sue after being barred from White House",
+ "new_title": "CNN, MS NOW and Politico sue over White House ban",
+ "old_text": "CNN, MS NOW, Politico notify Trump administration of lawsuit over White House access\nIn short:\nCNN, MS NOW and Politico say they have notified Donald Trump's administration that they are filing a lawsuit over being denied White House access.\nIt comes after reporters from the three major news outlets were blocked from the White House over reporting what Mr Trump claimed was \"fake news\".\nThe move marks the latest escalation in the president's campaign to punish news media for coverage he finds objectionable.",
+ "new_text": "In short:\nCNN, MS NOW and Politico have asked a Washington court to reverse Donald Trump's decision to deny them White House access.\nReporters from the three major news outlets were blocked from the White House at the weekend over reporting that the US president described as \"fake news\".\nLeading US networks later suspended televised pool coverage of Mr Trump in solidarity with CNN.\nThe three American media outlets banned from the White House have taken legal action against US President Donald Trump, accusing him of a \"direct assault\" on constitutional free speech rights.\nCNN, MS NOW and Politico lodged a complaint in a Washington DC court after their staff's access passes were revoked over the weekend.\n\"President Trump has said in no uncertain terms that he would prefer only to be covered by news organisations and reporters who praise his administration,\" the complaint says.\n\"But the Constitution does not allow a president or any other government official to deprive the press of their First Amendment rights ... based solely on his dislike of the content of their reporting.\"\nThe three outlets have asked the court to declare the ban in violation of the US constitution and order its reversal.\nCNN reported the matter would be heard in a Washington court on Wednesday, local time.\nPool coverage of Trump suspended\nEarlier on Monday, local time, leading US broadcasters suspended televised coverage of Mr Trump in solidarity with CNN.\nThe network was the designated broadcaster to provide \"pool\" coverage of the president, which is distributed among media outlets.\n\"Effective today, the TV pool will not be covering events designated as pool coverage of the President,\" pool chair Bryan Boughton told other media outlets.\nThe five networks that share pool duties - ABC, CBS, Fox News, NBC and CNN - said in a statement: \"No administration should restrict a news organisation because it objects to its reporting.\"\nMr Trump, who frequently clashes with reporters and complains that the media does not cover him more positively, announced the ban without warning on Friday.\nHe accused the outlets of writing \"fiction and lies\" and told a press conference: \"There is something wrong with a country that allows people to write purposely negative stories.\"\nOn Monday, he used social media to defend the ban, claiming \"fake news\" had \"grown like a cancer\" and was now a \"threat to our national security\".\n\"The White House is not instituting an assault on the Free Press, something which I cherish,\" he wrote.\nLatest escalation in anti-news campaign\nThe White House Correspondents' Association (WHCA) president, Fox News reporter Jacqui Heinrich, called on the Trump administration to immediately restore access.\n\"The implications extend beyond these organisations - a standard used to exclude one news outlet because of its coverage could be applied to any outlet in the future,\" Ms Heinrich said.\n\"The American people, through a free and independent press, must be able to scrutinise those elected to power, regardless of whether government officials view it favourably.\"\nOn Saturday, White House reporters from the two cable networks - Betsy Klein of CNN and Akayla Gardner of MS NOW - went live to report they had been turned away, their press badges deactivated, when arriving for their jobs.\nSoon after, Politico said its White House reporter Cheyenne Haslett was also denied entry and had her badge confiscated.\nThe actions were a clear escalation of Mr Trump's long-running efforts - in the courts and through administrative action - to restrict news coverage by journalists he finds objectionable and are the latest test of US First Amendment protections.\nIn his second term, Mr Trump and his Republican administration have upped the ante and punished certain media outlets, both in the courtroom and through regulatory action.\nMr Trump has also lashed out at individual reporters in person or over social media, sometimes in strikingly personal terms, insulting them in briefings or in his recent speech at the WHCA dinner.\nABC/AP",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "CNN, MS NOW, Politico notify Trump administration of lawsuit over White House access"
+    ],
+    [
+     "eq",
+     "In short: CNN, MS NOW and Politico"
+    ],
+    [
+     "del",
+     "say they"
+    ],
+    [
+     "eq",
+     "have"
+    ],
+    [
+     "del",
+     "notified"
+    ],
+    [
+     "ins",
+     "asked a Washington court to reverse"
+    ],
+    [
+     "eq",
+     "Donald Trump's"
+    ],
+    [
+     "del",
+     "administration that they are filing a lawsuit over being denied"
+    ],
+    [
+     "ins",
+     "decision to deny them"
+    ],
+    [
+     "eq",
+     "White House access."
+    ],
+    [
+     "del",
+     "It comes after reporters"
+    ],
+    [
+     "ins",
+     "Reporters"
+    ],
+    [
+     "eq",
+     "from the three major news outlets were blocked from the White House"
+    ],
+    [
+     "ins",
+     "at the weekend"
+    ],
+    [
+     "eq",
+     "over reporting"
+    ],
+    [
+     "del",
+     "what"
+    ],
+    [
+     "ins",
+     "that the US president described as \"fake news\". Leading US networks later suspended televised pool coverage of"
+    ],
+    [
+     "eq",
+     "Mr Trump"
+    ],
+    [
+     "del",
+     "claimed"
+    ],
+    [
+     "ins",
+     "in solidarity with CNN. The three American media outlets banned from the White House have taken legal action against US President Donald Trump, accusing him of a \"direct assault\" on constitutional free speech rights. CNN, MS NOW and Politico lodged a complaint in a Washington DC court after their staff's access passes were revoked over the weekend. \"President Trump has said in no uncertain terms that he would prefer only to be covered by news organisations and reporters who praise his administration,\" the complaint says. \"But the Constitution does not allow a president or any other government official to deprive the press of their First Amendment rights ... based solely on his dislike of the content of their reporting.\" The three outlets have asked the court to declare the ban in violation of the US constitution and order its reversal. CNN reported the matter would be heard in a Washington court on Wednesday, local time. Pool coverage of Trump suspended Earlier on Monday, local time, leading US broadcasters suspended televised coverage of Mr Trump in solidarity with CNN. The network"
+    ],
+    [
+     "eq",
+     "was"
+    ],
+    [
+     "ins",
+     "the designated broadcaster to provide \"pool\" coverage of the president, which is distributed among media outlets. \"Effective today, the TV pool will not be covering events designated as pool coverage of the President,\" pool chair Bryan Boughton told other media outlets. The five networks that share pool duties - ABC, CBS, Fox News, NBC and CNN - said in a statement: \"No administration should restrict a news organisation because it objects to its reporting.\" Mr Trump, who frequently clashes with reporters and complains that the media does not cover him more positively, announced the ban without warning on Friday. He accused the outlets of writing \"fiction and lies\" and told a press conference: \"There is something wrong with a country that allows people to write purposely negative stories.\" On Monday, he used social media to defend the ban, claiming"
+    ],
+    [
+     "eq",
+     "\"fake"
+    ],
+    [
+     "del",
+     "news\"."
+    ],
+    [
+     "ins",
+     "news\" had \"grown like a cancer\" and was now a \"threat to our national security\". \"The White House is not instituting an assault on the Free Press, something which I cherish,\" he wrote. Latest escalation in anti-news campaign"
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "move marks"
+    ],
+    [
+     "ins",
+     "White House Correspondents' Association (WHCA) president, Fox News reporter Jacqui Heinrich, called on the Trump administration to immediately restore access. \"The implications extend beyond these organisations - a standard used to exclude one news outlet because of its coverage could be applied to any outlet in the future,\" Ms Heinrich said. \"The American people, through a free and independent press, must be able to scrutinise those elected to power, regardless of whether government officials view it favourably.\" On Saturday, White House reporters from the two cable networks - Betsy Klein of CNN and Akayla Gardner of MS NOW - went live to report they had been turned away, their press badges deactivated, when arriving for their jobs. Soon after, Politico said its White House reporter Cheyenne Haslett was also denied entry and had her badge confiscated. The actions were a clear escalation of Mr Trump's long-running efforts - in the courts and through administrative action - to restrict news coverage by journalists he finds objectionable and are"
+    ],
+    [
+     "eq",
+     "the latest"
+    ],
+    [
+     "del",
+     "escalation"
+    ],
+    [
+     "ins",
+     "test of US First Amendment protections. In his second term, Mr Trump and his Republican administration have upped the ante and punished certain media outlets, both"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "president's campaign to punish news media for coverage he finds objectionable."
+    ],
+    [
+     "ins",
+     "courtroom and through regulatory action. Mr Trump has also lashed out at individual reporters in person or over social media, sometimes in strikingly personal terms, insulting them in briefings or in his recent speech at the WHCA dinner. ABC/AP"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 8.0361,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 5,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.564,
+ "similarity": 0.8094,
+ "adjudicated_by": "rules"
+}

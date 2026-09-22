@@ -1,87 +1,87 @@
 {
- "last_run": "2026-09-21T12:25:11Z",
+ "last_run": "2026-09-22T11:16:00Z",
  "sources": [
   {
    "name": "BBC News",
    "ok": true,
-   "checked": 25,
-   "changed": 4,
+   "checked": 30,
+   "changed": 1,
    "error": null
   },
   {
    "name": "The Guardian",
    "ok": true,
-   "checked": 8,
-   "changed": 1,
+   "checked": 9,
+   "changed": 0,
    "error": null
   },
   {
    "name": "NPR",
    "ok": true,
-   "checked": 25,
-   "changed": 0,
+   "checked": 30,
+   "changed": 5,
    "error": null
   },
   {
    "name": "Al Jazeera",
    "ok": true,
-   "checked": 25,
-   "changed": 1,
+   "checked": 29,
+   "changed": 0,
    "error": null
   },
   {
    "name": "Deutsche Welle",
    "ok": true,
-   "checked": 25,
-   "changed": 3,
+   "checked": 30,
+   "changed": 2,
    "error": null
   },
   {
    "name": "France 24",
    "ok": true,
-   "checked": 24,
-   "changed": 2,
+   "checked": 29,
+   "changed": 0,
    "error": null
   },
   {
    "name": "ABC News (Australia)",
    "ok": true,
-   "checked": 24,
-   "changed": 4,
+   "checked": 29,
+   "changed": 2,
    "error": null
   },
   {
    "name": "The Independent",
    "ok": true,
-   "checked": 25,
-   "changed": 5,
+   "checked": 30,
+   "changed": 4,
    "error": null
   },
   {
    "name": "Le Monde (English)",
    "ok": true,
-   "checked": 25,
+   "checked": 30,
    "changed": 0,
    "error": null
   },
   {
    "name": "UN News",
    "ok": true,
-   "checked": 19,
+   "checked": 24,
    "changed": 1,
    "error": null
   },
   {
    "name": "ProPublica",
    "ok": true,
-   "checked": 8,
+   "checked": 9,
    "changed": 0,
    "error": null
   },
   {
    "name": "GOV.UK announcements",
    "ok": true,
-   "checked": 20,
+   "checked": 25,
    "changed": 0,
    "error": null
   },
@@ -102,14 +102,14 @@
   {
    "name": "BBC Business",
    "ok": true,
-   "checked": 19,
-   "changed": 2,
+   "checked": 22,
+   "changed": 0,
    "error": null
   },
   {
    "name": "Guardian Business",
    "ok": true,
-   "checked": 25,
+   "checked": 30,
    "changed": 1,
    "error": null
   },
@@ -117,13 +117,13 @@
    "name": "CNBC Markets",
    "ok": true,
    "checked": 6,
-   "changed": 1,
+   "changed": 0,
    "error": null
   },
   {
    "name": "Yahoo Finance",
    "ok": true,
-   "checked": 25,
+   "checked": 30,
    "changed": 0,
    "error": null
   },
@@ -137,7 +137,7 @@
   {
    "name": "BBC Science",
    "ok": true,
-   "checked": 10,
+   "checked": 14,
    "changed": 0,
    "error": null
   },
@@ -145,75 +145,75 @@
    "name": "BBC Technology",
    "ok": true,
    "checked": 5,
-   "changed": 1,
+   "changed": 0,
    "error": null
   },
   {
    "name": "BBC Sport",
    "ok": true,
-   "checked": 25,
-   "changed": 2,
+   "checked": 30,
+   "changed": 4,
    "error": null
   },
   {
    "name": "Guardian Science",
    "ok": true,
-   "checked": 14,
-   "changed": 0,
+   "checked": 18,
+   "changed": 2,
    "error": null
   },
   {
    "name": "Guardian Sport",
    "ok": true,
-   "checked": 25,
+   "checked": 30,
    "changed": 4,
    "error": null
   },
   {
    "name": "Guardian Culture",
    "ok": true,
-   "checked": 24,
-   "changed": 1,
+   "checked": 29,
+   "changed": 3,
    "error": null
   },
   {
    "name": "NPR Science",
    "ok": true,
-   "checked": 6,
+   "checked": 7,
    "changed": 0,
    "error": null
   },
   {
    "name": "NPR Health",
    "ok": true,
-   "checked": 9,
-   "changed": 0,
+   "checked": 11,
+   "changed": 1,
    "error": null
   },
   {
    "name": "ScienceDaily",
    "ok": true,
-   "checked": 23,
+   "checked": 28,
    "changed": 0,
    "error": null
   },
   {
    "name": "Ars Technica",
    "ok": true,
-   "checked": 20,
-   "changed": 0,
+   "checked": 22,
+   "changed": 1,
    "error": null
   },
   {
    "name": "Variety",
    "ok": true,
    "checked": 25,
-   "changed": 0,
+   "changed": 3,
    "error": null
   }
  ],
- "articles_checked": 515,
- "edits_found": 33,
- "duration_s": 1030.5,
- "total_edits": 2581
+ "articles_checked": 612,
+ "edits_found": 34,
+ "duration_s": 1286.2,
+ "total_edits": 2615
 }
