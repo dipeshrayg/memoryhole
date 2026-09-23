@@ -1,0 +1,236 @@
+{
+ "id": "0b77b31a75e74663-a34a9479-12dd2ce9",
+ "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-23T11:08:43Z",
+ "date": "2026-09-23",
+ "old_title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+ "new_title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+ "old_text": "- Published\nBillionaire Sir Jim Ratcliffe's industrial giant Ineos is pausing production at its three plants in Hull, blaming high UK gas prices.\nThe firm said gas prices in the UK are twelve times higher than in the US, and eight times more expensive than the coal-based processes used by Chinese competitors.\nSir Jim said: \"We are being forced to mothball some of the most efficient plants in Europe, but with gas prices now 12 times the level in the US and 8 times that of China, we just cannot compete.\"\nThe facilities produce raw materials used to make pharmaceuticals, clothing, cosmetics, detergents, construction materials and military explosives in the UK and Europe. Gas is a key ingredient in production.\nIneos said the move will affect up to 1,000 of its staff, of whom 245 work directly at the site.\nBut the BBC understands workers across the sites will be kept on while Ineos tries to buy liquefied natural gas (LNG) directly from the US at lower prices - which could take up to a year - or waits for gas prices to go down.\nIneos is asking governments in the UK and the EU â where most of its products are exported to â to put in tariff protections against Chinese products.\nOne plant makes acetic acid, which is used in vinegar, paint and glue. Another makes acetic anhydride, a key ingredient of aspirin, and the third makes ethyl acetate, which is used as a solvent and for decaffeinating tea and coffee.\nHe said the current government's energy policy was \"economic vandalism on an industrial scale\".\nThe wholesale price of natural gas â used for heating homes and generating electricity â has almost doubled in the UK and Europe since July.\nAnalysts say the main driver has been a reduction in global oil and gas supplies.\nIneos says that its plants in Humberside are \"among the most efficient in the world\", producing materials with half the carbon footprint of US rivals, and only one eighth the footprint of Chinese equivalents.\nTwo plants are already shut and a third will stop production in coming days, the company said. It did not immediately specify when the plants might start again, or what conditions would make that possible.\nIt's the second time in less than a week that Sir Jim, who also owns a large stake in Manchester United, has heavily criticised government policy.\nHe told BBC News last week that he has lost confidence in the UK, describing the country as \"on the slide\", which he blamed on high taxes and high immigration.\nSir Jim, whose wealth is estimated to be around Â£15bn, has prompted controversy in the past with his comments on immigration. He was a supporter of Brexit but has been a tax resident in Monaco since 2020.\nThe Department for Business, Innovation, Science and Trade has been approached for comment.",
+ "new_text": "- Published\nBillionaire Sir Jim Ratcliffe's industrial giant Ineos is pausing production at its three plants in Hull, blaming high UK gas prices.\nThe firm said gas prices in the UK are twelve times higher than in the US, and eight times more expensive than the coal-based processes used by Chinese competitors.\nSir Jim said: \"We are being forced to mothball some of the most efficient plants in Europe, but with gas prices now 12 times the level in the US and 8 times that of China, we just cannot compete.\"\nIneos Acetyls, part of the Ineos Group, is the only European producer of key chemicals used in a wide range of products from food and medicines to explosives. Gas is a key ingredient in production.\nIneos said the move will affect up to 1,000 of its staff, of whom 245 work directly at the site.\nBut the BBC understands workers across the sites will be kept on while Ineos tries to buy liquefied natural gas (LNG) directly from the US at lower prices - which could take up to a year - or waits for gas prices to go down.\nIneos is asking governments in the UK and the EU - where most of its products are exported to - to put in tariff protections against Chinese products.\nTwo plants on the site have already been turned off, and the third will follow in coming days.\nOne plant makes acetic acid, which is used in vinegar, paint and glue. Another makes acetic anhydride, a key ingredient of aspirin, and the third makes ethyl acetate, which is used as a solvent and for decaffeinating tea and coffee.\nThe disruption of supplies of oil and gas through the Strait of Hormuz following the US-Israel war in Iran has pushed up prices around the world.\nThe wholesale price of natural gas â used for heating homes and generating electricity â has almost doubled in the UK and Europe since July.\nSir Jim said the current government's energy policy was \"economic vandalism on an industrial scale\".\nIneos says that its plants in East Yorkshire are \"among the most efficient in the world\", producing materials with half the carbon footprint of US rivals, and only one eighth the footprint of Chinese equivalents.\nIt's the second time in less than a week that Sir Jim, who also owns a large stake in Manchester United, has heavily criticised government policy.\nHe told BBC News last week that he has lost confidence in the UK, describing the country as \"on the slide\", which he blamed on high taxes and high immigration.\nSir Jim, whose wealth is estimated to be around Â£15bn, has prompted controversy in the past with his comments on immigration. He was a supporter of Brexit but has been a tax resident in Monaco since 2020.\nThe Department for Business, Innovation, Science and Trade said it would be a \"concerning time for workers in Saltend and their families\".\nA spokesperson said: \"We've taken bold action to support our chemicals industry including Â£350 million for strategically important chemicals producers, which will be available on a co-investment basis.\n\"We've also put trade measures in place on foreign chemicals imports and are tackling high electricity costs via our Supercharger and British Industrial Competitiveness Scheme to keep our chemicals sector competitive.\"\nIneos Acetyls company cut a fifth of its workforce last year, citing high energy costs and \"dirt-cheap\" competition from China. It called for tariffs - or taxes on imports - to protect the industry.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the US and 8 times that of China, we just cannot compete.\""
+    ],
+    [
+     "del",
+     "The facilities produce raw materials"
+    ],
+    [
+     "ins",
+     "Ineos Acetyls, part of the Ineos Group, is the only European producer of key chemicals"
+    ],
+    [
+     "eq",
+     "used"
+    ],
+    [
+     "ins",
+     "in a wide range of products from food and medicines"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "make pharmaceuticals, clothing, cosmetics, detergents, construction materials and military explosives in the UK and Europe."
+    ],
+    [
+     "ins",
+     "explosives."
+    ],
+    [
+     "eq",
+     "Gas is a key ingredient in production. Ineos said the move will"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "go down. Ineos is asking governments in the UK and the EU"
+    ],
+    [
+     "del",
+     "â"
+    ],
+    [
+     "ins",
+     "-"
+    ],
+    [
+     "eq",
+     "where most of its products are exported to"
+    ],
+    [
+     "del",
+     "â"
+    ],
+    [
+     "ins",
+     "-"
+    ],
+    [
+     "eq",
+     "to put in tariff protections against Chinese products."
+    ],
+    [
+     "ins",
+     "Two plants on the site have already been turned off, and the third will follow in coming days."
+    ],
+    [
+     "eq",
+     "One plant makes acetic acid, which is used in vinegar, paint and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "which is used as a solvent and for decaffeinating tea and coffee."
+    ],
+    [
+     "del",
+     "He said"
+    ],
+    [
+     "ins",
+     "The disruption of supplies of oil and gas through"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "current government's energy policy was \"economic vandalism on an industrial scale\"."
+    ],
+    [
+     "ins",
+     "Strait of Hormuz following the US-Israel war in Iran has pushed up prices around the world."
+    ],
+    [
+     "eq",
+     "The wholesale price of natural gas â used for heating homes and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "electricity â has almost doubled in the UK and Europe since July."
+    ],
+    [
+     "del",
+     "Analysts say"
+    ],
+    [
+     "ins",
+     "Sir Jim said"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "main driver has been a reduction in global oil and gas supplies."
+    ],
+    [
+     "ins",
+     "current government's energy policy was \"economic vandalism on an industrial scale\"."
+    ],
+    [
+     "eq",
+     "Ineos says that its plants in"
+    ],
+    [
+     "del",
+     "Humberside"
+    ],
+    [
+     "ins",
+     "East Yorkshire"
+    ],
+    [
+     "eq",
+     "are \"among the most efficient in the world\", producing materials with half"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of US rivals, and only one eighth the footprint of Chinese equivalents."
+    ],
+    [
+     "del",
+     "Two plants are already shut and a third will stop production in coming days, the company said. It did not immediately specify when the plants might start again, or what conditions would make that possible."
+    ],
+    [
+     "eq",
+     "It's the second time in less than a week that Sir Jim,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "in Monaco since 2020. The Department for Business, Innovation, Science and Trade"
+    ],
+    [
+     "del",
+     "has been approached"
+    ],
+    [
+     "ins",
+     "said it would be a \"concerning time"
+    ],
+    [
+     "eq",
+     "for"
+    ],
+    [
+     "del",
+     "comment."
+    ],
+    [
+     "ins",
+     "workers in Saltend and their families\". A spokesperson said: \"We've taken bold action to support our chemicals industry including Â£350 million for strategically important chemicals producers, which will be available on a co-investment basis. \"We've also put trade measures in place on foreign chemicals imports and are tackling high electricity costs via our Supercharger and British Industrial Competitiveness Scheme to keep our chemicals sector competitive.\" Ineos Acetyls company cut a fifth of its workforce last year, citing high energy costs and \"dirt-cheap\" competition from China. It called for tariffs - or taxes on imports - to protect the industry."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5851,
+  "numbers_changed": [
+   "350"
+  ],
+  "market_figures_changed": [
+   "£350 m"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 1,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.663,
+ "similarity": 0.9262,
+ "adjudicated_by": "rules"
+}

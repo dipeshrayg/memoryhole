@@ -1,0 +1,250 @@
+{
+ "id": "df0578fa3f1884a0-1bdb021a-0a855031",
+ "url": "https://www.gov.uk/government/news/thousands-invited-to-register-for-public-panel-for-independent-commission-on-adult-social-care",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "country": "United Kingdom",
+ "category": "government",
+ "lang": "en",
+ "detected_at": "2026-09-23T11:16:00Z",
+ "date": "2026-09-23",
+ "old_title": "Thousands invited to register for Public Panel for Independent Commission on Adult Social Care",
+ "new_title": "Thousands invited to register for public panel for independent commission on adult social care",
+ "old_text": "People across England are being invited to register for the Public Panel on Care, giving members of the public the chance to help shape the future of adult social care.\nFrom Monday 21 September, thousands of households across England will begin receiving letters inviting people aged 18 and over to register their interest in joining.\nThe Panel is part of the Big Conversation on Care, being run by the Independent Commission on Adult Social Care, chaired by Baroness Louise Casey of Blackstock.\nAround 125 people will ultimately be selected to take part, bringing together people from different backgrounds and communities across England. Letters are being sent to addresses selected at random, and anyone aged 18 or over living at an invited address can register. No more than one person will ultimately be selected from each household.\nThe Public Panel on Care will hear different perspectives and views, learn about the issues at the heart of adult social care reform, weigh trade offs and ultimately work together to find common ground on important questions: What is care? Who should receive it? And who should pay for what?\nPeople do not need to have any previous experience or knowledge of adult social care to take part.\nThe Public Panel will meet in person over several weekends between November 2026 and April 2027 in Birmingham and London as well as convening for shorter online sessions.\nPeople who receive a letter can register by Sunday 11 October using the details provided in their invitation.\nNotes to editors\n- The Independent Commission on Adult Social Care is chaired by Baroness Louise Casey of Blackstock and was established to make recommendations on the future of adult social care in England.\n- Participants will be selected by lottery from those who register, with the final Panel selected to broadly reflect the population of England.\n- Registration closes on Sunday 11 October 2026.\n- Further information about the Big Conversation on Care is available on the Casey Commission website.",
+ "new_text": "People across England are being invited to register for the public panel on care, giving members of the public the chance to help shape the future of adult social care.\nFrom Monday 21 September 2026, thousands of households across England will begin receiving letters inviting people aged 18 and over to register their interest in joining.\nThe panel is part of the Big Conversation on Care, being run by the independent commission on adult social care, chaired by Baroness Louise Casey of Blackstock.\nAround 125 people will ultimately be selected to take part, bringing together people from different backgrounds and communities across England. Letters are being sent to addresses selected at random, and anyone aged 18 or over living at an invited address can register. No more than one person will ultimately be selected from each household.\nThe public panel on care will hear different perspectives and views, learn about the issues at the heart of adult social care reform, weigh trade offs and ultimately work together to find common ground on important questions: What is care? Who should receive it? And who should pay for what?\nPeople do not need to have any previous experience or knowledge of adult social care to take part.\nThe public panel will meet in person over several weekends between November 2026 and April 2027 in Birmingham and London as well as convening for shorter online sessions.\nPeople who receive a letter can register by Sunday 11 October 2026 using the details provided in their invitation.\nThe independent commission on adult social care is chaired by Baroness Louise Casey of Blackstock and was established to make recommendations on the future of adult social care in England.\nParticipants will be selected by lottery from those who register, with the final panel selected to broadly reflect the population of England.\nRegistration closes on Sunday 11 October 2026.\nFurther information about the Big Conversation on Care is available on the Casey Commission website.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "People across England are being invited to register for the"
+    ],
+    [
+     "del",
+     "Public Panel"
+    ],
+    [
+     "ins",
+     "public panel"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "Care,"
+    ],
+    [
+     "ins",
+     "care,"
+    ],
+    [
+     "eq",
+     "giving members of the public the chance to help shape the future of adult social care. From Monday 21"
+    ],
+    [
+     "del",
+     "September,"
+    ],
+    [
+     "ins",
+     "September 2026,"
+    ],
+    [
+     "eq",
+     "thousands of households across England will begin receiving letters inviting people aged 18 and over to register their interest in joining. The"
+    ],
+    [
+     "del",
+     "Panel"
+    ],
+    [
+     "ins",
+     "panel"
+    ],
+    [
+     "eq",
+     "is part of the Big Conversation on Care, being run by the"
+    ],
+    [
+     "del",
+     "Independent Commission"
+    ],
+    [
+     "ins",
+     "independent commission"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "Adult Social Care,"
+    ],
+    [
+     "ins",
+     "adult social care,"
+    ],
+    [
+     "eq",
+     "chaired by Baroness Louise Casey of Blackstock. Around 125 people will ultimately"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "more than one person will ultimately be selected from each household. The"
+    ],
+    [
+     "del",
+     "Public Panel"
+    ],
+    [
+     "ins",
+     "public panel"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "Care"
+    ],
+    [
+     "ins",
+     "care"
+    ],
+    [
+     "eq",
+     "will hear different perspectives and views, learn about the issues at the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "previous experience or knowledge of adult social care to take part. The"
+    ],
+    [
+     "del",
+     "Public Panel"
+    ],
+    [
+     "ins",
+     "public panel"
+    ],
+    [
+     "eq",
+     "will meet in person over several weekends between November 2026 and April"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "sessions. People who receive a letter can register by Sunday 11 October"
+    ],
+    [
+     "ins",
+     "2026"
+    ],
+    [
+     "eq",
+     "using the details provided in their invitation."
+    ],
+    [
+     "del",
+     "Notes to editors -"
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "Independent Commission"
+    ],
+    [
+     "ins",
+     "independent commission"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "Adult Social Care"
+    ],
+    [
+     "ins",
+     "adult social care"
+    ],
+    [
+     "eq",
+     "is chaired by Baroness Louise Casey of Blackstock and was established to make recommendations on the future of adult social care in England."
+    ],
+    [
+     "del",
+     "-"
+    ],
+    [
+     "eq",
+     "Participants will be selected by lottery from those who register, with the final"
+    ],
+    [
+     "del",
+     "Panel"
+    ],
+    [
+     "ins",
+     "panel"
+    ],
+    [
+     "eq",
+     "selected to broadly reflect the population of England."
+    ],
+    [
+     "del",
+     "-"
+    ],
+    [
+     "eq",
+     "Registration closes on Sunday 11 October 2026."
+    ],
+    [
+     "del",
+     "-"
+    ],
+    [
+     "eq",
+     "Further information about the Big Conversation on Care is available on the Casey Commission website."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1541,
+  "numbers_changed": [
+   "2026"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9929,
+ "adjudicated_by": "rules"
+}

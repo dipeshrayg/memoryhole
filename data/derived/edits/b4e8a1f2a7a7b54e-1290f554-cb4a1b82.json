@@ -1,0 +1,44 @@
+{
+ "id": "b4e8a1f2a7a7b54e-1290f554-cb4a1b82",
+ "url": "https://www.independent.co.uk/bulletin/news/nats-air-traffic-failure-airport-delays-b3053597.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-23T11:13:31Z",
+ "date": "2026-09-23",
+ "old_title": "UK air traffic control chief faces calls to resign after fresh delays",
+ "new_title": "UK air traffic control chief faces calls to resign after fresh delays",
+ "old_text": "UK air traffic control chief faces calls to resign after second major system failure\n- National Air Traffic Services (Nats) experienced another major technical failure at its Prestwick centre on Monday morning, causing widespread flight cancellations and delays across major UK airports including Manchester, Glasgow, Belfast, and London Luton.\n- Ryanair chief operations officer Neal McMahon and Reform UK deputy leader Richard Tice have demanded the immediate resignation of Nats chief executive Martin Rolfe, calling on Transport Secretary Heidi Alexander to dismiss him if he refuses to step down.\n- The latest system failure occurred less than two weeks after a separate software defect on 8 September disrupted more than 2,000 flights, directly contradicting a Nats report published days earlier that claimed a repeat incident was unlikely.\n- EasyJet has been severely impacted by the incident, cancelling at least 29 of its 670 scheduled UK departures on Monday, with industry experts warning the delays will cost airlines millions of pounds in additional losses.\n- Nats apologised to passengers and confirmed the technical issue has now been resolved, stating that it is working with airlines and airports to lift restrictions and safely restore normal flight schedules.\nMore bulletins",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nUK air traffic control chief faces calls to resign after second major system failure\n- National Air Traffic Services (Nats) experienced another major technical failure at its Prestwick centre on Monday morning, causing widespread flight cancellations and delays across major UK airports including Manchester, Glasgow, Belfast, and London Luton.\n- Ryanair chief operations officer Neal McMahon and Reform UK deputy leader Richard Tice have demanded the immediate resignation of Nats chief executive Martin Rolfe, calling on Transport Secretary Heidi Alexander to dismiss him if he refuses to step down.\n- The latest system failure occurred less than two weeks after a separate software defect on 8 September disrupted more than 2,000 flights, directly contradicting a Nats report published days earlier that claimed a repeat incident was unlikely.\n- EasyJet has been severely impacted by the incident, cancelling at least 29 of its 670 scheduled UK departures on Monday, with industry experts warning the delays will cost airlines millions of pounds in additional losses.\n- Nats apologised to passengers and confirmed the technical issue has now been resolved, stating that it is working with airlines and airports to lift restrictions and safely restore normal flight schedules.\nMore bulletins",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "Become an Independent member to bookmark this article Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. Join today Already a member? Log in"
+    ],
+    [
+     "eq",
+     "UK air traffic control chief faces calls to resign after second major"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1675,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.656,
+ "similarity": 0.9356,
+ "adjudicated_by": "rules"
+}

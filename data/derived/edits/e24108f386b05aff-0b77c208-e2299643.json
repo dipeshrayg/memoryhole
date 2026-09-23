@@ -1,0 +1,74 @@
+{
+ "id": "e24108f386b05aff-0b77c208-e2299643",
+ "url": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-09-23T11:23:46Z",
+ "date": "2026-09-23",
+ "old_title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+ "new_title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+ "old_text": "In the world's first clash of the drone boats, a Ukrainian naval drone destroyed a Russian explosive drone boat using a remote-controlled machine gun turret. This comes as the war in Ukraine has already seen widespread deployment of such uncrewed surface vessels in combat, along with swarms of flying attack drones and ground robots.\nThe lopsided battle took place on September 12 when members of Ukraine's Defense Intelligence detected the Russian uncrewed surface vessel (USV) in the Black Sea and directed a Ukrainian Navy drone boat to intercept. The Russian vessel was \"positively identified\" as an Orcan surface drone with a \"jet ski type steerable water jet\" designed to ram targets and explode, according to naval analyst HI Sutton in Naval News.\nSuch Orcan drones have already been used to attack Ukrainian ports and ships. These often work in coordination with flying drones such as Russian Geran drones that provide aerial reconnaissance and can boost communication between drone operators and drone boats, Sutton explained.\nIn this case, the Russian drone was hunted down by a Ukrainian Sargan-3000 drone boat armed with a 12.7 mm machine gun mounted on a remote weapon station made by the Norwegian company Kongsberg.\n\"It was inevitable that there would be USV-on-USV combat,\" Sutton told New Scientist. \"We have seen the same in the air and on the ground.\"\nThe Ukrainian Navy released a video showing the Sargan-3000 firing upon the Russian drone from a distance of one kilometer, disabling the latter's communications antenna before riddling the Russian drone until it sank, according to the Ukrainian government media platform United24.",
+ "new_text": "In the world's first clash of the drone boats, a Ukrainian naval drone destroyed a Russian explosive drone boat using a remote-controlled machine gun turret. This comes as the war in Ukraine has already seen widespread deployment of such uncrewed surface vessels in combat, along with swarms of flying attack drones and ground robots.\nThe lopsided battle took place on September 12 when members of Ukraine's Defense Intelligence detected the Russian uncrewed surface vessel (USV) in the Black Sea and directed a Ukrainian Navy drone boat to intercept. The Russian vessel was \"positively identified\" as an Orcan surface drone with a \"jet ski type steerable water jet\" designed to ram targets and explode, according to naval analyst HI Sutton in Naval News.\nSuch Orcan drones have already been used to attack Ukrainian ports and ships. These often work in coordination with flying drones, like Russian Geran drones that provide aerial reconnaissance and can boost communication between drone operators and drone boats, Sutton explained.\nIn this case, the Russian drone was hunted down by a Ukrainian Sargan-3000 drone boat armed with a 12.7 mm machine gun mounted on a remote weapon station made by the Norwegian company Kongsberg.\n\"It was inevitable that there would be USV-on-USV combat,\" Sutton told New Scientist. \"We have seen the same in the air and on the ground.\"\nThe Ukrainian Navy released a video showing the Sargan-3000 firing upon the Russian drone from a distance of 1 kilometer, disabling the latter's communications antenna before riddling the Russian drone until it sank, according to the Ukrainian government media platform United24.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "attack Ukrainian ports and ships. These often work in coordination with flying"
+    ],
+    [
+     "del",
+     "drones such as"
+    ],
+    [
+     "ins",
+     "drones, like"
+    ],
+    [
+     "eq",
+     "Russian Geran drones that provide aerial reconnaissance and can boost communication between"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "showing the Sargan-3000 firing upon the Russian drone from a distance of"
+    ],
+    [
+     "del",
+     "one"
+    ],
+    [
+     "ins",
+     "1"
+    ],
+    [
+     "eq",
+     "kilometer, disabling the latter's communications antenna before riddling the Russian drone until it sank, according to the Ukrainian government media platform United24."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0265,
+  "numbers_changed": [
+   "1"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9999,
+ "adjudicated_by": "rules"
+}

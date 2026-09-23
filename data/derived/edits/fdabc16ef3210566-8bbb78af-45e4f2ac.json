@@ -1,0 +1,44 @@
+{
+ "id": "fdabc16ef3210566-8bbb78af-45e4f2ac",
+ "url": "https://www.gov.uk/government/speeches/un-human-rights-council-63-joint-statement-for-the-item-4-general-debate",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "country": "United Kingdom",
+ "category": "government",
+ "lang": "en",
+ "detected_at": "2026-09-23T11:16:02Z",
+ "date": "2026-09-23",
+ "old_title": "UN Human Rights Council 63: Joint Statement for the Item 4 General Debate",
+ "new_title": "UN Human Rights Council 63: Joint Statement for the Item 4 General Debate",
+ "old_text": "Mr Vice-President,\nI deliver this statement on behalf of a group of eleven countries that remain firmly committed to the two-State solution, in accordance with relevant UN Security Council resolutions and the New York Declaration, as the only credible path to a just and lasting peace, security and dignity for both Israelis and Palestinians.\nIsraeli settlements are illegal under international law and constitute a serious obstacle to peace. Continued settlement expansion, the establishment of new outposts, land seizures, and rising settler violence further threaten the viability of a future Palestinian state.\nWith the rapidly deteriorating situation on the ground, we have taken new measures, supported European restrictions, or are actively considering measures to defend the viability of the two-state solution, including restrictions targeting settlement activity and those who support, facilitate or profit from it.\nWe call on Israel immediately to fully comply with its obligations under international law, halt settlement expansion, prevent and punish settler violence, and investigate allegations against Israeli forces. We also reaffirm our unwavering commitment to Israel's security and our condemnation of terrorism, including the Hamas terror attacks of 7 October.\nWe will continue to work to uphold international law and protect the two-State solution.",
+ "new_text": "Mr Vice-President,\nI deliver this statement on behalf of a group of eleven countries that remain firmly committed to the two-State solution, in accordance with relevant UN Security Council resolutions and the New York Declaration, as the only credible path to a just and lasting peace, security and dignity for both Israelis and Palestinians.\nIsraeli settlements are illegal under international law and constitute a serious obstacle to peace. Continued settlement expansion, the establishment of new outposts, land seizures, and rising settler violence further threaten the viability of a future Palestinian state.\nWith the rapidly deteriorating situation on the ground, we have taken new measures, supported European restrictions, or are actively considering measures to defend the viability of the two-state solution, including restrictions targeting settlement activity and those who support, facilitate or profit from it.\nWe call on Israel immediately to fully comply with its obligations under international law, halt settlement expansion, prevent and punish settler violence, and investigate allegations against Israeli forces. We also reaffirm our unwavering commitment to Israel's security and our condemnation of terrorism, including the Hamas terror attacks of 7 October.\nWe will continue to work to uphold international law and protect the two-State solution.\nThis statement was on behalf of the UK, Canada, France, Denmark, Finland, Iceland, Ireland, Norway, Portugal, Spain and Sweden.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "continue to work to uphold international law and protect the two-State solution."
+    ],
+    [
+     "ins",
+     "This statement was on behalf of the UK, Canada, France, Denmark, Finland, Iceland, Ireland, Norway, Portugal, Spain and Sweden."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.096,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9753,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,299 @@
+{
+ "id": "240e1f0afdea5477-5d17aace-b0b2fc55",
+ "url": "https://www.theguardian.com/sport/2026/sep/22/henry-pollock-saga-ends-multi-year-deal-stay-at-northampton-rugby-union",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-09-23T11:21:03Z",
+ "date": "2026-09-23",
+ "old_title": "Henry Pollock saga ends after player signs 'multi-year' deal to stay at Northampton",
+ "new_title": "Henry Pollock triples salary after signing 'multi-year' deal to stay at Northampton",
+ "old_text": "England back row Henry Pollock has signed a bumper new contract with Northampton. The 21-year-old has agreed a \"multi-year\" deal, the Prem champions announced on Tuesday morning.\n\"I'm massively happy to re-sign with Saints, my boyhood club,\" Pollock said. \"It's an exciting place to be right now. We're in a great spot as a team, but it feels like there's still so much more growth in us.\"\nPollock has had a rapid rise to the top of the sport and recently became the first rugby player to be represented by Barry and Eddie Hearn's Matchroom Talent Agency. And, famous for promoting boxing, darts and snooker, the Hearns have got straight to work, negotiating Pollock a contract widely reported to be in excess of £400,000 per year.\nPollock, who has played 13 times for England and won five British and Irish Lions caps, added: \"I'm still young, and we've got a young squad with a brilliant group of lads. Some of my best mates are here, and every day everyone pushes each other to improve and be the best players and team we can be. For where I am in my career, this is exactly where I want to be. I feel like we're only just getting started. We won the Prem last season and we want to go again.\n\"Winning the Champions Cup is another huge ambition for us. We came so close a couple of years ago, and achieving that together would be incredibly special. I just want to enjoy every moment of this journey. I'm playing for my boyhood club, surrounded by great people, and that's something I never take for granted. The connections within this group are what make it such a special place.\"\nNorthampton's director of rugby Phil Dowson believes it is important for the club to tie down a player who is transcending the sport. He said: \"We're delighted that Henry has committed his future to Saints. Over the last few years, everyone has seen the quality he brings on the pitch and the speed of his rise through the game - but just as importantly, he's a young man of outstanding character.\n\"Keeping someone with both his talent and mindset is hugely important for the club. What's most exciting is that there's still so much more to come from him. Henry is incredibly ambitious and constantly looking for ways to improve.\n\"He's become an important figure not just for Saints, but for the wider game. He inspires young supporters, brings excitement to rugby, and understands that everything off the pitch is built on performing consistently on it. We're excited to see what he can achieve over the coming years.\"",
+ "new_text": "Henry Pollock has signed a new Northampton contract worth in excess of £400,000 a year, ensuring he will remain available for England beyond the 2027 World Cup.\nThe 21-year-old has roughly tripled his salary in a \"multi-year\" deal thought to extend until 2029. Pollock's future at the club had come into question when his representative, Eddie Hearn, suggested he deserved a seven-figure salary but while the new deal is a long way short of that, he ends up as one of the best paid back-row forwards in England.\nThe Northampton director of rugby, Phil Dowson, had insisted that a \"happy medium\" had to be reached for the Saints starlet, who has 13 England caps to his name, having already tied down Tommy Freeman to a new deal at Franklin's Gardens.\nPollock, who also earns about £150,000 a year as one of the 25 England players with an enhanced contract, last week said he would like to play abroad one day and try his hand at other sports. But for now his future lies with Northampton, with Hearn insisting there were a number of other lucrative offers turned down. \"He left a lot of money on the table to stay with Northampton,\" Hearn said. \"But it wasn't even a tough decision for him.\"\nPollock said: \"I'm massively happy to re-sign with Saints, my boyhood club. It's an exciting place to be right now. We're in a great spot as a team, but it feels like there's still so much more growth in us. I'm still young, and we've got a young squad with a brilliant group of lads. Some of my best mates are here, and every day everyone pushes each other to improve and be the best players and team we can be. ... For where I am in my career, this is exactly where I want to be.\"\nDowson, who guided Northampton to their second Prem title in three years last summer, added: \"Over the last few years, everyone has seen the quality he brings on the pitch and the speed of his rise through the game - but just as importantly, he's a young man of outstanding character. Keeping someone with both his talent and mindset is hugely important for the club.\n\"What's most exciting is that there's still so much more to come from him. Henry is incredibly ambitious and constantly looking for ways to improve. He understands that individual success comes from contributing to a successful team, and he's already taken on leadership responsibilities within the squad despite his age. Physically, he's an exceptional athlete. He's explosive, powerful and highly skilful, with the ability to influence a game in a number of different ways. But there are still areas of his game he can develop, and one of Henry's greatest strengths is how quickly he learns and adapts.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "England back row"
+    ],
+    [
+     "eq",
+     "Henry Pollock has signed a"
+    ],
+    [
+     "del",
+     "bumper"
+    ],
+    [
+     "eq",
+     "new"
+    ],
+    [
+     "ins",
+     "Northampton"
+    ],
+    [
+     "eq",
+     "contract"
+    ],
+    [
+     "del",
+     "with Northampton."
+    ],
+    [
+     "ins",
+     "worth in excess of £400,000 a year, ensuring he will remain available for England beyond the 2027 World Cup."
+    ],
+    [
+     "eq",
+     "The 21-year-old has"
+    ],
+    [
+     "del",
+     "agreed"
+    ],
+    [
+     "ins",
+     "roughly tripled his salary in"
+    ],
+    [
+     "eq",
+     "a \"multi-year\""
+    ],
+    [
+     "del",
+     "deal,"
+    ],
+    [
+     "ins",
+     "deal thought to extend until 2029. Pollock's future at"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "Prem champions announced"
+    ],
+    [
+     "ins",
+     "club had come into question when his representative, Eddie Hearn, suggested he deserved a seven-figure salary but while the new deal is a long way short of that, he ends up as one of the best paid back-row forwards in England. The Northampton director of rugby, Phil Dowson, had insisted that a \"happy medium\" had to be reached for the Saints starlet, who has 13 England caps to his name, having already tied down Tommy Freeman to a new deal at Franklin's Gardens. Pollock, who also earns about £150,000 a year as one of the 25 England players with an enhanced contract, last week said he would like to play abroad one day and try his hand at other sports. But for now his future lies with Northampton, with Hearn insisting there were a number of other lucrative offers turned down. \"He left a lot of money"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "Tuesday morning."
+    ],
+    [
+     "ins",
+     "the table to stay with Northampton,\" Hearn said. \"But it wasn't even a tough decision for him.\" Pollock said:"
+    ],
+    [
+     "eq",
+     "\"I'm massively happy to re-sign with Saints, my boyhood"
+    ],
+    [
+     "del",
+     "club,\" Pollock said. \"It's"
+    ],
+    [
+     "ins",
+     "club. It's"
+    ],
+    [
+     "eq",
+     "an exciting place to be right now. We're in a great spot"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "team, but it feels like there's still so much more growth in"
+    ],
+    [
+     "del",
+     "us.\" Pollock has had a rapid rise to the top of the sport and recently became the first rugby player to be represented by Barry and Eddie Hearn's Matchroom Talent Agency. And, famous for promoting boxing, darts and snooker, the Hearns have got straight to work, negotiating Pollock a contract widely reported to be in excess of £400,000 per year. Pollock, who has played 13 times for England and won five British and Irish Lions caps, added: \"I'm"
+    ],
+    [
+     "ins",
+     "us. I'm"
+    ],
+    [
+     "eq",
+     "still young, and we've got a young squad with a brilliant group"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to improve and be the best players and team we can be."
+    ],
+    [
+     "ins",
+     "..."
+    ],
+    [
+     "eq",
+     "For where I am in my career, this is exactly where I want to"
+    ],
+    [
+     "del",
+     "be. I feel like we're only just getting started. We won the"
+    ],
+    [
+     "ins",
+     "be.\" Dowson, who guided Northampton to their second"
+    ],
+    [
+     "eq",
+     "Prem"
+    ],
+    [
+     "ins",
+     "title in three years"
+    ],
+    [
+     "eq",
+     "last"
+    ],
+    [
+     "del",
+     "season and we want to go again. \"Winning the Champions Cup is another huge ambition for us. We came so close a couple of years ago, and achieving that together would be incredibly special. I just want to enjoy every moment of this journey. I'm playing for my boyhood club, surrounded by great people, and that's something I never take for granted. The connections within this group are what make it such a special place.\" Northampton's director of rugby Phil Dowson believes it is important for the club to tie down a player who is transcending the sport. He said: \"We're delighted that Henry has committed his future to Saints. Over"
+    ],
+    [
+     "ins",
+     "summer, added: \"Over"
+    ],
+    [
+     "eq",
+     "the last few years, everyone has seen the quality he brings on"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "- but just as importantly, he's a young man of outstanding character."
+    ],
+    [
+     "del",
+     "\"Keeping"
+    ],
+    [
+     "ins",
+     "Keeping"
+    ],
+    [
+     "eq",
+     "someone with both his talent and mindset is hugely important for the club."
+    ],
+    [
+     "del",
+     "What's"
+    ],
+    [
+     "ins",
+     "\"What's"
+    ],
+    [
+     "eq",
+     "most exciting is that there's still so much more to come from him. Henry is incredibly ambitious and constantly looking for ways to improve."
+    ],
+    [
+     "del",
+     "\"He's become an important figure not just for Saints, but for the wider game."
+    ],
+    [
+     "eq",
+     "He"
+    ],
+    [
+     "del",
+     "inspires young supporters, brings excitement to rugby, and"
+    ],
+    [
+     "eq",
+     "understands that"
+    ],
+    [
+     "del",
+     "everything off"
+    ],
+    [
+     "ins",
+     "individual success comes from contributing to a successful team, and he's already taken on leadership responsibilities within"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "pitch is built on performing consistently on it. We're excited"
+    ],
+    [
+     "ins",
+     "squad despite his age. Physically, he's an exceptional athlete. He's explosive, powerful and highly skilful, with the ability"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "see what"
+    ],
+    [
+     "ins",
+     "influence a game in a number of different ways. But there are still areas of his game"
+    ],
+    [
+     "eq",
+     "he can"
+    ],
+    [
+     "del",
+     "achieve over the coming years.\""
+    ],
+    [
+     "ins",
+     "develop, and one of Henry's greatest strengths is how quickly he learns and adapts.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.2337,
+  "numbers_changed": [
+   "150,000",
+   "2027",
+   "2029",
+   "25"
+  ],
+  "market_figures_changed": [
+   "£150,000"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 4,
+  "blocks_added": 1,
+  "blocks_removed": 2,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.264,
+ "similarity": 0.8593,
+ "adjudicated_by": "rules"
+}

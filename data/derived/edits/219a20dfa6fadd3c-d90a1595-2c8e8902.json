@@ -1,0 +1,58 @@
+{
+ "id": "219a20dfa6fadd3c-d90a1595-2c8e8902",
+ "url": "https://www.npr.org/2026/09/22/nx-s1-5976782/your-smartwatch-isnt-accurately-counting-how-many-calories-you-burn-study-says",
+ "domain": "www.npr.org",
+ "source": "NPR Health",
+ "country": "United States",
+ "category": "health",
+ "lang": "en",
+ "detected_at": "2026-09-23T11:22:25Z",
+ "date": "2026-09-23",
+ "old_title": "Your smartwatch isn't accurately counting how many calories you burn, study says",
+ "new_title": "Your smartwatch isn't accurately counting how many calories you burn, study says",
+ "old_text": "Your smartwatch isn't accurately counting how many calories you burn, study says\nA new study finds that consumer-grade fitness wearables are generally inaccurate when calculating calories burned. NPR's Leila Fadel speaks with the study's lead author Jason Kostrna.",
+ "new_text": "Your smartwatch isn't accurately counting how many calories you burn, study says\nA new study finds that consumer-grade fitness wearables are generally inaccurate when calculating calories burned. NPR's Leila Fadel speaks with the study's lead author Jason Kostrna.\nLEILA FADEL, HOST:\nA new study finds the wearable devices that so many people use to track their daily exercise just aren't that accurate. The research shows the smartwatches and fitness trackers overestimate how many calories are being burned. The lead author of that study is Jason Kostrna. He's an associate professor of exercise science at Florida International University, and he joins me now. Good morning, and welcome to the program.\nJASON KOSTRNA: Good morning. Thank you for having me.\nFADEL: So, Jason, how inaccurate are the readings people are getting?\nKOSTRNA: So in our study, we found that there's a typical error of about 15% to 25%. And that varies in our study based on individuals' body fat percentage.\nFADEL: Were the devices less accurate for certain people?\nKOSTRNA: Right. And that's one of the big findings of our study, is that the body fat percentage of an individual was correlated with an increased error in how many calories the watch said you were burning. So individuals with higher body fat percentage were getting estimates that were less accurate.\nFADEL: As in less accurate that they were burning less or more?\nKOSTRNA: So the watch was telling them that they burned more calories. So in our study, if you were in a high body fat percentage of 35% or 40%, you might look down and see 100 calories on your watch. And in reality, you might've only burned 50 or 60.\nFADEL: What's your theory about why it's less accurate on people with higher body fat percentages?\nKOSTRNA: The watches that people wear on their wrist are trying to do something relatively complicated. They're taking user-entered info when you set up your watch like your age, your gender, your height and your weight. And then trying to calculate, using heart rate information, maybe accelerometer data of how much your wrist is moving and in what movement pattern, and trying to calculate how many calories you have burned given those characteristics and those movement profiles. And so when those estimates are made, there is a high chance that there's some mistakes made along the way. And in particular, individuals with higher body fat percentage may not have that equation calibrated as well.\nFADEL: Did you only look at calories burned? Or did you also see if things like heart rate or step counts were accurate as well?\nKOSTRNA: We focused on heart rate and calories.\nFADEL: OK.\nKOSTRNA: And while there was technically some significance for heart rate, for most purposes, for most people, heart rate was actually fairly accurate, within a beat or two.\nFADEL: And were there certain brands or types that perform better than others?\nKOSTRNA: Each brand did have significant error overall. Apple technically performed better than most. We were using an Apple Watch, and so it performed the best. The Samsung and Garmin apps, watches had some errors. And then the Fitbit may look the best in some of our data, but it also had some device characteristic errors that we saw at a slightly higher rate.\nFADEL: And really quickly, now that people know this, what should they do with the information?\nKOSTRNA: So when you look at the watches, estimates that they're giving you, you want to be conservative, especially if you're someone at a higher body fat percentage.\nFADEL: Jason Kostrna is an associate professor at Florida International University. Thank you for your time.\nKOSTRNA: Thank you.\n(SOUNDBITE OF FRENIC SONG, \"DEATHLESS AUDIO\")\nCopyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.\nAccuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR's programming is the audio record.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "burned. NPR's Leila Fadel speaks with the study's lead author Jason Kostrna."
+    ],
+    [
+     "ins",
+     "LEILA FADEL, HOST: A new study finds the wearable devices that so many people use to track their daily exercise just aren't that accurate. The research shows the smartwatches and fitness trackers overestimate how many calories are being burned. The lead author of that study is Jason Kostrna. He's an associate professor of exercise science at Florida International University, and he joins me now. Good morning, and welcome to the program. JASON KOSTRNA: Good morning. Thank you for having me. FADEL: So, Jason, how inaccurate are the readings people are getting? KOSTRNA: So in our study, we found that there's a typical error of about 15% to 25%. And that varies in our study based on individuals' body fat percentage. FADEL: Were the devices less accurate for certain people? KOSTRNA: Right. And that's one of the big findings of our study, is that the body fat percentage of an individual was correlated with an increased error in how many calories the watch said you were burning. So individuals with higher body fat percentage were getting estimates that were less accurate. FADEL: As in less accurate that they were burning less or more? KOSTRNA: So the watch was telling them that they burned more calories. So in our study, if you were in a high body fat percentage of 35% or 40%, you might look down and see 100 calories on your watch. And in reality, you might've only burned 50 or 60. FADEL: What's your theory about why it's less accurate on people with higher body fat percentages? KOSTRNA: The watches that people wear on their wrist are trying to do something relatively complicated. They're taking user-entered info when you set up your watch like your age, your gender, your height and your weight. And then trying to calculate, using heart rate information, maybe accelerometer data of how much your wrist is moving and in what movement pattern, and trying to calculate how many calories you have burned given those characteristics and those movement profiles. And so when those estimates are made, there is a high chance that there's some mistakes made along the way. And in particular, individuals with higher body fat percentage may not have that equation calibrated as well. FADEL: Did you only look at calories burned? Or did you also see if things like heart rate or step counts were accurate as well? KOSTRNA: We focused on heart rate and calories. FADEL: OK. KOSTRNA: And while there was technically some significance for heart rate, for most purposes, for most people, heart rate was actually fairly accurate, within a beat or two. FADEL: And were there certain brands or types that perform better than others? KOSTRNA: Each brand did have significant error overall. Apple technically performed better than most. We were using an Apple Watch, and so it performed the best. The Samsung and Garmin apps, watches had some errors. And then the Fitbit may look the best in some of our data, but it also had some device characteristic errors that we saw at a slightly higher rate. FADEL: And really quickly, now that people know this, what should they do with the information? KOSTRNA: So when you look at the watches, estimates that they're giving you, you want to be conservative, especially if you're someone at a higher body fat percentage. FADEL: Jason Kostrna is an associate professor at Florida International University. Thank you for your time. KOSTRNA: Thank you. (SOUNDBITE OF FRENIC SONG, \"DEATHLESS AUDIO\") Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information. Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR's programming is the audio record."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 16.9737,
+  "numbers_changed": [
+   "100",
+   "15",
+   "2026",
+   "25",
+   "35",
+   "40",
+   "50",
+   "60"
+  ],
+  "market_figures_changed": [
+   "15%",
+   "25%",
+   "35%",
+   "40%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.086,
+ "similarity": 0.864,
+ "adjudicated_by": "rules"
+}

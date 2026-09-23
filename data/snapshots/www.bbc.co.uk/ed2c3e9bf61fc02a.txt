@@ -1,0 +1,41 @@
+- Published
+"I think we're at the end of copper," says Chris Sharp, the chief technology officer at data centre operator Digital Reality.
+He's not saying that we are running out of copper, instead Sharp, and many others in the data centre industry, are betting that it will be used less.
+Data centres use vast amounts of the metal: around 400 tonnes, external will go into a typical facility of around 100MW (data centre size is measured megawatts, a unit of electrical power).
+Most of that copper is used in the electrical infrastructure needed to power the datacentre and for cooling systems. But up to 70 tonnes is used by the computer servers that do the work of processing data in that 100MW facility.
+Meanwhile, up to 20 tonnes is used for the network wiring connecting up those computer servers.
+It's here, in the spaghetti-like wiring which snakes through a data centre where copper is targeted for replacement.
+"The wires between these GPUs, CPUs, and all this compute are what's slowing us down," says Sharp.
+Data is shunted around data centres in the form of electrons, which travel efficiently in copper wiring.
+Many think there's an even better way of doing that, using light in the form of photons.
+Light has been used for decades for long-distance communications over optical fibre - the data for this article probably travelled down a fibre optic cable at some stage.
+But researchers and companies want to extend fibre's use to inside the data centre.
+It involves intricate engineering, where optical components are connected directly to electrical ones, sometimes on the computer chips themselves.
+The technology is called photonics and the big benefit is that light does not have the heating effects of electricity. Less heat means less energy is needed to cool data centre systems.
+"You can save so much energy," says Callum Littlejohns, deputy director of silicon photonics foundry Cornerstone Labs.
+Photonics are unlikely to make data centres any more popular with the public, but could make them a bit less energy hungry.
+Littlejohns also points out that multiple data streams can be transmitted down the same channel to create more capacity.
+Peter O'Brien, head of research for photonics packaging and systems integration at Ireland's Tyndall Research Institute, said academics and commercial companies alike have been working with photonics for years, but the technology faced multiple manufacturing challenges.
+Now, O'Brien continues, the technology is ready to make the leap from the lab into widespread application.
+"What's happening now with optics and photonics is there's kind of a reset," he says.
+It helps that AI chip giant Nvidia has thrown its weight behind the technology.
+But shifting to photonics is not a straightforward swap, as it brings together different engineering traditions and different supply chains.
+"We've really gotten good at bringing the cost down on that electrical side, how to design it, how to manufacture it, how to test it, how to deploy it," says Andrew Wheeler, senior vice president at Hewlett Packard Labs.
+But he says, the industry is still working out how to bring the cost down.
+Part of the problem is that different elements of the manufacturing process are distributed across the globe. For example final assembly is done in so-called packaging houses, which are clustered in Taiwan.
+Engineering challenges remain. Optical networking devices may generate far less heat but other components within a data centre are still making the local environment hot.
+And that's a problem for optical components which are very sensitive to heat, explains Wheeler. This raises reliability concerns, unless data centre operators and equipment manufacturers can keep within strict thermal limits.
+And while optical networks can carry data at â almost - the speed of light, installing and maintaining them will still proceed at human speed. Network designers, field support engineers, installers, all need to learn new skills around installation and servicing.
+For example, says Sharp, with fibre, "You can't take tight turns. There are little nuances on how to structure that."
+Ultimately, the benefits of optical networking can only be fully realised when light is used for not just carrying data, but for processing it too, says Ofer Shapiro, CEO of optical company Resolight.ai.
+The company is proposing an architecture to replace the traditional electronic network switches that control communications between servers with all optical devices.
+He argues that it doesn't make sense to constantly convert data from photons to electrons and back to photons.
+Optical interconnects between the computer chips and network elements would mean data would remain in the optical domain, saving even more energy, Shapiro argues.
+But that's in the future. More immediately, companies are still working on scaling up photonics manufacturing.
+Littlejohns says this ability to reuse knowledge gained through electronics manufacturing will ultimately help lower the cost of photonics.
+"We know we can make it huge scale, so that's why it's such an interesting technology, because it can underpin many applications."
+Photonics components are generally larger than silicon components, used in computer chips.
+Counterintuitively, this means that organizations like Cornerstone can repurpose older silicon manufacturing equipment used for earlier generations of processors.
+One of Cornerstone's manufacturing tools comes from a former Intel production line used to make the Pentium 4 chips released back at the turn of the century.
+Littlejohns says this ability to reuse knowledge gained through electronics manufacturing will ultimately help lower the cost of photonics.
+"We know we can make it at a huge scale, so that's why it's such an interesting technology, because it can underpin many applications."
