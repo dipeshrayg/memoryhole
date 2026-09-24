@@ -1,0 +1,120 @@
+{
+ "id": "d07caf8272568052-01162d68-62d1e627",
+ "url": "https://www.france24.com/en/americas/20260923-live-pezeshkian-set-to-address-un-for-the-first-time-since-us-israel-launched-iran-war",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-24T11:29:21Z",
+ "date": "2026-09-24",
+ "old_title": "Live: Pezeshkian set to address UN for the first time since US, Israel launched Iran war",
+ "new_title": "AI leaders warn UN Security Council of risk to 'humanity as a whole' without regulation",
+ "old_text": "Live: Pezeshkian set to address UN for the first time since US, Israel launched Iran war\nIranian President Massoud Pezeshkian is scheduled to address the UN General Assembly (UNGA) Wednesday in his first speech at the world body since the US and Israel launched the Iran war. His address comes a day after President Donald Trump told the UNGA he could \"annihilate the Islamic Republic\" and \"drive them into hell.\" Follow our liveblog for all the latest updates.\n(FRANCE 24 with AFP, AP and Reuters)",
+ "new_text": "AI leaders warn UN Security Council of risk to 'humanity as a whole' without regulation\nThe current moment in artificial intelligence development \"calls for extreme care\", OpenAI CEO Sam Altman told an emergency session of the UN Security Council on Wednesday following weeks of global headlines about the risk of uncontrollable AI. Read our live blog to see how the day's events unfolded.\n- UN Secretary-General Antonio Guterres warned that humans risked increasingly handing decision-making power over to machines as artificial intelligence advances at break-neck speed.\n- US President Donald Trump threatened to \"annihilate\" Iran if Tehran and Washington don't reach a peace deal, before claiming a deal would be struck following the US midterm elections.\n- France's President Emmanuel Macron condemned the ongoing humanitarian crisis in the devastated Gaza Strip as \"a spectacle that shames us all\".\n- US special envoys Steve Witkoff and Jared Kushner met with Iran's Foreign Minister Abbas Araghchi on the sidelines of the UN General Assembly.\n(FRANCE 24 with AFP, AP and Reuters)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Live: Pezeshkian set"
+    ],
+    [
+     "ins",
+     "AI leaders warn UN Security Council of risk"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "address"
+    ],
+    [
+     "ins",
+     "'humanity as a whole' without regulation The current moment in artificial intelligence development \"calls for extreme care\", OpenAI CEO Sam Altman told an emergency session of the"
+    ],
+    [
+     "eq",
+     "UN"
+    ],
+    [
+     "del",
+     "for"
+    ],
+    [
+     "ins",
+     "Security Council on Wednesday following weeks of global headlines about"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "first time since US, Israel launched"
+    ],
+    [
+     "ins",
+     "risk of uncontrollable AI. Read our live blog to see how the day's events unfolded. - UN Secretary-General Antonio Guterres warned that humans risked increasingly handing decision-making power over to machines as artificial intelligence advances at break-neck speed. - US President Donald Trump threatened to \"annihilate\""
+    ],
+    [
+     "eq",
+     "Iran"
+    ],
+    [
+     "del",
+     "war Iranian"
+    ],
+    [
+     "ins",
+     "if Tehran and Washington don't reach a peace deal, before claiming a deal would be struck following the US midterm elections. - France's"
+    ],
+    [
+     "eq",
+     "President"
+    ],
+    [
+     "del",
+     "Massoud Pezeshkian is scheduled to address"
+    ],
+    [
+     "ins",
+     "Emmanuel Macron condemned the ongoing humanitarian crisis in the devastated Gaza Strip as \"a spectacle that shames us all\". - US special envoys Steve Witkoff and Jared Kushner met with Iran's Foreign Minister Abbas Araghchi on the sidelines of"
+    ],
+    [
+     "eq",
+     "the UN General"
+    ],
+    [
+     "del",
+     "Assembly (UNGA) Wednesday in his first speech at the world body since the US and Israel launched the Iran war. His address comes a day after President Donald Trump told the UNGA he could \"annihilate the Islamic Republic\" and \"drive them into hell.\" Follow our liveblog for all the latest updates."
+    ],
+    [
+     "ins",
+     "Assembly."
+    ],
+    [
+     "eq",
+     "(FRANCE 24 with AFP, AP and Reuters)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 2.6353,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 2,
+  "blocks_added": 2,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.6,
+ "similarity": 0.5413,
+ "adjudicated_by": "rules"
+}

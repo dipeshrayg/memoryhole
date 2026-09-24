@@ -1,0 +1,35 @@
+Australian authorities have raised the alarm after OpenAI-powered models hacked into a government health data system in June, slipping past its digital defences and accessing files without authorisation.
+This is the first publicly known case of artificial intelligence (AI) "agents" - AI-powered software systems that can carry out tasks autonomously - breaking into a government website, and the latest of several AI breaches of external systems.
+Recommended Stories
+list of 3 items
+- list 1 of 3As AI leaders warn of catastrophe, US and China shun slowdown calls
+- list 2 of 3What's the US-China AI 'hotline' that Trump plans to pitch to Xi Jinping?
+- list 3 of 3US lawmakers propose sweeping AI restrictions with superintelligence ban
+The disclosure comes as top AI firms warn of the risk of humans losing control of AI, calling for its development to slow to a pace that allows it to be safely regulated. Global powers must cooperate to ensure this, they have said.
+A research scientist at AI firm Anthropic, Evan Hubinger, went so far as to say he believes there is a greater than 10 percent chance AI could "kill all humans" within a decade.
+Addressing the United Nations Security Council on Wednesday, OpenAI CEO Sam Altman said there is a risk of AI moving "so fast that people can no longer follow what's happening or intervene when needed".
+"This would obviously be terrible," he said. "And we should not train models that we cannot make an extremely strong case that we will be able to keep under human control."
+What do we know about the AI breach in Australia?
+Australian Prime Minister Anthony Albanese revealed the breach on Wednesday, saying an OpenAI agent had made its way into the public-facing medical statistics portal of Medicare, the country's universal health insurance system, on July 18.
+When OpenAI accessed the government portal while conducting research on public medical spending, Albanese said the AI agent circumvented "blocks" that should have prevented it from breaking into the portal.
+"The AI agent found a way around those blocks - didn't accept no for an answer," said Albanese.
+Deputy Prime Minister Richard Marles said the information the OpenAI agent accessed was "not particularly sensitive" and was later publicly released.
+Still, Albanese called the situation "obviously unacceptable" and said Australia had relayed its "extreme concern" to OpenAI, which had failed to notify the government of the breach until September 10.
+Albanese also said several other government websites may have been affected by rogue OpenAI agents, though he did not confirm any other breaches.
+He added that an inquiry into the breach would look at how Australian security agencies missed it initially and whether criminal charges could be brought against OpenAI.
+How has OpenAI responded?
+In a statement, OpenAI said it had "identified activity involving several Australian government websites and services as our models attempted to look up answers" and "took actions we did not intend".
+The company said the incident occurred as its models searched for statistics on medical spending, and that they are not believed to have obtained personal medical records.
+OpenAI learned of the incident in August only as it conducted a review of "misaligned model activity", it added.
+Last week, OpenAI said it had put in place a new system to monitor, probe and disclose cases of "misalignment". That includes instances of AI models that operate "without authorisation, coordinate with other models, or evade oversight", it said.
+Have there been previous AI breaches?
+Yes. The Australia data breach is the latest of several instances in which AI agents belonging to OpenAI, Google or Anthropic have accessed external systems without authorisation.
+In July, OpenAI reported that two of its most advanced AI models had broken out of a controlled test and hacked another AI company, Hugging Face. OpenAI later said it had detected its AI models communicating with each other and gaining internet access without authorisation months before that hack occurred.
+In August, rival Meta AI said its AI model had hacked another company during cybersecurity testing. It said the model made changes to the internal systems of the hacked company, which it did not name, after accessing the public internet because of an error in the setup of its testing environment.
+What does this mean for AI safety?
+Maurice Chiodo, an Australian mathematician who works at Cambridge University's Centre for the Study of Existential Risk, told the Reuters news agency the breach appeared to be "a significant escalation in seriousness from similar incidents we have seen in recent months".
+Experts say the Australia data breach highlights the growing dangers AI poses to cybersecurity as well as possible gaps in monitoring and disclosure capabilities.
+"The important matter here is not what OpenAI says its agent can do, it is what the agent actually does when it hits a barrier," Niusha Shafiabady, a professor of computational intelligence and head of the IT discipline at the Australian Catholic University, said in comments published by science news portal Scimex.
+"The deeper technical risk is that autonomous AI does not always know when it is wrong, and humans may not be able to see why it made a decision," added Shafiabady. "Without strong verification and hard boundaries, probabilistic errors can quietly become operational failures."
+Raffaele Fabio Ciriello, a senior lecturer in business information systems at the University of Sydney Business School, said OpenAI's delay in reporting the breach was "concerning".
+"The incident occurred in June and only came to light months later," said Ciriello. "Even if OpenAI did not detect the activity immediately, that still points to weaknesses in detection, escalation, and external notification."

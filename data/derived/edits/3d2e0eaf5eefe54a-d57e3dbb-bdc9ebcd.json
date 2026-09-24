@@ -1,0 +1,260 @@
+{
+ "id": "3d2e0eaf5eefe54a-d57e3dbb-bdc9ebcd",
+ "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
+ "domain": "finance.yahoo.com",
+ "source": "Yahoo Finance",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-09-24T11:35:48Z",
+ "date": "2026-09-24",
+ "old_title": "Stock market today: Dow, S&P 500, Nasdaq futures muted as oil falls, markets eye looming Trump-Xi meeting",
+ "new_title": "Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high",
+ "old_text": "Stock market today: Dow, S&P 500, Nasdaq futures muted as oil falls, markets eye looming Trump-Xi meeting\nUS stock futures went nowhere on Wednesday morning as investors monitored US diplomatic efforts with Iran and China, as well as a recent rally in tech stocks.\nFutures on the Dow Jones Industrial Average (YM=F), S&P 500 (ES=F), and Nasdaq-100 (NQ=F) hovered near the flat line after the Nasdaq Composite posted back-to-back record highs.\nPresident Trump is expected to greet Chinese President Xi Jinping at Joint Base Andrews, kicking off Xi's first visit to Washington, D.C., in 11 years. Experts don't expect any major policy breakthroughs, but the world leaders are expected to discuss trade, the war in Iran, rare earths, and artificial intelligence.\nAny developments in AI policy are sure to generate interest among tech investors, particularly after Anthropic (ANTH.PVT) CEO Dario Amodei penned an essay urging companies to pace AI development cooperatively. A who's who of Silicon Valley executives, including Nvidia's (NVDA) Jensen Huang, OpenAI's (OPAI.PVT) Sam Altman, and Google's (GOOG) Sundar Pichai, will attend a dinner with Presidents Trump and Xi on Thursday.\nA potential thaw in US-Iran relations, meanwhile, is sending oil prices lower and boosting stocks. President Trump said US and Iranian officials met for several hours at the UN on Tuesday, rekindling hopes of a truce between the two nations. Brent crude oil futures (BZ=F), the global benchmark, traded below $100 per barrel, while WTI crude futures fell below $90.\nOn the economic calendar, investors will get a read of economic activity from S&P, and on the earnings calendar, a handful of consumer-facing brands, such as Cintas Corporation (CTAS), General Mills (GIS), and Cracker Barrel Old Country Store (CBRL) report quarterly results.",
+ "new_text": "Stocks sold off on Wednesday as Treasury yields surged amid inflation worries, while investors monitored US diplomatic efforts with Iran and China.\nThe Dow Jones Industrial Average (^DJI) dropped 0.7%, while the S&P 500 (^GSPC) declined by 0.8%. The Nasdaq Composite (^IXIC) fell 1.1% after the tech-heavy index had posted back-to-back record highs this week.\nThe 10-year Treasury yield (^TNX) spiked above 5.11%, its highest level since 2007, as oil prices climbed and S&P's gauge of US business activity expanded more than economists expected.\nOil prices, meanwhile, turned higher as a potential thaw in US-Iran relations remained uncertain. President Trump said on Tuesday that US and Iranian officials met for several hours at the UN Assembly in New York, rekindling hopes of a truce between the two nations. Brent crude oil futures (BZ=F), the global benchmark, traded at $98 per barrel, while WTI crude futures (CL=F) hit $92.\nThat fueled increased bets that the Federal Reserve would hike interest rates at least once more this year, particularly after Federal Reserve governor Michael Barr called for \"further policy adjustments\" to bring inflation down.\nPresident Trump is expected to greet Chinese President Xi Jinping at Joint Base Andrews, kicking off Xi's first visit to Washington, D.C., in 11 years. The world leaders are expected to discuss trade, the war in Iran, rare earths, and artificial intelligence. Experts aren't expecting any major policy breakthroughs.\nAny developments in AI policy are sure to generate interest among tech investors, particularly after Anthropic (ANTH.PVT) CEO Dario Amodei penned an essay urging companies to pace AI development cooperatively. A who's who of Silicon Valley executives, including Nvidia's (NVDA) Jensen Huang, OpenAI's (OPAI.PVT) Sam Altman, and Google's (GOOG) Sundar Pichai, will attend a dinner with Presidents Trump and Xi on Thursday.\n- Dow, S&P 500, Nasdaq fall as bond yields surgeStocks fell on Wednesday as long-dated bond yields rose, with higher oil prices sparking renewed inflation worries. The Dow Jones Industrial Average (^DJI) and S&P 500 (^GSPC) slipped 0.7% and 0.8%, respectively. The Nasdaq Composite (^IXIC) dropped 1.1% as tech stocks declined. The 10-year Treasury yield (^TNX) climbed to 5.11%, its highest level since 2007, as oil prices climbed, raising concerns that the Federal Reserve will need to hike rates again amid sticky inflation. The move higher in yields comes as oil prices rose and business activity data came in hotter than expected, fueling concerns about more Fed tightening.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Stock market today: Dow, S&P 500, Nasdaq futures muted as oil falls, markets eye looming Trump-Xi meeting US stock futures went nowhere"
+    ],
+    [
+     "ins",
+     "Stocks sold off"
+    ],
+    [
+     "eq",
+     "on Wednesday"
+    ],
+    [
+     "del",
+     "morning"
+    ],
+    [
+     "eq",
+     "as"
+    ],
+    [
+     "ins",
+     "Treasury yields surged amid inflation worries, while"
+    ],
+    [
+     "eq",
+     "investors monitored US diplomatic efforts with Iran and"
+    ],
+    [
+     "del",
+     "China, as well as a recent rally in tech stocks. Futures on the"
+    ],
+    [
+     "ins",
+     "China. The"
+    ],
+    [
+     "eq",
+     "Dow Jones Industrial Average"
+    ],
+    [
+     "del",
+     "(YM=F),"
+    ],
+    [
+     "ins",
+     "(^DJI) dropped 0.7%, while the"
+    ],
+    [
+     "eq",
+     "S&P 500"
+    ],
+    [
+     "del",
+     "(ES=F), and Nasdaq-100 (NQ=F) hovered near the flat line"
+    ],
+    [
+     "ins",
+     "(^GSPC) declined by 0.8%. The Nasdaq Composite (^IXIC) fell 1.1%"
+    ],
+    [
+     "eq",
+     "after the"
+    ],
+    [
+     "del",
+     "Nasdaq Composite"
+    ],
+    [
+     "ins",
+     "tech-heavy index had"
+    ],
+    [
+     "eq",
+     "posted back-to-back record"
+    ],
+    [
+     "del",
+     "highs."
+    ],
+    [
+     "ins",
+     "highs this week. The 10-year Treasury yield (^TNX) spiked above 5.11%, its highest level since 2007, as oil prices climbed and S&P's gauge of US business activity expanded more than economists expected. Oil prices, meanwhile, turned higher as a potential thaw in US-Iran relations remained uncertain. President Trump said on Tuesday that US and Iranian officials met for several hours at the UN Assembly in New York, rekindling hopes of a truce between the two nations. Brent crude oil futures (BZ=F), the global benchmark, traded at $98 per barrel, while WTI crude futures (CL=F) hit $92. That fueled increased bets that the Federal Reserve would hike interest rates at least once more this year, particularly after Federal Reserve governor Michael Barr called for \"further policy adjustments\" to bring inflation down."
+    ],
+    [
+     "eq",
+     "President Trump is expected to greet Chinese President Xi Jinping at Joint"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Andrews, kicking off Xi's first visit to Washington, D.C., in 11 years."
+    ],
+    [
+     "del",
+     "Experts don't expect any major policy breakthroughs, but the"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "world leaders are expected to discuss trade, the war in Iran, rare earths, and artificial intelligence."
+    ],
+    [
+     "ins",
+     "Experts aren't expecting any major policy breakthroughs."
+    ],
+    [
+     "eq",
+     "Any developments in AI policy are sure to generate interest among tech"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Pichai, will attend a dinner with Presidents Trump and Xi on Thursday."
+    ],
+    [
+     "del",
+     "A potential thaw in US-Iran relations, meanwhile, is sending"
+    ],
+    [
+     "ins",
+     "- Dow, S&P 500, Nasdaq fall as bond yields surgeStocks fell on Wednesday as long-dated bond yields rose, with higher"
+    ],
+    [
+     "eq",
+     "oil prices"
+    ],
+    [
+     "del",
+     "lower"
+    ],
+    [
+     "ins",
+     "sparking renewed inflation worries. The Dow Jones Industrial Average (^DJI)"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "boosting stocks. President Trump said US"
+    ],
+    [
+     "ins",
+     "S&P 500 (^GSPC) slipped 0.7%"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "Iranian officials met for several hours at"
+    ],
+    [
+     "ins",
+     "0.8%, respectively. The Nasdaq Composite (^IXIC) dropped 1.1% as tech stocks declined. The 10-year Treasury yield (^TNX) climbed to 5.11%, its highest level since 2007, as oil prices climbed, raising concerns that"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "UN on Tuesday, rekindling hopes of a truce between the two nations. Brent crude"
+    ],
+    [
+     "ins",
+     "Federal Reserve will need to hike rates again amid sticky inflation. The move higher in yields comes as"
+    ],
+    [
+     "eq",
+     "oil"
+    ],
+    [
+     "del",
+     "futures (BZ=F), the global benchmark, traded below $100 per barrel, while WTI crude futures fell below $90. On the economic calendar, investors will get a read of economic"
+    ],
+    [
+     "ins",
+     "prices rose and business"
+    ],
+    [
+     "eq",
+     "activity"
+    ],
+    [
+     "del",
+     "from S&P, and on the earnings calendar, a handful of consumer-facing brands, such as Cintas Corporation (CTAS), General Mills (GIS), and Cracker Barrel Old Country Store (CBRL) report quarterly results."
+    ],
+    [
+     "ins",
+     "data came in hotter than expected, fueling concerns about more Fed tightening."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.4807,
+  "numbers_changed": [
+   "0.7",
+   "0.8",
+   "1.1",
+   "10",
+   "100",
+   "2007",
+   "5.11",
+   "90",
+   "92",
+   "98"
+  ],
+  "market_figures_changed": [
+   "$100",
+   "$90.",
+   "$92.",
+   "$98",
+   "0.7%",
+   "0.8%",
+   "1.1%",
+   "5.11%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.6,
+ "similarity": 0.5595,
+ "adjudicated_by": "rules"
+}

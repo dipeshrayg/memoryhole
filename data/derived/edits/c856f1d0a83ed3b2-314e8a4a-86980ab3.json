@@ -1,0 +1,132 @@
+{
+ "id": "c856f1d0a83ed3b2-314e8a4a-86980ab3",
+ "url": "https://variety.com/2026/film/global/brad-pitt-moving-experience-co-star-dog-heart-of-the-beast-1236873069/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-09-24T11:42:12Z",
+ "date": "2026-09-24",
+ "old_title": "Brad Pitt on the 'Moving Experience' of Co-Starring With a Dog in 'Heart of the Beast' and the State of Indie Cinema: It 'Feels as Strong as the '90s'",
+ "new_title": "Brad Pitt on the 'Moving Experience' of Co-Starring With a Dog in 'Heart of the Beast' and the State of Indie Cinema: It 'Feels as Strong as the '90s'",
+ "old_text": "Brad Pitt underlined his credentials as a dog guy in San Sebastian on Wednesday, hailing the experience of working with his \"Heart of the Beast\" co-star, a German Shepherd called Uber.\n\"I did have a really moving experience with Uber,\" he said at a press conference ahead of the film's premiere. \"We tried to make every day a play day for him. There were times he would do things that were just amazing that were not in the script that you see in the film, and his expressions still really move me.\"\nShooting in New Zealand, Pitt said \"being out there with this beautiful beast was pretty special... it was really kind of beautiful. We're out in this beautiful location. We're wet, we're cold, 12 hours a day. We don't have trailers. We're sitting out on logs, but everyone's kind of up for the task.\"\nPopular on Variety\nBut it wasn't just his four-legged acting companions that Pitt praised, with the star - who also produces \"Heart of the Beast\" through his Plan B production company - celebrating the current state of bold independent cinemas.\n\"I think like the current setup has actually been really conducive to independent cinema in a really cool way because more eyes are getting on these projects,\" he said, adding that it \"even as it feels even as strong as in the '90s.\"\nPitt added: \"There's new pipelines of discovery out there. We have people coming in off YouTube or the internet, which has always sort of been held to the side, but now we're seeing what I believe may be the ascent of it as we find filmmakers in that space\"\nFrom director David Ayer and also starring J.K. Simmons and Anna Lambe, \"Heart of the Beast\" follows Pitt as a Special Forces veteran stranded deep in the Alaskan wilderness with his traumatized military combat dog. The film has been met with warm praise from critics, with Variety's review saying it was in spirit \"not far removed from an old Disney movie\" adding that \"Pitt gives a true performance, and so does the canine actor playing his trusty companion.\"\nDespite \"Heart of the Beast\" premiering on Wednesday night in San Sebastian, Pitt has already been in town a few days to soak up the Spanish sunshine. On Tuesday a large crowd gathered outside the Maria Cristina hotel, where he reportedly spent 20 minutes signing autographs and taking selfies.",
+ "new_text": "Brad Pitt underlined his credentials as a dog guy in San Sebastian on Wednesday, hailing the experience of working with his \"Heart of the Beast\" co-star, a German Shepherd called Uber.\n\"I did have a really moving experience with Uber,\" he said at a press conference ahead of the film's premiere. \"We tried to make every day a play day for him. There were times he would do things that were just amazing that were not in the script that you see in the film, and his expressions still really move me.\"\nShooting in New Zealand, Pitt said \"being out there with this beautiful beast was pretty special... it was really kind of beautiful. We're out in this beautiful location. We're wet, we're cold, 12 hours a day. We don't have trailers. We're sitting out on logs, but everyone's kind of up for the task.\"\nPopular on Variety\nPitt added that \"when the dog would show up on set, the energy would change - like people just got a little happier, a little bit excited.\"\nBut it wasn't just his four-legged acting companions that Pitt praised, with the star - who also produces \"Heart of the Beast\" through his Plan B production company - celebrating the current state of bold independent cinema.\n\"I think the current setup has actually been really conducive to independent cinema in a really cool way, because more eyes are getting on these projects,\" he said, adding that \"it feels even as strong as in the '90s.\"\n\"Heart of the Beast\" director David Ayer added: \"There's new pipelines of discovery out there. We have people coming in off YouTube or the internet, which has always sort of been held to the side, but now we're seeing what I believe may be the ascent of it as we find filmmakers in that space\"\nAlso starring J.K. Simmons and Anna Lambe, \"Heart of the Beast\" follows Pitt as a Special Forces veteran stranded deep in the Alaskan wilderness with his traumatized military combat dog. The film has been met with warm praise from critics, with Variety's review saying it was in spirit \"not far removed from an old Disney movie\" adding that \"Pitt gives a true performance, and so does the canine actor playing his trusty companion.\"\nDespite \"Heart of the Beast\" premiering on Wednesday night in San Sebastian, Pitt has already been in town a few days to soak up the Spanish sunshine. On Tuesday a large crowd gathered outside the Maria Cristina hotel, where he reportedly spent 20 minutes signing autographs and taking selfies.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "logs, but everyone's kind of up for the task.\" Popular on Variety"
+    ],
+    [
+     "ins",
+     "Pitt added that \"when the dog would show up on set, the energy would change - like people just got a little happier, a little bit excited.\""
+    ],
+    [
+     "eq",
+     "But it wasn't just his four-legged acting companions that Pitt praised, with"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Plan B production company - celebrating the current state of bold independent"
+    ],
+    [
+     "del",
+     "cinemas."
+    ],
+    [
+     "ins",
+     "cinema."
+    ],
+    [
+     "eq",
+     "\"I think"
+    ],
+    [
+     "del",
+     "like"
+    ],
+    [
+     "eq",
+     "the current setup has actually been really conducive to independent cinema in a really cool"
+    ],
+    [
+     "del",
+     "way"
+    ],
+    [
+     "ins",
+     "way,"
+    ],
+    [
+     "eq",
+     "because more eyes are getting on these projects,\" he said, adding that"
+    ],
+    [
+     "del",
+     "it \"even as it"
+    ],
+    [
+     "ins",
+     "\"it"
+    ],
+    [
+     "eq",
+     "feels even as strong as in the '90s.\""
+    ],
+    [
+     "del",
+     "Pitt"
+    ],
+    [
+     "ins",
+     "\"Heart of the Beast\" director David Ayer"
+    ],
+    [
+     "eq",
+     "added: \"There's new pipelines of discovery out there. We have people coming"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "be the ascent of it as we find filmmakers in that space\""
+    ],
+    [
+     "del",
+     "From director David Ayer and also"
+    ],
+    [
+     "ins",
+     "Also"
+    ],
+    [
+     "eq",
+     "starring J.K. Simmons and Anna Lambe, \"Heart of the Beast\" follows Pitt"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1287,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 0.9397,
+ "adjudicated_by": "rules"
+}

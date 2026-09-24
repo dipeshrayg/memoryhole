@@ -1,0 +1,52 @@
+{
+ "id": "5618ffbe19d5709c-2a91e18a-e672453b",
+ "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-09-24T11:41:22Z",
+ "date": "2026-09-24",
+ "old_title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+ "new_title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+ "old_text": "OpenAI and Anthropic both recently released new models aimed at lowering costs. Anthropic announced Opus 5.5, the latest version of its main mass-market workhorse model, used for tasks like coding and other complex knowledge work.\nAnd OpenAI announced GPT-6 Sol and Luna, the latest versions of its middle-of-the-road or smaller models focused on efficiency and speed.\nThese new releases are not about groundbreaking new capabilities. Rather, they're about efficiency. As both OpenAI and Anthropic target enterprise customers, they're racing to compete with open-weight models as organizations have explored changing their practices and using model routers to use these pricey, frontier models less in favor of cheaper alternatives.\nAnthropic and OpenAI argue that these new releases push the envelope at the frontier (albeit mostly in modest ways), while bringing costs substantially down.\nOpus 5.5: A more affordable, more competitive flagship\nOpus 5.5 is at the higher end of the models announced today, but the wider context here is that Anthropic is playing a bit of catch-up in its race with OpenAI. OpenAI earlier this month released GPT-6 Astra, which has sometimes been modestly beating Opus 5 in benchmarks and user sentiment. (By price and capability, Astra is competing with both Opus and Fable.)\nBenchmarks by Anthropic and its partners now show Opus 5.5 performing better at coding and knowledge work than GPT-6 Astra in some cases, albeit modestly.\nThe real story here is cost. From Anthropic's announcement: \"Input and output tokens are $4 and $20 per million, 20% less than Opus 5. Cache reads (which make up the majority of agentic and coding work costs) are $0.20 per million tokens, 60% less than Opus 5. Opus 5.5 also generates output more than 30% faster than Opus 5.\"",
+ "new_text": "OpenAI and Anthropic both recently released new models aimed at lowering costs. Anthropic announced Opus 5.5, the latest version of its main mass-market workhorse model, used for tasks like coding and other complex knowledge work.\nAnd OpenAI announced GPT-6 Sol and Luna, the latest versions of its middle-of-the-road or smaller models focused on efficiency and speed.\nThese new releases are not about groundbreaking new capabilities. Rather, they're about efficiency. As both OpenAI and Anthropic target enterprise customers, they're racing to compete with open-weight models as organizations have explored changing their practices and using model routers to use these pricey frontier models less in favor of cheaper alternatives.\nAnthropic and OpenAI argue that these new releases push the envelope at the frontier (albeit mostly in modest ways), while bringing costs substantially down.\nOpus 5.5: A more affordable, more competitive flagship\nOpus 5.5 is at the higher end of the models announced today, but the wider context here is that Anthropic is playing a bit of catch-up in its race with OpenAI. OpenAI earlier this month released GPT-6 Astra, which has sometimes been modestly beating Opus 5 in benchmarks and user sentiment. (By price and capability, Astra is competing with both Opus and Fable.)\nBenchmarks by Anthropic and its partners now show Opus 5.5 performing better at coding and knowledge work than GPT-6 Astra in some cases, albeit modestly.\nThe real story here is cost. From Anthropic's announcement: \"Input and output tokens are $4 and $20 per million, 20% less than Opus 5. Cache reads (which make up the majority of agentic and coding work costs) are $0.20 per million tokens, 60% less than Opus 5. Opus 5.5 also generates output more than 30% faster than Opus 5.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "have explored changing their practices and using model routers to use these"
+    ],
+    [
+     "del",
+     "pricey,"
+    ],
+    [
+     "ins",
+     "pricey"
+    ],
+    [
+     "eq",
+     "frontier models less in favor of cheaper alternatives. Anthropic and OpenAI argue"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.007,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

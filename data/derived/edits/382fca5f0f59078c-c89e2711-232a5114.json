@@ -1,0 +1,148 @@
+{
+ "id": "382fca5f0f59078c-c89e2711-232a5114",
+ "url": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Technology",
+ "country": "United Kingdom",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-09-24T11:36:23Z",
+ "date": "2026-09-24",
+ "old_title": "Pornhub age checks investigated by Ofcom",
+ "new_title": "Pornhub age checks investigated by Ofcom",
+ "old_text": "- Published\nOfcom has launched an investigation into Pornhub owner, Aylo, over whether the site's new age checks are effectively stopping children from accessing adult content.\nThe regulator said in May that Pornhub started using a new age verification process for some users, which relies on a third party, in this case Apple.\nIt said it had concerns that Aylo \"may not have conducted sufficient due diligence and testing\" before implementing this new process, and so it \"may not be highly effective\" at preventing children from seeing pornography.\nUnder the UK's Online Safety Act (OSA), sites that host pornographic material must use highly effective age assurance to ensure whether a user is over 18.\nThe BBC has approached Aylo for comment.\nOfcom says as part of its investigation it will consider how Aylo implements its age verification processes and whether it conducted the \"necessary due diligence\" before it was implemented.\nIt will not investigate how Apple operates its age checks.\nGeorge Lusty, Ofcom's Director of Enforcement, said: \"Online age checks are a vital protection to prevent children from encountering inappropriate or harmful material, including pornography.\n\"We expect tech firms to ensure age checks are highly effective before introducing them. Anything less could leave children at risk.\"\nUnder the Online Safety Act, Ofcom holds the power to fine non-compliant companies up to Â£18 million or 10% of their annual global turnover, whichever is greater.\nThis probe is just the latest clash between the regulator and what is one of the world's most viewed porn sites.\nIn October 2025 Pornhub said traffic from UK users had plunged by more than 75% following the introduction of more robust age checks by the OSA.\nSome have questioned whether people were simply using Virtual Private Networks (VPN) to get around the checks instead.\nIn January, Pornhub announced it would restrict access to its website in the UK, blaming the tougher checks, with only people who had previously made a Pornhub account able to access its content.\nAylo said that updates to the Act requiring age verification had \"not achieved its goal of protecting minors\" and had \"diverted traffic to darker, unregulated corners of the internet\".\nHowever, in May, it said it would be making the site available again for some UK Apple users who had confirmed their age with the company's most up-to-date version of iOS, its mobile operating system.",
+ "new_text": "- Published\nOfcom has launched an investigation into Pornhub owner, Aylo, over whether the site's new age checks are effectively stopping children from accessing adult content.\nThe regulator said in May that Pornhub started using a new age verification process for some users, which relied on a third party, Apple.\nIt said it had concerns that Aylo \"may not have conducted sufficient due diligence and testing\" before implementing this new process, and so it \"may not be highly effective\" at preventing children from seeing pornography.\nIn a lengthy statement given to the BBC, Aylo strongly defended its system for age verification while stressing it would cooperate fully with the investigation.\nUnder the UK's Online Safety Act (OSA), sites that host pornographic material must use highly effective age assurance to ensure users are over 18, but it leaves it up to the service to decide the method of age-checking it will use.\nOfcom says as part of its investigation it will consider how Aylo implements its age verification processes and whether it conducted the \"necessary due diligence\" before it was implemented.\nIt will not investigate how Apple operates its age checks.\nGeorge Lusty, Ofcom's Director of Enforcement, said: \"Online age checks are a vital protection to prevent children from encountering inappropriate or harmful material, including pornography.\n\"We expect tech firms to ensure age checks are highly effective before introducing them. Anything less could leave children at risk.\"\nBut Aylo argues that, having experimented in multiple markets with multiple age-check methods, Apple's system \"provides significantly stronger protection than any other age assurance method currently available in the UK market\".\nIt also notes that Ofcom had previously praised Apple's technology as \"a real win for children and families\".\nAylo argues a system based on asking individual pornographic sites to check users ages, simply drives users to riskier sites that aren't following Ofcom's rules.\nResearch by the Lucy Faithfull Foundation, external has previously suggested that non-compliant sites \"may also be more likely to host harmful or illegal content, and in some cases, sexual images of children\".\nBut Iain Corby executive director of the Age Verification Providers Association told the BBC that an age-restricted site could not rely on an mobile device based system alone unless it could demonstrate \"that children are in fact prevented from accessing its content to the required standard.\"\nHe doubted that Aylo could show that \"each time someone accesses its site, that the person is the same one who originally proved their age to remove the device's filter, or that Apple's filter will always prevent access to all its adult sites.\"\nUnder the OSA, Ofcom holds the power to fine non-compliant companies up to Â£18 million or 10% of their annual global turnover, whichever is greater.\nThis probe is just the latest clash between the regulator and what is one of the world's most viewed porn sites.\nIn October 2025 Pornhub said traffic from UK users had plunged by more than 75% following the introduction of more robust age checks by the OSA.\nSome have questioned whether people were simply using Virtual Private Networks (VPN) to get around the checks instead.\nIn January, Pornhub announced it would restrict access to its website in the UK, blaming the tougher checks, with only people who had previously made a Pornhub account able to access its content.\nAylo said that updates to the Act requiring age verification had \"not achieved its goal of protecting minors\".\nHowever, in May, it said it would be making the site available again for some UK Apple users who had confirmed their age with the company's most up-to-date version of iOS, its mobile operating system.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Pornhub started using a new age verification process for some users, which"
+    ],
+    [
+     "del",
+     "relies"
+    ],
+    [
+     "ins",
+     "relied"
+    ],
+    [
+     "eq",
+     "on a third party,"
+    ],
+    [
+     "del",
+     "in this case"
+    ],
+    [
+     "eq",
+     "Apple. It said it had concerns that Aylo \"may not have conducted"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "it \"may not be highly effective\" at preventing children from seeing pornography."
+    ],
+    [
+     "ins",
+     "In a lengthy statement given to the BBC, Aylo strongly defended its system for age verification while stressing it would cooperate fully with the investigation."
+    ],
+    [
+     "eq",
+     "Under the UK's Online Safety Act (OSA), sites that host pornographic material must use highly effective age assurance to ensure"
+    ],
+    [
+     "del",
+     "whether a user is"
+    ],
+    [
+     "ins",
+     "users are"
+    ],
+    [
+     "eq",
+     "over"
+    ],
+    [
+     "del",
+     "18. The BBC has approached Aylo for comment."
+    ],
+    [
+     "ins",
+     "18, but it leaves it up to the service to decide the method of age-checking it will use."
+    ],
+    [
+     "eq",
+     "Ofcom says as part of its investigation it will consider how Aylo"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "highly effective before introducing them. Anything less could leave children at risk.\""
+    ],
+    [
+     "ins",
+     "But Aylo argues that, having experimented in multiple markets with multiple age-check methods, Apple's system \"provides significantly stronger protection than any other age assurance method currently available in the UK market\". It also notes that Ofcom had previously praised Apple's technology as \"a real win for children and families\". Aylo argues a system based on asking individual pornographic sites to check users ages, simply drives users to riskier sites that aren't following Ofcom's rules. Research by the Lucy Faithfull Foundation, external has previously suggested that non-compliant sites \"may also be more likely to host harmful or illegal content, and in some cases, sexual images of children\". But Iain Corby executive director of the Age Verification Providers Association told the BBC that an age-restricted site could not rely on an mobile device based system alone unless it could demonstrate \"that children are in fact prevented from accessing its content to the required standard.\" He doubted that Aylo could show that \"each time someone accesses its site, that the person is the same one who originally proved their age to remove the device's filter, or that Apple's filter will always prevent access to all its adult sites.\""
+    ],
+    [
+     "eq",
+     "Under the"
+    ],
+    [
+     "del",
+     "Online Safety Act,"
+    ],
+    [
+     "ins",
+     "OSA,"
+    ],
+    [
+     "eq",
+     "Ofcom holds the power to fine non-compliant companies up to Â£18 million"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the Act requiring age verification had \"not achieved its goal of protecting"
+    ],
+    [
+     "del",
+     "minors\" and had \"diverted traffic to darker, unregulated corners of the internet\"."
+    ],
+    [
+     "ins",
+     "minors\"."
+    ],
+    [
+     "eq",
+     "However, in May, it said it would be making the site available"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.6937,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 1,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.966,
+ "similarity": 0.9674,
+ "adjudicated_by": "rules"
+}

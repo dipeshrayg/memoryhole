@@ -1,0 +1,58 @@
+{
+ "id": "1dc12dae37217e11-10ac270d-8e6a578b",
+ "url": "https://www.bbc.co.uk/news/articles/cq0lry248y2zo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-09-24T11:33:52Z",
+ "date": "2026-09-24",
+ "old_title": "Off sick? You need to phone your boss, back-to-work adviser says",
+ "new_title": "Off sick? You need to phone your boss, back-to-work adviser says",
+ "old_text": "- Published\nPeople off sick from work should keep in phone contact with their boss, government-appointed back-to-work expert Sir Charlie Mayfield has said.\nGetting bosses and workers to have a conversation, rather than simply exchanging emails and sicknotes, could help get people back into work, Sir Charlie, who is leading the Keep Britain Working taskforce, said.\nHis latest report said health-related economic inactivity was costing Britain around Â£212m a year in benefit payments and lost output.\nTalking on the phone was just \"one piece of the jigsaw\" he said on Wednesday.\nThe report calls for more workplace support, external for people with health conditions and disabilities and the establishment of a Workplace Health System alongside the NHS.\nBut improving communication was also a way to \"rehumanise\" the workplace and help prevent people dropping out of work altogether, Sir Charlie said.\nThe report does not suggest that someone struck down by flu needs to croak through their symptoms over the phone or that bosses need to provide down-the-line sickbed sympathy if an employee is off with food poisoning.\n\"I'm not worried about a day here and a day there. It is more about longer term issues,\" Sir Charlie told the BBC's Today Programme.\nBut he said Britain was doing a \"poor job\" of handling sickness in the workplace, leading to more people becoming disengaged and dropping out altogether.\n\"I have met so many people who have said to me, 'You know, I was signed off sick and I was off sick for a month, two months, three months, and I had almost no contact with my employer',\" Sir Charlie said.\nAround 300,000 people leave work every year with a health condition, much of which is preventable, the report said.\nSir Charlie said employees sometimes feared talking about long-term health issues with their employer.\n\"But the fear is also felt by employers as well because they're afraid of causing offence or creating a complaint or a grievance,\" he added.\nFear on both sides can create a distance and lack of understanding, he warned, with longer absences making it much more likely a worker will drop out of the labour force altogether.\n\"If you can keep more people in work, there's a massive opportunity for us to add billions to the economy and, frankly, to people's livelihoods,\" Sir Charlie said.\n\"To get that, though, you need to have people talking to each other, and you've got to more actively manage sickness and ill health in the workplace.\"\nEmployers need to do more, he said, and employees need to engage with it.\nOther ways for bosses to support staff include ensuring access to treatments such as physiotherapy and talking therapies, he said.",
+ "new_text": "- Published\nPeople off sick from work should keep in phone contact with their boss, government-appointed back-to-work expert Sir Charlie Mayfield has said.\nGetting bosses and workers to have a conversation, rather than simply exchanging emails and sicknotes, could help get people back into work, Sir Charlie, who is leading the Keep Britain Working taskforce, said.\nHis latest report said health-related economic inactivity was costing Britain around Â£210bn a year in benefit payments and lost output.\nTalking on the phone was just \"one piece of the jigsaw\" he said on Wednesday.\nThe report calls for more workplace support, external for people with health conditions and disabilities and the establishment of a Workplace Health System alongside the NHS.\nBut improving communication was also a way to \"rehumanise\" the workplace and help prevent people dropping out of work altogether, Sir Charlie said.\nThe report does not suggest that someone struck down by flu needs to croak through their symptoms over the phone or that bosses need to provide down-the-line sickbed sympathy if an employee is off with food poisoning.\n\"I'm not worried about a day here and a day there. It is more about longer term issues,\" Sir Charlie told the BBC's Today Programme.\nBut he said Britain was doing a \"poor job\" of handling sickness in the workplace, leading to more people becoming disengaged and dropping out altogether.\n\"I have met so many people who have said to me, 'You know, I was signed off sick and I was off sick for a month, two months, three months, and I had almost no contact with my employer',\" Sir Charlie said.\nAround 300,000 people leave work every year with a health condition, much of which is preventable, the report said.\nSir Charlie said employees sometimes feared talking about long-term health issues with their employer.\n\"But the fear is also felt by employers as well because they're afraid of causing offence or creating a complaint or a grievance,\" he added.\nFear on both sides can create a distance and lack of understanding, he warned, with longer absences making it much more likely a worker will drop out of the labour force altogether.\n\"If you can keep more people in work, there's a massive opportunity for us to add billions to the economy and, frankly, to people's livelihoods,\" Sir Charlie said.\n\"To get that, though, you need to have people talking to each other, and you've got to more actively manage sickness and ill health in the workplace.\"\nEmployers need to do more, he said, and employees need to engage with it.\nOther ways for bosses to support staff include ensuring access to treatments such as physiotherapy and talking therapies, he said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "said. His latest report said health-related economic inactivity was costing Britain around"
+    ],
+    [
+     "del",
+     "Â£212m"
+    ],
+    [
+     "ins",
+     "Â£210bn"
+    ],
+    [
+     "eq",
+     "a year in benefit payments and lost output. Talking on the phone"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0045,
+  "numbers_changed": [
+   "210",
+   "212"
+  ],
+  "market_figures_changed": [
+   "£210bn",
+   "£212m"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.25,
+ "similarity": 0.9997,
+ "adjudicated_by": "rules"
+}

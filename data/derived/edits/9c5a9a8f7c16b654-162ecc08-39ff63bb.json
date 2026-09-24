@@ -1,0 +1,52 @@
+{
+ "id": "9c5a9a8f7c16b654-162ecc08-39ff63bb",
+ "url": "https://variety.com/2026/film/festivals/london-film-festival-industry-forum-danny-boyle-pc-williams-1236873022/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-09-24T11:42:10Z",
+ "date": "2026-09-24",
+ "old_title": "London Film Festival Industry Forum Lineup: Danny Boyle, PC Williams, Akinola Davies Jr. and More",
+ "new_title": "London Film Festival Industry Forum Lineup: Danny Boyle, PC Williams, Akinola Davies Jr. and More",
+ "old_text": "The BFI London Film Festival has revealed the full lineup for its Industry Forum.\nJoining the previously announced Spotlight conversations with producers James Wilson and Pippa Harris, \"Ink\" director Danny Boyle will be interviewed live by Matt Belloni for his \"The Town\" podcast and costume designer PC Williams will be in conversation with her collaborator on \"My Father's Shadow,\" director Akinola Davies Jr.\nThe Industry Forum kicks off on Oct. 8 with a panel of cinema programmers - including Curzon's Ben Lyndon, Picturehouse's Carol McKay and BFI Imax's Madeleine Mullett - reflecting on the state of U.K. movie theaters after a record-breaking spring-summer season. On Oct. 12, international producers lan Maher (\"Everybody Digs Bill Evans\"), Adrià Monés (\"The End of It\"), Dyveke Bjørkly Graver (\"Fjord\") and Rodrigo Teixeira (\"Paper Tiger,\" \"I'm Still Here\") will discuss their experiences with co-productions, funding opportunities and creative challenges with collaboration across different countries.\nPopular on Variety\nOther panels include one on working within archives to shape a storyline with Theo Rollason (\"Queer Edward II\"), Nanette Burstein (\"Carl Sagan: We Are Made of Star Stuff\"), Rafael Guendelman (\"Az Zeeb\") and the BFI National Archive's Simon McCallum; as well as a discussion showcasing exciting new voices in screenwriting hosted by Take Three program director Holly Daniel.\n\"This year's Industry Forum brings together an exceptional group of filmmakers and industry voices, including both U.K. and international talent whose work is having a real impact on cinema around the world,\" said Kristy Matheson, director of the BFI London Film Festival. \"From world class producers, directors and craftspeople to programmers, writers and archivists, we're proud to showcase the remarkable range of people shaping cinema today, while creating opportunities for the wider industry to come together, exchange ideas and build new connections.\"\nView the full London Film Festival Industry Forum program here.",
+ "new_text": "The BFI London Film Festival has revealed the full lineup for its Industry Forum.\nJoining the previously announced Spotlight conversations with producers James Wilson and Pippa Harris, \"Ink\" director Danny Boyle will be interviewed live by Matt Belloni for his \"The Town\" podcast and costume designer PC Williams will be in conversation with her collaborator on \"My Father's Shadow,\" director Akinola Davies Jr (in association with Variety).\nThe Industry Forum kicks off on Oct. 8 with a panel of cinema programmers - including Curzon's Ben Lyndon, Picturehouse's Carol McKay and BFI Imax's Madeleine Mullett - reflecting on the state of U.K. movie theaters after a record-breaking spring-summer season. On Oct. 12, international producers lan Maher (\"Everybody Digs Bill Evans\"), Adrià Monés (\"The End of It\"), Dyveke Bjørkly Graver (\"Fjord\") and Rodrigo Teixeira (\"Paper Tiger,\" \"I'm Still Here\") will discuss their experiences with co-productions, funding opportunities and creative challenges with collaboration across different countries.\nPopular on Variety\nOther panels include one on working within archives to shape a storyline with Theo Rollason (\"Queer Edward II\"), Nanette Burstein (\"Carl Sagan: We Are Made of Star Stuff\"), Rafael Guendelman (\"Az Zeeb\") and the BFI National Archive's Simon McCallum; as well as a discussion showcasing exciting new voices in screenwriting hosted by Take Three program director Holly Daniel.\n\"This year's Industry Forum brings together an exceptional group of filmmakers and industry voices, including both U.K. and international talent whose work is having a real impact on cinema around the world,\" said Kristy Matheson, director of the BFI London Film Festival. \"From world class producers, directors and craftspeople to programmers, writers and archivists, we're proud to showcase the remarkable range of people shaping cinema today, while creating opportunities for the wider industry to come together, exchange ideas and build new connections.\"\nView the full London Film Festival Industry Forum program here.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "in conversation with her collaborator on \"My Father's Shadow,\" director Akinola Davies"
+    ],
+    [
+     "del",
+     "Jr."
+    ],
+    [
+     "ins",
+     "Jr (in association with Variety)."
+    ],
+    [
+     "eq",
+     "The Industry Forum kicks off on Oct. 8 with a panel of"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0199,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.979,
+ "adjudicated_by": "rules"
+}

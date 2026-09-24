@@ -1,0 +1,112 @@
+{
+ "id": "7c5eb87f2e6282ac-d5444953-26b730c6",
+ "url": "https://www.theguardian.com/football/2026/sep/23/ireland-manager-heimir-hallgrimsson-prime-minister-micheal-martin-israel-genocide-gaza",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-09-24T11:38:35Z",
+ "date": "2026-09-24",
+ "old_title": "Ireland manager gets prime minister Martin's backing in row with Israel over 'genocide'",
+ "new_title": "Ireland manager gets prime minister Martin's backing in row with Israel over 'genocide'",
+ "old_text": "Ireland's prime minister, Micheál Martin, backed his country's football manager, Heimir Hallgrímsson, after Israel's football federation accused Hallgrimsson of \"stupidity, ignorance and hypocrisy\" over comments about the war in Gaza.\n\"I think those are unacceptable remarks; they should be withdrawn,\" Martin told reporters in New York, where he is attending the UN general assembly. \"Israel can't keep denying what the world knows, and what the world understands.\"\nHallgrímsson sparked the row after saying before two Nations League fixtures against Israel: \"We're not playing with genocide, we're playing against genocide. We're playing against Israel, we're not playing with Israel.\"\nMartin said Hallgrímsson's comments reflected concerns about the scale of death and destruction in Gaza, also citing remarks by the UN secretary general, António Guterres.\nThe dispute comes amid mounting controversy in Ireland over the fixtures, scheduled for 27 September and 4 October. More than 160 Irish sportspeople have signed an open letter calling on the national team to boycott the matches, and protesters gathered outside the team's Dublin hotel on Monday. Further protests are planned around the country in the run-up to the games.\nThe Football Association of Ireland (FAI) passed a motion last November requesting that European football governing body, Uefa, suspend Israel from international competition. The FAI has said it has little choice but to fulfil the fixtures or risk sporting and financial sanctions.\nIreland's designated home match on 4 October was moved from Dublin's Aviva Stadium to Backa Topola, Serbia, after concerns over disruption and security. The 27 September match, officially Israel's home fixture, will also be played at a neutral venue, in Debrecen, Hungary.\nIsrael strongly rejects allegations that its conduct in Gaza amounts to genocide. Hamas on 7 October 2023 led the deadliest attack ever against Israel in which militants killed 1,221 people and dragged into Gaza 251 hostages, 44 of them already dead, according to Israeli official figures.\nIsrael launched a massive retaliatory offensive that has displaced virtually the entire population at least once and has killed 73,919 people, according to the Gaza health ministry, which operates under Hamas and whose figures are generally considered reliable.\nIreland has long been a strong supporter of the Palestinian cause, with sympathy for Palestinians often linked to the country's history of British rule. Dublin formally recognised a Palestinian state in 2024 alongside Spain and Norway, and has repeatedly criticised Israel's conduct of the war in Gaza.",
+ "new_text": "Ireland's prime minister, Micheál Martin, backed his country's football manager, Heimir Hallgrímsson, after Israel's football federation accused Hallgrimsson of \"stupidity, ignorance and hypocrisy\" over comments about the war in Gaza.\n\"I think those are unacceptable remarks; they should be withdrawn,\" Martin told reporters in New York, where he is attending the UN general assembly. \"Israel can't keep denying what the world knows, and what the world understands.\"\nHallgrímsson sparked the row after saying before two Nations League fixtures against Israel: \"We're not playing with genocide, we're playing against genocide. We're playing against Israel, we're not playing with Israel.\"\nMartin said Hallgrímsson's comments reflected concerns about the scale of death and destruction in Gaza, also citing remarks by the UN secretary general, António Guterres.\nOn Wednesday Hallgrímsson, preparing for Thursday's game in Kosovo, expressed gratitude for Martin's backing. \"What I said at the last press meeting has taken the attention away from maybe what's most important; we are playing an important game against Kosovo,\" Hallgrimsson said.\n\"Maybe, from a leadership point of view, not clever for me to take the attention like this. But to answer the question, we are thankful for all the support we get. It's a tricky time for us.\"\nThe dispute comes amid mounting controversy in the Republic over the fixtures, scheduled for 27 September and 4 October. More than 160 Irish sportspeople have signed an open letter calling on the national team to boycott the matches, and protesters gathered outside the team's Dublin hotel on Monday. Further protests are planned around the country in the run-up to the games.\nThe Football Association of Ireland (FAI) passed a motion last November requesting that European football governing body, Uefa, suspend Israel from international competition. The FAI has said it has little choice but to fulfil the fixtures or risk sporting and financial sanctions.\nIreland's designated home match on 4 October was moved from Dublin's Aviva Stadium to Backa Topola, Serbia, after concerns over disruption and security. The 27 September match, officially Israel's home fixture, will also be played at a neutral venue, in Debrecen, Hungary.\nIsrael strongly rejects allegations that its conduct in Gaza amounts to genocide. Hamas led the deadliest attack against Israel on 7 October 2023 when militants killed 1,221 people and dragged into Gaza 251 hostages, 44 of them already dead, according to Israeli official figures.\nIsrael launched a massive retaliatory offensive that has displaced virtually the entire population at least once and has killed 73,919 people, according to the Gaza health ministry, which operates under Hamas and whose figures are generally considered reliable.\nIreland has long been a strong supporter of the Palestinian cause, with sympathy for Palestinians often linked to the country's history of British rule. Dublin formally recognised a Palestinian state in 2024 alongside Spain and Norway and has repeatedly criticised Israel's conduct of the war in Gaza.\nReuters contributed to this report",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "in Gaza, also citing remarks by the UN secretary general, António Guterres."
+    ],
+    [
+     "ins",
+     "On Wednesday Hallgrímsson, preparing for Thursday's game in Kosovo, expressed gratitude for Martin's backing. \"What I said at the last press meeting has taken the attention away from maybe what's most important; we are playing an important game against Kosovo,\" Hallgrimsson said. \"Maybe, from a leadership point of view, not clever for me to take the attention like this. But to answer the question, we are thankful for all the support we get. It's a tricky time for us.\""
+    ],
+    [
+     "eq",
+     "The dispute comes amid mounting controversy in"
+    ],
+    [
+     "del",
+     "Ireland"
+    ],
+    [
+     "ins",
+     "the Republic"
+    ],
+    [
+     "eq",
+     "over the fixtures, scheduled for 27 September and 4 October. More than"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "strongly rejects allegations that its conduct in Gaza amounts to genocide. Hamas"
+    ],
+    [
+     "ins",
+     "led the deadliest attack against Israel"
+    ],
+    [
+     "eq",
+     "on 7 October 2023"
+    ],
+    [
+     "del",
+     "led the deadliest attack ever against Israel in which"
+    ],
+    [
+     "ins",
+     "when"
+    ],
+    [
+     "eq",
+     "militants killed 1,221 people and dragged into Gaza 251 hostages, 44 of"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "rule. Dublin formally recognised a Palestinian state in 2024 alongside Spain and"
+    ],
+    [
+     "del",
+     "Norway,"
+    ],
+    [
+     "ins",
+     "Norway"
+    ],
+    [
+     "eq",
+     "and has repeatedly criticised Israel's conduct of the war in Gaza."
+    ],
+    [
+     "ins",
+     "Reuters contributed to this report"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2638,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.133,
+ "similarity": 0.8562,
+ "adjudicated_by": "rules"
+}
