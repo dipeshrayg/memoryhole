@@ -1,0 +1,48 @@
+{
+ "id": "8a0878f274a2c95f-b9505fe0-58fb190f",
+ "url": "https://www.dw.com/en/germany-economic-institutes-double-growth-forecast-for-2026/a-78168080?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-25T11:34:17Z",
+ "date": "2026-09-25",
+ "old_title": "Germany: Economic institutes double growth forecast for 2026",
+ "new_title": "Germany: Economic institutes double growth forecast for 2026",
+ "old_text": "Several leading German economic think tanks on Thursday announced they had increased their earlier GDP growth forecasts for the country.\nNew numbers predict an uptick of 1.3% for 2026, more than double that of spring forecasts of 0.6% growth.\nIn their so-called \"Autumn 2026 Joint Economic Forecast,\" this year titled \"Recovery Under Structural Stress - Fiscal Policy on Slippery Ground,\" five institutes also adjusted their economic outlook for 2027, predicting 1.1% growth.\nThe picture looks less rosy in 2028, when GDP is expected to slow to just 0.4% growth.\n\"The economy saw more robust development than expected,\" said Oliver Holtemöller of the Leibniz Institute Halle (IWH). \"Still, that upturn rests on a rather wobbly foundation because high energy prices and structural problems continue to be a burden.\"\nExperts say that the trend is clear but add that recovery is nevertheless weaker than in the past.\nAnalysts said a strong global economy and the AI boom had in part fueled the trend but added that corporate investment and private consumption remained weak.\nStructural problems, uncertainty persist\nLooking ahead, economists say they expect dynamism in 2027 as consumer spending recovers and housing construction gains pace.\nGerman institutes are not alone in their positive forecast. The Organization for Economic Cooperation and Development (OECD) - a group of mostly rich countries - also adjusted its forecast to 1.1% growth in Germany's GDP this year, up from 0.7% in June.\nAdditionally, the OECD foresees 1.1% growth for Germany in 2027.\nOne thing that all observers agree on - beyond the need for urgent long-term reforms - is that the US-Israel-Iran war in the Middle East and the great uncertainty that the conflict brings to the global economy is the biggest wildcard in the deck.\nDespite the cautious optimism voiced in Thursday's report, many economists have warned that increased government spending on infrastructure and defense - largely financed through new debt - could quickly become a flash in the pan if not coupled with sustainable reforms.\nIn Berlin, Chancellor Friedrich Merz, who has shown himself to be committed to pushing those reforms through the Bundestag, also recently voiced a bit of optimism over Germany's economic future, saying, \"We're out of the valley of economic recession or decline.\"\nThe five institutes that issued the Joint Economic Forecast are: the German Institute for Economic Research, the IfO Institute, the Kiel Institute for Global Economics, the Leibniz Institute for Economic Research Halle and the RWI-Leibniz Institute for Economic Research Essen.\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "new_text": "Several leading German economic think tanks on Thursday announced they had increased their earlier GDP growth forecasts for the country.\nNew numbers predict an uptick of 1.3% for 2026, more than double that of spring forecasts of 0.6% growth.\nIn their \"Autumn 2026 Joint Economic Forecast,\" this year titled \"Recovery Under Structural Stress - Fiscal Policy on Slippery Ground,\" five institutes also adjusted their economic outlook for 2027, predicting 1.1% growth.\nThe picture looks less rosy in 2028, when GDP is expected to slow to just 0.4% growth.\n\"The economy saw more robust development than expected,\" said Oliver Holtemöller of the Leibniz Institute Halle (IWH). \"Still, that upturn rests on a rather wobbly foundation because high energy prices and structural problems continue to be a burden.\"\nExperts say that the trend is clear but add that recovery is nevertheless weaker than in the past.\nAnalysts said a strong global economy and the AI boom had in part fueled the trend but added that corporate investment and private consumption remained weak.\nStructural problems, uncertainty persist\nLooking ahead, economists say they expect dynamism in 2027 as consumer spending recovers and housing construction gains pace.\nGerman institutes are not alone in their positive forecast. The Organization for Economic Cooperation and Development (OECD) - a group of mostly rich countries - also adjusted its forecast to 1.1% growth in Germany's GDP this year, up from 0.7% in June.\nAdditionally, the OECD foresees 1.1% growth for Germany in 2027.\nOne thing that all observers agree on - beyond the need for urgent long-term reforms - is that the US-Israel-Iran war in the Middle East and the great uncertainty that the conflict brings to the global economy is the biggest wildcard in the deck.\nDespite the cautious optimism voiced in Thursday's report, many economists have warned that increased government spending on infrastructure and defense - largely financed through new debt - could quickly become a flash in the pan if not coupled with sustainable reforms.\nIn Berlin, Chancellor Friedrich Merz, who has shown himself to be committed to pushing those reforms through the Bundestag, also recently voiced a bit of optimism over Germany's economic future, saying, \"We're out of the valley of economic recession or decline.\"\nThe five institutes that issued the Joint Economic Forecast are: the German Institute for Economic Research, the IfO Institute, the Kiel Institute for Global Economics, the Leibniz Institute for Economic Research Halle and the RWI-Leibniz Institute for Economic Research Essen.\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "more than double that of spring forecasts of 0.6% growth. In their"
+    ],
+    [
+     "del",
+     "so-called"
+    ],
+    [
+     "eq",
+     "\"Autumn 2026 Joint Economic Forecast,\" this year titled \"Recovery Under Structural Stress"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0023,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9835,
+ "adjudicated_by": "rules"
+}

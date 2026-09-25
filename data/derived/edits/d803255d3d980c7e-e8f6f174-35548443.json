@@ -1,0 +1,51 @@
+{
+ "id": "d803255d3d980c7e-e8f6f174-35548443",
+ "url": "https://www.dw.com/en/morocco-center-right-pam-leads-in-parliamentary-election/a-79407710?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-25T11:34:13Z",
+ "date": "2026-09-25",
+ "old_title": "Morocco: Center-right PAM leads in parliamentary election",
+ "new_title": "Morocco: Center-right PAM leads in parliamentary election",
+ "old_text": "Morocco's center-right Authenticity and Modernity Party (PAM) took first place in Wednesday's parliamentary election, according to provisional results.\nPAM is part of Morocco's outgoing ruling coalition.\nThe party won 97 out of 395 seats in parliament, 10 seats more than in 2021.\nIt was founded in 2008 by an adviser to the king and advocates social modernization and moderate secularist views. It is largely seen as close to the Moroccan monarchy.\nThe next coalition government will oversee preparations for the 2030 World Cup.\nThe vote is not expected to fundamentally alter the balance of power in the North African kingdom. As the country is a semi-constitutional monarchy, Morocco's King Mohammed VI retains substantial powers in both policy direction and foreign affairs.\nHow did other parties fare in Morocco's election?\nThe National Rally of Independents (RNI), the senior partner in the outgoing coalition, dropped from 102 to 66 seats, putting it at second place.\nThe smallest member of the governing coalition, the right-wing Istiqlal party also saw losses, taking 65 seats, 16 fewer than in 2021.\nThe moderate Islamist opposition Justice and Development Party surged to 54 seats, compared to just 13 in 2021.\nElection marked by increasing voter apathy\nThe election saw turnout of 38%, marking the lowest level since 2007. Nearly 16 million people were registered to vote.\nOnly around 4% of registered voters were aged 18 to 24.\nIn 2025, Morocco was rocked by Gen Z-led protests, which were the largest in the country since the Arab Spring in the early 2010s.\nMistrust in politicians and issues regarding living conditions were widely blamed for the low turnout.\n\"I'm not going to vote because I have lost all faith in the political class,\" 50-year-old Majda Bakatir told the AFP news agency.\n\"We want our country to move forward, but politicians do not seem to care about our problems regarding healthcare, education, and purchasing power,\" she said.\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google so you'll always see our verified news first.\nEdited by: Sean Sinico",
+ "new_text": "Morocco's center-right Authenticity and Modernity Party (PAM) took first place in Wednesday's parliamentary election, according to provisional results.\nPAM is part of Morocco's outgoing ruling coalition.\nThe party won 97 out of 395 seats in parliament, 10 seats more than in 2021.\nIt was founded in 2008 by an adviser to the king and advocates social modernization and moderate secularist views. It is largely seen as close to the Moroccan monarchy.\nThe next coalition government will oversee preparations for the 2030 World Cup.\nThe vote is not expected to fundamentally alter the balance of power in the North African kingdom. As the country is a semi-constitutional monarchy, Morocco's King Mohammed VI retains substantial powers in both policy direction and foreign affairs.\nWho will be Morocco's next prime minister?\nIt is also the king who picks the next prime minister from the winning party.\nThe list of potential candidates includes PAM's current leader, Fatima Ezzahra El Mansouri, and the head of the Moroccan football federation, Fouzi Lekjaa.\nLekjaa joined the pary a few weeks before the election and is sure to enjoy widespread support. He's seen as the force behind Morocco's rise as footballing power, with a strong World Cup showing, 6th place in the FIFA rankings and the country also being a co-host of the 2030 World Cup.\nHow did other parties fare in Morocco's election?\nThe National Rally of Independents (RNI), the senior partner in the outgoing coalition, dropped from 102 to 66 seats, putting it at second place.\nThe smallest member of the governing coalition, the right-wing Istiqlal party also saw losses, taking 65 seats, 16 fewer than in 2021.\nThe moderate Islamist opposition Justice and Development Party surged to 54 seats, compared to just 13 in 2021.\nElection marked by increasing voter apathy\nThe election saw turnout of 38%, marking the lowest level since 2007. Nearly 16 million people were registered to vote.\nOnly around 4% of registered voters were aged 18 to 24.\nIn 2025, Morocco was rocked by Gen Z-led protests, which were the largest in the country since the Arab Spring in the early 2010s.\nMistrust in politicians and issues regarding living conditions were widely blamed for the low turnout.\n\"I'm not going to vote because I have lost all faith in the political class,\" 50-year-old Majda Bakatir told the AFP news agency.\n\"We want our country to move forward, but politicians do not seem to care about our problems regarding healthcare, education, and purchasing power,\" she said.\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google so you'll always see our verified news first.\nEdited by: Sean Sinico",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Mohammed VI retains substantial powers in both policy direction and foreign affairs."
+    ],
+    [
+     "ins",
+     "Who will be Morocco's next prime minister? It is also the king who picks the next prime minister from the winning party. The list of potential candidates includes PAM's current leader, Fatima Ezzahra El Mansouri, and the head of the Moroccan football federation, Fouzi Lekjaa. Lekjaa joined the pary a few weeks before the election and is sure to enjoy widespread support. He's seen as the force behind Morocco's rise as footballing power, with a strong World Cup showing, 6th place in the FIFA rankings and the country also being a co-host of the 2030 World Cup."
+    ],
+    [
+     "eq",
+     "How did other parties fare in Morocco's election? The National Rally of"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2764,
+  "numbers_changed": [
+   "2030",
+   "6"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.959,
+ "similarity": 0.8852,
+ "adjudicated_by": "rules"
+}

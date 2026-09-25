@@ -1,0 +1,351 @@
+{
+ "id": "6e052f64a16fb26e-d8592e35-fe1d3150",
+ "url": "https://www.bbc.co.uk/news/articles/crx2zlqqpn2do?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-25T11:31:42Z",
+ "date": "2026-09-25",
+ "old_title": "RAF Valley pilots ejected from crash on Anglesey expected to make full recovery",
+ "new_title": "Crashed RAF jet 'steered away from houses' before pilots ejected on Anglesey",
+ "old_text": "- Published\nTwo pilots who ejected and parachuted out of their plane moments before it crashed are expected to make a full recovery, the RAF has said.\nThe Hawk T2 aircraft had been flying out of the RAF Valley station on Anglesey on Wednesday when it plummeted to the ground in the nearby Pencarnisiog area.\nHawk operations have been paused by the RAF as a \"precautionary measure\" while investigations into the crash are ongoing - the Red Arrows are included in the pause as the aerobatics display team use the T1.\nOn Thursday, the RAF said the two pilots, who were treated for minor injuries, are \"doing well\" and are \"expected to make a full recovery\".\nA video of the crash shared on social media on Wednesday appeared to show the two pilots ejecting from the aircraft before it nosedives and crashes in flames.\nThe footage shows a plume of smoke and fire erupting as the aircraft hits the ground, appearing to narrowly miss homes.\nIn a statement on social media, the RAF said: \"Both pilots are doing well, they are in extremely good spirits and expected to make a full recovery.\n\"A formal investigation into the circumstances surrounding the incident is now under way and, as a precautionary measure, the RAF has temporarily paused Hawk T1 and Hawk T2 flying operations.\"\nThe Hawk T1, and newer T2 versions are transonic, two-seat training aircrafts used to train fast jet pilots.\nThe Red Arrows, based at RAF Waddington in Lincolnshire, are included in the pause, however they were not due to fly again until Le Touquet Airshow in France this weekend in any event. It is not known when the restriction will be lifted.\nWhat is RAF Valley?\nFighter pilots are trained at RAF Valley. Aircrew are also trained there for mountain and maritime operations, and it is also home to the Mountain Rescue Service.\nThe MOD describes its No 4 Flying Training School as responsible for training the \"next generation of world-class fighter pilots, external\".\nIt opened in February 1941 and became a staging post for US aircraft to help the war effort from 1943.\nThe Prince of Wales was an RAF search and rescue pilot at the Holyhead base from 2010 to 2013 and lived on Anglesey with the Princess of Wales as newlyweds.\nHe returned in April to mark it 85th anniversary, where he spoke of his \"fond memories\" of the base.\nSeparately, a publicly-funded airport operated between Anglesey and Cardiff between 2007 and 2020.",
+ "new_text": "- Published\nAn RAF jet was steered to \"avoid built-up areas\" before two pilots ejected out of the aircraft, an air force commander has said.\nGp Capt Gez Currie, Station Commander, said: \"The aircraft would have been aimed in a direction that the pilot believed was open field, in order to avoid built-up areas and anybody on the ground.\"\nThe Hawk T2 aircraft had been flying out of the RAF Valley station on Anglesey on Wednesday when it plummeted to the ground in nearby Pencarnisiog, narrowly avoiding homes.\nThe trainee and an experienced professional, who parachuted out of their plane moments before it crashed, are expected to make a full recovery after they were treated for minor injuries.\nHawk operations have been paused by the RAF as a \"precautionary measure\" while investigations into the crash are ongoing - the Red Arrows are included in the pause as the aerobatics display team use the T1.\nThe Ministry of Defence (MoD) confirmed that the squadron of Hawk jets at RAF Leeming, in Yorkshire, has also \"paused\" flying.\nCurrie said the pilots were in hospital being cared for and were with their families.\nHe would not give personal details about them and said the investigation was in its early stages, adding \"it's far too early to even suggest what has happened in this occasion\".\nHe said: \"It was a trainee, with a highly experienced instructor on a routine sortie, across the Anglesey area.\"\nAccording to the MoD, a sortie is \"one mission, one complete trip\".\nHe added that in the two-and-a-half years as station commander, and in his 30-year career as an air traffic controller, \"this is the first time I've experienced this\".\nEyewitness Ollie Zalot said he was initially concerned that people on the ground could have been hurt as the crash happened near buildings, while Anglesey councillor Neville Evans said he thought it had been a \"very lucky escape considering how close\" the crash was to a village and caravan park.\nA video of the crash shared on social media on Wednesday appeared to show the two pilots ejecting from the aircraft before it nosedives and crashes in flames.\nSeparate footage also showed a plume of smoke and flames rising from the rear of a jet as it rolled down the runway before the crash. As the jet climbed, the flames seemed to disappear.\nMikey Kay, a BBC security analyst who also served in the RAF for 20 years, told the BBC that while it was too early to say, it was possible that the cause of the crash was not an engine failure.\nIn a statement on social media, the RAF said: \"Both pilots are doing well, they are in extremely good spirits and expected to make a full recovery.\n\"A formal investigation into the circumstances surrounding the incident is now under way and, as a precautionary measure, the RAF has temporarily paused Hawk T1 and Hawk T2 flying operations.\"\nThe Hawk T1, and newer T2 versions are transonic, two-seat training aircraft used to train fast jet pilots.\nThe Red Arrows, based at RAF Waddington in Lincolnshire, are included in the pause, however they were not due to fly again until Le Touquet Airshow in France this weekend in any event. It is not known when the restriction will be lifted.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "Two"
+    ],
+    [
+     "ins",
+     "An RAF jet was steered to \"avoid built-up areas\" before two"
+    ],
+    [
+     "eq",
+     "pilots"
+    ],
+    [
+     "del",
+     "who"
+    ],
+    [
+     "eq",
+     "ejected"
+    ],
+    [
+     "del",
+     "and parachuted"
+    ],
+    [
+     "eq",
+     "out of"
+    ],
+    [
+     "del",
+     "their plane moments before it crashed are expected to make a full recovery,"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "RAF"
+    ],
+    [
+     "ins",
+     "aircraft, an air force commander"
+    ],
+    [
+     "eq",
+     "has said."
+    ],
+    [
+     "ins",
+     "Gp Capt Gez Currie, Station Commander, said: \"The aircraft would have been aimed in a direction that the pilot believed was open field, in order to avoid built-up areas and anybody on the ground.\""
+    ],
+    [
+     "eq",
+     "The Hawk T2 aircraft had been flying out of the RAF Valley station on Anglesey on Wednesday when it plummeted to the ground in"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "eq",
+     "nearby"
+    ],
+    [
+     "del",
+     "Pencarnisiog area."
+    ],
+    [
+     "ins",
+     "Pencarnisiog, narrowly avoiding homes. The trainee and an experienced professional, who parachuted out of their plane moments before it crashed, are expected to make a full recovery after they were treated for minor injuries."
+    ],
+    [
+     "eq",
+     "Hawk operations have been paused by the RAF as a \"precautionary measure\""
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "included in the pause as the aerobatics display team use the T1."
+    ],
+    [
+     "del",
+     "On Thursday,"
+    ],
+    [
+     "ins",
+     "The Ministry of Defence (MoD) confirmed that"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "ins",
+     "squadron of Hawk jets at"
+    ],
+    [
+     "eq",
+     "RAF"
+    ],
+    [
+     "ins",
+     "Leeming, in Yorkshire, has also \"paused\" flying. Currie"
+    ],
+    [
+     "eq",
+     "said the"
+    ],
+    [
+     "del",
+     "two pilots, who"
+    ],
+    [
+     "ins",
+     "pilots"
+    ],
+    [
+     "eq",
+     "were"
+    ],
+    [
+     "del",
+     "treated"
+    ],
+    [
+     "ins",
+     "in hospital being cared"
+    ],
+    [
+     "eq",
+     "for"
+    ],
+    [
+     "del",
+     "minor injuries, are \"doing well\""
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "are \"expected"
+    ],
+    [
+     "ins",
+     "were with their families. He would not give personal details about them and said the investigation was in its early stages, adding \"it's far too early"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "make"
+    ],
+    [
+     "ins",
+     "even suggest what has happened in this occasion\". He said: \"It was"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "full recovery\"."
+    ],
+    [
+     "ins",
+     "trainee, with a highly experienced instructor on a routine sortie, across the Anglesey area.\" According to the MoD, a sortie is \"one mission, one complete trip\". He added that in the two-and-a-half years as station commander, and in his 30-year career as an air traffic controller, \"this is the first time I've experienced this\". Eyewitness Ollie Zalot said he was initially concerned that people on the ground could have been hurt as the crash happened near buildings, while Anglesey councillor Neville Evans said he thought it had been a \"very lucky escape considering how close\" the crash was to a village and caravan park."
+    ],
+    [
+     "eq",
+     "A video of the crash shared on social media on Wednesday appeared"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "pilots ejecting from the aircraft before it nosedives and crashes in flames."
+    ],
+    [
+     "del",
+     "The"
+    ],
+    [
+     "ins",
+     "Separate"
+    ],
+    [
+     "eq",
+     "footage"
+    ],
+    [
+     "del",
+     "shows"
+    ],
+    [
+     "ins",
+     "also showed"
+    ],
+    [
+     "eq",
+     "a plume of smoke and"
+    ],
+    [
+     "del",
+     "fire erupting"
+    ],
+    [
+     "ins",
+     "flames rising from the rear of a jet"
+    ],
+    [
+     "eq",
+     "as"
+    ],
+    [
+     "ins",
+     "it rolled down"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "aircraft hits"
+    ],
+    [
+     "ins",
+     "runway before"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "ground, appearing"
+    ],
+    [
+     "ins",
+     "crash. As the jet climbed, the flames seemed"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "narrowly miss homes."
+    ],
+    [
+     "ins",
+     "disappear. Mikey Kay, a BBC security analyst who also served in the RAF for 20 years, told the BBC that while it was too early to say, it was possible that the cause of the crash was not an engine failure."
+    ],
+    [
+     "eq",
+     "In a statement on social media, the RAF said: \"Both pilots are"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "operations.\" The Hawk T1, and newer T2 versions are transonic, two-seat training"
+    ],
+    [
+     "del",
+     "aircrafts"
+    ],
+    [
+     "ins",
+     "aircraft"
+    ],
+    [
+     "eq",
+     "used to train fast jet pilots. The Red Arrows, based at RAF"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "any event. It is not known when the restriction will be lifted."
+    ],
+    [
+     "del",
+     "What is RAF Valley? Fighter pilots are trained at RAF Valley. Aircrew are also trained there for mountain and maritime operations, and it is also home to the Mountain Rescue Service. The MOD describes its No 4 Flying Training School as responsible for training the \"next generation of world-class fighter pilots, external\". It opened in February 1941 and became a staging post for US aircraft to help the war effort from 1943. The Prince of Wales was an RAF search and rescue pilot at the Holyhead base from 2010 to 2013 and lived on Anglesey with the Princess of Wales as newlyweds. He returned in April to mark it 85th anniversary, where he spoke of his \"fond memories\" of the base. Separately, a publicly-funded airport operated between Anglesey and Cardiff between 2007 and 2020."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.199,
+  "numbers_changed": [
+   "1941",
+   "1943",
+   "20",
+   "2007",
+   "2010",
+   "2013",
+   "2020",
+   "30",
+   "4",
+   "85"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 2,
+  "blocks_added": 4,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.477,
+ "similarity": 0.8239,
+ "adjudicated_by": "rules"
+}

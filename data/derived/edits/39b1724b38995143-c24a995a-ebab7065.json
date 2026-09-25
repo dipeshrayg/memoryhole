@@ -1,0 +1,80 @@
+{
+ "id": "39b1724b38995143-c24a995a-ebab7065",
+ "url": "https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-25T11:31:38Z",
+ "date": "2026-09-25",
+ "old_title": "Daniel Thomas arrested over video of dinghy slashing",
+ "new_title": "Daniel Thomas arrested after dinghy slashed in Channel",
+ "old_text": "- Published\nAnti-migrant activist Daniel Thomas has been arrested over a video appearing to show him slashing at a boat in the English Channel with a knife.\nHampshire and Isle of Wight Constabulary said a 37-year-old man of no fixed abode had been arrested after a \"boat that had an emergency responder on board\" was damaged in the Channel.\nHe was arrested on suspicion of criminal damage with intent to endanger life, \"destroying ships\" under the Aviation and Maritime Security Act 1990 and \"conduct endangering ships\" under the Merchant Shipping Act 1995. He remains in custody.\nThe force previously said it was examining the video which Thomas, known to his supporters as Danny Tommo, had live-streamed on Tuesday.\nA French coastguard official was on board when Thomas appeared to slash at the vessel. Some 50 migrants who had travelled in the boat from Normandy had already been taken to Dover for processing.\nFar-right activist Tommy Robinson shared a video of Thomas's arrest on social media late on Wednesday, claiming it was in relation to an attempt to \"stop the invasion of our country\".\nThomas organised anti-migrant protests in Dover and Portsmouth in early September which saw roads blocked by hundreds of demonstrators, including groups of men in black balaclavas.\nHe has been rallying support for \"mass resistance\" to \"take our country back\" through his venture Patriot Platform, which he founded earlier this year.",
+ "new_text": "- Published\nAnti-migrant activist Daniel Thomas has been arrested after a video appeared to show him slashing at a boat in the English Channel with a knife.\nHampshire and Isle of Wight Constabulary said a 37-year-old man of no fixed abode had been arrested after a \"boat that had an emergency responder on board\" was damaged in the Channel.\nHe was arrested on suspicion of criminal damage with intent to endanger life, \"destroying ships\" under the Aviation and Maritime Security Act 1990 and \"conduct endangering ships\" under the Merchant Shipping Act 1995. He remains in custody.\nThe force previously said it was examining the video which Thomas, known to his supporters as Danny Tommo, had live-streamed on Tuesday.\nA French coastguard official was on board when Thomas appeared to slash at the vessel. Some 50 migrants who had travelled in the boat from Normandy had already been transferred onto RNLI lifeboats. They were later moved onto a UK Border Force vessel and taken to Dover for processing.\nFar-right activist Tommy Robinson shared a video of Thomas's arrest on social media late on Wednesday, claiming it was in relation to an attempt to \"stop the invasion of our country\".\nThomas organised anti-migrant protests in Dover and Portsmouth in early September which saw roads blocked by hundreds of demonstrators, including groups of men in black balaclavas.\nHe has been rallying support for \"mass resistance\" to \"take our country back\" through his venture Patriot Platform, which he founded earlier this year.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published Anti-migrant activist Daniel Thomas has been arrested"
+    ],
+    [
+     "del",
+     "over"
+    ],
+    [
+     "ins",
+     "after"
+    ],
+    [
+     "eq",
+     "a video"
+    ],
+    [
+     "del",
+     "appearing"
+    ],
+    [
+     "ins",
+     "appeared"
+    ],
+    [
+     "eq",
+     "to show him slashing at a boat in the English Channel with"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "migrants who had travelled in the boat from Normandy had already been"
+    ],
+    [
+     "ins",
+     "transferred onto RNLI lifeboats. They were later moved onto a UK Border Force vessel and"
+    ],
+    [
+     "eq",
+     "taken to Dover for processing. Far-right activist Tommy Robinson shared a video"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0815,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9844,
+ "adjudicated_by": "rules"
+}

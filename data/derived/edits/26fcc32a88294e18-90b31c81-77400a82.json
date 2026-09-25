@@ -1,0 +1,64 @@
+{
+ "id": "26fcc32a88294e18-90b31c81-77400a82",
+ "url": "https://variety.com/2026/film/festivals/gaza-naza-global-release-free-online-theatrical-1236874135/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-09-25T11:48:37Z",
+ "date": "2026-09-25",
+ "old_title": "Gaza Documentary 'NAZA' Set for Global Release Via Innovative Distribution Model That Will Involve Free Viewing Online Following Theatrical Outing",
+ "new_title": "Gaza Documentary 'NAZA' Set to Stream for Free on The Guardian Website After Global Release",
+ "old_text": "\"NAZA,\" the hot-button documentary about killings in Gaza that won a special jury prize at the recent Venice Film Festival, is set to soon be released theatrically in more than 50 territories and will subsequently be made visible to global audiences for free via the website of British newspaper The Guardian.\nThe Guardian, which produced \"NAZA\" in tandem with James Wilson (JW Films) and executive producer Jonathan Glazer, has announced that the doc - which was shot at night on the rooftops of Tel Aviv and shows \"in detail the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza,\" according to its official synopsis - will be screening in cinemas across the world starting Sept. 28, having secured theatrical distribution via French sales company MK2 in 56 territories since its Sept. 10 world premiere in Venice.\nAs previously announced, \"NAZA\" has set a distribution rollout for U.S. theaters starting Sept. 30 via an innovative plan that forgoes selling the film to a studio or independent distributor.\nPopular on Variety\nThe U.S. rollout, which kicks off exclusively at the IFC Center in New York City, is \"spearheaded by The Guardian and MK2, who have assembled a team of U.S. and international partners and consultants to bring the film to audiences as quickly as possible,\" they said.\nIn addition to the U.S. distribution plan, \"NAZA\" has now secured unspecified theatrical distributors in the following territories: France, U.K., Italy, Spain, Germany, Belgium, Netherlands, Austria, Switzerland, Sweden, Denmark, Norway, Greece, Portugal, Poland, Lithuania, Romania, Bulgaria, Australia, New Zealand, Japan, Hong Kong, Indonesia, Thailand, Canada, Brazil, Turkey, Central America and the Middle East, according to a statement from The Guardian and MK2.\nIn Italy, \"NAZA\" will get a three-day event release on 500 screens via I Wonder distribution between Sept. 28-30.\nThe film has also \"been offered to a number of distributors and cinemas in Israel,\" the statement said.\nAnd The Guardian will be exploring other ways to enable the film to be seen in the occupied Palestinian territories, it added.\n\"NAZA\" builds on revelations first published by the Israeli-Palestinian publication +972, Hebrew-language outlet Local Call and The Guardian between 2023 and 2025.\nDirectors Abraham and Szor said in a statement, \"We made this film out of a sense of obligation to use our position as Israeli filmmakers and journalists to examine the systems behind the mass killing of Palestinian civilians for which our country is responsible. While filming members of Israel's military on rooftops at night in Tel Aviv over the past three years, we found ourselves asking the very questions that were asked by our grandparents' generation and throughout the 20th century: how does one group of people allow the total dehumanization of another? What do the inner workings of such a system look like? Many of the revelations in the film were published almost immediately as we learned of them, in the months following the October 7th attacks, by The Guardian (one of 'NAZA's' producers), in collaboration with reporting partners +972 Magazine and Local Call. The film lets us explore something deeper than we could in our investigative journalism alone: not only the words being said but also those that are not said, the silence. It is up to all of us to break that silence.\"",
+ "new_text": "\"NAZA,\" the hot-button documentary about killings in Gaza that won a special jury prize at the recent Venice Film Festival, is set to soon be released theatrically in more than 50 territories and will subsequently be made visible to global audiences for free via the website of British newspaper The Guardian.\nThe Guardian, which produced \"NAZA\" in tandem with James Wilson (JW Films) and executive producer Jonathan Glazer, has announced that the doc - which was shot at night on the rooftops of Tel Aviv and shows \"in detail the systems behind Israel's calculated mass killing of Palestinian civilians in Gaza,\" according to its official synopsis - will be screening in cinemas across the world starting Sept. 28, having secured theatrical distribution via French sales company MK2 in 56 territories since its Sept. 10 world premiere in Venice.\nThe Guardian will be making \"NAZA\" viewable for free on its website in late November.\nPopular on Variety\nAs previously announced, \"NAZA\" has set a distribution rollout for U.S. theaters starting Sept. 30 via an innovative plan that forgoes selling the film to a studio or independent distributor.\nThe U.S. rollout, which kicks off exclusively at the IFC Center in New York City, is \"spearheaded by The Guardian and MK2, who have assembled a team of U.S. and international partners and consultants to bring the film to audiences as quickly as possible,\" they said.\nIn addition to the U.S. distribution plan, \"NAZA\" has now secured unspecified theatrical distributors in the following territories: France, U.K., Italy, Spain, Germany, Belgium, Netherlands, Austria, Switzerland, Sweden, Denmark, Norway, Greece, Portugal, Poland, Lithuania, Romania, Bulgaria, Australia, New Zealand, Japan, Hong Kong, Indonesia, Thailand, Canada, Brazil, Turkey, Central America and the Middle East, according to a statement from The Guardian and MK2.\nIn Italy, \"NAZA\" will get a three-day event release on 500 screens via I Wonder distribution between Sept. 28-30.\nThe film has also \"been offered to a number of distributors and cinemas in Israel,\" the statement said.\nAnd The Guardian will be exploring other ways to enable the film to be seen in the occupied Palestinian territories, it added.\n\"NAZA\" builds on revelations first published by the Israeli-Palestinian publication +972, Hebrew-language outlet Local Call and The Guardian between 2023 and 2025.\nDirectors Abraham and Szor said in a statement, \"We made this film out of a sense of obligation to use our position as Israeli filmmakers and journalists to examine the systems behind the mass killing of Palestinian civilians for which our country is responsible. While filming members of Israel's military on rooftops at night in Tel Aviv over the past three years, we found ourselves asking the very questions that were asked by our grandparents' generation and throughout the 20th century: how does one group of people allow the total dehumanization of another? What do the inner workings of such a system look like? Many of the revelations in the film were published almost immediately as we learned of them, in the months following the October 7th attacks, by The Guardian (one of 'NAZA's' producers), in collaboration with reporting partners +972 Magazine and Local Call. The film lets us explore something deeper than we could in our investigative journalism alone: not only the words being said but also those that are not said, the silence. It is up to all of us to break that silence.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "MK2 in 56 territories since its Sept. 10 world premiere in Venice."
+    ],
+    [
+     "ins",
+     "The Guardian will be making \"NAZA\" viewable for free on its website in late November. Popular on Variety"
+    ],
+    [
+     "eq",
+     "As previously announced, \"NAZA\" has set a distribution rollout for U.S. theaters"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "plan that forgoes selling the film to a studio or independent distributor."
+    ],
+    [
+     "del",
+     "Popular on Variety"
+    ],
+    [
+     "eq",
+     "The U.S. rollout, which kicks off exclusively at the IFC Center in"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0385,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9792,
+ "adjudicated_by": "rules"
+}

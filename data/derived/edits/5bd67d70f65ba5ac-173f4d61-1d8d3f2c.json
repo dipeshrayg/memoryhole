@@ -1,0 +1,78 @@
+{
+ "id": "5bd67d70f65ba5ac-173f4d61-1d8d3f2c",
+ "url": "https://www.independent.co.uk/tech/information-commissioners-office-tiktok-press-association-b3055697.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-25T11:36:33Z",
+ "date": "2026-09-25",
+ "old_title": "TikTok to pay £12.7m fine over child data concerns after dropping appeal",
+ "new_title": "TikTok to pay £12.7m fine over child data concerns after dropping appeal",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nSocial media platform TikTok is to pay a £12.7 million fine from the UK data watchdog after dropping an appeal.\nThe Information Commissioner's Office (ICO) imposed the fine in 2023 because TikTok \"did not do enough\" to make sure underage children were not using its platform and ensure that their data was used correctly.\nThe regulator had estimated that up to 1.75 million UK children under 13 used TikTok in 2020 despite it being against the company's rules for children that age to create an account.\nTikTok originally appealed against the fine but has now dropped this, the ICO said, meaning the penalty must be paid.\nEmily Keaney, ICO deputy commissioner, said: \"How companies design online services and use children's personal information has a significant impact on young people's experience in the digital world.\n\"Our successful action against TikTok shows how important it is for companies to have the right protections in place, including to prevent access by children who are not old enough to be using their services.\n\"We have always been clear that this processing was not for the special purposes, and following the Upper Tribunal's decision, we welcome TikTok's withdrawal of its appeals.\"\nTikTok has been contacted for comment.",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nSocial media platform TikTok is to pay a £12.7 million fine from the UK data watchdog after dropping an appeal.\nThe Information Commissioner's Office (ICO) imposed the fine in 2023 because TikTok \"did not do enough\" to make sure underage children were not using its platform and ensure that their data was used correctly.\nThe regulator had estimated that up to 1.75 million UK children under 13 used TikTok in 2020 despite it being against the company's rules for children that age to create an account.\nTikTok originally appealed against the fine but has now dropped this, the ICO said, meaning the penalty must be paid.\nThe ICO also said that TikTok has withdrawn an appeal against the regulator's information notice requesting details from the company about how it processes the personal information of 13-17-year-olds in its recommender systems.\nThe appeal had stopped the ICO from progressing in its investigation about these systems.\nRecommender systems are used by social media platforms to profile users and recommend content based on their online activity.\nEmily Keaney, ICO deputy commissioner, said: \"How companies design online services and use children's personal information has a significant impact on young people's experience in the digital world.\n\"Our successful action against TikTok shows how important it is for companies to have the right protections in place, including to prevent access by children who are not old enough to be using their services.\n\"We have always been clear that this processing was not for the special purposes, and following the Upper Tribunal's decision, we welcome TikTok's withdrawal of its appeals.\"\nA TikTok spokesman said: \"Whilst we disagree with the ICO's 2023 decision, its findings relate to a historical period, May 2018 - July 2020, and do not reflect the many youth safety measures and policies we have implemented since then.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "now dropped this, the ICO said, meaning the penalty must be paid."
+    ],
+    [
+     "ins",
+     "The ICO also said that TikTok has withdrawn an appeal against the regulator's information notice requesting details from the company about how it processes the personal information of 13-17-year-olds in its recommender systems. The appeal had stopped the ICO from progressing in its investigation about these systems. Recommender systems are used by social media platforms to profile users and recommend content based on their online activity."
+    ],
+    [
+     "eq",
+     "Emily Keaney, ICO deputy commissioner, said: \"How companies design online services and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "following the Upper Tribunal's decision, we welcome TikTok's withdrawal of its appeals.\""
+    ],
+    [
+     "ins",
+     "A"
+    ],
+    [
+     "eq",
+     "TikTok"
+    ],
+    [
+     "del",
+     "has been contacted for comment."
+    ],
+    [
+     "ins",
+     "spokesman said: \"Whilst we disagree with the ICO's 2023 decision, its findings relate to a historical period, May 2018 - July 2020, and do not reflect the many youth safety measures and policies we have implemented since then.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4681,
+  "numbers_changed": [
+   "13",
+   "17",
+   "2018",
+   "2020",
+   "2023"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.012,
+ "similarity": 0.9513,
+ "adjudicated_by": "rules"
+}

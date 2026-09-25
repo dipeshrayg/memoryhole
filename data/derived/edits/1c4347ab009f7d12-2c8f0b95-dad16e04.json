@@ -1,0 +1,52 @@
+{
+ "id": "1c4347ab009f7d12-2c8f0b95-dad16e04",
+ "url": "https://www.bbc.co.uk/sport/tennis/articles/cmvgy73zvwx1o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-09-25T11:43:21Z",
+ "date": "2026-09-25",
+ "old_title": "Laver Cup 2026: Carlos Alcaraz on US Open run, injury and Jannik Sinner rivalry",
+ "new_title": "Laver Cup 2026: Carlos Alcaraz on US Open run, injury and Jannik Sinner rivalry",
+ "old_text": "- Published\nMost players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling.\nCarlos Alcaraz is not most players.\nAfter his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face.\nAlcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day.\nHe did not defend his French Open title or compete at Wimbledon, and did not know if he would play in New York until a week before.\n\"The quarter-final was great - it was a gift for me,\" Alcaraz told BBC Sport before this week's Laver Cup in London.\n\"I suffered, but I enjoyed and that's why I smiled when I walked out of the court because I missed that feeling.\"\nThe match against Shelton was the latest finish in the tournament's history, and was one of several matches at Flushing Meadows to finish in the early hours.\nEventual champion Alexander Zverev finished past 1am in three of his first five matches, while Venus Williams finished her first-round match at 2am.\n\"I think it's too much,\" Alcaraz said of playing so late.\n\"The last match people stayed but if that match was played earlier, the court could have been packed.\n\"I would like to change the schedule a little with a maximum finish at 11pm or whatever would be better.\"\nAlcaraz, 23, is one of a number of players to have missed large chunks of the season with injury.\nBritain's Jack Draper has had a lengthy struggle with an arm injury, ultimately ending his season early to recover, while Alcaraz's rival Jannik Sinner missed the US Open with a knee injury.\nThe Spaniard said at the US Open that he will miss some tournaments in the future to allow himself to be \"mentally and physically healthy\".\nHe will compete for Team Europe in the Laver Cup at The O2 in London this week, between 25-27 September.\nThe team tournament pits Europe - captained by Yannick Noah - against a United States team overseen by Andre Agassi.\n\"When you have your team-mates, the best in the world, by your side, it's a weird feeling but it's beautiful,\" Alcaraz said.\n\"We played like our lives depend on it. That's why the Laver Cup is so good to watch as well.\"\nAlcaraz and Italy's Sinner split eight Grand Slam titles between them from 2024 and 2025, establishing a generational rivalry in the process.\nThey have only met once this year because of injuries, with Sinner winning their sole meeting in the Monte Carlo Masters final to become world number one.\n\"I have text him not too much, but a few times when he has been winning everything, mostly at the beginning of the year,\" Alcaraz added.\n\"I miss him, I miss seeing him around, playing against him. He pushes me to be a better player.\n\"People will be waiting for those matches, so I think it's going to be better.\"",
+ "new_text": "- Published\nMost players, after seeing their US Open title defence end at 3:34am after five intense sets, would not walk away smiling.\nCarlos Alcaraz is not most players.\nAfter his loss to Ben Shelton - a match that played out over a gruelling four hours and 28 minutes - the Spaniard was filmed walking down the Arthur Ashe tunnel with a huge grin on his face.\nAlcaraz had been competing in his first tournament for over five months after suffering a wrist injury that left him in pain every day.\nHe did not defend his French Open title or compete at Wimbledon, and did not know if he would play in New York until a week before.\n\"The quarter-final was great - it was a gift for me,\" Alcaraz told BBC Sport before this week's Laver Cup in London.\n\"I suffered, but I enjoyed and that's why I smiled when I walked out of the court because I missed that feeling.\"\nThe match against Shelton was the latest finish in the tournament's history, and was one of several matches at Flushing Meadows to finish in the early hours.\nEventual champion Alexander Zverev finished past 1am in three of his first five matches, while Venus Williams finished her first-round match at 2am.\n\"I think it's too much,\" Alcaraz said of playing so late.\n\"The last match people stayed but if that match was played earlier, the court could have been packed.\n\"I would like to change the schedule a little with a maximum finish at 11pm or whatever would be better.\"\nAlcaraz, 23, is one of a number of players to have missed large chunks of the season with injury.\nBritain's Jack Draper has had a lengthy struggle with an arm injury, ultimately ending his season early to recover, while Alcaraz's rival Jannik Sinner missed the US Open with a knee injury.\nThe Spaniard said at the US Open that he will miss some tournaments in the future to allow himself to be \"mentally and physically healthy\".\nHe will compete for Team Europe in the Laver Cup at The O2 in London this week, between 25-27 September.\nThe team tournament pits Europe - captained by Yannick Noah - against a World team overseen by Andre Agassi.\n\"When you have your team-mates, the best in the world, by your side, it's a weird feeling but it's beautiful,\" Alcaraz said.\n\"We played like our lives depend on it. That's why the Laver Cup is so good to watch as well.\"\nAlcaraz and Italy's Sinner split eight Grand Slam titles between them from 2024 and 2025, establishing a generational rivalry in the process.\nThey have only met once this year because of injuries, with Sinner winning their sole meeting in the Monte Carlo Masters final to become world number one.\n\"I have text him not too much, but a few times when he has been winning everything, mostly at the beginning of the year,\" Alcaraz added.\n\"I miss him, I miss seeing him around, playing against him. He pushes me to be a better player.\n\"People will be waiting for those matches, so I think it's going to be better.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "team tournament pits Europe - captained by Yannick Noah - against a"
+    ],
+    [
+     "del",
+     "United States"
+    ],
+    [
+     "ins",
+     "World"
+    ],
+    [
+     "eq",
+     "team overseen by Andre Agassi. \"When you have your team-mates, the best"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0057,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}
