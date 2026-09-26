@@ -1,0 +1,52 @@
+{
+ "id": "eb7749e791baf5ca-7461adb2-68d3f4f9",
+ "url": "https://www.dw.com/en/volkswagen-audi-to-recall-almost-1-million-cars-in-germany/a-79426960?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-26T11:10:06Z",
+ "date": "2026-09-26",
+ "old_title": "Volkswagen, Audi to recall almost 1 million cars in Germany",
+ "new_title": "Volkswagen, Audi to recall almost 1 million cars in Germany",
+ "old_text": "Germany auto firm Volkswagen (VW) and its daughter company Audi are to recall nearly a million vehicles in Germany due to steering problems, according to German media reports.\nThe KBA road traffic authority was cited by the t-online news portal as saying that the recall was required due to potential bolt failures that could damage the steering gearbox or, in some cases, cause a complete loss of steering.\nThe bolts are to be replaced with ones resistant to corrosion caused by humidity.\nAutor Motor Sport magazine reported that VW believed the steering issue would impact only a smaller proportion of the recalled vehicles.\nThe company said there were no known cases of accidents or injuries caused by the possible bolt failure.\nAccording to KBA, the VW models Tiguan, Touran, Golf Variant, Caddy und Golf produced between September 24, 2013, and July 1, 2024, are impacted by the recall.\nThis is equivalent to around 900,000 vehicles in Germany and 2.16 million around the world.\nFor Audi, the model in question is the Q3, with 700,000 vehicles around the world impacted, including 58,555 in Germany.\nThe recall comes as VW grapples with dwindling sales in recent years, with the firm laying off tens of thousands of staff and shrinking plants in order to cut costs.\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google so you'll always see our verified news first.\nEdited by: Sean Sinico",
+ "new_text": "Germany auto firm Volkswagen (VW) and its subsidiary Audi are to recall nearly a million vehicles in Germany due to steering problems, according to German media reports.\nThe KBA road traffic authority was cited by the t-online news portal as saying that the recall was required due to potential bolt failures that could damage the steering gearbox or, in some cases, cause a complete loss of steering.\nThe bolts are to be replaced with ones resistant to corrosion caused by humidity.\nAutor Motor Sport magazine reported that VW believed the steering issue would impact only a smaller proportion of the recalled vehicles.\nThe company said there were no known cases of accidents or injuries caused by the possible bolt failure.\nAccording to KBA, the VW models Tiguan, Touran, Golf Variant, Caddy und Golf produced between September 24, 2013, and July 1, 2024, are impacted by the recall.\nThis is equivalent to around 900,000 vehicles in Germany and 2.16 million around the world.\nFor Audi, the model in question is the Q3, with 700,000 vehicles around the world impacted, including 58,555 in Germany.\nThe recall comes as VW grapples with dwindling sales in recent years, with the firm laying off tens of thousands of staff and shrinking plants in order to cut costs.\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google so you'll always see our verified news first.\nEdited by: Sean Sinico",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Germany auto firm Volkswagen (VW) and its"
+    ],
+    [
+     "del",
+     "daughter company"
+    ],
+    [
+     "ins",
+     "subsidiary"
+    ],
+    [
+     "eq",
+     "Audi are to recall nearly a million vehicles in Germany due to"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0121,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9979,
+ "adjudicated_by": "rules"
+}

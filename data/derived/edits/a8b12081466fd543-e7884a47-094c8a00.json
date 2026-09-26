@@ -1,0 +1,182 @@
+{
+ "id": "a8b12081466fd543-e7884a47-094c8a00",
+ "url": "https://www.npr.org/2026/09/24/nx-s1-5977855/new-research-suggests-human-actions-could-be-driving-increase-in-disease-outbreaks",
+ "domain": "www.npr.org",
+ "source": "NPR Health",
+ "country": "United States",
+ "category": "health",
+ "lang": "en",
+ "detected_at": "2026-09-26T11:24:12Z",
+ "date": "2026-09-26",
+ "old_title": "New research suggests human actions could be driving increase in disease outbreaks",
+ "new_title": "New research suggests human actions could be driving increase in disease outbreaks",
+ "old_text": "New research suggests human actions could be driving increase in disease outbreaksInfectious disease outbreaks are on the rise worldwide. A new analysis finds human actions, from deforestation to climate change, are partly responsible.\nInfectious disease outbreaks are on the rise worldwide. A new analysis finds human actions, from deforestation to climate change, are partly responsible.\nNPR does not offer or accept money for coverage or interviews.\nAnyone who makes such an offer or request is not an NPR employee and does not represent NPR.",
+ "new_text": "New research suggests human actions could be driving increase in disease outbreaks\nInfectious disease outbreaks are on the rise worldwide. A new analysis finds human actions, from deforestation to climate change, are partly responsible.\nLEILA FADEL, HOST:\nScientists think outbreaks caused by wildlife transmitting infectious diseases to humans are on the rise - outbreaks like Ebola, hantavirus, bird flu and COVID-19. But they're not sure why. New research suggests humans are driving the outbreaks. NPR's Jonathan Lambert reports that how it's happening is complicated.\nJONATHAN LAMBERT, BYLINE: For diseases that come from wildlife, a pathogen has to jump from an animal to a human. Humans don't control those pathogens, of course, but human activity can make those jumps more likely. Cutting down the rainforest, for instance, or buying and selling wildlife can bring humans closer to infection. Colin Carlson is a disease ecologist at Yale University.\nCOLIN CARLSON: We don't really know with pandemic risk, you know, how much of emerging infectious diseases is because we're cutting down the rainforest versus how much of it is because we live in a world with diseases and things happen.\nLAMBERT: Knowing that is crucial to deciding how to prevent the next pandemic - whether to invest heavily in protecting rainforests, regulating the wildlife trade or something else. But figuring this out is tricky. Carlson and his colleagues tried to do it by looking at over 160 countries.\nCARLSON: Our goal was to put together a point on a map for every time we knew somebody got a weird pathogen.\nLAMBERT: They looked at over 50,000 instances of someone getting one of 32 diseases like Ebola, malaria or mpox, then they analyzed what might have influenced those outbreaks - everything from socioeconomic factors like poor health care to climate change and where people and livestock live.\nCARLSON: What we want to know in this study is, you know, what matters most, right? Is it poverty, is it cutting down the rainforest or is it just living near trees and mosquitoes?\nLAMBERT: In broad strokes, the answer was pretty clear.\nCARLSON: It's the trees and mosquitoes.\nLAMBERT: Specifically, they found that outbreaks can happen anywhere people and livestock are living alongside nature. Such landscapes are common in places as varied as Missouri or the Democratic Republic of Congo.\nCARLSON: It makes sense that what we find is where people live alongside nature, they get sick.\nLAMBERT: They found that big drivers like climate change or deforestation mattered, but not in the same way for every disease. Climate change, for instance, is clearly influencing where mosquito-borne disease outbreaks happen, but not necessarily diseases like Ebola or mpox, which transmit differently. Carlson thinks the study, published in the journal Nature, pushes back against conventional wisdom.\nCARLSON: There's a really popular narrative, I think, that pandemics happen because we are out of balance with nature.\nLAMBERT: He says that's reinforced the idea that if people just stop cutting down forests, it will prevent pandemics. He thinks that will help reduce the risk for some diseases, but not all. Raina Plowright, a disease ecologist at Cornell University, was impressed by the study but wasn't really surprised by the results.\nRAINA PLOWRIGHT: We shouldn't expect one environmental driver to explain them all.\nLAMBERT: But she says this kind of big global analysis might miss some of the more nuanced ways that, say, deforestation influences disease risk.\nPLOWRIGHT: If a big global analysis doesn't find a consistent signal of something like deforestation, it doesn't mean deforestation is not important.\nLAMBERT: The analysis did capture another key factor that Plowright does buy - the importance of being close to health care.\nCARLSON: For every hour that you travel from a clinic, the probability of an outbreak being detected goes down by about one-third. That's insane.\nLAMBERT: In a world where many people live much farther than an hour from a clinic, Carlson says this result underlines the need to invest in better health care. That might help prevent the next spillover from becoming a pandemic.\nJonathan Lambert, NPR News.\n(SOUNDBITE OF LETTUCE'S \"PHYLLIS\")\nCopyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.\nAccuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR's programming is the audio record.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "New research suggests human actions could be driving increase in disease"
+    ],
+    [
+     "del",
+     "outbreaksInfectious disease"
+    ],
+    [
+     "eq",
+     "outbreaks"
+    ],
+    [
+     "del",
+     "are on the rise worldwide. A new analysis finds human actions, from deforestation to climate change, are partly responsible."
+    ],
+    [
+     "eq",
+     "Infectious disease outbreaks are on the rise worldwide. A new analysis finds human actions, from deforestation to climate change, are partly responsible."
+    ],
+    [
+     "del",
+     "NPR does"
+    ],
+    [
+     "ins",
+     "LEILA FADEL, HOST: Scientists think outbreaks caused by wildlife transmitting infectious diseases to humans are on the rise - outbreaks like Ebola, hantavirus, bird flu and COVID-19. But they're"
+    ],
+    [
+     "eq",
+     "not"
+    ],
+    [
+     "del",
+     "offer"
+    ],
+    [
+     "ins",
+     "sure why. New research suggests humans are driving the outbreaks. NPR's Jonathan Lambert reports that how it's happening is complicated. JONATHAN LAMBERT, BYLINE: For diseases that come from wildlife, a pathogen has to jump from an animal to a human. Humans don't control those pathogens, of course, but human activity can make those jumps more likely. Cutting down the rainforest, for instance,"
+    ],
+    [
+     "eq",
+     "or"
+    ],
+    [
+     "del",
+     "accept money"
+    ],
+    [
+     "ins",
+     "buying and selling wildlife can bring humans closer to infection. Colin Carlson is a disease ecologist at Yale University. COLIN CARLSON: We don't really know with pandemic risk, you know, how much of emerging infectious diseases is because we're cutting down the rainforest versus how much of it is because we live in a world with diseases and things happen. LAMBERT: Knowing that is crucial to deciding how to prevent the next pandemic - whether to invest heavily in protecting rainforests, regulating the wildlife trade or something else. But figuring this out is tricky. Carlson and his colleagues tried to do it by looking at over 160 countries. CARLSON: Our goal was to put together a point on a map"
+    ],
+    [
+     "eq",
+     "for"
+    ],
+    [
+     "del",
+     "coverage"
+    ],
+    [
+     "ins",
+     "every time we knew somebody got a weird pathogen. LAMBERT: They looked at over 50,000 instances of someone getting one of 32 diseases like Ebola, malaria"
+    ],
+    [
+     "eq",
+     "or"
+    ],
+    [
+     "del",
+     "interviews. Anyone who"
+    ],
+    [
+     "ins",
+     "mpox, then they analyzed what might have influenced those outbreaks - everything from socioeconomic factors like poor health care to climate change and where people and livestock live. CARLSON: What we want to know in this study is, you know, what matters most, right? Is it poverty, is it cutting down the rainforest or is it just living near trees and mosquitoes? LAMBERT: In broad strokes, the answer was pretty clear. CARLSON: It's the trees and mosquitoes. LAMBERT: Specifically, they found that outbreaks can happen anywhere people and livestock are living alongside nature. Such landscapes are common in places as varied as Missouri or the Democratic Republic of Congo. CARLSON: It"
+    ],
+    [
+     "eq",
+     "makes"
+    ],
+    [
+     "del",
+     "such an offer"
+    ],
+    [
+     "ins",
+     "sense that what we find is where people live alongside nature, they get sick. LAMBERT: They found that big drivers like climate change"
+    ],
+    [
+     "eq",
+     "or"
+    ],
+    [
+     "del",
+     "request"
+    ],
+    [
+     "ins",
+     "deforestation mattered, but not in the same way for every disease. Climate change, for instance, is clearly influencing where mosquito-borne disease outbreaks happen, but not necessarily diseases like Ebola or mpox, which transmit differently. Carlson thinks the study, published in the journal Nature, pushes back against conventional wisdom. CARLSON: There's a really popular narrative, I think, that pandemics happen because we are out of balance with nature. LAMBERT: He says that's reinforced the idea that if people just stop cutting down forests, it will prevent pandemics. He thinks that will help reduce the risk for some diseases, but not all. Raina Plowright, a disease ecologist at Cornell University, was impressed by the study but wasn't really surprised by the results. RAINA PLOWRIGHT: We shouldn't expect one environmental driver to explain them all. LAMBERT: But she says this kind of big global analysis might miss some of the more nuanced ways that, say, deforestation influences disease risk. PLOWRIGHT: If a big global analysis doesn't find a consistent signal of something like deforestation, it doesn't mean deforestation"
+    ],
+    [
+     "eq",
+     "is not"
+    ],
+    [
+     "ins",
+     "important. LAMBERT: The analysis did capture another key factor that Plowright does buy - the importance of being close to health care. CARLSON: For every hour that you travel from a clinic, the probability of"
+    ],
+    [
+     "eq",
+     "an"
+    ],
+    [
+     "ins",
+     "outbreak being detected goes down by about one-third. That's insane. LAMBERT: In a world where many people live much farther than an hour from a clinic, Carlson says this result underlines the need to invest in better health care. That might help prevent the next spillover from becoming a pandemic. Jonathan Lambert,"
+    ],
+    [
+     "eq",
+     "NPR"
+    ],
+    [
+     "del",
+     "employee"
+    ],
+    [
+     "ins",
+     "News. (SOUNDBITE OF LETTUCE'S \"PHYLLIS\") Copyright © 2026 NPR. All rights reserved. Visit our website terms of use"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "does not represent NPR."
+    ],
+    [
+     "ins",
+     "permissions pages at www.npr.org for further information. Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR's programming is the audio record."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 8.8095,
+  "numbers_changed": [
+   "160",
+   "19",
+   "2026",
+   "32",
+   "50,000"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 7,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.9,
+ "similarity": 0.7754,
+ "adjudicated_by": "rules"
+}

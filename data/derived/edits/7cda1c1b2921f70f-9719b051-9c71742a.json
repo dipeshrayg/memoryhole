@@ -1,0 +1,68 @@
+{
+ "id": "7cda1c1b2921f70f-9719b051-9c71742a",
+ "url": "https://www.independent.co.uk/arts-entertainment/tv/news/tom-cruise-william-kate-middleton-digger-premiere-b3056351.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-26T11:13:04Z",
+ "date": "2026-09-26",
+ "old_title": "Tom Cruise's two-word reaction after William and Kate join him at Digger premiere",
+ "new_title": "Tom Cruise has two words to describe William and Kate after Digger premiere",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nTom Cruise described the Prince and Princess of Wales as \"charismatic\" after they joined him at the premiere for his latest feature Digger.\nWilliam and Kate were present at Tuesday's central London screening, an occasion that also served as a royal film performance - an exclusive gathering showcasing the contributions of off-screen personnel across the UK film and TV industry.\nThe 64-year-old actor was accompanied on the black carpet by figures including Sir David Beckham and actor Riz Ahmed.\nAppearing on The Graham Norton Show to talk about the occasion, Cruise remarked that he had enjoyed having the royals there.\nHe described the couple as \"amazing\" and \"charismatic\". \"I had such a good time,\" he said.\nDuring the premiere, a smiling Cruise commented \"great jacket\" as William walked towards him wearing a tuxedo with a striking, double-breasted, velvet jacket and bow tie.\nKate wore a purple, floor-sweeping, Jenny Packham dress accessorised with Diana, Princess of Wales's earrings and the Queen Mother's amethyst sautoir necklace.\nOn the season return of Norton's talk show, Cruise also explained the extensive transformation he had to undergo using prosthetics for Digger.\n\"Let me make it clear - none of that is me,\" he said.\n\"The make-up was taking so long that I decided to get it down from six hours to one - it was like a ballet getting everything in place. It was just like Formula 1. I had someone else hold the stopwatch.\"\nThe actor stars opposite Ahmed, Sandra Huller and Jesse Plemons in the film, in which he plays an oil tycoon whose company sets off an ecological disaster before being tasked with a mission to save humanity from his own mess.\nHe continued: \"My character is outrageous and unpredictable. He says things that others may be thinking and never say. It's a timeless story about power, greed, and ego framed in a very timely manner by Alejandro G Inarritu - one of the greatest filmmakers of all time.\n\"I've never read a script like it, and I have never seen a character like Digger.\"\nCruise also told Norton about his childhood dream to have an \"adventurous life\".\nHe said: \"I am always doing something, learning something new which I can add to characters. I want to push every artform. I love the challenge of doing one thing while working on another. To create is life.\"\nInarritu has previously won two Oscars for best director for Birdman and The Revenant.\nThis will be Cruise's first film since the 2025 release of Mission Impossible: The Final Reckoning.\nDigger will be released in cinemas on October 2.\nThe Graham Norton Show airs at 10.40pm on Friday on BBC One.",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nTom Cruise described the Prince and Princess of Wales as \"amazing\" and \"charismatic\" after they joined him at the premiere for his latest feature Digger.\nWilliam and Kate were present at Tuesday's central London screening, an occasion that also served as a royal film performance - an exclusive gathering showcasing the contributions of off-screen personnel across the UK film and TV industry.\nThe 64-year-old actor was accompanied on the black carpet by figures including Sir David Beckham and actor Riz Ahmed.\nAppearing on The Graham Norton Show to talk about the occasion, Cruise remarked that he had enjoyed having the royals there.\nHe described the couple as \"amazing\" and \"charismatic\".\n\"I had such a good time,\" he said.\nDuring the premiere, a smiling Cruise commented \"great jacket\" as William walked towards him wearing a tuxedo with a striking, double-breasted, velvet jacket and bow tie.\nKate wore a purple, floor-sweeping, Jenny Packham dress accessorised with Diana, Princess of Wales's earrings and the Queen Mother's amethyst sautoir necklace.\nOn the season return of Norton's talk show, Cruise also explained the extensive transformation he had to undergo using prosthetics for Digger.\n\"Let me make it clear - none of that is me,\" he said.\n\"The make-up was taking so long that I decided to get it down from six hours to one - it was like a ballet getting everything in place. It was just like Formula 1. I had someone else hold the stopwatch.\"\nThe actor stars opposite Ahmed, Sandra Huller and Jesse Plemons in the film, in which he plays an oil tycoon whose company sets off an ecological disaster before being tasked with a mission to save humanity from his own mess.\nHe continued: \"My character is outrageous and unpredictable. He says things that others may be thinking and never say. It's a timeless story about power, greed, and ego framed in a very timely manner by Alejandro G Inarritu - one of the greatest filmmakers of all time.\n\"I've never read a script like it, and I have never seen a character like Digger.\"\nCruise also told Norton about his childhood dream to have an \"adventurous life\".\nHe said: \"I am always doing something, learning something new which I can add to characters. I want to push every artform. I love the challenge of doing one thing while working on another. To create is life.\"\nInarritu has previously won two Oscars for best director for Birdman and The Revenant.\nThis will be Cruise's first film since the 2025 release of Mission Impossible: The Final Reckoning.\nDigger will be released in cinemas on 2 October.\nThe Graham Norton Show airs at 10.40pm on Friday on BBC One.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Log in Tom Cruise described the Prince and Princess of Wales as"
+    ],
+    [
+     "ins",
+     "\"amazing\" and"
+    ],
+    [
+     "eq",
+     "\"charismatic\" after they joined him at the premiere for his latest feature"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Mission Impossible: The Final Reckoning. Digger will be released in cinemas on"
+    ],
+    [
+     "del",
+     "October 2."
+    ],
+    [
+     "ins",
+     "2 October."
+    ],
+    [
+     "eq",
+     "The Graham Norton Show airs at 10.40pm on Friday on BBC One."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0126,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9862,
+ "adjudicated_by": "rules"
+}

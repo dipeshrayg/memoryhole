@@ -1,0 +1,100 @@
+{
+ "id": "a48add9f4adb5717-7d0d25c6-38048b78",
+ "url": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-26T11:07:15Z",
+ "date": "2026-09-26",
+ "old_title": "Daniel Thomas pleads not guilty after dinghy slashed in Channel",
+ "new_title": "Daniel Thomas pleads not guilty after dinghy slashed in Channel",
+ "old_text": "- Published\nAnti-migrant activist Daniel Thomas has elected for trial at crown court after a video appeared to show him slashing at a dinghy in the Channel with a knife.\nThe 37-year-old, known to his supporters as Danny Tommo, was arrested after the livestreamed video on Tuesday.\nThomas, who appeared at Basingstoke Magistrates' Court in Hampshire via videolink, is also charged with failing to disclose the PIN to his phone.\nHe pleaded not guilty to both charges and was remanded in custody until his next court appearance at Portsmouth Crown Court on 29 September.\nThe court heard a crew member was on the boat while it was heard leaking air.\nProsecutor Kevin Lucie, outlining the facts of the criminal damage charge, told the court that Thomas slashed an adrift boat with a knife and said: \"You are on English territory. This is England. This is not France any more.\"\nDeputy Chief Magistrate Tan Ikram said the case could have been heard in the magistrates' court but Mr Thomas elected to be tried at crown court.\nFar-right activist Stephen Yaxley-Lennon, also known as Tommy Robinson, was among those in the public gallery.\nSome supporters also gathered outside the court.\nPosting on social media after the hearing, Yaxley-Lennon said: \"Danny is being remanded to prison. Bail refused. Outrageous.\n\"His legal team will now prepare to fight at the crown court for his bail.\"\nHampshire police previously said an arrest had been made after a \"boat that had an emergency responder on board\" was damaged in the Channel on Tuesday.\nSeveral hundred people gathered outside a police investigation centre in Basingstoke on Thursday evening, believing that Thomas was inside.\nThe demonstration, which seemed to pass off peacefully, began shortly before 18:30 BST. Protesters stood on the road outside the building and could be heard chanting \"free DT\".\nThe crowd began to disperse at about 21:45 after they learned of the charges against Thomas.",
+ "new_text": "- Published\nAnti-migrant activist Daniel Thomas has pleaded not guilty to criminal damage after a video appeared to show him slashing at a dinghy in the Channel with a knife.\nThe 37-year-old, known to his supporters as Danny Tommo, was arrested after the livestreamed video on Tuesday.\nThomas, who appeared at Basingstoke Magistrates' Court in Hampshire via videolink, is also charged with failing to disclose the PIN to his phone.\nHe pleaded not guilty to both charges and was remanded in custody until his next court appearance at Portsmouth Crown Court on 29 September.\nThe court heard a crew member was on the boat while it was heard leaking air.\nProsecutor Kevin Lucie told the court that Thomas, who was seen dabbing his eyes with a tissue at one point during the hearing, slashed an adrift boat with a knife and said: \"You are on English territory. This is England. This is not France any more.\"\nDeputy Chief Magistrate Tan Ikram said the case could have been heard in the magistrates' court but Mr Thomas elected to be tried at crown court.\nFar-right activist Stephen Yaxley-Lennon, also known as Tommy Robinson, was among those in the public gallery.\nSome supporters also gathered outside the court.\nPosting on social media after the hearing, Yaxley-Lennon said: \"Danny is being remanded to prison.\n\"His legal team will now prepare to fight at the crown court for his bail.\"\nHampshire police previously said an arrest had been made after a \"boat that had an emergency responder on board\" was damaged in the Channel on Tuesday.\nSeveral hundred people gathered outside a police investigation centre in Basingstoke on Thursday evening, believing that Thomas was inside.\nThe demonstration, which seemed to pass off peacefully, began shortly before 18:30 BST. Protesters stood on the road outside the building and could be heard chanting \"free DT\".\nThe crowd began to disperse at about 21:45 after they learned of the charges against Thomas.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published Anti-migrant activist Daniel Thomas has"
+    ],
+    [
+     "del",
+     "elected for trial at crown court"
+    ],
+    [
+     "ins",
+     "pleaded not guilty to criminal damage"
+    ],
+    [
+     "eq",
+     "after a video appeared to show him slashing at a dinghy in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "was on the boat while it was heard leaking air. Prosecutor Kevin"
+    ],
+    [
+     "del",
+     "Lucie, outlining the facts of the criminal damage charge,"
+    ],
+    [
+     "ins",
+     "Lucie"
+    ],
+    [
+     "eq",
+     "told the court that"
+    ],
+    [
+     "del",
+     "Thomas"
+    ],
+    [
+     "ins",
+     "Thomas, who was seen dabbing his eyes with a tissue at one point during the hearing,"
+    ],
+    [
+     "eq",
+     "slashed an adrift boat with a knife and said: \"You are on"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "media after the hearing, Yaxley-Lennon said: \"Danny is being remanded to prison."
+    ],
+    [
+     "del",
+     "Bail refused. Outrageous."
+    ],
+    [
+     "eq",
+     "\"His legal team will now prepare to fight at the crown court"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1313,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 0.9829,
+ "adjudicated_by": "rules"
+}

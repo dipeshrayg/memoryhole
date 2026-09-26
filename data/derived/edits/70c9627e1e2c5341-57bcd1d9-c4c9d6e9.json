@@ -1,0 +1,44 @@
+{
+ "id": "70c9627e1e2c5341-57bcd1d9-c4c9d6e9",
+ "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-26T11:06:46Z",
+ "date": "2026-09-26",
+ "old_title": "Watch: What to expect from this year's UN General Assembly",
+ "new_title": "Watch: What to expect from this year's UN General Assembly",
+ "old_text": "What to expect as world leaders descend on New York - and who won't be there\nWorld leaders have descended on New York for this year's UN General Assembly. The 81st High-Level Week brings together nearly 130 leaders under the theme, âRestoring trust, managing transformation: a United Nations that delivers for all.â\nThe BBCâs Sarah Smith outlines who US President Donald Trump is set to meet and the key topics expected to be on the agenda.",
+ "new_text": "What to expect as world leaders descend on New York - and who won't be there\nWorld leaders have descended on New York for this year's UN General Assembly. The 81st High-Level Week brings together nearly 130 leaders under the theme, âRestoring trust, managing transformation: a United Nations that delivers for all.â\nThe BBCâs Sarah Smith outlines who US President Donald Trump is set to meet and the key topics expected to be on the agenda.\nVideo edited by Mabel Pickering",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "to meet and the key topics expected to be on the agenda."
+    ],
+    [
+     "ins",
+     "Video edited by Mabel Pickering"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0658,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9958,
+ "adjudicated_by": "rules"
+}
