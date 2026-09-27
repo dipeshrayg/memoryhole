@@ -1,0 +1,100 @@
+{
+ "id": "56c938d975354e26-c1842cc5-a6feafb8",
+ "url": "https://www.abc.net.au/news/2026-09-26/iran-offers-deal-to-us-to-reopen-strait-of-hormuz/107199816",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-27T11:49:16Z",
+ "date": "2026-09-27",
+ "old_title": "Iran offers deal to US to reopen Strait of Hormuz",
+ "new_title": "'Trump Strait' post follows Iran offer to reopen peace discussions",
+ "old_text": "Iran offers deal to US to reopen Strait of Hormuz that Donald Trump has reportedly rejected\nIn short:\nIran Foreign Minister Abbas Araghchi says his nation has offered a deal to the US that would reopen the Strait of Hormuz within a week.\nBut US President Donald Trump has already rejected the idea, according to the Wall Street Journal, renaming the waterway \"Trump Strait\" on his Truth Social feed.\nWhat's next?\nIran wants the memorandum of understanding signed in June to form the basis of any future peace agreements with the US and Israel.",
+ "new_text": "Iran offers deal to US to reopen Strait of Hormuz that Donald Trump rejects\nIn short:\nIran Foreign Minister Abbas Araghchi says his nation has offered a deal to the US that would reopen the Strait of Hormuz within a week.\nBut US President Donald Trump rejected the idea when he spoke to reporters at the White House, having earlier called the waterway \"Trump Strait\" on his Truth Social feed.\nWhat's next?\nIran wants the memorandum of understanding signed in June to form the basis of any future peace agreements with the US and Israel.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "offers deal to US to reopen Strait of Hormuz that Donald Trump"
+    ],
+    [
+     "del",
+     "has reportedly rejected"
+    ],
+    [
+     "ins",
+     "rejects"
+    ],
+    [
+     "eq",
+     "In short: Iran Foreign Minister Abbas Araghchi says his nation has offered"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the Strait of Hormuz within a week. But US President Donald Trump"
+    ],
+    [
+     "del",
+     "has already"
+    ],
+    [
+     "eq",
+     "rejected the"
+    ],
+    [
+     "del",
+     "idea, according"
+    ],
+    [
+     "ins",
+     "idea when he spoke"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "ins",
+     "reporters at"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "Wall Street Journal, renaming"
+    ],
+    [
+     "ins",
+     "White House, having earlier called"
+    ],
+    [
+     "eq",
+     "the waterway \"Trump Strait\" on his Truth Social feed. What's next? Iran"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2447,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9845,
+ "adjudicated_by": "rules"
+}

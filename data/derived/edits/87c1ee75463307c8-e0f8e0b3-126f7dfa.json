@@ -1,0 +1,128 @@
+{
+ "id": "87c1ee75463307c8-e0f8e0b3-126f7dfa",
+ "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-09-27T11:55:27Z",
+ "date": "2026-09-27",
+ "old_title": "Bangkok roads submerged as flood disaster declared",
+ "new_title": "Bangkok roads submerged as flood disaster declared",
+ "old_text": "- Published\nA flood emergency disaster has been declared across Bangkok after 48 hours of heavy rain left roads in the Thai capital submerged.\nPeople have been urged to stay at home and those living close to the city's network of canals have been advised to move their belongings to upper floors.\nThunderstorms are common in Thailand at this time of year but extreme weather in recent days has inundated Bangkok's drainage system, causing traffic chaos on roads that are already famously congested.\nThe rain is expected to continue into Sunday, raising fears that more canals could burst their banks.\nSomkid Pheuk-ngam, a 67-year-old who lives near a canal just north of central Bangkok, told the AFP news agency: \"The water keeps coming in. It's hard to go out now. It's like at my waist level now.\n\"I cannot go anywhere. I have been closing my shop for two days now.\"\nShe said water levels in the city appeared to be worse than in 2011, when Bangkok was impacted by nationwide flooding.\nHundreds were killed across Thailand then in an extreme weather event that lasted for three months. So far, no casualties have been reported in Bangkok from this latest flooding.\nThe Thai Meteorological Service has forecast more heavy rain through the week, though the area of low pressure causing the downpours of recent days is expected to move towards central Thailand.\nAll 50 of Bangkok's districts have been declared emergency zones.\nChadchart Sittipunt, the city's governor, said the east of the city had been hardest hit, AFP reported.\nHe continued: \"The rain keeps falling and we are doing our best. We are trying to pump the water out, but the water in canals are full... The risk areas are those who live near canals. Every canal is now filled.\"",
+ "new_text": "- Published\nA flood emergency disaster has been declared across Bangkok after more than 300mm (12in) of rain fell since Thursday, leaving roads in the Thai capital submerged.\nOn Sunday, Bangkok's Metropolitan Authority said the rains have subsided, but canal water levels remain high. The city's governor has warned that the flooding is not yet over.\nPeople have been urged to stay at home and those living close to the city's network of canals have been advised to move their belongings to upper floors.\nThunderstorms are common in Thailand at this time of year but extreme weather in recent days has inundated Bangkok's drainage system, causing traffic chaos on roads that are already famously congested.\nSomkid Pheuk-ngam, a 67-year-old who lives near a canal just north of central Bangkok, told the AFP news agency: \"The water keeps coming in. It's hard to go out now. It's like at my waist level now.\n\"I cannot go anywhere. I have been closing my shop for two days now.\"\nShe said water levels in the city appeared to be worse than in 2011, when Bangkok was impacted by nationwide flooding.\nHundreds were killed across Thailand then in an extreme weather event that lasted for three months. So far, no casualties have been reported in Bangkok from this latest flooding.\nThe Thai Meteorological Service has forecast more heavy rain through the week, though the area of low pressure causing the downpours of recent days is expected to move towards central Thailand.\nAll 50 of Bangkok's districts were declared emergency zones.\nOn Saturday, Chadchart Sittipunt, the city's governor, said the east of the city had been hardest hit, AFP reported.\nHe continued: \"The rain keeps falling and we are doing our best. We are trying to pump the water out, but the water in canals are full... The risk areas are those who live near canals. Every canal is now filled.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published A flood emergency disaster has been declared across Bangkok after"
+    ],
+    [
+     "del",
+     "48 hours"
+    ],
+    [
+     "ins",
+     "more than 300mm (12in)"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "heavy"
+    ],
+    [
+     "eq",
+     "rain"
+    ],
+    [
+     "del",
+     "left"
+    ],
+    [
+     "ins",
+     "fell since Thursday, leaving"
+    ],
+    [
+     "eq",
+     "roads in the Thai capital submerged."
+    ],
+    [
+     "ins",
+     "On Sunday, Bangkok's Metropolitan Authority said the rains have subsided, but canal water levels remain high. The city's governor has warned that the flooding is not yet over."
+    ],
+    [
+     "eq",
+     "People have been urged to stay at home and those living close"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "drainage system, causing traffic chaos on roads that are already famously congested."
+    ],
+    [
+     "del",
+     "The rain is expected to continue into Sunday, raising fears that more canals could burst their banks."
+    ],
+    [
+     "eq",
+     "Somkid Pheuk-ngam, a 67-year-old who lives near a canal just north of"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "is expected to move towards central Thailand. All 50 of Bangkok's districts"
+    ],
+    [
+     "del",
+     "have been"
+    ],
+    [
+     "ins",
+     "were"
+    ],
+    [
+     "eq",
+     "declared emergency zones."
+    ],
+    [
+     "ins",
+     "On Saturday,"
+    ],
+    [
+     "eq",
+     "Chadchart Sittipunt, the city's governor, said the east of the city had"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2067,
+  "numbers_changed": [
+   "12",
+   "300",
+   "48"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9736,
+ "adjudicated_by": "rules"
+}
