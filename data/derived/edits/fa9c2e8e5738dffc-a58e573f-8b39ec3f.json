@@ -1,0 +1,223 @@
+{
+ "id": "fa9c2e8e5738dffc-a58e573f-8b39ec3f",
+ "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-28T13:23:07Z",
+ "date": "2026-09-28",
+ "old_title": "Two mass shootings in South Africa leave 27 dead",
+ "new_title": "Two mass shootings in South Africa leave 28 dead",
+ "old_text": "- Published\nTwenty-seven people have been killed in two mass shootings hours apart in South Africa, the latest gun violence to hit the country.\nSeventeen people were killed when eight gunmen stormed a bar close to Johannesburg on Saturday evening, with 15 more injured.\nIn a separate shooting in the early hours of Sunday morning, 10 people were killed outside an entertainment venue in a township near Cape Town and a further 11 were injured.\nSouth Africa has one of the highest murder rates in the world and has struggled to contain gang-related gun violence in recent years. Police have not indicated a motive for either of the latest attacks.\nIn Johannesburg, gunmen opened fire on customers outside the bar before continuing the attack inside and torching two vehicles before fleeing.\nPolice said thirteen men and four women were killed.\nDeputy provincial police commissioner Maj Gen Fred Kekana said the attack may have been a retaliation for an incident last month, in which one person was killed and another wounded, according to AFP news agency.\nSpeaking at the scene, he said police had clear pictures and in some cases names for the suspects.\nIn Cape Town, five victims died at the scene and a further five people died in hospital.\nNo arrests had been made in either case on Sunday morning.\nThe two mass shootings came days after 11 people were killed in the city of Durban when gunmen stormed a house in the KwaMakhutha township.\nIllegal weapons are prevalent in South Africa and gun violence has been a persistent problem for decades, with about 60 murders recorded every day in the country of 62 million.\nBut a recent spate of mass shootings has raised fears that the problem is deepening, with violence often linked to turf wars between gangs engaged in drug trafficking and illegal mining.\nIn February, President Cyril Ramaphosa called organised crime \"the most immediate threat to our democracy, our society and our economic development\".\nEarlier this year the military was deployed alongside police in areas with the highest murder rates in an effort to reduce armed violence.\nOn Saturday a tenth woman's body was found in Ekurhuleni, to the east of Johannesburg, with local police saying they were unable to rule out a serial killer operating in the area with similarities between the deaths.",
+ "new_text": "- Published\nTwenty-eight people have been killed in two mass shootings hours apart in South Africa, the latest gun violence to hit the country.\nEighteen people were killed when eight gunmen stormed a bar close to Johannesburg on Saturday evening, with 14 more injured.\nIn a separate shooting in the early hours of Sunday morning, 10 people were killed outside an entertainment venue in a township near Cape Town and a further 11 were injured.\nSouth Africa has one of the highest murder rates in the world and has struggled to contain gang-related gun violence in recent years. Police have not given a definitive motive for either of the latest attacks.\nIn Johannesburg, gunmen opened fire on customers outside the bar before continuing the attack inside and torching two vehicles before fleeing.\nPolice said only four of those killed have been identified so far.\nGauteng Police Commissioner Lt Gen Tommy Mthombeni said people from Ethiopia and Lesotho were among those caught up in the shooting, but that the vast majority were South African.\nHe also said police believed the motive behind the shooting was robbery, as personal belongings had been taken, but that they could not rule out turf wars between illegal mining groups.\nMining without permission in abandoned shafts or dump sites is a persistent problem in South Africa, causing numerous deaths from unsafe conditions. Authorities say the miners are typically undocumented migrants recruited by organised crime gangs.\nEarlier, deputy provincial police commissioner Maj Gen Fred Kekana said the attack may have been a retaliation for an incident last month, in which one person was killed and another wounded, according to news agency AFP.\nHe said at the scene that police had clear pictures and in some cases names for the suspects.\nIn Cape Town, five victims died at the scene and a further five people died in hospital.\nNo arrests had been made in either case on Sunday morning.\nThe two mass shootings came days after 11 people were killed in the city of Durban when gunmen stormed a house in the KwaMakhutha township.\nIllegal weapons are prevalent in South Africa and gun violence has been a persistent problem for decades, with about 60 murders recorded every day in the country of 62 million.\nBut a recent spate of mass shootings has raised fears that the problem is deepening, with violence often linked to turf wars between gangs engaged in drug trafficking and illegal mining.\nIn February, President Cyril Ramaphosa called organised crime \"the most immediate threat to our democracy, our society and our economic development\".\nEarlier this year, the military was deployed alongside police in areas with the highest murder rates in an effort to reduce armed violence.\nOn Saturday, a tenth woman's body was found in Ekurhuleni, to the east of Johannesburg, with local police saying they were unable to rule out a serial killer operating in the area with similarities between the deaths.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "Twenty-seven"
+    ],
+    [
+     "ins",
+     "Twenty-eight"
+    ],
+    [
+     "eq",
+     "people have been killed in two mass shootings hours apart in South Africa, the latest gun violence to hit the country."
+    ],
+    [
+     "del",
+     "Seventeen"
+    ],
+    [
+     "ins",
+     "Eighteen"
+    ],
+    [
+     "eq",
+     "people were killed when eight gunmen stormed a bar close to Johannesburg on Saturday evening, with"
+    ],
+    [
+     "del",
+     "15"
+    ],
+    [
+     "ins",
+     "14"
+    ],
+    [
+     "eq",
+     "more injured. In a separate shooting in the early hours of Sunday"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "struggled to contain gang-related gun violence in recent years. Police have not"
+    ],
+    [
+     "del",
+     "indicated"
+    ],
+    [
+     "ins",
+     "given"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "ins",
+     "definitive"
+    ],
+    [
+     "eq",
+     "motive for either of the latest attacks. In Johannesburg, gunmen opened fire"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "continuing the attack inside and torching two vehicles before fleeing. Police said"
+    ],
+    [
+     "del",
+     "thirteen men"
+    ],
+    [
+     "ins",
+     "only four of those killed have been identified so far. Gauteng Police Commissioner Lt Gen Tommy Mthombeni said people from Ethiopia"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "four women"
+    ],
+    [
+     "ins",
+     "Lesotho"
+    ],
+    [
+     "eq",
+     "were"
+    ],
+    [
+     "del",
+     "killed. Deputy"
+    ],
+    [
+     "ins",
+     "among those caught up in the shooting, but that the vast majority were South African. He also said police believed the motive behind the shooting was robbery, as personal belongings had been taken, but that they could not rule out turf wars between illegal mining groups. Mining without permission in abandoned shafts or dump sites is a persistent problem in South Africa, causing numerous deaths from unsafe conditions. Authorities say the miners are typically undocumented migrants recruited by organised crime gangs. Earlier, deputy"
+    ],
+    [
+     "eq",
+     "provincial police commissioner Maj Gen Fred Kekana said the attack may have"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "month, in which one person was killed and another wounded, according to"
+    ],
+    [
+     "del",
+     "AFP"
+    ],
+    [
+     "eq",
+     "news"
+    ],
+    [
+     "del",
+     "agency. Speaking"
+    ],
+    [
+     "ins",
+     "agency AFP. He said"
+    ],
+    [
+     "eq",
+     "at the"
+    ],
+    [
+     "del",
+     "scene, he said"
+    ],
+    [
+     "ins",
+     "scene that"
+    ],
+    [
+     "eq",
+     "police had clear pictures and in some cases names for the suspects."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "threat to our democracy, our society and our economic development\". Earlier this"
+    ],
+    [
+     "del",
+     "year"
+    ],
+    [
+     "ins",
+     "year,"
+    ],
+    [
+     "eq",
+     "the military was deployed alongside police in areas with the highest murder rates in an effort to reduce armed violence. On"
+    ],
+    [
+     "del",
+     "Saturday"
+    ],
+    [
+     "ins",
+     "Saturday,"
+    ],
+    [
+     "eq",
+     "a tenth woman's body was found in Ekurhuleni, to the east of"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3505,
+  "numbers_changed": [
+   "14",
+   "15"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.105,
+ "similarity": 0.8108,
+ "adjudicated_by": "rules"
+}

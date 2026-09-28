@@ -1,0 +1,44 @@
+{
+ "id": "aab26a16aaf289e3-c0e3607a-449450f5",
+ "url": "https://www.dw.com/en/iran-sticks-to-hormuz-plan-after-trump-rejects-it/a-79447432?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-28T13:25:35Z",
+ "date": "2026-09-28",
+ "old_title": "Iran sticks to Hormuz plan after Trump rejects it",
+ "new_title": "Iran sticks to Hormuz plan after Trump rejects it",
+ "old_text": "Iran on Sunday insisted on its conditions for reopeningthe Strait of Hormuz, despite US President Donald Trump's public rejection of the proposal that had birthed some hope for reopening the key waterway.\n\"Our conditions are clear, and any move toward reopening the Strait of Hormuz is contingent upon these conditions being fulfilled. We will not back down from them,\" Foreign Minister Abbas Araghchi said on Sunday, according to state broadcaster IRIB.\n\"We have never closed the door to diplomacy or negotiations, but at the same time, we have never backed down from our rights,\" he said.\nIran proposed a seven-day plan aimed at reopening the strategic waterway at the UN General Assembly in New York, which it said could put an end to fighting within days.\nTehran said it had transmitted the proposal to Washington via Qatari mediators.\nIran's plan, Araghchi said, called for cessation of all hostilities in the Middle East, including Lebanon, and fulfilling the conditions of the ceasefire deal that fell apart months ago. That agreement called for the release of frozen Iranian assets, lifting of sanctions on Iranian oil and an end to the US naval blockade.\nTrump rejects plan, but no communication to Iran\nTrump publicly rejected Iran's proposal on Saturday while speaking to reporters at the White House.\n\"I reject their proposal ... I rejected their deal,\" he said. \"They want to make a deal where they open the Strait immediately because they're losing so badly.\"\nResponding to Trump's comments, Araghchi said Iranians \"saw the first reaction from the US president, but so far, nothing has been conveyed to us by the mediators.\"\n\"We are waiting for the mediators to convey the definitive positions to us, and we will make a decision based on them,\" the foreign minister added.\nThe strait stalemate\nIranian ports are currently under a US blockade as Washington attempts to pressure Tehran into lifting its closure of the Strait of Hormuz. The key waterway remains largely shut to international shipping despite Trump's claims that the US controls it.\nEarly Sunday, the Persian Gulf Strait Authority (PGSA) - set up by Iran to manage the Strait of Hormuz - warned ships of consequences if they use \"illegal routes\" in the region.\n\"This risks financial and life losses for the vessel, owner, master and crew, and seriously restricts its future Strait of Hormuz passage,\" it said in a post on X.\nThe authority said if ships breach its rules, all vessels belonging to the company could face restrictions in the future.\nAround a fifth of global oil demand passed through the Strait of Hormuz before the war began. The waterway is also a crucial route for liquefied natural gas and fertilizer.\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.\nEdited by: Sean Sinico",
+ "new_text": "Iran on Sunday insisted on its conditions for reopeningthe Strait of Hormuz, despite US President Donald Trump's public rejection of the proposal that had birthed some hope for reopening the key waterway.\n\"Our conditions are clear, and any move toward reopening the Strait of Hormuz is contingent upon these conditions being fulfilled. We will not back down from them,\" Foreign Minister Abbas Araghchi said on Sunday, according to state broadcaster IRIB.\n\"We have never closed the door to diplomacy or negotiations, but at the same time, we have never backed down from our rights,\" he said.\nIran proposed a seven-day plan aimed at reopening the strategic waterway at the UN General Assembly in New York, which it said could put an end to fighting within days.\nTehran said it had transmitted the proposal to Washington via Qatari mediators.\nIran's plan, Araghchi said, called for cessation of all hostilities in the Middle East, including Lebanon, and fulfilling the conditions of the ceasefire deal that fell apart months ago. That agreement called for the release of frozen Iranian assets, lifting of sanctions on Iranian oil and an end to the US naval blockade.\nTrump rejects plan, but no communication to Iran\nTrump publicly rejected Iran's proposal on Saturday while speaking to reporters at the White House.\n\"I reject their proposal ... I rejected their deal,\" he said. \"They want to make a deal where they open the Strait immediately because they're losing so badly.\"\nResponding to Trump's comments, Araghchi said Iranians \"saw the first reaction from the US president, but so far, nothing has been conveyed to us by the mediators.\"\n\"We are waiting for the mediators to convey the definitive positions to us, and we will make a decision based on them,\" the foreign minister added.\nThe strait stalemate\nIranian ports are currently under a US blockade as Washington attempts to pressure Tehran into lifting its closure of the Strait of Hormuz. The key waterway remains largely shut to international shipping despite Trump's claims that the US controls it.\nEarly Sunday, the Persian Gulf Strait Authority (PGSA) - set up by Iran to manage the Strait of Hormuz - warned ships of consequences if they use \"illegal routes\" in the region.\n\"This risks financial and life losses for the vessel, owner, master and crew, and seriously restricts its future Strait of Hormuz passage,\" it said in a post on X.\nThe authority said if ships breach its rules, all vessels belonging to the company could face restrictions in the future.\nAround a fifth of global oil demand passed through the Strait of Hormuz before the war began. The waterway is also a crucial route for liquefied natural gas and fertilizer.\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "\"star\" or \"preferred\" button, so you'll always see our verified news first."
+    ],
+    [
+     "del",
+     "Edited by: Sean Sinico"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.008,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

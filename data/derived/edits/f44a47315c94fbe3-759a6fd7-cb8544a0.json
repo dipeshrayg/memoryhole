@@ -1,0 +1,48 @@
+{
+ "id": "f44a47315c94fbe3-759a6fd7-cb8544a0",
+ "url": "https://www.bbc.co.uk/sport/athletics/articles/c6rr4y59n0r0o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-09-28T13:34:14Z",
+ "date": "2026-09-28",
+ "old_title": "Berlin Marathon: Tigst Assefa wins but injury halts world record time",
+ "new_title": "Berlin Marathon: Tigst Assefa wins but injury halts world record time",
+ "old_text": "- Published\nAn injured Tigst Assefa hobbled over the line at the Berlin Marathon on Sunday after looking set to smash the women's world record.\nThe Ethiopian still won with the third-fastest time in history in two hours 11 minutes four seconds.\nBut the 29-year-old, a silver medallist at the Paris Olympics two years ago, had been cruising to a new record before fading in the final stages.\nKenyan athlete Ruth Chepngetich's time of 2:09:56, set at the 2024 Chicago Marathon, remains the world record time, though that result is overshadowed by the three-year doping ban she received in 2025.\nAssefa, the 2026 London Marathon winner, started rapidly and led the field by a minute at the 15km mark. She was ahead of the record pace at 35km and is a renowned fast finisher - but began to suffer clear discomfort and her pace slowed.\nHowever she still broke the Berlin course record of 2:11:53 that she set in 2023 - which was also her previous personal best.\nIn addition, she improved on her time of 2:15:41 at the London Marathon earlier this year.\nThe top five finishers were all from Ethiopia, with Bedatu Hirpa second and Dera Dida third.\nGuye Adola - another Ethiopian - won the men's race with a time of 2:02:50.",
+ "new_text": "- Published\nAn injured Tigst Assefa hobbled over the line at the Berlin Marathon on Sunday after looking set to smash the women's world record.\nThe Ethiopian still won with the third-fastest time in history in two hours 11 minutes four seconds.\nBut the 29-year-old, a silver medallist at the Paris Olympics two years ago, had been cruising to a new record before fading in the final stages.\nKenyan athlete Ruth Chepngetich's time of 2:09:56, set at the 2024 Chicago Marathon, remains the world record time, though that result is overshadowed by the three-year doping ban she received in 2025.\nAssefa, the 2026 London Marathon winner, started rapidly and led the field by a minute at the 15km mark. She was ahead of the record pace at 35km and is a renowned fast finisher - but began to suffer clear discomfort and her pace slowed.\nHowever she still broke the Berlin course record of 2:11:53 that she set in 2023 - which was also her previous personal best.\nIn addition, she improved on her time of 2:15:41 at the London Marathon earlier this year.\n\"We have to bow our heads to this performance. She was on a world record course for most of the race but then something happened to her tendon,\" said race director Mark Milde.\n\"To finish like this, I've never seen something like this. The pain is hard to imagine.\n\"With a heavy heart, we saw her set a course record, but it could have been a lot more.\"\nThe top five finishers were all from Ethiopia, with Bedatu Hirpa second and Dera Dida third.\nGuye Adola - another Ethiopian - won the men's race with a time of 2:02:50.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "on her time of 2:15:41 at the London Marathon earlier this year."
+    ],
+    [
+     "ins",
+     "\"We have to bow our heads to this performance. She was on a world record course for most of the race but then something happened to her tendon,\" said race director Mark Milde. \"To finish like this, I've never seen something like this. The pain is hard to imagine. \"With a heavy heart, we saw her set a course record, but it could have been a lot more.\""
+    ],
+    [
+     "eq",
+     "The top five finishers were all from Ethiopia, with Bedatu Hirpa second"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3163,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 0.9911,
+ "adjudicated_by": "rules"
+}

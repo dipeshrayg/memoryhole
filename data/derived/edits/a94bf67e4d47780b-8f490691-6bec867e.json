@@ -1,0 +1,104 @@
+{
+ "id": "a94bf67e4d47780b-8f490691-6bec867e",
+ "url": "https://www.abc.net.au/news/2026-09-27/sydney-building-collapses-ultimo-second-time-just-weeks-apart/107201530",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-28T13:27:04Z",
+ "date": "2026-09-28",
+ "old_title": "Scaffolding at Sydney building site falls onto cars month after wall collapse",
+ "new_title": "Scaffolding at Sydney building site falls onto cars month after wall collapse",
+ "old_text": "In short:\nScaffolding at a building site collapsed onto cars in Sydney's inner-city on Saturday night.\nNo-one was injured in the incident, which happened at the same location where a wall collapsed in August.\nWhat's next?\nSafeWork NSW is investigating the incident and the managers of the development have been contacted for comment.\nScaffolding at a Sydney building site has partially collapsed onto parked cars, the second safety incident within weeks at the development.\nSafeWork NSW said no-one was injured when a large section of scaffolding fell onto vehicles on Wattle Street in the inner-city suburb of Ultimo on Saturday just before 6:45pm.\nCCTV footage shows the scaffolding giving way due to strong winds and narrowly missing drivers on the street.\nThe regulator said inspectors attended the site, and that it had issued regulatory notices, including a prohibition notice to the site managers.\nLisa, who lives a few doors down from the site, said she heard a loud bang and initially thought a sheet of metal was being dragged across the street.\n\"There was a bit of wind, and there was a loud sound of metal on the road,\"\nShe only realised what happened after reviewing her security video.\n\"I think the structure they had on the front of the building wasn't secure,\" she said.\n\"The scaffolding and the additional panels that they placed to prevent any bricks from going over it when they demolished subsequently was ... not secured, and then fell on the road.\"\nMacroview Projects, which is managing the development, has been contacted for comment.\nResidents raise safety concerns\nA wall and roof collapsed at the same Ultimo building site onto a nearby petrol station last month, seriously injuring two men, one in his 60s and the other in his 30s.\nThe two men were pulled from rubble and taken to St Vincent's Hospital and Royal Prince Alfred Hospital with serious injuries.\nFive other people were assessed by paramedics at the time, but did not need hospital treatment.\nLisa said work had only recently resumed at the site after being halted for weeks.\n\"It raises concerns over what is happening at that building site, and the safety precautions that are going into what should be the demolition,\" she said.\n\"It is a concern that this has happened twice in two months on the same place.\"\nLisa said she was relieved no-one had been hurt this time, but that the collapse had come at a cost to others.\n\"There are costs to other people, such as the cars that were affected last time ... Coles Express, where its forecourt was closed for eight weeks, so it couldn't sell any petrol for eight weeks, and now cars in front of the building are being damaged.\"\nSafeWork NSW are investigating\nThe building was previously home to a rehearsal studio, but had since been approved for demolition to make way for a multi-storey mixed-use development.\nAfter last month's incident, Fire and Rescue NSW said the situation had been extremely dangerous given the weight of falling brickwork.\nThe site was subsequently handed to SafeWork NSW for investigation.",
+ "new_text": "In short:\nScaffolding at a building site collapsed onto cars in Sydney's inner city on Saturday night.\nNo-one was injured in the incident, which happened at the same location where a wall collapsed in August.\nWhat's next?\nSafeWork NSW is investigating the incident and the managers of the development have been contacted for comment.\nScaffolding at a Sydney building site has partially collapsed onto parked cars, the second safety incident within weeks at the development.\nSafeWork NSW said no-one was injured when a large section of scaffolding fell onto vehicles on Wattle Street in the inner-city suburb of Ultimo on Saturday just before 6:45pm.\nCCTV footage shows the scaffolding giving way due to strong winds and narrowly missing drivers on the street.\nThe regulator said inspectors attended the site and that it had issued regulatory notices, including a prohibition notice to the site managers.\nLisa, who lives a few doors down from the site, said she heard a loud bang and initially thought a sheet of metal was being dragged across the street.\n\"There was a bit of wind, and there was a loud sound of metal on the road,\"\nShe only realised what happened after reviewing her security video.\n\"I think the structure they had on the front of the building wasn't secure,\" she said.\n\"The scaffolding and the additional panels that they placed to prevent any bricks from going over it when they demolished subsequently was ... not secured, and then fell on the road.\"\nMacroview Projects, which is managing the development, has been contacted for comment.\nResidents raise safety concerns\nA wall and roof collapsed at the same Ultimo building site onto a nearby petrol station last month, seriously injuring two men, one in his 60s and the other in his 30s.\nThe two men were pulled from rubble and taken to St Vincent's Hospital and Royal Prince Alfred Hospital with serious injuries.\nFive other people were assessed by paramedics at the time, but did not need hospital treatment.\nLisa said work had only recently resumed at the site after being halted for weeks.\n\"It raises concerns over what is happening at that building site, and the safety precautions that are going into what should be the demolition,\" she said.\n\"It is a concern that this has happened twice in two months on the same place.\"\nLisa said she was relieved no-one had been hurt this time, but that the collapse had come at a cost to others.\n\"There are costs to other people, such as the cars that were affected last time ... Coles Express, where its forecourt was closed for eight weeks, so it couldn't sell any petrol for eight weeks, and now cars in front of the building are being damaged.\"\nSafeWork NSW is investigating\nThe building was previously home to a rehearsal studio, but had since been approved for demolition to make way for a multistorey mixed-use development.\nAfter last month's incident, Fire and Rescue NSW said the situation had been extremely dangerous given the weight of falling brickwork.\nThe site was subsequently handed to SafeWork NSW for investigation.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "In short: Scaffolding at a building site collapsed onto cars in Sydney's"
+    ],
+    [
+     "del",
+     "inner-city"
+    ],
+    [
+     "ins",
+     "inner city"
+    ],
+    [
+     "eq",
+     "on Saturday night. No-one was injured in the incident, which happened at"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "narrowly missing drivers on the street. The regulator said inspectors attended the"
+    ],
+    [
+     "del",
+     "site,"
+    ],
+    [
+     "ins",
+     "site"
+    ],
+    [
+     "eq",
+     "and that it had issued regulatory notices, including a prohibition notice to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "now cars in front of the building are being damaged.\" SafeWork NSW"
+    ],
+    [
+     "del",
+     "are"
+    ],
+    [
+     "ins",
+     "is"
+    ],
+    [
+     "eq",
+     "investigating The building was previously home to a rehearsal studio, but had since been approved for demolition to make way for a"
+    ],
+    [
+     "del",
+     "multi-storey"
+    ],
+    [
+     "ins",
+     "multistorey"
+    ],
+    [
+     "eq",
+     "mixed-use development. After last month's incident, Fire and Rescue NSW said the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0175,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9972,
+ "adjudicated_by": "rules"
+}

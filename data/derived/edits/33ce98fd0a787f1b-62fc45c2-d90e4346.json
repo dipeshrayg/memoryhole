@@ -1,0 +1,48 @@
+{
+ "id": "33ce98fd0a787f1b-62fc45c2-d90e4346",
+ "url": "https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-28T13:24:42Z",
+ "date": "2026-09-28",
+ "old_title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
+ "new_title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
+ "old_text": "Far-right Finance Minister Bezalel Smotrich says the Israeli military should \"go to war\" in the occupied West Bank and repeat what it \"did in Gaza\".\nUsing a biblical term for the occupied West Bank, the minister told Ynet News in an interview published on Sunday that Israel needs to \"go to war in Judea and Samaria, to do there what we did in Gaza, to dismantle the Palestinian Authority, which is a terror authority\".\nRecommended Stories\nlist of 3 items\n- list 1 of 3Al Jazeera rejects Netanyahu's attack on journalists in UN speech\n- list 2 of 3How Israel's 'Blue Line' team seizes Palestinian land in the West Bank\n- list 3 of 3Israel bans Arab parties from election: Who they are, why it matters\nSmotrich was responding to a question on how Israel should combat the increasing \"security tensions\" in the occupied West Bank, where Israeli violence against Palestinians has been steadily growing since the eruption of Israel's genocidal war on Gaza in October 2023, but the attacks have intensified significantly this year.\n\"We need to tell\" Israeli forces, he said, \"Just as you dismantled Hamas in Gaza, there won't be terror infrastructure in Judea and Samaria\". \"No terrorists, no weapons, no tunnels.\"\nThe United Nations Office for the Coordination of Humanitarian Affairs (OCHA) recorded more than 1,330 settler-related attacks on Palestinians in the West Bank from January to late July, averaging six a day, the highest rate in about 20 years.\nVarious settler groups, often supported or protected by Israeli soldiers, have attacked Palestinians in several ways, including shootings, besieging homes and engaging in other forms of communal violence that experts have described as \"pogroms\".\nRights groups warn that settlers are increasingly armed with military-issued weaponry and wear military uniforms during attacks, blurring the line between settler and soldier.\nMilitary closure\nThe comments come as Israeli authorities announced a comprehensive military closure across the occupied West Bank, citing the Jewish holiday of Sukkot. The heightened restrictions on the movement of Palestinians are set to remain in place until October 3.\nMeanwhile, in occupied East Jerusalem, hundreds of Israelis stormed the courtyards of Al-Aqsa Mosque under heavy protection from Israeli police on Sunday.\nPalestinian news agency Wafa reported that the Israelis entered the compound through the Moroccan Gate and performed Talmudic rituals, as Israeli forces increased restrictions around the mosque and across Jerusalem's Old City.",
+ "new_text": "Far-right Finance Minister Bezalel Smotrich says the Israeli military should \"go to war\" in the occupied West Bank and repeat what it \"did in Gaza\".\nUsing a biblical term for the occupied West Bank, the minister told Ynet News in an interview published on Sunday that Israel needs to \"go to war in Judea and Samaria, to do there what we did in Gaza, to dismantle the Palestinian Authority, which is a terror authority\".\nRecommended Stories\nlist of 3 items\n- list 1 of 3Al Jazeera rejects Netanyahu's attack on journalists in UN speech\n- list 2 of 3How Israel's 'Blue Line' team seizes Palestinian land in the West Bank\n- list 3 of 3Israel bans Arab parties from election: Who they are, why it matters\nSmotrich was responding to a question on how Israel should combat the increasing \"security tensions\" in the occupied West Bank, where Israeli violence against Palestinians has been steadily growing since the eruption of Israel's genocidal war on Gaza in October 2023, but the attacks have intensified significantly this year.\n\"We need to tell\" Israeli forces, he said, \"Just as you dismantled Hamas in Gaza, there won't be terror infrastructure in Judea and Samaria\". \"No terrorists, no weapons, no tunnels.\"\nThe United Nations Office for the Coordination of Humanitarian Affairs (OCHA) recorded more than 1,330 settler-related attacks on Palestinians in the West Bank from January to late July, averaging six a day, the highest rate in about 20 years.\nVarious settler groups, often supported or protected by Israeli soldiers, have attacked Palestinians in several ways, including shootings, besieging homes and engaging in other forms of communal violence that experts have described as \"pogroms\".\nRights groups warn that settlers are increasingly armed with military-issued weaponry and wear military uniforms during attacks, blurring the line between settler and soldier.\nIn a statement later on Sunday, the Palestinian Ministry of Foreign Affairs and Expatriates said Smotrich's comments come within the context of Israeli government policies that involve the killing and displacement of Palestinians, as well the expansion of illegal settlements, land confiscation and attempts to impose annexation by force.\nIt also warned that continued international silence over inflammatory Israeli statements and policies encourages the Israeli government to pursue its plans and risks further regionall tension and instability.\nMilitary closure\nThe comments come as Israeli authorities announced a comprehensive military closure across the occupied West Bank, citing the Jewish holiday of Sukkot. The heightened restrictions on the movement of Palestinians are set to remain in place until October 3.\nMeanwhile, in occupied East Jerusalem, hundreds of Israelis stormed the courtyards of Al-Aqsa Mosque under heavy protection from Israeli police on Sunday.\nPalestinian news agency Wafa reported that the Israelis entered the compound through the Moroccan Gate and performed Talmudic rituals, as Israeli forces increased restrictions around the mosque and across Jerusalem's Old City.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "wear military uniforms during attacks, blurring the line between settler and soldier."
+    ],
+    [
+     "ins",
+     "In a statement later on Sunday, the Palestinian Ministry of Foreign Affairs and Expatriates said Smotrich's comments come within the context of Israeli government policies that involve the killing and displacement of Palestinians, as well the expansion of illegal settlements, land confiscation and attempts to impose annexation by force. It also warned that continued international silence over inflammatory Israeli statements and policies encourages the Israeli government to pursue its plans and risks further regionall tension and instability."
+    ],
+    [
+     "eq",
+     "Military closure The comments come as Israeli authorities announced a comprehensive military"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.194,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

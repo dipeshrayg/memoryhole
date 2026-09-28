@@ -1,0 +1,224 @@
+{
+ "id": "8e8dd43e1318e33f-db5973c0-200a66dc",
+ "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-09-28T13:32:59Z",
+ "date": "2026-09-28",
+ "old_title": "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+ "new_title": "One dead as nor'easter storm pummels New York and New Jersey",
+ "old_text": "- Published\nTens of millions of people across the north-eastern US are in the path of a powerful storm bringing coastal flooding, power cuts, travel chaos and cancelled stadium events.\nThe so-called nor'easter is bringing \"dangerous coastal flooding and beach conditions, strong winds and heavy rainfall\" to areas including New York City and Boston on Saturday, the US National Weather Service (NWS) said.\nStates of emergency have been declared in New York and New Jersey, both of which faced a coastal deluge in some areas. Rain and strong winds are forecast from Virginia to Maine.\nIn Brooklyn, a man was killed by a falling tree, the BBC's US partner CBS News reported.\nThe nor'easter has caused widespread power cuts. More than 100,000 households, nearly all in the northeast US, have lost electricity, according to tracker PowerOutage.\nThe Federal Aviation Administration recommended air passengers check with airlines about their flight status. More than 2,400 flights have been delayed and another 1,199 grounded, according to FlightAware.\nSaturday's full moon is projected to worsen coastal flooding. Streets and homes were inundated with floodwater in the coastal New Jersey communities of Surf City and Manasquan on Saturday.\n\"I urge all New Jerseyans to take this storm seriously, stay alert and follow local guidance,\" Governor Mikie Sherrill said.\nNWS said in its alert: \"Prepare immediately for significant inundation in low-lying areas near the shore, including roads underwater and impacts to homes and businesses.\"\nIn New York, officials are warning of wind gusts of up to 55mph (86km/h) throughout the weekend, leading to downed trees and power lines.\n\"Don't travel if you don't have to,\" NYC Mayor Zohran Mamdani told residents in a video message. \"Do not drive or walk through floodwater.\"\nIn the Boston area, the Red Sox moved the last game in their series against the Chicago Cubs to Sunday afternoon in Florida.\nA professional football match between Red Bull New York and St Louis City SC was also cancelled.\nThe Global Citizen Festival concert in New York City's Central Park, which was to be headlined by Lauryn Hill, Wyclef Jean and John Legend, will not go ahead.\nEd Sheeran's Boston concert was also among events called off due to the weather.\nSheeran's concert at the Gillette Stadium in the Boston area was cancelled for safety reasons, the venue said.",
+ "new_text": "- Published\nTens of millions of people across the north-eastern US have found themselves in the path of a powerful weekend storm bringing coastal flooding, power cuts, travel chaos and cancelled stadium events.\nThe so-called nor'easter brought \"dangerous coastal flooding and beach conditions, strong winds and heavy rainfall\" to areas including New York City and Boston on Saturday, the US National Weather Service (NWS) said.\nStates of emergency have been declared in New York and New Jersey, both of which faced a coastal deluge in some areas. Rain and strong winds were forecast from Virginia to Maine.\nIn Brooklyn, New York City, a man was killed by a falling tree.\nThe man has been identified as 56-year-old Leighton Brown, an employee of the New York City Housing Authority.\nAccording to local news, he was walking through east Brooklyn neighbourhood working an extra shift when the deadly incident occurred.\n\"We mourn deeply for the loss of Leighton Brown, a NYCHA employee who faithfully served Brooklyn residents and who was known for his warm personality,\" the Office of the NYC Public Advocate wrote on social media.\nThe nor'easter has caused widespread power cuts. More than 160,000 households, nearly all in the north-eastern US, have lost electricity, according to tracker PowerOutage.\nMore than 2,400 flights were delayed and another 1,199 grounded on Saturday, according to FlightAware.\nA full moon was projected to worsen coastal flooding. Streets and homes were inundated with floodwater in the coastal New Jersey communities of Surf City and Manasquan on Saturday.\nNWS said in its alert: \"Prepare immediately for significant inundation in low-lying areas near the shore, including roads underwater and impacts to homes and businesses.\"\nIn New York, officials are warning of wind gusts of up to 55mph (86km/h) throughout the weekend, leading to downed trees and power lines.\n\"Don't travel if you don't have to,\" NYC Mayor Zohran Mamdani told residents in a video message. \"Do not drive or walk through floodwater.\"\nIn the Boston area, the Red Sox moved the last game in their series against the Chicago Cubs to Sunday afternoon in Florida.\nA professional football match between Red Bull New York and St Louis City SC was also cancelled.\nThe Global Citizen Festival concert in New York City's Central Park, which was to be headlined by Lauryn Hill, Wyclef Jean and John Legend, will not go ahead.\nEd Sheeran's Boston concert was also among events called off due to the weather.\nSheeran's concert at the Gillette Stadium in the Boston area was cancelled for safety reasons, the venue said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published Tens of millions of people across the north-eastern US"
+    ],
+    [
+     "del",
+     "are"
+    ],
+    [
+     "ins",
+     "have found themselves"
+    ],
+    [
+     "eq",
+     "in the path of a powerful"
+    ],
+    [
+     "ins",
+     "weekend"
+    ],
+    [
+     "eq",
+     "storm bringing coastal flooding, power cuts, travel chaos and cancelled stadium events. The so-called nor'easter"
+    ],
+    [
+     "del",
+     "is bringing"
+    ],
+    [
+     "ins",
+     "brought"
+    ],
+    [
+     "eq",
+     "\"dangerous coastal flooding and beach conditions, strong winds and heavy rainfall\" to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "which faced a coastal deluge in some areas. Rain and strong winds"
+    ],
+    [
+     "del",
+     "are"
+    ],
+    [
+     "ins",
+     "were"
+    ],
+    [
+     "eq",
+     "forecast from Virginia to Maine. In Brooklyn,"
+    ],
+    [
+     "ins",
+     "New York City,"
+    ],
+    [
+     "eq",
+     "a man was killed by a falling"
+    ],
+    [
+     "del",
+     "tree,"
+    ],
+    [
+     "ins",
+     "tree. The man has been identified as 56-year-old Leighton Brown, an employee of"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "BBC's US partner CBS News reported."
+    ],
+    [
+     "ins",
+     "New York City Housing Authority. According to local news, he was walking through east Brooklyn neighbourhood working an extra shift when the deadly incident occurred. \"We mourn deeply for the loss of Leighton Brown, a NYCHA employee who faithfully served Brooklyn residents and who was known for his warm personality,\" the Office of the NYC Public Advocate wrote on social media."
+    ],
+    [
+     "eq",
+     "The nor'easter has caused widespread power cuts. More than"
+    ],
+    [
+     "del",
+     "100,000"
+    ],
+    [
+     "ins",
+     "160,000"
+    ],
+    [
+     "eq",
+     "households, nearly all in the"
+    ],
+    [
+     "del",
+     "northeast"
+    ],
+    [
+     "ins",
+     "north-eastern"
+    ],
+    [
+     "eq",
+     "US, have lost electricity, according to tracker PowerOutage."
+    ],
+    [
+     "del",
+     "The Federal Aviation Administration recommended air passengers check with airlines about their flight status."
+    ],
+    [
+     "eq",
+     "More than 2,400 flights"
+    ],
+    [
+     "del",
+     "have been"
+    ],
+    [
+     "ins",
+     "were"
+    ],
+    [
+     "eq",
+     "delayed and another 1,199"
+    ],
+    [
+     "del",
+     "grounded,"
+    ],
+    [
+     "ins",
+     "grounded on Saturday,"
+    ],
+    [
+     "eq",
+     "according to FlightAware."
+    ],
+    [
+     "del",
+     "Saturday's"
+    ],
+    [
+     "ins",
+     "A"
+    ],
+    [
+     "eq",
+     "full moon"
+    ],
+    [
+     "del",
+     "is"
+    ],
+    [
+     "ins",
+     "was"
+    ],
+    [
+     "eq",
+     "projected to worsen coastal flooding. Streets and homes were inundated with floodwater"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the coastal New Jersey communities of Surf City and Manasquan on Saturday."
+    ],
+    [
+     "del",
+     "\"I urge all New Jerseyans to take this storm seriously, stay alert and follow local guidance,\" Governor Mikie Sherrill said."
+    ],
+    [
+     "eq",
+     "NWS said in its alert: \"Prepare immediately for significant inundation in low-lying"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3705,
+  "numbers_changed": [
+   "100,000",
+   "160,000",
+   "56"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 1,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.65,
+ "similarity": 0.7926,
+ "adjudicated_by": "rules"
+}

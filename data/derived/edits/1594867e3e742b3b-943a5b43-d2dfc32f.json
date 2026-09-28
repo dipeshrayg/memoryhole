@@ -1,0 +1,205 @@
+{
+ "id": "1594867e3e742b3b-943a5b43-d2dfc32f",
+ "url": "https://www.dw.com/en/uk-reports-major-incident-arrests-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-28T13:25:30Z",
+ "date": "2026-09-28",
+ "old_title": "UK reports 'major incident,' arrests near Fairford air base used by US forces",
+ "new_title": "UK: 5 arrested after 'major incident' near Fairford air base used by US forces",
+ "old_text": "British authorities evacuated buildings and deployed military bomb disposal teams over a \"major incident\" in the town of Whelford on Sunday morning.\nThe town is located near the Fairford air base, which is used by the US military. Around 30 emergency vehicles were seen in the area, including police cars, ambulances, and fire engines.\nPolice said the bomb disposal units were \"currently examining a number of vehicles\" in Whelford. Residents of multiple properties in the village have been taken to a nearby leisure center.\n\"A cordon is currently in place but we'd like to reassure people that we believe this incident is contained,\" British police said.\nPolice also said several men were \"arrested on suspicion of offences the Explosives Act\" but would not confirm the arrests were connected to the incident near the base.\nOfficials stay tight-lipped\nA spokesperson for the US Air Force refused to discuss specific steps when contacted by the Reuters news agency, saying only that both US and British forces \"remain vigilant and will take appropriate actions to ensure the safety and security of our US service members, civilians, contractors, and their families.\"\nThe background for the incident was not immediately clear.\nThe UK has allowed the US to use Fairford for its war against Iran, with Iran's Revolutionary Guards warning UK officials against the move this summer. The evacuations also come at a time of heightened tensions in Northern Ireland, and less than two months after Germany discovered an explosive-laden drone at the Leipzig airport, which its authorities attributed to Russia.\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google so you'll always see our verified news first.\nEdited by: Sean Sinico",
+ "new_text": "British authorities evacuated buildings and deployed military bomb disposal teams over a \"major incident\" in the town of Whelford on Sunday morning.\nLondon's Metropolitan police said five men were arrested on suspicion of preparing a \"terrorist act\" and explosive-related offenses.\nThe town is located near the Fairford air base, which is used by the US military. Around 30 emergency vehicles were seen in the area, including police cars, ambulances, and fire engines. The authorities said they believed the incident to be \"contained.\"\nCounter-terrorism police were leading the probe.\n\"We are in the early stages of an investigation,\" Deputy Assistant Commissioner Vicki Evans said in an online statement, adding that the authorities were \"working closely with our partners\" to understand the circumstances of the incident.\nThe statement urged the public to share any information they may have related to the issue.\nPraise from Trump and Burnham\nUS President Donald Trump praised those involved in the arrests. \"It was an amazing job,\" he told reporters in the US.\n\"We had them under investigation. They were looking to do big damage to our fort. And working with the British worked out great,\" Trump said.\nBritish Prime Minister Andy Burnham said he understood that the incident would be \"deeply concerning\" for many people.\nIn a social media post, Burnham thanked the police and armed forces for their response and expressed his gratitude to residents who had been evacuated from their homes \"while precautionary checks are carried out.\"\nBomb disposal units examining three 'suspicious vehicles'\nLocal police said they had received a call overnight on Sunday about \"three suspicious vehicles\" heading to the base.\n\"Armed officers responded and subsequently arrested five men in the Whelford area,\" assistant chief constable Richard Ocone told reporters.\nHe added that a cordon of 400 meters, or approximately 1/4 of a mile, has been put in place around the vehicles \"while the army's explosive ordinance disposal unit examine them.\"\n\"As a precaution, around 85 households have been advised to evacuate while these examinations take place,\" Ocone said.\nHe added that some of the evacuees were taken to a nearby leisure center.\nThe Gloucestershire police representative also asked the public \"not to speculate\" but follow official channels instead.\nOfficials stay tight-lipped\nA spokesperson for the US Air Force refused to discuss specific steps when contacted by the Reuters news agency, saying only that both US and British forces \"remain vigilant and will take appropriate actions to ensure the safety and security of our US service members, civilians, contractors, and their families.\"\nThe background for the incident was not immediately clear.\nThe UK has allowed the US to use Fairford for its war against Iran, with Iran's Revolutionary Guards warning UK officials against the move this summer. The evacuations also come at a time of heightened tensions in Northern Ireland, and less than two months after Germany discovered an explosive-laden drone at the Leipzig airport, which its authorities attributed to Russia.\nEdited by: Sean Sinico and Wesley Dockery\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "over a \"major incident\" in the town of Whelford on Sunday morning."
+    ],
+    [
+     "ins",
+     "London's Metropolitan police said five men were arrested on suspicion of preparing a \"terrorist act\" and explosive-related offenses."
+    ],
+    [
+     "eq",
+     "The town is located near the Fairford air base, which is used"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "were seen in the area, including police cars, ambulances, and fire engines."
+    ],
+    [
+     "del",
+     "Police"
+    ],
+    [
+     "ins",
+     "The authorities"
+    ],
+    [
+     "eq",
+     "said"
+    ],
+    [
+     "ins",
+     "they believed"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "bomb"
+    ],
+    [
+     "ins",
+     "incident to be \"contained.\" Counter-terrorism police were leading the probe. \"We are in the early stages of an investigation,\" Deputy Assistant Commissioner Vicki Evans said in an online statement, adding that the authorities were \"working closely with our partners\" to understand the circumstances of the incident. The statement urged the public to share any information they may have related to the issue. Praise from Trump and Burnham US President Donald Trump praised those involved in the arrests. \"It was an amazing job,\" he told reporters in the US. \"We had them under investigation. They were looking to do big damage to our fort. And working with the British worked out great,\" Trump said. British Prime Minister Andy Burnham said he understood that the incident would be \"deeply concerning\" for many people. In a social media post, Burnham thanked the police and armed forces for their response and expressed his gratitude to residents who had been evacuated from their homes \"while precautionary checks are carried out.\" Bomb"
+    ],
+    [
+     "eq",
+     "disposal units"
+    ],
+    [
+     "del",
+     "were \"currently"
+    ],
+    [
+     "eq",
+     "examining"
+    ],
+    [
+     "ins",
+     "three 'suspicious vehicles' Local police said they had received"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "number of"
+    ],
+    [
+     "ins",
+     "call overnight on Sunday about \"three suspicious"
+    ],
+    [
+     "eq",
+     "vehicles\""
+    ],
+    [
+     "del",
+     "in Whelford. Residents of multiple properties"
+    ],
+    [
+     "ins",
+     "heading to the base. \"Armed officers responded and subsequently arrested five men"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "village"
+    ],
+    [
+     "ins",
+     "Whelford area,\" assistant chief constable Richard Ocone told reporters. He added that a cordon of 400 meters, or approximately 1/4 of a mile, has been put in place around the vehicles \"while the army's explosive ordinance disposal unit examine them.\" \"As a precaution, around 85 households"
+    ],
+    [
+     "eq",
+     "have been"
+    ],
+    [
+     "ins",
+     "advised to evacuate while these examinations take place,\" Ocone said. He added that some of the evacuees were"
+    ],
+    [
+     "eq",
+     "taken to a nearby leisure center."
+    ],
+    [
+     "del",
+     "\"A cordon is currently in place"
+    ],
+    [
+     "ins",
+     "The Gloucestershire police representative also asked the public \"not to speculate\""
+    ],
+    [
+     "eq",
+     "but"
+    ],
+    [
+     "del",
+     "we'd like to reassure people that we believe this incident is contained,\" British police said. Police also said several men were \"arrested on suspicion of offences the Explosives Act\" but would not confirm the arrests were connected to the incident near the base."
+    ],
+    [
+     "ins",
+     "follow official channels instead."
+    ],
+    [
+     "eq",
+     "Officials stay tight-lipped A spokesperson for the US Air Force refused to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "explosive-laden drone at the Leipzig airport, which its authorities attributed to Russia."
+    ],
+    [
+     "ins",
+     "Edited by: Sean Sinico and Wesley Dockery"
+    ],
+    [
+     "eq",
+     "If you rely on our team for trusted reporting, please take a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Preferred Source on Google so you'll always see our verified news first."
+    ],
+    [
+     "del",
+     "Edited by: Sean Sinico"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.269,
+  "numbers_changed": [
+   "1",
+   "4",
+   "400",
+   "85"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 2,
+  "blocks_added": 2,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.4,
+ "similarity": 0.8366,
+ "adjudicated_by": "rules"
+}
