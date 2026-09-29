@@ -1,0 +1,52 @@
+{
+ "id": "22691d545eed321c-6ac6b0e9-0a77ae9f",
+ "url": "https://www.abc.net.au/news/2026-09-28/larissa-waters-stepping-down-as-greens-leader/107205476",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-29T12:33:13Z",
+ "date": "2026-09-29",
+ "old_title": "Greens leader Larissa Waters steps down due to illness",
+ "new_title": "Greens leader Larissa Waters steps down due to illness",
+ "old_text": "Larissa Waters stepping down as Greens leader due to illness\nIn short:\nGreens leader Larissa Waters has stepped down from the top job due to a chronic kidney condition.\nSenator Waters will take a leave of absence as she focuses on her health before returning to her upper house duties.\nWhat's next?\nThe Greens partyroom will meet in the coming days to discuss who will replace Senator Waters.",
+ "new_text": "Larissa Waters stepping down as Greens leader due to illness\nIn short:\nGreens leader Larissa Waters has stepped down from the top job due to a chronic kidney condition.\nSenator Waters will take a leave of absence as she focuses on her health before returning to her upper house duties.\nWhat's next?\nThe Greens party room will meet in the coming days to discuss who will replace Senator Waters.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "health before returning to her upper house duties. What's next? The Greens"
+    ],
+    [
+     "del",
+     "partyroom"
+    ],
+    [
+     "ins",
+     "party room"
+    ],
+    [
+     "eq",
+     "will meet in the coming days to discuss who will replace Senator Waters."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0441,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

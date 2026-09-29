@@ -1,0 +1,396 @@
+{
+ "id": "d5e94824f57b4169-e5c6f4ea-268ce13d",
+ "url": "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-29T12:29:55Z",
+ "date": "2026-09-29",
+ "old_title": "SpaceX's Starship launches on first orbital mission from Texas",
+ "new_title": "SpaceX's Starship launches on first orbital mission from Texas",
+ "old_text": "SpaceX's Starship launches on first orbital mission from Texas\nSpaceX has launched its Starship spacecraft from the company's Starbase facility from Boca Chica Beach in Texas, on a critical test flight that sent the 171-foot-tall vehicle into orbit for the first time.\nAt 7:48 am CT, Starship's Super Heavy booster ignited its 33 rocket engines to send the spacecraft on its 14th flight. Two-and-a-half minutes after launch, Starship separated from the booster and continued its flight. One of the six engines on Starship failed on the ascent, leading SpaceX to determine whether it would continue the flight to orbit. At about 22 minutes into the flight, the team decided the vehicle could continue on its orbital flight path.\nSuper Heavy is designed to be reusable by returning to its launch site, where it is caught by the launch tower. This booster, however, simulated a landing offshore in the Gulf of Mexico. SpaceX is testing upgrades to the booster's software and hardware during this flight. No one is on board for this mission.\nThe 10-hour flight plan for Starship includes approximately six orbits around the Earth at an altitude of about 170 miles. Previous Starship flights have been suborbital. Starship 14 is the first time the vehicle will reach orbital speeds - about 17,500 mph. SpaceX says this mission's launch profile includes portions that would allow Starship to abort its orbital trajectory and return to Earth safely.\nDuring its flight, SpaceX intends to deploy 26 Starlink V3 satellites into its constellation of thousands of internet satellites that provide broadband access worldwide. SpaceX regularly launches Starlink satellites from Florida and California using its Falcon 9 rocket, but announced the final mission from Florida last month with plans to launch exclusively with Starship from Florida's space coast in the future.\nIf all goes as planned during Monday's flight, Starship will splash down in the Pacific Ocean off the coast of Chile. Eventually, SpaceX wants to recover the spacecraft and reuse it.\nSpaceX is testing key systems of the Starship vehicle like its heat shield. Three of those Starlink satellites have cameras installed to capture data on Starship's heat shield. Surviving re-entry is key to SpaceX's plans for spacecraft reusability.\nThe company is betting on Starship to continue its growth. It's the only spacecraft that can launch the larger V3 version of its Starlink satellites. In its filings to the FEC ahead of SpaceX's IPO in June, the company underscored Starship's role in its plans for growth. \"Any failure or delay in the development of Starship at scale or in achieving the required launch cadence, reusability and capabilities thereafter would delay or limit our ability to execute our growth strategy,\" it reads.\nStarship is also key to NASA's plan to return humans to the moon. The agency tapped SpaceX to develop Starship as a human landing system to transport astronauts to the lunar surface for future Artemis missions. NASA is planning to test the ability to dock its Orion human space capsule to Starship, along with another commercial lander designed by Blue Origin during Artemis III, which is slated to launch late next year.\nSpaceX announced plans to build a massive facility in Louisiana, aiming to launch Starship. The company says the $100 billion investment includes plans for dozens of launch pads with the goal of sending Starship from Starbase, Louisiana, beginning in 2029.",
+ "new_text": "SpaceX's Starship launches on first orbital mission from Texas\nSpaceX launched its Starship spacecraft from the company's Starbase facility from Boca Chica Beach in Texas, on a critical test flight that sent the 171-foot-tall vehicle into orbit for the first time.\nAt 7:48 a.m. CT, Starship's Super Heavy booster ignited its 33 rocket engines to send the spacecraft on its 14th flight. Two-and-a-half minutes after launch, Starship separated from the booster and continued into space. One of the six engines on Starship failed during ascent, prompting SpaceX to decide whether to continue to orbit. About 22 minutes into the flight, the team decided it was safe to do so.\nSuper Heavy is designed to be reusable by returning to its launch site, where it is caught by the launch tower. This booster, however, simulated a landing offshore in the Gulf of Mexico. SpaceX is testing upgrades to the booster's software and hardware during this flight. No one was on board for this mission.\nSpaceX had planned a 10-hour flight including six orbits around the Earth at an altitude of about 170 miles. But after launch, mission managers decided to cut the flight back to three hours. Previous Starship flights have been suborbital. Starship 14 is the first time the vehicle reached orbital speeds - about 17,500 mph. SpaceX says this mission's launch profile included portions that would allow Starship to abort its orbital trajectory and return to Earth safely.\nDuring its flight, SpaceX deployed 26 Starlink V3 next-gen satellites into its constellation of thousands of internet satellites that provide broadband access worldwide. SpaceX regularly launches Starlink satellites from Florida and California using its Falcon 9 rocket, but announced the final mission from Florida last month with plans to use Starship from Florida's Space Coast in the future.\nStarship splashed down north of Hawaii. In a blog post, SpaceX explained why it decided to shorten the mission. \"Out of an abundance of caution given the engine issue experienced during ascent, the flight control team decided to limit the duration spent on orbit and proceeded with deorbiting Starship to a splashdown location in the northern Pacific Ocean.\"\nSpaceX is testing key systems of the Starship vehicle, like its heat shield. Three of those Starlink satellites have cameras installed to capture data on Starship's heat shield. Surviving reentry is key to SpaceX's plans for spacecraft reusability.\nThe company is betting on Starship to continue its growth. It's the only spacecraft that can launch the larger V3 version of its Starlink satellites. In its filings to the FEC ahead of SpaceX's IPO in June, the company underscored Starship's role in its plans for growth. \"Any failure or delay in the development of Starship at scale or in achieving the required launch cadence, reusability and capabilities thereafter would delay or limit our ability to execute our growth strategy,\" it reads.\nStarship is also key to NASA's plan to return humans to the moon. The agency tapped SpaceX to develop Starship as a human landing system to transport astronauts to the lunar surface for future Artemis missions. NASA is planning to test the ability to dock its Orion human space capsule to Starship, along with another commercial lander designed by Blue Origin during Artemis III, which is slated to launch late next year.\nSpaceX announced plans to build a massive facility in Louisiana, aiming to launch Starship. The company says the $100 billion investment includes plans for dozens of launch pads with the goal of sending Starship from Starbase, La., beginning in 2029.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "SpaceX's Starship launches on first orbital mission from Texas SpaceX"
+    ],
+    [
+     "del",
+     "has"
+    ],
+    [
+     "eq",
+     "launched its Starship spacecraft from the company's Starbase facility from Boca Chica"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "sent the 171-foot-tall vehicle into orbit for the first time. At 7:48"
+    ],
+    [
+     "del",
+     "am"
+    ],
+    [
+     "ins",
+     "a.m."
+    ],
+    [
+     "eq",
+     "CT, Starship's Super Heavy booster ignited its 33 rocket engines to send"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "flight. Two-and-a-half minutes after launch, Starship separated from the booster and continued"
+    ],
+    [
+     "del",
+     "its flight."
+    ],
+    [
+     "ins",
+     "into space."
+    ],
+    [
+     "eq",
+     "One of the six engines on Starship failed"
+    ],
+    [
+     "del",
+     "on the"
+    ],
+    [
+     "ins",
+     "during"
+    ],
+    [
+     "eq",
+     "ascent,"
+    ],
+    [
+     "del",
+     "leading"
+    ],
+    [
+     "ins",
+     "prompting"
+    ],
+    [
+     "eq",
+     "SpaceX to"
+    ],
+    [
+     "del",
+     "determine"
+    ],
+    [
+     "ins",
+     "decide"
+    ],
+    [
+     "eq",
+     "whether"
+    ],
+    [
+     "del",
+     "it would"
+    ],
+    [
+     "ins",
+     "to"
+    ],
+    [
+     "eq",
+     "continue"
+    ],
+    [
+     "del",
+     "the flight"
+    ],
+    [
+     "eq",
+     "to orbit."
+    ],
+    [
+     "del",
+     "At about"
+    ],
+    [
+     "ins",
+     "About"
+    ],
+    [
+     "eq",
+     "22 minutes into the flight, the team decided"
+    ],
+    [
+     "del",
+     "the vehicle could continue on its orbital flight path."
+    ],
+    [
+     "ins",
+     "it was safe to do so."
+    ],
+    [
+     "eq",
+     "Super Heavy is designed to be reusable by returning to its launch"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "upgrades to the booster's software and hardware during this flight. No one"
+    ],
+    [
+     "del",
+     "is"
+    ],
+    [
+     "ins",
+     "was"
+    ],
+    [
+     "eq",
+     "on board for this mission."
+    ],
+    [
+     "del",
+     "The"
+    ],
+    [
+     "ins",
+     "SpaceX had planned a"
+    ],
+    [
+     "eq",
+     "10-hour flight"
+    ],
+    [
+     "del",
+     "plan for Starship includes approximately"
+    ],
+    [
+     "ins",
+     "including"
+    ],
+    [
+     "eq",
+     "six orbits around the Earth at an altitude of about 170 miles."
+    ],
+    [
+     "ins",
+     "But after launch, mission managers decided to cut the flight back to three hours."
+    ],
+    [
+     "eq",
+     "Previous Starship flights have been suborbital. Starship 14 is the first time the vehicle"
+    ],
+    [
+     "del",
+     "will reach"
+    ],
+    [
+     "ins",
+     "reached"
+    ],
+    [
+     "eq",
+     "orbital speeds - about 17,500 mph. SpaceX says this mission's launch profile"
+    ],
+    [
+     "del",
+     "includes"
+    ],
+    [
+     "ins",
+     "included"
+    ],
+    [
+     "eq",
+     "portions that would allow Starship to abort its orbital trajectory and return to Earth safely. During its flight, SpaceX"
+    ],
+    [
+     "del",
+     "intends to deploy"
+    ],
+    [
+     "ins",
+     "deployed"
+    ],
+    [
+     "eq",
+     "26 Starlink V3"
+    ],
+    [
+     "ins",
+     "next-gen"
+    ],
+    [
+     "eq",
+     "satellites into its constellation of thousands of internet satellites that provide broadband"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "but announced the final mission from Florida last month with plans to"
+    ],
+    [
+     "del",
+     "launch exclusively with"
+    ],
+    [
+     "ins",
+     "use"
+    ],
+    [
+     "eq",
+     "Starship from Florida's"
+    ],
+    [
+     "del",
+     "space coast"
+    ],
+    [
+     "ins",
+     "Space Coast"
+    ],
+    [
+     "eq",
+     "in the future."
+    ],
+    [
+     "del",
+     "If all goes as planned"
+    ],
+    [
+     "ins",
+     "Starship splashed down north of Hawaii. In a blog post, SpaceX explained why it decided to shorten the mission. \"Out of an abundance of caution given the engine issue experienced"
+    ],
+    [
+     "eq",
+     "during"
+    ],
+    [
+     "del",
+     "Monday's flight,"
+    ],
+    [
+     "ins",
+     "ascent, the flight control team decided to limit the duration spent on orbit and proceeded with deorbiting"
+    ],
+    [
+     "eq",
+     "Starship"
+    ],
+    [
+     "del",
+     "will splash down"
+    ],
+    [
+     "ins",
+     "to a splashdown location"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "ins",
+     "northern"
+    ],
+    [
+     "eq",
+     "Pacific"
+    ],
+    [
+     "del",
+     "Ocean off the coast of Chile. Eventually, SpaceX wants to recover the spacecraft and reuse it."
+    ],
+    [
+     "ins",
+     "Ocean.\""
+    ],
+    [
+     "eq",
+     "SpaceX is testing key systems of the Starship"
+    ],
+    [
+     "del",
+     "vehicle"
+    ],
+    [
+     "ins",
+     "vehicle,"
+    ],
+    [
+     "eq",
+     "like its heat shield. Three of those Starlink satellites have cameras installed to capture data on Starship's heat shield. Surviving"
+    ],
+    [
+     "del",
+     "re-entry"
+    ],
+    [
+     "ins",
+     "reentry"
+    ],
+    [
+     "eq",
+     "is key to SpaceX's plans for spacecraft reusability. The company is betting"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "dozens of launch pads with the goal of sending Starship from Starbase,"
+    ],
+    [
+     "del",
+     "Louisiana,"
+    ],
+    [
+     "ins",
+     "La.,"
+    ],
+    [
+     "eq",
+     "beginning in 2029."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2982,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 0.977,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,218 @@
+{
+ "id": "b2a323e061fbe86d-4972d34f-38979009",
+ "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-29T12:29:10Z",
+ "date": "2026-09-29",
+ "old_title": "UK diesel price hits all-time high, RAC says",
+ "new_title": "UK diesel price hits all-time high, the RAC says",
+ "old_text": "- Published\nDiesel prices have hit an all-time high of 199.18p per litre, according to the motoring organisation RAC, as the war in the Middle East continues to push up the cost of fuel.\nPetrol prices are also still rising, with a litre currently costing 174.13p.\nOver the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil across the region, causing the price of fuels made from oil to surge.\nRAC said diesel prices had entered \"uncharted territory\" and served as a reminder of \"just how exposed the UK is to events occurring far away\".\nThe cost of diesel has now risen by 59p a litre, or just under 40%, since the conflict between the USA and Iran erupted at the end of February. The previous record was 199.09p in June 2022.\nThe increase means the cost of filling an average family car with diesel is now Â£110, Â£31 more than at the start of the conflict.\nPetrol prices are now 41p per litre more than at the start of the conflict, but still well below a 2022 peak.\nThe RAC data is based on the average price of diesel at a range of supermarkets, motorway service stations and independent retailers.\nSimon Williams, RAC's head of policy, said the diesel record \"spells pain not only at the pumps for drivers, but for everyone who buys goods or services that rely on diesel lorries and vans\".\n\"Undoubtedly these increased costs will be passed on to consumers,\" he said. Williams said prices at the pumps will not come down until there is a \"sustained lower oil price - over several weeks, not days\".\nThe price of Brent crude, a benchmark for global oil used to make petrol, diesel and other fuel products, rose over the weekend and is now hovering at around $108 per barrel. Before the US invaded Iran, it was trading at around $73.\nSupplies of diesel internationally have been heavily constrained by the conflict in the Middle East, which has restricted the flow of both crude oil and refined diesel onto global markets.\nRussia, which is also a major producer, has also implemented an export ban on diesel, following attacks on its refineries by Ukraine, further limiting supply.\nDiesel is harder to refine than gasoline and, because it is used by the haulage industry and in agriculture, it is very difficult to reduce demand.\nThe UK is heavily reliant on imports. Although the four refineries in the UK make more than enough petrol to meet demand, they do not make enough diesel for the country's needs.\nThere were 15.1 million diesel vehicles on UK roads at the end of June, according to the Department for Transport. That is a drop from 15.7 million a year before.\nThere were 9.8 million diesel cars, down year on year from 10.4 million.",
+ "new_text": "- Published\nDiesel prices have hit an all-time high of 199.33p per litre, according to the RAC motoring organisation, as the war in the Middle East continues to push up the cost of fuel.\nPetrol prices are also still rising, with a litre currently costing 174.23p.\nOver the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil across the region, causing the price of fuels made from oil to surge.\nThe RAC said diesel prices had entered \"uncharted territory\" and served as a reminder of \"just how exposed the UK is to events occurring far away\".\nThe cost of diesel has now risen by 59p a litre, or just under 40%, since the US-Israel conflict with Iran erupted at the end of February. The previous record was 199.09p in June 2022 following Russia's full-scale invasion of Ukraine.\nThe increase means the cost of filling an average family car with diesel is now Â£110, Â£31 more than at the start of the conflict.\nPetrol prices are now 41p per litre more than at the start of the conflict, but still well below a 2022 peak.\nThe RAC data is based on the average price of diesel at a range of supermarkets, motorway service stations and independent retailers.\nThe Chancellor said on Monday that the the \"place\" and \"time\" for the government to deal with questions around rising petrol and diesel prices and fuel duty is next month's Budget.\nJohn Healey told BBC Radio 5 Live: \"I'm acutely concerned and conscious about how hard it is for families. I see that at the pumps myself.\n\"We can't remove the cost of living pressures, we can't remove the prices that people are having to pay, but where we can we will act and we will give people just a bit of breathing space, and the same goes for the cost to business.\"\nSimon Williams, the RAC's head of policy, said record diesel prices \"spell pain not only at the pumps for drivers, but for everyone who buys goods or services that rely on diesel lorries and vans\".\n\"Undoubtedly these increased costs will be passed on to consumers,\" he said. Williams said prices at the pumps will not come down until there is a \"sustained lower oil price - over several weeks, not days\".\nThe price of Brent crude, a benchmark for global oil used to make petrol, diesel and other fuel products, rose over the weekend and is now hovering at around $108 per barrel. Before the US and Israel invaded Iran, it was trading at around $73.\nSupplies of diesel internationally have been heavily constrained by the conflict in the Middle East, which has restricted the flow of both crude oil and refined diesel onto global markets.\nRussia, which is also a major producer, has also implemented an export ban on diesel, following attacks on its refineries by Ukraine, further limiting supply.\nDiesel is harder to refine than gasoline and, because it is used by the haulage industry and in agriculture, it is very difficult to reduce demand.\nThe UK is heavily reliant on imports. Although the four refineries in the UK make more than enough petrol to meet demand, they do not make enough diesel for the country's needs.\nThere were 15.1 million diesel vehicles on UK roads at the end of June, according to the Department for Transport. That is a drop from 15.7 million a year before.\nThere were 9.8 million diesel cars, down year on year from 10.4 million.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published Diesel prices have hit an all-time high of"
+    ],
+    [
+     "del",
+     "199.18p"
+    ],
+    [
+     "ins",
+     "199.33p"
+    ],
+    [
+     "eq",
+     "per litre, according to the"
+    ],
+    [
+     "ins",
+     "RAC"
+    ],
+    [
+     "eq",
+     "motoring"
+    ],
+    [
+     "del",
+     "organisation RAC,"
+    ],
+    [
+     "ins",
+     "organisation,"
+    ],
+    [
+     "eq",
+     "as the war in the Middle East continues to push up the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "fuel. Petrol prices are also still rising, with a litre currently costing"
+    ],
+    [
+     "del",
+     "174.13p."
+    ],
+    [
+     "ins",
+     "174.23p."
+    ],
+    [
+     "eq",
+     "Over the past seven months, the Iran war has severely disrupted the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the region, causing the price of fuels made from oil to surge."
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "RAC said diesel prices had entered \"uncharted territory\" and served as a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "now risen by 59p a litre, or just under 40%, since the"
+    ],
+    [
+     "ins",
+     "US-Israel"
+    ],
+    [
+     "eq",
+     "conflict"
+    ],
+    [
+     "del",
+     "between the USA and"
+    ],
+    [
+     "ins",
+     "with"
+    ],
+    [
+     "eq",
+     "Iran erupted at the end of February. The previous record was 199.09p in June"
+    ],
+    [
+     "del",
+     "2022."
+    ],
+    [
+     "ins",
+     "2022 following Russia's full-scale invasion of Ukraine."
+    ],
+    [
+     "eq",
+     "The increase means the cost of filling an average family car with"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "diesel at a range of supermarkets, motorway service stations and independent retailers."
+    ],
+    [
+     "ins",
+     "The Chancellor said on Monday that the the \"place\" and \"time\" for the government to deal with questions around rising petrol and diesel prices and fuel duty is next month's Budget. John Healey told BBC Radio 5 Live: \"I'm acutely concerned and conscious about how hard it is for families. I see that at the pumps myself. \"We can't remove the cost of living pressures, we can't remove the prices that people are having to pay, but where we can we will act and we will give people just a bit of breathing space, and the same goes for the cost to business.\""
+    ],
+    [
+     "eq",
+     "Simon Williams,"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "RAC's head of policy, said"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "ins",
+     "record"
+    ],
+    [
+     "eq",
+     "diesel"
+    ],
+    [
+     "del",
+     "record \"spells"
+    ],
+    [
+     "ins",
+     "prices \"spell"
+    ],
+    [
+     "eq",
+     "pain not only at the pumps for drivers, but for everyone who"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and is now hovering at around $108 per barrel. Before the US"
+    ],
+    [
+     "ins",
+     "and Israel"
+    ],
+    [
+     "eq",
+     "invaded Iran, it was trading at around $73. Supplies of diesel internationally"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.283,
+  "numbers_changed": [
+   "174.13",
+   "174.23",
+   "199.18",
+   "199.33",
+   "5"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.15,
+ "similarity": 0.9794,
+ "adjudicated_by": "rules"
+}

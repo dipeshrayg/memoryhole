@@ -1,0 +1,166 @@
+{
+ "id": "cb0351a0346f789d-72087f88-8c9b7a7c",
+ "url": "https://www.bbc.co.uk/sport/football/articles/cj62eyx9grzxo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-09-29T12:39:44Z",
+ "date": "2026-09-29",
+ "old_title": "England defenders Ezri Konsa and Nico O'Reilly doubts to face Czech Republic",
+ "new_title": "England defender Nico O'Reilly to miss Czech Republic match but Ezri Konsa in squad",
+ "old_text": "- Published\nEzri Konsa and Nico O'Reilly are both doubts to play in England's Nations League match against the Czech Republic on Tuesday night.\nThe pair were the only two members of the England squad to miss training on Monday morning, with the players following their own individual programmes.\nBoth played the full 90 minutes in England's 3-2 loss to Spain on Saturday.\nManchester City's O'Reilly started at left-back, a position he made his own during the World Cup, and his absence would open an opportunity for Lewis Hall to play.\nIt was O'Reilly's mistake which led to Alex Baena drawing Spain level at 2-2 at Wembley before the World Cup winners went on to claim victory.\nArsenal centre-back Konsa has become one of Tuchel's most trusted players and started seven of the eight matches at the World Cup.\nCentral defender Jarrad Branthwaite came on for Marc Guehi late on against Spain and could be a contender to start if Konsa is unavailable.\nEngland play four matches in this international window and, after the loss to Spain, take on the Czech Republic both home and away, either side of travelling to Rijeka to play Croatia.",
+ "new_text": "- Published\nNico O'Reilly has been ruled out of England's Nations League match against the Czech Republic on Tuesday night but Ezri Konsa is set to be in the squad.\nThe pair were the only two members of the England squad to miss training on Monday morning, with the players following their own individual programmes.\nBoth played the full 90 minutes in England's 3-2 loss to Spain on Saturday but O'Reilly will miss the trip to Prague.\nLiverpool winger Rio Ngumoha, who missed out on the matchday squad for the defeat by Spain, has been called up as O'Reilly's replacement.\nO'Reilly's absence could provide an opportunity for Newcastle United's Lewis Hall to stake his claim for a starting spot at left-back.\nIt was O'Reilly's mistake which led to Alex Baena drawing Spain level at 2-2 at Wembley before the World Cup winners went on to claim victory.\nArsenal centre-back Konsa has become one of Tuchel's most trusted players and started seven of the eight matches at the World Cup.\nCentral defender Jarrad Branthwaite came on for Marc Guehi late on against Spain and could be a contender to start if Konsa is unavailable.\nEngland play four matches in this international window and, after the loss to Spain, take on the Czech Republic both home and away, either side of travelling to Rijeka to play Croatia.\n'England showed their style against Spain'\nBefore the loss to Spain at Wembley on Saturday, there was a lot of debate about England's style of play and identity.\nBarcelona forward Anthony Gordon said the Three Lions should play a more traditional way, while Tuchel said he may start to \"embrace the chaos\".\nEngland came from behind to lead Spain 2-1, with Harry Kane then missing a penalty before the world champions scored twice to win the match 3-2.\n\"I think we showed our style, and showed our courage and identity - they showed it throughout the 90 minutes,\" said Tuchel.\n\"I think we were a valid part of a very good football match overall, over 90 minutes both teams showed our quality.\n\"We caused ourselves some problems with individual mistakes. It should not happen, but it happened.\n\"But I think we played our way, and we encouraged the players to play their way, and the way they want to play.\"\nThe matches England are playing in the Nations League come in the new format of an international break which will bring the team together for three weeks.\nAnd Tuchel, who has to prepare the players for four games in 11 days, said he has found having the matches in a short period of time difficult.\n\"I find this format now even more challenging than any other format, I have to say, a lot of travelling and playing twice within only two days of rest in between and then flying and a change of pitches,\" added the German.\n\"I think the change of training in itself, the change of training style, the change of style of play, sometimes the change of position for a player between national team and club brings its own risks for injury, and I think this format is my feeling at the moment, it increases it more than decreases.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "Ezri Konsa and"
+    ],
+    [
+     "eq",
+     "Nico O'Reilly"
+    ],
+    [
+     "del",
+     "are both doubts to play in"
+    ],
+    [
+     "ins",
+     "has been ruled out of"
+    ],
+    [
+     "eq",
+     "England's Nations League match against the Czech Republic on Tuesday"
+    ],
+    [
+     "del",
+     "night."
+    ],
+    [
+     "ins",
+     "night but Ezri Konsa is set to be in the squad."
+    ],
+    [
+     "eq",
+     "The pair were the only two members of the England squad to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "played the full 90 minutes in England's 3-2 loss to Spain on"
+    ],
+    [
+     "del",
+     "Saturday. Manchester City's"
+    ],
+    [
+     "ins",
+     "Saturday but"
+    ],
+    [
+     "eq",
+     "O'Reilly"
+    ],
+    [
+     "del",
+     "started at left-back, a position he made his own during"
+    ],
+    [
+     "ins",
+     "will miss"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "World Cup, and his"
+    ],
+    [
+     "ins",
+     "trip to Prague. Liverpool winger Rio Ngumoha, who missed out on the matchday squad for the defeat by Spain, has been called up as O'Reilly's replacement. O'Reilly's"
+    ],
+    [
+     "eq",
+     "absence"
+    ],
+    [
+     "del",
+     "would open"
+    ],
+    [
+     "ins",
+     "could provide"
+    ],
+    [
+     "eq",
+     "an opportunity for"
+    ],
+    [
+     "ins",
+     "Newcastle United's"
+    ],
+    [
+     "eq",
+     "Lewis Hall to"
+    ],
+    [
+     "del",
+     "play."
+    ],
+    [
+     "ins",
+     "stake his claim for a starting spot at left-back."
+    ],
+    [
+     "eq",
+     "It was O'Reilly's mistake which led to Alex Baena drawing Spain level"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "home and away, either side of travelling to Rijeka to play Croatia."
+    ],
+    [
+     "ins",
+     "'England showed their style against Spain' Before the loss to Spain at Wembley on Saturday, there was a lot of debate about England's style of play and identity. Barcelona forward Anthony Gordon said the Three Lions should play a more traditional way, while Tuchel said he may start to \"embrace the chaos\". England came from behind to lead Spain 2-1, with Harry Kane then missing a penalty before the world champions scored twice to win the match 3-2. \"I think we showed our style, and showed our courage and identity - they showed it throughout the 90 minutes,\" said Tuchel. \"I think we were a valid part of a very good football match overall, over 90 minutes both teams showed our quality. \"We caused ourselves some problems with individual mistakes. It should not happen, but it happened. \"But I think we played our way, and we encouraged the players to play their way, and the way they want to play.\" The matches England are playing in the Nations League come in the new format of an international break which will bring the team together for three weeks. And Tuchel, who has to prepare the players for four games in 11 days, said he has found having the matches in a short period of time difficult. \"I find this format now even more challenging than any other format, I have to say, a lot of travelling and playing twice within only two days of rest in between and then flying and a change of pitches,\" added the German. \"I think the change of training in itself, the change of training style, the change of style of play, sometimes the change of position for a player between national team and club brings its own risks for injury, and I think this format is my feeling at the moment, it increases it more than decreases.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 2.0615,
+  "numbers_changed": [
+   "1",
+   "11",
+   "2",
+   "3",
+   "90"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.449,
+ "similarity": 0.9201,
+ "adjudicated_by": "rules"
+}

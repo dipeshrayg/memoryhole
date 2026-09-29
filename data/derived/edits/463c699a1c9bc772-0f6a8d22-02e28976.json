@@ -1,0 +1,52 @@
+{
+ "id": "463c699a1c9bc772-0f6a8d22-02e28976",
+ "url": "https://variety.com/2026/tv/news/icebreaker-netflix-series-cast-daisy-jelley-connor-simos-1236875946/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-09-29T12:44:16Z",
+ "date": "2026-09-29",
+ "old_title": "'Icebreaker' Netflix Series Casts Daisy Jelley, Connor Simos in Lead Roles (EXCLUSIVE)",
+ "new_title": "'Icebreaker' Netflix Series Casts Daisy Jelley, Connor Simos in Lead Roles (EXCLUSIVE)",
+ "old_text": "The Netflix series adaptation of \"Icebreaker\" has found its two leads.\nVariety has learned exclusively that Daisy Jelley and Connor Simos will star in the series take on the Hannah Grace novel of the same name in the roles of Anastasia \"Stassie\" Allen and Nate Hawkins, respectively. The show was originally announced at Netflix back in June.\nThe logline for the show states, \"She's the transfer gunning for Olympic gold. He's the campus star chasing the NHL. But when an accident forces their teams to share one rink, Anastasia Allen and Nate Hawkins collide-and discipline gives way to obsession, because the only thing more dangerous than wanting to win is wanting each other.\"\nPopular on Variety\nJelley previously appeared in the Netflix series \"Geek Girl,\" which was itself based on the YA novel of the same name, while she will also star in the upcoming original series \"Poser\" at the streamer. In film, she has been in features like \"How to Have Sex.\" \"Icebreaker\" will mark Simos' first credited TV role. He will next be seen in the thriller film \"Subversion,\" which stars Chris Hemsworth and Lily James.\nJelley is repped by Olivia Bell Management, Strand Entertainment, and Yorn Levine Barnes. Simos is repped by Echo Lake Entertainment.\nAmanda Lasher and Jade Halley Bartlett are both attached to write and executive produce the adaptation, with Bartlett credited as the creator and Lasher set to serve as showrunner. Alex Cooper, Matt Kaplan, and Mina Lefevre will executive produce via Unwell Productions, with Grace also executive producing.\n\"Icebreaker\" is the first of three novels that Grace has published in the Maple Hills series, which are set at the fictional University of California, Maple Hills. \"Icebreaker\" spent 70 consecutive weeks on the New York Times bestseller list. It was originally published in 2022 with a wide release in 2023. The book has sold nearly 5 million copies worldwide.\nThe series comes as audiences have become more and more enamored with romances set at the skating rink. \"Heated Rivalry,\" about two pro hockey players engaged in a secret love affair, took the world by storm when it was released in late 2025. Amazon also recently released the series \"Off Campus,\" the first season of which follows a star college hockey player and his relationship with a music student at the same school. Both shows are based off of book series.\nNetflix has also found great success with adapations of popular novels, like \"Bridgerton,\" \"The Queen's Gambit,\" and \"To All The Boys I've Loved Before.\"",
+ "new_text": "The Netflix series adaptation of \"Icebreaker\" has found its two leads.\nVariety has learned exclusively that Daisy Jelley and Connor Simos will star in the series take on the Hannah Grace novel of the same name in the roles of Anastasia \"Stassie\" Allen and Nate Hawkins, respectively. The show was originally announced at Netflix back in June.\nThe logline for the show states, \"She's the transfer gunning for Olympic gold. He's the campus star chasing the NHL. But when an accident forces their teams to share one rink, Anastasia Allen and Nate Hawkins collide-and discipline gives way to obsession, because the only thing more dangerous than wanting to win is wanting each other.\"\nPopular on Variety\nJelley previously appeared in the Netflix series \"Geek Girl,\" which was itself based on the YA novel of the same name, while she will also star in the upcoming original series \"Poser\" at the streamer. In film, she has been in features like \"How to Have Sex.\" \"Icebreaker\" will mark Simos' first credited TV role. He will next be seen in the thriller film \"Subversion,\" which stars Chris Hemsworth and Lily James.\nJelley is repped by Olivia Bell Management, Strand Entertainment, and Yorn Levine Barnes. Simos is repped by Echo Lake Entertainment, Australia's LMCM, and Myman Greenspan.\nAmanda Lasher and Jade Halley Bartlett are both attached to write and executive produce the adaptation, with Bartlett credited as the creator and Lasher set to serve as showrunner. Alex Cooper, Matt Kaplan, and Mina Lefevre will executive produce via Unwell Productions, with Grace also executive producing.\n\"Icebreaker\" is the first of three novels that Grace has published in the Maple Hills series, which are set at the fictional University of California, Maple Hills. \"Icebreaker\" spent 70 consecutive weeks on the New York Times bestseller list. It was originally published in 2022 with a wide release in 2023. The book has sold nearly 5 million copies worldwide.\nThe series comes as audiences have become more and more enamored with romances set at the skating rink. \"Heated Rivalry,\" about two pro hockey players engaged in a secret love affair, took the world by storm when it was released in late 2025. Amazon also recently released the series \"Off Campus,\" the first season of which follows a star college hockey player and his relationship with a music student at the same school. Both shows are based off of book series.\nNetflix has also found great success with adapations of popular novels, like \"Bridgerton,\" \"The Queen's Gambit,\" and \"To All The Boys I've Loved Before.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Strand Entertainment, and Yorn Levine Barnes. Simos is repped by Echo Lake"
+    ],
+    [
+     "del",
+     "Entertainment."
+    ],
+    [
+     "ins",
+     "Entertainment, Australia's LMCM, and Myman Greenspan."
+    ],
+    [
+     "eq",
+     "Amanda Lasher and Jade Halley Bartlett are both attached to write and"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0167,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,46 @@
+{
+ "id": "21bcf528db622b12-cce7de75-cf4ea3bf",
+ "url": "https://www.theguardian.com/science/2026/sep/28/can-you-solve-it-isaac-newtons-tower-drop-puzzle",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-09-29T12:40:08Z",
+ "date": "2026-09-29",
+ "old_title": "Can you solve it? Isaac Newton's tower drop puzzle",
+ "new_title": "Can you solve it? Isaac Newton's tower drop puzzle",
+ "old_text": "Today's puzzle played a pivotal role in the birth of classical physics.\nThe tower drop\nAn object is dropped from a high tower. Bearing in mind the rotation of the Earth itself, where will the object land?\n-\nslightly to the west\n-\nslightly to the east\n-\nexactly at the bottom\nThe answer is counter-intuitive. Or, in the words of Isaac Newton, who posed the problem in a letter he wrote to Robert Hooke in 1679, the answer is \"quite contrary to ye opinion of ye vulgar.\"\nSome hints. Think about how the spin of the Earth might affect the downwards trajectory. Also think about what happens when a spinning figure skater pulls in their arms.\nI'll be back at 5pm UK with the solution.\nPLEASE NO SPOILERS. Instead discuss your favourite seventeenth century scientists.\nToday's puzzle was suggested by David Acheson, emeritus professor of maths at Oxford and the author of several excellent popular maths books. His latest is Wonders in Motion, The Story of Dynamics, a beautifully accessible introduction to the science of motion.\nAcheson's book includes more background about the tower drop puzzle. Hooke's correspondence with Newton rekindled Newton's interest in gravity and motion, which ultimately led to his formulation of the mathematical foundations of classical physics in the Principia.\nWonders of Motion by David Acheson is on sale at the Guardian Bookshop.",
+ "new_text": "Today's puzzle played a pivotal role in the birth of classical physics.\nThe tower drop\nAn object is dropped from a high tower. Bearing in mind the rotation of the Earth itself, where will the object land?\n-\nslightly to the west\n-\nslightly to the east\n-\nexactly at the bottom\nThe answer is counter-intuitive. Or, in the words of Isaac Newton, who posed the problem in a letter he wrote to Robert Hooke in 1679, the answer is \"quite contrary to ye opinion of ye vulgar.\"\nSome hints. Think about how the spin of the Earth might affect the downwards trajectory. Also think about what happens when a spinning figure skater pulls in their arms.\nI'll be back at 5pm UK with the solution.\nPLEASE NO SPOILERS. Instead discuss your favourite seventeenth century scientists.\nToday's puzzle was suggested by David Acheson, emeritus professor of maths at Oxford and the author of several excellent popular maths books. His latest is Wonders in Motion, The Story of Dynamics, a beautifully accessible introduction to the science of motion.\nAcheson's book includes more background about the tower drop puzzle. Hooke's correspondence with Newton rekindled Newton's interest in gravity and motion, which ultimately led to his formulation of the mathematical foundations of classical physics in the Principia.\nWonders of Motion by David Acheson is on sale at the Guardian Bookshop.\nI've been setting a puzzle here on alternate Mondays since 2015. I'm always on the look-out for great puzzles. If you would like to suggest one, email me.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "of Motion by David Acheson is on sale at the Guardian Bookshop."
+    ],
+    [
+     "ins",
+     "I've been setting a puzzle here on alternate Mondays since 2015. I'm always on the look-out for great puzzles. If you would like to suggest one, email me."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1233,
+  "numbers_changed": [
+   "2015"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}
