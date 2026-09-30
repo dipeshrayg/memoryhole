@@ -1,0 +1,87 @@
+{
+ "id": "0f4b555a2304d39b-ac37c7f4-3e789ca2",
+ "url": "https://www.abc.net.au/news/2026-09-29/israeli-air-strike-kills-hamas-leader-in-gaza/107209362",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-30T12:18:00Z",
+ "date": "2026-09-30",
+ "old_title": "Israeli air strike kills Hamas leader in Gaza",
+ "new_title": "Israeli air strike kills Hamas leader in Gaza",
+ "old_text": "Israeli air strike kills head of Hamas in Gaza Strip\nIn short:\nPalestinian and Israeli officials have confirmed the head of Hamas' armed wing in the northern Gaza Strip has been killed in an Israeli air-strike in Gaza.\nHealth officials said a second person died from wounds sustained in the attack.\nThe Israeli military says it has killed at least 20 Hamas figures this month, including some it identified as senior commanders involved in the October 7, 2023 attacks.",
+ "new_text": "In short:\nPalestinian and Israeli officials have confirmed the head of Hamas' armed wing in the northern Gaza Strip has been killed in an Israeli air-strike in Gaza.\nHealth officials said a second person died from wounds sustained in the attack, a third died in a strike near a medical-clinic.\nThe Israeli military says it has killed at least 20 Hamas figures this month, including some it identified as senior commanders involved in the October 7, 2023 attacks.\nAn Israeli air-strike killed the head of Hamas' armed wing in north Gaza, officials on both sides said, with the militant group describing him as a leader of the October 7, 2023 attack that precipitated war in the Palestinian enclave.\nIzz al-Din Al-Beik, the head of Hamas' armed wing in the northern Gaza Strip, was among three killed in Israeli-strikes on Tuesday.\nIsraeli Prime Minister Benjamin Netanyahu and Defence Minister Israel Katz said the Israeli military targeted Al-Beik, who they accused of planning attacks and recruiting militants.\nIreland refuses Israel handshake\nMedics said the Israeli strike hit an apartment building in Gaza City's Nasr neighbourhood around dawn.\nA second person died from wounds after the attack, health officials said.\nLater on Tuesday, an Israeli air-strike near a medical clinic in Jabalia refugee camp killed one person, taking the day's death toll to at least three, medics said.\nThe military said it had targeted a militant in the area.\nIsrael, which says Hamas has been rearming and launching attacks in violation of an October ceasefire, has stepped up strikes on the group in recent weeks.\nHundreds gather for mass funerals in Gaza\nAlso on Tuesday, Palestinians in the Nuseirat refugee camp in central Gaza buried the remains of 41 people killed by Israeli fire nearly three years ago.\nTheir bodies were recently recovered from ruins.\nHundreds of relatives and friends gathered in an open space to pay respect as the remains were placed in white shrouds decorated by Palestinian flags.\n\"There are mixed feelings between relief, sadness, and pain. But thank God, the fire in my heart has eased a little, because my husband now has a grave that my orphaned children and I can visit,\" said Areej Farajallah, who lost her husband in the October 31, 2023 strike.\nPalestinian authorities estimate more than 8,000 bodies remain buried in wreckage. A Palestinian recovery team that combed wreckage in Gaza City last month said it found the remains of 112 people from the same clan.\n\"With minimal equipment, their remains were recovered after hours of work, retrieving what was left of bones, some skulls, and hair with which it is extremely difficult for us to identify them,\" said Rami Al-Ayedi, of Gaza's Civil Defence Service.\nThe Israeli military says it has killed at least 20 Hamas figures this month, including some it identified as senior commanders or people who took part in the October 7, 2023 attacks or held Israeli hostages.\nHamas has denied trying to carry out attacks or rebuilding its arsenal and accuses Israel of undermining the Gaza deal.\nA US-brokered ceasefire agreed last year called for the eventual reconstruction of the territory, but little progress has been made amid a failure to agree on terms for Hamas to disarm and Israel to withdraw its troops.\nDelegates walk out on Netanyahu\nAt least 1,400 Palestinians have been killed in Gaza since the ceasefire took effect, according to the territory's health officials. The Israeli military says four Israeli soldiers have been killed.\nPalestinian authorities say more than 73,000 people have been killed in Israel's assault on Gaza, launched after Hamas-led fighters killed about 1,200 people in southern Israel in October 2023.\nReuters",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Israeli air strike kills head of Hamas in Gaza Strip"
+    ],
+    [
+     "eq",
+     "In short: Palestinian and Israeli officials have confirmed the head of Hamas'"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Health officials said a second person died from wounds sustained in the"
+    ],
+    [
+     "del",
+     "attack."
+    ],
+    [
+     "ins",
+     "attack, a third died in a strike near a medical-clinic."
+    ],
+    [
+     "eq",
+     "The Israeli military says it has killed at least 20 Hamas figures"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "it identified as senior commanders involved in the October 7, 2023 attacks."
+    ],
+    [
+     "ins",
+     "An Israeli air-strike killed the head of Hamas' armed wing in north Gaza, officials on both sides said, with the militant group describing him as a leader of the October 7, 2023 attack that precipitated war in the Palestinian enclave. Izz al-Din Al-Beik, the head of Hamas' armed wing in the northern Gaza Strip, was among three killed in Israeli-strikes on Tuesday. Israeli Prime Minister Benjamin Netanyahu and Defence Minister Israel Katz said the Israeli military targeted Al-Beik, who they accused of planning attacks and recruiting militants. Ireland refuses Israel handshake Medics said the Israeli strike hit an apartment building in Gaza City's Nasr neighbourhood around dawn. A second person died from wounds after the attack, health officials said. Later on Tuesday, an Israeli air-strike near a medical clinic in Jabalia refugee camp killed one person, taking the day's death toll to at least three, medics said. The military said it had targeted a militant in the area. Israel, which says Hamas has been rearming and launching attacks in violation of an October ceasefire, has stepped up strikes on the group in recent weeks. Hundreds gather for mass funerals in Gaza Also on Tuesday, Palestinians in the Nuseirat refugee camp in central Gaza buried the remains of 41 people killed by Israeli fire nearly three years ago. Their bodies were recently recovered from ruins. Hundreds of relatives and friends gathered in an open space to pay respect as the remains were placed in white shrouds decorated by Palestinian flags. \"There are mixed feelings between relief, sadness, and pain. But thank God, the fire in my heart has eased a little, because my husband now has a grave that my orphaned children and I can visit,\" said Areej Farajallah, who lost her husband in the October 31, 2023 strike. Palestinian authorities estimate more than 8,000 bodies remain buried in wreckage. A Palestinian recovery team that combed wreckage in Gaza City last month said it found the remains of 112 people from the same clan. \"With minimal equipment, their remains were recovered after hours of work, retrieving what was left of bones, some skulls, and hair with which it is extremely difficult for us to identify them,\" said Rami Al-Ayedi, of Gaza's Civil Defence Service. The Israeli military says it has killed at least 20 Hamas figures this month, including some it identified as senior commanders or people who took part in the October 7, 2023 attacks or held Israeli hostages. Hamas has denied trying to carry out attacks or rebuilding its arsenal and accuses Israel of undermining the Gaza deal. A US-brokered ceasefire agreed last year called for the eventual reconstruction of the territory, but little progress has been made amid a failure to agree on terms for Hamas to disarm and Israel to withdraw its troops. Delegates walk out on Netanyahu At least 1,400 Palestinians have been killed in Gaza since the ceasefire took effect, according to the territory's health officials. The Israeli military says four Israeli soldiers have been killed. Palestinian authorities say more than 73,000 people have been killed in Israel's assault on Gaza, launched after Hamas-led fighters killed about 1,200 people in southern Israel in October 2023. Reuters"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 6.9873,
+  "numbers_changed": [
+   "1,200",
+   "1,400",
+   "112",
+   "20",
+   "2023",
+   "31",
+   "41",
+   "7",
+   "73,000",
+   "8,000"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.235,
+ "similarity": 0.8391,
+ "adjudicated_by": "rules"
+}

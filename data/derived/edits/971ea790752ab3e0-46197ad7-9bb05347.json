@@ -1,0 +1,96 @@
+{
+ "id": "971ea790752ab3e0-46197ad7-9bb05347",
+ "url": "https://www.abc.net.au/news/2026-09-29/phoenix-crossland-nrl-judiciary-grand-final-nathan-cleary/107208384",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-30T12:18:06Z",
+ "date": "2026-09-30",
+ "old_title": "Crossland to miss NRL GF with four-game ban for Cleary tackle",
+ "new_title": "Crossland to miss NRL grand final with four-game ban for Cleary tackle",
+ "old_text": "Newcastle Knights hooker Phoenix Crossland has been suspended for four games by the NRL judiciary for the tackle that left Penrith's Nathan Cleary with a broken leg.\nCrossland pleaded guilty to the dangerous contact charge on Tuesday before fronting the judiciary to learn his fate.\nHe will now miss this Sunday's NRL grand final.\nThe ban would also rule him out of New Zealand's three World Cup pool games.\nCrossland was sent off for a hip drop tackle on Cleary in the 36th minute of Newcastle's preliminary final win over the Panthers.\nCleary suffered a compound fracture and a dislocated ankle.\nCrossland was represented by barrister James McLeod, who made the case for his client to receive a two or three-week ban.\nCrossland cited his career record, telling the judiciary he had never before been sent off. He admitted he got the execution of the tackle wrong but insisted \"wasn't trying to hurt anyone\".\nArguing for a four-game suspension, the NRL said Crossland's tackle failed to exercise a proper duty of care and, while accidental, did not show enough caution towards Cleary.\nCrossland told the judiciary was deeply remorseful for Cleary's injury and had reached out to the Panthers star.\n\"I called him yesterday. It was obviously a tough phone call,\" Crossland said.\n\"I reached out to his dad [Panthers coach Ivan Cleary] as well.\n\"Nathan was great, he said not to worry about and he understood it was an accident.\n\"He was such a gentlemen, he told me to stop saying sorry.\n\"He's my favourite player in the game by a mile. He's the best player in the game and I look up to him.\"\nCrossland described the incident and fallout as a low point in his life. In his submissions, McLeod produced abusive Instagram messages that had been directed towards Crossland in the past 48 hours.\n\"It's killing me, it's been the worst couple of days of my life,\" Crossland said.\n\"It's meant to be the best week of my life and it's been far from it.\"\nThe verdict sets up a scenario where 19-year-old Knight Diesel Hagan could make his NRL debut in a grand final.\nIt would be the first time such a debut has taken place in 90 years. Eddie Lockhart was the last to do it in 1936, for Balmain.\nHarrison Graham will almost certainly shift to a starting role for Newcastle in the grand final, while other options for the Knights include Thomas Cant and Jermaine McEwen.\nThe ABC of SPORT\nSports content to make you think... or allow you not to. A newsletter delivered each Saturday.",
+ "new_text": "Newcastle Knights hooker Phoenix Crossland has been suspended for four games by the NRL judiciary for the tackle that left Penrith's Nathan Cleary with a broken leg.\nCrossland pleaded guilty to the dangerous contact charge on Tuesday before fronting the judiciary to learn his fate.\nHe will now miss this Sunday's NRL grand final.\nThe ban would also rule him out of New Zealand's three World Cup pool games.\nCrossland was sent off for a hip drop tackle on Cleary in the 36th minute of Newcastle's preliminary final win over the Panthers.\nCleary suffered a compound fracture and a dislocated ankle.\nCrossland was represented by barrister James McLeod, who made the case for his client to receive a two or three-week ban.\nCrossland cited his career record, telling the judiciary he had never before been sent off. He admitted he got the execution of the tackle wrong but insisted \"wasn't trying to hurt anyone\".\nArguing for a four-game suspension, the NRL said Crossland's tackle failed to exercise a proper duty of care and, while accidental, did not show enough caution towards Cleary.\nCrossland told the judiciary was deeply remorseful for Cleary's injury and had reached out to the Panthers star.\n\"I called him yesterday. It was obviously a tough phone call,\" Crossland said.\n\"I reached out to his dad [Panthers coach Ivan Cleary] as well.\n\"Nathan was great, he said not to worry about and he understood it was an accident.\n\"He was such a gentleman ... he told me to stop saying sorry.\n\"He's my favourite player in the game by a mile,\" Crossland said.\nCrossland added: \"He's the best player in the game and I look up to him.\"\nCrossland described the incident and fallout as a low point in his life. In his submissions, McLeod produced abusive Instagram messages that had been directed towards Crossland in the past 48 hours.\n\"It's killing me,\" he said.\nCrossland added: \"It's been the worst couple of days of my life.\n\"It's meant to be the best week of my life and it's been far from it.\"\nThe verdict sets up a scenario where 19-year-old Knight Diesel Hagan could make his NRL debut in a grand final.\nIt would be the first time such a debut has taken place in 90 years. Eddie Lockhart was the last to do it in 1936, for Balmain.\nHarrison Graham will almost certainly shift to a starting role for Newcastle in the grand final, while other options for the Knights include Thomas Cant and Jermaine McEwen.\nThe ABC of SPORT\nSports content to make you think... or allow you not to. A newsletter delivered each Saturday.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "about and he understood it was an accident. \"He was such a"
+    ],
+    [
+     "del",
+     "gentlemen,"
+    ],
+    [
+     "ins",
+     "gentleman ..."
+    ],
+    [
+     "eq",
+     "he told me to stop saying sorry. \"He's my favourite player in the game by a"
+    ],
+    [
+     "del",
+     "mile. He's"
+    ],
+    [
+     "ins",
+     "mile,\" Crossland said. Crossland added: \"He's"
+    ],
+    [
+     "eq",
+     "the best player in the game and I look up to him.\""
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "had been directed towards Crossland in the past 48 hours. \"It's killing"
+    ],
+    [
+     "del",
+     "me, it's"
+    ],
+    [
+     "ins",
+     "me,\" he said. Crossland added: \"It's"
+    ],
+    [
+     "eq",
+     "been the worst couple of days of my"
+    ],
+    [
+     "del",
+     "life,\" Crossland said."
+    ],
+    [
+     "ins",
+     "life."
+    ],
+    [
+     "eq",
+     "\"It's meant to be the best week of my life and it's"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.053,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

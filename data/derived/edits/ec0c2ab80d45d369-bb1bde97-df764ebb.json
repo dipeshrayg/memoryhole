@@ -1,0 +1,60 @@
+{
+ "id": "ec0c2ab80d45d369-bb1bde97-df764ebb",
+ "url": "https://www.independent.co.uk/bulletin/news/climate-change-lassa-fever-rodent-disease-b3058246.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-30T12:18:52Z",
+ "date": "2026-09-30",
+ "old_title": "Experts say climate change could lead to rodent-borne disease spike",
+ "new_title": "Deadly Lassa virus could be on the rise due to climate change",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nExperts say climate change could lead to a spike in rodent-borne disease\n- Increased rainfall driven by climate change could trigger more outbreaks of rodent-borne diseases such as Lassa fever, according to a study published in PNAS.\n- Lassa fever causes an estimated 5,000 deaths annually in western Africa and is particularly dangerous in late-term pregnancies, causing fatal outcomes in over 80 per cent of cases.\n- Researchers from the Natural History Museum and University of Oxford developed a predictive model using 30 years of rodent data that accurately matched human outbreak timings in Nigeria.\n- Wetter weather boosts rodent populations by increasing food availability, while the Lassa virus survives between breeding seasons through high rates of mother-to-offspring transmission.\n- Peaks in infected young rodents occur approximately one month prior to human outbreak peaks, offering potential for early warning systems to mitigate disease risk.\nMore bulletins",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nDeadly Lassa virus could be on the rise due to climate change\n- Increased rainfall driven by climate change could trigger more outbreaks of rodent-borne diseases such as Lassa fever, according to a study published in PNAS.\n- Lassa fever causes an estimated 5,000 deaths annually in western Africa and is particularly dangerous in late-term pregnancies, causing fatal outcomes in over 80 per cent of cases.\n- Researchers from the Natural History Museum and University of Oxford developed a predictive model using 30 years of rodent data that accurately matched human outbreak timings in Nigeria.\n- Wetter weather boosts rodent populations by increasing food availability, while the Lassa virus survives between breeding seasons through high rates of mother-to-offspring transmission.\n- Peaks in infected young rodents occur approximately one month prior to human outbreak peaks, offering potential for early warning systems to mitigate disease risk.\nMore bulletins",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Start your Independent Membership today. Join today Already a member? Log in"
+    ],
+    [
+     "del",
+     "Experts say"
+    ],
+    [
+     "ins",
+     "Deadly Lassa virus could be on the rise due to"
+    ],
+    [
+     "eq",
+     "climate change"
+    ],
+    [
+     "del",
+     "could lead to a spike in rodent-borne disease"
+    ],
+    [
+     "eq",
+     "- Increased rainfall driven by climate change could trigger more outbreaks of"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1117,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9882,
+ "adjudicated_by": "rules"
+}

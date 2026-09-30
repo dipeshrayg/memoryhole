@@ -1,0 +1,190 @@
+{
+ "id": "72ead8db5a950950-4078ff58-63da53e4",
+ "url": "https://www.bbc.co.uk/news/articles/c6n07lj4egn2o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-09-30T12:13:57Z",
+ "date": "2026-09-30",
+ "old_title": "North Wales Police search for mother after body of baby found in Bangor",
+ "new_title": "North Wales Police search for mother after body of baby found in Bangor",
+ "old_text": "- Published\nThe body of a newborn baby has been found along a shoreline in north Wales.\nNorth Wales Police have appealed for the mother who may be \"extremely vulnerable\" to come forward.\nA member of the public found the body on the Menai Strait shoreline near Siliwen Road on Sunday shortly before 17:00 BST.\nDuring a press conference, Director of Midwifery and Women's Services for Betsi Cadwaladr health board Fiona Giraud has appealed directly to the mother to come forward.\n\"I want you to know that our immediate concern is for your health, safety and wellbeing. We recognise that you may be feeling frightened, overwhelmed or unsure about what to do next,\" she said.\nGiraud said they \"have real concerns for the health of the mother\".\n\"We recognise that she is likely to be extremely vulnerable. She may be fearful of seeking the support she needs through fear of identifying herself.\n\"You may feel you have nowhere to turn, or that you cannot speak to anyone about what has happened. Please do not feel that you have to face this alone.\n\"We don't yet know all the circumstances surrounding your baby's death but what is important right now is that we find you, make sure you are safe, and ensure you receive any medical attention and support you may need.\n\"I am asking you personally, to please get in touch with us. You can speak to a healthcare professional, approach a police officer or attend a police station.\n\"If you are watching or listening to this appeal, please know that we want to hear from you. Please take the first step and contact us. There are people to help you.\"\nDet Sgt Kelly Wynne said they were concerned the mother \"may not be in a position to reach out for support\", and appealed to the baby's father and the mother's family, friends, neighbours or colleagues who may have information.\n\"If you have any information regarding a woman or girl you think may have been pregnant or whose behaviour has been unusual or out of character over the past few months including withdrawing from friends, family or social ties, please contact us.\n\"We appreciate coming forward is difficult, but inaction is not an option.\"\nA post-mortem examination is due to take place on Wednesday afternoon.\nThis breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version.\nYou can receive Breaking News on a smartphone or tablet via the BBC News App. You can also follow @BBCBreaking on X, external to get the latest alerts.",
+ "new_text": "- Published\nThe body of a newborn baby has been found along a shoreline in north Wales.\nNorth Wales Police has appealed for the mother who may be \"extremely vulnerable\" to come forward.\nA member of the public found the body on the Menai Strait shoreline near Siliwen Road, in Bangor, on Sunday shortly before 17:00 BST.\nDuring a press conference, director of midwifery and women's services for Betsi Cadwaladr University Health Board Fiona Giraud has appealed directly to the mother to come forward.\n\"I want you to know that our immediate concern is for your health, safety and wellbeing. We recognise that you may be feeling frightened, overwhelmed or unsure about what to do next,\" she said.\nThe force has not revealed any information about the baby's gender or age.\nGiraud said they \"have real concerns for the health of the mother\".\n\"We recognise that she is likely to be extremely vulnerable. She may be fearful of seeking the support she needs through fear of identifying herself.\n\"You may feel you have nowhere to turn, or that you cannot speak to anyone about what has happened. Please do not feel that you have to face this alone.\n\"We don't yet know all the circumstances surrounding your baby's death but what is important right now is that we find you, make sure you are safe, and ensure you receive any medical attention and support you may need.\n\"I am asking you personally, to please get in touch with us. You can speak to a healthcare professional, approach a police officer or attend a police station.\n\"If you are watching or listening to this appeal, please know that we want to hear from you. Please take the first step and contact us. There are people to help you.\"\nDet Sgt Kelly Wynne said they were concerned the mother \"may not be in a position to reach out for support\", and appealed to the baby's father and the mother's family, friends, neighbours or colleagues who may have information.\n\"If you have any information regarding a woman or girl you think may have been pregnant or whose behaviour has been unusual or out of character over the past few months including withdrawing from friends, family or social ties, please contact us.\n\"We appreciate coming forward is difficult, but inaction is not an option.\"\nA post-mortem examination is due to take place on Wednesday afternoon.\nThe force said people living in Bangor may see an increased police presence over the next few days while the investigation continues.\nIt urged anyone with information to contact them on 101, quoting Operation Melex.\nIt added a Major Incident Public Portal, external (MIPP) had been created where anyone with information that could help the forces enquiries can directly contact police.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "has been found along a shoreline in north Wales. North Wales Police"
+    ],
+    [
+     "del",
+     "have"
+    ],
+    [
+     "ins",
+     "has"
+    ],
+    [
+     "eq",
+     "appealed for the mother who may be \"extremely vulnerable\" to come forward."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the public found the body on the Menai Strait shoreline near Siliwen"
+    ],
+    [
+     "del",
+     "Road"
+    ],
+    [
+     "ins",
+     "Road, in Bangor,"
+    ],
+    [
+     "eq",
+     "on Sunday shortly before 17:00 BST. During a press conference,"
+    ],
+    [
+     "del",
+     "Director"
+    ],
+    [
+     "ins",
+     "director"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "Midwifery"
+    ],
+    [
+     "ins",
+     "midwifery"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "Women's Services"
+    ],
+    [
+     "ins",
+     "women's services"
+    ],
+    [
+     "eq",
+     "for Betsi Cadwaladr"
+    ],
+    [
+     "del",
+     "health board"
+    ],
+    [
+     "ins",
+     "University Health Board"
+    ],
+    [
+     "eq",
+     "Fiona Giraud has appealed directly to the mother to come forward. \"I"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "feeling frightened, overwhelmed or unsure about what to do next,\" she said."
+    ],
+    [
+     "ins",
+     "The force has not revealed any information about the baby's gender or age."
+    ],
+    [
+     "eq",
+     "Giraud said they \"have real concerns for the health of the mother\"."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "option.\" A post-mortem examination is due to take place on Wednesday afternoon."
+    ],
+    [
+     "del",
+     "This breaking news story is being updated and more details will be published shortly. Please refresh"
+    ],
+    [
+     "ins",
+     "The force said people living in Bangor may see an increased police presence over"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "page for"
+    ],
+    [
+     "ins",
+     "next few days while"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "fullest version. You"
+    ],
+    [
+     "ins",
+     "investigation continues. It urged anyone with information to contact them on 101, quoting Operation Melex. It added a Major Incident Public Portal, external (MIPP) had been created where anyone with information that could help the forces enquiries"
+    ],
+    [
+     "eq",
+     "can"
+    ],
+    [
+     "del",
+     "receive Breaking News on a smartphone or tablet via the BBC News App. You can also follow @BBCBreaking on X, external to get the latest alerts."
+    ],
+    [
+     "ins",
+     "directly contact police."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3149,
+  "numbers_changed": [
+   "101"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 0.96,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,28 @@
+- Published
+Chinese AI developer Moonshot is conducting an internal review after researchers were able to persuade two of its popular Kimi models to tell them how to make biological weapons and carry out assassinations.
+Mindgard, which tests the security of AI systems, told the BBC it discovered in July that Kimi K2.6 and K3 Swarm could evade safety limits put in place by developers.
+It arose during a process called "jailbreaking", where researchers use a series of complex instructions to see if AI tools ignore guardrails - which Mindgard said should have stopped Kimi from discussing concerning topics.
+Moonshot told the BBC it welcomed third-party input "as a key pillar for building better and safer AI".
+The company also told the BBC it was in discussion with Mindgard about its findings.
+Mindgard's founder Peter Garraghan told the BBC World Service programme Tech Life that its findings about Kimi K2.6 and K3 Swarm were concerning.
+"Once the jailbreak works it will talk about any topic, it will even freely offer up recommendations about other topics that are also nefarious and it will be inventive and creative," he said.
+Jailbreaks present a different kind of risk to those seen with the recent slew of high-profile AI incidents.
+These have seen autonomous AI tools known as agents, developed by US firms including OpenAI, Meta and Anthropic, hack some online services.
+While jailbreaks are complex processes that can take a lot of time and determination some experts fear hackers and other bad actors could try to use them to cause harm.
+Anthropic recently said it had identified and disrupted attempts to use one of its AI model for "malicious activity" that could support the development of biological weapons.
+Cyber-attack launchpad
+Mindgard has not proven whether the answers supplied by Kimi on concerning topics would work.
+But it argued guardrails should have prevented the models in question from entering into discussion with users on such subjects.
+The firm said it was also confident a jailbroken Kimi 2.6 could allow hackers to run code on its computing resources and connect to the internet - making it a potential launchpad for cyber-attacks.
+Garraghan defended Mindgard's decision to publicly discuss its jailbreak of Moonshot's systems, saying it had informed the developer and was not revealing key details about how it got the firm's models to ignore guardrails.
+Mindgard alerted Moonshot to the jailbreak in an email on 27 July, following up about a week later.
+It then published a blog about the issue on 12 September.
+But the company said Moonshot only made contact recently, after it was approached by the BBC for comment.
+In part of an email to Mindgard asking for more details, shared with the BBC by Moonshot, it said its model had generally shown "a high refusal rate for these types of requests" in internal evaluations.
+Preventing jailbreaks
+The findings come as the AI industry continues to be split on whether closed, proprietary models - like those powering ChatGPT and Anthropic's Claude systems - or open-source tools are the best or safest way forward.
+Kimi is an open-weight model, meaning someone could in theory take the model and run it themselves on their own computing infrastructure.
+Prof Alan Woodward, of the University of Surrey, told the BBC there was a risk open-source models might end up in the wrong hands, but they could also be harnessed for cyber-defence.
+He noted that AI firm Hugging Face used a Chinese open-source model to understand a hack later revealed to have been carried out by OpenAI agents.
+Prof Woodward said international regulation was unlikely to match the pace of AI development, saying: "It's taken us decades to agree on the format of telephone numbers."
+Like Mindgard founder Garraghan, Prof Woodward believes there should be a greater focus on identifying and prosecuting humans who misuse AI.

@@ -1,0 +1,64 @@
+{
+ "id": "ce7b13e0f7aa9e81-7866d06b-3f87e3a2",
+ "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-09-30T12:28:07Z",
+ "date": "2026-09-30",
+ "old_title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+ "new_title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+ "old_text": "On its face, the recent summit between Donald Trump and China's president Xi Jinping didn't change much in the world of AI regulation. Export controls were not discussed, with neither country seemingly interested in making concessions. An already tenuous trade truce was temporarily extended for just two months, and looming US controls that could drop soon could easily end that and trigger China to retaliate by cutting off exports of rare earths, analysts expect.\nHowever, in the background of these shaky talks, Nvidia appeared to notch a big win, as China is currently mulling relaxing controls and allowing some of its biggest AI firms to import perhaps millions more of Nvidia's banned chips over the next year.\nSources familiar with China's talks told The Information that China's tech oversight arm, the Ministry of Industry and Information Technology, asked Alibaba and ByteDance to share plans to buy Nvidia's RTX Pro 5500 chips. Although these are gaming chips, China asked firms to detail how they plan to use them, with expectations that chips could be put into servers to help power the country's most in-demand AI models.\nIncreasingly, Trump looks to Nvidia CEO Jensen Huang for advice on AI, but not everybody agrees that what's good for Nvidia is good for the United States.\nAlready the world's most valuable company, Nvidia would obviously profit enormously in a world where risks are downplayed, and both countries' priorities remain powering rapid developments in frontier AI without pumping the brakes. Some critics worry that Nvidia's profit motivations may be steering Trump's thinking at a pivotal moment when it may matter how well a president actually understands the risks of a new technology.",
+ "new_text": "On its face, the recent summit between Donald Trump and China's president, Xi Jinping, didn't change much in the world of AI regulation. Export controls were not discussed, with neither country seemingly interested in making concessions. An already tenuous trade truce was temporarily extended for just two months, and looming US controls that could drop soon could easily end that and trigger China to retaliate by cutting off exports of rare earths, analysts expect.\nHowever, in the background of these shaky talks, Nvidia appeared to notch a big win, as China is currently mulling relaxing controls and allowing some of its biggest AI firms to import perhaps millions more of Nvidia's banned chips over the next year.\nSources familiar with China's talks told The Information that China's tech oversight arm, the Ministry of Industry and Information Technology, asked Alibaba and ByteDance to share plans to buy Nvidia's RTX Pro 5500 chips. Although these are gaming chips, China asked firms to detail how they plan to use them, with expectations that chips could be put into servers to help power the country's most in-demand AI models.\nIncreasingly, Trump looks to Nvidia CEO Jensen Huang for advice on AI, but not everybody agrees that what's good for Nvidia is good for the United States.\nAlready the world's most valuable company, Nvidia would obviously profit enormously in a world where risks are downplayed, and both countries' priorities remain powering rapid developments in frontier AI without pumping the brakes. Some critics worry that Nvidia's profit motivations may be steering Trump's thinking at a pivotal moment when it may matter how well a president actually understands the risks of a new technology.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "On its face, the recent summit between Donald Trump and China's"
+    ],
+    [
+     "del",
+     "president"
+    ],
+    [
+     "ins",
+     "president,"
+    ],
+    [
+     "eq",
+     "Xi"
+    ],
+    [
+     "del",
+     "Jinping"
+    ],
+    [
+     "ins",
+     "Jinping,"
+    ],
+    [
+     "eq",
+     "didn't change much in the world of AI regulation. Export controls were"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0144,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}
