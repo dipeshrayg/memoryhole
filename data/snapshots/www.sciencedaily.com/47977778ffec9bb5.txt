@@ -1,0 +1,37 @@
+Quantum teleportation breakthrough: Scientists crack a 25-year entanglement challenge
+Scientists have cracked a decades-old challenge in measuring multi-photon quantum entanglement, potentially clearing a path toward more powerful quantum technologies.
+- Date:
+- September 29, 2026
+- Source:
+- Kyoto University
+- Summary:
+- Scientists have developed and experimentally demonstrated a long-sought method for identifying W states, an important form of multi-photon quantum entanglement. The technique could make complex entangled systems much easier to measure, opening new possibilities for quantum teleportation, communication, and computing.
+- Share:
+Quantum entanglement captures one of the strangest differences between everyday physics and the quantum world. In an entangled system, particles such as photons become linked so deeply that their properties cannot be fully described independently. Instead, the system must be treated as a whole.
+That idea clashes with the classical expectation that each particle should possess its own separate physical reality, a feature of quantum mechanics that famously troubled Albert Einstein. Yet entanglement is now considered one of the essential ingredients for emerging quantum technologies, including advanced communication, computing, and information transfer.
+The Challenge of Measuring Quantum Entanglement
+Building those technologies will require scientists not only to create multi-photon entangled states, but also to determine efficiently which type of entangled state they have produced.
+One standard approach is quantum tomography, a technique used to reconstruct and estimate a quantum state by making many measurements. The difficulty is that the amount of data required rises exponentially as more photons are added. A system involving only a modest increase in photon number can therefore demand dramatically more measurements.
+An entangled measurement offers a potentially much more efficient alternative. Instead of gathering a large collection of measurements and reconstructing the state afterward, this type of measurement can identify an entangled state using a one-shot approach.
+Scientists had already accomplished such a measurement for the Greenberger-Horne-Zeilinger -- GHZ -- state, one of the best known forms of multi-photon entanglement. But no comparable method had been proposed or experimentally demonstrated for the W state, another important type of entangled multi-photon state.
+Researchers at Kyoto University and Hiroshima University set out to address that missing capability. Their work resulted in a new method for performing an entangled measurement that can identify the W state.
+"More than 25 years after the initial proposal concerning the entangled measurement for GHZ states, we have finally obtained the entangled measurement for the W state as well, with genuine experimental demonstration for 3-photon W states," says corresponding author Shigeki Takeuchi.
+Using Symmetry to Identify the W State
+The researchers built their approach around a mathematical property of the W state known as cyclic shift symmetry. In simple terms, the arrangement of the photons can be shifted in a repeating cycle while preserving an important underlying pattern.
+Using this symmetry, the team theoretically developed an entangled measurement based on a photonic quantum circuit. The circuit performs a quantum Fourier transformation, a mathematical operation that can reorganize quantum information in a way that reveals otherwise difficult to detect patterns. Their proposed method can, in principle, be applied to W states containing any number of photons.
+The researchers then constructed a device to test the idea with three photons. They used high-stability optical quantum circuits that could continue operating for long periods without requiring active control.
+By sending three individual photons into the device with carefully selected polarization states, the researchers showed that the system could distinguish among different types of three-photon W states. Each of these states represents a particular non-classical correlation shared by the three incoming photons.
+The team also measured the fidelity of the entangled measurement. Fidelity indicates how reliably a quantum system performs the intended task. In this case, it corresponds to the probability that the device produces the correct result when given a pure W-state input.
+A New Tool for Quantum Teleportation
+The advance could have implications for several areas of quantum technology.
+One is quantum teleportation, a process that transfers quantum information from one location to another. Despite its name, quantum teleportation does not physically transport matter. Instead, it uses entanglement to transfer the quantum state that contains the information.
+The new measurement approach could also contribute to new quantum communication protocols, methods for transferring multi-photon quantum entangled states, and new forms of measurement-based quantum computing.
+"In order to accelerate the research and development of quantum technologies, it is crucial to deepen our understanding of basic concepts to come up with innovative ideas," says Takeuchi.
+Scaling the Technique to Larger Quantum Systems
+The researchers now plan to extend their approach beyond the three photon demonstration.
+Their longer term goal is to apply the method to larger-scale and more general multi-photon quantum entangled states. The team also intends to develop on-chip photonic quantum circuits capable of performing entangled measurements, potentially making the technology more compact and easier to integrate into future quantum systems.
+Story Source:
+Materials provided by Kyoto University. Note: Content may be edited for style and length.
+Journal Reference:
+- Geobae Park, Holger F. Hofmann, Ryo Okamoto, Shigeki Takeuchi. Entangled measurement for W states. Science Advances, 2025; 11 (37) DOI: 10.1126/sciadv.adx4180
+Cite This Page:

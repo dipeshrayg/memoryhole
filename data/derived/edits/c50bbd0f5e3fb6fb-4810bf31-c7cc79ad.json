@@ -1,0 +1,88 @@
+{
+ "id": "c50bbd0f5e3fb6fb-4810bf31-c7cc79ad",
+ "url": "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-01T12:48:14Z",
+ "date": "2026-10-01",
+ "old_title": "Harry and Meghan: Two men spotted near Archie and Lilibet's school as Sussexes condemn 'reckless intrusion'",
+ "new_title": "Harry and Meghan: Photographer spotted near Archie and Lilibet's school as Sussexes condemn 'reckless intrusion'",
+ "old_text": "- Published\nThe Duke and Duchess of Sussex have accused an international photographer of \"extraordinary recklessness\" for looking into the grounds of the school attended by their children, Prince Archie and Princess Lilibet.\nTwo men, both wearing backpacks, were spotted circling the perimeter of the school, with police later identifying one of them as an international press photographer.\nA spokesman for Prince Harry and Meghan called it \"an unacceptable intrusion into the privacy of children\".\nHarry, Meghan, and their children returned to the UK last month after living in California for six years.\nThe BBC understands that the two men were observed by both private security and school staff, stopping at various points and looking into the school grounds, before returning to a van which police later established was a rental vehicle.\nOne of the men was later identified to be an international photographer is believed to work for a known European press agency.\n\"The decision by photographers to conduct themselves in this way around a school is extraordinarily reckless,\" Harry and Meghan's spokesman said.\n\"There is a world of difference between legitimate media activity and photographers walking the perimeter of a school, stopping to look into the grounds and monitoring children as they go about their day.\"\nThe spokesman continued: \"Whatever photographs they may have been seeking, this was not only an unacceptable intrusion into the privacy of children; it was an irresponsible and ill-considered way to conduct themselves in the vicinity of a school.\"\nThe children began school in the UK at the start of September, but changed after a few days after security concerns were raised about traffic during the school run.\nEarlier this month, it emerged that the Sussexes are going to be given a review of their publicly funded security, following their move back.\nIn August, it was reported that the Sussexes would be moving back to the UK and they are thought to be basing themselves at a private property in the Cotswolds area.\nTheir surprise announcement reignited questions over the level of their publicly funded security in Britain, a topic that has long been a source of anger for Prince Harry.\nIt is understood that the committee which oversees royal and VIP security, known as Ravec, is to reconsider Prince Harry and Meghan's level of police protection now that they and their two children are full-time residents rather than visitors.\nRavec will assess any risks they face in their new home and the type of trips taken by the couple and their family, such as regular travel routes and school runs.",
+ "new_text": "- Published\nThe Duke and Duchess of Sussex have accused an international photographer of \"extraordinary recklessness\" for looking into the grounds of the school attended by their children, Prince Archie and Princess Lilibet.\nTwo men, both wearing backpacks, were spotted circling the perimeter of the school, with police later identifying one of them as an international press photographer.\nA spokesman for Prince Harry and Meghan called it \"an unacceptable intrusion into the privacy of children\".\nHarry, Meghan, and their children returned to the UK last month after living in California for six years.\nThe BBC understands that the two men were observed by both private security and school staff on Monday morning, stopping at various points and looking into the school grounds, before returning to a van which police later established was a rental vehicle.\nOne of the men was later identified as photographer for a European press agency.\n\"The decision by photographers to conduct themselves in this way around a school is extraordinarily reckless,\" Harry and Meghan's spokesman said.\n\"There is a world of difference between legitimate media activity and photographers walking the perimeter of a school, stopping to look into the grounds and monitoring children as they go about their day.\"\nThe spokesman continued: \"Whatever photographs they may have been seeking, this was not only an unacceptable intrusion into the privacy of children; it was an irresponsible and ill-considered way to conduct themselves in the vicinity of a school.\"\nThe children began school in the UK at the start of September, but changed after a few days after security concerns were raised about traffic during the school run.\nEarlier this month, it emerged that the Sussexes are going to be given a review of their publicly funded security, following their move back.\nIn August, it was reported that the Sussexes would be moving back to the UK and they are thought to be basing themselves at a private property in the Cotswolds area.\nTheir surprise announcement reignited questions over the level of their publicly funded security in Britain, a topic that has long been a source of anger for Prince Harry.\nIt is understood that the committee which oversees royal and VIP security, known as Ravec, is to reconsider Prince Harry and Meghan's level of police protection now that they and their two children are full-time residents rather than visitors.\nRavec will assess any risks they face in their new home and the type of trips taken by the couple and their family, such as regular travel routes and school runs.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "that the two men were observed by both private security and school"
+    ],
+    [
+     "del",
+     "staff,"
+    ],
+    [
+     "ins",
+     "staff on Monday morning,"
+    ],
+    [
+     "eq",
+     "stopping at various points and looking into the school grounds, before returning"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "established was a rental vehicle. One of the men was later identified"
+    ],
+    [
+     "del",
+     "to be an international"
+    ],
+    [
+     "ins",
+     "as"
+    ],
+    [
+     "eq",
+     "photographer"
+    ],
+    [
+     "del",
+     "is believed to work"
+    ],
+    [
+     "eq",
+     "for a"
+    ],
+    [
+     "del",
+     "known"
+    ],
+    [
+     "eq",
+     "European press agency. \"The decision by photographers to conduct themselves in this"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.035,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9934,
+ "adjudicated_by": "rules"
+}

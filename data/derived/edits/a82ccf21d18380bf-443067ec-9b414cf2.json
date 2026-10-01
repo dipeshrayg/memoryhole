@@ -1,0 +1,60 @@
+{
+ "id": "a82ccf21d18380bf-443067ec-9b414cf2",
+ "url": "https://news.un.org/feed/view/en/story/2026/09/1168483",
+ "domain": "news.un.org",
+ "source": "UN News",
+ "country": "International",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-01T12:54:59Z",
+ "date": "2026-10-01",
+ "old_title": "LIVE: Weighing nuclear risks amid rising tensions and war",
+ "new_title": "LIVE: Weighing nuclear risks amid rising tensions and war",
+ "old_text": "LIVE: Weighing nuclear risks amid rising tensions and war\nAmid rising tensions, extreme weather impacts and strikes on nuclear infrastructure in war-torn Iran and Ukraine, UN Member States are returning to the core issue of disarmament on Tuesday, closing out the General Assembly's High-Level Week with expected calls for greater safeguards.\nWhat you need to know\n- This high-level plenary meeting of the General Assembly is to commemorate and promote the International Day for the Total Elimination of Nuclear Weapons\n- It aims to raise awareness about the threat posed by nuclear weapons and will contribute to mobilising efforts towards the common goal of a nuclear-weapon-free world\n- The US dropped atomic bombs on Hiroshima and Nagasaki in Japan in August 1945, the only time such weapons have been used in populated areas\n- About 12,400 nuclear weapons remain in existence today, despite efforts to reduce these arsenals",
+ "new_text": "LIVE: Weighing nuclear risks amid rising tensions and war\nAmid rising tensions, extreme weather impacts and strikes on nuclear infrastructure in war-torn Iran and Ukraine, UN Member States returned to the core issue of disarmament on Tuesday, closing out the General Assembly's High-Level Week with calls for greater safeguards.\nWhat you need to know\n- This high-level plenary meeting of the General Assembly is to commemorate and promote the International Day for the Total Elimination of Nuclear Weapons\n- It aims to raise awareness about the threat posed by nuclear weapons and will contribute to mobilising efforts towards the common goal of a nuclear-weapon-free world\n- The US dropped atomic bombs on Hiroshima and Nagasaki in Japan in August 1945, the only time such weapons have been used in populated areas\n- About 12,400 nuclear weapons remain in existence today, despite efforts to reduce these arsenals",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "strikes on nuclear infrastructure in war-torn Iran and Ukraine, UN Member States"
+    ],
+    [
+     "del",
+     "are returning"
+    ],
+    [
+     "ins",
+     "returned"
+    ],
+    [
+     "eq",
+     "to the core issue of disarmament on Tuesday, closing out the General Assembly's High-Level Week with"
+    ],
+    [
+     "del",
+     "expected"
+    ],
+    [
+     "eq",
+     "calls for greater safeguards. What you need to know - This high-level"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.027,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9961,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,64 @@
+{
+ "id": "7a8e1f708f672cbd-fa95d456-4e8f40f6",
+ "url": "https://www.gov.uk/government/news/16m-legal-lifeline-for-families-facing-eviction-and-hardship",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "country": "United Kingdom",
+ "category": "government",
+ "lang": "en",
+ "detected_at": "2026-10-01T12:55:55Z",
+ "date": "2026-10-01",
+ "old_title": "£16m legal lifeline for families facing eviction and hardship",
+ "new_title": "£16m legal lifeline for families facing eviction and hardship",
+ "old_text": "- Legal lifelines grant to help people struggling with debt and housing crises\n- Early support to help stop legal disputes spiralling into poverty and court\n- Part of Government's plan to give British families greater breathing space\nLaunching tomorrow (01 October), the Government has announced a multi-million-pound Legal Support Grant, to enable those in need to access trusted advice and practical support when facing some of life's toughest challenges.\nThe programme, which will run between October 2026 and March 2029, will support 48 frontline organisations across England and Wales deliver legal support to thousands of vulnerable people facing eviction, problem debt, benefit disputes and family breakdown.\nCharities and advice providers, including Citizen's Advice and Shelter Cymru, will expand free legal support both in person and online, helping people understand their rights, resolve problems and avoid homelessness, financial hardship and unnecessary court action.\nBy helping people access support earlier, the investment will prevent problems spiralling into crisis and reduce pressure on courts, while putting targeted support and practical tools at people's fingertips.\nMinister for Courts and Legal Services, Sarah Sackman KC said:\nWhen people face eviction, mounting debts or family breakdown, getting the right help at the right time can make all the difference.\nThis important investment will help people across the country access trusted advice earlier, preventing problems from spiralling into crisis and giving families the breathing space they need to get back on track.\nIt follows more than £25 million of investment in legal support services by this Government, helping people tackle problems early, avoid crisis and secure a more stable future for themselves and their families.\nThe investment, administered by the Access to Justice Foundation, forms part of the Government's wider mission to improve access to justice and ensure that financial circumstances are never a barrier to getting help.\nClare Carter, CEO of the Access to Justice Foundation said:\nAcross England and Wales, too many people face legal problems that affect every aspect of their lives, from keeping a roof over their head to supporting their family or securing the income they rely on.\nThe organisations funded through this programme provide trusted support when people need it most. By investing in their long-term strength and resilience, we can help ensure more people access the legal support they need, while building a stronger understanding of what works to improve access to justice.\nThese measures form part of the Government's wider commitment to give people greater breathing space by helping with the everyday costs that matter most.\nThis includes support with transport costs through capped bus fares and help with household energy bills, putting more money back into households' pockets and easing pressure on family budgets.\nAlongside supporting frontline services, this grant programme will also build a stronger evidence base on what works in legal support, helping to inform future investment and ensure support reaches those who need it most.",
+ "new_text": "- Legal lifelines grant to help people struggling with debt and housing crises\n- Early support to help stop legal disputes spiralling into poverty and court\n- Part of Government's plan to give British families greater breathing space\nLaunching tomorrow (01 October), the Government has announced a multi-million-pound Legal Support Grant, to enable those in need to access trusted advice and practical support when facing some of life's toughest challenges.\nThe programme, which will run between October 2026 and March 2029, will support 48 frontline organisations across England and Wales deliver legal support to thousands of vulnerable people facing eviction, problem debt, benefit disputes and family breakdown.\nCharities and advice providers, including Citizen's Advice and Shelter Cymru, will expand free legal support both in person and online, helping people understand their rights, resolve problems and avoid homelessness, financial hardship and unnecessary court action.\nBy helping people access support earlier, the investment will prevent problems spiralling into crisis and reduce pressure on courts, while putting targeted support and practical tools at people's fingertips.\nMinister for Courts and Legal Services, Sarah Sackman KC said:\nWhen people face eviction, mounting debts or family breakdown, getting the right help at the right time can make all the difference.\nThis important investment will help people across the country access trusted advice earlier, preventing problems from spiralling into crisis and giving families the breathing space they need to get back on track.\nIt forms part of over £25 million invested in legal support services by this Government, helping people tackle problems early, avoid crisis and secure a more stable future for themselves and their families.\nThe investment, administered by the Access to Justice Foundation, forms part of the Government's wider mission to improve access to justice and ensure that financial circumstances are never a barrier to getting help.\nClare Carter, CEO of the Access to Justice Foundation said:\nAcross England and Wales, too many people face legal problems that affect every aspect of their lives, from keeping a roof over their head to supporting their family or securing the income they rely on.\nThe organisations funded through this programme provide trusted support when people need it most. By investing in their long-term strength and resilience, we can help ensure more people access the legal support they need, while building a stronger understanding of what works to improve access to justice.\nThese measures form part of the Government's wider commitment to give people greater breathing space by helping with the everyday costs that matter most.\nThis includes support with transport costs through capped bus fares and help with household energy bills, putting more money back into households' pockets and easing pressure on family budgets.\nAlongside supporting frontline services, this grant programme will also build a stronger evidence base on what works in legal support, helping to inform future investment and ensure support reaches those who need it most.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "families the breathing space they need to get back on track. It"
+    ],
+    [
+     "del",
+     "follows more than"
+    ],
+    [
+     "ins",
+     "forms part of over"
+    ],
+    [
+     "eq",
+     "£25 million"
+    ],
+    [
+     "del",
+     "of investment"
+    ],
+    [
+     "ins",
+     "invested"
+    ],
+    [
+     "eq",
+     "in legal support services by this Government, helping people tackle problems early,"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0208,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

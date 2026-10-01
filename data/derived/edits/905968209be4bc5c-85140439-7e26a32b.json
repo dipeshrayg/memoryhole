@@ -1,0 +1,180 @@
+{
+ "id": "905968209be4bc5c-85140439-7e26a32b",
+ "url": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-10-01T12:56:30Z",
+ "date": "2026-10-01",
+ "old_title": "Regulating AI 'not the right place to start' says Bank of England governor",
+ "new_title": "Regulating AI 'not the right place to start' says Bank of England governor",
+ "old_text": "- Published\nThe Governor of the Bank of England has said regulating artificial intelligence (AI) \"is not the right place to start\" but instead called first for \"rigorous\" testing to find vulnerabilities and safeguards to contain risk.\nWriting his first-ever article for Substack, Andrew Bailey said the risks around AI were \"real and increasingly significant\".\nBailey said the development of AI should not be halted or prohibited - \"on the contrary, the benefits are immense\" - but added there must be a system for intervention and to establish boundaries in which AI operates.\nIn recent weeks, the debate about the potential risks surrounding the rapid development of AI and what it means for humanity has intensified.\nThe bosses of leading AI firms such as Anthropic and OpenAI have called for development of the technology to slow down and for an internationally co-ordinated approach assessing risks and putting safeguards in place.\nOpenAI recently announced that it would not release its latest AI model due to safety concerns.\nThe idea of a slowdown, however, has been rejected by the likes of President Donald Trump who has said the US is leading the AI race ahead of China, adding: \"And, frankly, I want to keep it that way because whoever wins AI, wins.\"\nBut on Tuesday, after hosting a summit with the leading firms in AI such as OpenAI and Anthropic, Trump said executives had signed a \"morally binding\" document that would serve as a \"form of protection\" from AI's potential risks.\nUnder the agreement, the companies are responsible for ensuring the safety of their own technology.\nIn the UK, Bailey said \"important work\" was underway in testing AI - the UK has set up the AI Security Institute - which, he said, should help form part of a set of standards.\n\"But the pace of progress must accelerate,\" the bank governor said, though he added: \"We should proceed with a degree of humility.\"\nHe said, with testing, there will be failures and \"models will behave unexpectedly\".\nBut, he said: \"That is not evidence that testing has failed, rather it is evidence of why testing is necessary.\"\nBailey said that testing should not be seen as an alternative to future regulation - over time a more formal regulatory framework might emerge. \"But regulation is not, in my view, the right place to start.\"",
+ "new_text": "- Published\nThe Governor of the Bank of England has said regulating artificial intelligence (AI) \"is not the right place to start\" but instead called first for \"rigorous\" testing to find vulnerabilities and create safeguards to contain risk.\nWriting his first-ever article for Substack, Andrew Bailey said the risks around AI were \"real and increasingly significant\".\nHe said AI development should not be halted or prohibited - \"on the contrary, the benefits are immense\" - but added there must be a system for intervention and to establish boundaries in which AI operates.\nThe debate about the potential risks surrounding the rapid development of AI and what it means for humanity has intensified in recent weeks.\nThe bosses of leading AI firms such as Anthropic and OpenAI have called for development of the technology to slow down and for an internationally co-ordinated approach assessing risks and putting safeguards in place.\nOpenAI recently announced that it would not release its latest AI model due to safety concerns.\nThe idea of a slowdown, however, has been rejected by the likes of President Donald Trump who has said the US is leading the AI race ahead of China, adding: \"And, frankly, I want to keep it that way because whoever wins AI, wins.\"\nBut on Tuesday, after hosting a meeting with bosses from technology firms OpenAI, Anthropic, Nvidia, SpaceX, Meta and Google, Trump said executives had signed a \"morally binding\" document that would serve as a \"form of protection\" from AI's potential risks.\nUnder the agreement, the companies are responsible for ensuring the safety of their own technology.\nIn the UK, Bailey said \"important work\" was underway in testing AI - the UK has set up the AI Security Institute - which, he said, should help form part of a set of standards.\n\"But the pace of progress must accelerate,\" the bank governor said, though he added: \"We should proceed with a degree of humility.\"\nHe said, with testing, there will be failures and \"models will behave unexpectedly\".\nBut, he said: \"That is not evidence that testing has failed, rather it is evidence of why testing is necessary.\"\nBailey said that testing should not be seen as an alternative to future regulation - over time a more formal regulatory framework might emerge. \"But regulation is not, in my view, the right place to start.\"\nBailey specifically highlighted so-called frontier AI - highly-advanced, self-learning systems which, without putting in place an effective way to intervene, risk becoming \"a closed loop in which the model progressively governs itself\".",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "start\" but instead called first for \"rigorous\" testing to find vulnerabilities and"
+    ],
+    [
+     "ins",
+     "create"
+    ],
+    [
+     "eq",
+     "safeguards to contain risk. Writing his first-ever article for Substack, Andrew Bailey said the risks around AI were \"real and increasingly significant\"."
+    ],
+    [
+     "del",
+     "Bailey"
+    ],
+    [
+     "ins",
+     "He"
+    ],
+    [
+     "eq",
+     "said"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "ins",
+     "AI"
+    ],
+    [
+     "eq",
+     "development"
+    ],
+    [
+     "del",
+     "of AI"
+    ],
+    [
+     "eq",
+     "should not be halted or prohibited - \"on the contrary, the benefits"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "a system for intervention and to establish boundaries in which AI operates."
+    ],
+    [
+     "del",
+     "In recent weeks, the"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "debate about the potential risks surrounding the rapid development of AI and what it means for humanity has"
+    ],
+    [
+     "del",
+     "intensified."
+    ],
+    [
+     "ins",
+     "intensified in recent weeks."
+    ],
+    [
+     "eq",
+     "The bosses of leading AI firms such as Anthropic and OpenAI have"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "way because whoever wins AI, wins.\" But on Tuesday, after hosting a"
+    ],
+    [
+     "del",
+     "summit"
+    ],
+    [
+     "ins",
+     "meeting"
+    ],
+    [
+     "eq",
+     "with"
+    ],
+    [
+     "del",
+     "the leading"
+    ],
+    [
+     "ins",
+     "bosses from technology"
+    ],
+    [
+     "eq",
+     "firms"
+    ],
+    [
+     "del",
+     "in AI such as OpenAI"
+    ],
+    [
+     "ins",
+     "OpenAI, Anthropic, Nvidia, SpaceX, Meta"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "Anthropic,"
+    ],
+    [
+     "ins",
+     "Google,"
+    ],
+    [
+     "eq",
+     "Trump said executives had signed a \"morally binding\" document that would serve"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "\"But regulation is not, in my view, the right place to start.\""
+    ],
+    [
+     "ins",
+     "Bailey specifically highlighted so-called frontier AI - highly-advanced, self-learning systems which, without putting in place an effective way to intervene, risk becoming \"a closed loop in which the model progressively governs itself\"."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1744,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 0.9953,
+ "adjudicated_by": "rules"
+}

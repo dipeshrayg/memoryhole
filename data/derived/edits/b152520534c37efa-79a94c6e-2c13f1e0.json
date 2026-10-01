@@ -1,0 +1,64 @@
+{
+ "id": "b152520534c37efa-79a94c6e-2c13f1e0",
+ "url": "https://www.gov.uk/government/news/your-coast-explore-enjoy-protect-campaign-and-call-for-evidence-launches",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "country": "United Kingdom",
+ "category": "government",
+ "lang": "en",
+ "detected_at": "2026-10-01T12:55:57Z",
+ "date": "2026-10-01",
+ "old_title": "Your Coast - Explore, Enjoy, Protect campaign and call for evidence launches",
+ "new_title": "Your Coast - Explore, Enjoy, Protect campaign and call for evidence launches",
+ "old_text": "Your Coast - Explore, Enjoy, Protect is MMO's new campaign encouraging coastal communities to play a role in shaping its approach to how marine recreational activities are managed in marine protected areas (MPAs).\nThe first phase of this campaign features a call for evidence . This examines what is currently known about how marine recreational activities affect protected features in MPAs, such as:\n- benthic habitats (sand, mud, or organic seabed habitats);\n- birds;\n- grey seals, harbour seals and Eurasian otters;\n- reef habitats; and\n- seagrass beds, maerl beds, seahorses and stalked jellyfish.\nThe marine activities in scope include:\n- anchoring;\n- diving and snorkelling;\n- hovercraft;\n- motorboats;\n- motorised personal watercrafts (such as Jetskis);\n- paddle sports (such as kayaking, canoeing, paddleboarding);\n- sail boats;\n- wildlife watching at sea (boat tours); and\n- wind sports (such as windsurfing, kitesurfing, wingsurfing, kite foiling).\nTargeted at partners, conservation groups, academics, and recreational water users, MMO is inviting people to review its evidence and share any knowledge, data or additional evidence via an online survey.\nThis call for evidence is part of MMO's marine non-licensable activity (mNLA) work which aims to assess and if required manage marine recreational activity and anchoring in all inshore English MPAs.\nTo coincide with the launch of the survey, MMO is making a special appeal for people to share any photographs and images of protected seabed habitats and wildlife.\nRecreational divers, underwater photographers or marine environment enthusiasts are asked to contribute to this project. By taking part they will help others to explore these often-hidden features of our coast and support MMOs vital conservation work.\nWhen photographing marine wildlife, you should follow the Marine and Coastal Wildlife Code which contains information on how to avoid marine wildlife disturbance.\nJessica Churchill-Bissett, MMOs Head of Marine Conservation (Wildlife), said:\nEngland's marine protected areas are home to some of the most extraordinary and rarely seen habitats and species in our seas. Your Coast - Explore, Enjoy, Protect is our invitation to the people who know these waters best, the divers, boaters, kayakers and coastal communities who explore and enjoy them every day. We need your help to protect them for future generations. This call for evidence is the next most important step. Every piece of evidence, every photograph and every local insight makes a difference and will be used to inform our approach going forward.\nMarine non-licensable activities include recreational activities such as anchoring, diving, snorkelling, kayaking and wildlife watching boat tours. These activities do not require a marine licence but may affect the protected habitats and species of MPAs.\nFind out more: Marine non licensable activities: guidance, sites and evidence - GOV.UK",
+ "new_text": "Your Coast - Explore, Enjoy, Protect is MMO's new campaign encouraging coastal communities to play a role in shaping its approach to how marine recreational activities are managed in marine protected areas (MPAs).\nThe first phase of this campaign features a call for evidence. This is examining what is currently known about how marine recreational activities affect protected features in MPAs, such as:\n- benthic habitats (sand, mud, or organic seabed habitats);\n- birds;\n- grey seals, harbour seals and Eurasian otters;\n- reef habitats; and\n- seagrass beds, maerl beds, seahorses and stalked jellyfish.\nThe marine activities in scope include:\n- anchoring;\n- diving and snorkelling;\n- hovercraft;\n- motorboats;\n- motorised personal watercrafts (such as Jetskis);\n- paddle sports (such as kayaking, canoeing, paddleboarding);\n- sail boats;\n- wildlife watching at sea (boat tours); and\n- wind sports (such as windsurfing, kitesurfing, wingsurfing, kite foiling).\nTargeted at partners, conservation groups, academics, and recreational water users, MMO is inviting people to review its evidence and share any knowledge, data or additional evidence via an online survey.\nThis call for evidence is part of MMO's marine non-licensable activity (mNLA) work which aims to assess and if required manage marine recreational activity and anchoring in all inshore English MPAs.\nTo coincide with the launch of the survey, MMO is making a special appeal for people to share any photographs and images of protected seabed habitats and wildlife.\nRecreational divers, underwater photographers or marine environment enthusiasts are asked to contribute to this project. By taking part they will help others to explore these often-hidden features of our coast and support MMOs vital conservation work.\nWhen photographing marine wildlife, you should follow the Marine and Coastal Wildlife Code which contains information on how to avoid marine wildlife disturbance.\nJessica Churchill-Bissett, MMOs Head of Marine Conservation (Wildlife), said:\nEngland's marine protected areas are home to some of the most extraordinary and rarely seen habitats and species in our seas. Your Coast - Explore, Enjoy, Protect is our invitation to the people who know these waters best, the divers, boaters, kayakers and coastal communities who explore and enjoy them every day. We need your help to protect them for future generations. This call for evidence is the next most important step. Every piece of evidence, every photograph and every local insight makes a difference and will be used to inform our approach going forward.\nMarine non-licensable activities include recreational activities such as anchoring, diving, snorkelling, kayaking and wildlife watching boat tours. These activities do not require a marine licence but may affect the protected habitats and species of MPAs.\nFind out more: Marine non licensable activities: guidance, sites and evidence - GOV.UK",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "areas (MPAs). The first phase of this campaign features a call for"
+    ],
+    [
+     "del",
+     "evidence ."
+    ],
+    [
+     "ins",
+     "evidence."
+    ],
+    [
+     "eq",
+     "This"
+    ],
+    [
+     "del",
+     "examines"
+    ],
+    [
+     "ins",
+     "is examining"
+    ],
+    [
+     "eq",
+     "what is currently known about how marine recreational activities affect protected features"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0134,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9959,
+ "adjudicated_by": "rules"
+}

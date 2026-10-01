@@ -1,0 +1,148 @@
+{
+ "id": "d8afe4275a0f4524-1cddb7c2-0e67b169",
+ "url": "https://www.france24.com/en/europe/20260930-live-macron-sanchez-hold-joint-press-conference-during-french-president-s-spain-visit",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-01T12:51:41Z",
+ "date": "2026-10-01",
+ "old_title": "Live: Macron, Sanchez hold joint press conference during French president's visit to Spain",
+ "new_title": "Macron says UK's return to EU would be 'excellent news'",
+ "old_text": "Live: Macron, Sanchez hold joint press conference during French president's visit to Spain\nFrench President Emmanuel Macron on Wednesday met Spanish Prime Minister Pedro Sanchez at the Moncloa Palace in Madrid on the second day of a two-day state visit. Watch the press conference live with the player above.\nFrench President Emmanuel Macron outlined his strategies for addressing the crisis of democracy and the rise of \"extremes,\" starting with massive investment in a \"stronger Europe\" - a message that resonates in France as the presidential election approaches.\nAt the start of a two-day state visit to Spain on Tuesday, the French president, accompanied by his wife Brigitte Macron, arrived at the Royal Palace in a Rolls-Royce escorted by the Royal Guard on horseback in ceremonial dress.\nIn the vast cobbled courtyard, the couple was welcomed in the early afternoon by King Felipe VI and Queen Letizia - amid the sounds of a military band and cannon salutes - in the presence of Socialist Prime Minister Pedro Sánchez.\n(FRANCE 24 with AFP)",
+ "new_text": "Macron says UK's return to EU would be 'excellent news'\nSpeaking alongside Spanish Prime Minister Pedro Sanchez on Wednesday, French President Emmanuel Macron said that it would be \"a good decision\" if the UK decided to rejoin the European Union. The two leaders met at the Moncloa Palace in Madrid on the second day of Macron's two-day state visit to Spain.\nFrench President Emmanuel Macron said on Wednesday that if Britain decided to rejoin the European Union it would be \"excellent news\" and \"a good decision\".\nHis comments, made in Madrid during a joint news conference with Spain's Prime Minister Pedro Sanchez, came after new British Prime Minister Andy Burnham said his country should consider options for its future relationship with the EU, including rejoining the bloc.\nRead moreBurnham sets out 'new path' for Britain, vows to seek consensus on ties with EU\nMacron said the British had \"always been useful in helping us simplify things\" when the UK was part of the EU and were \"demanding partners\".\n\"Andy Burnham is right to have this boldness,\" he added.\nThe French president also pointed to the limits of the UK seeking closer ties with the EU while remaining outside the bloc, a decade after the Brexit vote.\n\"You cannot choose between the freedoms of the union and decide to take what suits us and not the rest,\" he said.\nSanchez took a similar position, calling Brexit \"a huge loss, both for the British population and for the whole European project\".\nIf the UK were to seek to rejoin the bloc \"then of course Spain would applaud it and open its arms again to a brotherly people\", he added.\nMacron also outlined his strategies for addressing what he described as the crisis of democracy and the rise of \"extremes,\" starting with massive investment in a \"stronger Europe\".\nAt the start of a two-day state visit to Spain on Tuesday, the French president, accompanied by his wife Brigitte Macron, arrived at the Royal Palace in a Rolls-Royce escorted by the Royal Guard on horseback in ceremonial dress.\nIn the vast cobbled courtyard, the couple was welcomed in the early afternoon by King Felipe VI and Queen Letizia - amid the sounds of a military band and cannon salutes.\n(FRANCE 24 with Reuters and AFP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Live: Macron, Sanchez hold joint press conference during French president's visit"
+    ],
+    [
+     "ins",
+     "Macron says UK's return"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "Spain French President Emmanuel Macron on Wednesday met"
+    ],
+    [
+     "ins",
+     "EU would be 'excellent news' Speaking alongside"
+    ],
+    [
+     "eq",
+     "Spanish Prime Minister Pedro Sanchez"
+    ],
+    [
+     "ins",
+     "on Wednesday, French President Emmanuel Macron said that it would be \"a good decision\" if the UK decided to rejoin the European Union. The two leaders met"
+    ],
+    [
+     "eq",
+     "at the Moncloa Palace in Madrid on the second day of"
+    ],
+    [
+     "del",
+     "a"
+    ],
+    [
+     "ins",
+     "Macron's"
+    ],
+    [
+     "eq",
+     "two-day state"
+    ],
+    [
+     "del",
+     "visit. Watch the press conference live with the player above."
+    ],
+    [
+     "ins",
+     "visit to Spain."
+    ],
+    [
+     "eq",
+     "French President Emmanuel Macron"
+    ],
+    [
+     "ins",
+     "said on Wednesday that if Britain decided to rejoin the European Union it would be \"excellent news\" and \"a good decision\". His comments, made in Madrid during a joint news conference with Spain's Prime Minister Pedro Sanchez, came after new British Prime Minister Andy Burnham said his country should consider options for its future relationship with the EU, including rejoining the bloc. Read moreBurnham sets out 'new path' for Britain, vows to seek consensus on ties with EU Macron said the British had \"always been useful in helping us simplify things\" when the UK was part of the EU and were \"demanding partners\". \"Andy Burnham is right to have this boldness,\" he added. The French president also pointed to the limits of the UK seeking closer ties with the EU while remaining outside the bloc, a decade after the Brexit vote. \"You cannot choose between the freedoms of the union and decide to take what suits us and not the rest,\" he said. Sanchez took a similar position, calling Brexit \"a huge loss, both for the British population and for the whole European project\". If the UK were to seek to rejoin the bloc \"then of course Spain would applaud it and open its arms again to a brotherly people\", he added. Macron also"
+    ],
+    [
+     "eq",
+     "outlined his strategies for addressing"
+    ],
+    [
+     "ins",
+     "what he described as"
+    ],
+    [
+     "eq",
+     "the crisis of democracy and the rise of \"extremes,\" starting with massive investment in a \"stronger"
+    ],
+    [
+     "del",
+     "Europe\" - a message that resonates in France as the presidential election approaches."
+    ],
+    [
+     "ins",
+     "Europe\"."
+    ],
+    [
+     "eq",
+     "At the start of a two-day state visit to Spain on Tuesday,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Queen Letizia - amid the sounds of a military band and cannon"
+    ],
+    [
+     "del",
+     "salutes - in the presence of Socialist Prime Minister Pedro Sánchez."
+    ],
+    [
+     "ins",
+     "salutes."
+    ],
+    [
+     "eq",
+     "(FRANCE 24 with"
+    ],
+    [
+     "ins",
+     "Reuters and"
+    ],
+    [
+     "eq",
+     "AFP)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.8596,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.15,
+ "similarity": 0.6312,
+ "adjudicated_by": "rules"
+}

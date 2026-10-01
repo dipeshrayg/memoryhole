@@ -1,0 +1,72 @@
+{
+ "id": "40f25c47bf1f1836-97679c62-727eab47",
+ "url": "https://www.gov.uk/government/news/government-goes-further-to-protect-leaseholders",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "country": "United Kingdom",
+ "category": "government",
+ "lang": "en",
+ "detected_at": "2026-10-01T12:55:45Z",
+ "date": "2026-10-01",
+ "old_title": "Government goes further to protect leaseholders",
+ "new_title": "Government goes further to protect leaseholders",
+ "old_text": "Under the current system, leaseholders and those living on freehold estates can be forced to pay fees in order to receive their landlord's permission for simple requests like keeping a pet - with no certainty of the costs and no clear oversight of the process.\nThe government will legislate to give the Secretary of State powers to introduce caps on these fees that are genuinely reasonable and that landlords must follow.\nThese powers will also cover privately managed estates where homeowners can face similar charges for minor cosmetic changes to their properties.\nAs well as permission fees, the legislative changes will enable a clamp down on administrative fees, where landlords can charge for providing documents on request, or even for simply notifying them of a change in mortgage provider.\nA public consultation will be launched on the scope of what should be capped and the amount for each item.\nIn addition, for the first time ever, the government intends to introduce independent regulation of property agents - giving leaseholders, tenants and homebuyers a route towards better rights and protections.\nA regulator can set codes of practice, such as standards of conduct and proper complaint handling for those they regulate.\nProperty agents will be required to obtain a license to do the job, as well as appropriate qualifications to operate. If they fall foul of the required standards, the regulator would have the power to take their licenses away.\nThese measures will fundamentally rewire homeownership, whilst supporting over 5 million existing leaseholders and future homeowners, who will benefit from stronger control, powers and protections. The government is committed to bringing forward these changes as soon as possible and will set out more information in due course.",
+ "new_text": "Under the current system, leaseholders and those living on freehold estates can be forced to pay fees in order to receive their landlord's permission for simple requests like keeping a pet - with no certainty of the costs and no clear oversight of the process.\nThe government will legislate to give the Secretary of State powers to introduce caps on these fees that are genuinely reasonable and that landlords must follow.\nThese powers will also cover privately managed estates where homeowners can face similar charges for minor cosmetic changes to their properties.\nAs well as permission fees, the legislative changes will enable a clamp down on administrative fees, where landlords can charge for providing documents on request, or even for simply notifying them of a change in mortgage provider.\nA public consultation will be launched on the scope of what should be capped and the amount for each item.\nIn addition, for the first time ever, the government intends to introduce independent regulation of property agents - giving leaseholders, tenants and homebuyers a route towards better rights and protections.\nA regulator can set codes of practice, such as standards of conduct and proper complaint handling for those they regulate.\nProperty agents will be required to obtain a licence to do the job, as well as appropriate qualifications to operate. If they fall foul of the required standards, the regulator would have the power to take their licences away.\nThese measures will fundamentally rewire homeownership, whilst supporting over 5 million existing leaseholders and future homeowners, who will benefit from stronger control, powers and protections. The government is committed to bringing forward these changes as soon as possible and will set out more information in due course.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "for those they regulate. Property agents will be required to obtain a"
+    ],
+    [
+     "del",
+     "license"
+    ],
+    [
+     "ins",
+     "licence"
+    ],
+    [
+     "eq",
+     "to do the job, as well as appropriate qualifications to operate. If"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the required standards, the regulator would have the power to take their"
+    ],
+    [
+     "del",
+     "licenses"
+    ],
+    [
+     "ins",
+     "licences"
+    ],
+    [
+     "eq",
+     "away. These measures will fundamentally rewire homeownership, whilst supporting over 5 million"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.014,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9997,
+ "adjudicated_by": "rules"
+}

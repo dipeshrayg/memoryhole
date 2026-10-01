@@ -1,0 +1,68 @@
+{
+ "id": "a0808de658605de2-566ac5ed-1247b5f8",
+ "url": "https://www.theguardian.com/football/2026/sep/30/throw-your-medals-in-the-bin-roy-keane-tells-manchester-city-players",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-01T13:00:10Z",
+ "date": "2026-10-01",
+ "old_title": "'Throw your medals in the bin,' Roy Keane tells Manchester City players",
+ "new_title": "'Throw your medals in the bin,' Roy Keane tells Manchester City players",
+ "old_text": "The former Manchester United captain Roy Keane said he would throw the \"medals in the bin\" if he were a Manchester City player after Premier League confirmation on Tuesday that the club were guilty of all charges related to their financial rules and boosted their income by more than £900m after arranging \"sham contracts\" with commercial partners.\nCity, who continue to deny any wrongdoing, won eight trophies, including three Premier League titles between 2009 and 2018, the period under investigation. Keane said the achievements of City's players had become redundant because of the \"cheating\" that took place during that time.\n\"If I was a player, I'd be 100% sticking those medals in the bin. Of course you would, it's cheating,\" the ITV football pundit stated during the coverage of England's match against Czechia in the Nations League. \"They won it on the pitch because cheating was going on.\" And on the club he added: \"They knew it would hurt a lot of people, but they've still done it.\"\nMeanwhile, the former City defender Micah Richards says the damning verdict on the club has left him devastated and heartbroken. City were found to have engaged in an almost £1bn scheme to either inflate revenues or reduce costs through a series of \"sham\" arrangements in order to avoid breaching league and Uefa financial regulations.\nSpeaking on The Rest is Football podcast, Richards said: \"The reports were troubling. I saw the words which were used by the Premier League in sham contracts and I felt absolutely devastated.\n\"I've been at that club since I was 14 years old, I would die for that club. I achieved my dream at Manchester City, but then to hear these reports, and not only me as an ex-player, but the fans, what they have to go through, absolutely devastating.\"\nRichards described speaking to the fan he used to live with as a young player at the club, adding: \"My digs man, he rang me and he was literally in tears and asking me about information, which I don't know, I haven't got the answers to tell him.\n\"And that's someone who's supported the club for 60-odd years, and the uncertainty around it is just heartbreaking. To have a headline of this nature for a club that I love so much, it's been difficult. If you listen to the reports, they are damning. I feel saddened, I feel angry, I feel a lit bit confused because, on the other side, you have City's side of the story.\"",
+ "new_text": "The former Manchester United captain Roy Keane said he would throw the \"medals in the bin\" if he were a Manchester City player after Premier League confirmation on Tuesday that the club were guilty of all charges related to their financial rules and boosted their income by more than £900m after arranging \"sham contracts\" with commercial partners.\nCity, who continue to deny any wrongdoing, won eight trophies, including three Premier League titles between 2009 and 2018, the period under investigation. Keane said the achievements of City's players had become redundant because of the \"cheating\" that took place during that time.\n\"If I was a player, I'd be 100% sticking those medals in the bin. Of course you would, it's cheating,\" the ITV football pundit stated during the coverage of England's match against Czechia in the Nations League. \"They won it on the pitch because cheating was going on.\" And on the club he added: \"They knew it would hurt a lot of people, but they've still done it.\"\nMeanwhile, the former City defender Micah Richards says the damning verdict on the club has left him devastated and heartbroken. City were found to have engaged in an almost £1bn scheme to either inflate revenues or reduce costs through a series of \"sham\" arrangements in order to avoid breaching league and Uefa financial regulations.\nSpeaking on The Rest is Football podcast, Richards said: \"The reports were troubling. I saw the words which were used by the Premier League in 'sham contracts' and I felt absolutely devastated.\n\"I've been at that club since I was 14 years old, I would die for that club. I achieved my dream at Manchester City, but then to hear these reports, and not only me as an ex-player, but the fans, what they have to go through, absolutely devastating.\"\nRichards described speaking to the fan he used to live with as a young player at the club, adding: \"My digs man, he rang me and he was literally in tears and asking me about information, which I don't know, I haven't got the answers to tell him.\n\"And that's someone who's supported the club for 60-odd years, and the uncertainty around it is just heartbreaking. To have a headline of this nature for a club that I love so much, it's been difficult. If you listen to the reports, they are damning. I feel saddened, I feel angry, I feel a bit confused because, on the other side, you have City's side of the story.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "I saw the words which were used by the Premier League in"
+    ],
+    [
+     "del",
+     "sham contracts"
+    ],
+    [
+     "ins",
+     "'sham contracts'"
+    ],
+    [
+     "eq",
+     "and I felt absolutely devastated. \"I've been at that club since I"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "they are damning. I feel saddened, I feel angry, I feel a"
+    ],
+    [
+     "del",
+     "lit"
+    ],
+    [
+     "eq",
+     "bit confused because, on the other side, you have City's side of the story.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0119,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

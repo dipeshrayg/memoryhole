@@ -1,0 +1,52 @@
+{
+ "id": "0205a3f4941d64d9-b92d9656-f2b703ba",
+ "url": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-10-01T13:02:39Z",
+ "date": "2026-10-01",
+ "old_title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+ "new_title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+ "old_text": "Researchers published late-stage clinical trial data today for the latest obesity drug, retatrutide-expected to be the most powerful formula yet-and the results appear in line with high expectations. Patients with obesity on the highest retatrutide dose lost an average of 25 percent of their body weight after 80 weeks, and an average of 30 percent after an extension period to 104 weeks. Overall, more than a third of participants taking retatrutide lost 30 percent or more of their weight.\nThe drug also proved effective at reducing knee pain (by up to 62 percent) in a subset of participants with obesity-linked knee osteoarthritis. It reduced the number of sleep apnea events per hour (by up to 57 percent) in a subset of participants with obesity-linked obstructive sleep apnea. The drug improved cardiometabolic measurements across the board, including blood pressure, triglycerides, and low-density lipoprotein cholesterol (bad cholesterol). At the start, more than a third of trial participants had prediabetes and, by the end, the condition had resolved in more than 90 percent of those participants.\nThe trial began in 2023 and included 2,339 participants from 131 clinical trial sites in 11 countries. Participants were broken into four nearly equal groups, given either: 4 mg of retatrutide, 9 mg, 12 mg, or a placebo. Across all groups, the average starting weight was around 113 kg (250 pounds), and the average body mass index (BMI) was 40. For the subset analyses, 574 participants had knee osteoarthritis, and 243 had obstructive sleep apnea. The results appeared today in the New England Journal of Medicine.\nThe data is likely to only ratchet up the anticipation for the drug among the millions of Americans with obesity. Retatrutide has been so sought after that, in June, news broke that top health officials in the Trump administration were involved in granting special access to the experimental medicine to a mystery 79-year-old in April-widely speculated to be Trump, who was 79 at the time.",
+ "new_text": "Researchers published late-stage clinical trial data today for the latest obesity drug, retatrutide-expected to be the most powerful formula yet-and the results appear in line with high expectations. Patients with obesity on the highest retatrutide dose lost an average of 25 percent of their body weight after 80 weeks, and an average of 30 percent after an extension period to 104 weeks. Overall, more than a third of participants taking retatrutide lost 30 percent or more of their weight.\nThe drug also proved effective at reducing knee pain (by up to 62 percent) in a subset of participants with obesity-linked knee osteoarthritis. It reduced the number of sleep apnea events per hour (by up to 57 percent) in a subset of participants with obesity-linked obstructive sleep apnea. The drug improved cardiometabolic measurements across the board, including blood pressure, triglycerides, and low-density lipoprotein cholesterol (bad cholesterol). At the start, more than a third of trial participants had prediabetes, and, by the end, the condition had resolved in more than 90 percent of those participants.\nThe trial began in 2023 and included 2,339 participants from 131 clinical trial sites in 11 countries. Participants were broken into four nearly equal groups, given either: 4 mg of retatrutide, 9 mg, 12 mg, or a placebo. Across all groups, the average starting weight was around 113 kg (250 pounds), and the average body mass index (BMI) was 40. For the subset analyses, 574 participants had knee osteoarthritis, and 243 had obstructive sleep apnea. The results appeared today in the New England Journal of Medicine.\nThe data is likely to only ratchet up the anticipation for the drug among the millions of Americans with obesity. Retatrutide has been so sought after that, in June, news broke that top health officials in the Trump administration were involved in granting special access to the experimental medicine to a mystery 79-year-old in April-widely speculated to be Trump, who was 79 at the time.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "cholesterol). At the start, more than a third of trial participants had"
+    ],
+    [
+     "del",
+     "prediabetes"
+    ],
+    [
+     "ins",
+     "prediabetes,"
+    ],
+    [
+     "eq",
+     "and, by the end, the condition had resolved in more than 90"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0062,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

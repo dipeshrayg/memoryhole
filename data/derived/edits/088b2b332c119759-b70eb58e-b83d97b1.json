@@ -1,0 +1,92 @@
+{
+ "id": "088b2b332c119759-b70eb58e-b83d97b1",
+ "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-10-01T13:02:43Z",
+ "date": "2026-10-01",
+ "old_title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+ "new_title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+ "old_text": "Chipmaker AMD and world models company World Labs announced that AMD will acquire the AI company by the end of the year, pending regulatory approval. The transaction is valued at $8.2 billion.\nIn 2024, computer vision scientist Fei-Fei Li founded World Labs with fellow researchers Justin Johnson, Christoph Lassner, and Ben Mildenhall, with $230 million in funding, some of which came from AMD.\nThe company began working on new world models, which are AI models that aim to provide a useful, predictive simulation of the physical world. Competing architectures exist (earlier this year, Ars interviewed World Labs co-founder Ben Mildenhall and others in the field about exactly that), but many involve training a model on vast amounts of video data.\nThat was the case for Marble, World Labs' first publicly usable tool. Marble can generate small 3D spaces using Gaussian splats. They can then be exported as 3D assets for use in film production, game development, and other applications. The company has since introduced additional models and tools with different emphasis or use cases, such as Atlas.\nOne use case that has justified enormous investment in the space is generating synthetic data for training robots. That's a field where Nvidia, AMD's direct competitor, has a strong lead. AMD has produced its own AI models before, including Micro-World, an open-source world model, but it has not produced a stack that competes with Nvidia's Cosmos and related models and applications.",
+ "new_text": "Chipmaker AMD and world models company World Labs announced that AMD will acquire the AI company by the end of the year, pending regulatory approval. The transaction is valued at $8.2 billion.\nIn 2024, computer vision scientist Fei-Fei Li founded World Labs with fellow researchers Justin Johnson, Christoph Lassner, and Ben Mildenhall with $230 million in funding, some of which came from AMD.\nThe company began working on new world models, which are AI models that aim to provide a useful, predictive simulation of the physical world. Competing architectures exist (earlier this year, Ars interviewed World Labs co-founder Ben Mildenhall and others in the field about exactly that), but many involve training a model on vast amounts of video data.\nThat was the case for Marble, World Labs' first publicly usable tool. Marble can generate small 3D spaces using Gaussian splats. They can then be exported as 3D assets for use in film production, game development, and other applications. The company has since introduced additional models and tools with different emphases or use cases, such as Atlas.\nOne use case that has justified enormous investment in the space is generating synthetic data for training robots. That's a field where Nvidia, AMD's direct competitor, has a strong lead. AMD has produced its own AI models before, including Micro-World, an open source world model, but it has not produced a stack that competes with Nvidia's Cosmos and related models and applications.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "founded World Labs with fellow researchers Justin Johnson, Christoph Lassner, and Ben"
+    ],
+    [
+     "del",
+     "Mildenhall,"
+    ],
+    [
+     "ins",
+     "Mildenhall"
+    ],
+    [
+     "eq",
+     "with $230 million in funding, some of which came from AMD. The"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "applications. The company has since introduced additional models and tools with different"
+    ],
+    [
+     "del",
+     "emphasis"
+    ],
+    [
+     "ins",
+     "emphases"
+    ],
+    [
+     "eq",
+     "or use cases, such as Atlas. One use case that has justified"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "lead. AMD has produced its own AI models before, including Micro-World, an"
+    ],
+    [
+     "del",
+     "open-source"
+    ],
+    [
+     "ins",
+     "open source"
+    ],
+    [
+     "eq",
+     "world model, but it has not produced a stack that competes with Nvidia's Cosmos and related models and applications."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0294,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9929,
+ "adjudicated_by": "rules"
+}
