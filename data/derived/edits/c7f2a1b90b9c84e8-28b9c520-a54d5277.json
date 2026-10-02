@@ -1,0 +1,92 @@
+{
+ "id": "c7f2a1b90b9c84e8-28b9c520-a54d5277",
+ "url": "https://www.theguardian.com/football/2026/oct/01/united-states-host-first-womens-club-world-cup-football",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-02T12:26:39Z",
+ "date": "2026-10-02",
+ "old_title": "United States lined up to host first Women's Club World Cup",
+ "new_title": "US lined up instead of Qatar to host inaugural Women's Club World Cup",
+ "old_text": "The United States is poised to host the first Women's Club World Cup in January 2028, becoming the latest in a series of major Fifa tournaments staged in North America. Discussions to take the competition to the US are at an advanced stage, with Los Angeles and San Diego among the favoured host cities.\nIt will follow the men's tournament, whose expanded version debuted last year, in being staged by a country that also hosted the men's World Cup this summer.\nWhile a deal is yet to be confirmed, the path has cleared for America to hold the 19-team event without going through a formal bidding process, even though Qatar was in talks with Fifa about hosting.\nThe winter scheduling will avoid a clash with the men's Copa America, which the US is the frontrunner to host in June and July 2028, but raises the prospect of a hectic year-round calendar for the world's top players. The Club World Cup is placed squarely between the 2027 Women's World Cup and the 2028 Olympics, which will demand full-strength squads. A number of top clubs are in favour of a rule change limiting players to one international tournament per year, whether for club or country.\nFifa is keen to use the Club World Cup as a dry run for the 2031 Women's World Cup, which the US will host in conjunction with Mexico, Costa Rica and Jamaica in a decision to be formally approved at an Extraordinary Fifa Congress on 23 November.\nFootball's global body is eager to assess the stadium venues, pricing and demand for tickets at the smaller 19-team Club World Cup before the 48-team World Cup three years later. Time to organise and market the Club World Cup is tight, given it will start on 5 January 2028.\nSources have cited the chaos engulfing Fifa's leadership since the emergence of Gianni Infantino's ill-fated FFE scheme as a significant reason for the backlog of hosting decisions still to be taken. In July, Europe's top clubs threatened not to participate in future Club World Cups unless the FFE project was shelved. They also warned the threat would hold unless a joint venture between European Football Clubs and Fifa, agreed in outline form, but yet to be signed off, was completed before television rights could be sold for the women's Club World Cup.\nAnother tournament awaiting a venue is the 2029 men's Club World Cup. The US has expressed interest in hosting that competition, but should the women's event be confirmed it appears more likely to be co-hosted by Morocco, Spain and Portugal before they jointly host the men's World Cup the following year.\nFifa was contacted for comment.",
+ "new_text": "The US is poised to host the first Women's Club World Cup in January 2028, becoming the latest in a series of major Fifa tournaments staged in North America. Discussions to take the competition to the US are at an advanced stage, with Los Angeles and San Diego among the favoured host cities.\nIt will follow the men's tournament, whose expanded version debuted last year, in being staged by a country that also hosted the men's World Cup this summer.\nWhile a deal is yet to be confirmed, the path has cleared for the US to hold the 19-team event without going through a formal bidding process, even though Qatar was in talks with Fifa about hosting.\nThe winter scheduling will avoid a clash with the men's Copa América, which the US is the frontrunner to host in June and July 2028, but raises the prospect of a hectic year-round calendar for the world's top players. The Club World Cup is placed squarely between the 2027 Women's World Cup and the 2028 Olympics, which will demand full-strength squads. A number of top clubs are in favour of a rule change limiting players to one international tournament per year, whether for club or country.\nFifa is keen to use the Club World Cup as a dry run for the 2031 Women's World Cup, which the US will host in conjunction with Mexico, Costa Rica and Jamaica in a decision to be formally approved at an Extraordinary Fifa Congress on 23 November.\nFootball's global body is eager to assess the stadium venues, pricing and demand for tickets at the smaller 19-team Club World Cup before the 48-team World Cup three years later. Time to organise and market the Club World Cup is tight, given it will start on 5 January 2028.\nSources have cited the chaos engulfing Fifa's leadership since the emergence of Gianni Infantino's ill-fated FFE scheme as a significant reason for the backlog of hosting decisions still to be taken. In July, Europe's top clubs threatened not to participate in future Club World Cups unless the FFE project was shelved. They also warned the threat would hold unless a joint venture between European Football Clubs and Fifa, agreed in outline form, but yet to be signed off, was completed before television rights could be sold for the women's Club World Cup.\nAnother tournament awaiting a venue is the 2029 men's Club World Cup. The US has expressed interest in hosting that competition, but should the women's event be confirmed it appears more likely to be co-hosted by Morocco, Spain and Portugal before they jointly host the men's World Cup the following year.\nFifa was contacted for comment.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "United States"
+    ],
+    [
+     "ins",
+     "US"
+    ],
+    [
+     "eq",
+     "is poised to host the first Women's Club World Cup in January"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "a deal is yet to be confirmed, the path has cleared for"
+    ],
+    [
+     "del",
+     "America"
+    ],
+    [
+     "ins",
+     "the US"
+    ],
+    [
+     "eq",
+     "to hold the 19-team event without going through a formal bidding process,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "hosting. The winter scheduling will avoid a clash with the men's Copa"
+    ],
+    [
+     "del",
+     "America,"
+    ],
+    [
+     "ins",
+     "América,"
+    ],
+    [
+     "eq",
+     "which the US is the frontrunner to host in June and July"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0179,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9985,
+ "adjudicated_by": "rules"
+}

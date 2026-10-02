@@ -1,0 +1,88 @@
+{
+ "id": "95e694be0cb2b994-106f3e80-f75a3ecd",
+ "url": "https://www.theguardian.com/football/2026/oct/01/ivan-toney-pleads-not-guilty-to-soho-nightclub-assault",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-02T12:26:41Z",
+ "date": "2026-10-02",
+ "old_title": "England forward Ivan Toney pleads not guilty to Soho nightclub assault",
+ "new_title": "England forward Ivan Toney pleads not guilty to Soho nightclub assault",
+ "old_text": "Ivan Toney has pleaded not guilty to assault after being accused of head-butting and punching a member of the public at a Soho nightclub. The England striker appeared at Westminster magistrates court on Thursday, entering a plea of not guilty to assault occasioning actual bodily harm.\nThe court heard that on 6 December last year, words were exchanged between the 30-year-old striker and Saber Da Silva at 100 Wardour Street, a live music venue. The prosecutor, Tom Heslop, said it was not known what was said between the two men, but the exchange resulted in them \"squaring up\" to one another before Toney \"lunged forward and head-butted the complainant, followed by a few punches\". The altercation left Da Silva with injuries to his nose and fingers, it was alleged.\nToney has won 10 caps for England and was part of the squad that reached the Euro 2024 final. He plays for Saudi Pro League side Al-Ahli and was included in the England squad for the World Cup during the summer, coming on as a substitute in the semi-final defeat to Argentina and starting the third-place playoff win against France.\nIn a hearing that lasted 12 minutes, Toney was asked by the District Judge, Briony Clarke, if he wanted the case to be heard at magistrates or crown court. He stood and replied: \"Crown court.\" His trial will take place before a judge and jury.\nToney was released on unconditional bail, but warned by the judge that if he does not attend Southwark crown court at 9.30am on the appointed date, a warrant could be issued for his arrest.\nToney was charged on 31 July after a Metropolitan police investigation. When the charge was announced, a spokesperson for Toney said: \"Ivan acknowledges the charge and although he is naturally shocked, he looks forward to being given the opportunity to clear his name in court.\"\nToney started his career at his home town club, Northampton. He moved to Newcastle, where he made two league appearances before moving to Peterborough United. After signing for Brentford, Toney's goals helped them win promotion to the Premier League in 2021, where he established himself as one of the top-flight's leading forwards. He moved to Al-Ahli in 2024 for £40m.",
+ "new_text": "Ivan Toney has pleaded not guilty to assault after being accused of head-butting and punching a member of the public at a Soho nightclub. The England striker appeared at Westminster magistrates court on Thursday, entering a plea of not guilty to assault occasioning actual bodily harm.\nThe court heard that on 6 December last year, words were exchanged between the 30-year-old striker and Saber Da Silva at 100 Wardour Street, a live music venue. The prosecutor, Tom Heslop, said it was not known what was said between the two men, but the exchange resulted in them \"squaring up\" to one another before Toney \"lunged forward and head-butted the complainant, followed by a few punches\". The altercation left Da Silva with injuries to his nose and fingers, it was alleged.\nToney has won 10 caps for England and was part of the squad that reached the Euro 2024 final. He plays for the Saudi Pro League side Al-Ahli and was included in the England squad for the World Cup during the summer, coming on as a substitute in the semi-final defeat by Argentina and starting the third-place playoff win against France.\nIn a hearing that lasted 12 minutes, Toney was asked by the District Judge, Briony Clarke, if he wanted the case to be heard at magistrates or crown court. He stood and replied: \"Crown court.\" His trial will take place before a judge and jury.\nToney was released on unconditional bail, but warned by the judge that if he does not attend Southwark crown court at 9.30am on the appointed date, a warrant could be issued for his arrest.\nToney was charged on 31 July after a Metropolitan police investigation. When the charge was announced, a spokesperson for Toney said: \"Ivan acknowledges the charge and although he is naturally shocked, he looks forward to being given the opportunity to clear his name in court.\"\nToney started his career at his home town club, Northampton. He moved to Newcastle, where he made two league appearances before joining Peterborough. After signing for Brentford, Toney's goals helped them win promotion to the Premier League in 2021, where he established himself as one of the top-flight's leading forwards. He moved to Al-Ahli in 2024 for £40m.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "of the squad that reached the Euro 2024 final. He plays for"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "Saudi Pro League side Al-Ahli and was included in the England squad"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "during the summer, coming on as a substitute in the semi-final defeat"
+    ],
+    [
+     "del",
+     "to"
+    ],
+    [
+     "ins",
+     "by"
+    ],
+    [
+     "eq",
+     "Argentina and starting the third-place playoff win against France. In a hearing"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Northampton. He moved to Newcastle, where he made two league appearances before"
+    ],
+    [
+     "del",
+     "moving to Peterborough United."
+    ],
+    [
+     "ins",
+     "joining Peterborough."
+    ],
+    [
+     "eq",
+     "After signing for Brentford, Toney's goals helped them win promotion to the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0241,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9984,
+ "adjudicated_by": "rules"
+}

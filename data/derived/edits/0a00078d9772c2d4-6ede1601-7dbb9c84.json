@@ -1,0 +1,64 @@
+{
+ "id": "0a00078d9772c2d4-6ede1601-7dbb9c84",
+ "url": "https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-02T12:14:27Z",
+ "date": "2026-10-02",
+ "old_title": "UAE investigates possible 'terrorist' link in attack on flight to Israel",
+ "new_title": "UAE investigates possible 'terrorist' link in attack on flight to Israel",
+ "old_text": "The United Arab Emirates' chief prosecutor has launched an investigation into the cockpit fight on board a Flydubai flight to Israel, which forced the plane to be diverted and land in Saudi Arabia.\nAttorney General Hamad Saif Al Shamsi has formed a team of public prosecutors to investigate the midair altercation between the two pilots on board Flydubai flight FZ1073, Emirati state news agency WAM reported on Thursday.\nRecommended Stories\nlist of 3 items\n- list 1 of 3Pilot stabbed another in bid to crash Israel-bound Flydubai jet: Netanyahu\n- list 2 of 3Netanyahu calls stabbed Indian pilot a hero; Flydubai halts Israel flights\n- list 3 of 3Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded\nThe flight was travelling from Dubai International Airport to Tel Aviv on Wednesday before being diverted and landing safely at Tabuk airport in Saudi Arabia.\nInvestigators will examine the circumstances and motives behind the incident, and whether it was linked to any \"terrorist activity or intent\" or involved prior planning or direction, WAM reported.\nAl Shamsi said UAE judicial authorities have jurisdiction over the incident because the aircraft is registered in the UAE and flies under its flag, adding that UAE law applies to crimes committed on board \"even if they occur outside the country's territory\".\nEarlier, Israeli Prime Minister Benjamin Netanyahu said he spoke with the UAE's president, Sheikh Mohamed bin Zayed Al Nahyan, who agreed that Israel would \"join the interrogation\" of the suspect.\nNetanyahu has credited the Flydubai pilot, Indian national Smit Machchhar, as well as passengers, with averting catastrophe, after a co-pilot allegedly stabbed him and tried to crash the plane.\nIsraeli passengers on the aircraft carrying 174 people described how the injured Indian captain managed to open the cockpit door to let them in before they wrestled with the co-pilot and stabilised the plane during a descent so sharp that the rudder of the jet was ripped off.\n\"We felt helpless, suspended in midair, and I didn't know who to turn to. But it was all instinct to survive,\" one of the responders, Asaf Rajuan, said in a new statement shared by Israel's presidency.\nIsrael's foreign ministry said the people on board were from Israel, India and the UAE. The US State Department said four passengers had US citizenship.\nFlydubai has said its flights to and from Israel would be suspended.",
+ "new_text": "The United Arab Emirates' chief prosecutor has launched an investigation into the cockpit fight on board a Flydubai flight to Israel, which forced the plane to be diverted and land in Saudi Arabia.\nAttorney General Hamad Saif Al Shamsi has formed a team of public prosecutors to investigate the midair altercation between the two pilots on board Flydubai flight FZ1073, Emirati state news agency WAM reported on Thursday.\nRecommended Stories\nlist of 3 items\n- list 1 of 3Pilot stabbed another in bid to crash Israel-bound Flydubai jet: Netanyahu\n- list 2 of 3Netanyahu calls stabbed Indian pilot a hero; Flydubai halts Israel flights\n- list 3 of 3Flydubai FZ1073 timeline: How the Israel-bound flight emergency unfolded\nThe flight was travelling from Dubai International Airport to Tel Aviv on Wednesday before being diverted and landing safely at Tabuk airport in Saudi Arabia.\nInvestigators will examine the circumstances and motives behind the incident, and whether it was linked to any \"terrorist activity or intent\" or involved prior planning or direction, WAM reported.\nAl Shamsi said UAE judicial authorities have jurisdiction over the incident because the aircraft is registered in the UAE and flies under its flag, adding that UAE law applies to crimes committed on board \"even if they occur outside the country's territory\".\nEarlier, Israeli Prime Minister Benjamin Netanyahu said he spoke with the UAE's president, Sheikh Mohamed bin Zayed Al Nahyan, who agreed that Israel would \"join the interrogation\" of the suspect.\nNetanyahu, speaking of the co-pilot in an interview with Fox News, said: \"We know that he underwent Islamist radical indoctrination. That appears to be something we are gathering from his personal information.\"\n\"It looks very likely that he was going to down the plane,\" Netanyahu said. Coupled with \"the Islamist tendencies, that radicalization that are found in his background, I think that's ... a pretty good clue,\" he said, without elaborating.\n\"But again, I don't make final conclusions yet. But that's the indications we have now,\" Netanyahu added.\n'Felt helpless'\nNetanyahu has credited the Flydubai pilot, Indian national Smit Machchhar, as well as passengers, with averting catastrophe, after a co-pilot allegedly stabbed him and tried to crash the plane.\nIndia's Ministry of External Affairs said Captain Machchhar has been moved to Abu Dhabi for continued treatment after initial care at a hospital in Tabuk, Saudi Arabia. India's ambassador to the UAE paid a visit to the captain and his family.\nIsraeli passengers on the aircraft carrying 174 people described how the injured Indian captain managed to open the cockpit door to let them in before they wrestled with the co-pilot and stabilised the plane during a descent so sharp that the rudder of the jet was ripped off.\n\"We felt helpless, suspended in midair, and I didn't know who to turn to. But it was all instinct to survive,\" one of the responders, Asaf Rajuan, said in a new statement shared by Israel's presidency.\nIsrael's foreign ministry said the people on board were from Israel, India and the UAE. The US State Department said four passengers had US citizenship.\nFlydubai has said its flights to and from Israel would be suspended.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Nahyan, who agreed that Israel would \"join the interrogation\" of the suspect."
+    ],
+    [
+     "ins",
+     "Netanyahu, speaking of the co-pilot in an interview with Fox News, said: \"We know that he underwent Islamist radical indoctrination. That appears to be something we are gathering from his personal information.\" \"It looks very likely that he was going to down the plane,\" Netanyahu said. Coupled with \"the Islamist tendencies, that radicalization that are found in his background, I think that's ... a pretty good clue,\" he said, without elaborating. \"But again, I don't make final conclusions yet. But that's the indications we have now,\" Netanyahu added. 'Felt helpless'"
+    ],
+    [
+     "eq",
+     "Netanyahu has credited the Flydubai pilot, Indian national Smit Machchhar, as well"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "after a co-pilot allegedly stabbed him and tried to crash the plane."
+    ],
+    [
+     "ins",
+     "India's Ministry of External Affairs said Captain Machchhar has been moved to Abu Dhabi for continued treatment after initial care at a hospital in Tabuk, Saudi Arabia. India's ambassador to the UAE paid a visit to the captain and his family."
+    ],
+    [
+     "eq",
+     "Israeli passengers on the aircraft carrying 174 people described how the injured"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3333,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.9,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

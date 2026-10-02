@@ -1,0 +1,210 @@
+{
+ "id": "7256ec82b4e5dcdd-9926234c-19194e05",
+ "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-10-02T12:22:51Z",
+ "date": "2026-10-02",
+ "old_title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+ "new_title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+ "old_text": "- Published\nPresident Donald Trump's push to rename AI may be behind an \"unprecedented\" rise in registrations for domain names in Slovenia, according to its official national registry.\nThe president wants AI to be called super intelligence - or SI - the same initials used by Slovenian websites.\nRegister.si spokesperson Klara Herman said 44,000 web addresses with the .si suffix had been registered in September, compared to less than 2,000 in August - an increase of more than 2,100%.\nShe said the scale of activity in late September was \"unprecedented\" compared to the previous 12 months.\nPresident Trump called for the technology to be renamed during his speech to the United Nations General Assembly in New York on 11 September.\n\"The use of the word artificial makes it sound fake,\" he said.\n\"It's not fake, it's actually amazing. But we have to be careful... welcome to the new world of super intelligence.\"\nInternet domains are the unique human-readable addresses people type into their web browsers to access websites - like bbc.co.uk.\nHerman said registrations for .si web addresses in September stood out \"very clearly\" against the other months in the year, although she was \"cautious\" about attributing the entire increase to only President Trump's comments.\nShe said on 30 September alone, 11,000 new registrations were recorded.\nOne possible explanation for the purchases is cyber-squatting - where people speculatively register specific domain names in case they increase in value later on and can be sold for a profit.\nFor example, in 1997 Rick Schwartz, known as \"The Domain King\", bought the domain name men.com for $15,000 (Â£11,300). He sold it for $1.32 million seven years later.\nOn Tuesday, President Trump hosted a meeting of top technology bosses for what he called \"an extraordinary gathering\" of the people \"building America's Golden Age\".\nHe signed an executive order instructing US government departments and agencies to start using the terms \"SI\" and \"Super Intelligence\" and they should no longer acknowledge the use of the term AI.\nSI will take the place of AI in \"official correspondence\", websites, reports and other forms of communication, the order said.\nImages of the signatures for the order were mocked online, external however - when it was discovered \"United States\" had been spelt incorrectly underneath President Trump's signature.",
+ "new_text": "- Published\nDonald Trump's push to rename AI may be behind an \"unprecedented\" rise in registrations for domain names in Slovenia, according to its official national registry.\nThe US president wants AI to be called \"super intelligence\" - or SI - the same initials used by Slovenian websites.\nRegister.si spokeswoman Klara Herman said 44,000 web addresses with the .si suffix had been registered in September, compared to less than 2,000 in August - an increase of more than 2,100%.\nShe said the scale of activity in late September was \"unprecedented\" compared to the previous 12 months.\nTrump called for the technology to be renamed during his speech to the United Nations General Assembly in New York on 11 September.\n\"The use of the word artificial makes it sound fake,\" he said.\n\"It's not fake, it's actually amazing. But we have to be careful... welcome to the new world of super intelligence.\"\nInternet domains are the unique human-readable addresses people type into their web browsers to access websites - like bbc.co.uk.\nHerman said registrations for .si web addresses in September stood out \"very clearly\" against the other months in the year, although she was \"cautious\" about attributing the entire increase to just Trump's comments.\nShe said on 30 September alone, 11,000 new registrations were recorded.\nOne possible explanation for the purchases is a practice in which people speculatively register specific domain names in case they increase in value later on and can be sold for a profit.\nFor example, in 1997 Rick Schwartz, known as \"The Domain King\", bought the domain name men.com for $15,000 (Â£11,300). He sold it for $1.32 million seven years later.\nTrump hosted a meeting of top technology bosses for what he called \"an extraordinary gathering\" of the people \"building America's Golden Age\" on Tuesday.\nHe signed an executive order instructing US government departments and agencies to start using the terms \"SI\" and \"Super Intelligence\", and to no longer acknowledge the use of the term AI.\nSI will take the place of AI in \"official correspondence\", websites, reports and other forms of communication, the order said.\nImages of the signatures for the order were mocked online, external however - when it was discovered \"United States\" had been spelt incorrectly underneath Trump's signature.\nCorrection 1 October: An earlier version of this article referred to cyber-squatting, whereby people register domain names in bad faith with the intent to profit. We cited as an example the registration of men.com by Rick Schwartz. The article was amended to delete the reference to cyber-squatting and make clear simply registering domain names as an investment in the hope they will increase in value, as happened with men.com, is a legitimate business activity.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "President"
+    ],
+    [
+     "eq",
+     "Donald Trump's push to rename AI may be behind an \"unprecedented\" rise"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "for domain names in Slovenia, according to its official national registry. The"
+    ],
+    [
+     "ins",
+     "US"
+    ],
+    [
+     "eq",
+     "president wants AI to be called"
+    ],
+    [
+     "del",
+     "super intelligence"
+    ],
+    [
+     "ins",
+     "\"super intelligence\""
+    ],
+    [
+     "eq",
+     "- or SI - the same initials used by Slovenian websites. Register.si"
+    ],
+    [
+     "del",
+     "spokesperson"
+    ],
+    [
+     "ins",
+     "spokeswoman"
+    ],
+    [
+     "eq",
+     "Klara Herman said 44,000 web addresses with the .si suffix had been"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "activity in late September was \"unprecedented\" compared to the previous 12 months."
+    ],
+    [
+     "del",
+     "President"
+    ],
+    [
+     "eq",
+     "Trump called for the technology to be renamed during his speech to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the year, although she was \"cautious\" about attributing the entire increase to"
+    ],
+    [
+     "del",
+     "only President"
+    ],
+    [
+     "ins",
+     "just"
+    ],
+    [
+     "eq",
+     "Trump's comments. She said on 30 September alone, 11,000 new registrations were recorded. One possible explanation for the purchases is"
+    ],
+    [
+     "del",
+     "cyber-squatting - where"
+    ],
+    [
+     "ins",
+     "a practice in which"
+    ],
+    [
+     "eq",
+     "people speculatively register specific domain names in case they increase in value"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "for $15,000 (Â£11,300). He sold it for $1.32 million seven years later."
+    ],
+    [
+     "del",
+     "On Tuesday, President"
+    ],
+    [
+     "eq",
+     "Trump hosted a meeting of top technology bosses for what he called \"an extraordinary gathering\" of the people \"building America's Golden"
+    ],
+    [
+     "del",
+     "Age\"."
+    ],
+    [
+     "ins",
+     "Age\" on Tuesday."
+    ],
+    [
+     "eq",
+     "He signed an executive order instructing US government departments and agencies to start using the terms \"SI\" and \"Super"
+    ],
+    [
+     "del",
+     "Intelligence\""
+    ],
+    [
+     "ins",
+     "Intelligence\","
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "they should"
+    ],
+    [
+     "ins",
+     "to"
+    ],
+    [
+     "eq",
+     "no longer acknowledge the use of the term AI. SI will take"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "- when it was discovered \"United States\" had been spelt incorrectly underneath"
+    ],
+    [
+     "del",
+     "President"
+    ],
+    [
+     "eq",
+     "Trump's signature."
+    ],
+    [
+     "ins",
+     "Correction 1 October: An earlier version of this article referred to cyber-squatting, whereby people register domain names in bad faith with the intent to profit. We cited as an example the registration of men.com by Rick Schwartz. The article was amended to delete the reference to cyber-squatting and make clear simply registering domain names as an investment in the hope they will increase in value, as happened with men.com, is a legitimate business activity."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2797,
+  "numbers_changed": [
+   "1"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 0.9944,
+ "adjudicated_by": "rules"
+}

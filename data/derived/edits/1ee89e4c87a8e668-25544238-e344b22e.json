@@ -1,0 +1,360 @@
+{
+ "id": "1ee89e4c87a8e668-25544238-e344b22e",
+ "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-10-02T12:24:06Z",
+ "date": "2026-10-02",
+ "old_title": "Orionid meteor shower 2026: How and when to see it this week",
+ "new_title": "Orionid meteor shower 2026: How and when to see it",
+ "old_text": "- Published\nOne of the best-known meteor showers of the year is returning to our skies this week, as the Earth passes through debris left behind by Halley's Comet.\nThe Orionid meteor shower is active from 2 October until 7 November and will peak overnight from 21 to 22 October.\nThe display occurs at around the same time each year as the Earth passes through a trail of dust and debris left behind by Halley's Comet.\nThe best time to spot the meteors will be between midnight and dawn, when the sky is at its darkest.\nWhat are the Orionids?\nAs tiny particles from the comet enter the Earth's atmosphere at high speed, they heat up and produce streaks of light across the night sky that we see as meteors.\nThe Orionids are particularly fast, entering the atmosphere at around 41 miles per second and can leave glowing trails which remain visible for several seconds.\nHalley's Comet is one of the most famous comets in our Solar System and has been observed from Earth for centuries. It takes around 76 years to complete one orbit of the Sun and was last seen from Earth in 1986.\nBut while the comet itself is a rare visitor, the Earth encounters material left behind by it twice a year, resulting in the Eta Aquariid meteor shower in May and the Orionids in October.\nUnder ideal conditions, around 10 to 20 meteors can be seen each hour at the shower's peak.\nThe meteors appear to radiate from the constellation of Orion, which is where the shower gets its name, but they can appear anywhere across the night sky.\nFor the best chance of seeing them, find a dark location away from street lights and with as wide a view of the sky as possible.\nAllow around 15 to 20 minutes for your eyes to adjust. You won't need binoculars or a telescope; the shower is best viewed with the naked eye.\nWhat is the forecast for the start of the shower?\nViewing prospects will be rather mixed with the best conditions likely to be across southern and eastern parts of England - where there should be long clear spells, albeit with a few areas of cloud drifting across the sky from time-to-time.\nIn Wales, the Midlands and Northern England it may be more of a struggle to see the meteor shower, with a slow-moving weather front providing cloud and outbreaks of rain.\nThe rain is likely to turn patchier later in the night with a few cloud breaks likely to develop.\nFor Scotland and Northern Ireland it will be a story of clear periods, patchy cloud and a few showers - and if the gaps between the showers are long enough you should get a view for at least some of the time.\nThe Moon could also affect how many meteors are visible at the peak of the Orionids later in October, as it will be in its waxing gibbous phase, meaning its light could make some of the fainter meteors more difficult to see.\nBrighter meteors however should still be visible, particularly from darker locations away from artificial light.",
+ "new_text": "- Published\nOne of the best-known meteor showers is now active until 7 November.\nThe Orionids are particularly fast and can leave trails in the sky that last a few seconds after the meteor itself has gone.\nThe display occurs at around the same time each year when the Earth passes through a trail of dust and debris left behind by Halley's Comet.\nThe showers peak overnight from 21 to 22 October.\nWhat are the Orionids?\nThe Orionids are particularly fast, entering the atmosphere at around 41 miles per second.\nAs tiny particles from Halley's comet enter the Earth's atmosphere they heat up and produce streaks of light across the night sky that we see as meteors.\nHalley's Comet is one of the most famous comets in our Solar System and has been observed from Earth for centuries. It takes around 76 years to complete one orbit of the Sun and was last seen from Earth in 1986.\nHalley's Comet is not expected to be visible from Earth again until 2061, but its debris will continue to produce meteor showers each year.\nIn fact, the Earth encounters material left behind by it twice a year, resulting in the Eta Aquariid meteor shower in May and the Orionids in October.\nHow can I see the Orionids?\nThe meteors appear to radiate from the constellation of Orion, which is where the shower gets its name, but they can appear anywhere across the night sky.\nUnder ideal conditions, around 10 to 20 meteors can be seen each hour at the shower's peak.\nFor the best chance of seeing them, find a dark location away from street lights and with as wide a view of the sky as possible.\nAllow around 15 to 20 minutes for your eyes to adjust. You won't need binoculars or a telescope; the shower is best viewed with the naked eye.\nWhat is the forecast for the start of the shower?\nViewing prospects will be rather mixed on Friday evening.\nThe best conditions are likely to be across southern and eastern parts of England where there should be long clear spells, albeit with a few areas of cloud drifting across the sky from time-to-time.\nIn Wales, the Midlands and Northern England it may be more of a struggle to see the meteor shower, with a slow-moving weather front providing cloud and outbreaks of rain.\nThe rain is likely to turn patchier later in the night with a few cloud breaks likely to develop.\nFor Scotland and Northern Ireland it will be a story of clear periods, patchy cloud and a few showers - but if the gaps between the showers are long enough you should get a view for at least some of the time.\nThe Moon could also affect how many meteors are visible at the peak of the Orionids later in October, as the Moon will be building to its full phase on 26 October. This means its light could make some of the fainter meteors more difficult to see.\nBrighter meteors however should still be visible, particularly from darker locations away from artificial light.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published One of the best-known meteor showers"
+    ],
+    [
+     "del",
+     "of the year"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "del",
+     "returning to our skies this week, as the Earth passes through debris left behind by Halley's Comet. The Orionid meteor shower is"
+    ],
+    [
+     "ins",
+     "now"
+    ],
+    [
+     "eq",
+     "active"
+    ],
+    [
+     "del",
+     "from 2 October"
+    ],
+    [
+     "eq",
+     "until 7"
+    ],
+    [
+     "del",
+     "November"
+    ],
+    [
+     "ins",
+     "November. The Orionids are particularly fast"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "will peak overnight from 21 to 22 October."
+    ],
+    [
+     "ins",
+     "can leave trails in the sky that last a few seconds after the meteor itself has gone."
+    ],
+    [
+     "eq",
+     "The display occurs at around the same time each year"
+    ],
+    [
+     "del",
+     "as"
+    ],
+    [
+     "ins",
+     "when"
+    ],
+    [
+     "eq",
+     "the Earth passes through a trail of dust and debris left behind by Halley's Comet. The"
+    ],
+    [
+     "del",
+     "best time"
+    ],
+    [
+     "ins",
+     "showers peak overnight from 21"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "spot the meteors will be between midnight and dawn, when the sky is at its darkest."
+    ],
+    [
+     "ins",
+     "22 October."
+    ],
+    [
+     "eq",
+     "What are the Orionids?"
+    ],
+    [
+     "ins",
+     "The Orionids are particularly fast, entering the atmosphere at around 41 miles per second."
+    ],
+    [
+     "eq",
+     "As tiny particles from"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "ins",
+     "Halley's"
+    ],
+    [
+     "eq",
+     "comet enter the Earth's atmosphere"
+    ],
+    [
+     "del",
+     "at high speed,"
+    ],
+    [
+     "eq",
+     "they heat up and produce streaks of light across the night sky that we see as meteors."
+    ],
+    [
+     "del",
+     "The Orionids are particularly fast, entering the atmosphere at around 41 miles per second and can leave glowing trails which remain visible for several seconds."
+    ],
+    [
+     "eq",
+     "Halley's Comet is one of the most famous comets in our Solar"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "orbit of the Sun and was last seen from Earth in 1986."
+    ],
+    [
+     "del",
+     "But while the comet itself"
+    ],
+    [
+     "ins",
+     "Halley's Comet"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "del",
+     "a rare visitor,"
+    ],
+    [
+     "ins",
+     "not expected to be visible from Earth again until 2061, but its debris will continue to produce meteor showers each year. In fact,"
+    ],
+    [
+     "eq",
+     "the Earth encounters material left behind by it twice a year, resulting"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the Eta Aquariid meteor shower in May and the Orionids in October."
+    ],
+    [
+     "del",
+     "Under ideal conditions, around 10 to 20 meteors"
+    ],
+    [
+     "ins",
+     "How"
+    ],
+    [
+     "eq",
+     "can"
+    ],
+    [
+     "del",
+     "be seen each hour at"
+    ],
+    [
+     "ins",
+     "I see"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "shower's peak."
+    ],
+    [
+     "ins",
+     "Orionids?"
+    ],
+    [
+     "eq",
+     "The meteors appear to radiate from the constellation of Orion, which is"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "gets its name, but they can appear anywhere across the night sky."
+    ],
+    [
+     "ins",
+     "Under ideal conditions, around 10 to 20 meteors can be seen each hour at the shower's peak."
+    ],
+    [
+     "eq",
+     "For the best chance of seeing them, find a dark location away"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "for the start of the shower? Viewing prospects will be rather mixed"
+    ],
+    [
+     "del",
+     "with the"
+    ],
+    [
+     "ins",
+     "on Friday evening. The"
+    ],
+    [
+     "eq",
+     "best conditions"
+    ],
+    [
+     "ins",
+     "are"
+    ],
+    [
+     "eq",
+     "likely to be across southern and eastern parts of England"
+    ],
+    [
+     "del",
+     "-"
+    ],
+    [
+     "eq",
+     "where there should be long clear spells, albeit with a few areas"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "a story of clear periods, patchy cloud and a few showers -"
+    ],
+    [
+     "del",
+     "and"
+    ],
+    [
+     "ins",
+     "but"
+    ],
+    [
+     "eq",
+     "if the gaps between the showers are long enough you should get"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "are visible at the peak of the Orionids later in October, as"
+    ],
+    [
+     "del",
+     "it"
+    ],
+    [
+     "ins",
+     "the Moon"
+    ],
+    [
+     "eq",
+     "will be"
+    ],
+    [
+     "del",
+     "in"
+    ],
+    [
+     "ins",
+     "building to"
+    ],
+    [
+     "eq",
+     "its"
+    ],
+    [
+     "del",
+     "waxing gibbous phase, meaning"
+    ],
+    [
+     "ins",
+     "full phase on 26 October. This means"
+    ],
+    [
+     "eq",
+     "its light could make some of the fainter meteors more difficult to"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4335,
+  "numbers_changed": [
+   "2",
+   "2061",
+   "26"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.749,
+ "similarity": 0.9619,
+ "adjudicated_by": "rules"
+}
