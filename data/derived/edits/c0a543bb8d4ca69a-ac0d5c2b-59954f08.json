@@ -1,0 +1,52 @@
+{
+ "id": "c0a543bb8d4ca69a-ac0d5c2b-59954f08",
+ "url": "https://www.aljazeera.com/news/2026/9/28/child-among-three-killed-off-french-coast-in-channel-crossing-attempt?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-03T11:24:24Z",
+ "date": "2026-10-03",
+ "old_title": "Child among three killed off French coast in Channel crossing attempt",
+ "new_title": "Child among three killed off French coast in Channel crossing attempt",
+ "old_text": "Three people, including a child, have died off the coast of France while attempting to cross the English Channel to the United Kingdom, French authorities have said.\nFrance's maritime police said they had received a distress call from an inflatable dinghy carrying 105 people that had run into trouble in calm seas.\nRecommended Stories\nlist of 3 items\n- list 1 of 3'Hope' rises in Berlin immigrant communities as Left wins amid AfD gains\n- list 2 of 3'They told me to go back to my country': Inside the UK's wave of racism\n- list 3 of 3EU unlocks humanitarian aid for crises worldwide\nThe prefecture said the incident involving a \"taxi boat\" occurred off the coast of Wissant, a seaside village in northern France.\n\"Taxi boat\" refers to a dinghy that approaches the beach from the sea to pick up migrants in shallow waters off the beach.\nAll passengers on board requested rescue and were taken into care, said the maritime prefecture, adding that the dinghy had not sunk.\nThe AFP news agency reported that a rescue boat arrived at the port of Calais in mid-morning, where it began disembarking people rescued from the incident.\nAt least 29 migrants lost their lives last year trying to cross the Channel, according to an AFP tally based on official French and British sources.\nMore than 41,000 embarked on the dangerous journey across one of the world's busiest shipping lanes last year.\nThe issue has been depicted as a crisis by politicians, including Nigel Farage of the far-right party Reform UK, and has been used as a rallying point by anti-immigration activists.\nSuccessive British governments have promised to stop crossings amid organised anti-immigration protests that drew hundreds of demonstrators.\nIn April, France and the UK signed an agreement to strengthen operations to prevent crossings, with a significant increase in human, technological and intelligence resources.\nLast month, a plan put forward by Reform UK to deploy the navy to intercept and return asylum seekers arriving by boat triggered a dispute with France. The French Ministry of the Interior said the measure would breach international law.",
+ "new_text": "Three people, including a child, have died off the coast of France while attempting to cross the English Channel to the United Kingdom, French authorities have said.\nFrance's maritime police said they had received a distress call from an inflatable dinghy carrying 105 people that had run into trouble in calm seas.\nThe prefecture said the incident involving a \"taxi boat\" occurred off the coast of Wissant, a seaside village in northern France.\n\"Taxi boat\" refers to a dinghy that approaches the beach from the sea to pick up migrants in shallow waters off the beach.\nAll passengers on board requested rescue and were taken into care, said the maritime prefecture, adding that the dinghy had not sunk.\nThe AFP news agency reported that a rescue boat arrived at the port of Calais in mid-morning, where it began disembarking people rescued from the incident.\nAt least 29 migrants lost their lives last year trying to cross the Channel, according to an AFP tally based on official French and British sources.\nMore than 41,000 embarked on the dangerous journey across one of the world's busiest shipping lanes last year.\nThe issue has been depicted as a crisis by politicians, including Nigel Farage of the far-right party Reform UK, and has been used as a rallying point by anti-immigration activists.\nSuccessive British governments have promised to stop crossings amid organised anti-immigration protests that drew hundreds of demonstrators.\nIn April, France and the UK signed an agreement to strengthen operations to prevent crossings, with a significant increase in human, technological and intelligence resources.\nLast month, a plan put forward by Reform UK to deploy the navy to intercept and return asylum seekers arriving by boat triggered a dispute with France. The French Ministry of the Interior said the measure would breach international law.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "dinghy carrying 105 people that had run into trouble in calm seas."
+    ],
+    [
+     "del",
+     "Recommended Stories list of 3 items - list 1 of 3'Hope' rises in Berlin immigrant communities as Left wins amid AfD gains - list 2 of 3'They told me to go back to my country': Inside the UK's wave of racism - list 3 of 3EU unlocks humanitarian aid for crises worldwide"
+    ],
+    [
+     "eq",
+     "The prefecture said the incident involving a \"taxi boat\" occurred off the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1477,
+  "numbers_changed": [
+   "1",
+   "2",
+   "3"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.964,
+ "similarity": 0.8844,
+ "adjudicated_by": "rules"
+}

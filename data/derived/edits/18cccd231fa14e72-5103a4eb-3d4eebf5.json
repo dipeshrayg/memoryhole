@@ -1,0 +1,59 @@
+{
+ "id": "18cccd231fa14e72-5103a4eb-3d4eebf5",
+ "url": "https://www.gov.uk/government/news/security-open-call-2026-cycle-2-new-focus-area-added",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "country": "United Kingdom",
+ "category": "government",
+ "lang": "en",
+ "detected_at": "2026-10-03T11:34:34Z",
+ "date": "2026-10-03",
+ "old_title": "Security Open Call 2026 Cycle 2: New Focus Area Added",
+ "new_title": "Security Open Call 2026 Cycle 2: New Focus Area Added",
+ "old_text": "- Cycle 2 of the Security Open Call is now open, calling for disruptive technologies to help address some of the UK's most pressing security challenges.\n- This cycle sees the addition of Department for Transport (DfT) focus areas, including threat detection, screening technologies, passenger security and situational awareness.\n- The competition seeks innovative approaches that can improve security while supporting effective and efficient transport operations.\nUK Defence Innovation (UKDI) is calling on innovators to help strengthen the security of the UK's transport network, with the addition of a new Department for Transport Focus Area. Cycle 2 of the Security Open Call is now open, seeking technologies that can detect threats, improve screening and protect passengers and goods, while keeping the UK moving.\nThe Department for Transport (DfT) focus areas are a new addition alongside the Home Office and National Protective Security Authority focus areas, which continue from Cycle 1.\nWhat innovations are we looking for?\nWe are seeking innovative technologies and approaches in the following areas - please read the full competition document for in depth details of the challenges:\n-\nAviation hold baggage screening\n-\nDetection of explosive threats in complex freight and large loads\n-\nLow divestment walk-through people and bag screening\n-\nSecurity situational awareness sensor integration with autonomous and robotic platforms\n-\nPassenger screening - alarm resolution\nWhat outcomes are expected?\nThe competition is seeking technologies that improve the detection of malicious threats, support screening operators through automation and assurance, exploit emerging technologies and enhance the security and resilience of the UK's transport network. Solutions should demonstrate a clear route towards deployment and operational benefit.\nThe application process\nThe Security Open Call uses a two-stage application process designed to identify promising ideas at pace while reducing bidding effort for innovators.\nApplicants will first submit a Stage 1 overview proposal, which UKDI will share with the competition challenge owners. Ideas that align well with the Competition Focus Areas, demonstrate a strong chance of successful delivery and meet the customer's needs will be invited to progress to a full Stage 2 submission.\nProposals will only be funded where there is alignment to the competition challenges and strong demand for the idea.\nUKDI's Innovation Partners are available to support innovators throughout the application process.\nHow much funding is available?\nSuccessful proposals for the Security Open Call can be funded up to £350,000. Projects can run for a maximum of 12 months, with an optional testing and trialling phase costed into proposals to extend activity to 18 months.\nKey dates\nSubmissions to Stage 1 will close at midday on 29 October (GMT). Please see the full competition document for full details of stages and submission dates.\nSubmit a proposal\nIf you have an innovation that could help address these transport security challenges, please read the full competition document and submit a proposal through the UKDI Submission Service.",
+ "new_text": "Security Open Call 2026 Cycle 2: New Focus Area Added\nUKDI and the Department for Transport are looking for proposals that could help strengthen the security and resilience of the UK transport network.\n- Cycle 2 of the Security Open Call is now open, calling for disruptive technologies to help address some of the UK's most pressing security challenges.\n- This cycle sees the addition of Department for Transport (DfT) focus areas, including threat detection, screening technologies, passenger security and situational awareness.\n- The competition seeks innovative approaches that can improve security while supporting effective and efficient transport operations.\nUK Defence Innovation (UKDI) is calling on innovators to help strengthen the security of the UK's transport network, with the addition of a new Department for Transport Focus Area. Cycle 2 of the Security Open Call is now open, seeking technologies that can detect threats, improve screening and protect passengers and goods, while keeping the UK moving.\nThe Department for Transport (DfT) focus areas are a new addition alongside the Home Office and National Protective Security Authority focus areas, which continue from Cycle 1.\nWhat innovations are we looking for?\nWe are seeking innovative technologies and approaches in the following areas - please read the full competition document for in depth details of the challenges:\n- Aviation hold baggage screening\n- Detection of explosive threats in complex freight and large loads\n- Low divestment walk-through people and bag screening\n- Security situational awareness sensor integration with autonomous and robotic platforms\n- Passenger screening - alarm resolution\nWhat outcomes are expected?\nThe competition is seeking technologies that improve the detection of malicious threats, support screening operators through automation and assurance, exploit emerging technologies and enhance the security and resilience of the UK's transport network. Solutions should demonstrate a clear route towards deployment and operational benefit.\nThe application process\nThe Security Open Call uses a two-stage application process designed to identify promising ideas at pace while reducing bidding effort for innovators.\nApplicants will first submit a Stage 1 overview proposal, which UKDI will share with the competition challenge owners. Ideas that align well with the Competition Focus Areas, demonstrate a strong chance of successful delivery and meet the customer's needs will be invited to progress to a full Stage 2 submission.\nProposals will only be funded where there is alignment to the competition challenges and strong demand for the idea.\nUKDI's Innovation Partners are available to support innovators throughout the application process.\nHow much funding is available?\nSuccessful proposals for the Security Open Call can be funded up to £350,000. Projects can run for a maximum of 12 months, with an optional testing and trialling phase costed into proposals to extend activity to 18 months.\nKey dates\nSubmissions to Stage 1 will close at midday on 29 October (GMT). Please see the full competition document for full details of stages and submission dates.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "Security Open Call 2026 Cycle 2: New Focus Area Added UKDI and the Department for Transport are looking for proposals that could help strengthen the security and resilience of the UK transport network."
+    ],
+    [
+     "eq",
+     "- Cycle 2 of the Security Open Call is now open, calling"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the full competition document for full details of stages and submission dates."
+    ],
+    [
+     "del",
+     "Submit a proposal If you have an innovation that could help address these transport security challenges, please read the full competition document and submit a proposal through the UKDI Submission Service."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1339,
+  "numbers_changed": [
+   "2",
+   "2026"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.261,
+ "similarity": 0.9098,
+ "adjudicated_by": "rules"
+}

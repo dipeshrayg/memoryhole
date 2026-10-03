@@ -1,0 +1,44 @@
+{
+ "id": "6d1a6c3f330baa98-cce7102a-2d534e25",
+ "url": "https://www.gov.uk/government/news/catch-recording-service-improvement-underway",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "country": "United Kingdom",
+ "category": "government",
+ "lang": "en",
+ "detected_at": "2026-10-03T11:34:00Z",
+ "date": "2026-10-03",
+ "old_title": "Catch Recording Service Improvement Underway",
+ "new_title": "Catch Recording Service Improvement Underway",
+ "old_text": "The upgraded service has been revised from the ground up to provide a more reliable and resilient platform for users. While the technology behind the service will be significantly improved, the new application will retain a familiar look and feel for fishermen and other users.\nThis forms part of MMO's ongoing commitment to delivering effective digital services that support compliance, sustainable fisheries management and the needs of the fishing industry. The new platform will also provide a stronger foundation for future improvements and enhancements.\nMichael Coyle, Acting Director of Digital, Analysis and Regulatory Reform said:\nWe recognise the impact that technical issues with the current Catch Recording service have had on users and understand the importance of providing a dependable digital service. Following extensive work to identify a solution, we are now improving the application and web service to create a more robust and reliable platform. This investment will help ensure we can better meet the needs of users now and support future improvements in the years ahead.\nDevelopment of the service is currently at an early stage. MMO will continue to provide updates to industry and stakeholders as the project progresses. Existing requests for enhancements and additional functionality will not form part of the initial improvement programme. However, these requests remain under consideration and will continue to be reviewed and prioritised as part of future development work.\nPeter Clark, Director of Operations said:\nCatch recording plays a vital role in fisheries management and it is essential that industry can rely on the services that support these reporting requirements. The improvement programme demonstrates MMO's commitment to addressing existing issues and investing in a more stable and resilient service for the future. We will continue to engage with stakeholders and keep industry informed as development progresses.\nIndustry updates will be shared as key milestones are reached. Stakeholders with questions or feedback can contact catchrecording@marinemanagement.org.uk.",
+ "new_text": "Catch Recording Service Improvement Underway\nMarine Management Organisation (MMO) has begun work to improve its Catch Recording App and web service following technical issues that have previously affected the submission of catch records, particularly through the mobile app.\nThe upgraded service has been revised from the ground up to provide a more reliable and resilient platform for users. While the technology behind the service will be significantly improved, the new application will retain a familiar look and feel for fishermen and other users.\nThis forms part of MMO's ongoing commitment to delivering effective digital services that support compliance, sustainable fisheries management and the needs of the fishing industry. The new platform will also provide a stronger foundation for future improvements and enhancements.\nMichael Coyle, Acting Director of Digital, Analysis and Regulatory Reform said:\nWe recognise the impact that technical issues with the current Catch Recording service have had on users and understand the importance of providing a dependable digital service. Following extensive work to identify a solution, we are now improving the application and web service to create a more robust and reliable platform. This investment will help ensure we can better meet the needs of users now and support future improvements in the years ahead.\nDevelopment of the service is currently at an early stage. MMO will continue to provide updates to industry and stakeholders as the project progresses. Existing requests for enhancements and additional functionality will not form part of the initial improvement programme. However, these requests remain under consideration and will continue to be reviewed and prioritised as part of future development work.\nPeter Clark, Director of Operations said:\nCatch recording plays a vital role in fisheries management and it is essential that industry can rely on the services that support these reporting requirements. The improvement programme demonstrates MMO's commitment to addressing existing issues and investing in a more stable and resilient service for the future. We will continue to engage with stakeholders and keep industry informed as development progresses.\nIndustry updates will be shared as key milestones are reached. Stakeholders with questions or feedback can contact catchrecording@marinemanagement.org.uk.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "Catch Recording Service Improvement Underway Marine Management Organisation (MMO) has begun work to improve its Catch Recording App and web service following technical issues that have previously affected the submission of catch records, particularly through the mobile app."
+    ],
+    [
+     "eq",
+     "The upgraded service has been revised from the ground up to provide"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1214,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.644,
+ "similarity": 0.9376,
+ "adjudicated_by": "rules"
+}

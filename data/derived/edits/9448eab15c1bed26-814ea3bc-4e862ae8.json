@@ -1,0 +1,56 @@
+{
+ "id": "9448eab15c1bed26-814ea3bc-4e862ae8",
+ "url": "https://variety.com/2026/film/news/michael-de-luca-pamela-abdy-exit-warner-bros-paramount-merger-close-1236897365/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-10-03T11:44:06Z",
+ "date": "2026-10-03",
+ "old_title": "Michael De Luca and Pamela Abdy to Depart at Warner Bros. Following Paramount Close",
+ "new_title": "Michael De Luca and Pamela Abdy to Depart at Warner Bros. Following Paramount Close",
+ "old_text": "Michael De Luca and Pamela Abdy's term as chiefs of Warner Bros. is coming to an end.\nMultiple sources told Variety that De Luca and Abdy will not be part of David Ellison's management team after the merger between Paramount Skydance and Warner Bros. Discovery closes. The landmark $110 billion pact is expected to be finalized on Oct. 6.\nParamount film heads Dana Goldberg and Josh Greenstein are reported to oversee both movie studios, which will release 30 movies a year, per the provisions of the deal. It's unclear if De Luca and Abdy will remain for a transitionary period.\nThe news comes almost one year to the date when WBD CEO and president David Zaslav announced De Luca and Abdy's contracts were being renewed at the studio, following the massive box office successes of Ryan Coogler's \"Sinners,\" \"A Minecraft Movie\" and \"Weapons.\" Then, Warner Bros. tied the all-time studio record with 11 Academy Awards from an industry-leading 30 nominations, including a best picture win for Paul Thomas Anderson's \"One Battle After Another.\"\nPopular on Variety\nEllison is keeping his new leadership structure close to the vest, and despite Cindy Holland's exit as head of streaming for Paramount+, the company has yet to confirm Casey Bloys will ascend to the top streaming job in the new combined structure. However, it is known that Ellison tapped former Mattel CEO Ynon Kriez to serve as co-CEO, overseeing day-to-day operations and integration of the combined businesses.\nPuck first reported news of the executives' impending exit. Paramount and Warner Bros. did not immediately return a request for comment.",
+ "new_text": "Michael De Luca and Pamela Abdy's term as chiefs of Warner Bros. is coming to an end.\nMultiple sources told Variety that De Luca and Abdy will not be part of David Ellison's management team after the merger between Paramount Skydance and Warner Bros. Discovery closes. The landmark $110 billion pact is expected to be finalized on Oct. 6.\nParamount film heads Dana Goldberg and Josh Greenstein are reported to oversee both movie studios, which will release 30 movies a year, per the provisions of the deal. It's unclear if De Luca and Abdy will remain for a transitionary period.\nThe news comes almost one year to the date when WBD CEO and president David Zaslav announced De Luca and Abdy's contracts were being renewed at the studio, following the massive box office successes of Ryan Coogler's \"Sinners,\" \"A Minecraft Movie\" and \"Weapons.\" Then, Warner Bros. tied the all-time studio record with 11 Academy Awards from an industry-leading 30 nominations, including a best picture win for Paul Thomas Anderson's \"One Battle After Another.\"\nPopular on Variety\nNot all of the duo's big-budget swings paid off. For example, \"The Bride!\" will lose $100 million theatrically after failing to spark at the box office this spring. (The film grossed $24 million worldwide against a $90 million budget.) Meanwhile, \"Digger,\" Warner Bros.' final release as a standalone studio, is shaping up to be one of the biggest financial misfires of the year. \"Clayface,\" \"The Cat in the Hat\" and the much-anticipated \"Dune: Part Three\" will be released under the combined studio.\nEllison is keeping his new leadership structure close to the vest, and despite Cindy Holland's exit as head of streaming for Paramount+, the company has yet to confirm Casey Bloys will ascend to the top streaming job in the new combined structure. However, it is known that Ellison tapped former Mattel CEO Ynon Kriez to serve as co-CEO, overseeing day-to-day operations and integration of the combined businesses.\nPuck first reported news of the executives' impending exit. Paramount and Warner Bros. did not immediately return a request for comment.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "win for Paul Thomas Anderson's \"One Battle After Another.\" Popular on Variety"
+    ],
+    [
+     "ins",
+     "Not all of the duo's big-budget swings paid off. For example, \"The Bride!\" will lose $100 million theatrically after failing to spark at the box office this spring. (The film grossed $24 million worldwide against a $90 million budget.) Meanwhile, \"Digger,\" Warner Bros.' final release as a standalone studio, is shaping up to be one of the biggest financial misfires of the year. \"Clayface,\" \"The Cat in the Hat\" and the much-anticipated \"Dune: Part Three\" will be released under the combined studio."
+    ],
+    [
+     "eq",
+     "Ellison is keeping his new leadership structure close to the vest, and"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3106,
+  "numbers_changed": [
+   "100",
+   "24",
+   "90"
+  ],
+  "market_figures_changed": [
+   "$100 m",
+   "$24 m",
+   "$90 m"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9649,
+ "adjudicated_by": "rules"
+}

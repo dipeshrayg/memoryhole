@@ -1,0 +1,47 @@
+{
+ "id": "51a8fd28d52ce879-33c430fc-a78614a9",
+ "url": "https://www.npr.org/2026/10/02/g-s1-145638/trump-hegseth-panda-ai-beyonce-news-quiz",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-03T11:24:06Z",
+ "date": "2026-10-03",
+ "old_title": "Who uttered the phrase 'the ideological clowns are out' this week? The quiz knows",
+ "new_title": "Who uttered the phrase 'the ideological clowns are out' this week? The quiz knows",
+ "old_text": "Who uttered the phrase 'the ideological clowns are out' this week? The quiz knows\nThis week in news, the quiz will not cover: Anne Hathaway showed off her baby bump at the Verity premiere, Kate Middleton revealed she loves doing the dishes (and William dries them!) and a former NFL head coach debuted an elaborate Minecraft city.\nIf you've paid attention to Real News, though, you might just get a 10/10 today.\nLoading...",
+ "new_text": "Who uttered the phrase 'the ideological clowns are out' this week? The quiz knows\nThis week in news, the quiz will not cover: Anne Hathaway showed off her baby bump at the Verity premiere, Kate Middleton revealed she loves doing the dishes (and William dries them!) and a former NFL head coach debuted an elaborate Minecraft city.\nIf you've paid attention to Real News, though, you might just get a 10/10 today.\nLoading...\nCorrection Oct. 2, 2026\nA previous version of the quiz incorrectly misidentified Case Western Reserve University as \"Case Western.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "to Real News, though, you might just get a 10/10 today. Loading..."
+    ],
+    [
+     "ins",
+     "Correction Oct. 2, 2026 A previous version of the quiz incorrectly misidentified Case Western Reserve University as \"Case Western.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2603,
+  "numbers_changed": [
+   "2",
+   "2026"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9572,
+ "adjudicated_by": "rules"
+}

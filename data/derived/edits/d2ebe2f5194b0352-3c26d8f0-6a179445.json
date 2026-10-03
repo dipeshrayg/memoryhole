@@ -1,0 +1,48 @@
+{
+ "id": "d2ebe2f5194b0352-3c26d8f0-6a179445",
+ "url": "https://www.abc.net.au/news/2026-09-29/act-national-police-remembrance-day-officers-killed-porepunkah/107208514",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-03T11:27:33Z",
+ "date": "2026-10-03",
+ "old_title": "'Remarkable lives': Slain police officers honoured in Canberra",
+ "new_title": "'Remarkable lives': Slain police officers honoured in Canberra",
+ "old_text": "In short:\nPolice officers have marched through Canberra to honour those who have died in the line of duty.\nCrowds gathered on the edge of Lake Burley Griffin for the 2026 National Police Remembrance Day service.\nFour new names have been enshrined on the National Police Memorial.\nPolice officers who died in the line of duty have been honoured at an emotional service in Canberra for National Police Remembrance Day.\nNew touchstones displaying the names of four officers were added to the National Police Memorial in advance of the ceremony on Tuesday afternoon.\nThey include slain Victoria Police Detective Leading Senior Constable Neal Thompson and Senior Constable Vadim de Waart-Hottart, who were gunned down by Dezi Freeman at Porepunkah in the state's northeast in August 2025.\nGovernor-General Sam Mostyn, who spoke at the ceremony, said the officers were killed in \"despicable circumstances\" while carrying out their duties.\nWestern Australia Detective Senior Constable Maxine Bembridge, who died in May after a crash on her way to work, and retired New South Wales Sergeant Mark Bransgrove, who died from cancer attributed to his service, have also been remembered.\n\"These few stories tell only a tiny part of four remarkable lives,\"\nA solemn procession of about 300 officers on foot, horseback, and motorbikes made the pilgrimage from the Australian Federal Police headquarters to the memorial.\nTearful family members laid wreaths at the national monument at the edge of Lake Burley Griffin.\nActing AFP Commissioner Ian McCartney said it was a day of mourning and a chance to pay tribute to \"the selfless and the brave\".\n\"I can see that there are loved ones and colleagues here who were not here last year, and we know what that means,\" he said.\n\"We will share the burden of grief with you, and importantly, we will share the incredible and inspiring lives of those who will live forever as heroes in our country.\"\nThere were also tributes for Sydney Constable Mia Lay, who was killed in a police car crash last week.\n\"Mia was 20 years old, a tender young age, and had only served with the New South Wales Police Force for 16 months,\" Ms Mostyn said.\n\"Her parents and partner have spoken about how much she loved being a police officer.\"\nActing Commissioner McCartney said her death was \"heartbreaking\" and cast a long shadow over the proceedings.\n\"It is another example of the arbitrary cruelty of service when our members are taken from us too young and too soon,\" he said.\nConstable Lay's name is expected to be formally added to the National Police Memorial next year.\nThis year marks two decades since the monument was unveiled in Canberra.\nSince then, the number of names inscribed has grown from to 719 to 836.",
+ "new_text": "In short:\nPolice officers have marched through Canberra to honour those who have died in the line of duty.\nCrowds gathered on the edge of Lake Burley Griffin for the 2026 National Police Remembrance Day service.\nFour new names have been enshrined on the National Police Memorial.\nPolice officers who died in the line of duty have been honoured at an emotional service in Canberra for National Police Remembrance Day.\nNew touchstones displaying the names of four officers were added to the National Police Memorial in advance of the ceremony on Tuesday afternoon.\nThey include slain Victoria Police Detective Leading Senior Constable Neal Thompson and Senior Constable Vadim de Waart-Hottart, who were gunned down by Dezi Freeman at Porepunkah in the state's northeast in August 2025.\nGovernor-General Sam Mostyn, who spoke at the ceremony, said the officers were killed in \"despicable circumstances\" while carrying out their duties.\nWestern Australia Detective Senior Constable Maxine Bembridge, who died in May after a crash on her way to work, and retired New South Wales Sergeant Mark Bransgrove, who died from cancer attributed to his service, have also been remembered.\n\"These few stories tell only a tiny part of four remarkable lives,\"\nMs Mostyn said.\nA solemn procession of about 300 officers on foot, horseback, and motorbikes made the pilgrimage from the Australian Federal Police headquarters to the memorial.\nTearful family members laid wreaths at the national monument at the edge of Lake Burley Griffin.\nActing AFP Commissioner Ian McCartney said it was a day of mourning and a chance to pay tribute to \"the selfless and the brave\".\n\"I can see that there are loved ones and colleagues here who were not here last year, and we know what that means,\" he said.\n\"We will share the burden of grief with you, and importantly, we will share the incredible and inspiring lives of those who will live forever as heroes in our country.\"\nThere were also tributes for Sydney Constable Mia Lay, who was killed in a police car crash last week.\n\"Mia was 20 years old, a tender young age, and had only served with the New South Wales Police Force for 16 months,\" Ms Mostyn said.\n\"Her parents and partner have spoken about how much she loved being a police officer.\"\nActing Commissioner McCartney said her death was \"heartbreaking\" and cast a long shadow over the proceedings.\n\"It is another example of the arbitrary cruelty of service when our members are taken from us too young and too soon,\" he said.\nConstable Lay's name is expected to be formally added to the National Police Memorial next year.\nThis year marks two decades since the monument was unveiled in Canberra.\nSince then, the number of names inscribed has grown from to 719 to 836.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "\"These few stories tell only a tiny part of four remarkable lives,\""
+    ],
+    [
+     "ins",
+     "Ms Mostyn said."
+    ],
+    [
+     "eq",
+     "A solemn procession of about 300 officers on foot, horseback, and motorbikes"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0065,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9966,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "b2994378c78848c0-955577c8-85a38e73",
+ "url": "https://www.aljazeera.com/news/2026/9/30/russian-attacks-on-ukraines-kyiv-region-kill-four-target-power-grid?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-03T11:24:42Z",
+ "date": "2026-10-03",
+ "old_title": "Russian attacks on Kyiv region kill four people, target power grid",
+ "new_title": "Russian attacks on Kyiv region kill four people, target power grid",
+ "old_text": "Russian attacks on Kyiv and the surrounding region have killed at least four people, including a child, Ukrainian officials said, as Moscow presses on with its weeks-long bombardment of the Ukrainian capital.\nThe overnight barrage into Wednesday targeted energy facilities, damaging the power grid and disrupting electricity supplies in and around the Ukrainian capital, President Volodymyr Zelenskyy said.\nRecommended Stories\nlist of 2 items\n- list 1 of 2Why has Putin added 15,000 new soldiers to Russia's army?\n- list 2 of 2Trump calls Kim Jong Un a 'friend' and plays down N Korea's nuclear arsenal\nRussia's Defence Ministry said its forces had struck power infrastructure in the Kyiv region.\nDTEK, a major private Ukrainian energy company, said crews had restored electricity to about 8,000 households after the attacks. The company said parts of the grid had been damaged, adding to pressure on an energy system repeatedly hit during the war.\nKyiv was under air alerts for much of the night as missiles and drones approached the city. Ukrainian officials reported damage to homes, businesses, warehouses and vehicles.\nKyiv officials reported three deaths in the capital, while emergency services said a child was killed in the surrounding region.\nZelenskyy said critical infrastructure was also struck in the Zhytomyr, Mykolaiv, Kirovohrad and Rivne regions.\nRussia's Defence Ministry said its overnight operation used missiles and drones and included attacks on energy facilities in the Kyiv region that it said were connected to Ukrainian military production.\nMoscow also said it struck a communications facility in Kyiv and port infrastructure in the southern city of Izmail.\nThe attack followed several days of heavier pressure on Kyiv, including strikes during daylight hours as well as repeated overnight barrages.\nRussia has increasingly deployed jet-powered attack drones that travel faster than earlier models and are harder for Ukrainian air defences to intercept.\nThat challenge has added urgency to Ukraine's calls for more air-defence support from its allies, particularly interceptors capable of countering ballistic missiles.\nBelgian Defence Minister Theo Francken warned in Brussels on Wednesday that Europe could face more Russian \"hybrid threats\" in the coming months.\nFrancken called for faster expansion of air defences, weapons stocks and production.\nThe attacks come as temperatures begin to fall ahead of the winter months.\nRussian attacks on Ukraine's energy system during the previous winter caused electricity and heating outages during severe cold, leaving the condition of the power network a major concern as the country heads towards another winter of war.",
+ "new_text": "Russian attacks on Kyiv and the surrounding region have killed at least four people, including a child, Ukrainian officials said, as Moscow presses on with its weeks-long bombardment of the Ukrainian capital.\nThe overnight barrage into Wednesday targeted energy facilities, damaging the power grid and disrupting electricity supplies in and around the Ukrainian capital, President Volodymyr Zelenskyy said.\nRussia's Defence Ministry said its forces had struck power infrastructure in the Kyiv region.\nDTEK, a major private Ukrainian energy company, said crews had restored electricity to about 8,000 households after the attacks. The company said parts of the grid had been damaged, adding to pressure on an energy system repeatedly hit during the war.\nKyiv was under air alerts for much of the night as missiles and drones approached the city. Ukrainian officials reported damage to homes, businesses, warehouses and vehicles.\nKyiv officials reported three deaths in the capital, while emergency services said a child was killed in the surrounding region.\nZelenskyy said critical infrastructure was also struck in the Zhytomyr, Mykolaiv, Kirovohrad and Rivne regions.\nRussia's Defence Ministry said its overnight operation used missiles and drones and included attacks on energy facilities in the Kyiv region that it said were connected to Ukrainian military production.\nMoscow also said it struck a communications facility in Kyiv and port infrastructure in the southern city of Izmail.\nThe attack followed several days of heavier pressure on Kyiv, including strikes during daylight hours as well as repeated overnight barrages.\nRussia has increasingly deployed jet-powered attack drones that travel faster than earlier models and are harder for Ukrainian air defences to intercept.\nThat challenge has added urgency to Ukraine's calls for more air-defence support from its allies, particularly interceptors capable of countering ballistic missiles.\nBelgian Defence Minister Theo Francken warned in Brussels on Wednesday that Europe could face more Russian \"hybrid threats\" in the coming months.\nFrancken called for faster expansion of air defences, weapons stocks and production.\nThe attacks come as temperatures begin to fall ahead of the winter months.\nRussian attacks on Ukraine's energy system during the previous winter caused electricity and heating outages during severe cold, leaving the condition of the power network a major concern as the country heads towards another winter of war.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "electricity supplies in and around the Ukrainian capital, President Volodymyr Zelenskyy said."
+    ],
+    [
+     "del",
+     "Recommended Stories list of 2 items - list 1 of 2Why has Putin added 15,000 new soldiers to Russia's army? - list 2 of 2Trump calls Kim Jong Un a 'friend' and plays down N Korea's nuclear arsenal"
+    ],
+    [
+     "eq",
+     "Russia's Defence Ministry said its forces had struck power infrastructure in the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0925,
+  "numbers_changed": [
+   "1",
+   "15,000",
+   "2"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.835,
+ "similarity": 0.9058,
+ "adjudicated_by": "rules"
+}

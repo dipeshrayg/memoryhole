@@ -1,0 +1,297 @@
+{
+ "id": "40e2db69f776b5c6-03be6016-26dc2fa9",
+ "url": "https://www.bbc.co.uk/news/articles/crn8e86y5n0zo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-10-03T11:35:27Z",
+ "date": "2026-10-03",
+ "old_title": "UK diesel price hits Â£2 a litre as US calls for EU to release more stocks",
+ "new_title": "UK diesel prices top Â£2 a litre for first time, RAC says",
+ "old_text": "- Published\nThe average price of diesel has risen above Â£2 a litre in the UK for the first time, according to the RAC motoring body, as the fallout from the Iran war continues to push up the cost of fuel.\nDiesel has now hit an average of 200.01p a litre, the RAC said, and petrol prices are also still rising, reaching 174.71p a litre on average.\nThe motoring group said price rises were \"showing no signs of slowing, heaping more misery onto motorists\".\nThe US has put increasing pressure on European countries to release more diesel stocks, to help lower diesel prices worldwide, with President Trump threatening to ban US exports of the fuel.\nBanning exports would mean more US diesel for the domestic market, which could ease prices for American motorists ahead of the midterm elections in November.\nHowever, it would be likely to push up prices elsewhere, including in the UK and the EU.\nUS President Donald Trump said he was considering a ban, and backed his Treasury Secretary Scott Bessent who has urged European countries to release diesel supplies \"immediately\", arguing that US farmers, truckers, and businesses \"should not be left carrying the burden\" as prices soar.\nOn Friday, the EU said it \"fully rejects\" the US threat to ban diesel exports if Europe fails to release more of its reserves onto the market.\n\"It would undermine our trust in the United States as a reliable partner,\" an EU spokesperson said.\nEU countries agreed in March to release some stocks as part of an internationally co-ordinated response to the Iran war. With prospects for the war and fuel supplies still uncertain, not all EU countries have met those commitments.\nUK government ministers said they were working with both the US and the EU.\n\"We have a diverse and resilient supply.â ̄We continue to engage with our international partners and the UK fuel industry,\" a government spokesperson said.\nThe government has stressed that there is no cause for concern about potential diesel shortages, though prices are expected to rise further.\nOver half of the diesel bought in the UK is imported. Less than a third of imports are from the US, amounting to around 17% of the total UK supply.\nOver the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil and refined products from the region, causing prices to surge worldwide.\nUkrainian attacks on Russian refiners have further constrained supplies of diesel on the world market. China has also restricted exports of refined fuels.\nHigh diesel prices affect some drivers directly, but can have a wider knock-on effect by pushing up transport and delivery costs and making food production more expensive.\nThe cost of filling an average family car with diesel is now Â£110, almost Â£32 more than it was at the start of the US-Iran war, the RAC's Simon Williams said.\n\"This will be very challenging for households and companies that drive a lot of miles, from commuters, haulage and delivery firms, businesses with large fleets all the way through to sole traders,\" he added.\nThe cost of filling a typical petrol car has risen to Â£96.09, the RAC said, up Â£23.03 since February.",
+ "new_text": "- Published\nThe average price of diesel has risen above Â£2 a litre in the UK for the first time, according to the RAC motoring group.\nDiesel has now hit an average of 200.01p a litre, the RAC said, and petrol prices are also still rising, reaching 174.71p a litre on average.\nThe motoring group said price rises were \"showing no signs of slowing, heaping more misery onto motorists\".\nOver the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil and refined products from the region, causing prices to surge worldwide.\nUkrainian attacks on Russian refiners have further constrained supplies of diesel on the world market. China has also restricted exports of refined fuels.\nSeparately on Friday, G7 nations agreed at an urgent meeting to release 100 million barrels of oil to head off further price increases.\nThe G7 also agreed member countries would not impose export restrictions on each other, after US President Donald Trump threatened to ban shipments of American diesel overseas.\nThe move would have pushed up global prices of the fuel, but helped ease pressure on US consumers ahead of November's midterm elections.\nRAC policy head Simon Williams said Â£2 was a \"price threshold no one wanted to cross\".\n\"This will be very challenging for households and companies that drive a lot of miles, from commuters, haulage and delivery firms, businesses with large fleets all the way through to sole traders,\" he added.\nUK businesses and consumers already feel like they are bearing the brunt of higher prices, with many saying it has made their lives increasingly difficult.\nEven people who do not drive a diesel vehicle themselves face a knock-on effect from rising delivery costs or the higher cost of producing food.\n'It feels like an assault'\nMark Means, who has farmed in Norfolk for over 50 years, said he was \"frightened to death\" by the rising costs of diesel.\nHe has spent Â£50,000 on new diesel tanks to try to ensure he has enough supply to harvest and plants crops, but the rising price is cutting into his margins.\n\"It feels like it's an assault,\" he said.\nSteven Tompkins in Leicester said rising fuel prices mean driving instructors like him are having to increase their prices.\n\"When you've got kids who are working part time, they're on a tight budget and we're telling them that the prices are going to have to go up because of the fuel, it's hurting,\" he said.\nUK government ministers strove to reassure diesel users earlier on Friday.\n\"We have a diverse and resilient supply.â ̄We continue to engage with our international partners and the UK fuel industry,\" a government spokesperson said.\nThe government has stressed that there is no cause for concern about potential diesel shortages.\nOver half of the diesel bought in the UK is imported. Less than a third of imports are from the US, amounting to around 17% of the total UK supply.\nOver the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil and refined products from the region, causing prices to surge worldwide.\nUkrainian attacks on Russian refiners have led to further constraints on supplies of diesel to the world market. China has also restricted exports of refined fuels.\nThe cost of filling an average family car with diesel is now Â£110, almost Â£32 more than it was at the start of the US-Iran war, the RAC's Simon Williams said.\n\"This will be very challenging for households and companies that drive a lot of miles, from commuters, haulage and delivery firms, businesses with large fleets all the way through to sole traders,\" he added.\nThe cost of filling a typical petrol car has risen to Â£96.09, the RAC said, up Â£23.03 since February.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "in the UK for the first time, according to the RAC motoring"
+    ],
+    [
+     "del",
+     "body, as the fallout from the Iran war continues to push up the cost of fuel."
+    ],
+    [
+     "ins",
+     "group."
+    ],
+    [
+     "eq",
+     "Diesel has now hit an average of 200.01p a litre, the RAC"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "rises were \"showing no signs of slowing, heaping more misery onto motorists\"."
+    ],
+    [
+     "del",
+     "The US"
+    ],
+    [
+     "ins",
+     "Over the past seven months, the Iran war"
+    ],
+    [
+     "eq",
+     "has"
+    ],
+    [
+     "del",
+     "put increasing pressure"
+    ],
+    [
+     "ins",
+     "severely disrupted the production and transportation of wholesale oil and refined products from the region, causing prices to surge worldwide. Ukrainian attacks"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "European countries"
+    ],
+    [
+     "ins",
+     "Russian refiners have further constrained supplies of diesel on the world market. China has also restricted exports of refined fuels. Separately on Friday, G7 nations agreed at an urgent meeting"
+    ],
+    [
+     "eq",
+     "to release"
+    ],
+    [
+     "del",
+     "more diesel stocks,"
+    ],
+    [
+     "ins",
+     "100 million barrels of oil"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "help lower diesel prices worldwide, with President Trump threatening to ban US exports of the fuel. Banning exports"
+    ],
+    [
+     "ins",
+     "head off further price increases. The G7 also agreed member countries"
+    ],
+    [
+     "eq",
+     "would"
+    ],
+    [
+     "del",
+     "mean more US diesel for the domestic market, which could ease prices for American motorists ahead of the midterm elections in November. However, it would be likely to push up prices elsewhere, including in the UK and the EU."
+    ],
+    [
+     "ins",
+     "not impose export restrictions on each other, after"
+    ],
+    [
+     "eq",
+     "US President Donald Trump"
+    ],
+    [
+     "ins",
+     "threatened to ban shipments of American diesel overseas. The move would have pushed up global prices of the fuel, but helped ease pressure on US consumers ahead of November's midterm elections. RAC policy head Simon Williams said Â£2 was a \"price threshold no one wanted to cross\". \"This will be very challenging for households and companies that drive a lot of miles, from commuters, haulage and delivery firms, businesses with large fleets all the way through to sole traders,\" he added. UK businesses and consumers already feel like they are bearing the brunt of higher prices, with many saying it has made their lives increasingly difficult. Even people who do not drive a diesel vehicle themselves face a knock-on effect from rising delivery costs or the higher cost of producing food. 'It feels like an assault' Mark Means, who has farmed in Norfolk for over 50 years,"
+    ],
+    [
+     "eq",
+     "said he was"
+    ],
+    [
+     "del",
+     "considering"
+    ],
+    [
+     "ins",
+     "\"frightened to death\" by the rising costs of diesel. He has spent Â£50,000 on new diesel tanks to try to ensure he has enough supply to harvest and plants crops, but the rising price is cutting into his margins. \"It feels like it's an assault,\" he said. Steven Tompkins in Leicester said rising fuel prices mean driving instructors like him are having to increase their prices. \"When you've got kids who are working part time, they're on"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "ban,"
+    ],
+    [
+     "ins",
+     "tight budget"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "backed his Treasury Secretary Scott Bessent who has urged European countries"
+    ],
+    [
+     "ins",
+     "we're telling them that the prices are going"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "release diesel supplies \"immediately\", arguing that US farmers, truckers, and businesses \"should not be left carrying"
+    ],
+    [
+     "ins",
+     "have to go up because of"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "burden\" as prices soar. On Friday, the EU said it \"fully rejects\" the US threat to ban diesel exports if Europe fails to release more of its reserves onto the market. \"It would undermine our trust in the United States as a reliable partner,\" an EU spokesperson"
+    ],
+    [
+     "ins",
+     "fuel, it's hurting,\" he"
+    ],
+    [
+     "eq",
+     "said."
+    ],
+    [
+     "del",
+     "EU countries agreed in March to release some stocks as part of an internationally co-ordinated response to the Iran war. With prospects for the war and fuel supplies still uncertain, not all EU countries have met those commitments."
+    ],
+    [
+     "eq",
+     "UK government ministers"
+    ],
+    [
+     "del",
+     "said they were working with both the US and the EU."
+    ],
+    [
+     "ins",
+     "strove to reassure diesel users earlier on Friday."
+    ],
+    [
+     "eq",
+     "\"We have a diverse and resilient supply.â ̄We continue to engage with"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "has stressed that there is no cause for concern about potential diesel"
+    ],
+    [
+     "del",
+     "shortages, though prices are expected to rise further."
+    ],
+    [
+     "ins",
+     "shortages."
+    ],
+    [
+     "eq",
+     "Over half of the diesel bought in the UK is imported. Less"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "region, causing prices to surge worldwide. Ukrainian attacks on Russian refiners have"
+    ],
+    [
+     "ins",
+     "led to"
+    ],
+    [
+     "eq",
+     "further"
+    ],
+    [
+     "del",
+     "constrained"
+    ],
+    [
+     "ins",
+     "constraints on"
+    ],
+    [
+     "eq",
+     "supplies of diesel"
+    ],
+    [
+     "del",
+     "on"
+    ],
+    [
+     "ins",
+     "to"
+    ],
+    [
+     "eq",
+     "the world market. China has also restricted exports of refined fuels."
+    ],
+    [
+     "del",
+     "High diesel prices affect some drivers directly, but can have a wider knock-on effect by pushing up transport and delivery costs and making food production more expensive."
+    ],
+    [
+     "eq",
+     "The cost of filling an average family car with diesel is now"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.097,
+  "numbers_changed": [
+   "100",
+   "2",
+   "50",
+   "50,000",
+   "7"
+  ],
+  "market_figures_changed": [
+   "£2",
+   "£50,000"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 3,
+  "blocks_added": 3,
+  "blocks_removed": 3,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.387,
+ "similarity": 0.8388,
+ "adjudicated_by": "rules"
+}

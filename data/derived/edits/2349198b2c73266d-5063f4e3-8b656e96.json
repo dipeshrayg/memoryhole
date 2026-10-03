@@ -1,0 +1,60 @@
+{
+ "id": "2349198b2c73266d-5063f4e3-8b656e96",
+ "url": "https://www.gov.uk/government/news/practice-direction-for-possession-proceedings-comes-into-force",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "country": "United Kingdom",
+ "category": "government",
+ "lang": "en",
+ "detected_at": "2026-10-03T11:34:12Z",
+ "date": "2026-10-03",
+ "old_title": "Practice direction for possession proceedings comes into force",
+ "new_title": "Practice direction for possession proceedings comes into force",
+ "old_text": "News story\nPractice direction for possession proceedings comes into force\nThe Online Procedure Rule Committee's practice direction for possession proceedings is now in force. It sets out the procedure for claims using the new digital service for possession claims.",
+ "new_text": "Practice direction for possession proceedings comes into force\nThe Online Procedure Rule Committee's practice direction for possession proceedings is now in force. It sets out the procedure for claims using the new digital service for possession claims.\nThe new possession claims digital service is the first to be governed by the Online Procedure Rules 2026. The service is launched and went live at Noon on 29 September 2026 today, when the rules came into force.\nThe practice direction provides the procedural requirements for claims issued through the possession digital service. It includes rules concerning communications with the court, hearings, evidence and court orders.\nAs previously announced, the service is being introduced in phases. In this initial phase, the service applies to registered social landlords in England bringing possession claims in postcode areas served by the County Courts at Bradford, Huddersfield and Wandsworth. Community landlords in Wales bringing possession claims in postcode areas served by Caernarfon County Court will commence using the service from Noon on 15 October 2026. Where aspects of procedure are not yet provided for under the Online Procedure Rules or the practice direction, including appeals and enforcement, the relevant provisions of the Civil Procedure Rules will continue to apply.\nThe launch marks an important milestone in the development of Online Procedure Rules.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "News story"
+    ],
+    [
+     "eq",
+     "Practice direction for possession proceedings comes into force The Online Procedure Rule"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the procedure for claims using the new digital service for possession claims."
+    ],
+    [
+     "ins",
+     "The new possession claims digital service is the first to be governed by the Online Procedure Rules 2026. The service is launched and went live at Noon on 29 September 2026 today, when the rules came into force. The practice direction provides the procedural requirements for claims issued through the possession digital service. It includes rules concerning communications with the court, hearings, evidence and court orders. As previously announced, the service is being introduced in phases. In this initial phase, the service applies to registered social landlords in England bringing possession claims in postcode areas served by the County Courts at Bradford, Huddersfield and Wandsworth. Community landlords in Wales bringing possession claims in postcode areas served by Caernarfon County Court will commence using the service from Noon on 15 October 2026. Where aspects of procedure are not yet provided for under the Online Procedure Rules or the practice direction, including appeals and enforcement, the relevant provisions of the Civil Procedure Rules will continue to apply. The launch marks an important milestone in the development of Online Procedure Rules."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 4.6154,
+  "numbers_changed": [
+   "15",
+   "2026",
+   "29"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.45,
+ "similarity": 0.7102,
+ "adjudicated_by": "rules"
+}
