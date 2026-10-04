@@ -1,0 +1,44 @@
+{
+ "id": "cbcc4fb7ce70ae37-d0b4637b-47a7e186",
+ "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-04T12:04:01Z",
+ "date": "2026-10-04",
+ "old_title": "UK-Iranian dual national arrested over RAF Fairford investigation bailed",
+ "new_title": "UK-Iranian dual national arrested over RAF Fairford investigation bailed",
+ "old_text": "- Published\nA UK-Iranian dual national arrested on suspicion of preparation of terrorist acts in connection with an incident at RAF Fairford has been released on bail.\nThe 25-year-old man was arrested in the London borough of Westminster on Thursday. Searches of two properties in the same area have now finished.\nA major incident was declared and dozens of homes were evacuated after police were alerted to three \"suspicious vehicles\" near the airbase in Gloucestershire last weekend.\nFive other men in their twenties were arrested and were subsequently released on police bail. All five were UK nationals from London.\nThe investigation into the circumstances surrounding the events are continuing, police said.\nLast weekend, the five men aged between 23 and 25 were arrested in the early hours of the morning after vehicles were reported to be travelling towards the base operated by the US Air Force (USAF), sparking a major security incident.\nThe BBC understands that one of the men had dialled 999 himself, about an hour before a local farmer alerted police to a \"large group\" of masked men near the vehicles.\nThey were arrested on suspicion of explosives offences and later on suspicion of preparing a terrorist act, before being released on bail on Monday in what police called an \"investigative decision\" that was \"grounded in experience and strategy\".\nPrime Minister Andy Burnham chaired a Cobra meeting that afternoon in response. He later said there were \"strong indications\" that Iran had played a part in the incident, but did not provide any more details.\nTehran has strongly denied any involvement. The Iranian embassy in London said on Monday that it \"categorically rejects and strongly condemns\" what it called \"unfounded and malicious speculations\" linking Iran to the incident.\nRAF Fairford has been used as a forward operating location by the US Air Force (USAF) for decades.\nIn recent months, US bombers have taken off from the base for the Middle East, after the UK approved a US request to use it for defensive strikes on Iran.\nIn July, Iran said \"any base used for aggression against Iranian territory constitutes a legitimate target for our forces\".\nLate on Monday, US Secretary of State Marco Rubio told a TV show that it was clear a \"foreign actor\" had been involved in events over the weekend.\nWithout providing evidence or giving further details, he told Fox News network's \"Hannity\" programme: \"What happened, what almost happened, what could have happened in the UK over the weekend is a very serious situation. It's one that clearly involves the hands of a foreign actor.\"\nSpeaking earlier at the Oval Office, US President Donald Trump said he would not have let the five men arrested out on bail, and that he was \"surprised\" they had been released.\n\"We know everything about them, we would not have released them,\" he said, adding that the UK had worked with the US \"very closely\" on this.\nThis breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version.\nYou can receive Breaking News on a smartphone or tablet via the BBC News App. You can also follow @BBCBreaking on X, external to get the latest alerts.",
+ "new_text": "- Published\nA UK-Iranian dual national arrested on suspicion of preparation of terrorist acts in connection with an incident at RAF Fairford has been released on bail.\nThe 25-year-old man was arrested in the London borough of Westminster on Thursday. Searches of two properties in the same area have now finished.\nA major incident was declared and dozens of homes were evacuated after police were alerted to three \"suspicious vehicles\" near the airbase in Gloucestershire last weekend.\nFive other men in their twenties were arrested and were subsequently released on police bail. All five were UK nationals from London.\nThe investigation into the circumstances surrounding the events are continuing, police said.\nLast weekend, the five men aged between 23 and 25 were arrested in the early hours of the morning after vehicles were reported to be travelling towards the base operated by the US Air Force (USAF), sparking a major security incident.\nThe BBC understands that one of the men had dialled 999 himself, about an hour before a local farmer alerted police to a \"large group\" of masked men near the vehicles.\nThey were arrested on suspicion of explosives offences and later on suspicion of preparing a terrorist act, before being released on bail on Monday in what police called an \"investigative decision\" that was \"grounded in experience and strategy\".\nPrime Minister Andy Burnham chaired a Cobra meeting that afternoon in response. He later said there were \"strong indications\" that Iran had played a part in the incident, but did not provide any more details.\nTehran has strongly denied any involvement. The Iranian embassy in London said on Monday that it \"categorically rejects and strongly condemns\" what it called \"unfounded and malicious speculations\" linking Iran to the incident.\nRAF Fairford has been used as a forward operating location by the US Air Force (USAF) for decades.\nIn recent months, US bombers have taken off from the base for the Middle East, after the UK approved a US request to use it for defensive strikes on Iran.\nIn July, Iran said \"any base used for aggression against Iranian territory constitutes a legitimate target for our forces\".\nLate on Monday, US Secretary of State Marco Rubio told a TV show that it was clear a \"foreign actor\" had been involved in events over the weekend.\nWithout providing evidence or giving further details, he told Fox News network's \"Hannity\" programme: \"What happened, what almost happened, what could have happened in the UK over the weekend is a very serious situation. It's one that clearly involves the hands of a foreign actor.\"\nSpeaking earlier at the Oval Office, US President Donald Trump said he would not have let the five men arrested out on bail, and that he was \"surprised\" they had been released.\n\"We know everything about them, we would not have released them,\" he said, adding that the UK had worked with the US \"very closely\" on this.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "that the UK had worked with the US \"very closely\" on this."
+    ],
+    [
+     "del",
+     "This breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version. You can receive Breaking News on a smartphone or tablet via the BBC News App. You can also follow @BBCBreaking on X, external to get the latest alerts."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0931,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

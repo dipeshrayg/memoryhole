@@ -1,0 +1,100 @@
+{
+ "id": "e428e0c715dfaa33-7ed5aa82-7ee41e09",
+ "url": "https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-04T12:07:16Z",
+ "date": "2026-10-04",
+ "old_title": "UAE investigators say Flydubai co-pilot attacked captain with ax in attempted 'terrorist' act",
+ "new_title": "UAE investigators say Flydubai co-pilot attacked captain with ax in attempted 'terrorist' act",
+ "old_text": "The co-pilot accused of stabbing his captain during Flydubai Flight 1073 was wielding a crash ax and attempted to carry out a \"terrorist attack,\" UAE investigators said Saturday, according to Emirati state news agency WAM.\nA crash ax is typically stored in the plane's cockpit for use in case of an emergency.\nWestern and Gulf officials cited by Reuters and AP news agencies named the co-pilot as Omani national Hamam al-Hammami. Emirati authorities have not publicly commented on his identity.\nThe Wall Street Journal reported on Friday that he had been barred from flying by Oman over concerns that he had adopted radical ideological views.\nWhat happened on the Flydubai flight?\nThe attack that took place on a flight from Dubai to Tel Aviv has raised many questions about how the incident unfolded as well as about background checks in aviation hiring.\nThere were 182 people on board, including four pilots.\nAfter the co-pilot stabbed the captain in an apparent attempt to crash the plane, two other pilots in the cabin took control and landed the aircraft safely in Tabuk, Saudi Arabia.\nAnwar Gargash, an Emirati presidential adviser, referred to the Flydubai incident on X, saying the latest \"terrorist operation\" showed the Mideast region's \"fight against extremism continues.\"\nFlydubai co-pilot was barred from flying by Oman over security concerns\nThe Wall Street Journal report said the co-pilot was hired by Flydubai despite the ban by Oman, allowing him to fly the jet on a sensitive route connecting the UAE and Israel.\nIsrael and the UAE, which includes Dubai, signed the Abraham Accords normalizing relations in 2020.\nThe newspaper said it could not be determined whether Oman shared concerns about the pilot's radicalization with other countries or airlines.\nThe nature of his radicalization was also not clear.\nUS broadcaster CNN cited two sources saying the co-pilot was removed from a job at Oman's national airline last year over concerns about extremist views.\nSaudi broadcaster Al Arabiya, also citing an informed source, reported that Omani authorities determined that the co-pilot held extremist views.\nIsraeli Prime Minister Benjamin Netanyahu said Thursday in a video statement that they know the co-pilot \"underwent Islamist radical indoctrination\" and intended to crash the jet.\nNetanyahu also said they were also looking into whether the co-pilot had acted under anyone's direction, warning that whoever was involved would pay a \"heavy price.\"\nThe investigation is ongoing. A Gulf diplomat, in comments to AP, said authorities were attempting to find out whether the Omani co-pilot was a \"lone wolf or has any connection with any extremist groups.\"\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google so you'll always see our verified news first.\nEdited by: Sean Sinico and Natalie Muller",
+ "new_text": "The co-pilot accused of stabbing his captain during Flydubai Flight 1073 was wielding a crash ax and attempted to carry out a \"terrorist attack,\" UAE investigators said Saturday, according to Emirati state news agency WAM.\nA crash ax is typically stored in the plane's cockpit for use in case of an emergency.\nAccording to a Reuters media report based on unnamed sources familiar with the matter, the suspect is an Omani national.\nThe Wall Street Journal reported on Friday that the co-pilot had been barred from flying by Oman over concerns that he had adopted radical ideological views.\nWhat happened on the Flydubai flight?\nThe attack that took place on a flight from Dubai to Tel Aviv has raised many questions about how the incident unfolded as well as about background checks in aviation hiring.\nThere were 182 people on board, including four pilots.\nAfter the co-pilot stabbed the captain in an apparent attempt to crash the plane, two other pilots in the cabin took control and landed the aircraft safely in Tabuk, Saudi Arabia.\nAnwar Gargash, an Emirati presidential adviser, referred to the Flydubai incident on X, saying the latest \"terrorist operation\" showed the Mideast region's \"fight against extremism continues.\"\nFlydubai co-pilot was barred from flying by Oman over security concerns\nThe Wall Street Journal report said the co-pilot was hired by Flydubai despite the ban by Oman, allowing him to fly the jet on a sensitive route connecting the UAE and Israel.\nIsrael and the UAE, which includes Dubai, signed the Abraham Accords normalizing relations in 2020.\nThe newspaper said it could not be determined whether Oman shared concerns about the pilot's radicalization with other countries or airlines.\nThe nature of his radicalization was also not clear.\nUS broadcaster CNN cited two sources saying the co-pilot was removed from a job at Oman's national airline last year over concerns about extremist views.\nSaudi broadcaster Al Arabiya, also citing an informed source, reported that Omani authorities determined that the co-pilot held extremist views.\nIsraeli Prime Minister Benjamin Netanyahu said Thursday in a video statement that they know the co-pilot \"underwent Islamist radical indoctrination\" and intended to crash the jet.\nNetanyahu also said they were also looking into whether the co-pilot had acted under anyone's direction, warning that whoever was involved would pay a \"heavy price.\"\nThe investigation is ongoing. A Gulf diplomat, in comments to AP, said authorities were attempting to find out whether the Omani co-pilot was a \"lone wolf or has any connection with any extremist groups.\"\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google so you'll always see our verified news first.\nEdited by: Sean Sinico and Natalie Muller",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "stored in the plane's cockpit for use in case of an emergency."
+    ],
+    [
+     "del",
+     "Western and Gulf officials cited by"
+    ],
+    [
+     "ins",
+     "According to a"
+    ],
+    [
+     "eq",
+     "Reuters"
+    ],
+    [
+     "del",
+     "and AP news agencies named"
+    ],
+    [
+     "ins",
+     "media report based on unnamed sources familiar with"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "co-pilot as"
+    ],
+    [
+     "ins",
+     "matter, the suspect is an"
+    ],
+    [
+     "eq",
+     "Omani"
+    ],
+    [
+     "del",
+     "national Hamam al-Hammami. Emirati authorities have not publicly commented on his identity."
+    ],
+    [
+     "ins",
+     "national."
+    ],
+    [
+     "eq",
+     "The Wall Street Journal reported on Friday that"
+    ],
+    [
+     "del",
+     "he"
+    ],
+    [
+     "ins",
+     "the co-pilot"
+    ],
+    [
+     "eq",
+     "had been barred from flying by Oman over concerns that he had"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.097,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.095,
+ "similarity": 0.9541,
+ "adjudicated_by": "rules"
+}
