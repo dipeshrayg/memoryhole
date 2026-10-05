@@ -1,0 +1,116 @@
+{
+ "id": "74e2c0783386b7f8-478c0f23-35adcee3",
+ "url": "https://www.abc.net.au/news/2026-10-04/play-school-presenter-alister-smart-dies-aged-90/107227492",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-05T14:10:41Z",
+ "date": "2026-10-05",
+ "old_title": "Play School presenter Alister Smart dies aged 90",
+ "new_title": "Play School presenter Alister Smart dies aged 90",
+ "old_text": "Australian actor and beloved Play School presenter Alister Smart has died aged 90 at his home in East Gippsland, Victoria.\nMr Smart died on September 9, but the news of his death has only recently become public.\nBorn in Adelaide on November 30, 1935, and raised in part around Nowra, Mr Smart left school and joined his family's piano restoration business.\nHe soon developed an interest in pianos which prompted him to study at Sydney's Conservatorium of Music.\nHe later turned to acting.\nHe started his career in theatre in the early 1950s and appeared in television productions in Australia and the UK from the 1950s until the mid-1990s.\nHis credits include Number 96, Skippy, The Sullivans, Sons and Daughters, A Country Practice and Neighbours.\nMr Smart featured on the very first episode of ABC's Play School which aired in 1966.\nHe would continue to appear as a presenter on Play School, now Australia's longest running children's show, for the next 27 years.",
+ "new_text": "Australian actor and beloved Play School presenter Alister Smart has died aged 90 at his home in East Gippsland, Victoria.\nSmart died on September 9, but the news of his death has only recently become public.\nBorn in Adelaide on November 30, 1935, and raised in part around Nowra, Smart left school and joined his family's piano restoration business.\nHe soon developed an interest in pianos, which prompted him to study at Sydney's Conservatorium of Music.\nHe later turned to acting.\nHe started his career in theatre in the early 1950s and appeared in television productions in Australia and the UK from the 1950s until the mid-1990s.\nHis credits include Number 96, Skippy, The Sullivans, Sons and Daughters, A Country Practice and Neighbours.\nSmart featured on the very first episode of ABC's Play School, which aired in 1966.\nHe would continue to appear as a presenter on Play School, now Australia's longest-running children's show, for the next 27 years.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Smart has died aged 90 at his home in East Gippsland, Victoria."
+    ],
+    [
+     "del",
+     "Mr"
+    ],
+    [
+     "eq",
+     "Smart died on September 9, but the news of his death has"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "in Adelaide on November 30, 1935, and raised in part around Nowra,"
+    ],
+    [
+     "del",
+     "Mr"
+    ],
+    [
+     "eq",
+     "Smart left school and joined his family's piano restoration business. He soon developed an interest in"
+    ],
+    [
+     "del",
+     "pianos"
+    ],
+    [
+     "ins",
+     "pianos,"
+    ],
+    [
+     "eq",
+     "which prompted him to study at Sydney's Conservatorium of Music. He later"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "96, Skippy, The Sullivans, Sons and Daughters, A Country Practice and Neighbours."
+    ],
+    [
+     "del",
+     "Mr"
+    ],
+    [
+     "eq",
+     "Smart featured on the very first episode of ABC's Play"
+    ],
+    [
+     "del",
+     "School"
+    ],
+    [
+     "ins",
+     "School,"
+    ],
+    [
+     "eq",
+     "which aired in 1966. He would continue to appear as a presenter on Play School, now Australia's"
+    ],
+    [
+     "del",
+     "longest running"
+    ],
+    [
+     "ins",
+     "longest-running"
+    ],
+    [
+     "eq",
+     "children's show, for the next 27 years."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0613,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.034,
+ "similarity": 0.9643,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "327624a359bc14a7-333fa20e-e73e34b1",
+ "url": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-05T14:08:13Z",
+ "date": "2026-10-05",
+ "old_title": "Ethiopian government forces seize Tigray capital Mekelle as rebels withdraw",
+ "new_title": "Ethiopian government forces seize Tigray capital Mekelle as rebels withdraw",
+ "old_text": "Ethiopian government troops seize Tigray's capital Mekelle\nThe group leading an armed Ethiopian opposition alliance says it has withdrawn from Mekelle, the capital of the northern region of Tigray, after an advance by government forces and allied fighters.\nIn a statement on social media late on Saturday, the Tigray People's Liberation Front (TPLF) said it had \"temporarily moved out of Mekelle\" to \"operate from somewhere else\".\nThe announcement came hours after Ethiopia's federal army and pro-government fighters recaptured Mekelle's main airport. A source close to the Tigray Peace Forces, a pro-government militia, told the Reuters news agency its fighters had entered Mekelle's centre on Saturday afternoon, followed by the Ethiopian military.\nA humanitarian source and a Mekelle resident who asked not to be named confirmed the city was under the control of government forces, Reuters reported on Sunday.\nSeparately, a humanitarian source also told the AFP news agency that staff on the ground said the TPLF had abandoned the regional capital. \"Ethiopian federal forces and allied forces have reportedly been observed in Mekelle city ... across various locations,\" the source said.\nFighting broke out on September 23 after seven armed and political groups announced an alliance aimed at removing Prime Minister Abiy Ahmed's government and establishing an inclusive transitional administration.\nThe return of the hostilities followed the collapse of a 2022 peace deal that ended a devastating war between the federal government and forces from Tigray.\nThe latest round of violence is also leading to fears of a wider war that draws in other countries in the region.\nEthiopia has accused Eritrea, Sudan and Egypt of backing the opposition coalition.\nKhartoum and Cairo have denied involvement. Eritrea, which fought alongside Ethiopia's federal army in the 2020-2022 war, severed diplomatic ties with Ethiopia over the accusations.\nOn Saturday, the United States urged Ethiopia and Eritrea \"to respect the sovereignty and territorial integrity of their neighbors, exercise maximum restraint and return to dialogue and cooperation\".\nIn a statement, the US Department of State warned that the increasing tensions \"have the potential to affect the entire region\".\nThe TPLF began as an armed movement against Ethiopia's military government in the 1970s. It later became the dominant force in a coalition that governed Ethiopia for nearly three decades until 2018 when Abiy came into office.\nRelations between Abiy's government and the TPLF deteriorated until war broke out in November 2020. The fighting killed hundreds of thousands of people, forced millions from their homes and largely cut off Tigray from the rest of the world.",
+ "new_text": "Ethiopian government troops seize Tigray's capital Mekelle\nThe group leading an armed Ethiopian opposition alliance says it has withdrawn from Mekelle, the capital of the northern region of Tigray, after an advance by government forces and allied fighters.\nIn a statement on social media late on Saturday, the Tigray People's Liberation Front (TPLF) said it had \"temporarily moved out of Mekelle\" to \"operate from somewhere else\".\nThe announcement came hours after Ethiopia's federal army and pro-government fighters recaptured Mekelle's main airport. A source close to the Tigray Peace Forces, a pro-government militia, told the Reuters news agency its fighters had entered Mekelle's centre on Saturday afternoon, followed by the Ethiopian military.\nA humanitarian source and a Mekelle resident who asked not to be named confirmed the city was under the control of government forces, Reuters reported on Sunday.\nSeparately, a humanitarian source also told the AFP news agency that staff on the ground said the TPLF had abandoned the regional capital. \"Ethiopian federal forces and allied forces have reportedly been observed in Mekelle city ... across various locations,\" the source said.\nFighting broke out on September 23 after seven armed and political groups announced an alliance aimed at removing Prime Minister Abiy Ahmed's government and establishing an inclusive transitional administration.\nThe return of the hostilities followed the collapse of a 2022 peace deal that ended a devastating war between the federal government and forces from Tigray.\nThe latest round of violence is also leading to fears of a wider war that draws in other countries in the region.\nEthiopia has accused Eritrea, Sudan and Egypt of backing the opposition coalition.\nKhartoum and Cairo have denied involvement. Eritrea, which fought alongside Ethiopia's federal army in the 2020-2022 war, severed diplomatic ties with Ethiopia over the accusations.\nEgypt's President Abdel Fattah el-Sisi appeared to reference the conflict ahead of a meeting with leaders of Eritrea, Somalia and Sudan on Sunday, saying cross-border challengers require \"dialogue, not confrontation\".\nAddressing the African Union's mid-year coordination summit in Egypt's coastal town of El-Alamein, el-Sisi said Egypt opposed foreign interference in African states and called for relations to be based on \"mutual respect, good neighbourliness, dialogue and consultation, far from unilateral policies or narrow interests\".\nOn Saturday, the United States urged Ethiopia and Eritrea \"to respect the sovereignty and territorial integrity of their neighbors, exercise maximum restraint and return to dialogue and cooperation\".\nIn a statement, the US Department of State warned that the increasing tensions \"have the potential to affect the entire region\".\nThe TPLF began as an armed movement against Ethiopia's military government in the 1970s. It later became the dominant force in a coalition that governed Ethiopia for nearly three decades until 2018 when Abiy came into office.\nRelations between Abiy's government and the TPLF deteriorated until war broke out in November 2020. The fighting killed hundreds of thousands of people, forced millions from their homes and largely cut off Tigray from the rest of the world.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "in the 2020-2022 war, severed diplomatic ties with Ethiopia over the accusations."
+    ],
+    [
+     "ins",
+     "Egypt's President Abdel Fattah el-Sisi appeared to reference the conflict ahead of a meeting with leaders of Eritrea, Somalia and Sudan on Sunday, saying cross-border challengers require \"dialogue, not confrontation\". Addressing the African Union's mid-year coordination summit in Egypt's coastal town of El-Alamein, el-Sisi said Egypt opposed foreign interference in African states and called for relations to be based on \"mutual respect, good neighbourliness, dialogue and consultation, far from unilateral policies or narrow interests\"."
+    ],
+    [
+     "eq",
+     "On Saturday, the United States urged Ethiopia and Eritrea \"to respect the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1762,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

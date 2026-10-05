@@ -1,0 +1,68 @@
+{
+ "id": "2ab8ac81264aca3a-4bc25c1a-3ed6d828",
+ "url": "https://www.theguardian.com/stage/2026/oct/04/antigone-exits-review-minerva-theatre-chichester-nina-segal-jeff-james",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Culture",
+ "country": "United Kingdom",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-10-05T14:19:40Z",
+ "date": "2026-10-05",
+ "old_title": "Antigone Exits review - emotions run high in experimental reworking of Greek tragedy",
+ "new_title": "Antigone Exits review - emotions run high in experimental reworking of Greek tragedy",
+ "old_text": "Libations were typically poured to appease the gods and honour the dead in Ancient Greece, but as a black, tar-like substance is dribbled here, forming a runny circle on a bright yellow stage, the image conjures danger. It's befitting for the court of this particular King Creon (Max Bennett), whose condemnation of his niece Antigone (Nina Cassells) after she defies him in retrieving her brother's body for burial, is framed as an inability to even question let alone reconsider his own laws. The tar circle becomes a dividing line, separating the hypothetically welcome from the unwelcome in Thebes. The line is eventually crossed in more ways than one, and the oily substance spreads, smearing those irrevocably affected by the mess.\nNina Segal's revisiting of the Sophoclean tragedy is keen to explore the far-reaching consequences of our actions and their trickle-down effects. It's pleasingly experimental, but not all ideas coalesce in Jeff James's production, in which a combination of fourth wall breaking and direct address sees the boundaries blur further. Cast members break away from their Greek characters to relay anecdotes that could well be their own. Reaching for a mic that hangs suspended above the stage, one tells of watching a fox decompose, another of a husband dying and another of his teenage daughter's suicide. The stories are moving, even if links to Antigone's own plight are somewhat tenuous.\nAn emphasis is placed on emotions over actions, but having each key player describe their anger, fear or sadness, rather than showing us, has a distancing effect that prevents this production from striking the chords it might. Watching them mine seemingly personal memories in order to find a connection to these centuries-old characters is a little like watching a workshop in method acting.\nThere's a timeless appeal to Alex Lowde's set, which features a giant hollowed-out eggshell structure, out of which the cast emerges one by one to take up their positions, as if born into the play. Later it becomes the cave through which Antigone vanishes, and as the rest look on, we're reminded again of what lingers - physically and emotionally - after death.\n- Antigone Exits runs at the Minerva theatre, Chichester, until 17 October.",
+ "new_text": "Libations were typically poured to appease the gods and honour the dead in Ancient Greece, but as a black, tar-like substance is dribbled here, forming a runny circle on a bright yellow stage, the image conjures danger. It's befitting for the court of this particular King Creon (Max Bennett), whose condemnation of his niece Antigone (Nina Cassells) after she defies him in retrieving her brother's body for burial, is framed as an inability to even question let alone reconsider his own laws. The tar circle becomes a dividing line, separating the hypothetically welcome from the unwelcome in Thebes. The line is eventually crossed in more ways than one, and the oily substance spreads, smearing those irrevocably affected by the mess.\nNina Segal's revisiting of the Sophoclean tragedy is keen to explore the far-reaching consequences of our actions and their trickle-down effects. It's pleasingly experimental, but not all ideas coalesce in Jeff James's production, in which a combination of fourth-wall breaking and direct address sees the boundaries blur further. Cast members break away from their Greek characters to relay anecdotes that could well be their own. Reaching for a mic that hangs suspended above the stage, one tells of watching a fox decompose, another of a husband dying and another of his teenage daughter's suicide. The stories are moving, even if links to Antigone's own plight are somewhat tenuous.\nAn emphasis is placed on emotions over actions, but having each key player describe their anger, fear or sadness, rather than showing us, has a distancing effect that prevents this production from striking the chords it might. Watching them mine seemingly personal memories in order to find a connection to these centuries-old characters is a little like watching a workshop in method acting.\nThere's a timeless appeal to Alex Lowde's set, which features a giant hollowed-out eggshell structure, out of which the cast emerges one by one to take up their positions, as if born into the play. Later it becomes the cave through which Antigone vanishes, and as the rest look on, we're reminded again of what lingers - physically and emotionally - after death.\n- Antigone Exits runs at the Minerva theatre, Chichester, until 17 October",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "all ideas coalesce in Jeff James's production, in which a combination of"
+    ],
+    [
+     "del",
+     "fourth wall"
+    ],
+    [
+     "ins",
+     "fourth-wall"
+    ],
+    [
+     "eq",
+     "breaking and direct address sees the boundaries blur further. Cast members break"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "death. - Antigone Exits runs at the Minerva theatre, Chichester, until 17"
+    ],
+    [
+     "del",
+     "October."
+    ],
+    [
+     "ins",
+     "October"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0136,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

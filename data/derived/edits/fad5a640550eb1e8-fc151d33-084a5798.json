@@ -1,0 +1,120 @@
+{
+ "id": "fad5a640550eb1e8-fc151d33-084a5798",
+ "url": "https://www.france24.com/en/tv-shows/the-debate/20261003-barricades-the-blame-game-the-french-school-protests",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-05T14:09:38Z",
+ "date": "2026-10-05",
+ "old_title": "The World This Week - Barricades & the blame game: the French school protests",
+ "new_title": "The World This Week - Barricades & the blame game: France's high school protests",
+ "old_text": "Barricades & the blame game: the French school protests\nIssued on:\nIn a week that's seen the heroism of the captain, crew and passengers on board FlyDubai flight 1073 heralded, eye witnesses report seeing the co-pilot trying to kill the pilot and destroying the cockpit controls in order to crash the plane. Despite being stabbed repeatedly, Captan Smit Machchhar managed to open the cockpit door, allowing passengers to overwhelm the suspect and regain control of the aircraft after its rapid descent of more than 14,000 feet in 30 seconds. They prevented a 9/11-style catastrophe, Israeli Prime Minister Benjamin Netanyahu said.\nIt's been a week that's seen an apparent thwarted attack at an English RAF base which is used by American bomber jets to strike Iran. An English farmer raised the alarm and has been praised for apparently preventing a potentially catastrophic situation at the base in Fairford in Gloucestershire. The anonymous woman traveling home late found the road blocked by three vans close to the runway, and five masked men jumped out and ran. She called the police and arrests were made under the Explosions Act within minutes. PM Andy Burnham said strong indications suggest Iran played a part, but in what is not yet clear. Five men were bailed, and a British Iranian national has since been arrested.\nAlso this week, student protests at French high schools across the country turned violent as frustrations over conditions boiled over, sparking clashes with police.\nProduced by Gavin Lee, Théophile Vareille, Juliette Laffont, Delphine Liou.",
+ "new_text": "Barricades & the blame game: France's high school protests\nIssued on:\nThis week, student protests at French high schools across the country turned violent as frustrations over learning conditions boiled over, sparking clashes with police.\nBut first: in a week that's seen the heroism of the captain, crew and passengers on board FlyDubai flight 1073 heralded, eyewitnesses report seeing the co-pilot trying to kill the pilot and destroying the cockpit controls in order to crash the plane. Despite being stabbed repeatedly, Captain Smit Machchhar managed to open the cockpit door, allowing passengers to overwhelm the suspect and regain control of the aircraft after its rapid descent of more than 14,000 feet in 30 seconds. They prevented a 9/11-style catastrophe, Israeli Prime Minister Benjamin Netanyahu said.\nPlus, in the Russian-occupied Ukrainian town of Oleshky, in the Kherson region, there's almost nothing left to eat. Some civilians are reportedly surviving on grass and weeds. The OSCE is calling the situation a humanitarian catastrophe.\nProduced by Gavin Lee, Théophile Vareille, Juliette Laffont, Delphine Liou.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Barricades & the blame game:"
+    ],
+    [
+     "del",
+     "the French"
+    ],
+    [
+     "ins",
+     "France's high"
+    ],
+    [
+     "eq",
+     "school protests Issued on:"
+    ],
+    [
+     "del",
+     "In"
+    ],
+    [
+     "ins",
+     "This week, student protests at French high schools across the country turned violent as frustrations over learning conditions boiled over, sparking clashes with police. But first: in"
+    ],
+    [
+     "eq",
+     "a week that's seen the heroism of the captain, crew and passengers on board FlyDubai flight 1073 heralded,"
+    ],
+    [
+     "del",
+     "eye witnesses"
+    ],
+    [
+     "ins",
+     "eyewitnesses"
+    ],
+    [
+     "eq",
+     "report seeing the co-pilot trying to kill the pilot and destroying the cockpit controls in order to crash the plane. Despite being stabbed repeatedly,"
+    ],
+    [
+     "del",
+     "Captan"
+    ],
+    [
+     "ins",
+     "Captain"
+    ],
+    [
+     "eq",
+     "Smit Machchhar managed to open the cockpit door, allowing passengers to overwhelm"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "seconds. They prevented a 9/11-style catastrophe, Israeli Prime Minister Benjamin Netanyahu said."
+    ],
+    [
+     "del",
+     "It's been"
+    ],
+    [
+     "ins",
+     "Plus, in the Russian-occupied Ukrainian town of Oleshky, in the Kherson region, there's almost nothing left to eat. Some civilians are reportedly surviving on grass and weeds. The OSCE is calling the situation"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "week that's seen an apparent thwarted attack at an English RAF base which is used by American bomber jets to strike Iran. An English farmer raised the alarm and has been praised for apparently preventing a potentially catastrophic situation at the base in Fairford in Gloucestershire. The anonymous woman traveling home late found the road blocked by three vans close to the runway, and five masked men jumped out and ran. She called the police and arrests were made under the Explosions Act within minutes. PM Andy Burnham said strong indications suggest Iran played a part, but in what is not yet clear. Five men were bailed, and a British Iranian national has since been arrested. Also this week, student protests at French high schools across the country turned violent as frustrations over conditions boiled over, sparking clashes with police."
+    ],
+    [
+     "ins",
+     "humanitarian catastrophe."
+    ],
+    [
+     "eq",
+     "Produced by Gavin Lee, Théophile Vareille, Juliette Laffont, Delphine Liou."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.8458,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.229,
+ "similarity": 0.8652,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,72 @@
+{
+ "id": "0fc4bfd6e6f70f75-9e81a235-cdd5455f",
+ "url": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-05T14:07:20Z",
+ "date": "2026-10-05",
+ "old_title": "Coast Guard finds debris from medical plane carrying 6 people",
+ "new_title": "Coast Guard finds debris from medical plane carrying 6 people",
+ "old_text": "Coast Guard finds debris from medical plane carrying 6 people\nThe U.S. Coast Guard says searchers have found debris off Nantucket, Mass., from a Canadian air ambulance that was carrying six people traveling from Bermuda to Boston when it disappeared early Saturday.\nThe Gulfstream G100 had been carrying two Bermudans and four Canadians and their next of kin have been notified, according to the Coast Guard, which said it is continuing to search for those on board.\nFlight data shows the jet dropped at least 9,000 feet over two minutes, then leveled off for several more minutes, before disappearing. The pilot declared an emergency, according to Nantucket Memorial Airport. During an exchange, air traffic control asked the pilot of the air ambulance, \"You're coming in blind?\"\nA fire rescue dispatcher warned emergency crews to prepare for the planes' arrival. She said it was 15 minutes away, suffering from electrical issues and had lost radio and radar, according to audio on Broadcastify and reviewed by The Boston Globe.\nThe Coast Guard has deployed two search and rescue planes as well as a helicopter and a motor lifeboat.\nThe plane is operated by Latitude Air Ambulance, based in Ontario, Canada. The company website says it has run thousands of missions since 2009 returning patients and loved ones to their families back home. The firm boasts \"a flawless safety record.\"\nThe website says the air ambulances are staffed by two pilots and a medical team and include a stretcher as well as full ICU medical equipment and supplies.\nAdditional reporting by Kate Bartlett.",
+ "new_text": "Coast Guard finds debris from medical plane carrying 6 people\nThe U.S. Coast Guard says searchers have found debris off Nantucket, Mass., from a Canadian air ambulance that was carrying six people traveling from Bermuda to Boston when it disappeared early Saturday.\nThe Gulfstream G100 had been carrying two Bermudans and four Canadians and their next of kin have been notified, according to the Coast Guard, which said it is continuing to search for those on board.\nFlight data shows the jet dropped at least 9,000 feet over two minutes, then leveled off for several more minutes, before disappearing. The pilot declared an emergency, according to Nantucket Memorial Airport. During an exchange, air traffic control asked the pilot of the air ambulance, \"You're coming in blind?\"\nA fire rescue dispatcher warned emergency crews to prepare for the plane's arrival. She said it was 15 minutes away, suffering from electrical issues and had lost radio and radar, according to audio on Broadcastify and reviewed by The Boston Globe.\nThe Coast Guard has deployed two search and rescue planes as well as a helicopter and a motor lifeboat.\nAt a Sunday morning press conference, U.S. Coast Guard officials said the debris field is 20 miles south of Nantucket, where surrounding waters are approximately 80 to 90 feet deep. Officials say they are coordinating with local authorities to provide sonar detection on the seabed floor as an active search continues.\n\"This is an ongoing search and rescue case,\" said Lt. Commander Kastriot Kastrati, search and rescue mission coordinator. \"Because of the amount of debris, it's very difficult to get into the details of what's there. But right now we're really just focused on finding the people.\"\nThe plane is operated by Latitude Air Ambulance, based in Ontario, Canada. The company website says it has run thousands of missions since 2009 returning patients and loved ones to their families back home. The firm boasts \"a flawless safety record.\"\nThe website says the air ambulances are staffed by two pilots and a medical team and include a stretcher as well as full ICU medical equipment and supplies.\nAdditional reporting by Kate Bartlett.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "blind?\" A fire rescue dispatcher warned emergency crews to prepare for the"
+    ],
+    [
+     "del",
+     "planes'"
+    ],
+    [
+     "ins",
+     "plane's"
+    ],
+    [
+     "eq",
+     "arrival. She said it was 15 minutes away, suffering from electrical issues"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and rescue planes as well as a helicopter and a motor lifeboat."
+    ],
+    [
+     "ins",
+     "At a Sunday morning press conference, U.S. Coast Guard officials said the debris field is 20 miles south of Nantucket, where surrounding waters are approximately 80 to 90 feet deep. Officials say they are coordinating with local authorities to provide sonar detection on the seabed floor as an active search continues. \"This is an ongoing search and rescue case,\" said Lt. Commander Kastriot Kastrati, search and rescue mission coordinator. \"Because of the amount of debris, it's very difficult to get into the details of what's there. But right now we're really just focused on finding the people.\""
+    ],
+    [
+     "eq",
+     "The plane is operated by Latitude Air Ambulance, based in Ontario, Canada."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3808,
+  "numbers_changed": [
+   "20",
+   "80",
+   "90"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9481,
+ "adjudicated_by": "rules"
+}

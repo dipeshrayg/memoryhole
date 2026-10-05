@@ -1,0 +1,236 @@
+{
+ "id": "4608f52983bdc973-67a86c17-ec96668e",
+ "url": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-05T14:08:10Z",
+ "date": "2026-10-05",
+ "old_title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
+ "new_title": "Polls close in Brazil's polarised election pitting Lula against Bolsonaro",
+ "old_text": "Polls have opened in Brazil's presidential election, once again pitting left-wing incumbent Luiz Inacio Lula da Silva against a right-wing candidate from the Bolsonaro family - Senator Flavio Bolsonaro, the eldest son of former President Jair Bolsonaro.\nSome 160 million registered voters are eligible to cast ballots in Sunday's elections, which will elect lawmakers, governors and senators.\nIf no presidential candidate wins more than 50 percent of valid votes, the top two contenders will proceed to a run-off on October 25.\nMost opinion polls ahead of the vote showed a close contest, with Lula holding a marginal advantage over Bolsonaro that tightens further in a potential second round.\nLula, of the Workers' Party, is seeking a fourth nonconsecutive term. The 80-year-old, who previously served as president from 2003 to 2010, wants to continue his series of social programmes aimed at addressing inequality.\nBolsonaro, of the Liberal Party, has promised a hard stance on crime and insecurity. The 45-year-old has also pledged close collaboration with the United States under President Donald Trump.\nHis father is currently serving a 27-year prison sentence over his role in a coup plot following his election loss to Lula by 1.8 percentage points in 2022. The far-right leader's conviction and that of several military officers raised questions about the strength of Brazilian democracy, reviving past traumas of the 21-year-long period during which Brazil was ruled by a US-backed military dictatorship.\nThe presidential election has been dominated by issues such as crime, insecurity and the high cost of living. Corruption and concerns about US intervention in the country's domestic affairs have also loomed over the campaign.\nA recent survey by Quaest says violence was cited as the biggest concern by 31 percent of respondents, followed by corruption (20 percent), economy (19 percent) and healthcare (12 percent).\n\"The stakes of this election are incredibly stark because the candidates stand for such opposing visions about what Brazil's recent history means,\" Andre Pagliarini, an assistant professor of history and international studies at Louisiana State University and the author of a book on Lula, told Al Jazeera.\nHe added that while Lula embodies the \"consolidation of Brazilian democracy since the end of the dictatorship\", the Bolsonaro family argues that \"the institutions that Brazilian democracy has erected since the end of dictatorship are either rotten and unresponsive\".\nWith reporting by Brian Osgood",
+ "new_text": "Polls have closed in Brazil's presidential election, yet again pitting left-wing incumbent Luiz Inacio Lula da Silva against a right-wing candidate from the Bolsonaro family - Senator Flavio Bolsonaro, the eldest son of former President Jair Bolsonaro.\nAbout 160 million registered voters were eligible to cast ballots in Sunday's elections, which will elect legislators, governors and senators. Results are expected within a few hours of the polls closing due to Brazil's electronic voting system.\nIf no presidential candidate wins more than 50 percent of valid votes, the top two contenders will proceed to a run-off on October 25.\nMost opinion polls ahead of the vote showed a close contest, with Lula holding a marginal advantage over Bolsonaro that tightens further in a potential second round.\nFlavio Bolsonaro voted in Rio de Janeiro on Sunday, telling reporters he wants to \"free the Brazilian people\".\n\"Brazil needs change ... it cannot bear any more suffering, such as high taxes, so many women killed,\" he said, adding that he was confident of victory in the first round.\nLula, of the Workers' Party, is seeking a fourth nonconsecutive term. The 80-year-old, who previously was president from 2003 to 2010, wants to continue his series of social programmes aimed at addressing inequality.\nBolsonaro of the Liberal Party has promised a hard stance on crime and insecurity. The 45-year-old has also pledged close collaboration with the United States under President Donald Trump.\nHis father is serving a 27-year prison sentence over his role in a coup plot following his election loss to Lula by 1.8 percentage points in 2022. The far-right leader's conviction and that of several military officers raised questions about the strength of Brazilian democracy, reviving past traumas of the 21-year-long period during which Brazil was ruled by a US-backed military dictatorship.\nReporting from Sao Paulo, Al Jazeera's Lucia Newman, said \"the Brazilian president is on a collision course with Donald Trump, who is a vocal and ardent supporter of Lula's longtime foe, Jair Bolsonaro\".\n\"That puts Brazil in the middle of a fierce competition between Washington and China for political, diplomatic and economic dominance, especially since Brazil is a powerhouse on all these fronts,\" Newman added.\nThe presidential election has been dominated by issues such as crime, insecurity and the high cost of living. Corruption and concerns about US intervention in the country's domestic affairs have also loomed over the campaign.\nA recent survey by Quaest says violence was cited as the biggest concern by 31 percent of respondents, followed by corruption (20 percent), the economy (19 percent) and healthcare (12 percent).\n\"The stakes of this election are incredibly stark because the candidates stand for such opposing visions about what Brazil's recent history means\", Andre Pagliarini, an assistant professor of history and international studies at Louisiana State University and the author of a book on Lula, told Al Jazeera.\nHe added that while Lula embodies the \"consolidation of Brazilian democracy since the end of the dictatorship\", the Bolsonaro family argues that \"the institutions that Brazilian democracy has erected since the end of dictatorship are either rotten and unresponsive\".\nWith reporting by Brian Osgood",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Polls have"
+    ],
+    [
+     "del",
+     "opened"
+    ],
+    [
+     "ins",
+     "closed"
+    ],
+    [
+     "eq",
+     "in Brazil's presidential election,"
+    ],
+    [
+     "del",
+     "once"
+    ],
+    [
+     "ins",
+     "yet"
+    ],
+    [
+     "eq",
+     "again pitting left-wing incumbent Luiz Inacio Lula da Silva against a right-wing"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "- Senator Flavio Bolsonaro, the eldest son of former President Jair Bolsonaro."
+    ],
+    [
+     "del",
+     "Some"
+    ],
+    [
+     "ins",
+     "About"
+    ],
+    [
+     "eq",
+     "160 million registered voters"
+    ],
+    [
+     "del",
+     "are"
+    ],
+    [
+     "ins",
+     "were"
+    ],
+    [
+     "eq",
+     "eligible to cast ballots in Sunday's elections, which will elect"
+    ],
+    [
+     "del",
+     "lawmakers,"
+    ],
+    [
+     "ins",
+     "legislators,"
+    ],
+    [
+     "eq",
+     "governors and senators."
+    ],
+    [
+     "ins",
+     "Results are expected within a few hours of the polls closing due to Brazil's electronic voting system."
+    ],
+    [
+     "eq",
+     "If no presidential candidate wins more than 50 percent of valid votes,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "marginal advantage over Bolsonaro that tightens further in a potential second round."
+    ],
+    [
+     "ins",
+     "Flavio Bolsonaro voted in Rio de Janeiro on Sunday, telling reporters he wants to \"free the Brazilian people\". \"Brazil needs change ... it cannot bear any more suffering, such as high taxes, so many women killed,\" he said, adding that he was confident of victory in the first round."
+    ],
+    [
+     "eq",
+     "Lula, of the Workers' Party, is seeking a fourth nonconsecutive term. The 80-year-old, who previously"
+    ],
+    [
+     "del",
+     "served as"
+    ],
+    [
+     "ins",
+     "was"
+    ],
+    [
+     "eq",
+     "president from 2003 to 2010, wants to continue his series of social programmes aimed at addressing inequality."
+    ],
+    [
+     "del",
+     "Bolsonaro,"
+    ],
+    [
+     "ins",
+     "Bolsonaro"
+    ],
+    [
+     "eq",
+     "of the Liberal"
+    ],
+    [
+     "del",
+     "Party,"
+    ],
+    [
+     "ins",
+     "Party"
+    ],
+    [
+     "eq",
+     "has promised a hard stance on crime and insecurity. The 45-year-old has"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "collaboration with the United States under President Donald Trump. His father is"
+    ],
+    [
+     "del",
+     "currently"
+    ],
+    [
+     "eq",
+     "serving a 27-year prison sentence over his role in a coup plot"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "21-year-long period during which Brazil was ruled by a US-backed military dictatorship."
+    ],
+    [
+     "ins",
+     "Reporting from Sao Paulo, Al Jazeera's Lucia Newman, said \"the Brazilian president is on a collision course with Donald Trump, who is a vocal and ardent supporter of Lula's longtime foe, Jair Bolsonaro\". \"That puts Brazil in the middle of a fierce competition between Washington and China for political, diplomatic and economic dominance, especially since Brazil is a powerhouse on all these fronts,\" Newman added."
+    ],
+    [
+     "eq",
+     "The presidential election has been dominated by issues such as crime, insecurity"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "biggest concern by 31 percent of respondents, followed by corruption (20 percent),"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "economy (19 percent) and healthcare (12 percent). \"The stakes of this election"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the candidates stand for such opposing visions about what Brazil's recent history"
+    ],
+    [
+     "del",
+     "means,\""
+    ],
+    [
+     "ins",
+     "means\","
+    ],
+    [
+     "eq",
+     "Andre Pagliarini, an assistant professor of history and international studies at Louisiana"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3897,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.334,
+ "similarity": 0.8477,
+ "adjudicated_by": "rules"
+}
