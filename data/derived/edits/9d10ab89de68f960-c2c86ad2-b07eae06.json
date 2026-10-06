@@ -1,0 +1,88 @@
+{
+ "id": "9d10ab89de68f960-c2c86ad2-b07eae06",
+ "url": "https://www.abc.net.au/news/2026-10-05/andrew-mountbatten-windsor-legal-action-after-epstein-arrest/107228702",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-06T13:09:53Z",
+ "date": "2026-10-06",
+ "old_title": "Andrew Mountbatten-Windsor launches legal action over Epstein files arrest",
+ "new_title": "Andrew Mountbatten-Windsor taking police to court over Epstein files arrest",
+ "old_text": "In short:\nAndrew Mountbatten-Windsor is taking legal action against the police over his arrest earlier this year.\nA court hearing will take place after the former prince requested a judge examine the lawfulness of search warrants preceding his arrest.\nMr Mountbatten-Windsor was arrested on suspicion of leaking government documents to the late sex offender Jeffrey Epstein.\nAndrew Mountbatten-Windsor is taking legal action against the police over his arrest in relation to the Epstein files earlier this year.\nBritain's judicial office said a court hearing would take place on Thursday after the former prince and brother of King Charles requested that a judge examine the lawfulness of search warrants that preceded his arrest in February.\nBritain's Thames Valley Police issued a statement confirming they were engaged in legal proceedings.\n\"Whilst our investigation into misconduct in public office continues, we are engaged in legal proceedings in relation to warrants previously obtained from the Central Criminal Court,\" the brief statement said.\nMr Mountbatten-Windsor was arrested on suspicion of leaking government documents to the late sex offender Jeffrey Epstein when he was a special representative for trade between 2001 and 2011.\nIt is the first time a member of the royal family has challenged the lawfulness of criminal proceedings against them since King Charles I's trial in 1649.\nThe arrest of the senior royal, eighth in line to the throne, was also unprecedented in modern times.\nEx-prince's emails in Epstein files\nMr Mountbatten-Windsor was arrested at his Norfolk home in February this year on suspicion of misconduct in public office.\nKing Charles's younger brother was interviewed for almost 12 hours before he was released under investigation.\nThe focus of the inquiry is the former prince's trade and investment role.\nIt followed the release of millions of documents by the US Department of Justice (DOJ) relating to Epstein.\nIn the glut of files was several emails that appeared to show Mr Mountbatten-Windsor forwarded on sensitive materials to Epstein in 2010.\nBeing named in the Epstein files is not an indication of misconduct, but trade envoys are required to maintain confidentiality over sensitive, commercial or political information related to their work.\nThe second son of the late Queen Elizabeth has always denied any wrongdoing in relation to Epstein and said he regretted their friendship.\nHe has made no public statement since his arrest.\nIn 2011, Mr Mountbatten-Windsor resigned as trade envoy.\nMisconduct in public office, which carries a maximum sentence of life imprisonment, can relate to any serious wrongdoing from sharing confidential information to corruption and sexual misconduct.\nIn May, Thames Valley Police assistant chief constable Oliver Wright said the force was also assessing reports that a woman was taken to an address in Windsor in 2010 for sexual purposes after a lawyer for the alleged victim told the BBC she had been sent to Britain by Epstein for a sexual encounter with the former prince.\nKing Charles, who stripped his sibling of his titles and honours last October, said at the time of his brother's arrest that he was deeply concerned about the news.\nHe said authorities had the royal family's \"full and wholehearted support and cooperation\".\nABC/Reuters",
+ "new_text": "In short:\nAndrew Mountbatten-Windsor is taking legal action against the police over his arrest earlier this year.\nA court hearing will take place after the former prince requested a judge examine the lawfulness of search warrants preceding his arrest.\nMr Mountbatten-Windsor was arrested on suspicion of leaking government documents to the late sex offender Jeffrey Epstein.\nAndrew Mountbatten-Windsor is taking legal action against the police over his arrest in relation to the Epstein files earlier this year.\nBritain's judicial office said a court hearing would take place on Thursday after the former prince and brother of King Charles requested that a judge examine the lawfulness of search warrants that preceded his arrest in February.\nBritain's Thames Valley Police issued a statement confirming they were engaged in legal proceedings.\n\"Whilst our investigation into misconduct in public office continues, we are engaged in legal proceedings in relation to warrants previously obtained from the Central Criminal Court,\" the brief statement said.\nA Palace source said Mr Mountbatten-Windsor had been told that money provided from private funds by his brother, King Charles III, should not be used to fund his legal challenge.\nMr Mountbatten-Windsor was arrested on suspicion of leaking government documents to the late sex offender Jeffrey Epstein when he was a special representative for trade between 2001 and 2011.\nIt is the first time a member of the royal family has challenged the lawfulness of criminal proceedings against them since King Charles I's trial in 1649.\nThe arrest of the senior royal, eighth in line to the throne, was also unprecedented in modern times.\nEx-prince's emails in Epstein files\nMr Mountbatten-Windsor was arrested at his Norfolk home in February this year on suspicion of misconduct in public office.\nKing Charles's younger brother was interviewed for almost 12 hours before he was released under investigation.\nThe focus of the inquiry is the former prince's trade and investment role.\nIt followed the release of millions of documents by the US Department of Justice (DOJ) relating to Epstein.\nIn the glut of files were several emails that appeared to show Mr Mountbatten-Windsor forwarded on sensitive materials to Epstein in 2010.\nBeing named in the Epstein files is not an indication of misconduct, but trade envoys are required to maintain confidentiality over sensitive, commercial or political information related to their work.\nThe second son of the late Queen Elizabeth has always denied any wrongdoing in relation to Epstein and said he regretted their friendship.\nHe has made no public statement since his arrest.\nIn 2011, Mr Mountbatten-Windsor resigned as trade envoy.\nMisconduct in public office, which carries a maximum sentence of life imprisonment, can relate to any serious wrongdoing, from sharing confidential information to corruption and sexual misconduct.\nIn May, Thames Valley Police assistant chief constable Oliver Wright said the force was also assessing reports that a woman was taken to an address in Windsor in 2010 for sexual purposes after a lawyer for the alleged victim told the BBC she had been sent to Britain by Epstein for a sexual encounter with the former prince.\nKing Charles, who stripped his sibling of his titles and honours last October, said at the time of his brother's arrest that he was deeply concerned about the news.\nHe said authorities had the royal family's \"full and wholehearted support and cooperation\".\nABC/Reuters",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "warrants previously obtained from the Central Criminal Court,\" the brief statement said."
+    ],
+    [
+     "ins",
+     "A Palace source said Mr Mountbatten-Windsor had been told that money provided from private funds by his brother, King Charles III, should not be used to fund his legal challenge."
+    ],
+    [
+     "eq",
+     "Mr Mountbatten-Windsor was arrested on suspicion of leaking government documents to the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Department of Justice (DOJ) relating to Epstein. In the glut of files"
+    ],
+    [
+     "del",
+     "was"
+    ],
+    [
+     "ins",
+     "were"
+    ],
+    [
+     "eq",
+     "several emails that appeared to show Mr Mountbatten-Windsor forwarded on sensitive materials"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "carries a maximum sentence of life imprisonment, can relate to any serious"
+    ],
+    [
+     "del",
+     "wrongdoing"
+    ],
+    [
+     "ins",
+     "wrongdoing,"
+    ],
+    [
+     "eq",
+     "from sharing confidential information to corruption and sexual misconduct. In May, Thames"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.065,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.186,
+ "similarity": 0.964,
+ "adjudicated_by": "rules"
+}

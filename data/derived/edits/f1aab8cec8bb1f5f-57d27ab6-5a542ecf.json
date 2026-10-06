@@ -1,0 +1,62 @@
+{
+ "id": "f1aab8cec8bb1f5f-57d27ab6-5a542ecf",
+ "url": "https://www.theguardian.com/football/ng-interactive/2026/oct/05/next-generation-2026-20-of-the-best-talents-at-premier-league-clubs",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-06T13:18:42Z",
+ "date": "2026-10-06",
+ "old_title": "Next Generation 2026: 20 of the best talents at Premier League clubs",
+ "new_title": "Next Generation 2026: 20 of the best talents at Premier League clubs",
+ "old_text": "Next Generation 2026: 20 of the best talents at Premier League clubs\nWe pick the best youngsters at each club born between 1 September 2009 and 31 August 2010, an age band known as first-year scholars. Check the progress of our classes of 2025 | 2024 | 2023 | 2022 | 2021 ... all the way to 2014",
+ "new_text": "We pick the best youngsters at each club born between 1 September 2009 and 31 August 2010, an age band known as first-year scholars. Check the progress of our classes of 2025 | 2024 | 2023 | 2022 | 2021 ... all the way to 2014. Here's our 2026 world picks",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Next Generation 2026: 20 of the best talents at Premier League clubs"
+    ],
+    [
+     "eq",
+     "We pick the best youngsters at each club born between 1 September"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "2024 | 2023 | 2022 | 2021 ... all the way to"
+    ],
+    [
+     "del",
+     "2014"
+    ],
+    [
+     "ins",
+     "2014. Here's our 2026 world picks"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3276,
+  "numbers_changed": [
+   "20"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.8786,
+ "adjudicated_by": "rules"
+}

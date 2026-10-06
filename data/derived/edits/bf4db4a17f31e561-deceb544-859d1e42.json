@@ -1,0 +1,181 @@
+{
+ "id": "bf4db4a17f31e561-deceb544-859d1e42",
+ "url": "https://www.dw.com/en/military-aircraft-with-32-people-onboard-crashes-in-southern-nigeria/a-79552403?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-06T13:08:04Z",
+ "date": "2026-10-06",
+ "old_title": "Nigerian military plane carrying 32 people crashes, prompting rescue operation",
+ "new_title": "Nigerian military plane crash kills all 25 on board",
+ "old_text": "A military aircraft carrying 25 passengers and seven crew members crashed in southern Nigeria, authorities said on Monday.\nThe ATR-42 aircraft was on a routine mission to Lagos, Nigeria's economic hub, when it crashed in the Igbokoda area of Ondo state, Aviation Minister Festus Keyamo said.\nThe Nigerian Air Force said an immediate search and rescue operation was underway.\nIt was not immediately clear whether there were any casualties or how badly the aircraft had been damaged.\nThis is a breaking news story that will be updated...\nEdited by: Wesley Dockery",
+ "new_text": "Nigerian authorities on Tuesday revised the death toll from a military aircraft crash in southern Nigeria to 25, down from the 32 initially reported, and said there were no survivors.\n\"NAF 931 had 25 persons on board, comprising five crew members and 20 passengers,\" Nigerian Air Force (NAF) said in a statement.\nNigerian President Bola Tinubu extended his \"deepest condolences\" to the deceased's loved ones.\nThe aircraft was on a routine mission to Lagos, Nigeria's economic hub, when it crashed in the Igbokoda area of Ondo state, Aviation Minister Festus Keyamo said in a statement.\nWreckage located\nKeyamo said the aircraft disappeared from radar at around 9 a.m. local time (7:00 a.m. GMT) and was later found to have crashed about halfway through its journey from Edo state to Lagos.\nHe said the wreckage had been located near a naval base.\nThe Nigerian Air Force identified the aircraft as an ATR-42 and said an immediate search and rescue operation had been launched.\nA video circulating on social media showed a small crowd gathered near a river as rescuers searched the area by boat.\nLocals told AP news agency about what they had heard and seen.\n\"The plane cleared some trees. We found some body parts, some clothes and shoes,\" one of the locals said.\nUPDATE: The initial version of this story on Monday, October 5 had the death toll at 32, as reported by Nigerian officials. This has been amended following the updates on Tuesday.\nEdited by: Wesley Dockery, Rob Turner\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "A"
+    ],
+    [
+     "ins",
+     "Nigerian authorities on Tuesday revised the death toll from a"
+    ],
+    [
+     "eq",
+     "military aircraft"
+    ],
+    [
+     "del",
+     "carrying"
+    ],
+    [
+     "ins",
+     "crash in southern Nigeria to 25, down from the 32 initially reported, and said there were no survivors. \"NAF 931 had"
+    ],
+    [
+     "eq",
+     "25"
+    ],
+    [
+     "del",
+     "passengers and seven"
+    ],
+    [
+     "ins",
+     "persons on board, comprising five"
+    ],
+    [
+     "eq",
+     "crew members"
+    ],
+    [
+     "del",
+     "crashed"
+    ],
+    [
+     "ins",
+     "and 20 passengers,\" Nigerian Air Force (NAF) said"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "southern Nigeria, authorities said on Monday."
+    ],
+    [
+     "ins",
+     "a statement. Nigerian President Bola Tinubu extended his \"deepest condolences\" to the deceased's loved ones."
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "ATR-42"
+    ],
+    [
+     "eq",
+     "aircraft was on a routine mission to Lagos, Nigeria's economic hub, when"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "crashed in the Igbokoda area of Ondo state, Aviation Minister Festus Keyamo"
+    ],
+    [
+     "del",
+     "said."
+    ],
+    [
+     "ins",
+     "said in a statement. Wreckage located Keyamo said the aircraft disappeared from radar at around 9 a.m. local time (7:00 a.m. GMT) and was later found to have crashed about halfway through its journey from Edo state to Lagos. He said the wreckage had been located near a naval base."
+    ],
+    [
+     "eq",
+     "The Nigerian Air Force"
+    ],
+    [
+     "ins",
+     "identified the aircraft as an ATR-42 and"
+    ],
+    [
+     "eq",
+     "said an immediate search and rescue operation"
+    ],
+    [
+     "del",
+     "was underway. It was not immediately clear whether there were any casualties or how badly the aircraft"
+    ],
+    [
+     "eq",
+     "had been"
+    ],
+    [
+     "del",
+     "damaged."
+    ],
+    [
+     "ins",
+     "launched. A video circulating on social media showed a small crowd gathered near a river as rescuers searched the area by boat. Locals told AP news agency about what they had heard and seen. \"The plane cleared some trees. We found some body parts, some clothes and shoes,\" one of the locals said. UPDATE: The initial version of this story on Monday, October 5 had the death toll at 32, as reported by Nigerian officials."
+    ],
+    [
+     "eq",
+     "This"
+    ],
+    [
+     "del",
+     "is a breaking news story that will be updated..."
+    ],
+    [
+     "ins",
+     "has been amended following the updates on Tuesday."
+    ],
+    [
+     "eq",
+     "Edited by: Wesley"
+    ],
+    [
+     "del",
+     "Dockery"
+    ],
+    [
+     "ins",
+     "Dockery, Rob Turner Don't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 3.0879,
+  "numbers_changed": [
+   "00",
+   "20",
+   "25",
+   "32",
+   "5",
+   "7",
+   "9",
+   "931"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 3,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.6,
+ "similarity": 0.7975,
+ "adjudicated_by": "rules"
+}

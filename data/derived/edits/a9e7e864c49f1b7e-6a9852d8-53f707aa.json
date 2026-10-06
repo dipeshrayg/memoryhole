@@ -1,0 +1,44 @@
+{
+ "id": "a9e7e864c49f1b7e-6a9852d8-53f707aa",
+ "url": "https://www.npr.org/2026/10/05/g-s1-146408/imran-khan-supporters-march-in-pakistan-to-demand-his-release-after-talks-failed",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-06T13:06:27Z",
+ "date": "2026-10-06",
+ "old_title": "Imran Khan supporters march in Pakistan to demand his release after talks failed",
+ "new_title": "Imran Khan supporters march in Pakistan to demand his release after talks failed",
+ "old_text": "Imran Khan supporters march in Pakistan to demand his release after talks failed\nISLAMABAD - More than 5,000 supporters of imprisoned former Pakistani Prime Minister Imran Khan began a dayslong march toward Islamabad on Sunday to demand his release, after talks between the government and the opposition fell through.\nThe looming showdown threatens to deepen Pakistan's political uncertainty at a time when the country is also grappling with a surge in militant attacks.\nKhan is current Prime Minister Shehbaz Sharif's main political rival and has been imprisoned since 2023 on corruption and other charges that he and his party say are politically motivated. Despite his imprisonment, he retains a substantial and passionate support base, keeping him at the center of Pakistan's turbulent political landscape.\nThe demonstrators, traveling in a convoy of trucks, buses and cars, departed from Lakki Marwat district in the northwestern province of Khyber Pakhtunkhwa, where Khan's party holds power. Organizers have planned overnight stops along the route as the caravan makes its way toward the capital. Sohail Afridi, the province's chief minister, and a staunch Khan supporter is leading the march.\nSpeaking from a specially designed container truck emblazoned with a large portrait of Khan, he expressed confidence in the movement's ability to press its demands and bring the political standoff into the heart of the capital.\nAuthorities have erected roadblocks, using containers, at the entrance to Islamabad and inside the city.\nKhan's Pakistan Tehreek-e-Insaf party, or PTI, and the federal government were in talks to postpone the march but failed to reach a resolution. Gohar Khan, the party's chairman, said negotiations remained deadlocked after two rounds.\nInterior Minister Mohsin Naqvi blamed Afridi for the failure of the talks, warning that he would be held responsible for any loss of life during the planned march.\nSharif's government urged postponement of the march, citing a surge in militant attacks by the Pakistani Taliban in the northwest. His government has accused PTI of sympathizing with the Pakistani Taliban, also known as Tehrik-e-Taliban Pakistan.\nThe organizers now vow to reach the capital after rallying with hundreds of thousands of Khan supporters.\nBesides Khan's release, protesters are demanding his transfer to a hospital and permission for his family to visit him. Officials say he is in good health and receives regular family visits but maintain that meetings with the imprisoned former leader cannot be used for political purposes.\nThe march was originally scheduled for Sept. 27 but was postponed after party leaders said authorities blocked key approaches to Islamabad, including Attock Bridge, a major crossing for convoys from Khyber Pakhtunkhwa.\nPrevious protests by Khan's supporters have turned violent, including one in 2024 in which security personnel and civilians were killed.\nKhan, a former cricket star, was ousted in a parliamentary no-confidence vote in April 2022. Sharif returned to office after the February 2024 election, which Khan's party says was rigged to deny it victory. The government denies the allegation.\n____\nRiaz reported from Peshawar, Pakistan. Associated Press writers Ishtiaq Mahsud in Dera Ismail Khan and Rasool Dawar in Peshawar contributed to this report.",
+ "new_text": "Imran Khan supporters march in Pakistan to demand his release after talks failed\nISLAMABAD - More than 5,000 supporters of imprisoned former Pakistani Prime Minister Imran Khan began a dayslong march toward Islamabad on Sunday to demand his release, after talks between the government and the opposition fell through.\nThe looming showdown threatens to deepen Pakistan's political uncertainty at a time when the country is also grappling with a surge in militant attacks.\nKhan is current Prime Minister Shehbaz Sharif's main political rival and has been imprisoned since 2023 on corruption and other charges that he and his party say are politically motivated. Despite his imprisonment, he retains a substantial and passionate support base, keeping him at the center of Pakistan's turbulent political landscape.\nThe demonstrators, traveling in a convoy of trucks, buses and cars, departed from Lakki Marwat district in the northwestern province of Khyber Pakhtunkhwa, where Khan's party holds power. Organizers have planned overnight stops along the route as the caravan makes its way toward the capital. Sohail Afridi, the province's chief minister, and a staunch Khan supporter is leading the march.\nSpeaking from a specially designed container truck emblazoned with a large portrait of Khan, he expressed confidence in the movement's ability to press its demands and bring the political standoff into the heart of the capital.\nAuthorities have erected roadblocks, using containers, at the entrance to Islamabad and inside the city.\nKhan's Pakistan Tehreek-e-Insaf party, or PTI, and the federal government were in talks to postpone the march but failed to reach a resolution. Gohar Khan, the party's chairman, said negotiations remained deadlocked after two rounds.\nInterior Minister Mohsin Naqvi blamed Afridi for the failure of the talks, warning that he would be held responsible for any loss of life during the planned march.\nSharif's government urged postponement of the march, citing a surge in militant attacks by the Pakistani Taliban in the northwest. His government has accused PTI of sympathizing with the Pakistani Taliban, also known as Tehrik-e-Taliban Pakistan.\nThe organizers now vow to reach the capital after rallying with hundreds of thousands of Khan supporters.\nBesides Khan's release, protesters are demanding his transfer to a hospital and permission for his family to visit him. Officials say he is in good health and receives regular family visits but maintain that meetings with the imprisoned former leader cannot be used for political purposes.\nThe march was originally scheduled for Sept. 27 but was postponed after party leaders said authorities blocked key approaches to Islamabad, including Attock Bridge, a major crossing for convoys from Khyber Pakhtunkhwa.\nPrevious protests by Khan's supporters have turned violent, including one in 2024 in which security personnel and civilians were killed.\nKhan, a former cricket star, was ousted in a parliamentary no-confidence vote in April 2022. Sharif returned to office after the February 2024 election, which Khan's party says was rigged to deny it victory. The government denies the allegation.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "says was rigged to deny it victory. The government denies the allegation."
+    ],
+    [
+     "del",
+     "____ Riaz reported from Peshawar, Pakistan. Associated Press writers Ishtiaq Mahsud in Dera Ismail Khan and Rasool Dawar in Peshawar contributed to this report."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0469,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,72 @@
+{
+ "id": "3fa4d4d373830969-8a124e02-a6d5d91c",
+ "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-10-06T13:21:05Z",
+ "date": "2026-10-06",
+ "old_title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+ "new_title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+ "old_text": "Egyptologists have long debated whether the earliest pharaohs of the First Dynasty were buried with various servants and officials to serve them in the afterlife-a form of human sacrifice. But there is very little archaeological evidence available, given that many of the earliest Egyptian tombs were plundered and/or hastily excavated. A new paper published in the journal Frontiers in Environmental Archaeology reassesses a collection of skulls excavated from tombs in the 1920s and concludes that over one-third show evidence of blunt force trauma. This suggests that they may have been victims of so-called \"retainer sacrifice.\"\nAuthor Roselyn Campbell is a bioarchaeologist at Purdue University who has long been fascinated with the history of human sacrifice. \"I'm interested in how we as human beings decide which types of violence are okay and which are not, and how we even define violence,\" Campbell told Ars. \"It's very context specific. We have to be careful not to extend our own ideas about what violence is and how it's used into other cultures. With Egypt, we have such a long history of European and colonial archeology; they came in with very specific ideas about what this culture was. You really have to make an effort to contextualize the legacy data we have.\"\nNaturally she found the debate over whether ancient Egyptians practiced retainer sacrifice pertinent to her interests. \"People tend to fall into one of two camps,\" said Campbell. \"Either retainer sacrifice definitely happened, end of discussion, or it definitely didn't happen, end of discussion. But nobody's actually looked at the bones in a very long time.\" Forensic science has advanced considerably over the last century, so re-analysis could be useful. Complicating matters is the fact that older sets of remains are often incomplete and/or modified for preservation, destroying vital forensic information in the process.\nCold case files\nAs a case study, Campbell turned to a collection of human remains first excavated by famed British archaeologist Flinders Petrie in the 1920s, from the Abydos site in southern Egypt. Abydos is the site of a royal necropolis where many of the early pharaohs were buried, along with many ancient temples. (It's also the home of what may be the world's oldest brewery.) This particular set of remains-46 crania stored at Cambridge University-came from the Umm el-Qaab cemetery, which contains subsidiary burials presumed to be retainers of deceased First Dynasty rulers. Petrie noted several grave markers with names and official titles, mostly lower to mid-level officials and artisans.",
+ "new_text": "Egyptologists have long debated whether the earliest pharaohs of the First Dynasty were buried with various servants and officials to serve them in the afterlife-a form of human sacrifice. But there is very little archaeological evidence available, given that many of the earliest Egyptian tombs were plundered and/or hastily excavated. A new paper published in the journal Frontiers in Environmental Archaeology reassesses a collection of skulls excavated from tombs in the 1920s and concludes that over one-third show evidence of blunt force trauma. This suggests that they may have been victims of so-called \"retainer sacrifice.\"\nAuthor Roselyn Campbell is a bioarchaeologist at Purdue University who has long been fascinated with the history of human sacrifice. \"I'm interested in how we as human beings decide which types of violence are okay and which are not, and how we even define violence,\" Campbell told Ars. \"It's very context-specific. We have to be careful not to extend our own ideas about what violence is and how it's used into other cultures. With Egypt, we have such a long history of European and colonial archeology; they came in with very specific ideas about what this culture was. You really have to make an effort to contextualize the legacy data we have.\"\nNaturally she found the debate over whether ancient Egyptians practiced retainer sacrifice pertinent to her interests. \"People tend to fall into one of two camps,\" said Campbell. \"Either retainer sacrifice definitely happened, end of discussion, or it definitely didn't happen, end of discussion. But nobody's actually looked at the bones in a very long time.\" Forensic science has advanced considerably over the last century, so re-analysis could be useful. Complicating matters is the fact that older sets of remains are often incomplete and/or modified for preservation, destroying vital forensic information in the process.\nCold case files\nAs a case study, Campbell turned to a collection of human remains first excavated by famed British archaeologist Flinders Petrie in the 1920s, from the Abydos site in southern Egypt. Abydos is the site of a royal necropolis where many of the early pharaohs were buried, along with many ancient temples. (It's also the home of what may be the world's oldest brewery.) This particular set of remains-46 crania stored at Cambridge University-came from the Umm el-Qaab cemetery, which contains subsidiary burials presumed to be retainers of deceased First Dynasty rulers. Petrie noted several grave markers with names and official titles, mostly lower- to mid-level officials and artisans.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "not, and how we even define violence,\" Campbell told Ars. \"It's very"
+    ],
+    [
+     "del",
+     "context specific."
+    ],
+    [
+     "ins",
+     "context-specific."
+    ],
+    [
+     "eq",
+     "We have to be careful not to extend our own ideas about"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "rulers. Petrie noted several grave markers with names and official titles, mostly"
+    ],
+    [
+     "del",
+     "lower"
+    ],
+    [
+     "ins",
+     "lower-"
+    ],
+    [
+     "eq",
+     "to mid-level officials and artisans."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0121,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,22 @@
+- Published
+Asos users across the UK have been sent pop-up messages from its app that appear to have been sent by hackers trying to extort the company.
+Dozens of people have told the BBC about receiving a strange message from the clothing and beauty store's app, appearing on their phone screens.
+"Dear ASOS DPO and IT, we have fully compromised the Snowflake instance. Engage with us, or we will leak it," the message reads.
+Asos did not immediately respond to the BBC's requests for comment.
+"If confirmed, this is a deeply serious attack because the hackers appear to have done something particularly brazen: turned ASOS's own app into their ransom note," says Charlotte Wilson, head of enterprise at cyber-security firm Check Point.
+"Millions of people trust notifications from apps on their phones because they are supposed to come directly from the company."
+Extortion message
+On social media, dozens of people have posted about receiving the message - confused as to what it means.
+Although the apparent extortion message has been issued directly to customers, it is addressed to Asos' data protection officer (DPO) and IT team.
+The message claims the unnamed hackers have "fully compromised the Snowflake instance".
+This refers to the data storage company Snowflake, whose tools are used by dozens of firms for collecting, analysing and storing data.
+It is not known if ASOS is a customer of Snowflake or what data, if any, is stored with the service.
+But Snowflake has been the subject of many high profile data breaches in recent years and has been linked to incidents targeting services including Ticketmaster and Santander.
+It is, however, very unusual for a data breach to be revealed quite so publicly - and for customers to be informed in this manner.
+Most extortions and negotiations by cyber criminals are conducted in private, with hackers hoping their discretion will result in a quiet pay-off.
+The pop up message contains a link to the hackers' Telegram channel.
+The new group is calling itself Xuanye Group and only created its Telegram channel today.
+They have posted only three times with the latest being about the ASOS hack.
+Dan Bird, from cyber security firm Horizon3 says the pop up message the criminals sent implies that their access has gone beyond the Snowflake database.
+"Sending a push notification to ASOS's app users would require access to the company's notification system, which is separate from the Snowflake data platform the attackers claim to have compromised."
+"If both claims hold up, it suggests the attackers got hold of credentials that opened more than one door," he said.

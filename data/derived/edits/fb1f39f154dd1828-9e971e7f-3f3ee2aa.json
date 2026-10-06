@@ -1,0 +1,52 @@
+{
+ "id": "fb1f39f154dd1828-9e971e7f-3f3ee2aa",
+ "url": "https://variety.com/2026/tv/news/karoline-leavit-fox-news-contrbutor-1236899073/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-10-06T13:21:56Z",
+ "date": "2026-10-06",
+ "old_title": "Karoline Leavitt Is Latest Trump Administration Official to Join Fox News",
+ "new_title": "Karoline Leavitt Is Latest Trump Administration Official to Join Fox News",
+ "old_text": "Karoline Leavitt, the former Trump administration press secretary who spent much of her time chastising and denigrating the journalists who asked her questions, is joining one of the outlets that made some of the queries.\nLeavitt will join Fox News Channel as a contributor, the network said Monday. Leavitt follows a well-trod path that has been walked on previously by people like Kayleigh McEnany, a former press secretary who also works for the Fox Corp.-backed media outlet, and Larry Kudlow, a former financial official who is a prominent host at Fox Business Network.\nOther news networks have also sought out former White House officials. MS NOW relies on former Biden press secretary Jen Psaki as its regular 9 a.m. host, and features former Bush official Nicolle Wallace in a prominent late-afternoon showcase. George Stephanopoulos, a former Clinton White House official, is a prominent anchor at ABC News.\nPopular on Variety\n\"Karoline's firsthand experience in the White House and on the presidential campaign trail gives her a distinct understanding of today's political landscape,\" said Suzanne Scott, CEO of Fox News Media, in a statement. \"We look forward to her providing our audience with authentic and sharp insight across all Fox News Media platforms.\"\nLeavitt will start in her new role offering commentary and analysis on November 1.\nLike McEnany, Leavitt was a fierce defender and promoter of President Trump's agenda, and often pushed back on questions from media outlets. She may also have an expert view as the White House tangles with outlets like MS NOW, CNN and Politico, which it has tried to ban from coverage on the grounds of the presidential home and offices. Fox News has supported CNN and the other outlets and called for bans on particular outlets to end.\n\"I am grateful for the opportunity to continue appearing on Fox News Channel as an official member of the extraordinary team at Fox News Media,\" Leavitt said in a statement. \"I look forward to bringing my unique perspective from my experience as White House Press Secretary, along with the same energy and candor that defied my tenure, to Fox's millions of viewers across their many platforms.\"\nLeavitt served as the 36th press secretary from January 2025 until August 2026, becoming the youngest person in American history to hold the position. Prior to joining the White House, Leavitt served as national press secretary for Trump's 2024 presidential campaign. She previously ran as the Republican candidate for congress in her home state of New Hampshire's 1st Congressional District in 2022 and served as communications director for then-House Republican Conference Chair Rep. Elise Stefanik. Earlier in her career, Leavitt worked in Trump's first administration as a presidential writer and assistant press secretary.",
+ "new_text": "Karoline Leavitt, the former Trump administration press secretary who spent much of her time chastising and denigrating the journalists who asked her questions, is joining one of the outlets that made some of the queries.\nLeavitt will join Fox News Channel as a contributor, the network said Monday. Leavitt follows a well-trod path that has been walked on previously by people like Kayleigh McEnany, a former press secretary who also works for the Fox Corp.-backed media outlet, and Larry Kudlow, a former financial official who is a prominent host at Fox Business Network.\nOther news networks have also sought out former White House officials. MS NOW relies on former Biden press secretary Jen Psaki as its regular 9 a.m. host, and features former Bush official Nicolle Wallace in a prominent late-afternoon showcase. George Stephanopoulos, a former Clinton White House official, is a prominent anchor at ABC News.\nPopular on Variety\n\"Karoline's firsthand experience in the White House and on the presidential campaign trail gives her a distinct understanding of today's political landscape,\" said Suzanne Scott, CEO of Fox News Media, in a statement. \"We look forward to her providing our audience with authentic and sharp insight across all Fox News Media platforms.\"\nLeavitt will start in her new role offering commentary and analysis on November 1.\nLike McEnany, Leavitt was a fierce defender and promoter of President Trump's agenda, and often pushed back on questions from media outlets. She may also have an expert view as the White House tangles with outlets like MS NOW, CNN and Politico, which it has tried to ban from coverage on the grounds of the presidential home and offices. Fox News has supported CNN and the other outlets and called for bans on particular outlets to end.\n\"I am grateful for the opportunity to continue appearing on Fox News Channel as an official member of the extraordinary team at Fox News Media,\" Leavitt said in a statement. \"I look forward to bringing my unique perspective from my experience as White House Press Secretary, along with the same energy and candor that defined my tenure, to Fox's millions of viewers across their many platforms.\"\nLeavitt served as the 36th press secretary from January 2025 until August 2026, becoming the youngest person in American history to hold the position. Prior to joining the White House, Leavitt served as national press secretary for Trump's 2024 presidential campaign. She previously ran as the Republican candidate for congress in her home state of New Hampshire's 1st Congressional District in 2022 and served as communications director for then-House Republican Conference Chair Rep. Elise Stefanik. Earlier in her career, Leavitt worked in Trump's first administration as a presidential writer and assistant press secretary.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "White House Press Secretary, along with the same energy and candor that"
+    ],
+    [
+     "del",
+     "defied"
+    ],
+    [
+     "ins",
+     "defined"
+    ],
+    [
+     "eq",
+     "my tenure, to Fox's millions of viewers across their many platforms.\" Leavitt"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0044,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

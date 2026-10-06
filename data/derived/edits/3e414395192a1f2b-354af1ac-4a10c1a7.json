@@ -1,0 +1,52 @@
+{
+ "id": "3e414395192a1f2b-354af1ac-4a10c1a7",
+ "url": "https://www.abc.net.au/news/2026-10-05/nobel-medicine-prize-2026-brain-activity-research/107231100",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-06T13:09:44Z",
+ "date": "2026-10-06",
+ "old_title": "Nobel medicine prize awarded to scientists for brain activity research",
+ "new_title": "Nobel medicine prize awarded to scientists for brain activity research",
+ "old_text": "Nobel Prize in Medicine goes to three scientists for research into brain activity\nIn short:\nTwo German and one US scientist have been awarded the Nobel Prize in Medicine.\nThe prize went to scientists working on the mechanisms the brain uses to switch the activity of individual nerve cells on or off.\nWhat's next?\nThe prize has kicked off Nobel week, with the physics, chemistry, literature, peace and economics prizes to come.",
+ "new_text": "Nobel Prize in Medicine goes to three scientists for research into brain activity\nIn short:\nTwo German and one US scientist have been awarded the Nobel Prize in Medicine.\nThe prize was awarded for work on the mechanisms the brain uses to switch the activity of individual nerve cells on or off.\nWhat's next?\nThe prize has kicked off Nobel week, with the physics, chemistry, literature, peace and economics prizes to come.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "US scientist have been awarded the Nobel Prize in Medicine. The prize"
+    ],
+    [
+     "del",
+     "went to scientists working"
+    ],
+    [
+     "ins",
+     "was awarded for work"
+    ],
+    [
+     "eq",
+     "on the mechanisms the brain uses to switch the activity of individual"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1111,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9979,
+ "adjudicated_by": "rules"
+}

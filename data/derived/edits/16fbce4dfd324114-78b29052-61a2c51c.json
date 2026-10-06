@@ -1,0 +1,52 @@
+{
+ "id": "16fbce4dfd324114-78b29052-61a2c51c",
+ "url": "https://www.bbc.co.uk/news/videos/cv62yd93z906o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-06T13:05:22Z",
+ "date": "2026-10-06",
+ "old_title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
+ "new_title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
+ "old_text": "What we know about former Prince Andrew's legal action against police\nAndrew Mountbatten-Windsor has begun legal proceedings against Thames Valley Police over the lawfulness of the search warrants that led to his arrest in February.\nThe former Prince Andrew was arrested on suspicion of misconduct in public office, after information emerged regarding his dealings with convicted sex offender Jeffrey Epstein.\nMountbatten-Windsor's lawyers are challenging search warrants used to access the former Prince's residences' at Sandringham and the Royal Lodge in Windsor, as first reported by the Telegraph.\nThe BBC's Noor Nanji has what we know so far.",
+ "new_text": "What we know about Andrew Mountbatten-Windsor's legal action against police\nAndrew Mountbatten-Windsor has begun legal proceedings against Thames Valley Police over the lawfulness of the search warrants that led to his arrest in February.\nThe former Prince Andrew was arrested on suspicion of misconduct in public office, after information emerged regarding his dealings with convicted sex offender Jeffrey Epstein.\nMountbatten-Windsor's lawyers are challenging search warrants used to access the former Prince's residences' at Sandringham and the Royal Lodge in Windsor, as first reported by the Telegraph.\nThe BBC's Noor Nanji has what we know so far.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "What we know about"
+    ],
+    [
+     "del",
+     "former Prince Andrew's"
+    ],
+    [
+     "ins",
+     "Andrew Mountbatten-Windsor's"
+    ],
+    [
+     "eq",
+     "legal action against police Andrew Mountbatten-Windsor has begun legal proceedings against Thames"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0515,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 0.9813,
+ "adjudicated_by": "rules"
+}
