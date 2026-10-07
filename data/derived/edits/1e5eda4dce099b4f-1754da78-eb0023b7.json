@@ -1,0 +1,181 @@
+{
+ "id": "1e5eda4dce099b4f-1754da78-eb0023b7",
+ "url": "https://variety.com/2026/film/news/paramount-warner-bros-merger-officially-closes-skydance-david-ellison-1236900047/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-10-07T13:16:18Z",
+ "date": "2026-10-07",
+ "old_title": "Paramount-Warner Bros. $111 Billion Merger Officially Closes: 'Today Is a Historic Day, Not Just for Skydance but for Our Entire Industry,' David Ellison Says",
+ "new_title": "Paramount-Warner Bros. $111 Billion Merger Officially Closes: 'Today Is a Historic Day, Not Just for Skydance but for Our Entire Industry,' David Ellison Says",
+ "old_text": "It's official: Paramount and Warner Bros. Discovery are now a single company - joined together as Skydance Corp., led by chairman and CEO David Ellison.\nThe deal, valued at $111 billion, brings together two major studios, TV networks including CBS, CNN, Comedy Central, MTV and TBS, and streaming services Paramount+ and HBO Max. The new Skydance will have annual revenue of $70 billion, the company says - but it also will have to wrestle with $80 billion in net debt.\nThe closing of the deal comes a little more than a year after Ellison's Paramount Skydance (created in 2025 after his Skydance Media bought Paramount Global) first launched his bid for Warner Bros. Discovery. He encountered numerous obstacles on the way there - including a rival Netflix deal for WB assets and an antitrust lawsuit filed by 12 Democratic attorneys general - but has now prevailed in sealing the deal.\nPopular on Variety\nSkydance Class B shares will begin trading today on the New York Stock Exchange under the new ticker symbol \"SKYD.\" Under the terms of the merger, Warner Bros. Discovery shareholders received an amount in cash equal to $31.01666668 per share. WBD shares have ceased trading on Nasdaq effective Tuesday.\nMore to come",
+ "new_text": "It's official: Paramount and Warner Bros. Discovery are now a single company - joined together as Skydance Corp., led by chairman and CEO David Ellison.\nThe deal, valued at $111 billion including the assumption of WBD debt, brings together two major studios, TV networks including CBS, CNN, Comedy Central, MTV and TBS, and streaming services Paramount+ and HBO Max. The new Skydance will have annual revenue of nearly $70 billion, the company said - but it also will have to wrestle with $80 billion in net debt.\nThe closing of the deal comes a little more than a year after Ellison's Paramount Skydance (created in 2025 after his Skydance Media bought Paramount Global) first launched his bid for Warner Bros. Discovery. The 43-year-old Ellison encountered numerous obstacles on the way there - including a rival Netflix deal for WB assets and an antitrust lawsuit filed by 12 Democratic attorneys general - but has now prevailed in sealing the deal.\nPopular on Variety\nThe Ellison family - with the multibillion-dollar backing of Larry Ellison, David's tech-mogul father - holds the largest equity stake in Skydance. The Ellisons and investment firm RedBird Capital Partners together are the sole holders of Paramount Class A common stock, including 100% of the combined company's voting shares.\nSkydance Class B shares will begin trading Tuesday on the New York Stock Exchange under the new ticker symbol \"SKYD.\" Under the terms of the merger, Warner Bros. Discovery shareholders received an amount in cash equal to $31.01666668 per share. WBD shares have ceased trading on Nasdaq effective Tuesday.\n\"Today is a historic day, not just for Skydance but for our entire industry,\" Ellison said in a statement.\nThe CEO continued: \"From the start, our ambition was to bring these two storied studios together and create a stronger competitor, with the talent, resources, and reach to tell great stories in every genre, on every platform, for audiences everywhere. Now that ambition is a reality.... Our focus now turns to the future: building a company that empowers creatives, entertains audiences and rewards shareholders.\"\nThe merger creating Skydance was funded with $47 billion of investment in Class B common stock, led by Larry Ellison, RedBird Capital Partners, LionTree, and the sovereign wealth funds of Saudi Arabia, Qatar and Abu Dhabi. That equity investment was priced at $12 per share. Debt financing for the transaction was led by Bank of America, Citigroup and Apollo Global Management.\nEllison has hired Ynon Kreiz, former CEO of Mattel, to run the company as co-CEO. On Monday, Ellison announced the senior leadership team for the new Skydance.\nSkydance reiterated its general strategy, claiming that \"consumers can expect greater innovation from a company built with technology at its core.\" The company said its Paramount+ de and HBO Max direct-to-consumer streaming products will be merged \"into a single service over time.\"\nAs previously stated by Paramount execs, the new Skydance is aiming for more than $6 billion in annualized \"run-rate synergies\" over the next three years. The company said it will apply \"the same operational playbook that allowed Paramount to exceed its synergy targets following the Skydance-Paramount merger.\"\nCost savings at the merged Paramount-WBD will come \"primarily\" from technology, integration and procurement, marketing and real estate rationalization, according to Skydance. \"That will make the company leaner and more nimble, freeing it to grow its investment in the stories, creators and technology that matter most,\" the company said. But some experts are skeptical such cost reductions can be achieved without negative consequences to its operations.\nHowever, the new Skydance will also look to reduce expenses through mass layoffs, with thousands of employees at the former Paramount and WBD expected to be pink-slipped over the next several months.\nSkydance believes it can reduce its ratio of net debt to adjusted EBITDA from an estimated 7x in 2026 and '27 to a target of 3.0x by the end of 2029.\nRELATED: Skydance Blasts Off: Can David Ellison Make Paramount-Warner Bros. Merger Fly?\nUnder the deal to acquire Warner Bros. Discovery, Paramount accrued a ticking fee of roughly $7 million per day payable to WBD as of Oct. 1. Paramount had been confident the merger would close prior to Sept. 30, but the 12 states' antitrust lawsuit delayed that. Paramount ended up paying $41.9 million extra to Warner Bros. Discovery investors because of the ticking-fee arrangement.\nSkydance has three business segments: Studios, Direct-to-Consumer and TV Media. The company's portfolio unites brands including Paramount Pictures, Warner Bros., HBO and HBO Max, Paramount+, Pluto TV, CBS, CNN, CBS Sports, TNT Sports, Nickelodeon, Cartoon Network, MTV, Food Network, BET, HGTV and Comedy Central.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "led by chairman and CEO David Ellison. The deal, valued at $111"
+    ],
+    [
+     "del",
+     "billion,"
+    ],
+    [
+     "ins",
+     "billion including the assumption of WBD debt,"
+    ],
+    [
+     "eq",
+     "brings together two major studios, TV networks including CBS, CNN, Comedy Central,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Paramount+ and HBO Max. The new Skydance will have annual revenue of"
+    ],
+    [
+     "ins",
+     "nearly"
+    ],
+    [
+     "eq",
+     "$70 billion, the company"
+    ],
+    [
+     "del",
+     "says"
+    ],
+    [
+     "ins",
+     "said"
+    ],
+    [
+     "eq",
+     "- but it also will have to wrestle with $80 billion in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Media bought Paramount Global) first launched his bid for Warner Bros. Discovery."
+    ],
+    [
+     "del",
+     "He"
+    ],
+    [
+     "ins",
+     "The 43-year-old Ellison"
+    ],
+    [
+     "eq",
+     "encountered numerous obstacles on the way there - including a rival Netflix"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "- but has now prevailed in sealing the deal. Popular on Variety"
+    ],
+    [
+     "ins",
+     "The Ellison family - with the multibillion-dollar backing of Larry Ellison, David's tech-mogul father - holds the largest equity stake in Skydance. The Ellisons and investment firm RedBird Capital Partners together are the sole holders of Paramount Class A common stock, including 100% of the combined company's voting shares."
+    ],
+    [
+     "eq",
+     "Skydance Class B shares will begin trading"
+    ],
+    [
+     "del",
+     "today"
+    ],
+    [
+     "ins",
+     "Tuesday"
+    ],
+    [
+     "eq",
+     "on the New York Stock Exchange under the new ticker symbol \"SKYD.\""
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "$31.01666668 per share. WBD shares have ceased trading on Nasdaq effective Tuesday."
+    ],
+    [
+     "del",
+     "More"
+    ],
+    [
+     "ins",
+     "\"Today is a historic day, not just for Skydance but for our entire industry,\" Ellison said in a statement. The CEO continued: \"From the start, our ambition was"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "ins",
+     "bring these two storied studios together and create a stronger competitor, with the talent, resources, and reach to tell great stories in every genre, on every platform, for audiences everywhere. Now that ambition is a reality.... Our focus now turns to the future: building a company that empowers creatives, entertains audiences and rewards shareholders.\" The merger creating Skydance was funded with $47 billion of investment in Class B common stock, led by Larry Ellison, RedBird Capital Partners, LionTree, and the sovereign wealth funds of Saudi Arabia, Qatar and Abu Dhabi. That equity investment was priced at $12 per share. Debt financing for the transaction was led by Bank of America, Citigroup and Apollo Global Management. Ellison has hired Ynon Kreiz, former CEO of Mattel, to run the company as co-CEO. On Monday, Ellison announced the senior leadership team for the new Skydance. Skydance reiterated its general strategy, claiming that \"consumers can expect greater innovation from a company built with technology at its core.\" The company said its Paramount+ de and HBO Max direct-to-consumer streaming products will be merged \"into a single service over time.\" As previously stated by Paramount execs, the new Skydance is aiming for more than $6 billion in annualized \"run-rate synergies\" over the next three years. The company said it will apply \"the same operational playbook that allowed Paramount to exceed its synergy targets following the Skydance-Paramount merger.\" Cost savings at the merged Paramount-WBD will"
+    ],
+    [
+     "eq",
+     "come"
+    ],
+    [
+     "ins",
+     "\"primarily\" from technology, integration and procurement, marketing and real estate rationalization, according to Skydance. \"That will make the company leaner and more nimble, freeing it to grow its investment in the stories, creators and technology that matter most,\" the company said. But some experts are skeptical such cost reductions can be achieved without negative consequences to its operations. However, the new Skydance will also look to reduce expenses through mass layoffs, with thousands of employees at the former Paramount and WBD expected to be pink-slipped over the next several months. Skydance believes it can reduce its ratio of net debt to adjusted EBITDA from an estimated 7x in 2026 and '27 to a target of 3.0x by the end of 2029. RELATED: Skydance Blasts Off: Can David Ellison Make Paramount-Warner Bros. Merger Fly? Under the deal to acquire Warner Bros. Discovery, Paramount accrued a ticking fee of roughly $7 million per day payable to WBD as of Oct. 1. Paramount had been confident the merger would close prior to Sept. 30, but the 12 states' antitrust lawsuit delayed that. Paramount ended up paying $41.9 million extra to Warner Bros. Discovery investors because of the ticking-fee arrangement. Skydance has three business segments: Studios, Direct-to-Consumer and TV Media. The company's portfolio unites brands including Paramount Pictures, Warner Bros., HBO and HBO Max, Paramount+, Pluto TV, CBS, CNN, CBS Sports, TNT Sports, Nickelodeon, Cartoon Network, MTV, Food Network, BET, HGTV and Comedy Central."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 2.7951,
+  "numbers_changed": [
+   "1",
+   "100",
+   "12",
+   "2026",
+   "2029",
+   "27",
+   "3.0",
+   "30",
+   "41.9",
+   "43",
+   "47",
+   "6",
+   "7"
+  ],
+  "market_figures_changed": [
+   "$12",
+   "$41.9 m",
+   "$47 billion",
+   "$6 billion",
+   "$7 m",
+   "100%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 3,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.426,
+ "similarity": 0.8823,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "74d38b5ab967c789-9c6320c3-f4fc1799",
+ "url": "https://www.france24.com/en/video/20261006-heavy-police-presence-as-students-set-to-march-in-paris",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-07T13:03:03Z",
+ "date": "2026-10-07",
+ "old_title": "'Heavy police presence' as students set to march in Paris",
+ "new_title": "'Heavy police presence' as students set to march in Paris",
+ "old_text": "'Heavy police presence' as students set to march in Paris\nIssued on:\nShare\nA major march is set to depart from central Paris this afternoon as French students continue their protests classroom conditions. With previous protests marred by violence, France 24's Claire Paccalin reports that there is already a heave police presence in central Paris as the marchers prepare to get underway.",
+ "new_text": "'Heavy police presence' as students set to march in Paris\nIssued on: Modified:\nShare\nA major march is set to depart from central Paris this afternoon as French students continue their protests classroom conditions. With previous protests marred by violence, France 24's Claire Paccalin reports that there is already a heave police presence in central Paris as the marchers prepare to get underway.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "'Heavy police presence' as students set to march in Paris Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "Share A major march is set to depart from central Paris this"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0161,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9953,
+ "adjudicated_by": "rules"
+}

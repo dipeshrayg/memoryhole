@@ -1,0 +1,126 @@
+{
+ "id": "7683d2c2108d94ac-7c3bbdf9-8ae0e241",
+ "url": "https://www.abc.net.au/news/2026-10-06/asos-app-users-sent-hacked-message/107236520",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-07T13:03:53Z",
+ "date": "2026-10-07",
+ "old_title": "Asos app users sent 'hacked' message from online retailer",
+ "new_title": "ASOS says customers sent notifications in possible hack",
+ "old_text": "Asos 'investigating' phone message sent saying online retailer had been 'hacked'\nIn short:\nAsos app users have been sent a phone notification claiming the online fashion retailer had been hacked.\nThe UK company's share prices slumped 10 per cent after.\nWhat's next?\nAsos says it is \"aware of the notification and investigating\".",
+ "new_text": "ASOS and authorities investigating phone message sent saying online retailer had been hacked\nIn short:\nASOS says customers' personal information may have been accessed during \"unauthorised activity\".\nASOS app users were sent a phone notification claiming the online fashion retailer had been hacked.\nWhat's next?\nASOS is working with authorities to investigate the breach.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Asos 'investigating'"
+    ],
+    [
+     "ins",
+     "ASOS and authorities investigating"
+    ],
+    [
+     "eq",
+     "phone message sent saying online retailer had been"
+    ],
+    [
+     "del",
+     "'hacked'"
+    ],
+    [
+     "ins",
+     "hacked"
+    ],
+    [
+     "eq",
+     "In short:"
+    ],
+    [
+     "del",
+     "Asos"
+    ],
+    [
+     "ins",
+     "ASOS says customers' personal information may have been accessed during \"unauthorised activity\". ASOS"
+    ],
+    [
+     "eq",
+     "app users"
+    ],
+    [
+     "del",
+     "have been"
+    ],
+    [
+     "ins",
+     "were"
+    ],
+    [
+     "eq",
+     "sent a phone notification claiming the online fashion retailer had been hacked."
+    ],
+    [
+     "del",
+     "The UK company's share prices slumped 10 per cent after."
+    ],
+    [
+     "eq",
+     "What's next?"
+    ],
+    [
+     "del",
+     "Asos says it"
+    ],
+    [
+     "ins",
+     "ASOS"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "del",
+     "\"aware of"
+    ],
+    [
+     "ins",
+     "working with authorities to investigate"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "notification and investigating\"."
+    ],
+    [
+     "ins",
+     "breach."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.9615,
+  "numbers_changed": [
+   "10"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 1,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.621,
+ "similarity": 0.8998,
+ "adjudicated_by": "rules"
+}

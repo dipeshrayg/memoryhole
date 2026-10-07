@@ -1,0 +1,286 @@
+{
+ "id": "65d29e098dde6237-0e8c0861-1afa19b0",
+ "url": "https://www.bbc.co.uk/sport/american-football/articles/cqrlynky9j61o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-07T13:11:54Z",
+ "date": "2026-10-07",
+ "old_title": "NFL: Officials Jeff Seeman and Adrian Hill suspended for player incidents",
+ "new_title": "NFL: Officials Jeff Seeman and Adrian Hill suspended for player incidents",
+ "old_text": "- Published\nThe NFL has suspended two officials for instances of unprofessional conduct towards a player.\nLine judge Jeff Seeman has been suspended for two games and referee Adrian Hill for one fixture following the incidents on Sunday.\nSeeman was caught on camera seeming to curse at Arizona Cardinals tight end Trey McBride, whose side lost 36-24 away to the New York Giants.\nMcBride felt he had been interfered with by Giants cornerback Dru Phillips from a pass from Cardinals quarterback Jacoby Brissett that fell incomplete.\nHaving been hit, McBride complained to Seeman, who appeared to yell a profanity at McBride.\n\"It's a tough one for me. You hate to see it for obvious reasons. I don't need to go further than that, but I do want to give the man a little bit of grace too,\" Cardinals coach Mike LaFleur said Monday.\n\"I know Jeff. He's a good man. It's unfortunate it happened. It can't happen obviously and I'll leave it at that.\"\nHill's incident involved linebacker Eric Wilson, who featured for Minnesota Vikings as they defeated the visiting Miami Dolphins 15-10.\nWilson was pushed into Hill by Dolphins running back Ollie Gordon II midway through the first quarter after a play was whistled dead because of a Minnesota penalty.\nAs Wilson tried to help Hill up, the official jumped up while pointing and shouting at Wilson to move away.\n\"That was funny, honestly,\" Wilson told reporters after the match.\n\"I ended up apologising to him and explained the situation. He was cool about it. He understood what was going on. He just said he didn't want us fighting.\"\nIn Monday night's fixture, the Atlanta Falcons won 45-24 on the road at the New Orleans Saints.\nBijan Robinson scored an early touchdown following a 53-yard run, while fellow running back Brian Robinson Jr. also reached the end zone three times.\nThe Falcons now sit second in NFC South, following two opening defeats with consecutive victories, while the Saints are third with a 1-3 record.",
+ "new_text": "- Published\nThe NFL has suspended two officials for instances of unprofessional conduct towards a player.\nLine judge Jeff Seeman has been suspended for two games and referee Adrian Hill for one fixture following the incidents on Sunday.\nSeeman was caught on camera seeming to curse at Arizona Cardinals tight end Trey McBride, whose side lost 36-24 at the New York Giants.\nMcBride felt there should have been a defensive pass interference call against the Giants' cornerback Dru Phillips. McBride complained to Seeman, who appeared to yell a profanity at him.\n\"It's a tough one for me. You hate to see it for obvious reasons,\" Cardinals head coach Mike LaFleur said on Monday.\n\"I don't need to go further than that, but I do want to give the man a little bit of grace too. I know Jeff. He's a good man. It's unfortunate it happened. It can't happen, obviously, and I'll leave it at that.\"\nHill's incident involved linebacker Eric Wilson, who featured for the Minnesota Vikings as they won 15-10 at home to the Miami Dolphins.\nWilson was pushed into Hill by Dolphins running back Ollie Gordon II midway through the first quarter after a play was whistled dead because of a Minnesota penalty.\nAs Wilson tried to help Hill up, the official jumped up while pointing and shouting at Wilson to move away.\n\"That was funny, honestly,\" Wilson told reporters after the game.\n\"I ended up apologising to him and explained the situation. He was cool about it. He understood what was going on. He just said he didn't want us fighting.\"\nWeek four concluded with the Atlanta Falcons winning 45-24 at the New Orleans Saints on Monday.\nBijan Robinson ran in two touchdowns in the first quarter before fellow running back Brian Robinson Jr claimed three of his own.\nThe Falcons now sit second in NFC South, following two opening defeats with consecutive victories, while the Saints are third with a 1-3 record.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "curse at Arizona Cardinals tight end Trey McBride, whose side lost 36-24"
+    ],
+    [
+     "del",
+     "away to"
+    ],
+    [
+     "ins",
+     "at"
+    ],
+    [
+     "eq",
+     "the New York Giants. McBride felt"
+    ],
+    [
+     "del",
+     "he had"
+    ],
+    [
+     "ins",
+     "there should have"
+    ],
+    [
+     "eq",
+     "been"
+    ],
+    [
+     "del",
+     "interfered with by Giants"
+    ],
+    [
+     "ins",
+     "a defensive pass interference call against the Giants'"
+    ],
+    [
+     "eq",
+     "cornerback Dru"
+    ],
+    [
+     "del",
+     "Phillips from a pass from Cardinals quarterback Jacoby Brissett that fell incomplete. Having been hit,"
+    ],
+    [
+     "ins",
+     "Phillips."
+    ],
+    [
+     "eq",
+     "McBride complained to Seeman, who appeared to yell a profanity at"
+    ],
+    [
+     "del",
+     "McBride."
+    ],
+    [
+     "ins",
+     "him."
+    ],
+    [
+     "eq",
+     "\"It's a tough one for me. You hate to see it for obvious"
+    ],
+    [
+     "del",
+     "reasons. I"
+    ],
+    [
+     "ins",
+     "reasons,\" Cardinals head coach Mike LaFleur said on Monday. \"I"
+    ],
+    [
+     "eq",
+     "don't need to go further than that, but I do want to give the man a little bit of grace"
+    ],
+    [
+     "del",
+     "too,\" Cardinals coach Mike LaFleur said Monday. \"I"
+    ],
+    [
+     "ins",
+     "too. I"
+    ],
+    [
+     "eq",
+     "know Jeff. He's a good man. It's unfortunate it happened. It can't"
+    ],
+    [
+     "del",
+     "happen obviously"
+    ],
+    [
+     "ins",
+     "happen, obviously,"
+    ],
+    [
+     "eq",
+     "and I'll leave it at that.\" Hill's incident involved linebacker Eric Wilson, who featured for"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "Minnesota Vikings as they"
+    ],
+    [
+     "del",
+     "defeated"
+    ],
+    [
+     "ins",
+     "won 15-10 at home to"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "visiting"
+    ],
+    [
+     "eq",
+     "Miami"
+    ],
+    [
+     "del",
+     "Dolphins 15-10."
+    ],
+    [
+     "ins",
+     "Dolphins."
+    ],
+    [
+     "eq",
+     "Wilson was pushed into Hill by Dolphins running back Ollie Gordon II"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to move away. \"That was funny, honestly,\" Wilson told reporters after the"
+    ],
+    [
+     "del",
+     "match."
+    ],
+    [
+     "ins",
+     "game."
+    ],
+    [
+     "eq",
+     "\"I ended up apologising to him and explained the situation. He was"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "what was going on. He just said he didn't want us fighting.\""
+    ],
+    [
+     "del",
+     "In Monday night's fixture,"
+    ],
+    [
+     "ins",
+     "Week four concluded with"
+    ],
+    [
+     "eq",
+     "the Atlanta Falcons"
+    ],
+    [
+     "del",
+     "won"
+    ],
+    [
+     "ins",
+     "winning"
+    ],
+    [
+     "eq",
+     "45-24"
+    ],
+    [
+     "del",
+     "on the road"
+    ],
+    [
+     "eq",
+     "at the New Orleans"
+    ],
+    [
+     "del",
+     "Saints."
+    ],
+    [
+     "ins",
+     "Saints on Monday."
+    ],
+    [
+     "eq",
+     "Bijan Robinson"
+    ],
+    [
+     "del",
+     "scored an early touchdown following a 53-yard run, while"
+    ],
+    [
+     "ins",
+     "ran in two touchdowns in the first quarter before"
+    ],
+    [
+     "eq",
+     "fellow running back Brian Robinson"
+    ],
+    [
+     "del",
+     "Jr. also reached the end zone"
+    ],
+    [
+     "ins",
+     "Jr claimed"
+    ],
+    [
+     "eq",
+     "three"
+    ],
+    [
+     "del",
+     "times."
+    ],
+    [
+     "ins",
+     "of his own."
+    ],
+    [
+     "eq",
+     "The Falcons now sit second in NFC South, following two opening defeats with consecutive victories, while the Saints are third with a 1-3 record."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3701,
+  "numbers_changed": [
+   "53"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 1,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.984,
+ "adjudicated_by": "rules"
+}

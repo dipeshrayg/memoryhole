@@ -1,0 +1,43 @@
+Scientists reprogram immune cells inside the body to fight cancer
+A new CRISPR-based approach could turn immune cells into powerful cancer fighters directly inside the body, making CAR-T therapy faster, cheaper, and far easier to access.
+- Date:
+- October 7, 2026
+- Source:
+- University of California - San Francisco
+- Summary:
+- Scientists at UC San Francisco have developed a way to create cancer-fighting CAR-T cells directly inside the body, potentially avoiding the slow and extremely expensive process of removing, engineering, and reinfusing a patientâs immune cells. Using a two-particle delivery system, the researchers sent CRISPR gene-editing tools and new cancer-targeting DNA specifically into T cells, where the DNA was inserted at a precise location in the genome.
+- Share:
+CAR-T cell therapy has transformed the treatment of certain blood cancers, but getting the therapy to patients remains complicated, expensive, and slow. The standard process requires doctors to collect a patient's immune cells and send them to a specialized facility, where the cells are genetically modified to recognize cancer. The engineered cells are then shipped back and infused into the patient. The entire process can take weeks and cost hundreds of thousands of dollars.
+Researchers at UC San Francisco have now developed a potential alternative that could allow those cancer-fighting cells to be reprogrammed directly inside the body. If the approach can be translated to people, it could remove much of the manufacturing, expense, and delay that currently limits access to CAR-T therapy.
+The work marks the first time scientists have inserted a large stretch of DNA into a precise location in human T cells without first removing those cells from the body. The targeted technique also performed better than the conventional strategy of using viruses to insert DNA at random locations, suggesting that the advance could have implications beyond CAR T for cell and gene therapies more broadly.
+In experiments using mice with humanized immune systems, described in Nature, the team successfully used the method against aggressive leukemia, multiple myeloma, and even a solid tumor.
+"I think this is just the beginning of a big wave of new therapies that will be truly transformational and save a lot of lives," said Justin Eyquem, PhD, an associate professor of medicine at UCSF and the senior author of the new paper. "I'm incredibly excited to be part of it."
+Reprogramming T Cells Inside the Body
+CAR-T cell therapy works by supplying T cells with new genetic instructions that help them identify and destroy cancer. T cells are among the immune system's key disease-fighting cells. The new instructions tell them to produce chimeric antigen receptors (CARs), which extend from the cell surface like antennae.
+When one of these receptors attaches to a specific protein on a cancer cell, it signals the T cell to attack and kill that cell. Seven CAR-T cell therapies are currently approved by the U.S. Food and Drug Administration for blood cancers.
+Despite their effectiveness, these treatments remain difficult for many patients to obtain. CAR-T therapies typically cost between $400,000 and $500,000, and their production depends on highly specialized facilities. Manufacturing also takes weeks, which can be critical for patients whose cancers continue to advance while they wait.
+Patients generally must also receive intensive chemotherapy before the engineered T cells are infused. This treatment clears space in the bone marrow for the incoming cells, but it can be extremely taxing, particularly for older or medically frail patients.
+"It's become a global access issue; many patients who would benefit from CAR-T cells either can't afford them or can't get them fast enough," Eyquem said. "There has been a big push in the field to try to move to directly producing these cells in the body."
+Producing engineered immune cells directly inside the body, an approach known as in vivo manufacturing, could potentially remove the need for this preparatory chemotherapy as well.
+CRISPR Delivers New Instructions to T Cells
+To make that possible, Eyquem and collaborators from the Gladstone Institutes, Duke University, and Innovative Genomics Institute developed a system based on two different particles. Together, they deliver CRISPR-Cas9 gene-editing machinery directly to T cells circulating through the body.
+One of the particles carries the CRISPR-Cas9 tools needed to cut and alter DNA. Its surface is covered with antibodies that recognize CD3, a protein found exclusively on T cell surfaces. This targeting mechanism helps direct the gene-editing machinery specifically toward T cells.
+The second particle delivers DNA containing the instructions for producing the cancer-fighting CAR. It also carries information that directs the new DNA to a precise location within the T cell genome. That location contains a molecular "on switch" that is active only in T cells.
+The new gene prompts the cells to produce CARs only when it reaches this intended location. The researchers also designed the particles to avoid being immediately destroyed by the immune system.
+"When you manufacture these cells outside the body, you can do a lot of quality control to make sure you only end up with re-engineered T cells," said Eyquem. "Inside the body, we can't do that post-manufacturing quality control, so we really needed to optimize the approach upfront to avoid altering any other cells."
+Leukemia Disappeared Within Two Weeks
+The team, led by co-first authors William Nyberg, PhD, and Pierre-Louis Bernard, PhD, both UCSF postdoctoral fellows, tested the system in mice engrafted with aggressive leukemia.
+After a single injection of the two-particle treatment, all detectable cancer disappeared in nearly all of the mice within two weeks. In some organs, the newly engineered CAR-T cells accounted for as much as 40% of the immune cell population. The treatment also eliminated cancer from both the bone marrow and spleen.
+The same strategy proved effective against multiple myeloma. It also worked against a solid sarcoma tumor, an especially notable result because solid tumors have historically been much more difficult to treat with CAR-T therapy.
+Researchers also found an unexpected advantage. The T cells engineered directly inside the body appeared to perform better than comparable cells produced in the laboratory.
+"What was especially remarkable was that the cells we're generating in vivo actually look better than what we make in the lab," Eyquem said. "We think that when cells are taken out of the body and grown in the lab, they lose some of their 'stemness' and proliferative capacity and that doesn't happen here."
+A Potentially Faster and More Accessible CAR-T Therapy
+The technology is not yet ready for patients. Researchers still need to scale up the approach for human use, and clinical trials will be required to determine whether it is safe and effective in people.
+Eyquem and his collaborators have founded Azalea Therapeutics to move the dual-particle platform described in the study toward clinical development.
+If successful in humans, the approach could fundamentally change how CAR-T treatments are delivered. Instead of requiring patients to wait while their cells are collected, modified, expanded, and returned, the necessary genetic engineering could potentially happen inside the patient.
+"If we can translate this to humans, we could dramatically reduce costs, eliminate waiting times, and potentially allow community hospitals -- not just major cancer centers -- to offer these life-saving therapies," he said. "That would truly democratize access to CAR-T cell therapy."
+Story Source:
+Materials provided by University of California - San Francisco. Original written by Sarah C.P. Williams. Note: Content may be edited for style and length.
+Journal Reference:
+- William A. Nyberg, Pierre-Louis Bernard, Wayne Ngo, Charlotte H. Wang, Jonathan Ark, Allison Rothrock, Gina M. Borgo, Gabriella R. Kimmerly, Jae Hyung Jung, Vincent Allain, Jennifer R. Hamilton, Alisha Baldwin, Robert Stickels, Sarah Wyman, Safwaan H. Khan, Shanshan Lang, Donna Marsh, Niran Almudhfar, Catherine Novick, Yasaman Mortazavi, Shimin Zhang, Mahmoud M. AbdElwakil, Luis R. Sandoval, Sidney Hwang, Simon N. Chu, Hyuncheol Jung, Chang Liu, Devesh Sharma, Travis McCreary, Zhongmei Li, Ansuman T. Satpathy, Julia Carnevale, Rachel L. Rutishauser, M. Kyle Cromer, Kole T. Roybal, Stacie E. Dodgson, Jennifer A. Doudna, Aravind Asokan, Justin Eyquem. In vivo site-specific engineering to reprogram T cells. Nature, 2026; 652 (8110): 712 DOI: 10.1038/s41586-026-10235-x
+Cite This Page:

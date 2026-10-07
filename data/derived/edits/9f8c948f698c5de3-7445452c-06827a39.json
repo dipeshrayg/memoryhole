@@ -1,0 +1,84 @@
+{
+ "id": "9f8c948f698c5de3-7445452c-06827a39",
+ "url": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-10-07T13:15:32Z",
+ "date": "2026-10-07",
+ "old_title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+ "new_title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+ "old_text": "Cable lobby groups notified the Federal Communications Commission that they will sue the agency to block its controversial repeal of the National Television Ownership Rule, which limits the number of broadcast TV stations a single company may own.\nThe cable groups said that larger broadcast TV station groups will have leverage to demand higher retransmission fees from TV providers, resulting in \"higher monthly TV bills for consumers.\" They said the FCC repeal order \"arbitrarily and capriciously ignores the harms that will surely follow from allowing broadcast station groups to exceed the National Cap.\"\nThe cable lobby groups represent top providers Comcast, Charter, and various other cable operators. Top cable companies have also expanded through mergers. Charter completed a purchase of Cox in August after the FCC rejected protests by advocacy groups that said the cable deal \"would create unchecked gatekeeper power over Internet distribution\" and make it easier for the biggest cable companies to raise prices.\nThe FCC voted to eliminate the TV ownership rule on August 6, and finally published the repeal order on its website on October 1 after an unusually long delay. The delay may be explained by the FCC shoring up its legal arguments in anticipation of lawsuits because the agency is claiming authority to repeal a limit set by Congress over 20 years ago.\nFCC Chairman Brendan Carr has said that replacing a strict ownership limit with a \"case-by-case review\" of each proposed merger will let the agency approve deals that promote the public interest while rejecting deals that do not. Given Carr's history of threatening to revoke licenses from broadcasters disfavored by President Trump, case-by-case reviews would let Carr influence news coverage of the administration by allowing favored broadcast companies to expand.\nCable lobby petition\nThe TV ownership rule prohibits any single broadcast station owner from reaching more than 39 percent of all TV households in the US. Congress directed the FCC to set the cap at 39 percent in 2004. On Friday, cable lobby groups submitted a petition asking the FCC to keep the TV ownership cap in place until litigation over the FCC's authority to repeal the rule is over.",
+ "new_text": "Cable lobby groups notified the Federal Communications Commission that they will sue the agency to block its controversial repeal of the National Television Ownership Rule, which limits the number of broadcast TV stations a single company may own.\nThe cable groups said that larger broadcast TV station groups will have leverage to demand higher retransmission fees from TV providers, resulting in \"higher monthly TV bills for consumers.\" They said the FCC repeal order \"arbitrarily and capriciously ignores the harms that will surely follow from allowing broadcast station groups to exceed the National Cap.\"\nThe cable lobby groups represent top providers Comcast, Charter, and various other cable operators. Top cable companies have also expanded through mergers. Charter completed a purchase of Cox in August after the FCC rejected protests by advocacy groups that said the cable deal \"would create unchecked gatekeeper power over Internet distribution\" and make it easier for the biggest cable companies to raise prices.\nThe FCC voted to eliminate the TV ownership rule on August 6, and finally published the repeal order on its website on October 1 after an unusually long delay. The delay may be explained by the extra time required for the FCC to shore up its legal arguments in anticipation of lawsuits that could result from the agency's claims of authority to repeal a limit set by Congress over 20 years ago.\nFCC Chairman Brendan Carr has said that replacing a strict ownership limit with a \"case-by-case review\" of each proposed merger will let the agency approve deals that promote the public interest while rejecting deals that do not. Given Carr's history of threatening to revoke licenses from broadcasters disfavored by President Trump, case-by-case reviews would let Carr influence news coverage of the administration by allowing favored broadcast companies to expand.\nCable lobby petition\nThe TV ownership rule prohibits any single broadcast station owner from reaching more than 39 percent of all TV households in the US. Congress directed the FCC to set the cap at 39 percent in 2004. On Friday, cable lobby groups submitted a petition asking the FCC to keep the TV ownership cap in place until litigation over the FCC's authority to repeal the rule is over.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "after an unusually long delay. The delay may be explained by the"
+    ],
+    [
+     "ins",
+     "extra time required for the"
+    ],
+    [
+     "eq",
+     "FCC"
+    ],
+    [
+     "del",
+     "shoring"
+    ],
+    [
+     "ins",
+     "to shore"
+    ],
+    [
+     "eq",
+     "up its legal arguments in anticipation of lawsuits"
+    ],
+    [
+     "del",
+     "because"
+    ],
+    [
+     "ins",
+     "that could result from"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "agency is claiming"
+    ],
+    [
+     "ins",
+     "agency's claims of"
+    ],
+    [
+     "eq",
+     "authority to repeal a limit set by Congress over 20 years ago."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0531,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9973,
+ "adjudicated_by": "rules"
+}

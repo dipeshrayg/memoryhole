@@ -1,0 +1,93 @@
+{
+ "id": "939bf49c6093ee55-5604a127-fe2a31d6",
+ "url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
+ "domain": "www.cnbc.com",
+ "source": "CNBC Markets",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-10-07T13:10:32Z",
+ "date": "2026-10-07",
+ "old_title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
+ "new_title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
+ "old_text": "The U.S. trade deficit widened sharply in August amid an influx of goods related to the artificial intelligence buildout and the vagaries of import tariffs, the Commerce Department reported Tuesday.\nImports swelled 4.3% for the month, pushing the total imbalance to $105.6 billion. That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.\nIt also was the steepest deficit since the all-time gap in March 2025, recorded just before President Donald Trump's \"liberation day\" announcement of reciprocal tariffs against U.S. trading partners.\nThough the monthly total was up, the year-to-date deficit of $138.2 billion was off nearly 20% from the same period a year ago.",
+ "new_text": "The U.S. trade deficit widened sharply in August amid an influx of goods related to the artificial intelligence build-out and the vagaries of import tariffs, the Commerce Department reported Tuesday.\nImports swelled 4.3% for the month, pushing the total imbalance to $105.6 billion. That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.\nIt also was the steepest deficit since the all-time gap in March 2025, recorded just before President Donald Trump's \"liberation day\" announcement of \"reciprocal\" tariffs against U.S. trading partners.\nThough the monthly total was up, the year-to-date deficit of $138.2 billion was off nearly 20% from the same period a year ago.\n\"Rising prices overstate the moves, but nonetheless net trade is set to drag on Q3 GDP growth,\" said Oren Klachkin, financial economist at Nationwide. \"We see this as a sign of strong domestic demand, not economic weakness.\"\nImports as a rule generally subtract from gross domestic product calculations. However, if the imports reflect stronger demand and consumption, they can be offset elsewhere.\nNevertheless, Goldman Sachs cut its tracking estimate for third-quarter economic growth to 3.1%, down 0.3 percentage point from its prior estimate. The Atlanta Federal Reserve's GDPNow tracker lowered its estimate to 3.7% following the trade report, down 0.1 percentage point from the last update.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "in August amid an influx of goods related to the artificial intelligence"
+    ],
+    [
+     "del",
+     "buildout"
+    ],
+    [
+     "ins",
+     "build-out"
+    ],
+    [
+     "eq",
+     "and the vagaries of import tariffs, the Commerce Department reported Tuesday. Imports"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "March 2025, recorded just before President Donald Trump's \"liberation day\" announcement of"
+    ],
+    [
+     "del",
+     "reciprocal"
+    ],
+    [
+     "ins",
+     "\"reciprocal\""
+    ],
+    [
+     "eq",
+     "tariffs against U.S. trading partners. Though the monthly total was up, the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "billion was off nearly 20% from the same period a year ago."
+    ],
+    [
+     "ins",
+     "\"Rising prices overstate the moves, but nonetheless net trade is set to drag on Q3 GDP growth,\" said Oren Klachkin, financial economist at Nationwide. \"We see this as a sign of strong domestic demand, not economic weakness.\" Imports as a rule generally subtract from gross domestic product calculations. However, if the imports reflect stronger demand and consumption, they can be offset elsewhere. Nevertheless, Goldman Sachs cut its tracking estimate for third-quarter economic growth to 3.1%, down 0.3 percentage point from its prior estimate. The Atlanta Federal Reserve's GDPNow tracker lowered its estimate to 3.7% following the trade report, down 0.1 percentage point from the last update."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.9649,
+  "numbers_changed": [
+   "0.1",
+   "0.3",
+   "3",
+   "3.1",
+   "3.7"
+  ],
+  "market_figures_changed": [
+   "3.1%",
+   "3.7%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.25,
+ "similarity": 0.908,
+ "adjudicated_by": "rules"
+}

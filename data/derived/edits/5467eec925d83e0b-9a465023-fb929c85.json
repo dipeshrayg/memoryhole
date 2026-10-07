@@ -1,0 +1,52 @@
+{
+ "id": "5467eec925d83e0b-9a465023-fb929c85",
+ "url": "https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-07T12:59:31Z",
+ "date": "2026-10-07",
+ "old_title": "Northern France: At the scene of protests on the streets of Lille",
+ "new_title": "Northern France: At the scene of protests on the streets of Lille",
+ "old_text": "Watch: At the scene of protests on the streets of Lille\nStudents, their parents and unions are protesting across France, demanding better investment in high schools.\nIt marks the latest day of demonstrations over the past week, some of which have turned violent as protesters and authorities clashed.\nThe BBC's Nick Beake reports from Lille in the north of France.",
+ "new_text": "Watch: Bin on fire at school protests on the streets of Lille\nStudents, their parents and unions are protesting across France, demanding better investment in high schools.\nIt marks the latest day of demonstrations over the past week, some of which have turned violent as protesters and authorities clashed.\nThe BBC's Nick Beake reports from Lille in the north of France.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Watch:"
+    ],
+    [
+     "del",
+     "At the scene of"
+    ],
+    [
+     "ins",
+     "Bin on fire at school"
+    ],
+    [
+     "eq",
+     "protests on the streets of Lille Students, their parents and unions are"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.15,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.92,
+ "similarity": 0.8167,
+ "adjudicated_by": "rules"
+}
