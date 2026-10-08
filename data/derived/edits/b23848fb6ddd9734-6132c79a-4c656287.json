@@ -1,0 +1,52 @@
+{
+ "id": "b23848fb6ddd9734-6132c79a-4c656287",
+ "url": "https://www.bbc.co.uk/sport/formula1/articles/cm0qkdk37gy0o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-08T13:19:15Z",
+ "date": "2026-10-08",
+ "old_title": "Singapore Grand Prix: George Russell to start from back of grid after penalty",
+ "new_title": "Singapore Grand Prix: George Russell to start from back of grid after penalty",
+ "old_text": "- Published\nBritain's George Russell will start from the back of the grid in Sunday's Singapore Grand Prix.\nThe Mercedes driver has received a power-unit penalty from a dramatic Bahrain Grand Prix in Malaysia last Sunday.\nThe 28-year-old qualified in eighth but was heading for a podium finish before an engine failure forced him to retire from third place with five laps remaining.\nMercedes team principal Toto Wolff has confirmed that Russell needs to take a new power unit this weekend, putting him over the limit on several components and meaning he will be penalised in Singapore.\nRussell's retirement last Sunday meant Kimi Antonelli, who finished second behind Max Verstappen, took a big leap towards his first Formula 1 world title as the Italian is now 84 points ahead of his Mercedes team-mate.\nThere are six or seven races remaining, depending on whether F1 gets the security reassurances it needs for Qatar and Abu Dhabi, in the context of the war in the Middle East.\n\"[Russell's penalty] is particularly frustrating given the way he drove last weekend and the result he deserved to be fighting for,\" said Wolff.\n\"Unfortunately, these things are part of the sport and our focus now is on giving him the best possible car and opportunities to fight back through the field.\"\nThe engine penalty is a particularly large blow for Russell as overtaking is notoriously difficult in Singapore.\nHis title hopes are already effectively over with either six or seven races still o go, even if he still has a mathematical chance of catching Antonelli.\nBut it means his chances of cutting the Italianâs lead are drastically reduced, even if Antonelli runs into trouble.\nMercedes had no choice but to fit a new engine for Russell in Singapore because he had no usable engines remaining in his allocation.\nAfter early season reliability problems, they were all either broken or too high on mileage.\nAntonelli won the Italian Grand Prix last month having taken a similar penalty, while this is the latest setback in a season of frustrating mechanical issues for Russell, who won last year's Singapore Grand Prix.\nExtra points are on offer this weekend as Singapore hosts the sixth and final sprint event of the season. Russell's penalty will apply to Sunday's Grand Prix and not the sprint race on Saturday.\n\"We have spent the days since [last Sunday] working hard to understand why our performance was not where it should have been,\" Wolff added.\n\"Singapore gives us an immediate opportunity to continue that work.\n\"We need to keep learning and score the strongest result we can with both cars.\"",
+ "new_text": "- Published\nBritain's George Russell will start from the back of the grid in Sunday's Singapore Grand Prix.\nThe Mercedes driver has received a power-unit penalty from a dramatic Bahrain Grand Prix in Malaysia last Sunday.\nThe 28-year-old qualified in eighth but was heading for a podium finish before an engine failure forced him to retire from third place with five laps remaining.\nMercedes team principal Toto Wolff has confirmed that Russell needs to take a new power unit this weekend, putting him over the limit on several components and meaning he will be penalised in Singapore.\nRussell's retirement last Sunday meant Kimi Antonelli, who finished second behind Max Verstappen, took a big leap towards his first Formula 1 world title as the Italian is now 84 points ahead of his Mercedes team-mate.\nThere are six or seven races remaining, depending on whether F1 gets the security reassurances it needs for Qatar and Abu Dhabi, in the context of the war in the Middle East.\n\"[Russell's penalty] is particularly frustrating given the way he drove last weekend and the result he deserved to be fighting for,\" said Wolff.\n\"Unfortunately, these things are part of the sport and our focus now is on giving him the best possible car and opportunities to fight back through the field.\"\nThe engine penalty is a particularly large blow for Russell as overtaking is notoriously difficult in Singapore.\nHis title hopes are already effectively over, even if he still has a mathematical chance of catching Antonelli.\nBut it means his chances of cutting the Italianâs lead are drastically reduced, even if Antonelli runs into trouble.\nMercedes had no choice but to fit a new engine for Russell in Singapore because he had no usable engines remaining in his allocation.\nAfter early season reliability problems, they were all either broken or too high on mileage.\nAntonelli won the Italian Grand Prix last month having taken a similar penalty, while this is the latest setback in a season of frustrating mechanical issues for Russell, who won last year's Singapore Grand Prix.\nExtra points are on offer this weekend as Singapore hosts the sixth and final sprint event of the season. Russell's penalty will apply to Sunday's Grand Prix and not the sprint race on Saturday.\n\"We have spent the days since [last Sunday] working hard to understand why our performance was not where it should have been,\" Wolff added.\n\"Singapore gives us an immediate opportunity to continue that work.\n\"We need to keep learning and score the strongest result we can with both cars.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "overtaking is notoriously difficult in Singapore. His title hopes are already effectively"
+    ],
+    [
+     "del",
+     "over with either six or seven races still o go,"
+    ],
+    [
+     "ins",
+     "over,"
+    ],
+    [
+     "eq",
+     "even if he still has a mathematical chance of catching Antonelli. But"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0252,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

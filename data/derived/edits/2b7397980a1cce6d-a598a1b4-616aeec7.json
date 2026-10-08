@@ -1,0 +1,73 @@
+{
+ "id": "2b7397980a1cce6d-a598a1b4-616aeec7",
+ "url": "https://www.abc.net.au/news/2026-10-07/nobel-chemistry-prize-2026-non-linear-effects-autocatalysis/107240878",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-08T13:11:53Z",
+ "date": "2026-10-08",
+ "old_title": "Nobel Prize in Chemistry awarded to duo for 'spectacular' chemical reaction",
+ "new_title": "Nobel Prize in Chemistry awarded to duo for 'spectacular' chemical reaction",
+ "old_text": "Nobel Prize in Chemistry awarded to two scientists for 'spectacular' chemical reaction\nIn short:\nHenri B. Kagan and Kenso Soai have won the Nobel Prize in Chemistry.\nThey won for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis.\nWhat's next?\nThe literature prize is set to be awarded on Thursday, the peace prize on Friday, and economics prize on Monday.",
+ "new_text": "In short:\nHenri B Kagan and Kenso Soai have won the Nobel Prize in Chemistry.\nThey won for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis.\nWhat's next?\nThe literature prize is set to be awarded on Thursday, the peace prize on Friday, and economics prize on Monday.\nHenri B Kagan and Kenso Soai have won the Nobel Prize in Chemistry for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis.\n\"Henri Kagan and Kenso Soai have provided a solution to a chemical mystery that is over a century old: how homochirality can emerge spontaneously,\" Heiner Linke, chair of the Nobel Committee for Chemistry, said in a press release.\n\"The chemical reactions they have developed are spectacular.\"\nDr Kagan, born in France, is affiliated with Université Paris-Sud in Orsay, France, and Dr Soai, born in Japan, with the Tokyo University of Science.\nThe duo's research into molecules' mirror images has \"been decisive for chemists who design reactions for the manufacture of pharmaceuticals\", the press release said.\nMany molecules of life come in versions that look alike but are not exactly identical, like right and left hands, a property known as chirality.\nOne mirror-image of the chemical carvone smells like mint, for example, while the other has a whiff of caraway.\nWhen designing drugs to treat diseases, scientists want to be selective about which mirror-image they are getting: the version of a molecule that will treat a cold, not the kind that will make the sniffles worse.\nHaving uniform chirality, or only one version, is known as homochirality.\nDr Kagan and Dr Soai found ways to make chemistry pick a side, designing and manipulating reactions to produce only the desired mirror image.\nThe so-called \"Soai reaction\" is named for the experiment.\nLast year, three scientists won the chemistry Nobel for their development of new molecular structures that can trap vast quantities of gas inside, laying the groundwork to potentially suck greenhouse gases out of the atmosphere or harvest moisture from desert environments.\nThis year's prizes began with the Nobel for medicine, awarded on Monday to three scientists whose work led to a tool that uses light to help unravel how the brain works.\nThe physics award on Tuesday recognised a scientist's efforts to demystify a rare group of neutrinos.\nThe literature prize is set to be awarded on Thursday. After Friday's peace prize is awarded, the Nobel Memorial Prize in Economic Sciences will be announced on Monday.\nThe prize money this year is 12 million Swedish kronor ($1.71 million), whether for an individual, a small group of laureates or an organisation.\nAP",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Nobel Prize in Chemistry awarded to two scientists for 'spectacular' chemical reaction"
+    ],
+    [
+     "eq",
+     "In short: Henri"
+    ],
+    [
+     "del",
+     "B."
+    ],
+    [
+     "ins",
+     "B"
+    ],
+    [
+     "eq",
+     "Kagan and Kenso Soai have won the Nobel Prize in Chemistry. They"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "on Thursday, the peace prize on Friday, and economics prize on Monday."
+    ],
+    [
+     "ins",
+     "Henri B Kagan and Kenso Soai have won the Nobel Prize in Chemistry for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis. \"Henri Kagan and Kenso Soai have provided a solution to a chemical mystery that is over a century old: how homochirality can emerge spontaneously,\" Heiner Linke, chair of the Nobel Committee for Chemistry, said in a press release. \"The chemical reactions they have developed are spectacular.\" Dr Kagan, born in France, is affiliated with Université Paris-Sud in Orsay, France, and Dr Soai, born in Japan, with the Tokyo University of Science. The duo's research into molecules' mirror images has \"been decisive for chemists who design reactions for the manufacture of pharmaceuticals\", the press release said. Many molecules of life come in versions that look alike but are not exactly identical, like right and left hands, a property known as chirality. One mirror-image of the chemical carvone smells like mint, for example, while the other has a whiff of caraway. When designing drugs to treat diseases, scientists want to be selective about which mirror-image they are getting: the version of a molecule that will treat a cold, not the kind that will make the sniffles worse. Having uniform chirality, or only one version, is known as homochirality. Dr Kagan and Dr Soai found ways to make chemistry pick a side, designing and manipulating reactions to produce only the desired mirror image. The so-called \"Soai reaction\" is named for the experiment. Last year, three scientists won the chemistry Nobel for their development of new molecular structures that can trap vast quantities of gas inside, laying the groundwork to potentially suck greenhouse gases out of the atmosphere or harvest moisture from desert environments. This year's prizes began with the Nobel for medicine, awarded on Monday to three scientists whose work led to a tool that uses light to help unravel how the brain works. The physics award on Tuesday recognised a scientist's efforts to demystify a rare group of neutrinos. The literature prize is set to be awarded on Thursday. After Friday's peace prize is awarded, the Nobel Memorial Prize in Economic Sciences will be announced on Monday. The prize money this year is 12 million Swedish kronor ($1.71 million), whether for an individual, a small group of laureates or an organisation. AP"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 6.3333,
+  "numbers_changed": [
+   "1.71",
+   "12"
+  ],
+  "market_figures_changed": [
+   "$1.71 m"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.105,
+ "similarity": 0.8609,
+ "adjudicated_by": "rules"
+}

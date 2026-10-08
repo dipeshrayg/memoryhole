@@ -1,0 +1,292 @@
+{
+ "id": "ef60e61e1385de6c-5943fc7f-89ad0f6e",
+ "url": "https://www.theguardian.com/sport/2026/oct/07/england-rugby-union-twickenham-ticket-sales-nations-championship",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-08T13:20:33Z",
+ "date": "2026-10-08",
+ "old_title": "England hit by slump in Twickenham ticket sales for Nations Championship finals",
+ "new_title": "Demand for Springboks and All Blacks Twickenham tickets outstrips hosts England",
+ "old_text": "England have been outstripped by South Africa and New Zealand in demand for tickets for the Nations Championship finals weekend at their own stadium in an embarrassing snub for Steve Borthwick's side.\nSix rankings matches will all take place at Twickenham next month - two on Friday, two on Saturday and two on Sunday - in a culmination of the competition's first edition. The grand finale on Sunday pits the top nation in the Northern Hemisphere pool against their southern counterparts. Second plays second, third plays third and so on.\nTickets are available for each day while bundles for all three days, or two of the three. To guarantee a ticket for a particular nation's rankings match, \"support your team\" tickets can also be bought.\nThose for South Africa, the two-times world champions who sit top of the Southern Hemisphere table at the halfway point, as well as New Zealand have sold out. But those for England were still available on Wednesday for £164.80. Tickets were also still available at the same price for the other nine competing nations.\nIt is understood that the allocation for \"support your own\" tickets was increased last week due to demand, but interest in the Springboks and the All Blacks has surpassed that in England. In total, around 60-65% of tickets have been sold for finals weekend following a spike in interest after the July fixtures with organisers bullish that their promise to stage a \"festival of rugby\" is resonating.\nEngland play three pool matches - against Australia, Japan and New Zealand - before the finals weekend which may have diluted interest. However, that demand has been higher to see the Springboks and the All Blacks than Borthwick's side play at Twickenham suggests is hardly a ringing endorsement from supporters. England's last appearance at Twickenham resulted in a calamitous 42-21 defeat by Ireland during their worst Six Nations campaign.\nTwickenham has come to be a home from home for South Africa, who have appeared there in fixtures against Argentina, Wales and New Zealand in recent years. There is a sizeable Kiwi expat population in London and the Springboks' thumping 2023 World Cup warm-up win over the All Blacks was witnessed by a crowd of more than 80,000.\nThat was the last Test held at Twickenham on a Friday night and the Rugby Football Union will be anxious to see how November's double header plays out. The union is awaiting Richmond council's decision over its planning application to host more concerts at Twickenham.\nAccording to submissions by residents in opposition to the RFU's proposal, that Friday night match between South Africa and New Zealand was blighted by numerous examples of anti-social behaviour. Richmond council was initially due to return its decision this week but the worry at the RFU is that it will not do so until after this November's Nations Championship fixtures.\nMeanwhile, the England assistant coach Joe El-Abd will leave his position after next year's World Cup to take up a post with Clermont. El-Abd, a close confidant of Borthwick, joined the set-up in the autumn of 2024, initially as defence coach.\nA year later, El-Abd was demoted to assisting with the forwards and contact skills. He has been regularly linked with a return to France - he was previously the director of rugby at Oyonnax - and is now set to do so at the culmination of England's campaign in Australia next year.",
+ "new_text": "Demand for South Africa and New Zealand tickets for the Nations Championship finals weekend has been greater than those for England despite Twickenham hosting the inaugural competition's finale.\nSix rankings matches will all take place at Twickenham next month - two on Friday, two on Saturday and two on Sunday - in a culmination of the competition's first edition. The grand finale on Sunday pits the top nation in the northern hemisphere pool against their southern counterparts. Second plays second, third plays third and so on.\nTickets are available for each day, as are bundles for all three days, or two of the three. To guarantee a ticket for a particular nation's rankings match, \"support your team\" tickets can also be bought.\nThose for South Africa, the winners of the past two World Cups and top of the southern hemisphere table at the halfway point, as well as New Zealand have sold out. But those for England were still available on Wednesday for £164.80. Tickets were also still available at the same price for the other nine competing nations.\nIn total, 60-65% of tickets have been sold for finals weekend following a spike in interest after the July fixtures with organisers bullish that their promise to stage a \"festival of rugby\" is resonating.\nEngland play three pool matches - against Australia, Japan and New Zealand - before the finals weekend, which may explain why demand has been higher to see the Springboks and the All Blacks in action. England's last appearance at Twickenham was calamitous, however, a 42-21 defeat by Ireland during their worst Six Nations campaign.\nTwickenham has come to be a home from home for South Africa, who have appeared there in fixtures against Argentina, Wales and New Zealand in recent years. There is a sizeable New Zealander expat population in London and the Springboks' thumping 2023 World Cup warm-up win over the All Blacks was witnessed by a crowd of more than 80,000.\nThat was the last Test held at Twickenham on a Friday night and the Rugby Football Union will be anxious to see how November's double header plays out. The union is awaiting Richmond council's decision over its planning application to host more concerts at Twickenham.\nAccording to submissions by residents in opposition to the RFU's proposal, that Friday night match between South Africa and New Zealand was blighted by numerous examples of antisocial behaviour. Richmond council was initially due to return its decision this week but the worry at the RFU is that it will not do so until after this November's Nations Championship fixtures.\nMeanwhile, the England assistant coach Joe El-Abd will leave his position after next year's World Cup to take up a post with Clermont. El-Abd, a close confidant of Borthwick, joined the setup in the autumn of 2024, initially as defence coach.\nA year later, El-Abd was demoted to assisting with the forwards and contact skills. He has been regularly linked with a return to France - he was previously the director of rugby at Oyonnax - and is now set to do so at the culmination of England's campaign in Australia next year.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "England have been outstripped by"
+    ],
+    [
+     "ins",
+     "Demand for"
+    ],
+    [
+     "eq",
+     "South Africa and New Zealand"
+    ],
+    [
+     "del",
+     "in demand for"
+    ],
+    [
+     "eq",
+     "tickets for the Nations Championship finals weekend"
+    ],
+    [
+     "del",
+     "at their own stadium in an embarrassing snub"
+    ],
+    [
+     "ins",
+     "has been greater than those"
+    ],
+    [
+     "eq",
+     "for"
+    ],
+    [
+     "del",
+     "Steve Borthwick's side."
+    ],
+    [
+     "ins",
+     "England despite Twickenham hosting the inaugural competition's finale."
+    ],
+    [
+     "eq",
+     "Six rankings matches will all take place at Twickenham next month -"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "edition. The grand finale on Sunday pits the top nation in the"
+    ],
+    [
+     "del",
+     "Northern Hemisphere"
+    ],
+    [
+     "ins",
+     "northern hemisphere"
+    ],
+    [
+     "eq",
+     "pool against their southern counterparts. Second plays second, third plays third and so on. Tickets are available for each"
+    ],
+    [
+     "del",
+     "day while"
+    ],
+    [
+     "ins",
+     "day, as are"
+    ],
+    [
+     "eq",
+     "bundles for all three days, or two of the three. To guarantee"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "your team\" tickets can also be bought. Those for South Africa, the"
+    ],
+    [
+     "del",
+     "two-times world champions who sit"
+    ],
+    [
+     "ins",
+     "winners of the past two World Cups and"
+    ],
+    [
+     "eq",
+     "top of the"
+    ],
+    [
+     "del",
+     "Southern Hemisphere"
+    ],
+    [
+     "ins",
+     "southern hemisphere"
+    ],
+    [
+     "eq",
+     "table at the halfway point, as well as New Zealand have sold"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "still available at the same price for the other nine competing nations."
+    ],
+    [
+     "del",
+     "It is understood that the allocation for \"support your own\" tickets was increased last week due to demand, but interest in the Springboks and the All Blacks has surpassed that in England."
+    ],
+    [
+     "eq",
+     "In total,"
+    ],
+    [
+     "del",
+     "around"
+    ],
+    [
+     "eq",
+     "60-65% of tickets have been sold for finals weekend following a spike"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "matches - against Australia, Japan and New Zealand - before the finals"
+    ],
+    [
+     "del",
+     "weekend"
+    ],
+    [
+     "ins",
+     "weekend,"
+    ],
+    [
+     "eq",
+     "which may"
+    ],
+    [
+     "del",
+     "have diluted interest. However, that"
+    ],
+    [
+     "ins",
+     "explain why"
+    ],
+    [
+     "eq",
+     "demand has been higher to see the Springboks and the All Blacks"
+    ],
+    [
+     "del",
+     "than Borthwick's side play at Twickenham suggests is hardly a ringing endorsement from supporters."
+    ],
+    [
+     "ins",
+     "in action."
+    ],
+    [
+     "eq",
+     "England's last appearance at Twickenham"
+    ],
+    [
+     "del",
+     "resulted in"
+    ],
+    [
+     "ins",
+     "was calamitous, however,"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "calamitous"
+    ],
+    [
+     "eq",
+     "42-21 defeat by Ireland during their worst Six Nations campaign. Twickenham has"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Argentina, Wales and New Zealand in recent years. There is a sizeable"
+    ],
+    [
+     "del",
+     "Kiwi"
+    ],
+    [
+     "ins",
+     "New Zealander"
+    ],
+    [
+     "eq",
+     "expat population in London and the Springboks' thumping 2023 World Cup warm-up"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "between South Africa and New Zealand was blighted by numerous examples of"
+    ],
+    [
+     "del",
+     "anti-social"
+    ],
+    [
+     "ins",
+     "antisocial"
+    ],
+    [
+     "eq",
+     "behaviour. Richmond council was initially due to return its decision this week"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "a post with Clermont. El-Abd, a close confidant of Borthwick, joined the"
+    ],
+    [
+     "del",
+     "set-up"
+    ],
+    [
+     "ins",
+     "setup"
+    ],
+    [
+     "eq",
+     "in the autumn of 2024, initially as defence coach. A year later,"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2294,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.488,
+ "similarity": 0.9136,
+ "adjudicated_by": "rules"
+}

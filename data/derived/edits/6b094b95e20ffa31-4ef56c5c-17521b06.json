@@ -1,0 +1,52 @@
+{
+ "id": "6b094b95e20ffa31-4ef56c5c-17521b06",
+ "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-08T13:07:23Z",
+ "date": "2026-10-08",
+ "old_title": "Former German spy chief arrested for espionage and treason",
+ "new_title": "Former German spy chief arrested for espionage and treason",
+ "old_text": "- Published\nFormer German spy chief August Hanning has been arrested on suspicion of espionage, treason and obtaining classified information for a foreign power, the German Federal Prosecutor's Office says.\nHanning headed the Federal Intelligence Service (BND) from 1998 to 2005 and has since been working as a private consultant.\nProsecutors allege that he used classified intelligence to \"draft an analysis\" for one foreign intelligence service and maintained contact with another foreign spying service. Investigators have not disclosed which foreign powers were involved.\nPolice also arrested former BND employee Manfred D, accusing him of passing Hanning about 2,000 classified documents for money.\nManfred D, who was Hanning's bureau chief and remained in the BND until this year, is charged with aiding and abetting attempted treason and treasonous espionage.\nLocal media reported Hanning was arrested at his home in Nordwalde near MÃ1⁄4nster while Manfred D was arrested in Bavaria. Hanning is due in court on Wednesday and Manfred D will appear on Tuesday.\nProsecutors say Manfred D, who also served as the chief of staff for Hanning's successors between 2012 and 2026, used his role to gain access to highly confidential information which he then passed on to Hanning \"in exchange for remuneration\".\n\"The current findings suggest that, over the years, Manfred D provided Hanning with approximately 2,000 documents, many of which contained classified information to be used exclusively by the Federal Intelligence Service for internal purposes,\" the statement says.\n\"On one occasion, Hanning used classified intelligence ... to draft an analysis for an officer of a foreign intelligence service,\" prosecutors said, noting it was not clear if \"the material reached the intended recipient\".\nHanning is also accused of being \"in close contact with a representative of another foreign intelligence service, to whom he passed on political information, partially based on material provided by Manfred D, for several years\".\nLocal media say Hanning's alleged possession of intelligence documents came to light during a separate case relating to German steakhouse heiress Christina Block.\nHamburg public prosecutor's office accused Block of orchestrating the kidnapping of her two youngest children in 2023 due to a custody dispute. Investigators allege Hanning was involved in an earlier attempted kidnapping of the children, which he denies.\nState criminal police officers reportedly discovered an electronic data storage device containing sensitive information including recent BND documents.\nIt is not the first time the BND has faced similar controversy. A high-ranking German intelligence officer was charged with treason in 2023 for allegedly passing state secrets to Russia.\nProsecutors alleged Carsten L shared intelligence about the war in Ukraine and the Wagner mercenary group and received roughly â¬400,000 ($450,000; Â£340,000). His trial is ongoing.",
+ "new_text": "- Published\nFormer German spy chief August Hanning has been arrested on suspicion of espionage, treason and obtaining classified information for a foreign power, the German Federal Prosecutor's Office says.\nHanning headed the Federal Intelligence Service (BND) from 1998 to 2005 and has since been working as a private consultant.\nProsecutors allege that he used classified intelligence to \"draft an analysis\" for one foreign intelligence service and maintained contact with another foreign spying service. Investigators have not disclosed which foreign powers were involved.\nPolice also arrested former BND employee Manfred D, accusing him of passing Hanning about 2,000 classified documents for money.\nManfred D, who was Hanning's bureau chief and remained in the BND until this year, is charged with aiding and abetting attempted treason and treasonous espionage.\nLocal media reported Hanning was arrested at his home in Nordwalde near MÃ1⁄4nster, and Manfred D was arrested in Bavaria. Hanning is due in court on Wednesday and Manfred D will appear on Tuesday.\nProsecutors say Manfred D, who also served as the chief of staff for Hanning's successors between 2012 and 2026, used his role to gain access to highly confidential information which he then passed on to Hanning \"in exchange for remuneration\".\n\"The current findings suggest that, over the years, Manfred D provided Hanning with approximately 2,000 documents, many of which contained classified information to be used exclusively by the Federal Intelligence Service for internal purposes,\" the statement says.\n\"On one occasion, Hanning used classified intelligence ... to draft an analysis for an officer of a foreign intelligence service,\" prosecutors said, noting it was not clear if \"the material reached the intended recipient\".\nHanning is also accused of being \"in close contact with a representative of another foreign intelligence service, to whom he passed on political information, partially based on material provided by Manfred D, for several years\".\nLocal media say Hanning's alleged possession of intelligence documents came to light during a separate case relating to German steakhouse heiress Christina Block.\nHamburg public prosecutor's office accused Block of orchestrating the kidnapping of her two youngest children in 2023 due to a custody dispute. Investigators allege Hanning was involved in an earlier attempted kidnapping of the children, which he denies.\nState criminal police officers reportedly discovered an electronic data storage device containing sensitive information including recent BND documents.\nIt is not the first time the BND has faced similar controversy. A high-ranking German intelligence officer was charged with treason in 2023 for allegedly passing state secrets to Russia.\nProsecutors alleged Carsten L shared intelligence about the war in Ukraine and the Wagner mercenary group and received roughly â¬400,000 ($450,000; Â£340,000). His trial is ongoing.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Local media reported Hanning was arrested at his home in Nordwalde near"
+    ],
+    [
+     "del",
+     "MÃ1⁄4nster while"
+    ],
+    [
+     "ins",
+     "MÃ1⁄4nster, and"
+    ],
+    [
+     "eq",
+     "Manfred D was arrested in Bavaria. Hanning is due in court on"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.009,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9989,
+ "adjudicated_by": "rules"
+}
