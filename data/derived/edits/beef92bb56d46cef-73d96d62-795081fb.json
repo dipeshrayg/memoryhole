@@ -1,0 +1,399 @@
+{
+ "id": "beef92bb56d46cef-73d96d62-795081fb",
+ "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-10-09T13:06:27Z",
+ "date": "2026-10-09",
+ "old_title": "Hurricane Isaias: Atlantic sees first hurricane of 2026 season",
+ "new_title": "Hurricane Isaias strengthens to a major category three storm",
+ "old_text": "- Published\nIsaias has strengthened to the first hurricane of the Atlantic season this year and will make landfall over the coming days.\nEarly on Thursday morning it became a category one hurricane with sustained wind speeds in excess of 80mph (129km/h)\nIt has the potential to bring damaging winds, torrential rain and a storm surge to parts of the US Gulf Coast with landfall expected on Friday or Saturday. Hurricane and Storm Surge Watches have been issued.\nIsaias brings an end to the lack of hurricanes that has led to a record-breakingly quiet Atlantic season so far with development suppressed by the growing El NiÃ±o pattern.\nHow strong will Isaias get?\nIn its latest update, the US National Hurricane Center estimates that Hurricane Isaias will intensify further, reaching a strong category two by Friday morning with sustained winds of around 110mph (177km/h)\nParts of Mexico will feel the first impacts as the storm swirls out at sea, with 4in (100mm) of rain possible around the Bay of Campeche and the Yucatan Peninsula, accompanied by strong winds.\nIsaias will then make landfall on the Gulf Coast, most likely around the Florida Panhandle and Mississippi border in the early hours of Saturday local time.\nAfter landfall it will head north into Alabama and more of Missouri, and while weaken to a tropical storm, still bring some dangerous winds and flooding rains throughout Saturday.\nBetween 3 and 6in (75-150mm) of rain could fall across the Gulf Coast, from south-east Louisiana to north-west Florida.\nA few places could see up to 10in (250mm) with possible flash flooding, especially in urban areas, and the risk of isolated river flooding.\nThe US National Weather Service has issued Hurricane and Storm Surge Watches along the Gulf Coast.\nFlorida Governor Ron DeSantis has declared a state of emergency across 25 counties over concerns about potential impacts.\nAs the storm moves further inland and loses contact with its warm water fuel source it will weaken but it is still expected to bring some potentially disruptive wet weather for large swathes of the south-east USA as far north as the Tennessee Valley and the Carolinas.\nEl NiÃ±o brings an eerily quiet hurricane season so far\nForecasters in the US had predicted the 2026 hurricane season would be quieter than average citing the developing strong El NiÃ±o in the Pacific Ocean.\nAn El NiÃ±o weather event can lead to more wind shear over the Caribbean and Atlantic, which tears storms apart before they have time to develop.\nWhilst lowering the odds of hurricane formation, it does not make it impossible.\nIsaias has managed to form in an area with limited wind shear and very high sea temperatures - currently 30 or 31C - giving it the fuel it needs to grow.\nForecasters expect it to encounter more wind shear as it moves northwards over the next few days which should limit its intensification somewhat - but exact forecasts are likely to shift over the coming days.",
+ "new_text": "- Published\nIsaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.\nHurricane Hunter aircraft have been flying in and around the storm on Friday morning, now measuring sustained wind speeds of 120mph (193km/h), placing into the higher category.\nIsaias will bring damaging winds, torrential rain and a storm surge to parts of the US Gulf Coast with landfall expected late Friday. Hurricane and Storm Surge Watches have been issued.\nIsaias brings an end to the lack of hurricanes that has led to a record-breakingly quiet Atlantic season so far with development suppressed by the growing El NiÃ±o pattern.\nWhat track will Hurricane Isaias take?\nGaining energy from the very warm waters of the Gulf of Mexico, Hurricane Isaias continues to strengthen.\nWhile now a major hurricane, it is expected to weaken slightly over the next 12 hours to go back to being a high-end category two hurricane.\nIt will then make landfall on the Gulf Coast, across Alabama and the Florida Panhandle late Friday night and in the early hours of Saturday local time.\nAfter landfall it will head north through Alabama, brushing the east of Missouri during Saturday. While it will quickly weaken to a tropical storm, it will still bring some dangerous winds and flooding rains.\nA dangerous storm sturge of up to 6ft is expected in Alabama and Florida, especially around high tide and it will be accompanied by strong winds and large waves.\nBetween 4 and 8in (101-203mm) of rain is expected in southern Alabama, the Florida panhandle and Big Bend, and southwest Georgia.\nA few places could see up to 15in (381mm) with possible flash flooding, especially in urban areas, and the risk of isolated river flooding.\nThe US National Weather Service has issued Hurricane and Storm Surge Watches along the Gulf Coast.\nFlorida Governor Ron DeSantis has declared a state of emergency across 25 counties over concerns about potential impacts.\nSeveral major sporting events throughout the region have been cancelled or rescheduled due to the incoming storm. The highly-anticipated football match between the University of Georgia and the University of Alabama - due to be attended by President Donald Trump in the city of Tuscaloosa - is still expected to take place on Saturday.\nAs the storm moves further inland and loses contact with its warm water fuel source it will weaken. But it is still expected to bring some potentially disruptive wet weather for large swathes of the south-east USA as far north as the Tennessee Valley and the Carolinas.\nEl NiÃ±o brings an eerily quiet hurricane season so far\nForecasters in the US had predicted the 2026 hurricane season would be quieter than average citing the developing strong El NiÃ±o in the Pacific Ocean.\nAn El NiÃ±o weather event can lead to more wind shear over the Caribbean and Atlantic, which tears storms apart before they have time to develop.\nWhilst lowering the odds of hurricane formation, it does not make it impossible.\nIsaias has managed to form in an area with limited wind shear and very high sea temperatures - currently 30 or 31C - giving it the fuel it needs to grow.\nForecasters expect it to encounter more wind shear as it moves northwards which should limit its intensification.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "Isaias has strengthened to"
+    ],
+    [
+     "ins",
+     "Isaias,"
+    ],
+    [
+     "eq",
+     "the first hurricane of the Atlantic season"
+    ],
+    [
+     "del",
+     "this year"
+    ],
+    [
+     "ins",
+     "has been continuing to strengthen"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "will make landfall over the coming days. Early on Thursday morning it became"
+    ],
+    [
+     "ins",
+     "is now"
+    ],
+    [
+     "eq",
+     "a category"
+    ],
+    [
+     "del",
+     "one hurricane with"
+    ],
+    [
+     "ins",
+     "three 'major' hurricane. Hurricane Hunter aircraft have been flying in and around the storm on Friday morning, now measuring"
+    ],
+    [
+     "eq",
+     "sustained wind speeds"
+    ],
+    [
+     "del",
+     "in excess"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "80mph (129km/h) It has"
+    ],
+    [
+     "ins",
+     "120mph (193km/h), placing into"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "potential to"
+    ],
+    [
+     "ins",
+     "higher category. Isaias will"
+    ],
+    [
+     "eq",
+     "bring damaging winds, torrential rain and a storm surge to parts of the US Gulf Coast with landfall expected"
+    ],
+    [
+     "del",
+     "on Friday or Saturday."
+    ],
+    [
+     "ins",
+     "late Friday."
+    ],
+    [
+     "eq",
+     "Hurricane and Storm Surge Watches have been issued. Isaias brings an end"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "season so far with development suppressed by the growing El NiÃ±o pattern."
+    ],
+    [
+     "del",
+     "How strong"
+    ],
+    [
+     "ins",
+     "What track"
+    ],
+    [
+     "eq",
+     "will"
+    ],
+    [
+     "del",
+     "Isaias get? In its latest update, the US National Hurricane Center estimates that"
+    ],
+    [
+     "eq",
+     "Hurricane Isaias"
+    ],
+    [
+     "del",
+     "will intensify further, reaching"
+    ],
+    [
+     "ins",
+     "take? Gaining energy from the very warm waters of the Gulf of Mexico, Hurricane Isaias continues to strengthen. While now"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "strong"
+    ],
+    [
+     "ins",
+     "major hurricane, it is expected to weaken slightly over the next 12 hours to go back to being a high-end"
+    ],
+    [
+     "eq",
+     "category two"
+    ],
+    [
+     "del",
+     "by Friday morning with sustained winds of around 110mph (177km/h) Parts of Mexico will feel the first impacts as the storm swirls out at sea, with 4in (100mm) of rain possible around the Bay of Campeche and the Yucatan Peninsula, accompanied by strong winds. Isaias"
+    ],
+    [
+     "ins",
+     "hurricane. It"
+    ],
+    [
+     "eq",
+     "will then make landfall on the Gulf Coast,"
+    ],
+    [
+     "del",
+     "most likely around"
+    ],
+    [
+     "ins",
+     "across Alabama and"
+    ],
+    [
+     "eq",
+     "the Florida Panhandle"
+    ],
+    [
+     "ins",
+     "late Friday night"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "Mississippi border"
+    ],
+    [
+     "eq",
+     "in the early hours of Saturday local time. After landfall it will head north"
+    ],
+    [
+     "del",
+     "into Alabama and more"
+    ],
+    [
+     "ins",
+     "through Alabama, brushing the east"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "Missouri, and while"
+    ],
+    [
+     "ins",
+     "Missouri during Saturday. While it will quickly"
+    ],
+    [
+     "eq",
+     "weaken to a tropical storm,"
+    ],
+    [
+     "ins",
+     "it will"
+    ],
+    [
+     "eq",
+     "still bring some dangerous winds and flooding"
+    ],
+    [
+     "del",
+     "rains throughout Saturday."
+    ],
+    [
+     "ins",
+     "rains. A dangerous storm sturge of up to 6ft is expected in Alabama and Florida, especially around high tide and it will be accompanied by strong winds and large waves."
+    ],
+    [
+     "eq",
+     "Between"
+    ],
+    [
+     "del",
+     "3"
+    ],
+    [
+     "ins",
+     "4"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "6in (75-150mm)"
+    ],
+    [
+     "ins",
+     "8in (101-203mm)"
+    ],
+    [
+     "eq",
+     "of rain"
+    ],
+    [
+     "del",
+     "could fall across"
+    ],
+    [
+     "ins",
+     "is expected in southern Alabama,"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "Gulf Coast, from south-east Louisiana to north-west Florida."
+    ],
+    [
+     "ins",
+     "Florida panhandle and Big Bend, and southwest Georgia."
+    ],
+    [
+     "eq",
+     "A few places could see up to"
+    ],
+    [
+     "del",
+     "10in (250mm)"
+    ],
+    [
+     "ins",
+     "15in (381mm)"
+    ],
+    [
+     "eq",
+     "with possible flash flooding, especially in urban areas, and the risk of"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "a state of emergency across 25 counties over concerns about potential impacts."
+    ],
+    [
+     "ins",
+     "Several major sporting events throughout the region have been cancelled or rescheduled due to the incoming storm. The highly-anticipated football match between the University of Georgia and the University of Alabama - due to be attended by President Donald Trump in the city of Tuscaloosa - is still expected to take place on Saturday."
+    ],
+    [
+     "eq",
+     "As the storm moves further inland and loses contact with its warm water fuel source it will"
+    ],
+    [
+     "del",
+     "weaken but"
+    ],
+    [
+     "ins",
+     "weaken. But"
+    ],
+    [
+     "eq",
+     "it is still expected to bring some potentially disruptive wet weather for"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Forecasters expect it to encounter more wind shear as it moves northwards"
+    ],
+    [
+     "del",
+     "over the next few days"
+    ],
+    [
+     "eq",
+     "which should limit its"
+    ],
+    [
+     "del",
+     "intensification somewhat - but exact forecasts are likely to shift over the coming days."
+    ],
+    [
+     "ins",
+     "intensification."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.7198,
+  "numbers_changed": [
+   "10",
+   "100",
+   "101",
+   "110",
+   "12",
+   "120",
+   "129",
+   "15",
+   "150",
+   "177",
+   "193",
+   "203",
+   "250",
+   "3",
+   "381",
+   "75",
+   "8",
+   "80"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.772,
+ "similarity": 0.9414,
+ "adjudicated_by": "rules"
+}

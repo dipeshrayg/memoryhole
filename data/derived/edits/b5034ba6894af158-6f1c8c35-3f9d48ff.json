@@ -1,0 +1,267 @@
+{
+ "id": "b5034ba6894af158-6f1c8c35-3f9d48ff",
+ "url": "https://variety.com/2026/digital/news/joe-rogan-renews-spotify-deal-1236905502/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-10-09T13:13:08Z",
+ "date": "2026-10-09",
+ "old_title": "Joe Rogan Renews Nine-Figure Spotify Deal",
+ "new_title": "Joe Rogan Renews Nine-Figure Spotify Deal",
+ "old_text": "Spotify and Joe Rogan have entered into a new multiyear licensing agreement, continuing a relationship that began in 2020 for his hugely popular podcast.\nUnder the agreement, Spotify handles ad sales and licensing for \"The Joe Rogan Experience,\" which is available across multiple services. Terms of the agreement have not been disclosed. Rogan's new multiyear deal is similar to the one he cut with Spotify in early 2024, and he's set to receive \"an estimated earnout of $250 million\" over the term, the Wall Street Journal reported, citing anonymous sources.\n\"The partnership with Spotify has been an amazing fit, and they're incredible to work with,\" Rogan said in a statement. \"I'm extremely happy and excited to continue with them for years to come.\"\nPopular on Variety\nJordan Newman, Head of Content Partnerships at Spotify, said, \"Joe has built something incredibly enduring, and his show continues to resonate with a massive global audience because there's simply nothing else like it. Spotify's podcast business has grown alongside 'JRE' over the years, and we're excited to keep building on that partnership for years to come.\"\nSpotify and Rogan first announced their partnership in 2020, when \"The Joe Rogan Experience\" came to Spotify and later became exclusive to the platform.\nIn 2024, Rogan ended his deal that made \"JRE\" exclusive to the platform.\nThe Joe Rogan Experience was the top podcast on Spotify, YouTube, and Apple Podcasts in 2025. With 18 million followers on Spotify, it has been the most-followed podcast on the platform since the partnership began in 2020.\nThe Joe Rogan Experience is one of the world's most popular podcasts, hosted by comedian Joe Rogan and featuring friends and guests ranging from comedians, athletes, actors and musicians, to authors, scientists, entrepreneurs and beyond. Since launching in December 2009, the show has helped shape the long-form video podcast format, with more than 2,500 episodes, each averaging two to three hours in length, and has become a destination for open, wide-ranging conversation.",
+ "new_text": "Spotify and Joe Rogan have entered into a new multiyear licensing agreement, extending a relationship that began in 2020 for his hugely popular podcast.\nUnder the agreement, Spotify will continue to handle ad sales and licensing for \"The Joe Rogan Experience,\" which is available across multiple services. Terms of the agreement have not been disclosed. Rogan's new multiyear deal is similar to the one he cut with Spotify in early 2024, and he's set to receive \"an estimated earnout of $250 million\" over the term, the Wall Street Journal reported, citing anonymous sources.\n\"The partnership with Spotify has been an amazing fit, and they're incredible to work with,\" Rogan said in a statement. \"I'm extremely happy and excited to continue with them for years to come.\"\nPopular on Variety\nJordan Newman, head of content partnerships at Spotify, said, \"Joe has built something incredibly enduring, and his show continues to resonate with a massive global audience because there's simply nothing else like it. Spotify's podcast business has grown alongside 'JRE' over the years, and we're excited to keep building on that partnership for years to come.\"\nRogan has gained a legion of fans for his brash, shoot-from-the-hip commentary, while generating controversy over his rightward-leaning politics. The comedian and talk-show personality endorsed Trump for president in 2024 shortly after hosting him on \"JRE,\" but Rogan has more recently grown critical of Trump.\nSpotify and Rogan first announced their partnership in 2020, when \"The Joe Rogan Experience\" came to Spotify in September of that year and later became exclusive to the platform. In 2024, Rogan ended his deal that made \"JRE\" exclusive to the platform.\n\"The Joe Rogan Experience\" was the No. 1 most-listened-to podcast on Spotify, YouTube and Apple Podcasts in 2025. With 18 million followers on Spotify, it has been the most-followed podcast on the platform since the partnership began in 2020.\n\"The Joe Rogan Experience\" has featured guests spanning comedians, athletes, actors, musicians, authors, scientists, entrepreneurs and more. Since launching in December 2009, the show has produced more than 2,500 episodes, each averaging two to three hours in length.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Spotify and Joe Rogan have entered into a new multiyear licensing agreement,"
+    ],
+    [
+     "del",
+     "continuing"
+    ],
+    [
+     "ins",
+     "extending"
+    ],
+    [
+     "eq",
+     "a relationship that began in 2020 for his hugely popular podcast. Under the agreement, Spotify"
+    ],
+    [
+     "del",
+     "handles"
+    ],
+    [
+     "ins",
+     "will continue to handle"
+    ],
+    [
+     "eq",
+     "ad sales and licensing for \"The Joe Rogan Experience,\" which is available"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "continue with them for years to come.\" Popular on Variety Jordan Newman,"
+    ],
+    [
+     "del",
+     "Head"
+    ],
+    [
+     "ins",
+     "head"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "Content Partnerships"
+    ],
+    [
+     "ins",
+     "content partnerships"
+    ],
+    [
+     "eq",
+     "at Spotify, said, \"Joe has built something incredibly enduring, and his show"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "we're excited to keep building on that partnership for years to come.\""
+    ],
+    [
+     "ins",
+     "Rogan has gained a legion of fans for his brash, shoot-from-the-hip commentary, while generating controversy over his rightward-leaning politics. The comedian and talk-show personality endorsed Trump for president in 2024 shortly after hosting him on \"JRE,\" but Rogan has more recently grown critical of Trump."
+    ],
+    [
+     "eq",
+     "Spotify and Rogan first announced their partnership in 2020, when \"The Joe Rogan Experience\" came to Spotify"
+    ],
+    [
+     "ins",
+     "in September of that year"
+    ],
+    [
+     "eq",
+     "and later became exclusive to the platform. In 2024, Rogan ended his deal that made \"JRE\" exclusive to the platform."
+    ],
+    [
+     "del",
+     "The"
+    ],
+    [
+     "ins",
+     "\"The"
+    ],
+    [
+     "eq",
+     "Joe Rogan"
+    ],
+    [
+     "del",
+     "Experience"
+    ],
+    [
+     "ins",
+     "Experience\""
+    ],
+    [
+     "eq",
+     "was the"
+    ],
+    [
+     "del",
+     "top"
+    ],
+    [
+     "ins",
+     "No. 1 most-listened-to"
+    ],
+    [
+     "eq",
+     "podcast on Spotify,"
+    ],
+    [
+     "del",
+     "YouTube,"
+    ],
+    [
+     "ins",
+     "YouTube"
+    ],
+    [
+     "eq",
+     "and Apple Podcasts in 2025. With 18 million followers on Spotify, it"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the most-followed podcast on the platform since the partnership began in 2020."
+    ],
+    [
+     "del",
+     "The"
+    ],
+    [
+     "ins",
+     "\"The"
+    ],
+    [
+     "eq",
+     "Joe Rogan"
+    ],
+    [
+     "del",
+     "Experience is one of the world's most popular podcasts, hosted by comedian Joe Rogan and featuring friends and"
+    ],
+    [
+     "ins",
+     "Experience\" has featured"
+    ],
+    [
+     "eq",
+     "guests"
+    ],
+    [
+     "del",
+     "ranging from"
+    ],
+    [
+     "ins",
+     "spanning"
+    ],
+    [
+     "eq",
+     "comedians, athletes,"
+    ],
+    [
+     "del",
+     "actors and"
+    ],
+    [
+     "ins",
+     "actors,"
+    ],
+    [
+     "eq",
+     "musicians,"
+    ],
+    [
+     "del",
+     "to"
+    ],
+    [
+     "eq",
+     "authors, scientists, entrepreneurs and"
+    ],
+    [
+     "del",
+     "beyond."
+    ],
+    [
+     "ins",
+     "more."
+    ],
+    [
+     "eq",
+     "Since launching in December 2009, the show has"
+    ],
+    [
+     "del",
+     "helped shape the long-form video podcast format, with"
+    ],
+    [
+     "ins",
+     "produced"
+    ],
+    [
+     "eq",
+     "more than 2,500 episodes, each averaging two to three hours in"
+    ],
+    [
+     "del",
+     "length, and has become a destination for open, wide-ranging conversation."
+    ],
+    [
+     "ins",
+     "length."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3811,
+  "numbers_changed": [
+   "1",
+   "2024"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.997,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,163 @@
+{
+ "id": "c4134d6496183ec0-e4102cdb-ca9659a7",
+ "url": "https://www.theguardian.com/business/2026/oct/08/asos-customer-data-accessed-hacker-posing-impersonated",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-10-09T13:05:44Z",
+ "date": "2026-10-09",
+ "old_title": "Asos customers' names, search histories and contact details accessed in hack, says retailer",
+ "new_title": "Asos says customers' names, contact details and search histories hacked",
+ "old_text": "Asos hackers gained access to millions of customers' recent search histories as well as names, addresses and phone numbers, the online fashion retailer has revealed.\nTerms typed in by customers such as \"glamorous wide fit\" and \"Asos petite\" were in the data accessed in the cyber attack, which emerged on Tuesday after app users received a notification titled \"Asos hacked\" with a link to the Telegram messaging service.\nAfter carrying out a \"detailed, 48-hour investigation\" into the incident, Asos confirmed on Thursday that basic personal information had been accessed by an unidentified third party. This included customers' delivery and email addresses, names and phone numbers.\nHackers gained access to a database of one of Asos's third-party service providers by impersonating a \"trusted contact\" to gain access to one of its employee's accounts, the retailer said.\nAsos said they had also gained access to \"certain non-personal account related information\", which are understood to include shoppers' recent search history on the app, as first reported by the BBC which was contacted by the hackers.\nPayment card details or passwords had not been accessed, the retailer added. It said in a message to customers on Thursday: \"We discovered that an unauthorised party gained access to an Asos employee account by impersonating a trusted contact to obtain login credentials. Those credentials were then used to access information on certain third-party platforms used by Asos.\n\"The affected platforms were immediately locked down, ensuring that no further information could be accessed, and a full investigation was launched with the support of both internal and external cyber experts. We are also working with the relevant law enforcement and regulatory authorities.\"\nIt said the Asos website and app continued to be safe to use, that customers did not need to take action and that it had \"already taken additional steps to further strengthen security controls\".\nHowever, the company warned: \"Please remain cautious of unexpected messages or calls claiming to be from Asos. We will never ask you to share passwords, security codes or payment details through an unsolicited message or call.\"\nCharles Allen, an analyst at Bloomberg Intelligence, said the hack might \"temporarily cap the pace\" of Asos's attempt to revive sales and profits, after the Covid pandemic led to a period of boom followed by a sharp drop in trade. \"The loss of customer trust could weigh on efforts to rebuild its client base,\" he said.\nAsos pledged to contact customers directly once its investigation was complete and \"where we believe additional information, support or action may be required\".\nThe Telegram channel operated by the purported hackers, who have named themselves the Xuanye Group, to which users were directed on Tuesday carried a message assuring Asos customers that \"payment information is not affected\".\nCyber experts said that they had not heard of the group before and that the push notification could have been an attempt to gain wider attention.",
+ "new_text": "Asos hackers gained access to millions of customers' recent search histories as well as names, addresses and phone numbers, the online fashion retailer has revealed.\nTerms typed in by customers such as \"glamorous wide fit\" and \"Asos petite\" were in the data accessed in the cyber-attack, which emerged on Tuesday after app users received a notification titled \"Asos hacked\" with a link to the Telegram messaging service.\nAfter carrying out a \"detailed, 48-hour investigation\" into the incident, Asos confirmed on Thursday that basic personal information had been accessed by an unidentified third party. This included delivery and email addresses, names and phone numbers.\nExperts said the extra information could help attackers devise \"highly convincing\" phishing scams targeted at customers.\nHackers gained access to a database of one of Asos's third-party service providers by impersonating a \"trusted contact\" to gain access to one of its employee's accounts, the retailer said.\nAsos said they had also gained access to \"certain non-personal account related information\", which are understood to include shoppers' recent search history on the app, as first reported by the BBC which was contacted by the hackers.\nPayment card details and passwords had not been accessed, the retailer added. It said in a message to customers on Thursday: \"We discovered that an unauthorised party gained access to an Asos employee account by impersonating a trusted contact to obtain login credentials. Those credentials were then used to access information on certain third-party platforms used by Asos.\n\"The affected platforms were immediately locked down, ensuring that no further information could be accessed, and a full investigation was launched with the support of both internal and external cyber experts. We are also working with the relevant law enforcement and regulatory authorities.\"\nAsos said its website and app continued to be safe to use, that customers did not need to take action and that it had \"already taken additional steps to further strengthen security controls\".\nHowever, the company warned: \"Please remain cautious of unexpected messages or calls claiming to be from Asos. We will never ask you to share passwords, security codes or payment details through an unsolicited message or call.\"\nCharles Allen, an analyst at Bloomberg Intelligence, said the hack might \"temporarily cap the pace\" of Asos's attempt to revive sales and profits, after the Covid pandemic led to a period of boom followed by a sharp drop in trade. \"The loss of customer trust could weigh on efforts to rebuild its client base,\" he said.\nAsos pledged to contact customers directly once its investigation was complete and \"where we believe additional information, support or action may be required\".\nThe Telegram channel operated by the purported hackers, who have named themselves the Xuanye Group, to which users were directed on Tuesday carried a message assuring Asos customers that \"payment information is not affected\".\nExperts said they had not heard of the group before and that the push notification could have been an attempt to gain wider attention.\nSimon Phillips, the chief technology officer at the cybersecurity firm CybaVerse, said the admission that a wider array of customer information was accessed than previously thought could lead to more persuasive phishing attempts.\n\"Given the information contained search data, and that Asos regularly sends customers reminder emails about the items they search for on the site, attackers could have used this data to send highly convincing scams which are disguised as the emails they typically receive from Asos,\" he said.\nLisa Barber, the tech editor for the consumer watchdog Which?, said: \"Shoppers should be especially wary of unexpected phone calls, texts, messages and emails they receive in the coming weeks and months.\"\nShe said that if shoppers were unsure who they were speaking to, they should end the conversation and contact the company directly.\nIt is possible to dial 159 to speak to your bank's fraud team, or use the number on the back of your card. If you have been called by a possible fraudster, wait at least 15 minutes before calling or use a different phone to ensure the scammer is no longer connected to the call, she said.\nThe hack comes after a number of British retailers, including Marks & Spencer, the Co-op and Harrods, suffered damaging cyber incidents last year. M&S and the Co-op experienced stock shortages, and the former was forced to shut down its website for several weeks while it ensured its systems were clean.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "wide fit\" and \"Asos petite\" were in the data accessed in the"
+    ],
+    [
+     "del",
+     "cyber attack,"
+    ],
+    [
+     "ins",
+     "cyber-attack,"
+    ],
+    [
+     "eq",
+     "which emerged on Tuesday after app users received a notification titled \"Asos"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "personal information had been accessed by an unidentified third party. This included"
+    ],
+    [
+     "del",
+     "customers'"
+    ],
+    [
+     "eq",
+     "delivery and email addresses, names and phone numbers."
+    ],
+    [
+     "ins",
+     "Experts said the extra information could help attackers devise \"highly convincing\" phishing scams targeted at customers."
+    ],
+    [
+     "eq",
+     "Hackers gained access to a database of one of Asos's third-party service"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "by the BBC which was contacted by the hackers. Payment card details"
+    ],
+    [
+     "del",
+     "or"
+    ],
+    [
+     "ins",
+     "and"
+    ],
+    [
+     "eq",
+     "passwords had not been accessed, the retailer added. It said in a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "We are also working with the relevant law enforcement and regulatory authorities.\""
+    ],
+    [
+     "del",
+     "It"
+    ],
+    [
+     "ins",
+     "Asos"
+    ],
+    [
+     "eq",
+     "said"
+    ],
+    [
+     "del",
+     "the Asos"
+    ],
+    [
+     "ins",
+     "its"
+    ],
+    [
+     "eq",
+     "website and app continued to be safe to use, that customers did"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "carried a message assuring Asos customers that \"payment information is not affected\"."
+    ],
+    [
+     "del",
+     "Cyber experts"
+    ],
+    [
+     "ins",
+     "Experts"
+    ],
+    [
+     "eq",
+     "said"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "eq",
+     "they had not heard of the group before and that the push notification could have been an attempt to gain wider attention."
+    ],
+    [
+     "ins",
+     "Simon Phillips, the chief technology officer at the cybersecurity firm CybaVerse, said the admission that a wider array of customer information was accessed than previously thought could lead to more persuasive phishing attempts. \"Given the information contained search data, and that Asos regularly sends customers reminder emails about the items they search for on the site, attackers could have used this data to send highly convincing scams which are disguised as the emails they typically receive from Asos,\" he said. Lisa Barber, the tech editor for the consumer watchdog Which?, said: \"Shoppers should be especially wary of unexpected phone calls, texts, messages and emails they receive in the coming weeks and months.\" She said that if shoppers were unsure who they were speaking to, they should end the conversation and contact the company directly. It is possible to dial 159 to speak to your bank's fraud team, or use the number on the back of your card. If you have been called by a possible fraudster, wait at least 15 minutes before calling or use a different phone to ensure the scammer is no longer connected to the call, she said. The hack comes after a number of British retailers, including Marks & Spencer, the Co-op and Harrods, suffered damaging cyber incidents last year. M&S and the Co-op experienced stock shortages, and the former was forced to shut down its website for several weeks while it ensured its systems were clean."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5643,
+  "numbers_changed": [
+   "15",
+   "159"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.15,
+ "similarity": 0.9878,
+ "adjudicated_by": "rules"
+}

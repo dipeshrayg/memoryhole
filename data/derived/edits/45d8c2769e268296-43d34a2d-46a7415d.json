@@ -1,0 +1,164 @@
+{
+ "id": "45d8c2769e268296-43d34a2d-46a7415d",
+ "url": "https://www.independent.co.uk/news/uk/crime/royal-navy-charged-spying-metropolitan-police-teddy-young-b3063235.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-09T12:59:24Z",
+ "date": "2026-10-09",
+ "old_title": "Royal Navy member appears in court charged with 'spying for Russia'",
+ "new_title": "Royal Navy member appears in court charged with 'spying for Russia'",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nA serving member of the Royal Navy has appeared in court accused of spying for a foreign power, understood to be Russia.\nTeddy Young, 24, has been charged with two offences under the National Security Act, including having \"obtained, copied, recorded or retained protected information, intending the conduct to benefit a foreign power\".\nHe appeared in the dock at Westminster Magistrates' Court on Thursday wearing a grey prison issue tracksuit. He spoke only to confirm his name and date of birth.\nThe 24-year-old was remanded into custody and will next appear at the Old Bailey on 16 October.\nAddressing the defendant, district judge Annabel Pilling said: \"As you know the matters you have been charged with are too serious to be heard in this court and need to be dealt with by a judge at the central criminal court.\"\nShe said his case would be dealt with by specialist judge Mrs Justice Cheema-Grubb.\nIn a statement on Thursday morning, police said Mr Young was arrested at home in Bedfordshire on Tuesday and then taken into custody in London.\nThe force added the arrest and charges are not connected to the recent investigation into an incident at RAF Fairford.\nDetectives have worked alongside the Ministry of Defence to ensure risks related to the charges have been \"mitigated\", the force said.\nCommander Helen Flanagan, head of Counter Terrorism Policing London, said: \"These are very serious charges against a serving member of the armed forces. We have worked extremely closely with relevant operational colleagues within the Ministry of Defence as our investigation has progressed to ensure appropriate measures could be taken to mitigate any potential risks linked to this matter.\n\"It is important now that any further speculation on this case is avoided and so that the case can progress through the courts and the justice process not be impeded in any way.\"\nYoung is accused of offences taking place between 26 November 2024 and 21 May 2025, including preparation for committing an offence of disclosing protected information and having obtained, copied, recorded or retained protected information, intending the conduct to benefit a foreign power, knowing or having regard to other matters known to him ought reasonably to know were prejudicial to the safety or interests of the United Kingdom.\nThe Metropolitan Police said the charges are not linked to the ongoing investigation over a suspected terror plot at RAF Fairford, over which a 22-year-old British man was arrested earlier this week.\nA Royal Navy spokesperson said: \"A member of the Royal Navy has been charged with National Security Act offences following an investigation by Counter Terrorism Policing London. As legal proceedings are ongoing, it would be inappropriate to comment further at this stage.\"",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nA serving member of the Royal Navy has appeared in court accused of spying for a foreign power, understood to be Russia.\nTeddy Young, 24, has been charged with two offences under the National Security Act, including having \"obtained, copied, recorded or retained protected information, intending the conduct to benefit a foreign power\".\nHe appeared in the dock at Westminster Magistrates' Court on Thursday wearing a grey prison-issue tracksuit. He spoke only to confirm his name and date of birth.\nThe 24-year-old was remanded into custody and will next appear at the Old Bailey on 16 October.\nAddressing the defendant, district judge Annabel Pilling said: \"As you know, the matters you have been charged with are too serious to be heard in this court and need to be dealt with by a judge at the Central Criminal Court.\"\nShe said his case would be dealt with by specialist judge Mrs Justice Cheema-Grubb.\nIn a statement on Thursday morning, police said Mr Young was arrested at home in Bedfordshire on Tuesday and then taken into custody in London.\nThe force added the arrest and charges are not connected to the recent investigation into an incident at RAF Fairford.\nDetectives have worked alongside the Ministry of Defence to ensure risks related to the charges have been \"mitigated\", the force said.\nCommander Helen Flanagan, head of Counter Terrorism Policing London, said: \"These are very serious charges against a serving member of the armed forces. We have worked extremely closely with relevant operational colleagues within the Ministry of Defence as our investigation has progressed to ensure appropriate measures could be taken to mitigate any potential risks linked to this matter.\n\"It is important now that any further speculation on this case is avoided and so that the case can progress through the courts and the justice process not be impeded in any way.\"\nMr Young is accused of offences taking place between 26 November 2024 and 21 May 2025. These include preparation for committing an offence of disclosing protected information and having obtained, copied, recorded or retained protected information, intending the conduct to benefit a foreign power.\nThe Metropolitan Police said the charges are not linked to the continuing investigation of a suspected terror plot at RAF Fairford, over which a 22-year-old British man was arrested earlier this week.\nA Royal Navy spokesperson said: \"A member of the Royal Navy has been charged with National Security Act offences following an investigation by Counter Terrorism Policing London. As legal proceedings are ongoing, it would be inappropriate to comment further at this stage.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "in the dock at Westminster Magistrates' Court on Thursday wearing a grey"
+    ],
+    [
+     "del",
+     "prison issue"
+    ],
+    [
+     "ins",
+     "prison-issue"
+    ],
+    [
+     "eq",
+     "tracksuit. He spoke only to confirm his name and date of birth."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "16 October. Addressing the defendant, district judge Annabel Pilling said: \"As you"
+    ],
+    [
+     "del",
+     "know"
+    ],
+    [
+     "ins",
+     "know,"
+    ],
+    [
+     "eq",
+     "the matters you have been charged with are too serious to be"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "court and need to be dealt with by a judge at the"
+    ],
+    [
+     "del",
+     "central criminal court.\""
+    ],
+    [
+     "ins",
+     "Central Criminal Court.\""
+    ],
+    [
+     "eq",
+     "She said his case would be dealt with by specialist judge Mrs"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the courts and the justice process not be impeded in any way.\""
+    ],
+    [
+     "ins",
+     "Mr"
+    ],
+    [
+     "eq",
+     "Young is accused of offences taking place between 26 November 2024 and 21 May"
+    ],
+    [
+     "del",
+     "2025, including"
+    ],
+    [
+     "ins",
+     "2025. These include"
+    ],
+    [
+     "eq",
+     "preparation for committing an offence of disclosing protected information and having obtained,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "recorded or retained protected information, intending the conduct to benefit a foreign"
+    ],
+    [
+     "del",
+     "power, knowing or having regard to other matters known to him ought reasonably to know were prejudicial to the safety or interests of the United Kingdom."
+    ],
+    [
+     "ins",
+     "power."
+    ],
+    [
+     "eq",
+     "The Metropolitan Police said the charges are not linked to the"
+    ],
+    [
+     "del",
+     "ongoing"
+    ],
+    [
+     "ins",
+     "continuing"
+    ],
+    [
+     "eq",
+     "investigation"
+    ],
+    [
+     "del",
+     "over"
+    ],
+    [
+     "ins",
+     "of"
+    ],
+    [
+     "eq",
+     "a suspected terror plot at RAF Fairford, over which a 22-year-old British"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0992,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 0.9975,
+ "adjudicated_by": "rules"
+}

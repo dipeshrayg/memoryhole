@@ -1,0 +1,174 @@
+{
+ "id": "66801fa2ee3a1476-b8d32217-c4fbaf78",
+ "url": "https://www.theguardian.com/sport/2026/oct/08/london-broncos-graded-below-barrow-but-still-set-for-super-league-place",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-09T13:09:09Z",
+ "date": "2026-10-09",
+ "old_title": "London Broncos graded below Barrow but still set for Super League place",
+ "new_title": "London Broncos graded below Barrow but still set for Super League place",
+ "old_text": "Runaway Championship winners London Broncos have been graded below even Barrow Raiders for next season - but they are still set to become the 15th team in an expanded Super League next season, the Guardian can reveal.\nThe Broncos have swept aside the second tier in 2026, winning all three domestic trophies on offer after assembling a squad filled with NRL talent. Under the ownership of Kangaroos great, Darren Lockyer, London's goal was two-fold this year: to dominate on the pitch as well as making a push for the top 14 in the Rugby Football League's gradings system.\nThat system determines which teams play in Super League every year, with the highest-ranked 14 clubs across a variety of metrics including attendances, on-field performance and finance being admitted. However, London have finished 16th - below Barrow, who are deemed the best-performing Championship club.\nOrdinarily that would mean another season in the Championship, but London look increasingly likely to be given a reprieve. That is because as a partnership between the NRL and Super League nears completion, the Australian governing body has insisted any deal to invest in the British game is conditional on London being in the top flight.\nSuper League officials initially pushed back, the Guardian understands, when it became clear several weeks ago that London would not be in the top 14 of the gradings. However, the NRL have returned serve and made it clear they want a London presence in the competition no matter what to increase their chances of the partnership being a success.\nThat means Super League is poised to expand again. This time last year, the competition went from 12 teams to 14 but an increase to 15 is now on the cards, with London granted access despite officially not being the best Championship team in the system currently used to determine promotion and relegation.\nSuper League would need to rapidly implement plans to become a 15-team competition. That includes introducing bye rounds for teams, as well as deciding how central distribution will be shared among 15 teams and whether the current fixture format of everyone playing one another home and away needs to change, as that would mean an increase in fixtures from 27 to 29.\nBut talks between the two leagues are accelerating towards a conclusion, with hopes high an agreement can be struck during the upcoming World Cup in Australia. The NRL would then take administrative control of Super League's fortunes, removing power from the club owners in return for a significant financial investment.\nThe new Super League champions, Wakefield Trinity, have topped the gradings for 2026 with a score of 17.85 out of a possible 20. They are the fourth different team to finish top of the system since it began in 2023 with Leeds Rhinos second, one of eight clubs to achieve Grade A status after scoring 15 points or more.\nWith the top 14 unchanged from this time last year, all are guaranteed a spot in Super League in 2027: and they look set to be joined by London.",
+ "new_text": "The runaway Championship winners London Broncos have been graded below even Barrow Raiders for next season - but they are still set to become the 15th team in an expanded Super League, the Guardian can reveal.\nThe Broncos have swept aside the second tier in 2026, winning all three domestic trophies on offer after assembling a squad filled with NRL talent. Under the ownership of the Kangaroos great Darren Lockyer, London's goal was two-fold this year: to dominate on the pitch as well as making a push for the top 14 in the Rugby Football League's gradings system.\nThat system determines which teams play in Super League every year, with the highest-ranked 14 clubs across a variety of metrics including attendances, on-field performance and finance being admitted. However, London have finished 16th - below Barrow, who are deemed the best-performing Championship club.\nOrdinarily that would mean another season in the Championship, but London look increasingly likely to be given a reprieve. That is because as a partnership between the NRL and Super League nears completion, the Australian governing body has insisted any deal to invest in the British game is conditional on London being in the top flight.\nSuper League officials initially pushed back, the Guardian understands, when it became clear several weeks ago that London would not be in the top 14 of the gradings. However, the NRL returned serve and made it clear they want a London presence in the competition no matter what to increase their chances of the partnership being a success.\nThat means Super League is poised to expand again. This time last year, the competition went from 12 teams to 14 but an increase to 15 is now on the cards, with London granted access despite officially not being the best Championship team in the system used to determine promotion and relegation.\nSuper League would need to rapidly implement plans to become a 15-team competition. That includes introducing bye rounds for teams, as well as deciding how central distribution will be shared and whether the current fixture format of everyone playing one another home and away - plus a game at Magic Weekend - needs to change, as that would mean an increase in fixtures from 27 to 29.\nBut talks between the two leagues are accelerating towards a conclusion, with hopes high an agreement can be struck during the upcoming World Cup in Australia. The NRL would then take administrative control of Super League's fortunes, removing power from the club owners in return for a significant financial investment.\nThe new Super League champions, Wakefield Trinity, have topped the gradings for 2026 with a score of 17.85 out of a possible 20. They are the fourth different team to finish top of the system since it began in 2023 with Leeds Rhinos second, one of eight clubs to achieve Grade A status after scoring 15 points or more.\nWith the top 14 unchanged from this time last year, all are guaranteed a spot in Super League in 2027 and they look set to be joined by London.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Runaway"
+    ],
+    [
+     "ins",
+     "The runaway"
+    ],
+    [
+     "eq",
+     "Championship winners London Broncos have been graded below even Barrow Raiders for"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "are still set to become the 15th team in an expanded Super"
+    ],
+    [
+     "del",
+     "League next season,"
+    ],
+    [
+     "ins",
+     "League,"
+    ],
+    [
+     "eq",
+     "the Guardian can reveal. The Broncos have swept aside the second tier"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "after assembling a squad filled with NRL talent. Under the ownership of"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "Kangaroos"
+    ],
+    [
+     "del",
+     "great,"
+    ],
+    [
+     "ins",
+     "great"
+    ],
+    [
+     "eq",
+     "Darren Lockyer, London's goal was two-fold this year: to dominate on the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "not be in the top 14 of the gradings. However, the NRL"
+    ],
+    [
+     "del",
+     "have"
+    ],
+    [
+     "eq",
+     "returned serve and made it clear they want a London presence in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "access despite officially not being the best Championship team in the system"
+    ],
+    [
+     "del",
+     "currently"
+    ],
+    [
+     "eq",
+     "used to determine promotion and relegation. Super League would need to rapidly"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "for teams, as well as deciding how central distribution will be shared"
+    ],
+    [
+     "del",
+     "among 15 teams"
+    ],
+    [
+     "eq",
+     "and whether the current fixture format of everyone playing one another home and away"
+    ],
+    [
+     "ins",
+     "- plus a game at Magic Weekend -"
+    ],
+    [
+     "eq",
+     "needs to change, as that would mean an increase in fixtures from"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "time last year, all are guaranteed a spot in Super League in"
+    ],
+    [
+     "del",
+     "2027:"
+    ],
+    [
+     "ins",
+     "2027"
+    ],
+    [
+     "eq",
+     "and they look set to be joined by London."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.049,
+  "numbers_changed": [
+   "15"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 0.9944,
+ "adjudicated_by": "rules"
+}

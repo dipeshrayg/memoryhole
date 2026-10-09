@@ -1,0 +1,48 @@
+{
+ "id": "d7b552fe92587fb3-08d19137-debdc927",
+ "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+ "domain": "www.cnbc.com",
+ "source": "CNBC Markets",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-10-09T13:06:04Z",
+ "date": "2026-10-09",
+ "old_title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+ "new_title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+ "old_text": "The cost of many everyday items would have declined last year and early this year without President Donald Trump's tariffs, according to the New York Federal Reserve.\nThe cost of 67 categories of goods was 2.9 percentage points higher as of February thanks to tariffs, according to a paper from a team of researchers at the central bank's New York arm.\nWithout the levies, the team found that prices for the products they studied would have pulled back by almost 1%.\nThe New York Fed's report offers the clearest evidence yet of the impact of Trump's tariffs - a core policy of his most recent campaign and second term in the White House - on consumers' wallets. Economists had widely expected his levies to push up prices, though the precise effects had been hard to estimate due to the changing nature of the policy and the lack of transparency on how companies set their prices.\nThe researchers didn't say which 67 types of goods they evaluated.\nFor each percentage point increase in the average tariff, the team said that consumer goods prices were higher by roughly a quarter of a percent a year later.\nAnnual price growth in the dozens of goods they tracked peaked at the start of 2026, according to the report. But consumers are still expected to pay elevated prices into 2027 as a result of the policy, it said.\nRoughly two-thirds of the tariff-related price impact has directly come from the levies themselves, according to the New York Fed's report. The remaining increase was driven by knock-on effects, such as U.S.-based companies that use imported parts and materials in their products.\n\"Tariffs have a larger and more drawn-out impact on consumer prices than the direct effect alone would suggest,\" the study's three authors, Mary Amiti, Sebastian Heise and David Weinstein, wrote.\nTrump argued that companies could absorb the increased cost from tariffs rather than pass them down to shoppers in the form of price hikes. The New York Fed team said that around 26% of last year's tariff increases ended up trickling into higher prices.\nThe Supreme Court in February struck down many of Trump's tariffs, resulting in billions of dollars in refunds to retailers. The White House has vowed to push forward with levies through alternative measures, and products imported from many countries now often face tariffs of about 10%. In many cases, that is significantly less than what they were under the earlier round of tariffs.",
+ "new_text": "The cost of many everyday items would have declined last year and early this year without President Donald Trump's tariffs, according to the New York Federal Reserve.\nThe cost of 67 categories of goods was 2.9 percentage points higher as of February thanks to tariffs, according to a paper from a team of researchers at the central bank's New York arm.\nWithout the levies, the team found that prices for the products they studied would have pulled back by almost 1%.\nThe New York Fed's report offers the clearest evidence yet of the impact of Trump's tariffs - a core policy of his most recent campaign and second term in the White House - on consumers' wallets. Economists had widely expected his levies to push up prices, though the precise effects had been hard to estimate due to the changing nature of the policy and the lack of transparency on how companies set their prices.\n\"The Trump administration has consistently maintained that the cost of tariffs will ultimately be borne by foreign exporters who rely on access to the American economy,\" White House spokeswoman Taylor Rogers said in a statement to CNBC.\nThe researchers didn't say which 67 types of goods they evaluated.\nFor each percentage point increase in the average tariff, the team said that consumer goods prices were higher by roughly a quarter of a percent a year later.\nAnnual price growth in the dozens of goods they tracked peaked at the start of 2026, according to the report. But consumers are still expected to pay elevated prices into 2027 as a result of the policy, it said.\nRoughly two-thirds of the tariff-related price impact has directly come from the levies themselves, according to the New York Fed's report. The remaining increase was driven by knock-on effects, such as U.S.-based companies that use imported parts and materials in their products.\n\"Tariffs have a larger and more drawn-out impact on consumer prices than the direct effect alone would suggest,\" the study's three authors, Mary Amiti, Sebastian Heise and David Weinstein, wrote.\nTrump argued that companies could absorb the increased cost from tariffs rather than pass them down to shoppers in the form of price hikes. The New York Fed team said that around 26% of last year's tariff increases ended up trickling into higher prices.\nThe Supreme Court in February struck down many of Trump's tariffs, resulting in billions of dollars in refunds to retailers. The White House has vowed to push forward with levies through alternative measures, and products imported from many countries now often face tariffs of about 10%. In many cases, that is significantly less than what they were under the earlier round of tariffs.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "policy and the lack of transparency on how companies set their prices."
+    ],
+    [
+     "ins",
+     "\"The Trump administration has consistently maintained that the cost of tariffs will ultimately be borne by foreign exporters who rely on access to the American economy,\" White House spokeswoman Taylor Rogers said in a statement to CNBC."
+    ],
+    [
+     "eq",
+     "The researchers didn't say which 67 types of goods they evaluated. For"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0898,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.557,
+ "similarity": 0.9522,
+ "adjudicated_by": "rules"
+}

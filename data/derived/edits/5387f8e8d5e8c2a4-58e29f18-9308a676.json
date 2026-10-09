@@ -1,0 +1,64 @@
+{
+ "id": "5387f8e8d5e8c2a4-58e29f18-9308a676",
+ "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-10-09T13:12:14Z",
+ "date": "2026-10-09",
+ "old_title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+ "new_title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+ "old_text": "Investors bullish on AI data centers may be fueling Nvidia's multitrillion-dollar market capitalization, but the AI chipmaker has also bet billions of dollars on physical AI technologies such as robotics and self-driving cars. Part of that gambit has involved developing a full-stack safety system that companies can build upon to reduce the risk of their machines harming nearby people.\nNvidia's Halos system launched in 2025 with hardware and software tools to help developers implement guardrails in self-driving cars and other autonomous vehicles. Then the company expanded its safety architecture to more physical AI technologies by announcing Nvidia Halos for Robotics in June 2026-with the goal of enabling safe deployments of autonomous mobile robots in warehouses, humanoid robots walking around inside a factory, or even surgical robots.\n\"Now the AI models are getting capable, the robot hardware is getting capable, and a thing we thought is going to be the next bottleneck is safety,\" Amit Goel, head of robotics ecosystem and edge computing at Nvidia, told Ars. \"So that's why we launched our Halos for Robotics to unlock the capability of these systems.\"\nThe expanded safety offering for robotics comes as Nvidia CEO Jensen Huang described the physical AI business as already driving nearly $10 billion in annual revenue for the company during an appearance on the All-In Podcast in March 2026. Huang previously began highlighting physical AI as Nvidia's second-most important growth category in 2025.\nExpanding safety from AVs to robots\nSo what does Nvidia's full-stack safety system involve? It starts with hardware, such as the Nvidia IGX Thor computing module for robotics and industrial applications that has an independent processor dedicated to safety-related workloads. \"In the context of physical AI, you need to have your functional system and your safety system all running on the same silicon,\" Goel said.",
+ "new_text": "Investors bullish on AI data centers may be fueling Nvidia's multitrillion-dollar market capitalization, but the AI chipmaker has also bet billions of dollars on physical AI technologies such as robotics and self-driving cars. Part of that gambit has involved developing a full-stack safety system that companies can build upon to reduce the risk of their machines harming nearby people.\nNvidia's Halos system launched in 2025 with hardware and software tools to help developers implement guardrails in self-driving cars and other autonomous vehicles. Then the company expanded its safety architecture to more physical AI technologies by announcing Nvidia Halos for Robotics in June 2026-with the goal of enabling safe deployments of autonomous mobile robots in warehouses, humanoid robots walking around inside a factory, or even surgical robots.\n\"Now the AI models are getting capable, the robot hardware is getting capable, and a thing we thought is going to be the next bottleneck is safety,\" Amit Goel, head of robotics ecosystem and edge computing at Nvidia, told Ars. \"So that's why we launched our Halos for Robotics to unlock the capability of these systems.\"\nThe expanded safety offering for robotics comes as Nvidia CEO Jensen Huang described the physical AI business as already driving nearly $10 billion in annual revenue for the company during an appearance on the All-In Podcast in March 2026. Huang began highlighting physical AI as Nvidia's second-most important growth category in 2025.\nThe tech giant has also invested directly in multiple robotics companies, including the humanoid robotics startups Agility Robotics and Figure AI, along with companies developing robotics foundation models. Nvidia has even partnered with the Chinese humanoid robotics company Unitree to provide an \"open humanoid robot reference design\" for researchers.\nExpanding safety from AVs to robots\nSo what does Nvidia's full-stack safety system for robotics involve? It starts with hardware, such as the Nvidia IGX Thor computing module for robotics and industrial applications that has an independent processor dedicated to safety-related workloads. \"In the context of physical AI, you need to have your functional system and your safety system all running on the same silicon,\" Goel said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "company during an appearance on the All-In Podcast in March 2026. Huang"
+    ],
+    [
+     "del",
+     "previously"
+    ],
+    [
+     "eq",
+     "began highlighting physical AI as Nvidia's second-most important growth category in 2025."
+    ],
+    [
+     "ins",
+     "The tech giant has also invested directly in multiple robotics companies, including the humanoid robotics startups Agility Robotics and Figure AI, along with companies developing robotics foundation models. Nvidia has even partnered with the Chinese humanoid robotics company Unitree to provide an \"open humanoid robot reference design\" for researchers."
+    ],
+    [
+     "eq",
+     "Expanding safety from AVs to robots So what does Nvidia's full-stack safety system"
+    ],
+    [
+     "ins",
+     "for robotics"
+    ],
+    [
+     "eq",
+     "involve? It starts with hardware, such as the Nvidia IGX Thor computing"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1733,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,130 @@
+{
+ "id": "1097aba673cef399-b784f46b-45cdda40",
+ "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-09T12:53:59Z",
+ "date": "2026-10-09",
+ "old_title": "Asos hackers took more personal details than first revealed, BBC finds",
+ "new_title": "Asos hackers took more personal details than first revealed, BBC finds",
+ "old_text": "- Published\nAsos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store's users.\nIt issued the update after BBC News told the retailer it had been contacted by cyber criminals who said this week's breach went beyond the \"basic contact details\" Asos previously said might have been accessed.\nNames, addresses, phone numbers, emails and customer numbers are now in the hands of cyber criminals.\nSo too are the searches customers have made on the website. Terms like \"reclaimed vintage\", \"glamorous wide fit\" and \"Asos petite\" are visible in the data.\nWith this information, scammers may be able to craft potent phishing attack emails or phone calls.\nThe risk to individuals is now higher and customers are being warned about potential impersonation scams.\nIn its email to customers, Asos confirmed data profiles were taken but said no bank details or passwords were accessed.\n\"Please remain cautious of unexpected messages or calls claiming to be from Asos,\" it said.\n\"We will never ask you to share passwords, security codes or payment details through an unsolicited message or call.\"\nThe company did not respond to questions about the scale of the breach.\nThe high profile hack made global headlines on Tuesday when cyber criminals used Asos's own app system to send a pop up notification to potentially millions of people.\nLater that day the firm confirmed to shareholders via the London Stock Exchange that the pop up was sent by an \"unauthorised third party\" and \"basic personal information including name and contact details may have been accessed.\"\nThe company then sent an email to customers with similar wording.\nOn Wednesday evening the cyber criminals responsible contacted the BBC sharing a sample of the stolen data which showed the true extent of the hack.\nThe BBC held off publishing this article to allow Asos to contact its customers first.\nAsos said it is still investigating the data breach and it would \"contact customers directly where we believe additional information, support or action may be required\".\nThe UK fashion site explained to customers that hackers gained access to an Asos employee account by \"impersonating a trusted contact to obtain log in credentials\".\nWith that log in to an unnamed service, the hackers were able to download the customer data.\nIn the pop up notification send to customers by the hackers, they claimed they had \"compromised the Snowflake instance\".\nSnowflake is a popular data storage and analysis company whose customers have been breached in the past due to unauthorised log ins.\nThe cyber criminals, calling themselves Xuanyewen, claimed to the BBC they used a platform which is built natively on top of Snowflake - called Simon AI - to gain access to the data.\nSimon AI has been contacted for comment. Snowflake previously said its platform had not been breached.\nAsos said customers are not being asked to take any action.\nBut cyber security experts have warned users to change passwords as a precaution and be on alert for suspicious activity.\n\"Passwords have not been stolen, so be highly suspicious of any unsolicited text or email asking you to change or share yours,\" said Trevor Dearing, Senior Director of Critical Infrastructure at Illumio.\n\"Expect scammers to mention the attack, use your personal details to seem genuine, and create urgency, such as threatening to lock your account within 24 hours.\"\nAsos said its website and app are safe to use and \"we know our customers trust us with their information\".\n\"We take that responsibility seriously and have already taken additional steps to further strengthen security controls,\" it said.",
+ "new_text": "- Published\nAsos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store's users.\nIt issued the update after BBC News told the retailer it had been contacted by cyber criminals who said this week's breach went beyond the \"basic contact details\" Asos previously said might have been accessed.\nNames, addresses, phone numbers, emails, customer numbers and dates of birth are now in the hands of criminals.\nOne victim told the BBC it was \"very unsettling\" that the hackers now know these things about her.\nThe criminals also have access to the searches customers have made on the website. Terms like \"reclaimed vintage\", \"glamorous wide fit\" and \"Asos petite\" are visible in the data.\nHarriet has been using Asos since 2019 - another detail the hackers now know.\n\"What I find particularly worrying is the possibility that stolen data can be used as a tool for for future attacks, meaning the impact of a breach could extend well beyond the initial incident,\" she said.\nWith the stolen information, scammers may be able to create convincing phishing attack emails or phone calls.\nThe risk to individuals is now higher and customers are being warned about potential impersonation scams.\nIn its email to customers, Asos confirmed data profiles were taken but said no bank details or passwords were accessed.\n\"Please remain cautious of unexpected messages or calls claiming to be from Asos,\" it said.\n\"We will never ask you to share passwords, security codes or payment details through an unsolicited message or call.\"\nThe company did not respond to questions about the scale of the breach.\nThe high profile hack made global headlines on Tuesday when cyber criminals used Asos's own app system to send a pop up notification to potentially millions of people.\nLater that day the firm confirmed to shareholders via the London Stock Exchange that the pop up was sent by an \"unauthorised third party\" and \"basic personal information including name and contact details may have been accessed.\"\nThe company then sent an email to customers with similar wording.\nOn Wednesday evening the cyber criminals responsible contacted the BBC sharing a sample of the stolen data which showed the true extent of the hack.\nThe BBC held off publishing this article to allow Asos to contact its customers first.\n'Impersonating a trusted contact'\nAsos said it is still investigating the data breach and it would \"contact customers directly where we believe additional information, support or action may be required\".\nThe UK fashion site explained to customers that hackers gained access to an Asos employee account by \"impersonating a trusted contact to obtain log in credentials\".\nWith that log in to an unnamed service, the hackers were able to download the customer data.\nIn the pop up notification send to customers by the hackers, they claimed they had \"compromised the Snowflake instance\".\nSnowflake is a popular data storage and analysis company whose customers have been breached in the past due to unauthorised log ins.\nThe cyber criminals, calling themselves Xuanyewen, claimed to the BBC they used a platform which is built natively on top of Snowflake - called Simon AI - to gain access to the data.\nSimon AI has been contacted for comment. Snowflake previously said its platform had not been breached.\nAsos said customers are not being asked to take any action.\nBut cyber security experts have warned users to change passwords as a precaution and be on alert for suspicious activity.\n\"Passwords have not been stolen, so be highly suspicious of any unsolicited text or email asking you to change or share yours,\" said Trevor Dearing, Senior Director of Critical Infrastructure at Illumio.\n\"Expect scammers to mention the attack, use your personal details to seem genuine, and create urgency, such as threatening to lock your account within 24 hours.\"\nAsos said its website and app are safe to use and \"we know our customers trust us with their information\".\n\"We take that responsibility seriously and have already taken additional steps to further strengthen security controls,\" it said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "details\" Asos previously said might have been accessed. Names, addresses, phone numbers,"
+    ],
+    [
+     "del",
+     "emails and"
+    ],
+    [
+     "ins",
+     "emails,"
+    ],
+    [
+     "eq",
+     "customer numbers"
+    ],
+    [
+     "ins",
+     "and dates of birth"
+    ],
+    [
+     "eq",
+     "are now in the hands of"
+    ],
+    [
+     "del",
+     "cyber"
+    ],
+    [
+     "eq",
+     "criminals."
+    ],
+    [
+     "del",
+     "So too are"
+    ],
+    [
+     "ins",
+     "One victim told the BBC it was \"very unsettling\" that the hackers now know these things about her. The criminals also have access to"
+    ],
+    [
+     "eq",
+     "the searches customers have made on the website. Terms like \"reclaimed vintage\", \"glamorous wide fit\" and \"Asos petite\" are visible in the data."
+    ],
+    [
+     "ins",
+     "Harriet has been using Asos since 2019 - another detail the hackers now know. \"What I find particularly worrying is the possibility that stolen data can be used as a tool for for future attacks, meaning the impact of a breach could extend well beyond the initial incident,\" she said."
+    ],
+    [
+     "eq",
+     "With"
+    ],
+    [
+     "del",
+     "this"
+    ],
+    [
+     "ins",
+     "the stolen"
+    ],
+    [
+     "eq",
+     "information, scammers may be able to"
+    ],
+    [
+     "del",
+     "craft potent"
+    ],
+    [
+     "ins",
+     "create convincing"
+    ],
+    [
+     "eq",
+     "phishing attack emails or phone calls. The risk to individuals is now"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "off publishing this article to allow Asos to contact its customers first."
+    ],
+    [
+     "ins",
+     "'Impersonating a trusted contact'"
+    ],
+    [
+     "eq",
+     "Asos said it is still investigating the data breach and it would"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1597,
+  "numbers_changed": [
+   "2019"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.887,
+ "similarity": 0.8971,
+ "adjudicated_by": "rules"
+}
