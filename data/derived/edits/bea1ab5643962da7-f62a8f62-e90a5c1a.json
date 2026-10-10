@@ -1,0 +1,118 @@
+{
+ "id": "bea1ab5643962da7-f62a8f62-e90a5c1a",
+ "url": "https://www.abc.net.au/news/2026-10-09/lester-prize-winners-announced-2026-fiona-obyrne-portrait/107238658",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-10T12:17:23Z",
+ "date": "2026-10-10",
+ "old_title": "Fiona O'Byrne wins 2026 Lester Prize with painting of daughter",
+ "new_title": "Fiona O'Byrne wins 2026 Lester Prize with painting of daughter",
+ "old_text": "Melbourne-based artist Fiona O'Byrne has won the $50,000 Richard Lester Prize for Portraiture for an oil-on-linen painting of her daughter.\nO'Byrne has been painting her children for more than a decade and her winning work - titled Luci, now - depicts her 20-year-old daughter sitting on a stool with a neutral expression on her face.\n\"Sitting together, you really see time move, and you see how the relationship changes,\" O'Byrne wrote about the piece.\n\"It's an opportunity for me to stop and spend time observing her in this moment of her life.\n\"Painting her was just a way of holding onto that fierce, generous heart.\"\nJudges Alan Dodge, John McDonald and Bryony Nainby said they were captivated by the softness and tenderness of the portrait conveyed through an \"unlaboured handling of paint\".\nThey highlighted the intimacy between the sitter and artist reflected through the apparent ease in the subject's expression, the way light was captured in the work, and the details of the jacket and nail varnish.\nO'Byrne picked up a paintbrush for the first time at 36 and has spent the past 10 years dividing her time between painting and landscape architecture.\nEmerging artists in the spotlight\nPerth-based artist Yasamin Khadembashi won the $10,000 Ashurst Emerging Artist Prize for her two-metre long re-imagined self portrait Immoral Warrior.\nThe judges commended Khadembashi's bold and adventurous use of materials, including rhinestones, synthetic eyelash extensions and metal leaf.\n\"The artist did not play it safe, but their bravery paid off,\" the judges said.\nSky Parra's Portrait of Scott Austic, Sharon Billinge's painting titled Celeste 3, Kim Harding's Kim with Black Cockatoo and Dapeng Liu's Guido were also awarded prizes.\nThe Lester Prize is one of Australia's most lucrative portraiture prizes, with a total prize pool of $140,000.\nIt received more than 1,100 submissions this year, the most in the prize's history.\nFounding partner of The Lester Prize, Russell Lester, said this reflected the impact the prize had on the arts community.\n\"Our ongoing stewardship of Australian talent and creativity is of utmost importance,\" Mr Lester said.\nThe exhibition of the 40 finalist pieces is on display at Perth's WA Museum Boola Bardip until November 29.",
+ "new_text": "Melbourne-based artist Fiona O'Byrne has won the $50,000 Richard Lester Prize for Portraiture for an oil-on-linen painting of her daughter.\nO'Byrne has been painting her children for more than a decade and her winning work - titled Luci, now - depicts her 20-year-old daughter sitting on a stool with a neutral expression on her face.\n\"Sitting together, you really see time move, and you see how the relationship changes,\" O'Byrne wrote about the piece.\n\"It's an opportunity for me to stop and spend time observing her in this moment of her life.\n\"Painting her was just a way of holding onto that fierce, generous heart.\"\nJudges Alan Dodge, John McDonald and Bryony Nainby said they were captivated by the softness and tenderness of the portrait conveyed through an \"unlaboured handling of paint\".\nThey highlighted the intimacy between the sitter and artist reflected through the apparent ease in the subject's expression, the way light was captured in the work, and the details of the jacket and nail varnish.\nO'Byrne only picked up a paintbrush for the first time at 36 and has spent the past 10 years dividing her time between painting and landscape architecture.\n\"When my youngest was one I felt like I really needed to do something outside my day job, something creative, and I took myself off to an art class and never looked back,\" she told the ABC.\n\"I found my tribe, I found my happy place - it was life changing for me.\"\nShe said the prize money will help her explore new ideas in her art without the pressure of selling the pieces.\n\"For me it's a huge amount of freedom it gives me as an artist.\"\nEmerging artists in the spotlight\nPerth-based artist and honours student Yasamin Khadembashi won the $10,000 Ashurst Emerging Artist Prize for her two-metre long re-imagined self portrait Immoral Warrior.\n\"It's an ode to Iranian women... it really shows the Iranian spirit,\" she said about the work.\n\"I wanted something to be distinctive for representing queer Iranian joy and pride.\"\nThe judges commended Khadembashi's bold and adventurous use of materials, including rhinestones, synthetic eyelash extensions and metal leaf.\n\"The artist did not play it safe, but their bravery paid off,\" the judges said.\nSky Parra's Portrait of Scott Austic, Sharon Billinge's painting titled Celeste 3, Kim Harding's Kim with Black Cockatoo, Ben Howe's Matilda in Blue and Dapeng Liu's Guido were also awarded prizes.\nThe Lester Prize is one of Australia's most lucrative portraiture prizes, with a total prize pool of $140,000.\nIt received more than 1,100 submissions this year, the most in the prize's history.\nFounding partner of The Lester Prize, Russell Lester, said this reflected the impact the prize had on the arts community.\n\"Our ongoing stewardship of Australian talent and creativity is of utmost importance,\" Mr Lester said.\n\"Over 60 per cent of the entries come from outside Western Australia, so it's great to bring the community together to celebrate portraiture.\"\nThe exhibition of the 40 finalist pieces is on display at Perth's WA Museum Boola Bardip until November 29.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the work, and the details of the jacket and nail varnish. O'Byrne"
+    ],
+    [
+     "ins",
+     "only"
+    ],
+    [
+     "eq",
+     "picked up a paintbrush for the first time at 36 and has"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the past 10 years dividing her time between painting and landscape architecture."
+    ],
+    [
+     "ins",
+     "\"When my youngest was one I felt like I really needed to do something outside my day job, something creative, and I took myself off to an art class and never looked back,\" she told the ABC. \"I found my tribe, I found my happy place - it was life changing for me.\" She said the prize money will help her explore new ideas in her art without the pressure of selling the pieces. \"For me it's a huge amount of freedom it gives me as an artist.\""
+    ],
+    [
+     "eq",
+     "Emerging artists in the spotlight Perth-based artist"
+    ],
+    [
+     "ins",
+     "and honours student"
+    ],
+    [
+     "eq",
+     "Yasamin Khadembashi won the $10,000 Ashurst Emerging Artist Prize for her two-metre long re-imagined self portrait Immoral Warrior."
+    ],
+    [
+     "ins",
+     "\"It's an ode to Iranian women... it really shows the Iranian spirit,\" she said about the work. \"I wanted something to be distinctive for representing queer Iranian joy and pride.\""
+    ],
+    [
+     "eq",
+     "The judges commended Khadembashi's bold and adventurous use of materials, including rhinestones,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Austic, Sharon Billinge's painting titled Celeste 3, Kim Harding's Kim with Black"
+    ],
+    [
+     "del",
+     "Cockatoo"
+    ],
+    [
+     "ins",
+     "Cockatoo, Ben Howe's Matilda in Blue"
+    ],
+    [
+     "eq",
+     "and Dapeng Liu's Guido were also awarded prizes. The Lester Prize is"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of Australian talent and creativity is of utmost importance,\" Mr Lester said."
+    ],
+    [
+     "ins",
+     "\"Over 60 per cent of the entries come from outside Western Australia, so it's great to bring the community together to celebrate portraiture.\""
+    ],
+    [
+     "eq",
+     "The exhibition of the 40 finalist pieces is on display at Perth's WA Museum Boola Bardip until November 29."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4187,
+  "numbers_changed": [
+   "60"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.9,
+ "similarity": 0.9971,
+ "adjudicated_by": "rules"
+}

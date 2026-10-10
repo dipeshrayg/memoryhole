@@ -1,0 +1,46 @@
+{
+ "id": "5e70c9a8072f602d-eccf067d-7d452d43",
+ "url": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
+ "domain": "www.cnbc.com",
+ "source": "CNBC Markets",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-10-10T12:25:18Z",
+ "date": "2026-10-10",
+ "old_title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
+ "new_title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
+ "old_text": "Judy Shelton, whose controversial economic ideas led the Senate to block her nomination to the Federal Reserve, has been appointed a counselor to Treasury Secretary Scott Bessent.\nThe Treasury said Shelton will advise Bessent on currency policy, \"with a particular focus on evaluating financial conditions in China.\"\nShelton is not known as a China expert. She authored \"The Coming Soviet Crash\" in 1989, followed by \"Money Meltdown,\" about the need for a unified international monetary regime, in 1994. Before joining Treasury, Shelton was a senior fellow at the Independent Institute, a free market think tank, and, before that, at the Hoover Institution at Stanford University. She holds a Ph.D. in business administration from the University of Utah.\n\"Throughout her career, she has specialized in analyzing the internal monetary and financial conditions of nations and their impact on exchange rates,\" The Treasury said in its announcement, which will be released later Friday.\nA bipartisan group of senators, including all Democrats and a handful of Republicans, rejected President Donald Trump's 2019 nomination of Shelton as a Fed governor over her views on Fed independence, her support for the gold standard and her questioning whether the U.S. needed a central bank.\nHer appointment comes at what looks to be a time of turmoil at the Treasury regarding high-level personnel. A recent Wall Street Journal story cataloged seven Senate-confirmed officials who have left the department through the end of August. Only one position has been filled.\nBessent recently named David Zervos, former chief market strategist at Jefferies, as a counselor - the same job title as Shelton. Neither Shelton nor Zervos require Senate approval.",
+ "new_text": "Judy Shelton, whose controversial economic ideas led the Senate to block her nomination to the Federal Reserve, has been appointed a counselor to Treasury Secretary Scott Bessent.\nThe Treasury said Shelton will advise Bessent on currency policy, \"with a particular focus on evaluating financial conditions in China.\"\nShelton is not known as a China expert. She authored \"The Coming Soviet Crash\" in 1989, followed by \"Money Meltdown,\" about the need for a unified international monetary regime, in 1994. Before joining Treasury, Shelton was a senior fellow at the Independent Institute, a free market think tank, and, before that, at the Hoover Institution at Stanford University. She holds a Ph.D. in business administration from the University of Utah.\n\"Throughout her career, she has specialized in analyzing the internal monetary and financial conditions of nations and their impact on exchange rates,\" The Treasury said in its announcement, which will be released later Friday.\nA bipartisan group of senators, including all Democrats and a handful of Republicans, rejected President Donald Trump's 2019 nomination of Shelton as a Fed governor over her views on Fed independence, her support for the gold standard and her questioning whether the U.S. needed a central bank.\nHer appointment comes at what looks to be a time of turmoil at the Treasury regarding high-level personnel. A recent Wall Street Journal story cataloged seven Senate-confirmed officials who have left the department through the end of August. Only one position has been filled.\nBessent recently named David Zervos, former chief market strategist at Jefferies, as a counselor - the same job title as Shelton. Neither Shelton nor Zervos require Senate approval.\nCorrection: Shelton authored \"Money Meltdown\" in 1994. An earlier version misstated the year. David Zervos is former chief market strategist at Jefferies. An earlier version misspelled the firm's name.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "same job title as Shelton. Neither Shelton nor Zervos require Senate approval."
+    ],
+    [
+     "ins",
+     "Correction: Shelton authored \"Money Meltdown\" in 1994. An earlier version misstated the year. David Zervos is former chief market strategist at Jefferies. An earlier version misspelled the firm's name."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1074,
+  "numbers_changed": [
+   "1994"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}
