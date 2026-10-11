@@ -1,0 +1,44 @@
+{
+ "id": "8b886dc0d588c602-6fc54cf0-348093b1",
+ "url": "https://www.npr.org/2026/10/10/nx-s1-5982500/opinion-can-i-keep-the-baseball-i-caught",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-11T12:27:12Z",
+ "date": "2026-10-11",
+ "old_title": "Opinion: Can I keep the baseball I caught?",
+ "new_title": "Opinion: Can I keep the baseball I caught?",
+ "old_text": "Opinion: Can I keep the baseball I caught?\nOpinion: Can I keep the baseball I caught?\nThis week, an ethical question, of all things, intruded into the baseball playoffs.\nTuesday night, Dodgers versus Braves, in Atlanta. A young man in a Dodger jersey caught a foul ball in the stands. As so often happens these days, someone seated nearby captured it on video, and then felt compelled to instruct the man, \"Give it to the kid! Give it to the kid!\"\nAnd indeed there was a small boy, maybe preschool-aged, a few rows back in a Braves jersey.\nBut the Dodgers fan looked into the man's camera and told what turned out to be millions of viewers on social media, \"I'm sorry, I can't! I'm not giving it to the kid! I feel bad, but I'm not giving it to the kid!\"\nSome commenters denounced the man for keeping the ball. Some others have inveighed against the little boy for looking disappointed.\nBefore we criticize anyone's ethics, we ought to ask ourselves: what would we do if a baseball fell into our hands at a playoff game? Keep it, or give it to the nearest child?\nBecause I am a father, I'm pretty certain I would give it to a child. But also because I'm a father, I know that within a few days, the ball so tenderly bequeathed might have rolled, abandoned, under a bed, surrounded by lost socks and forgotten Labubus.\nAlso, a foul ball hit by almost any player would be a nice souvenir. But what if it had been a home run struck by, say, Shohei Ohtani? That ball could be as much of an investment as a Picasso!\nWe sought ethical advice from Nancy Sherman, a Professor of Philosophy at Georgetown University, who told us, \"Manners are not morals.\"\nThe professor said she was mostly alarmed by the public shaming of both man and boy, who, after all, were not aware that their instinctive, personal reactions would soon be turned into some kind of moral exercise for the digital age.\n\"The young guy who caught the ball says, 'I'm sorry...I feel bad, but I'm not giving it to the kid'\"... says Professor Sherman. \"I think that's a healthy, honest response.\"\nSo the next time you go to a game - if a fly ball seems to be arcing your way, you might pause before you reach for it to ask yourself, \"Do I really want this ethical dilemma?\"",
+ "new_text": "Opinion: Can I keep the baseball I caught?\nThis week, an ethical question, of all things, intruded into the baseball playoffs.\nTuesday night, Dodgers versus Braves, in Atlanta. A young man in a Dodger jersey caught a foul ball in the stands. As so often happens these days, someone seated nearby captured it on video, and then felt compelled to instruct the man, \"Give it to the kid! Give it to the kid!\"\nAnd indeed there was a small boy, maybe preschool-aged, a few rows back in a Braves jersey.\nBut the Dodgers fan looked into the man's camera and told what turned out to be millions of viewers on social media, \"I'm sorry, I can't! I'm not giving it to the kid! I feel bad, but I'm not giving it to the kid!\"\nSome commenters denounced the man for keeping the ball. Some others have inveighed against the little boy for looking disappointed.\nBefore we criticize anyone's ethics, we ought to ask ourselves: what would we do if a baseball fell into our hands at a playoff game? Keep it, or give it to the nearest child?\nBecause I am a father, I'm pretty certain I would give it to a child. But also because I'm a father, I know that within a few days, the ball so tenderly bequeathed might have rolled, abandoned, under a bed, surrounded by lost socks and forgotten Labubus.\nAlso, a foul ball hit by almost any player would be a nice souvenir. But what if it had been a home run struck by, say, Shohei Ohtani? That ball could be as much of an investment as a Picasso!\nWe sought ethical advice from Nancy Sherman, a Professor of Philosophy at Georgetown University, who told us, \"Manners are not morals.\"\nThe professor said she was mostly alarmed by the public shaming of both man and boy, who, after all, were not aware that their instinctive, personal reactions would soon be turned into some kind of moral exercise for the digital age.\n\"The young guy who caught the ball says, 'I'm sorry...I feel bad, but I'm not giving it to the kid'\"... says Professor Sherman. \"I think that's a healthy, honest response.\"\nSo the next time you go to a game - if a fly ball seems to be arcing your way, you might pause before you reach for it to ask yourself, \"Do I really want this ethical dilemma?\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Opinion: Can I keep the baseball I caught?"
+    ],
+    [
+     "eq",
+     "Opinion: Can I keep the baseball I caught? This week, an ethical"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0194,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9877,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,420 @@
+{
+ "id": "146f2c9cb8c754a0-c73b8f6c-a954c598",
+ "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-11T12:26:01Z",
+ "date": "2026-10-11",
+ "old_title": "Ukraine war: Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+ "new_title": "Ukraine war: Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+ "old_text": "- Published\nRussia has attacked the Ukrainian city of Zaporizhzhia with five glide bombs, killing at least 15 people including three children, President Volodymyr Zelensky and emergency services have said.\nThe glide bombs hit residential buildings in the south-eastern city. At least 16 other people were injured in the attack, with more still missing and believed to be under the rubble after the strike on Saturday morning.\nZelensky said 13 other regions had also been hit overnight, adding: \"Our responses to [these] Russian strikes will come\".\nThe Russian attacks happened just hours after President Donald Trump announced a deal to import Russian diesel into the US.\nPhotos and videos from the site of one of the strikes show an apartment block mostly destroyed.\n\"The ground floor was hit, and the floors above just collapsed,\" acting Mayor Regina Kharchenko told Ukrainian television, speaking from the scene.\nShe said more than 80 workers were involved in ongoing search and rescue operations which are expected to continue throughout the day.\nThe rescuers regularly stop to listen for any noises made by survivors who could be under the rubble.\nKharchenko said Russia had struck at \"our very heart\" and \"our littlest ones\" were among those killed, adding that their deaths were \"awful grief for their families. For the city.\"\nZelensky has heavily criticised Trump's diesel deal with Russia, calling it a gift to President Vladimir Putin that amounts to \"an investment in a war that must be ended, not prolonged\".\nMore recently, in his response to the overnight strikes, he said \"Russia interprets any easing of pressure as a signal that it can supposedly continue the war.\n\"Russia must understand that the war needs to be stopped, and for that, it must feel its losses,\" he wrote on X, external.\nBoth Russia and Ukraine have stepped up attacks on infrastructure in recent months, as the war between the two countries drags on.\nZaporizhzhia is a major regional centre with more than 700,000 residents. It is located less than 10 miles (16 km) from the front line and is frequently attacked by Russian drones and missiles.\nThe latest strikes on the city comes amid a sharp increase in the number of Russian attacks that are causing higher numbers of civilian casualties.\nOn Thursday, at least 33 people were killed in another Russian glide bomb attack on two civilian buses in Kramatorsk, in the eastern Donetsk region.\nThe day before, 22 people including five children died as a Russian missile hit an apartment block in the town of Pryluky, east of Kyiv.\nAccording to the UN, the number of civilian casualties in Ukraine jumped by 55%, external in the first eight months of this year.\nRussia has also targeted Ukrainian energy infrastructure, ramping up attacks every winter since Putin launched a full-scale invasion in 2022.\nFor its part, Ukraine has attacked Russia's infrastructure - with the latest being strikes on data centres owned by tech giant Yandex.",
+ "new_text": "- Published\nRussia has attacked the Ukrainian city of Zaporizhzhia with five glide bombs, killing at least 20 people including four children, local officials said.\nThe glide bombs hit residential buildings in the southern city on Saturday morning. At least 32 others were injured in the attack, with more still missing and believed to be under the rubble.\nUkrainian President Volodymyr Zelensky said the attacks on Zaporizhzhia were Russia expressing \"its thanks\" for a deal announced by US President Donald Trump last night easing sanctions on Moscow to import Russian diesel.\nHe added that 13 other regions had come under attack overnight, arguing this demonstrated Russia took \"any easing of pressure to mean they can keep fighting\".\nPhotos and videos from the site of one of the strikes in Zaporizhzhia show an apartment block mostly destroyed.\n\"The ground floor was hit, and the floors above just collapsed,\" acting Mayor Regina Harchenko told Ukrainian television from the scene.\nShe said more than 80 workers were involved in ongoing search and rescue operations which are expected to continue throughout the day.\nThe rescuers regularly stop to listen for any noises made by survivors who could be under the rubble.\nHarchenko said Russia had struck at \"our very heart\" and \"our littlest ones\" were among those killed, adding that their deaths were \"awful grief for their families. For the city.\"\nZaporizhzhia is a major regional centre with more than 700,000 residents. It is located less than 10 miles (16km) from the front line and is frequently attacked by Russian drones and missiles.\nZelensky was quick to criticise Trump's diesel deal with Russia, calling it a gift to Russian President Vladimir Putin. Analysts view the deal as an attempt by the US president to allay domestic concerns about high fuel prices ahead of the upcoming midterm elections.\nZelensky wrote on social media on Saturday that Russian attacks on energy facilities in the capital, Kyiv, demonstrated Russia's \"true intentions\".\n\"Russia's choice is war. And they will be ready to end it only when they feel that their ability to drag the war out is diminishing.\n\"Unfortunately, the signals Russia received yesterday were entirely different â signals suggesting that it could simply keep attacking. And this needs to be corrected.\"\nBoth Russia and Ukraine have stepped up attacks on infrastructure in recent months, as Moscow's full-scale invasion, launched in 2022, drags on.\nOn Thursday, at least 33 people were killed in another Russian glide bomb attack on two civilian buses in Kramatorsk, in the eastern Donetsk region.\nThe day before, 22 people including five children died as a Russian missile hit an apartment block in the town of Pryluky, east of Kyiv.\nThe number of civilian casualties in Ukraine jumped by 55%, external in the first eight months of this year, according to the UN.\nRussia has also stepped up its attacks on Ukrainian energy infrastructure as winter approaches, a strategy it has undertaken in previous years. Kyiv has repeatedly accused it of targeting Ukraine's civilian population, which Moscow denies.\nFor its part, Ukraine has increasingly adopted a policy of striking infrastructure often deep inside Russia that is crucial to its economy, including several oil refineries and terminals.\nSeveral strikes on data centres owned by Yandex have left the tech giant struggling to maintain services.\nKyiv says its strikes are aimed at curtailing revenue streams for Russia's war machine.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the Ukrainian city of Zaporizhzhia with five glide bombs, killing at least"
+    ],
+    [
+     "del",
+     "15"
+    ],
+    [
+     "ins",
+     "20"
+    ],
+    [
+     "eq",
+     "people including"
+    ],
+    [
+     "del",
+     "three"
+    ],
+    [
+     "ins",
+     "four"
+    ],
+    [
+     "eq",
+     "children,"
+    ],
+    [
+     "del",
+     "President Volodymyr Zelensky and emergency services have"
+    ],
+    [
+     "ins",
+     "local officials"
+    ],
+    [
+     "eq",
+     "said. The glide bombs hit residential buildings in the"
+    ],
+    [
+     "del",
+     "south-eastern city."
+    ],
+    [
+     "ins",
+     "southern city on Saturday morning."
+    ],
+    [
+     "eq",
+     "At least"
+    ],
+    [
+     "del",
+     "16 other people"
+    ],
+    [
+     "ins",
+     "32 others"
+    ],
+    [
+     "eq",
+     "were injured in the attack, with more still missing and believed to be under the"
+    ],
+    [
+     "del",
+     "rubble after the strike on Saturday morning."
+    ],
+    [
+     "ins",
+     "rubble. Ukrainian President Volodymyr"
+    ],
+    [
+     "eq",
+     "Zelensky said"
+    ],
+    [
+     "ins",
+     "the attacks on Zaporizhzhia were Russia expressing \"its thanks\" for a deal announced by US President Donald Trump last night easing sanctions on Moscow to import Russian diesel. He added that"
+    ],
+    [
+     "eq",
+     "13 other regions had"
+    ],
+    [
+     "del",
+     "also been hit"
+    ],
+    [
+     "ins",
+     "come under attack"
+    ],
+    [
+     "eq",
+     "overnight,"
+    ],
+    [
+     "del",
+     "adding: \"Our responses"
+    ],
+    [
+     "ins",
+     "arguing this demonstrated Russia took \"any easing of pressure"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "[these] Russian strikes will come\". The Russian attacks happened just hours after President Donald Trump announced a deal to import Russian diesel into the US."
+    ],
+    [
+     "ins",
+     "mean they can keep fighting\"."
+    ],
+    [
+     "eq",
+     "Photos and videos from the site of one of the strikes"
+    ],
+    [
+     "ins",
+     "in Zaporizhzhia"
+    ],
+    [
+     "eq",
+     "show an apartment block mostly destroyed. \"The ground floor was hit, and the floors above just collapsed,\" acting Mayor Regina"
+    ],
+    [
+     "del",
+     "Kharchenko"
+    ],
+    [
+     "ins",
+     "Harchenko"
+    ],
+    [
+     "eq",
+     "told Ukrainian"
+    ],
+    [
+     "del",
+     "television, speaking"
+    ],
+    [
+     "ins",
+     "television"
+    ],
+    [
+     "eq",
+     "from the scene. She said more than 80 workers were involved in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "for any noises made by survivors who could be under the rubble."
+    ],
+    [
+     "del",
+     "Kharchenko"
+    ],
+    [
+     "ins",
+     "Harchenko"
+    ],
+    [
+     "eq",
+     "said Russia had struck at \"our very heart\" and \"our littlest ones\""
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "that their deaths were \"awful grief for their families. For the city.\""
+    ],
+    [
+     "del",
+     "Zelensky has heavily criticised Trump's diesel deal with Russia, calling it a gift to President Vladimir Putin that amounts to \"an investment in a war that must be ended, not prolonged\". More recently, in his response to the overnight strikes, he said \"Russia interprets any easing of pressure as a signal that it can supposedly continue the war. \"Russia must understand that the war needs to be stopped, and for that, it must feel its losses,\" he wrote on X, external. Both Russia and Ukraine have stepped up attacks on infrastructure in recent months, as the war between the two countries drags on."
+    ],
+    [
+     "eq",
+     "Zaporizhzhia is a major regional centre with more than 700,000 residents. It is located less than 10 miles"
+    ],
+    [
+     "del",
+     "(16 km)"
+    ],
+    [
+     "ins",
+     "(16km)"
+    ],
+    [
+     "eq",
+     "from the front line and is frequently attacked by Russian drones and missiles."
+    ],
+    [
+     "del",
+     "The latest strikes"
+    ],
+    [
+     "ins",
+     "Zelensky was quick to criticise Trump's diesel deal with Russia, calling it a gift to Russian President Vladimir Putin. Analysts view the deal as an attempt by the US president to allay domestic concerns about high fuel prices ahead of the upcoming midterm elections. Zelensky wrote"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "the city comes amid a sharp increase"
+    ],
+    [
+     "ins",
+     "social media on Saturday that Russian attacks on energy facilities"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "number of Russian"
+    ],
+    [
+     "ins",
+     "capital, Kyiv, demonstrated Russia's \"true intentions\". \"Russia's choice is war. And they will be ready to end it only when they feel that their ability to drag the war out is diminishing. \"Unfortunately, the signals Russia received yesterday were entirely different â signals suggesting that it could simply keep attacking. And this needs to be corrected.\" Both Russia and Ukraine have stepped up"
+    ],
+    [
+     "eq",
+     "attacks"
+    ],
+    [
+     "del",
+     "that are causing higher numbers of civilian casualties."
+    ],
+    [
+     "ins",
+     "on infrastructure in recent months, as Moscow's full-scale invasion, launched in 2022, drags on."
+    ],
+    [
+     "eq",
+     "On Thursday, at least 33 people were killed in another Russian glide"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "hit an apartment block in the town of Pryluky, east of Kyiv."
+    ],
+    [
+     "del",
+     "According to the UN, the"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "number of civilian casualties in Ukraine jumped by 55%, external in the first eight months of this"
+    ],
+    [
+     "del",
+     "year."
+    ],
+    [
+     "ins",
+     "year, according to the UN."
+    ],
+    [
+     "eq",
+     "Russia has also"
+    ],
+    [
+     "del",
+     "targeted"
+    ],
+    [
+     "ins",
+     "stepped up its attacks on"
+    ],
+    [
+     "eq",
+     "Ukrainian energy"
+    ],
+    [
+     "del",
+     "infrastructure, ramping up attacks every"
+    ],
+    [
+     "ins",
+     "infrastructure as"
+    ],
+    [
+     "eq",
+     "winter"
+    ],
+    [
+     "del",
+     "since Putin launched"
+    ],
+    [
+     "ins",
+     "approaches,"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "full-scale invasion"
+    ],
+    [
+     "ins",
+     "strategy it has undertaken"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "2022."
+    ],
+    [
+     "ins",
+     "previous years. Kyiv has repeatedly accused it of targeting Ukraine's civilian population, which Moscow denies."
+    ],
+    [
+     "eq",
+     "For its part, Ukraine has"
+    ],
+    [
+     "del",
+     "attacked Russia's"
+    ],
+    [
+     "ins",
+     "increasingly adopted a policy of striking"
+    ],
+    [
+     "eq",
+     "infrastructure"
+    ],
+    [
+     "del",
+     "- with the latest being"
+    ],
+    [
+     "ins",
+     "often deep inside Russia that is crucial to its economy, including several oil refineries and terminals. Several"
+    ],
+    [
+     "eq",
+     "strikes on data centres owned by"
+    ],
+    [
+     "ins",
+     "Yandex have left the"
+    ],
+    [
+     "eq",
+     "tech giant"
+    ],
+    [
+     "del",
+     "Yandex."
+    ],
+    [
+     "ins",
+     "struggling to maintain services. Kyiv says its strikes are aimed at curtailing revenue streams for Russia's war machine."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.9939,
+  "numbers_changed": [
+   "15",
+   "20",
+   "32"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 3,
+  "blocks_added": 3,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.653,
+ "similarity": 0.9611,
+ "adjudicated_by": "rules"
+}

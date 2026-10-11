@@ -1,0 +1,199 @@
+{
+ "id": "e0969a38aaa11a89-0ef21f1b-3a8ad8cb",
+ "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-11T12:38:57Z",
+ "date": "2026-10-11",
+ "old_title": "South Africa v Australia - Cricket - BBC Sport",
+ "new_title": "South Africa v Australia - Cricket - BBC Sport",
+ "old_text": "South Africa vs Australia\nFri 9 Oct 2026 - Tue 13 Oct 2026,Men's International Test Match Series - 1st Test - Day 2 of 5\nSouth Africa vs Australia (batting), in play\nAustralia are 362 for 8\nSouth Africa: yet to batAustralia innings:\n- 362 for 8 from 127.0 overs, in play\nAustralia 1st Innings\nTeam Lineups\nhome team, South Africa\nStarting lineup\n- Aiden Markram\n- Ryan Rickelton\n- David Bedingham\n- Temba Bavuma , Captain\n- Tristan Stubbs\n- Wiaan Mulder\n- Kyle Verreynne , Wicket Keeper\n- Marco Jansen\n- Keshav Maharaj\n- Simon Harmer\n- Anrich Nortje\naway team, Australia\nStarting lineup\n- Nic Maddinson\n- Travis Head\n- Marnus Labuschagne\n- Steve Smith\n- Matt Renshaw\n- Alex Carey , Wicket Keeper\n- Beau Webster\n- Pat Cummins , Captain\n- Mitchell Starc\n- Nathan Lyon\n- Josh Hazlewood\nhome team, South Africa\nStarting lineup\n- Aiden Markram\n- Ryan Rickelton\n- David Bedingham\n- Temba Bavuma , Captain\n- Tristan Stubbs\n- Wiaan Mulder\n- Kyle Verreynne , Wicket Keeper\n- Marco Jansen\n- Keshav Maharaj\n- Simon Harmer\n- Anrich Nortje\naway team, Australia\nStarting lineup\n- Nic Maddinson\n- Travis Head\n- Marnus Labuschagne\n- Steve Smith\n- Matt Renshaw\n- Alex Carey , Wicket Keeper\n- Beau Webster\n- Pat Cummins , Captain\n- Mitchell Starc\n- Nathan Lyon\n- Josh Hazlewood\n- Start Time:\n- 08:30\n- Toss:\n- Australia won the toss and decided to bat\n- Venue:\n- Hollywoodbets Kingsmead, Durban\n- Officials:\n- Chris Gaffaney, Richard Kettleborough, Richard Illingworth, Javagal Srinath, Stephen Harris\nPlease note: All times are UK. Some content is provided by third parties, is subject to change, and is unverified.",
+ "new_text": "South Africa vs Australia\nFri 9 Oct 2026 - Tue 13 Oct 2026,Men's International Test Match Series - 1st Test - Day 3 of 5\nSouth Africa (batting) vs Australia, in play\nSouth Africa trail Australia by 161 runs with 2 wickets remaining\nSouth Africa innings:\n- 229 for 8 from 64.1 overs, in play\nAustralia innings:\n- 390 all out from 137.2 overs\nTeam Lineups\nhome team, South Africa\nStarting lineup\n- Aiden Markram\n- Ryan Rickelton\n- David Bedingham\n- Temba Bavuma , Captain\n- Tristan Stubbs\n- Wiaan Mulder\n- Kyle Verreynne , Wicket Keeper\n- Marco Jansen\n- Simon Harmer\n- Keshav Maharaj\n- Anrich Nortje\naway team, Australia\nStarting lineup\n- Nic Maddinson\n- Travis Head\n- Marnus Labuschagne\n- Steve Smith\n- Matt Renshaw\n- Alex Carey , Wicket Keeper\n- Beau Webster\n- Pat Cummins , Captain\n- Mitchell Starc\n- Nathan Lyon\n- Josh Hazlewood\nhome team, South Africa\nStarting lineup\n- Aiden Markram\n- Ryan Rickelton\n- David Bedingham\n- Temba Bavuma , Captain\n- Tristan Stubbs\n- Wiaan Mulder\n- Kyle Verreynne , Wicket Keeper\n- Marco Jansen\n- Simon Harmer\n- Keshav Maharaj\n- Anrich Nortje\naway team, Australia\nStarting lineup\n- Nic Maddinson\n- Travis Head\n- Marnus Labuschagne\n- Steve Smith\n- Matt Renshaw\n- Alex Carey , Wicket Keeper\n- Beau Webster\n- Pat Cummins , Captain\n- Mitchell Starc\n- Nathan Lyon\n- Josh Hazlewood\n- Start Time:\n- 08:30\n- Toss:\n- Australia won the toss and decided to bat\n- Venue:\n- Hollywoodbets Kingsmead, Durban\n- Officials:\n- Chris Gaffaney, Richard Kettleborough, Richard Illingworth, Javagal Srinath, Stephen Harris\nPlease note: All times are UK. Some content is provided by third parties, is subject to change, and is unverified.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "13 Oct 2026,Men's International Test Match Series - 1st Test - Day"
+    ],
+    [
+     "del",
+     "2"
+    ],
+    [
+     "ins",
+     "3"
+    ],
+    [
+     "eq",
+     "of 5 South Africa"
+    ],
+    [
+     "ins",
+     "(batting)"
+    ],
+    [
+     "eq",
+     "vs"
+    ],
+    [
+     "del",
+     "Australia (batting),"
+    ],
+    [
+     "ins",
+     "Australia,"
+    ],
+    [
+     "eq",
+     "in play"
+    ],
+    [
+     "ins",
+     "South Africa trail"
+    ],
+    [
+     "eq",
+     "Australia"
+    ],
+    [
+     "del",
+     "are 362 for 8"
+    ],
+    [
+     "ins",
+     "by 161 runs with 2 wickets remaining"
+    ],
+    [
+     "eq",
+     "South"
+    ],
+    [
+     "del",
+     "Africa: yet to batAustralia"
+    ],
+    [
+     "ins",
+     "Africa"
+    ],
+    [
+     "eq",
+     "innings: -"
+    ],
+    [
+     "del",
+     "362"
+    ],
+    [
+     "ins",
+     "229"
+    ],
+    [
+     "eq",
+     "for 8 from"
+    ],
+    [
+     "del",
+     "127.0"
+    ],
+    [
+     "ins",
+     "64.1"
+    ],
+    [
+     "eq",
+     "overs, in play Australia"
+    ],
+    [
+     "del",
+     "1st Innings"
+    ],
+    [
+     "ins",
+     "innings: - 390 all out from 137.2 overs"
+    ],
+    [
+     "eq",
+     "Team Lineups home team, South Africa Starting lineup - Aiden Markram -"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Wiaan Mulder - Kyle Verreynne , Wicket Keeper - Marco Jansen -"
+    ],
+    [
+     "ins",
+     "Simon Harmer -"
+    ],
+    [
+     "eq",
+     "Keshav Maharaj"
+    ],
+    [
+     "del",
+     "- Simon Harmer"
+    ],
+    [
+     "eq",
+     "- Anrich Nortje away team, Australia Starting lineup - Nic Maddinson -"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Wiaan Mulder - Kyle Verreynne , Wicket Keeper - Marco Jansen -"
+    ],
+    [
+     "ins",
+     "Simon Harmer -"
+    ],
+    [
+     "eq",
+     "Keshav Maharaj"
+    ],
+    [
+     "del",
+     "- Simon Harmer"
+    ],
+    [
+     "eq",
+     "- Anrich Nortje away team, Australia Starting lineup - Nic Maddinson -"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1783,
+  "numbers_changed": [
+   "1",
+   "127.0",
+   "137.2",
+   "161",
+   "229",
+   "3",
+   "362",
+   "390",
+   "64.1",
+   "8"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9842,
+ "adjudicated_by": "rules"
+}

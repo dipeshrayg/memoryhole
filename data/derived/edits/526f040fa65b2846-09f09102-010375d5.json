@@ -1,0 +1,64 @@
+{
+ "id": "526f040fa65b2846-09f09102-010375d5",
+ "url": "https://www.france24.com/en/middle-east/20261010-palestinian-president-abbas-postpones-legislative-elections-to-september-2027",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-11T12:30:10Z",
+ "date": "2026-10-11",
+ "old_title": "Palestinian president Abbas postpones legislative, presidential elections to September 2027",
+ "new_title": "Palestinian president Abbas postpones legislative, presidential elections to September 2027",
+ "old_text": "Palestinian president Abbas postpones legislative, presidential elections to September 2027\nPalestinian president Mahmoud Abbas announced on Saturday that legislative elections would be postponed from November 28 to September 11, 2027, the official Palestinian news agency WAFA reported.\nPalestinian president Mahmoud Abbas on Saturday decreed that presidential and legislative elections both be held on September 11, 2027, postponing the previously scheduled legislative polls, according to official Palestinian media.\n\"Abbas issued a presidential decree on Saturday calling for simultaneous presidential and legislative elections to be held on September 11, 2027,\" his office said in a statement published by the Wafa news agency.\nThe legislative polls, which the international community has strongly advocated for, had been due to take place on November 28 this year, while a presidential vote had been expected in early 2027.\nRead moreIsraeli policies threaten 'life and existence' of Palestinians, Abbas tells UN\nA day earlier, Israel's foreign minister accused Palestinian president Mahmoud Abbas of \"fooling the international community\" by planning to postpone upcoming legislative polls, as indications of a delay multiplied.\n\"Mahmoud Abbas is fooling the international community by cancelling once again promised elections,\" Israeli foreign minister Gideon Saar wrote on X.\n\"They keep deceiving. Consequences? Not for the corrupt PA!\" he added.\nThe last legislative elections in the Palestinian territories were held two decades ago, and holding polls is part of the reforms demanded by the international community, including the European Union.\nPalestinian factions including Abbas' Fatah and its rival Hamas have agreed to hold a \"national dialogue\" before legislative elections in November, with a source telling AFP on Thursday that the factions were seeking to postpone the vote.\nCiting a PA source earlier in October, Palestinian official news agency WAFA reported that Israel had refused to allow Palestinian election officials access to east Jerusalem or Gaza ahead of the polls, increasing concerns that the vote will be postponed.\nIn early September, top Palestinian official Jibril Rajoub told reporters the November elections would not be held on time.\nRajoub, secretary-general of Fatah, said holding presidential elections first \"would solve a large part of the problem\".\nThe last legislative elections in the Palestinian territories were held in 2006, when Islamist movement Hamas won.\nThey defeated Fatah, which dominates the Palestinian Authority.\nThe ensuring rift set off a round of factional fighting, with Hamas later seizing power in the Gaza Strip and creating a territorial divide between Fatah in the West Bank and Hamas in Gaza.\nAs a result, the Palestinian Legislative Council, which is the PA's parliament, has not met since 2007.\nAbbas won the last Palestinian presidential election in 2005, and his term should have expired in 2009, but he has since ruled by decree.\nIn June, the 90-year-old leader signed a decree providing for a presidential election to be held at the beginning of 2027.\n(FRANCE 24 with Reuters and AFP)",
+ "new_text": "Palestinian president Abbas postpones legislative, presidential elections to September 2027\nPalestinian president Mahmoud Abbas announced on Saturday that legislative elections would be postponed from November 28 to September 11, 2027, the official Palestinian news agency WAFA reported. In his presidential decree, Abbas set the next presidential elections for that day as well.\nPalestinian president Mahmoud Abbas on Saturday decreed that presidential and legislative elections both be held on September 11, 2027, postponing the previously scheduled legislative polls, according to official Palestinian media.\n\"Abbas issued a presidential decree on Saturday calling for simultaneous presidential and legislative elections to be held on September 11, 2027,\" his office said in a statement published by the Wafa news agency.\nThe legislative polls, which the international community has strongly advocated for, had been due to take place on November 28 this year, while a presidential vote had been expected in early 2027.\nRead moreIsraeli policies threaten 'life and existence' of Palestinians, Abbas tells UN\nA day earlier, Israel's foreign minister accused Palestinian president Mahmoud Abbas of \"fooling the international community\" by planning to postpone upcoming legislative polls, as indications of a delay multiplied.\n\"Mahmoud Abbas is fooling the international community by cancelling once again promised elections,\" Israeli foreign minister Gideon Saar wrote on X.\n\"They keep deceiving. Consequences? Not for the corrupt PA!\" he added.\nThe last legislative elections in the Palestinian territories were held two decades ago, and holding polls is part of the reforms demanded by the international community, including the European Union.\nPalestinian factions including Abbas' Fatah and its rival Hamas have agreed to hold a \"national dialogue\" before legislative elections in November, with a source telling AFP on Thursday that the factions were seeking to postpone the vote.\nCiting a PA source earlier in October, Palestinian official news agency WAFA reported that Israel had refused to allow Palestinian election officials access to east Jerusalem or Gaza ahead of the polls, increasing concerns that the vote will be postponed.\nIn early September, top Palestinian official Jibril Rajoub told reporters the November elections would not be held on time.\nRajoub, secretary-general of Fatah, said holding presidential elections first \"would solve a large part of the problem\".\nThe last legislative elections in the Palestinian territories were held in 2006, when Islamist movement Hamas won.\nThey defeated Fatah, which dominates the Palestinian Authority.\nRead morePalestinian president's son Yasser Abbas elected to top Fatah post\nThe ensuring rift set off a round of factional fighting, with Hamas later seizing power in the Gaza Strip and creating a territorial divide between Fatah in the West Bank and Hamas in Gaza.\nAs a result, the Palestinian Legislative Council, which is the PA's parliament, has not met since 2007.\nAbbas won the last Palestinian presidential election in 2005, and his term should have expired in 2009, but he has since ruled by decree.\nIn June, the 90-year-old leader signed a decree providing for a presidential election to be held at the beginning of 2027.\n(FRANCE 24 with Reuters and AFP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "28 to September 11, 2027, the official Palestinian news agency WAFA reported."
+    ],
+    [
+     "ins",
+     "In his presidential decree, Abbas set the next presidential elections for that day as well."
+    ],
+    [
+     "eq",
+     "Palestinian president Mahmoud Abbas on Saturday decreed that presidential and legislative elections"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Islamist movement Hamas won. They defeated Fatah, which dominates the Palestinian Authority."
+    ],
+    [
+     "ins",
+     "Read morePalestinian president's son Yasser Abbas elected to top Fatah post"
+    ],
+    [
+     "eq",
+     "The ensuring rift set off a round of factional fighting, with Hamas"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0547,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9877,
+ "adjudicated_by": "rules"
+}
