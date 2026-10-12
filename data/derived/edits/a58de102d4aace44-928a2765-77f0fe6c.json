@@ -1,0 +1,129 @@
+{
+ "id": "a58de102d4aace44-928a2765-77f0fe6c",
+ "url": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-12T14:56:45Z",
+ "date": "2026-10-12",
+ "old_title": "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
+ "new_title": "At least 139 dead, 84 missing as migrant boat capsizes off Djibouti",
+ "old_text": "At least 109 people, including 15 children, have died and more than 116 are missing after a boat capsized off the coast of Djibouti, according to the United Nations migration agency.\nIn a statement on Sunday, the International Organization for Migration (IOM) quoted survivors as saying that the incident happened near Guhere off Djibouti's eastern coast facing the Gulf of Aden and the Bab al-Mandeb strait from Thursday night to before dawn on Friday.\nThe boat was heading from Djibouti to Yemen with more than 300 people on board. More than 80 people - all Ethiopians - survived the shipwreck while Djiboutian search and rescue operations continued.\n\"Our teams are on the ground alongside local authorities to provide emergency assistance,\" IOM Chief of Mission in Djibouti Alexandre Coissac said, lamenting the \"devastating loss of life\".\n\"This tragedy is a stark reminder of the dangers faced by migrants along this migration corridor as they seek economic opportunities.\"\nCrossing Bab al-Mandeb, a waterway that measures just 20km (12.4 miles) at its narrowest points between Djibouti and Yemen, is a popular but dangerous route for thousands of migrants from the Horn of Africa.\nMany embark on this journey in search of employment and safety in Gulf countries, undeterred by the rising instability in the region due to the US-Israel war on Iran and the resumption of fighting in Yemen between government forces and Houthi fighters last month.\nThe IOM said it had recorded \"more than 20,000 incoming movements to Djibouti from Ethiopia\" since September 10. Last year, more than half a million people tried to move along this route into Yemen, and at least 900 people died or are missing, according to the agency.\nDjibouti is not only a place where migrants depart from, but several thousand people are also fleeing to the country from Yemen due to the renewed conflict.",
+ "new_text": "At least 139 people, including 15 children, have died and 84 are missing after a boat capsized off the coast of Djibouti, according to the United Nations migration agency.\nIn a statement on Sunday, the International Organization for Migration (IOM) quoted survivors as saying that the incident happened near Guhere off Djibouti's eastern coast in the Gulf of Aden near the Bab al-Mandeb strait from Thursday night to before dawn on Friday.\nThe boat was heading from Djibouti to Yemen with more than 300 people on board. More than 80 people - all Ethiopians - survived the shipwreck while Djiboutian search and rescue operations continued.\n\"Our teams are on the ground alongside local authorities to provide emergency assistance,\" IOM Chief of Mission in Djibouti Alexandre Coissac said, lamenting the \"devastating loss of life\".\nThat number only includes those buried by authorities in Djibouti. Others have been buried by the migrants themselves but they won't be added to the official count until authorities can verify the bodies, Alexandre Coissac, IOM Chief of Mission in Djibouti, told the Associated Press.\n\"This tragedy is a stark reminder of the dangers faced by migrants along this migration corridor as they seek economic opportunities,\" Coissac added.\nUndeterred by instability\nCrossing Bab al-Mandeb, a waterway that measures just 20km (12.4 miles) at its narrowest points between Djibouti and Yemen, is a popular but dangerous route for thousands of migrants from the Horn of Africa.\nMany embark on this journey in search of employment and safety in Gulf countries, undeterred by the rising instability in the region due to the US-Israel war on Iran and the resumption of fighting in Yemen between government forces and Houthi fighters last month.\nThe IOM said it had recorded \"more than 20,000 incoming movements to Djibouti from Ethiopia\" since September 10. Last year, more than half a million people tried to move along this route into Yemen, and at least 900 people died or are missing, according to the agency.\nDjibouti is not only a place where migrants depart from, but several thousand people are also fleeing to the country from Yemen due to the renewed conflict.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "At least"
+    ],
+    [
+     "del",
+     "109"
+    ],
+    [
+     "ins",
+     "139"
+    ],
+    [
+     "eq",
+     "people, including 15 children, have died and"
+    ],
+    [
+     "del",
+     "more than 116"
+    ],
+    [
+     "ins",
+     "84"
+    ],
+    [
+     "eq",
+     "are missing after a boat capsized off the coast of Djibouti, according"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "as saying that the incident happened near Guhere off Djibouti's eastern coast"
+    ],
+    [
+     "del",
+     "facing"
+    ],
+    [
+     "ins",
+     "in"
+    ],
+    [
+     "eq",
+     "the Gulf of Aden"
+    ],
+    [
+     "del",
+     "and"
+    ],
+    [
+     "ins",
+     "near"
+    ],
+    [
+     "eq",
+     "the Bab al-Mandeb strait from Thursday night to before dawn on Friday."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Mission in Djibouti Alexandre Coissac said, lamenting the \"devastating loss of life\"."
+    ],
+    [
+     "ins",
+     "That number only includes those buried by authorities in Djibouti. Others have been buried by the migrants themselves but they won't be added to the official count until authorities can verify the bodies, Alexandre Coissac, IOM Chief of Mission in Djibouti, told the Associated Press."
+    ],
+    [
+     "eq",
+     "\"This tragedy is a stark reminder of the dangers faced by migrants along this migration corridor as they seek economic"
+    ],
+    [
+     "del",
+     "opportunities.\""
+    ],
+    [
+     "ins",
+     "opportunities,\" Coissac added. Undeterred by instability"
+    ],
+    [
+     "eq",
+     "Crossing Bab al-Mandeb, a waterway that measures just 20km (12.4 miles) at"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2013,
+  "numbers_changed": [
+   "109",
+   "116",
+   "139",
+   "84"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.853,
+ "similarity": 0.8528,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,158 @@
+{
+ "id": "6f9f2d7976ecc709-5615cd30-bd751884",
+ "url": "https://www.france24.com/en/europe/20261011-ukraine-ready-halt-refinery-strikes-if-moscow-stops-energy-attacks-zelensky-says",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-12T14:58:24Z",
+ "date": "2026-10-12",
+ "old_title": "Ukraine ready to halt refinery strikes if Moscow stops energy attacks",
+ "new_title": "Ukraine says ready to halt refinery strikes if Moscow stops energy attacks",
+ "old_text": "Ukraine ready to halt refinery strikes if Moscow stops energy attacks\nUkrainian President Volodymyr Zelensky on Sunday said Kyiv was ready to halt strikes Russian oil refineries if Moscow stopped attacks on Ukrainian energy infrastructure. The announcement comes after US President Donald Trump publicly urged him to stop targeting Russian refineries.\nUkraine is ready to halt attacks on Russian oil refineries if Moscow ceases its own strikes on Ukrainian energy infrastructure, President Volodymyr Zelensky said on Sunday, after US President Donald Trump demanded that Kyiv unilaterally stop its strikes.\nOn Saturday, Trump blamed Ukrainian strikes on Russian refineries for raising US diesel prices and said Zelensky had \"better damn well stop\", adding that Ukraine should replace him as leader because he had missed several opportunities to strike a deal with Moscow.\nThe steep rise in global diesel prices, which followed the outbreak of the Iran war in February, has become a political liability for Trump's Republican Party ahead of next month's midterm elections, when opposition Democrats could gain control of one or both houses of Congress.\nZelensky on Sunday repeated Ukraine's long-standing position that it was willing to halt attacks on Russian refineries only as part of a mutual de-escalation of the conflict, which would require Moscow to cease its own strikes on Ukrainian power infrastructure.\nAny such deal would need to come with \"real guarantees\", Zelensky said.\n\"The real cause of the war in Europe is Russia and Russia alone,\" Zelensky said, without alluding specifically to Trump's remarks. \"It's possible to stop strikes on energy infrastructure as early as today, but Putin does not want to do so.\"\nOn Saturday, Zelensky responded angrily to Trump's announcement of a diesel supply deal with Russia, which he said would embolden Moscow's attacks on Ukraine.\nAnalysts said Trump's agreement with Moscow was unlikely to lead to sustained lower fuel prices, with the volumes still much lower than what Russia usually exports when its refineries are not under attack.\nThe diesel deal was also criticised by US lawmakers, including one of Trump's fellow Republicans, Representative Don Bacon, who said it was time to apply more sanctions, not lift them.\nOn the streets of Kyiv, several residents expressed anger at Trump's suggestion that Ukraine should find a new leader willing to make a deal with Russian President Vladimir Putin.\n\"No one has the right to tell us what to do, especially since elections cannot be held during wartime,\" said Sabina, a 40-year-old primary school teacher, referring to Ukraine's prohibition on elections under martial law for security reasons.\n\"In my view, it is a betrayal by our partners,\" she said, describing Trump's remarks.\nRead moreTrump says Ukraine needs new president after Zelensky pushes back on diesel deal\nZelensky said he would continue discussions with European leaders on Sunday, and there were daily conversations around additional air defence packages, including ammunition for combat aircraft that are used to down Russia's jet-powered drones.\nOn Monday, Ukrainian Foreign Minister Andrii Sybiha is due to participate in a European Union Foreign Affairs Council meeting that is expected to discuss increasing sanctions pressure on Russia and advancing negotiations on Ukraine's EU accession.\n(FRANCE 24 with Reuters)",
+ "new_text": "Ukraine says ready to halt refinery strikes if Moscow stops energy attacks\nUkrainian President Volodymyr Zelensky on Sunday said Kyiv was ready to halt strikes Russian oil refineries if Moscow stopped attacks on Ukrainian energy infrastructure. Zelensky also pushed back on US President Donald Trump's comments made Saturday evening calling for Ukraine to elect a new leader by saying, \"It's up to our people\".\nUkraine is ready to halt attacks on Russian oil refineries if Moscow ceases its own strikes on Ukrainian energy infrastructure, President Volodymyr Zelensky said on Sunday, after US President Donald Trump demanded that Kyiv unilaterally stop its strikes.\nOn Saturday, Trump blamed Ukrainian strikes on Russian refineries for raising US diesel prices and said Zelensky had \"better damn well stop\", adding that Ukraine should replace him as leader because he had missed several opportunities to strike a deal with Moscow.\nThe steep rise in global diesel prices, which followed the outbreak of the Iran war in February, has become a political liability for Trump's Republican Party ahead of next month's midterm elections, when opposition Democrats could gain control of one or both houses of Congress.\nZelensky on Sunday repeated Ukraine's long-standing position that it was willing to halt attacks on Russian refineries only as part of a mutual de-escalation of the conflict, which would require Moscow to cease its own strikes on Ukrainian power infrastructure.\nAny such deal would need to come with \"real guarantees\", Zelensky said.\n\"The real cause of the war in Europe is Russia and Russia alone,\" Zelensky said, without alluding specifically to Trump's remarks. \"It's possible to stop strikes on energy infrastructure as early as today, but Putin does not want to do so.\"\nOn Saturday, Zelensky responded angrily to Trump's announcement of a diesel supply deal with Russia, which he said would embolden Moscow's attacks on Ukraine.\nAnalysts said Trump's agreement with Moscow was unlikely to lead to sustained lower fuel prices, with the volumes still much lower than what Russia usually exports when its refineries are not under attack.\nThe diesel deal was also criticised by US lawmakers, including one of Trump's fellow Republicans, Representative Don Bacon, who said it was time to apply more sanctions, not lift them.\nRead moreTrump says Ukraine needs new president after Zelensky pushes back on diesel deal\n'Give us 60 days of total ceasefire' for elections\nIn response to Trump's calls for Ukraine to elect a new leader, Zelensky told ABC News on Sunday, \"First of all, with all respect to President Trump, it's up to our society, up to our people to choose one or another leader.\"\nThe Ukrainian leader said he told Trump's team that if they really wanted Ukraine to hold elections, \"Please tell [Russian President Vladimir] Putin give us two months, 60 days of total ceasefire, 60 days, and we will organise elections.\"\nOn the streets of Kyiv, several residents expressed anger at Trump's suggestion that Ukraine should find a new leader willing to make a deal with Putin.\n\"No one has the right to tell us what to do, especially since elections cannot be held during wartime,\" said Sabina, a 40-year-old primary school teacher, referring to Ukraine's prohibition on elections under martial law for security reasons.\n\"In my view, it is a betrayal by our partners,\" she said, describing Trump's remarks.\nZelensky said he would continue discussions with European leaders on Sunday, and there were daily conversations around additional air defence packages, including ammunition for combat aircraft that are used to down Russia's jet-powered drones.\nOn Monday, Ukrainian Foreign Minister Andrii Sybiha is due to participate in a European Union Foreign Affairs Council meeting that is expected to discuss increasing sanctions pressure on Russia and advancing negotiations on Ukraine's EU accession.\n(FRANCE 24 with Reuters and AFP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Ukraine"
+    ],
+    [
+     "ins",
+     "says"
+    ],
+    [
+     "eq",
+     "ready to halt refinery strikes if Moscow stops energy attacks Ukrainian President"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "strikes Russian oil refineries if Moscow stopped attacks on Ukrainian energy infrastructure."
+    ],
+    [
+     "del",
+     "The announcement comes after"
+    ],
+    [
+     "ins",
+     "Zelensky also pushed back on"
+    ],
+    [
+     "eq",
+     "US President Donald"
+    ],
+    [
+     "del",
+     "Trump publicly urged him"
+    ],
+    [
+     "ins",
+     "Trump's comments made Saturday evening calling for Ukraine"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "stop targeting Russian refineries."
+    ],
+    [
+     "ins",
+     "elect a new leader by saying, \"It's up to our people\"."
+    ],
+    [
+     "eq",
+     "Ukraine is ready to halt attacks on Russian oil refineries if Moscow"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "who said it was time to apply more sanctions, not lift them."
+    ],
+    [
+     "ins",
+     "Read moreTrump says Ukraine needs new president after Zelensky pushes back on diesel deal 'Give us 60 days of total ceasefire' for elections In response to Trump's calls for Ukraine to elect a new leader, Zelensky told ABC News on Sunday, \"First of all, with all respect to President Trump, it's up to our society, up to our people to choose one or another leader.\" The Ukrainian leader said he told Trump's team that if they really wanted Ukraine to hold elections, \"Please tell [Russian President Vladimir] Putin give us two months, 60 days of total ceasefire, 60 days, and we will organise elections.\""
+    ],
+    [
+     "eq",
+     "On the streets of Kyiv, several residents expressed anger at Trump's suggestion"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Ukraine should find a new leader willing to make a deal with"
+    ],
+    [
+     "del",
+     "Russian President Vladimir"
+    ],
+    [
+     "eq",
+     "Putin. \"No one has the right to tell us what to do,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "it is a betrayal by our partners,\" she said, describing Trump's remarks."
+    ],
+    [
+     "del",
+     "Read moreTrump says Ukraine needs new president after Zelensky pushes back on diesel deal"
+    ],
+    [
+     "eq",
+     "Zelensky said he would continue discussions with European leaders on Sunday, and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "on Russia and advancing negotiations on Ukraine's EU accession. (FRANCE 24 with"
+    ],
+    [
+     "del",
+     "Reuters)"
+    ],
+    [
+     "ins",
+     "Reuters and AFP)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.308,
+  "numbers_changed": [
+   "60"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.15,
+ "similarity": 0.9729,
+ "adjudicated_by": "rules"
+}

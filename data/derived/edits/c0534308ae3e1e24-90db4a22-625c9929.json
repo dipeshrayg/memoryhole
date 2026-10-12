@@ -1,0 +1,136 @@
+{
+ "id": "c0534308ae3e1e24-90db4a22-625c9929",
+ "url": "https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-12T14:57:29Z",
+ "date": "2026-10-12",
+ "old_title": "A migrant boat sank off the coast of Djibouti with the UN reporting over 200 people dead or missing",
+ "new_title": "A migrant boat sank off the coast of Djibouti with the UN reporting over 200 people dead or missing",
+ "old_text": "The United Nations International Organization for Migration (IOM) on Sunday said that 109 people were killed, 80 survived and 116 remained missing after the overnight sinking of a migrant boat off the coast of Djibouti in northeastern Africa.\nThe vessel, which was estimated to have been carrying 350 people, capsized near Obock, Djibouti, en route to Yemen.\nIn a statement, IOM Chief of Mission in Djibouti Alexandre Coissac called the loss of life \"devastating,\" adding, \"This tragedy is a stark reminder of the dangers faced by migrants along this migration corridor as they seek economic opportunities\" by trying to cross the Bab el-Mandeb Strait to Yemen and reach Gulf countries.\n\"Poverty, insecurity and the growing impacts of climate change drive many to undertake this journey, despite mounting instability across the Middle East,\" according to the IOM.\nIOM representatives said, \"Djiboutian authorities are continuing search and rescue operations as fears grow for those still missing.\"\nDjibouti to Yemen a dangerous crossing\nThe IOM says it has detected more than 20,000 crossings from Djibouti to Yemen - which is currently in the middle of a raging civil war - in the past month. More than 900 migrants were killed attempting the passage in 2025.\nThe IOM says most of those attempting to cross are from Ethiopia and Somalia. The 80 survivors from Saturday night's capsizing were all Ethiopian nationals.\nThe IMO on Sunday urged \"donors and partners to strengthen support for Djibouti's response, including search and rescue operations and life-saving assistance.\"\nOf the bodies so far recovered, 52 were men, 42 were women and 15 were children.\nEdited by: Wesley Rahn\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "new_text": "The United Nations International Organization for Migration (IOM) on Sunday said that at least 139 people were killed when a migrant boat carrying an estimated 305 people capsized off the coast of Djibouti in northeastern Africa.\nAt least 84 people remained missing in what is thought to be one of the deadliest shipwrecks yet on the popular but perilous crossing from the Horn of Africa to the Arabian Peninsula, where many migrants seek work in rich Gulf nations.\nIn a statement, IOM Chief of Mission in Djibouti Alexandre Coissac called the loss of life \"devastating,\" adding, \"This tragedy is a stark reminder of the dangers faced by migrants along this migration corridor as they seek economic opportunities\" by trying to cross the Bab el-Mandeb Strait to Yemen and reach Gulf countries.\n\"Poverty, insecurity and the growing impacts of climate change drive many to undertake this journey, despite mounting instability across the Middle East,\" according to the IOM.\nIOM representatives said, \"Djiboutian authorities are continuing search and rescue operations as fears grow for those still missing.\"\nDjibouti to Yemen a dangerous crossing\nThe IOM says it has detected more than 20,000 crossings from Djibouti to Yemen - which is currently in the middle of a raging civil war - in the past month. More than 900 migrants were killed attempting the passage in 2025.\nThe IOM says most of those attempting to cross are from Ethiopia and Somalia. The 80 survivors from Saturday night's capsizing were all Ethiopian nationals.\nThe IOM on Sunday urged \"donors and partners to strengthen support for Djibouti's response, including search and rescue operations and life-saving assistance.\"\nOf the bodies so far recovered, 52 were men, 42 were women and 15 were children.\nEdited by: Wesley Rahn\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "The United Nations International Organization for Migration (IOM) on Sunday said that"
+    ],
+    [
+     "del",
+     "109"
+    ],
+    [
+     "ins",
+     "at least 139"
+    ],
+    [
+     "eq",
+     "people were"
+    ],
+    [
+     "del",
+     "killed, 80 survived and 116 remained missing after the overnight sinking of"
+    ],
+    [
+     "ins",
+     "killed when"
+    ],
+    [
+     "eq",
+     "a migrant boat"
+    ],
+    [
+     "ins",
+     "carrying an estimated 305 people capsized"
+    ],
+    [
+     "eq",
+     "off the coast of Djibouti in northeastern Africa."
+    ],
+    [
+     "del",
+     "The vessel, which was estimated"
+    ],
+    [
+     "ins",
+     "At least 84 people remained missing in what is thought"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "have been carrying 350 people, capsized near Obock, Djibouti, en route"
+    ],
+    [
+     "ins",
+     "be one of the deadliest shipwrecks yet on the popular but perilous crossing from the Horn of Africa"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "Yemen."
+    ],
+    [
+     "ins",
+     "the Arabian Peninsula, where many migrants seek work in rich Gulf nations."
+    ],
+    [
+     "eq",
+     "In a statement, IOM Chief of Mission in Djibouti Alexandre Coissac called"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "The 80 survivors from Saturday night's capsizing were all Ethiopian nationals. The"
+    ],
+    [
+     "del",
+     "IMO"
+    ],
+    [
+     "ins",
+     "IOM"
+    ],
+    [
+     "eq",
+     "on Sunday urged \"donors and partners to strengthen support for Djibouti's response,"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2776,
+  "numbers_changed": [
+   "109",
+   "116",
+   "139",
+   "305",
+   "350",
+   "80",
+   "84"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9677,
+ "adjudicated_by": "rules"
+}

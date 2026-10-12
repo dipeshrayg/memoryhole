@@ -1,0 +1,246 @@
+{
+ "id": "0db1cf89e89e0989-a83e36a7-e39a8351",
+ "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-12T14:54:56Z",
+ "date": "2026-10-12",
+ "old_title": "Pope Leo XIV to have surgery after lump found on lung",
+ "new_title": "Pope Leo XIV to have surgery after nodule found on lung",
+ "old_text": "- Published\nPope Leo XIV has announced he will be operated \"in the coming days\" after a nodule was found on his lung during a medical check up.\n\"The doctors found an early, well-localised nodule on my lung,\" he told the public during his weekly Sunday prayers in St Peter's Square in Rome.\nThe 71-year-old pontiff said his medical team \"believe it would be right to intervene\" and he had agreed to the operation.\nPope Leo reassured pilgrims that the mass was \"well-contained\" and caught \"at an early stage\".\nHe concluded his Angelus prayer by thanking everyone for their \"spiritual closeness\" and said he entrusted himself to their prayers.\nHoly See Press Office spokesperson Matteo Bruni told the media that \"the operation is scheduled for the first days of next week\".\nBruni added that the Pope is expected to take about a week to recover.\nVatican News, the Holy See's news portal, said the operation will take place at Gemelli Hospital in Rome.\nThe hospital set up a special Papal suite following the failed assassination attempt on Pope John Paul II's life in May 1981, which is still in use today.\nItaly's Prime Minister Giorgia Meloni expressed her \"personal solidarity\" to the Pope in a post on X as he \"faces the ordeal ahead in the coming days\".\nPope Leo, born Robert Francis Provost, succeeded Pope Francis in 2025. He is the 267th occupant of the throne of St Peter â and is the first American.\nHe was ordained in 1982 and spent years as a missionary in Peru, where he is remembered as a figure who worked with marginalised communities.\nDuring Sunday's service, the Pope confirmed his visit to Uruguay, Argentina and Peru in November will still go ahead.\nAccording to the National Health Service, a lung nodule is a small lump of tissue that is usually detected following an X-ray or CT scan of the chest.\nMost nodules are do not cause other symptoms.",
+ "new_text": "- Published\nPope Leo XIV has announced he will be operated on \"in the coming days\" after a nodule was found on his lung during a medical check-up.\n\"The doctors found an early, well-localised nodule on my lung,\" he told the public during his weekly Sunday prayers in St Peter's Square in Rome.\nThe 71-year-old said his medical team \"believe it would be right to intervene\" and he had agreed to the operation, while reassuring pilgrims that the mass was \"well-contained\" and caught \"at an early stage\".\nThe pontiff's admission that he would need surgery comes nearly a year-and-a-half after he succeeded the late Pope Francis, who also experienced issues with his lungs that required hospital treatment.\nLeo concluded his Angelus prayer by thanking everyone for their \"spiritual closeness\" and said he entrusted himself to their prayers.\nHoly See Press Office spokesman Matteo Bruni told the media that \"the operation is scheduled for the first days of next week\".\nHe added that the Pope is expected to take about a week to recover.\nVatican News, the Holy See's news portal, said the operation will take place at Gemelli Hospital in Rome.\nThe hospital set up a special Papal suite following the failed assassination attempt on Pope John Paul II's life in May 1981, which is still in use today.\nItaly's Prime Minister Giorgia Meloni expressed her \"personal solidarity\" with the Pope as he \"faces the ordeal ahead in the coming days\".\nHer sentiments were echoed by Italian President Sergio Mattarella, who offered his \"sincerest wishes for a peaceful recovery and a speedy and full return to health\".\nIsaac Herzog, the president of Israel, also wished the pontiff \"a full and speedy recovery\".\nThe Pope, born Robert Francis Prevost, is the 267th occupant of the throne of St Peter â the first US citizen to do so.\nHe was ordained in 1982 and spent years as a missionary in Peru, where he is remembered as a figure who worked with marginalised communities.\nDuring Sunday's service, the Pope confirmed his upcoming visit to Uruguay, Argentina and Peru in November will still go ahead.\nThe Archbishop of Montevideo, Daniel Sturla, said preparations for his tour will continue with \"greater enthusiasm\" as he called for prayers for his recovery.\nA lung nodule is a small lump of tissue that is usually detected following an X-ray or CT scan of the chest, according to the NHS.\nMost nodules do not cause other symptoms.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published Pope Leo XIV has announced he will be operated"
+    ],
+    [
+     "ins",
+     "on"
+    ],
+    [
+     "eq",
+     "\"in the coming days\" after a nodule was found on his lung during a medical"
+    ],
+    [
+     "del",
+     "check up."
+    ],
+    [
+     "ins",
+     "check-up."
+    ],
+    [
+     "eq",
+     "\"The doctors found an early, well-localised nodule on my lung,\" he told"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "his weekly Sunday prayers in St Peter's Square in Rome. The 71-year-old"
+    ],
+    [
+     "del",
+     "pontiff"
+    ],
+    [
+     "eq",
+     "said his medical team \"believe it would be right to intervene\" and he had agreed to the"
+    ],
+    [
+     "del",
+     "operation. Pope Leo reassured"
+    ],
+    [
+     "ins",
+     "operation, while reassuring"
+    ],
+    [
+     "eq",
+     "pilgrims that the mass was \"well-contained\" and caught \"at an early stage\"."
+    ],
+    [
+     "del",
+     "He"
+    ],
+    [
+     "ins",
+     "The pontiff's admission that he would need surgery comes nearly a year-and-a-half after he succeeded the late Pope Francis, who also experienced issues with his lungs that required hospital treatment. Leo"
+    ],
+    [
+     "eq",
+     "concluded his Angelus prayer by thanking everyone for their \"spiritual closeness\" and said he entrusted himself to their prayers. Holy See Press Office"
+    ],
+    [
+     "del",
+     "spokesperson"
+    ],
+    [
+     "ins",
+     "spokesman"
+    ],
+    [
+     "eq",
+     "Matteo Bruni told the media that \"the operation is scheduled for the first days of next week\"."
+    ],
+    [
+     "del",
+     "Bruni"
+    ],
+    [
+     "ins",
+     "He"
+    ],
+    [
+     "eq",
+     "added that the Pope is expected to take about a week to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "in use today. Italy's Prime Minister Giorgia Meloni expressed her \"personal solidarity\""
+    ],
+    [
+     "del",
+     "to"
+    ],
+    [
+     "ins",
+     "with"
+    ],
+    [
+     "eq",
+     "the Pope"
+    ],
+    [
+     "del",
+     "in a post on X"
+    ],
+    [
+     "eq",
+     "as he \"faces the ordeal ahead in the coming days\"."
+    ],
+    [
+     "del",
+     "Pope Leo,"
+    ],
+    [
+     "ins",
+     "Her sentiments were echoed by Italian President Sergio Mattarella, who offered his \"sincerest wishes for a peaceful recovery and a speedy and full return to health\". Isaac Herzog, the president of Israel, also wished the pontiff \"a full and speedy recovery\". The Pope,"
+    ],
+    [
+     "eq",
+     "born Robert Francis"
+    ],
+    [
+     "del",
+     "Provost, succeeded Pope Francis in 2025. He"
+    ],
+    [
+     "ins",
+     "Prevost,"
+    ],
+    [
+     "eq",
+     "is the 267th occupant of the throne of St Peter â"
+    ],
+    [
+     "del",
+     "and is"
+    ],
+    [
+     "eq",
+     "the first"
+    ],
+    [
+     "del",
+     "American."
+    ],
+    [
+     "ins",
+     "US citizen to do so."
+    ],
+    [
+     "eq",
+     "He was ordained in 1982 and spent years as a missionary in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "who worked with marginalised communities. During Sunday's service, the Pope confirmed his"
+    ],
+    [
+     "ins",
+     "upcoming"
+    ],
+    [
+     "eq",
+     "visit to Uruguay, Argentina and Peru in November will still go ahead."
+    ],
+    [
+     "del",
+     "According to the National Health Service, a"
+    ],
+    [
+     "ins",
+     "The Archbishop of Montevideo, Daniel Sturla, said preparations for his tour will continue with \"greater enthusiasm\" as he called for prayers for his recovery. A"
+    ],
+    [
+     "eq",
+     "lung nodule is a small lump of tissue that is usually detected following an X-ray or CT scan of the"
+    ],
+    [
+     "del",
+     "chest."
+    ],
+    [
+     "ins",
+     "chest, according to the NHS."
+    ],
+    [
+     "eq",
+     "Most nodules"
+    ],
+    [
+     "del",
+     "are"
+    ],
+    [
+     "eq",
+     "do not cause other symptoms."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4785,
+  "numbers_changed": [
+   "2025"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.818,
+ "similarity": 0.9337,
+ "adjudicated_by": "rules"
+}
