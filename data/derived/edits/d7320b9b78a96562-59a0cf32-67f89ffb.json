@@ -1,0 +1,491 @@
+{
+ "id": "d7320b9b78a96562-59a0cf32-67f89ffb",
+ "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-13T13:53:50Z",
+ "date": "2026-10-13",
+ "old_title": "Immigration officials search Congresswoman Ilhan Omar home",
+ "new_title": "Immigration agents search congresswoman Ilhan Omar's home",
+ "old_text": "- Published\nUS immigration agents searched the home of Minnesota Representative Ilhan Omar on Monday morning as part of a \"criminal investigation\".\nHomeland Security Investigations (HSI) agents \"executed a judicially authorized search warrant\" for the home in the Washington, DC, area, a US justice department spokesperson told CBS News, the BBC's US partner.\nThe search \"is part of an ongoing federal criminal investigation,\" the spokesperson said but no further details were given.\nOmar was born in Somalia and came to the US aged eight fleeing war. First elected to Congress in 2018, she is running for reelection next month, and is an outspoken critic of President Donald Trump.\nThe US Congress is currently out of session and it is unclear if Omar was at the home. The BBC has contacted Omar for comment.\nWhile the nature of the criminal investigation remains unclear, it is not the first time her immigration records have been scrutinised by Republicans. Earlier this year, fellow Congresswoman Nancy Mace of South Carolina unsuccessfully filed a subpoena of her records.\nOmar, a Democrat, has been the target of Trump's insults and the president previously suggested that she \"should go back\" to Somalia and at times said she should be deported. US citizenship is required to serve as a US House Representative.\nOmar has responded to Trump's insults and attacks describing them as \"unhealthy and creepy obsession.\"\nThe president has also spoken unfavourably about the Somali American community. Last week, he wrote on social media that Minnesota \"is being taken over by Somali immigrants\" and said \"the people of Minnesota must fight back.\"\nOmar is the first Somali-American elected to the US House of Representatives and she represents a district in the Minneapolis area. She and Michigan Representative Rashida Tlaib were the first Muslim women elected to Congress.",
+ "new_text": "- Published\nUS immigration agents have searched the home of Minnesota Representative Ilhan Omar as part of a criminal investigation.\nHomeland Security Investigations (HSI) agents \"executed a judicially authorised search warrant\" for the property in the Washington DC area, a US justice department spokesperson said.\nThe search \"is part of an ongoing federal criminal investigation\", the spokesperson said, but no further details were given. The US Congress is currently out of session and it is unclear if Omar was at the home.\nOmar, a Democrat and outspoken critic of President Donald Trump, described the search on social media as \"an attempt to target political enemies and weaponize federal law enforcement\".\n\"For ten years, Trump has targeted me with baseless lies and smear campaigns,\" Omar said in the post.\n\"This is just the latest escalation in his campaign of political intimidation. I will not be silenced.\"\nSpeaking to reporters on Monday, Trump said he had \"nothing to do\" with the justice department's investigation into Omar, while describing her as a \"complainer\" and a \"terrible person\".\nThe Republican president said of the Somali-born congresswoman: \"She comes from a country that is a non-country.\n\"And then she comes over here and she complains about our Constitution.\"\nAt a rally in Ohio later on Monday, Trump referred to the search of Omar's home, saying: \"I don't know what they're doing with it, but I can tell you this: she's a disaster.\"\nTrump went on to denigrate Somalis in the US more generally, which was greeted with chants of \"deport\" in the crowd, US media reported.\nOmar's communications director, Jacklyn Rogers, called Monday morning's raid \"an outrageous abuse of power\" by the Trump administration, and said the congresswoman \"has done nothing wrong\".\nThe nature of the criminal investigation remains unclear.\nAn ally of Omar gave an update to the BBC World Service's Newsday programme. Asma Mohammed said: \"She is doing well, she's let everyone know that she's okay and that she is used to attacks from the president but this is a new low from him.\"\nDuring Monday's search, a BBC crew saw several agents at Omar's home, some carrying boxes to a van.\nNews of the search was first reported by Fox News, which said the investigation was about immigration paperwork filed by her late father when Omar was a child.\nThe timing of the raid - 22 days before the November midterm elections, which will decide the balance of power in Congress for the next two years - raised concerns from Omar's fellow Democrats.\nThe justice department has a longstanding policy of refraining from most enforcement action that is \"likely to raise an issue or the perception\" it is being brought for the purpose of affecting any election or to disadvantage a candidate.\nLeading Democrats in the House of Representatives said in a statement that Omar had long been targeted with \"vile personal attacks and baseless accusations\" by Trump.\n\"Now, less than 30 days until the midterm election, his violent mass deportation machine has descended upon the home of a duly elected Member of Congress and her family,\" they said.\nOmar's immigration records have been scrutinised in the past by Republicans and earlier this year, a fellow congresswoman, Nancy Mace of South Carolina, unsuccessfully sought a subpoena for her records.\nLast month, Homeland Security Secretary Markwayne Mullin told a conservative podcaster \"something is going to happen\", and made allegations of marital fraud against Omar.\nSeparately, the White House's border tsar, Tom Homan, told Fox News that Omar was being investigated for unspecified immigration violations.\nOmar denied these allegations last month.\n\"I will say it again so it's as clear as possible: I'm not at all worried about these investigations, because they are complete shams,\" she said in a campaign fundraising email.\nTrump has previously suggested that Omar \"should go back\" to Somalia and that she should be deported. US citizenship is required to serve as a member of the House.\nOmar has responded to Trump's insults and attacks, describing them as an \"unhealthy and creepy obsession\".\nThe president has also singled out the Somali-American community. Last week, he wrote on social media that Minnesota \"is being taken over by Somali immigrants\" and \"the people of Minnesota must fight back\".\nSome Republicans celebrated Monday's search.\n\"Nobody is above the law,\" said Tom Emmer, who also represents Minnesota in the House. \"We look forward to learning more details about this raid and investigation. ACCOUNTABILITY IS COMING!\"\nOmar is the first Somali American elected to the House and she represents a district in the Minneapolis area. She and Michigan Congresswoman Rashida Tlaib were the first Muslim women elected to Congress.\nOmar won re-election two years ago with 74% of the vote.\nSenior political leaders in Minnesota have criticised the search.\nGovernor Tim Walz, a fellow Democrat, said: \"Americans see this for what it is - President Trump is abusing his power to go after political opponents weeks before an election.\"\nMinnesota Senator Tina Smith called it \"a transparent attempt to interfere in our elections\".\nAdditional reporting by Ione Wells",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published US immigration agents"
+    ],
+    [
+     "ins",
+     "have"
+    ],
+    [
+     "eq",
+     "searched the home of Minnesota Representative Ilhan Omar"
+    ],
+    [
+     "del",
+     "on Monday morning"
+    ],
+    [
+     "eq",
+     "as part of a"
+    ],
+    [
+     "del",
+     "\"criminal investigation\"."
+    ],
+    [
+     "ins",
+     "criminal investigation."
+    ],
+    [
+     "eq",
+     "Homeland Security Investigations (HSI) agents \"executed a judicially"
+    ],
+    [
+     "del",
+     "authorized"
+    ],
+    [
+     "ins",
+     "authorised"
+    ],
+    [
+     "eq",
+     "search warrant\" for the"
+    ],
+    [
+     "del",
+     "home"
+    ],
+    [
+     "ins",
+     "property"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "Washington, DC,"
+    ],
+    [
+     "ins",
+     "Washington DC"
+    ],
+    [
+     "eq",
+     "area, a US justice department spokesperson"
+    ],
+    [
+     "del",
+     "told CBS News, the BBC's US partner."
+    ],
+    [
+     "ins",
+     "said."
+    ],
+    [
+     "eq",
+     "The search \"is part of an ongoing federal criminal"
+    ],
+    [
+     "del",
+     "investigation,\""
+    ],
+    [
+     "ins",
+     "investigation\","
+    ],
+    [
+     "eq",
+     "the spokesperson"
+    ],
+    [
+     "del",
+     "said"
+    ],
+    [
+     "ins",
+     "said,"
+    ],
+    [
+     "eq",
+     "but no further details were given."
+    ],
+    [
+     "del",
+     "Omar was born in Somalia and came to the US aged eight fleeing war. First elected to Congress in 2018, she is running for reelection next month, and is an outspoken critic of President Donald Trump."
+    ],
+    [
+     "eq",
+     "The US Congress is currently out of session and it is unclear if Omar was at the home."
+    ],
+    [
+     "ins",
+     "Omar, a Democrat and outspoken critic of President Donald Trump, described the search on social media as \"an attempt to target political enemies and weaponize federal law enforcement\". \"For ten years, Trump has targeted me with baseless lies and smear campaigns,\" Omar said in the post. \"This is just the latest escalation in his campaign of political intimidation. I will not be silenced.\" Speaking to reporters on Monday, Trump said he had \"nothing to do\" with the justice department's investigation into Omar, while describing her as a \"complainer\" and a \"terrible person\"."
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "BBC has contacted Omar for comment. While"
+    ],
+    [
+     "ins",
+     "Republican president said of"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "ins",
+     "Somali-born congresswoman: \"She comes from a country that is a non-country. \"And then she comes over here and she complains about our Constitution.\" At a rally in Ohio later on Monday, Trump referred to the search of Omar's home, saying: \"I don't know what they're doing with it, but I can tell you this: she's a disaster.\" Trump went on to denigrate Somalis in the US more generally, which was greeted with chants of \"deport\" in the crowd, US media reported. Omar's communications director, Jacklyn Rogers, called Monday morning's raid \"an outrageous abuse of power\" by the Trump administration, and said the congresswoman \"has done nothing wrong\". The"
+    ],
+    [
+     "eq",
+     "nature of the criminal investigation remains"
+    ],
+    [
+     "del",
+     "unclear,"
+    ],
+    [
+     "ins",
+     "unclear. An ally of Omar gave an update to the BBC World Service's Newsday programme. Asma Mohammed said: \"She is doing well, she's let everyone know that she's okay and that she is used to attacks from the president but this is a new low from him.\" During Monday's search, a BBC crew saw several agents at Omar's home, some carrying boxes to a van. News of the search was first reported by Fox News, which said the investigation was about immigration paperwork filed by her late father when Omar was a child. The timing of the raid - 22 days before the November midterm elections, which will decide the balance of power in Congress for the next two years - raised concerns from Omar's fellow Democrats. The justice department has a longstanding policy of refraining from most enforcement action that is \"likely to raise an issue or the perception\""
+    ],
+    [
+     "eq",
+     "it is"
+    ],
+    [
+     "del",
+     "not"
+    ],
+    [
+     "ins",
+     "being brought for"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "first time"
+    ],
+    [
+     "ins",
+     "purpose of affecting any election or to disadvantage a candidate. Leading Democrats in the House of Representatives said in a statement that Omar had long been targeted with \"vile personal attacks and baseless accusations\" by Trump. \"Now, less than 30 days until the midterm election, his violent mass deportation machine has descended upon the home of a duly elected Member of Congress and"
+    ],
+    [
+     "eq",
+     "her"
+    ],
+    [
+     "ins",
+     "family,\" they said. Omar's"
+    ],
+    [
+     "eq",
+     "immigration records have been scrutinised"
+    ],
+    [
+     "ins",
+     "in the past"
+    ],
+    [
+     "eq",
+     "by"
+    ],
+    [
+     "del",
+     "Republicans. Earlier"
+    ],
+    [
+     "ins",
+     "Republicans and earlier"
+    ],
+    [
+     "eq",
+     "this year,"
+    ],
+    [
+     "ins",
+     "a"
+    ],
+    [
+     "eq",
+     "fellow"
+    ],
+    [
+     "del",
+     "Congresswoman"
+    ],
+    [
+     "ins",
+     "congresswoman,"
+    ],
+    [
+     "eq",
+     "Nancy Mace of South"
+    ],
+    [
+     "del",
+     "Carolina"
+    ],
+    [
+     "ins",
+     "Carolina,"
+    ],
+    [
+     "eq",
+     "unsuccessfully"
+    ],
+    [
+     "del",
+     "filed"
+    ],
+    [
+     "ins",
+     "sought"
+    ],
+    [
+     "eq",
+     "a subpoena"
+    ],
+    [
+     "del",
+     "of"
+    ],
+    [
+     "ins",
+     "for"
+    ],
+    [
+     "eq",
+     "her records."
+    ],
+    [
+     "del",
+     "Omar,"
+    ],
+    [
+     "ins",
+     "Last month, Homeland Security Secretary Markwayne Mullin told"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "Democrat,"
+    ],
+    [
+     "ins",
+     "conservative podcaster \"something is going to happen\", and made allegations of marital fraud against Omar. Separately, the White House's border tsar, Tom Homan, told Fox News that Omar was being investigated for unspecified immigration violations. Omar denied these allegations last month. \"I will say it again so it's as clear as possible: I'm not at all worried about these investigations, because they are complete shams,\" she said in a campaign fundraising email. Trump"
+    ],
+    [
+     "eq",
+     "has"
+    ],
+    [
+     "del",
+     "been the target of Trump's insults and the president"
+    ],
+    [
+     "eq",
+     "previously suggested that"
+    ],
+    [
+     "del",
+     "she"
+    ],
+    [
+     "ins",
+     "Omar"
+    ],
+    [
+     "eq",
+     "\"should go back\" to Somalia and"
+    ],
+    [
+     "del",
+     "at times said"
+    ],
+    [
+     "ins",
+     "that"
+    ],
+    [
+     "eq",
+     "she should be deported. US citizenship is required to serve as a"
+    ],
+    [
+     "del",
+     "US House Representative."
+    ],
+    [
+     "ins",
+     "member of the House."
+    ],
+    [
+     "eq",
+     "Omar has responded to Trump's insults and"
+    ],
+    [
+     "del",
+     "attacks"
+    ],
+    [
+     "ins",
+     "attacks,"
+    ],
+    [
+     "eq",
+     "describing them as"
+    ],
+    [
+     "ins",
+     "an"
+    ],
+    [
+     "eq",
+     "\"unhealthy and creepy"
+    ],
+    [
+     "del",
+     "obsession.\""
+    ],
+    [
+     "ins",
+     "obsession\"."
+    ],
+    [
+     "eq",
+     "The president has also"
+    ],
+    [
+     "del",
+     "spoken unfavourably about"
+    ],
+    [
+     "ins",
+     "singled out"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "Somali American"
+    ],
+    [
+     "ins",
+     "Somali-American"
+    ],
+    [
+     "eq",
+     "community. Last week, he wrote on social media that Minnesota \"is being taken over by Somali immigrants\" and"
+    ],
+    [
+     "del",
+     "said"
+    ],
+    [
+     "eq",
+     "\"the people of Minnesota must fight"
+    ],
+    [
+     "del",
+     "back.\""
+    ],
+    [
+     "ins",
+     "back\". Some Republicans celebrated Monday's search. \"Nobody is above the law,\" said Tom Emmer, who also represents Minnesota in the House. \"We look forward to learning more details about this raid and investigation. ACCOUNTABILITY IS COMING!\""
+    ],
+    [
+     "eq",
+     "Omar is the first"
+    ],
+    [
+     "del",
+     "Somali-American"
+    ],
+    [
+     "ins",
+     "Somali American"
+    ],
+    [
+     "eq",
+     "elected to the"
+    ],
+    [
+     "del",
+     "US"
+    ],
+    [
+     "eq",
+     "House"
+    ],
+    [
+     "del",
+     "of Representatives"
+    ],
+    [
+     "eq",
+     "and she represents a district in the Minneapolis area. She and Michigan"
+    ],
+    [
+     "del",
+     "Representative"
+    ],
+    [
+     "ins",
+     "Congresswoman"
+    ],
+    [
+     "eq",
+     "Rashida Tlaib were the first Muslim women elected to Congress."
+    ],
+    [
+     "ins",
+     "Omar won re-election two years ago with 74% of the vote. Senior political leaders in Minnesota have criticised the search. Governor Tim Walz, a fellow Democrat, said: \"Americans see this for what it is - President Trump is abusing his power to go after political opponents weeks before an election.\" Minnesota Senator Tina Smith called it \"a transparent attempt to interfere in our elections\". Additional reporting by Ione Wells"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 2.4967,
+  "numbers_changed": [
+   "2018",
+   "22",
+   "30",
+   "74"
+  ],
+  "market_figures_changed": [
+   "74%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 2,
+  "blocks_added": 7,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.189,
+ "similarity": 0.8719,
+ "adjudicated_by": "rules"
+}

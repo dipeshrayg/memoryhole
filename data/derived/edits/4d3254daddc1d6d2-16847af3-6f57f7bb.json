@@ -1,0 +1,120 @@
+{
+ "id": "4d3254daddc1d6d2-16847af3-6f57f7bb",
+ "url": "https://www.theguardian.com/football/2026/oct/12/football-regulator-cost-controls-report-state-of-the-game",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-13T14:07:37Z",
+ "date": "2026-10-13",
+ "old_title": "Football regulator to recommend cost controls in landmark report with 94% of clubs making loss",
+ "new_title": "Football regulator to recommend cost controls in landmark report with 94% of clubs making loss",
+ "old_text": "The Independent Football Regulator (IFR) is to recommend clubs introduce greater cost controls in its long-awaited State of the Game report, to be published on Tuesday.\nThe 250-page draft report, with a final version to follow in the spring after an eight-week public consultation beginning this week, will paint a damning picture of the financial state of English men's football, including the stark finding that 94% of the top 116 clubs are loss-making.\nThe report will include a series of recommendations for the regulator and clubs to improve the sustainability, with the IFR chair, David Kogan, and chief executive, Richard Monks, to provide more details at a press conference in Manchester on Tuesday.\nThat event is likely to be dominated by questions about whether the regulator could force the sale of Manchester City if the mass guilty verdicts of an independent commission are upheld on appeal.\nAs administrators of an enhanced owners, directors and senior executives test the IFR has powers to assess the suitability of owners and executives \"where there is clear evidence of wrongdoing by individuals\".\nThe State of the Game report sprung out of the Football Governance Act, which created the IFR, which has taken almost 18 months to produce the most detailed study ever of the football industry and its finances.\nEFL clubs have been waiting for the report in the hope that it will give them greater impetus as they continue to negotiate with the Premier League over a new financial settlement, although it may not necessarily do so given details that may emerge of extravagant and unsustainable spending by many lower division clubs.\nThe Premier League has offered a new deal to the EFL worth £180m-a-year over 10 years, a significant increase from the current £150m figure, but the EFL wants £207m a year and the option to renegotiate after five years.\nThe EFL has also proposed the creation of a new so-called \"lifeboat fund\" for clubs in financial distress.\nThe IFR has powers to impose a settlement on the leagues if they cannot agree themselves. Both sides are likely to seize on elements of the report to bolster their arguments.",
+ "new_text": "The Independent Football Regulator (IFR) is to recommend clubs introduce greater cost controls in its long-awaited State of the Game report, to be published on Tuesday.\nThe 250-page draft report, with a final version to follow in the spring after an eight-week public consultation beginning this week, will paint a damning picture of the financial state of English men's football, including the stark finding that 94% of the top 116 clubs are loss-making.\nThe report will include a series of recommendations for the regulator and clubs to improve sustainability, with the IFR chair, David Kogan, and chief executive, Richard Monks, to provide more details at a press conference in Manchester on Tuesday.\nThat event is likely to be dominated by questions about whether the regulator could force the sale of Manchester City if the mass guilty verdicts of an independent commission are upheld on appeal.\nAs administrators of an enhanced owners, directors and senior executives test the IFR has powers to assess the suitability of owners and executives \"where there is clear evidence of wrongdoing by individuals\".\nThe State of the Game report sprung out of the Football Governance Act, which created the IFR, which has taken almost 18 months to produce the most detailed study ever of the football industry and its finances.\nEFL clubs have been waiting for the report in the hope that it will give them greater impetus as they continue to negotiate with the Premier League over a new financial settlement, although it may not necessarily do so given details that may emerge of extravagant and unsustainable spending by many lower-division clubs.\nThe Premier League has offered a new deal to the EFL worth £180m a year over 10 years, on top of the £150m annual figure currently being paid, but the EFL wants an additional £207m a year and the option to renegotiate after five years.\nThe EFL has also proposed the creation of a new so-called \"lifeboat fund\" for clubs in financial distress.\nThe IFR has powers to impose a settlement on the leagues if they cannot agree themselves. Both sides are likely to seize on elements of the report to bolster their arguments.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "include a series of recommendations for the regulator and clubs to improve"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "eq",
+     "sustainability, with the IFR chair, David Kogan, and chief executive, Richard Monks,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "given details that may emerge of extravagant and unsustainable spending by many"
+    ],
+    [
+     "del",
+     "lower division"
+    ],
+    [
+     "ins",
+     "lower-division"
+    ],
+    [
+     "eq",
+     "clubs. The Premier League has offered a new deal to the EFL worth"
+    ],
+    [
+     "del",
+     "£180m-a-year"
+    ],
+    [
+     "ins",
+     "£180m a year"
+    ],
+    [
+     "eq",
+     "over 10 years,"
+    ],
+    [
+     "del",
+     "a significant increase from"
+    ],
+    [
+     "ins",
+     "on top of"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "current"
+    ],
+    [
+     "eq",
+     "£150m"
+    ],
+    [
+     "del",
+     "figure,"
+    ],
+    [
+     "ins",
+     "annual figure currently being paid,"
+    ],
+    [
+     "eq",
+     "but the EFL wants"
+    ],
+    [
+     "ins",
+     "an additional"
+    ],
+    [
+     "eq",
+     "£207m a year and the option to renegotiate after five years. The"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0672,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9986,
+ "adjudicated_by": "rules"
+}

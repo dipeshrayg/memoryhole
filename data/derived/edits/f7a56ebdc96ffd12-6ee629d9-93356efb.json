@@ -1,0 +1,68 @@
+{
+ "id": "f7a56ebdc96ffd12-6ee629d9-93356efb",
+ "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-10-13T14:03:40Z",
+ "date": "2026-10-13",
+ "old_title": "AI minister warns it is 'likely' UK's cyber defences will be breached",
+ "new_title": "AI minister warns it is 'likely' UK's cyber defences will be breached",
+ "old_text": "- Published\nThe UK's AI minister has warned it is \"likely, if not inevitable\" the country's cyber defences will at some point be breached.\nSpeaking at a press conference, Kanishka Narayan pointed to an incident of a rogue OpenAI agent hacking an Australian government website in June.\nHe said while no medical records are known to have been accessed in the attack, the incident should still \"concern us\".\nNarayan said the government plans to put advanced AI to work to combat the threat, as he set out how the government plans to prepare for any serious future incidents.\nThe minister said the move would build on two existing pilots which have helped identify and fix over 1,000 vulnerabilities across government systems.\nHe said his message to the largest companies behind the world's most powerful AI systems was: \"Listen when your scientists warn of serious dangers. Investigate unexpected behaviour. And if you cannot adequately control the risks, do not release the system.\"\nIn his speech, Narayan also confirmed scientists at the UK's AI watchdog, the AI Security Institute (AISI), were conducting \"rigorous evaluations\" of the latest generation of advanced AI models to \"identify risks early\" and \"to test robust safeguards to help keep people safe\".\nAI testing\nAISI began evaluating risks of the latest frontier AI models, prior to their public release, shortly after it was established in November 2023.\nBut it was reported in September, external that the White House had asked some leading US labs not to share their models with the research organisation until its own tests were completed.\nThe move was viewed at the time as a blow to AISI - which has been championed by the UK government and its partners for advancing open, constructive and collaborative AI testing.\nMicrosoft president Brad Smith recently told the BBC the institute had helped cement the UK as the country best-placed to drive forward global regulation.\nOn Monday, Narayan said that in the last few weeks, the government had worked with the US \"to retain access for Britain's AISI to the most powerful AI models before they are released\".\nHe also said the UK would also look into creating stronger protections through the Cyber Security and Resilience bill, particularly at how serious AI incidents can be identified and reported.\nThe announcement follows a series of incidents involving AI agents across major firms such as OpenAI and Anthropic acting outside human control and hacking into external systems.\nOn 9 September, Evan Hubinger, a top safety researcher at Anthropic, warned in a post on X that AI is advancing so quickly he believed there is a greater than 10% chance it \"could kill all humans\" within the next decade.\nThe bosses of the US-based AI giants such as Anthropic, OpenAI and Google DeepMind have all backed the idea of an AI development slowdown.\nHowever, there are currently no global safety rules in place to regulate the companies and their technology.\nMeanwhile, President Trump has called for the sector to regulate itself so that US firms do not lose out to Chinese rivals.",
+ "new_text": "- Published\nThe UK's AI minister has warned it is \"likely, if not inevitable\" the country's cyber defences will at some point be breached.\nSpeaking at a press conference, Kanishka Narayan pointed to an incident of a rogue OpenAI agent hacking an Australian government website in June.\nHe said while no medical records are known to have been accessed in the attack, the incident should still \"concern us\".\nNarayan said the government plans to put advanced AI to work to combat the threat, as he set out how the government plans to prepare for any serious future incidents.\nThe minister said the move would build on two existing pilots which have helped identify and fix over 1,000 vulnerabilities across government systems.\nHe said his message to the largest companies behind the world's most powerful AI systems was: \"Listen when your scientists warn of serious dangers. Investigate unexpected behaviour. And if you cannot adequately control the risks, do not release the system.\"\nIn his speech, Narayan also confirmed scientists at the UK's AI watchdog, the AI Security Institute (AISI), were conducting \"rigorous evaluations\" of the latest generation of advanced AI models to \"identify risks early\" and \"to test robust safeguards to help keep people safe\".\nAI testing\nAISI began evaluating risks of the latest frontier AI models, prior to their public release, shortly after it was established in November 2023.\nBut it was reported in September, external that the White House had asked some leading US labs not to share their models with the research organisation until its own tests were completed.\nThe move was viewed at the time as a blow to AISI - which has been championed by the UK government and its partners for advancing open, constructive and collaborative AI testing.\nMicrosoft president Brad Smith recently told the BBC the institute had helped cement the UK as the country best-placed to drive forward global regulation.\nOn Monday, Narayan said that in the last few weeks, the government had worked with the US \"to retain access for Britain's AISI to the most powerful AI models before they are released\".\nHe also said the UK would also look into creating stronger protections through the Cyber Security and Resilience bill, particularly at how serious AI incidents can be identified and reported.\nNuala Polo, UK Public Policy Lead at the Ada Lovelace Institute, said the announcement committed the government to \"very little\".\n\"Stronger protections will be 'considered', strengthening the Cyber Bill 'explored' and near-miss reporting 'looked at', with the detail to come later,\" she said.\n\"There is no new regulatory power, no timetable and no obligation on AI developers.\"\nRegulation\nThe announcement follows a series of incidents involving AI agents across major firms such as OpenAI and Anthropic acting outside human control and hacking into external systems.\nOn 9 September, Evan Hubinger, a top safety researcher at Anthropic, warned in a post on X that AI is advancing so quickly he believed there is a greater than 10% chance it \"could kill all humans\" within the next decade.\nThe bosses of the US-based AI giants such as Anthropic, OpenAI and Google DeepMind have all backed the idea of an AI development slowdown.\nHowever, there are currently no global safety rules in place to regulate the companies and their technology. President Trump has called for the sector to regulate itself so that US firms do not lose out to Chinese rivals.\nSpeaking to the BBC following the announcement, Narayan said the UK needed \"to be confident... as a country\" when questioned as to how the government can make foreign AI firms abide by UK rules.\n\"We have the capability, we have the trust, and we have a government that is right on the side of the British public in making sure we don't just have laws but the ability to enforce those laws,\" he said.\n\"What we are focused on is delivering the right outcome for the British public, where the law was the answer.\"\nOn the question of whether the UK should have its own sovereign AI frontier model, the minister said he was \"focused\" on securing British sovereignty, which meant \"placing the right set of investments\".\n\"It's British chips being made here. It's British models outside of just language, looking at things like drug discovery, materials discovery, computer vision and its areas of adoption, including AI, security and cyber-security,\" he said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "bill, particularly at how serious AI incidents can be identified and reported."
+    ],
+    [
+     "ins",
+     "Nuala Polo, UK Public Policy Lead at the Ada Lovelace Institute, said the announcement committed the government to \"very little\". \"Stronger protections will be 'considered', strengthening the Cyber Bill 'explored' and near-miss reporting 'looked at', with the detail to come later,\" she said. \"There is no new regulatory power, no timetable and no obligation on AI developers.\" Regulation"
+    ],
+    [
+     "eq",
+     "The announcement follows a series of incidents involving AI agents across major"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "global safety rules in place to regulate the companies and their technology."
+    ],
+    [
+     "del",
+     "Meanwhile,"
+    ],
+    [
+     "eq",
+     "President Trump has called for the sector to regulate itself so that US firms do not lose out to Chinese rivals."
+    ],
+    [
+     "ins",
+     "Speaking to the BBC following the announcement, Narayan said the UK needed \"to be confident... as a country\" when questioned as to how the government can make foreign AI firms abide by UK rules. \"We have the capability, we have the trust, and we have a government that is right on the side of the British public in making sure we don't just have laws but the ability to enforce those laws,\" he said. \"What we are focused on is delivering the right outcome for the British public, where the law was the answer.\" On the question of whether the UK should have its own sovereign AI frontier model, the minister said he was \"focused\" on securing British sovereignty, which meant \"placing the right set of investments\". \"It's British chips being made here. It's British models outside of just language, looking at things like drug discovery, materials discovery, computer vision and its areas of adoption, including AI, security and cyber-security,\" he said."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4325,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.9,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

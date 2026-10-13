@@ -1,0 +1,64 @@
+{
+ "id": "27e2a3bc6a7885d6-bfa52d37-28dcc5ab",
+ "url": "https://www.gov.uk/government/news/foreign-secretary-statement-on-iran-12-october",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "country": "United Kingdom",
+ "category": "government",
+ "lang": "en",
+ "detected_at": "2026-10-13T14:03:03Z",
+ "date": "2026-10-13",
+ "old_title": "Foreign Secretary statement on Iran, 12 October",
+ "new_title": "Foreign Secretary statement on Iran, 12 October",
+ "old_text": "Foreign Secretary statement on Iran, 12 October\nStatement from the Foreign Secretary on measures announced against Iranian individuals.\nForeign Secretary Ed Miliband said:\n\"Iran's continued attempts to undermine the security of the United Kingdom and international partners through its criminal networks, proxy groups and state-backed malign activity is unacceptable.\n\"As we have repeatedly made clear to Iran, Britain will not tolerate threats on our soil. Today I instructed my department to summon the Ambassador of the Islamic Republic of Iran to the United Kingdom to reiterate this message in its entirety.\n\"We are also announcing the designation of two Iranian nationals for their role in facilitating or engaging in hostile activity on behalf of the Iranian regime, with the clear intent of threatening, planning or conducting attacks overseas.\n\"This Government will never waiver in our commitment to tacking Iran's unacceptable actions and protecting our national security. We have already designated the Islamic Revolutionary Guard Corps (IRGC) under our new state threats powers, and imposed major sanctions on those responsible for Iran's malign activity.\"\nNotes To Editors:\nThe following individuals are now subject to an immediate asset freeze, travel ban and director disqualification:\n- Ruhollah Bazghandi - Head of Counterespionage Operations within the IRGC\n- Shahram Ali Reza Tamarzadeh Jakki - facilitator of the Zindashti criminal network, involved in several plots against Iranian dissidents\nDefinitions:\n- Asset freeze: an asset freeze prevents any UK citizen, or any business in the UK, from dealing with any funds or economic resources which are owned, held or controlled by the designated person. It also prevents funds or economic resources being provided to or for the benefit of the designated person. UK financial sanctions apply to all persons within the territory and territorial sea of the UK and to all UK persons, wherever they are in the world.\n- Travel ban: a travel ban means that the designated person must be refused leave to enter or to remain in the United Kingdom, as the individual is an excluded person under section 8B of the Immigration Act 1971.\n- Director disqualification: Where director disqualification sanctions apply, it is an offence for a person designated for the purpose of those sanctions to act as a director of a UK company, or a foreign company that is sufficiently-connected to the UK, or to take part in the management, formation or promotion of a company.\n- Today's designations were made under the 2023 Iran Sanctions Regulations: Iran sanctions: guidance - GOV.UK\n- The full details of today's designations can be found here: FCDO - UK Sanctions List Search - GOV.UK\n- The UK identified at least 15 credible Iranian-backed threats to kill or kidnap individuals in the UK between 2022 and 2023; in 2025, this had risen to more than 20.\n- We have introduced a comprehensive set of measures aimed at countering threats posed by the Iranian regime, including sanctioning the IRGC in its entirety and more than 550 Iranian individuals and entities.\n- The Summons of the Iranian Ambassador to the United Kingdom was conducted by the Minister for the Middle East, Stephen Doughty. The Ambassador was informed that the UK would not tolerate intimidation, threats or hostile activity by Iran, and that we call on such behaviour to cease immediately.",
+ "new_text": "Foreign Secretary statement on Iran, 12 October\nStatement from the Foreign Secretary on measures announced against Iranian individuals.\nForeign Secretary Ed Miliband said:\n\"Iran's continued attempts to undermine the security of the United Kingdom and international partners through its criminal networks, proxy groups and state-backed malign activity is unacceptable.\n\"As we have repeatedly made clear to Iran, Britain will not tolerate threats on our soil. Today I instructed my department to summon the Ambassador of the Islamic Republic of Iran to the United Kingdom to reiterate this message in its entirety.\n\"We are also announcing the designation of two Iranian nationals for their role in facilitating or engaging in hostile activity on behalf of the Iranian regime, with the clear intent of threatening, planning or conducting attacks overseas.\n\"This Government will never waver in our commitment to tackling Iran's unacceptable actions and protecting our national security. We have already designated the Islamic Revolutionary Guard Corps (IRGC) under our new state threats powers, and imposed major sanctions on those responsible for Iran's malign activity.\"\nNotes To Editors:\nThe following individuals are now subject to an immediate asset freeze, travel ban and director disqualification:\n- Ruhollah Bazghandi - Head of Counterespionage Operations within the IRGC\n- Shahram Ali Reza Tamarzadeh Jakki - facilitator of the Zindashti criminal network, involved in several plots against Iranian dissidents\nDefinitions:\n- Asset freeze: an asset freeze prevents any UK citizen, or any business in the UK, from dealing with any funds or economic resources which are owned, held or controlled by the designated person. It also prevents funds or economic resources being provided to or for the benefit of the designated person. UK financial sanctions apply to all persons within the territory and territorial sea of the UK and to all UK persons, wherever they are in the world.\n- Travel ban: a travel ban means that the designated person must be refused leave to enter or to remain in the United Kingdom, as the individual is an excluded person under section 8B of the Immigration Act 1971.\n- Director disqualification: Where director disqualification sanctions apply, it is an offence for a person designated for the purpose of those sanctions to act as a director of a UK company, or a foreign company that is sufficiently-connected to the UK, or to take part in the management, formation or promotion of a company.\n- Today's designations were made under the 2023 Iran Sanctions Regulations: Iran sanctions: guidance - GOV.UK\n- The full details of today's designations can be found here: FCDO - UK Sanctions List Search - GOV.UK\n- The UK identified at least 15 credible Iranian-backed threats to kill or kidnap individuals in the UK between 2022 and 2023; in 2025, this had risen to more than 20.\n- We have introduced a comprehensive set of measures aimed at countering threats posed by the Iranian regime, including sanctioning the IRGC in its entirety and more than 550 Iranian individuals and entities.\n- The Summons of the Iranian Ambassador to the United Kingdom was conducted by the Minister for the Middle East, Stephen Doughty. The Ambassador was informed that the UK would not tolerate intimidation, threats or hostile activity by Iran, and that we call on such behaviour to cease immediately.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "intent of threatening, planning or conducting attacks overseas. \"This Government will never"
+    ],
+    [
+     "del",
+     "waiver"
+    ],
+    [
+     "ins",
+     "waver"
+    ],
+    [
+     "eq",
+     "in our commitment to"
+    ],
+    [
+     "del",
+     "tacking"
+    ],
+    [
+     "ins",
+     "tackling"
+    ],
+    [
+     "eq",
+     "Iran's unacceptable actions and protecting our national security. We have already designated"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0074,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9997,
+ "adjudicated_by": "rules"
+}

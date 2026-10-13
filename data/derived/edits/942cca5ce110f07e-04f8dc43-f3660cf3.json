@@ -1,0 +1,265 @@
+{
+ "id": "942cca5ce110f07e-04f8dc43-f3660cf3",
+ "url": "https://www.france24.com/en/europe/20261012-how-has-the-more-than-%E2%82%AC600-billion-recovery-plan-revitalised-europe",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-13T13:57:16Z",
+ "date": "2026-10-13",
+ "old_title": "How has the more than €600 billion recovery plan revitalised Europe?",
+ "new_title": "How has the European Union's major recovery plan benefited the 27 member states?",
+ "old_text": "How has the more than €600 billion recovery plan revitalised Europe?\nIn 2020, the EU member states agreed on a €750 billion post-Covid recovery plan known as NextGenerationEU. This programme, for which the Commission will have disbursed €634 billion by the end of the year, is coming to an end. Out of Belgium's €5.3 billion recovery plan, more than half has been allocated to the green transition.\nAmong the many projects funded by the EU's Recovery and Resilience Facility (RRF), one area has taken on particular significance in the wake of the scorching summer Europeans have just experienced: improving the energy efficiency of school buildings.\nIn Belgium's Francophone community government, for example, 149 school sites have been selected for renovation, including the Athénée royal de Ganshoren. Just a few years ago, its secondary school was so dilapidated that students, parents and teachers protested to demand renovation work. Yet the task remains immense: much of the French-speaking school building stock is still outdated and energy inefficient.",
+ "new_text": "How has the European Union's major recovery plan benefited the 27 member states?\nThe 27 member states of the European Union agreed in July 2020 on a €750 billion post-Covid recovery plan called NextGenerationEU. Its main instrument is the Recovery and Resilience Facility, through which the European Commission has already disbursed €450 billion out of €573 billion. The programme is due to come to an end in a few months. The Commission is currently assessing Member States' claims for the remaining funds.\nThe Recovery and Resilience Facility provides for negotiated national plans that entitle member states to grants and, in some cases, loans. These funds have amounted to several percentage points of GDP for member states. The main beneficiaries include Italy, Spain, Poland, Portugal, France and Romania.\nWe turn our attention to a small country at the heart of Europe: Belgium. In Belgium's Francophone community government, for example, 149 school sites have been selected for renovation, including the Athénée royal de Ganshoren. Just a few years ago, its secondary school was so dilapidated that students, parents and teachers protested to demand renovation work. Yet the task remains immense: much of the French-speaking school building stock is still outdated and energy inefficient.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "How has the"
+    ],
+    [
+     "del",
+     "more than €600 billion"
+    ],
+    [
+     "ins",
+     "European Union's major"
+    ],
+    [
+     "eq",
+     "recovery plan"
+    ],
+    [
+     "del",
+     "revitalised Europe? In 2020,"
+    ],
+    [
+     "ins",
+     "benefited"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "EU"
+    ],
+    [
+     "ins",
+     "27 member states? The 27"
+    ],
+    [
+     "eq",
+     "member states"
+    ],
+    [
+     "ins",
+     "of the European Union"
+    ],
+    [
+     "eq",
+     "agreed"
+    ],
+    [
+     "ins",
+     "in July 2020"
+    ],
+    [
+     "eq",
+     "on a €750 billion post-Covid recovery plan"
+    ],
+    [
+     "del",
+     "known as"
+    ],
+    [
+     "ins",
+     "called"
+    ],
+    [
+     "eq",
+     "NextGenerationEU."
+    ],
+    [
+     "del",
+     "This programme, for"
+    ],
+    [
+     "ins",
+     "Its main instrument is the Recovery and Resilience Facility, through"
+    ],
+    [
+     "eq",
+     "which the"
+    ],
+    [
+     "ins",
+     "European"
+    ],
+    [
+     "eq",
+     "Commission"
+    ],
+    [
+     "del",
+     "will have"
+    ],
+    [
+     "ins",
+     "has already"
+    ],
+    [
+     "eq",
+     "disbursed"
+    ],
+    [
+     "del",
+     "€634"
+    ],
+    [
+     "ins",
+     "€450"
+    ],
+    [
+     "eq",
+     "billion"
+    ],
+    [
+     "del",
+     "by the end"
+    ],
+    [
+     "ins",
+     "out"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "the year,"
+    ],
+    [
+     "ins",
+     "€573 billion. The programme"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "del",
+     "coming"
+    ],
+    [
+     "ins",
+     "due to come"
+    ],
+    [
+     "eq",
+     "to an"
+    ],
+    [
+     "del",
+     "end. Out of Belgium's €5.3 billion recovery plan, more than half has been allocated to"
+    ],
+    [
+     "ins",
+     "end in a few months. The Commission is currently assessing Member States' claims for"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "green transition. Among the many projects funded by the EU's"
+    ],
+    [
+     "ins",
+     "remaining funds. The"
+    ],
+    [
+     "eq",
+     "Recovery and Resilience Facility"
+    ],
+    [
+     "del",
+     "(RRF), one area has taken on particular significance"
+    ],
+    [
+     "ins",
+     "provides for negotiated national plans that entitle member states to grants and,"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "ins",
+     "some cases, loans. These funds have amounted to several percentage points of GDP for member states. The main beneficiaries include Italy, Spain, Poland, Portugal, France and Romania. We turn our attention to a small country at"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "wake"
+    ],
+    [
+     "ins",
+     "heart"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "the scorching summer Europeans have just experienced: improving the energy efficiency of school buildings."
+    ],
+    [
+     "ins",
+     "Europe: Belgium."
+    ],
+    [
+     "eq",
+     "In Belgium's Francophone community government, for example, 149 school sites have been"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.0788,
+  "numbers_changed": [
+   "27",
+   "450",
+   "5.3",
+   "573",
+   "600",
+   "634"
+  ],
+  "market_figures_changed": [
+   "€450",
+   "€5.3 billion",
+   "€573 billion",
+   "€600 billion",
+   "€634"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.9,
+ "similarity": 0.845,
+ "adjudicated_by": "rules"
+}

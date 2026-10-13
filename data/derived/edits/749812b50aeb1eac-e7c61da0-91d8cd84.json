@@ -1,0 +1,256 @@
+{
+ "id": "749812b50aeb1eac-e7c61da0-91d8cd84",
+ "url": "https://www.abc.net.au/news/2026-10-13/judge-warns-jurors-as-russell-brand-prepares-for-trial-in-london/107250736",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-13T13:58:03Z",
+ "date": "2026-10-13",
+ "old_title": "Judge warns jurors as Russell Brand prepares for rape trial in London",
+ "new_title": "Judge warns jurors as Russell Brand prepares for rape trial in London",
+ "old_text": "In short:\nRussell Brand arrived at court in London on Monday, flanked by his wife.\nTwenty jurors were selected for his rape trial, and that number will be trimmed to 14 on Tuesday.\nWhat's next?\nThe prosecution is expected to make its opening statement on Wednesday.\nBritish actor, comedian, and presenter Russell Brand has appeared in a London court for the start of his trial on historical sex offences.\nBrand, 51, is accused of three counts of rape, three counts of sexual assault, and one count of indecent assault relating to six women spanning a 10-year period from 1999-2009.\nHe is accused of groping women and forcing them into sexual acts. He has denied all the allegations against him.\nBrand, who is on bail, arrived at Southwark Crown Court in a black van with dark windows, then walked into the building accompanied by a security guard and holding the hand of his wife Laura Gallacher.\nAs he slowly walked past pens of camera operators, photographers, content creators, and a few fans, he paused to take off his large sunglasses before making his way to the entrance.\nDozens of registered journalists from British and international media outlets are covering the case, with just 22 in the courtroom and others in an overspill courtroom watching on a screen.\nThe ABC was in the court room and just metres away from Brand, who was sitting in the dock, during Monday's proceedings.\nWhile Brand is known for his flamboyant style, he sat up very straight and still, listening intently as the jury selection process got underway.\n\"We are about to start the trial of one Mr Russell Brand,\" Judge Joel Bennathan told 50 potential jurors. \"Many of you will have heard of him.\"\nThe judge excluded potential jurors if they had watched a documentary aired about three years ago or had read a long newspaper article from the same time, in which allegations of sexual misconduct were made against Brand.\n\"Those are allegations he firmly denies,\" the judge said.\nThe judge also told them that the trial is expected to take about six weeks, but jurors might need to be available until 11 December.\nA pool of 20 potential jurors was selected, but that will be reduced to 14 on Tuesday.\nJudge Bennathan told those selected: \"The defendant is clearly someone very well known. You absolutely must not carry out any research at all about this defendant Russell Brand.\"\nProsecutors are expected to open their case on Wednesday morning local time.\nFor the best part of two decades, Brand was a comedian, popular TV and radio host, and had cracked Hollywood by starring in several blockbuster films.\nIn more recent years he has moved to Florida, styled himself a populist, born-again Christian influencer and developed a massive online following.",
+ "new_text": "In short:\nRussell Brand arrived at court in London on Monday, local time, flanked by his wife.\nTwenty jurors were selected for his rape trial, and that number will be trimmed to 14 later today.\nWhat's next?\nThe prosecution is expected to make its opening statement tomorrow.\nBritish actor, comedian, and presenter Russell Brand has appeared in a London court for the start of his trial on historical sex offences.\nBrand, 51, is accused of three counts of rape, three counts of sexual assault, and one count of indecent assault relating to six women spanning a 10-year period from 1999 to 2009.\nHe is accused of groping women and forcing them into sexual acts. He has denied all the allegations against him.\nBrand, who is on bail, arrived at Southwark Crown Court in a black van with dark windows, then walked into the building accompanied by a security guard and holding the hand of his wife, Laura Gallacher.\nAs he slowly walked past pens of camera operators, photographers, content creators, and a few fans, he paused to take off his large sunglasses before making his way to the entrance.\nDozens of registered journalists from British and international media outlets are covering the case, with just 22 in the courtroom and others in an overflow courtroom watching on a screen.\nThe ABC was in the courtroom and just metres away from Brand, who was sitting in the dock, during Monday's proceedings.\nWhile Brand is known for his flamboyant style, he sat up straight and still, listening intently as the jury selection process began.\n\"We are about to start the trial of one Mr Russell Brand,\" Judge Joel Bennathan told 50 potential jurors. \"Many of you will have heard of him.\"\nThe judge excluded potential jurors if they had watched a documentary aired about three years ago or had read a long newspaper article from the same time, in which allegations of sexual misconduct were made against Brand.\n\"Those are allegations he firmly denies,\" the judge said.\nThe judge also told them that the trial is expected to take about six weeks, but jurors might need to be available until December 11.\nA pool of 20 potential jurors was selected, but that will be reduced to 14 on Tuesday.\nJudge Bennathan told those selected: \"The defendant is clearly someone very well known. You absolutely must not carry out any research at all about this defendant, Russell Brand.\"\nProsecutors are expected to open their case on Wednesday morning, local time.\nFor most of two decades, Brand was a comedian, popular TV and radio host, and had cracked Hollywood by starring in several blockbuster films.\nIn more recent years, he has moved to Florida, styled himself a populist, born-again Christian influencer and developed a massive online following.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "In short: Russell Brand arrived at court in London on Monday,"
+    ],
+    [
+     "ins",
+     "local time,"
+    ],
+    [
+     "eq",
+     "flanked by his wife. Twenty jurors were selected for his rape trial, and that number will be trimmed to 14"
+    ],
+    [
+     "del",
+     "on Tuesday."
+    ],
+    [
+     "ins",
+     "later today."
+    ],
+    [
+     "eq",
+     "What's next? The prosecution is expected to make its opening statement"
+    ],
+    [
+     "del",
+     "on Wednesday."
+    ],
+    [
+     "ins",
+     "tomorrow."
+    ],
+    [
+     "eq",
+     "British actor, comedian, and presenter Russell Brand has appeared in a London"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of indecent assault relating to six women spanning a 10-year period from"
+    ],
+    [
+     "del",
+     "1999-2009."
+    ],
+    [
+     "ins",
+     "1999 to 2009."
+    ],
+    [
+     "eq",
+     "He is accused of groping women and forcing them into sexual acts."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "building accompanied by a security guard and holding the hand of his"
+    ],
+    [
+     "del",
+     "wife"
+    ],
+    [
+     "ins",
+     "wife,"
+    ],
+    [
+     "eq",
+     "Laura Gallacher. As he slowly walked past pens of camera operators, photographers,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the case, with just 22 in the courtroom and others in an"
+    ],
+    [
+     "del",
+     "overspill"
+    ],
+    [
+     "ins",
+     "overflow"
+    ],
+    [
+     "eq",
+     "courtroom watching on a screen. The ABC was in the"
+    ],
+    [
+     "del",
+     "court room"
+    ],
+    [
+     "ins",
+     "courtroom"
+    ],
+    [
+     "eq",
+     "and just metres away from Brand, who was sitting in the dock,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "proceedings. While Brand is known for his flamboyant style, he sat up"
+    ],
+    [
+     "del",
+     "very"
+    ],
+    [
+     "eq",
+     "straight and still, listening intently as the jury selection process"
+    ],
+    [
+     "del",
+     "got underway."
+    ],
+    [
+     "ins",
+     "began."
+    ],
+    [
+     "eq",
+     "\"We are about to start the trial of one Mr Russell Brand,\""
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "take about six weeks, but jurors might need to be available until"
+    ],
+    [
+     "del",
+     "11 December."
+    ],
+    [
+     "ins",
+     "December 11."
+    ],
+    [
+     "eq",
+     "A pool of 20 potential jurors was selected, but that will be"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "You absolutely must not carry out any research at all about this"
+    ],
+    [
+     "del",
+     "defendant"
+    ],
+    [
+     "ins",
+     "defendant,"
+    ],
+    [
+     "eq",
+     "Russell Brand.\" Prosecutors are expected to open their case on Wednesday"
+    ],
+    [
+     "del",
+     "morning"
+    ],
+    [
+     "ins",
+     "morning,"
+    ],
+    [
+     "eq",
+     "local time. For"
+    ],
+    [
+     "del",
+     "the best part"
+    ],
+    [
+     "ins",
+     "most"
+    ],
+    [
+     "eq",
+     "of two decades, Brand was a comedian, popular TV and radio host,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "had cracked Hollywood by starring in several blockbuster films. In more recent"
+    ],
+    [
+     "del",
+     "years"
+    ],
+    [
+     "ins",
+     "years,"
+    ],
+    [
+     "eq",
+     "he has moved to Florida, styled himself a populist, born-again Christian influencer and developed a massive online following."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0817,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.991,
+ "adjudicated_by": "rules"
+}
