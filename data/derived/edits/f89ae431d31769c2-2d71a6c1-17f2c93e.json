@@ -1,0 +1,271 @@
+{
+ "id": "f89ae431d31769c2-2d71a6c1-17f2c93e",
+ "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Technology",
+ "country": "United Kingdom",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-10-14T11:45:51Z",
+ "date": "2026-10-14",
+ "old_title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+ "new_title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+ "old_text": "- Published\nShares in dating app Bumble soared by almost 50% on Monday following reports it is in advanced takeover talks valuing the business at $1bn (Â£757m).\nIthaca Holdings, a technology investment firm, could announce a deal to buy the Texas-based company as early as this week, according to the Wall Street Journal.\nThe jump in Bumble's shares pushed its stock market valuation to over $580m but that is still far below a peak of more than $14bn it reached after listing on the Nasdaq in 2021.\nBumble is one of the world's most downloaded dating apps, operating in a crowded market where growth has slowed. The BBC has contacted Bumble and Ithaca for comment.\nBumble was launched in 2014 by Whitney Wolfe Herd, who was also a co-founder of dating app giant Tinder.\nWolfe Herd built Bumble's brand around a distinctive feature that only allowed women to initiate conversations with matches.\nIt recently abandoned that rule, prompting debate among users over whether the app had lost what set it apart from rivals.\n\"Today, our community is asking for more flexibility, less pressure, and more opportunities to create real, meaningful connections and that is what this new experience provides,\" Wolfe Herd said in August.\nDating apps like Bumble have come under pressure in recent years as some younger users have grown disillusioned with browsing for dates.\nBumble said in 2025 that it would cut almost a third of its workforce as the industry grappled with what Wolfe Herd described as an \"inflection point\" in online dating.\nInvestments in other dating companies have also soured as apps have struggled to convince users to pay for their services.\nMatch Group - which owns apps including Tinder, OkCupid and Hinge - has also seen its shares fall sharply from their peak in 2021.\nAccording a report by media watchdog Ofcom in 2025, adults in the UK were spending less time on dating apps compared to three years earlier.\nSome single people are instead turning to board game get-togethers, book clubs and other group activities in the hope of finding a partner.",
+ "new_text": "- Published\nDating app Bumble has been bought for $1.3bn (Â£980m) in what the new owners called \"a bet on the future of humanity\".\nInvestment firm Ithaca Holdings is taking over the loss-making firm and it directors, Ravi Gupta and John Hegeman, will become co-chief executives of the company which once differentiated itself by having a \"women-first\" chat rule.\nBumble ditched the rule in August this year.\nWhitney Wolfe Herd, Bumble's founder and current chief executive, said she would remain \"actively involved\" with the business she set up 12 years ago.\nWhile it is unclear what Wolfe Herd's role at the dating app will be, she said she will work closely with the new owners.\nGupta and Hegeman said they wanted to use technology to \"renew and accelerate businesses...in a world transformed by AI\".\nThey said: \"Technology should work in service of our deepest source of fulfillment, human connection and this investment is a bet on the future of humanity.\"\nThis contrasts with a recent debate over the safety of AI, with some experts claiming the speed of its development threatens the future of humanity.\nBumble's share price has soared as news of the deal began to emerge. The jump lifted its company valuation to over $580m but that is still far below a peak of more than $14bn it reached after it floated the business on the Nasdaq stock index in 2021.\nSince becoming a public company, it has made an annual pre-tax profit only once, in 2023.\nIn the following two years, it reported steep losses, though during that period Bumble had been working to incorporate new technology, including AI, into its app.\nIts chief executive in 2024, Lidiane Jones, told the BBC she believed AI had \"exciting potential\" in dating apps related to safety, and Bumble had been looking at research that found Gen Z and milliennials were interested in AI assistance with creating profiles.\nThis year, the dating app unveiled several new AI features, including profile guidance to help people create dating profiles.\nBumble was launched in 2014 by Wolfe Herd who built the brand around a distinctive feature that only allowed women to initiate conversations with matches.\nIt recently abandoned that rule, prompting debate among users over whether the app had lost what set it apart from rivals.\n\"Today, our community is asking for more flexibility, less pressure, and more opportunities to create real, meaningful connections and that is what this new experience provides,\" Wolfe Herd said in August.\nDating apps like Bumble have come under pressure in recent years as some younger users have grown disillusioned with browsing for dates.\nBumble said in 2025 that it would cut almost a third of its workforce as the industry grappled with what Wolfe Herd described as an \"inflection point\" in online dating.\nInvestments in other dating companies have also soured as apps have struggled to convince users to pay for their services.\nMatch Group - which owns apps including Tinder, OkCupid and Hinge - has also seen its shares fall sharply from their peak in 2021.\nAccording to a report by media watchdog Ofcom in 2025, adults in the UK were spending less time on dating apps compared to three years earlier.\nSome single people are instead turning to board game get-togethers, book clubs and other group activities in the hope of finding a partner.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "Shares"
+    ],
+    [
+     "ins",
+     "Dating app Bumble has been bought for $1.3bn (Â£980m)"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "ins",
+     "what the new owners called \"a bet on the future of humanity\". Investment firm Ithaca Holdings is taking over the loss-making firm and it directors, Ravi Gupta and John Hegeman, will become co-chief executives of the company which once differentiated itself by having a \"women-first\" chat rule. Bumble ditched the rule in August this year. Whitney Wolfe Herd, Bumble's founder and current chief executive, said she would remain \"actively involved\" with the business she set up 12 years ago. While it is unclear what Wolfe Herd's role at the"
+    ],
+    [
+     "eq",
+     "dating app"
+    ],
+    [
+     "del",
+     "Bumble"
+    ],
+    [
+     "ins",
+     "will be, she said she will work closely with the new owners. Gupta and Hegeman said they wanted to use technology to \"renew and accelerate businesses...in a world transformed by AI\". They said: \"Technology should work in service of our deepest source of fulfillment, human connection and this investment is a bet on the future of humanity.\" This contrasts with a recent debate over the safety of AI, with some experts claiming the speed of its development threatens the future of humanity. Bumble's share price has"
+    ],
+    [
+     "eq",
+     "soared"
+    ],
+    [
+     "del",
+     "by almost 50% on Monday following reports it is in advanced takeover talks valuing"
+    ],
+    [
+     "ins",
+     "as news of"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "business at $1bn (Â£757m). Ithaca Holdings, a technology investment firm, could announce a"
+    ],
+    [
+     "eq",
+     "deal"
+    ],
+    [
+     "ins",
+     "began"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "buy the Texas-based company as early as this week, according to the Wall Street Journal."
+    ],
+    [
+     "ins",
+     "emerge."
+    ],
+    [
+     "eq",
+     "The jump"
+    ],
+    [
+     "del",
+     "in Bumble's shares pushed"
+    ],
+    [
+     "ins",
+     "lifted"
+    ],
+    [
+     "eq",
+     "its"
+    ],
+    [
+     "del",
+     "stock market"
+    ],
+    [
+     "ins",
+     "company"
+    ],
+    [
+     "eq",
+     "valuation to over $580m but that is still far below a peak of more than $14bn it reached after"
+    ],
+    [
+     "del",
+     "listing"
+    ],
+    [
+     "ins",
+     "it floated the business"
+    ],
+    [
+     "eq",
+     "on the Nasdaq"
+    ],
+    [
+     "ins",
+     "stock index"
+    ],
+    [
+     "eq",
+     "in 2021."
+    ],
+    [
+     "ins",
+     "Since becoming a public company, it has made an annual pre-tax profit only once, in 2023. In the following two years, it reported steep losses, though during that period"
+    ],
+    [
+     "eq",
+     "Bumble"
+    ],
+    [
+     "del",
+     "is one of"
+    ],
+    [
+     "ins",
+     "had been working to incorporate new technology, including AI, into its app. Its chief executive in 2024, Lidiane Jones, told"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "world's most downloaded"
+    ],
+    [
+     "ins",
+     "BBC she believed AI had \"exciting potential\" in"
+    ],
+    [
+     "eq",
+     "dating"
+    ],
+    [
+     "del",
+     "apps, operating"
+    ],
+    [
+     "ins",
+     "apps related to safety, and Bumble had been looking at research that found Gen Z and milliennials were interested"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "a crowded market where growth has slowed. The BBC has contacted Bumble and Ithaca for comment."
+    ],
+    [
+     "ins",
+     "AI assistance with creating profiles. This year, the dating app unveiled several new AI features, including profile guidance to help people create dating profiles."
+    ],
+    [
+     "eq",
+     "Bumble was launched in 2014 by"
+    ],
+    [
+     "del",
+     "Whitney Wolfe Herd, who was also a co-founder of dating app giant Tinder."
+    ],
+    [
+     "eq",
+     "Wolfe Herd"
+    ],
+    [
+     "ins",
+     "who"
+    ],
+    [
+     "eq",
+     "built"
+    ],
+    [
+     "del",
+     "Bumble's"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "brand around a distinctive feature that only allowed women to initiate conversations"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "also seen its shares fall sharply from their peak in 2021. According"
+    ],
+    [
+     "ins",
+     "to"
+    ],
+    [
+     "eq",
+     "a report by media watchdog Ofcom in 2025, adults in the UK"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.1178,
+  "numbers_changed": [
+   "1",
+   "1.3",
+   "12",
+   "2023",
+   "2024",
+   "50",
+   "757",
+   "980"
+  ],
+  "market_figures_changed": [
+   "$1.3bn",
+   "$1bn",
+   "50%",
+   "£757m",
+   "£980m"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.6,
+ "similarity": 0.7848,
+ "adjudicated_by": "rules"
+}

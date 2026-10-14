@@ -1,0 +1,80 @@
+{
+ "id": "f25dba9ef681c6f2-198f089c-9c1135ff",
+ "url": "https://www.dw.com/en/hungary-s-parliament-votes-to-reverse-anti-lgbtq-legislation-from-orban-era/a-79647826?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-14T11:34:15Z",
+ "date": "2026-10-14",
+ "old_title": "Hungary: Lawmakers scrap Orban-era anti-LGBTQ+ provisions",
+ "new_title": "Hungary: Lawmakers scrap Orban-era anti-LGBTQ+ provisions",
+ "old_text": "Hungary's parliament on Tuesday passed a bill amending a 2021 law targeting the LGBTQ+ community that was passed under nationalist ex-leader Viktor Orban.\nThe 2021 \"child protection\" law introduced restrictions on the \"portrayal\" or \"promotion\" of sexual and gender diversity in content accessible to children. In reality, this meant that even books addressing these topics in an age-appropriate manner could only be sold in black plastic packaging with warnings.\nCritics argued that the law promoted the bigoted view automatically linking homosexuality and child abuse. The European Court of Justice had also ruled in April that it violated EU treaties.\nTuesday's amendment repeals most of the statute, except the provision protecting under-18s from sexually explicit or violent material. It passed with the support of the governining majorty, with 139 lawmakers voting for in favor and 51 against.\nWhat brought about this change?\nHungary's longtime Prime Minister Viktor Orban was voted out of office in April. While his successor Peter Magyar is also a conservative and an immigration hardliner, he promised to break with Orban's repressive policies on media, the judiciary, and other issues.\nMagyar has promised to dismantle what he calls the rampant corruption and authoritarian structures put in place under Orban's government.\n\"We welcome this important signal of commitment for our common values,\" EU commissioners Michael McGrath and Hadja Lahbib said in a joint statement. The bloc then unfroze €4.2 billion ($4.7 billion) in funding to Hungary following the vote.\nEidted by: Jenipher Camino Gonzalez and Wesley Dockery\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "Hungary's parliament on Tuesday passed a bill amending a 2021 law targeting the LGBTQ+ community that was passed under nationalist ex-leader Viktor Orban.\nThe 2021 \"child protection\" law introduced restrictions on the \"portrayal\" or \"promotion\" of sexual and gender diversity in content accessible to children. In reality, this meant that even books addressing these topics in an age-appropriate manner could only be sold in black plastic packaging with warnings.\nCritics argued that the law promoted the bigoted view automatically linking homosexuality and child abuse. The European Court of Justice had also ruled in April that it violated EU treaties.\nTuesday's amendment repeals most of the statute, except the provision protecting under-18s from sexually explicit or violent material. It passed with the support of the governing majority, with 139 lawmakers voting in favor and 51 against.\nWhat brought about this change?\nHungary's longtime Prime Minister Viktor Orban was voted out of office in April. While his successor Peter Magyar is also a conservative and an immigration hardliner, he promised to break with Orban's repressive policies on media, the judiciary, and other issues.\nMagyar has promised to dismantle what he calls the rampant corruption and authoritarian structures put in place under Orban's government.\n\"We welcome this important signal of commitment for our common values,\" EU commissioners Michael McGrath and Hadja Lahbib said in a joint statement. The bloc then unfroze €4.2 billion ($4.7 billion) in funding to Hungary following the vote.\nEdited by: Jenipher Camino Gonzalez and Wesley Dockery\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "sexually explicit or violent material. It passed with the support of the"
+    ],
+    [
+     "del",
+     "governining majorty,"
+    ],
+    [
+     "ins",
+     "governing majority,"
+    ],
+    [
+     "eq",
+     "with 139 lawmakers voting"
+    ],
+    [
+     "del",
+     "for"
+    ],
+    [
+     "eq",
+     "in favor and 51 against. What brought about this change? Hungary's longtime"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "unfroze €4.2 billion ($4.7 billion) in funding to Hungary following the vote."
+    ],
+    [
+     "del",
+     "Eidted"
+    ],
+    [
+     "ins",
+     "Edited"
+    ],
+    [
+     "eq",
+     "by: Jenipher Camino Gonzalez and Wesley Dockery If you rely on our"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0243,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9976,
+ "adjudicated_by": "rules"
+}

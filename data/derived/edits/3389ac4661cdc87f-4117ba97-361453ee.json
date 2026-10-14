@@ -1,0 +1,64 @@
+{
+ "id": "3389ac4661cdc87f-4117ba97-361453ee",
+ "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-10-14T11:51:03Z",
+ "date": "2026-10-14",
+ "old_title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
+ "new_title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
+ "old_text": "Just over 10 years after its initial release, space exploration and survival crafting game No Man's Sky is making its way to the iPhone and iPad, Apple and developer Hello Games announced today.\nIt will run on devices as far back as the iPhone 11 and the third-generation iPad Air. No Man's Sky might not have the most cutting-edge AAA graphics (though they're still strong, and they've come a long way since launch via updates), but the game's uncommon method of generating galaxies of incomprehensible scale on device consistently for all players from a single-seed happening on a phone is remarkable for those of us who remember phones performing far behind consoles or desktop PCs.\nThis version of the game includes all of the content and systems updates to the game that have been added over the years-the expansions that famously took the game from a rocky launch reception to a widely beloved redemption story.\nThere are a couple of compromises, though, and it's similar to what we saw with No Man's Sky on the Nintendo Switch. Hello Games says the ability to build and explore player-made planetary settlements is limited to the iPhone 15 Pro and later, and multiplayer is not supported on any iOS device. \"We are excited to see player feedback on iOS, and will support it appropriately based on how many folks are playing,\" the company says, leaving the door open to perhaps not supporting all future content updates if the player base isn't there to justify it.",
+ "new_text": "Just over 10 years after its initial release, space exploration and survival crafting game No Man's Sky is making its way to the iPhone and iPad, Apple and developer Hello Games announced today.\nIt will run on devices as far back as the iPhone 11 and the third-generation iPad Air. No Man's Sky might not have the most cutting-edge AAA graphics (though they're still strong, and they've come a long way since launch via updates), but the game's uncommon method of generating galaxies of incomprehensible scale on-device, and consistently for all players from a single-seed, happening on a phone is remarkable for those of us who remember phones performing far behind consoles or desktop PCs.\nThis version of the game includes all of the content and systems updates to the game that have been added over the years-the expansions that famously took the game from a rocky launch reception to a widely beloved redemption story.\nThere are a couple of compromises, though, and it's similar to what we saw with No Man's Sky on the Nintendo Switch. Hello Games says the ability to build and explore player-made planetary settlements is limited to the iPhone 15 Pro and later, and multiplayer is not supported on any iOS device. \"We are excited to see player feedback on iOS, and will support it appropriately based on how many folks are playing,\" the company says, leaving the door open to perhaps not supporting all future content updates if the player base isn't there to justify it.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "updates), but the game's uncommon method of generating galaxies of incomprehensible scale"
+    ],
+    [
+     "del",
+     "on device"
+    ],
+    [
+     "ins",
+     "on-device, and"
+    ],
+    [
+     "eq",
+     "consistently for all players from a"
+    ],
+    [
+     "del",
+     "single-seed"
+    ],
+    [
+     "ins",
+     "single-seed,"
+    ],
+    [
+     "eq",
+     "happening on a phone is remarkable for those of us who remember"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0238,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9915,
+ "adjudicated_by": "rules"
+}

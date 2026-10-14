@@ -1,0 +1,196 @@
+{
+ "id": "eb201206128bf0d5-0879cf0e-a0771c2a",
+ "url": "https://www.france24.com/en/france/20261013-french-school-shooting-suspect-linked-to-online-group-that-glorifies-mass-killers",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-14T11:35:22Z",
+ "date": "2026-10-14",
+ "old_title": "French school shooting suspect linked to online group that glorifies mass killers",
+ "new_title": "French school shooting suspect linked to online group that glorifies mass killers",
+ "old_text": "French school shooting suspect linked to online group that glorifies mass killers\nA 14-year-old pupil suspected of shooting and wounding a headmaster and teacher near Marseille may have been involved in an online network associated with the glorification of mass killers known as the True Crime Community, prompting France's anti-terror prosecutor to take over the case.\nThe French anti-terror prosecutor said on Tuesday it has taken over the investigation into the school shooting near Marseille the day before after an initial probe found out the suspected 14-year-old pupil seemed to belong to a group called True Crime Community (TCC).\n\"The TCC is an ecosystem of online communities that glorifies perpetrators of mass killings and, in certain ways, incites the use of extreme violence,\" the prosecutor said in a statement.\nRead moreTeen wounds headmaster and teacher after opening fire at French school\nA pupil at a school shot and wounded two teachers on Monday with a hunting rifle that had been hidden in a guitar case in Aubagne, near Marseille in Southern France.\n(FRANCE 24 with Reuters)",
+ "new_text": "French school shooting suspect linked to online group that glorifies mass killers\nA 14-year-old pupil suspected of shooting and wounding a headmaster and teacher near Marseille may have been involved in an online network associated with the glorification of mass killers known as the True Crime Community, prompting France's anti-terror prosecutor to take over the case.\nThe French anti-terrorism prosecutor has taken over an investigation into a school shooting after an initial probe found the 14-year-old suspect appeared to belong to a group called the True Crime Community.\nA pupil at a school near the southern city of Marseille shot and wounded two teachers on Monday with a hunting rifle that had been hidden in a guitar case, causing panic as children ran for cover, officials said.\nRead moreTeen wounds headmaster and teacher after opening fire at French school\nThe anti-terrorism prosecutor's office said on Tuesday the Marseille Prosecutor's Office had decided to relinquish jurisdiction for the case.\n\"Initial investigations, including an analysis of the minor's digital devices, indicate probable affiliation with the True Crime Community (TCC) movement and suggest that the criminal act committed at his school was motivated by this ideology,\" the prosecutor said in a statement on Tuesday.\n\"The TCC is an ecosystem of online communities that glorifies perpetrators of mass killings and, in certain ways, incites the use of extreme violence,\" it added.\nIt said it had opened investigations into charges of \"attempted murder in connection with a terrorist enterprise, participation in a terrorist criminal conspiracy with the intent to commit crimes against persons, and violations of weapons laws in connection with a terrorist enterprise.\"\n(FRANCE 24 with Reuters)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Community, prompting France's anti-terror prosecutor to take over the case. The French"
+    ],
+    [
+     "del",
+     "anti-terror"
+    ],
+    [
+     "ins",
+     "anti-terrorism"
+    ],
+    [
+     "eq",
+     "prosecutor"
+    ],
+    [
+     "del",
+     "said on Tuesday it"
+    ],
+    [
+     "eq",
+     "has taken over"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "ins",
+     "an"
+    ],
+    [
+     "eq",
+     "investigation into"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "ins",
+     "a"
+    ],
+    [
+     "eq",
+     "school shooting"
+    ],
+    [
+     "del",
+     "near Marseille the day before"
+    ],
+    [
+     "eq",
+     "after an initial probe found"
+    ],
+    [
+     "del",
+     "out"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "suspected"
+    ],
+    [
+     "eq",
+     "14-year-old"
+    ],
+    [
+     "del",
+     "pupil seemed"
+    ],
+    [
+     "ins",
+     "suspect appeared"
+    ],
+    [
+     "eq",
+     "to belong to a group called"
+    ],
+    [
+     "ins",
+     "the True Crime Community. A pupil at a school near the southern city of Marseille shot and wounded two teachers on Monday with a hunting rifle that had been hidden in a guitar case, causing panic as children ran for cover, officials said. Read moreTeen wounds headmaster and teacher after opening fire at French school The anti-terrorism prosecutor's office said on Tuesday the Marseille Prosecutor's Office had decided to relinquish jurisdiction for the case. \"Initial investigations, including an analysis of the minor's digital devices, indicate probable affiliation with the"
+    ],
+    [
+     "eq",
+     "True Crime Community"
+    ],
+    [
+     "del",
+     "(TCC)."
+    ],
+    [
+     "ins",
+     "(TCC) movement and suggest that the criminal act committed at his school was motivated by this ideology,\" the prosecutor said in a statement on Tuesday."
+    ],
+    [
+     "eq",
+     "\"The TCC is an ecosystem of online communities that glorifies perpetrators of mass killings and, in certain ways, incites the use of extreme violence,\""
+    ],
+    [
+     "del",
+     "the prosecutor"
+    ],
+    [
+     "ins",
+     "it added. It"
+    ],
+    [
+     "eq",
+     "said"
+    ],
+    [
+     "ins",
+     "it had opened investigations into charges of \"attempted murder in connection with a terrorist enterprise, participation"
+    ],
+    [
+     "eq",
+     "in a"
+    ],
+    [
+     "del",
+     "statement. Read moreTeen wounds headmaster"
+    ],
+    [
+     "ins",
+     "terrorist criminal conspiracy with the intent to commit crimes against persons,"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "teacher after opening fire at French school A pupil at a school shot and wounded two teachers on Monday"
+    ],
+    [
+     "ins",
+     "violations of weapons laws in connection"
+    ],
+    [
+     "eq",
+     "with a"
+    ],
+    [
+     "del",
+     "hunting rifle that had been hidden in a guitar case in Aubagne, near Marseille in Southern France."
+    ],
+    [
+     "ins",
+     "terrorist enterprise.\""
+    ],
+    [
+     "eq",
+     "(FRANCE 24 with Reuters)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.233,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.623,
+ "similarity": 0.9412,
+ "adjudicated_by": "rules"
+}
