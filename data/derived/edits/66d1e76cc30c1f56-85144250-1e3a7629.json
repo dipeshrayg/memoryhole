@@ -1,0 +1,48 @@
+{
+ "id": "66d1e76cc30c1f56-85144250-1e3a7629",
+ "url": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-15T11:08:28Z",
+ "date": "2026-10-15",
+ "old_title": "Watch: What we know about Russia's overnight strikes on Ukraine",
+ "new_title": "Watch: What we know about Russia's overnight strikes on Ukraine",
+ "old_text": "What we know about Russia's overnight strikes on Ukraine\nA key energy facility and a residential building in the outskirts of Kyiv have been hit by overnight Russian missile and drone strikes.\nIn the capital, at least three people were killed and 21 injured, Ukraine's state emergencies service DSNS said. At least 600,000 people across the country are without electricity after strikes hit critical infrastructure in the Kyiv region and the north-eastern city of Kharkiv.\nThe strikes come after US President Donald Trump said on Sunday that an \"energy ceasefire\" was in place between Russia and Ukraine.\nRussia's defence ministry said its \"massive\" strikes had targeted communications and energy facilities used by Ukraine's military.\nBBC Ukraine Correspondent Dan Johnson explains.",
+ "new_text": "Watch: Block of flats destroyed in Russian strikes on Ukraine\nA key energy facility and a residential building in the outskirts of Kyiv have been hit by overnight Russian missile and drone strikes.\nIn the capital, at least three people were killed and 21 injured, Ukraine's state emergencies service DSNS said. At least 600,000 people across the country are without electricity after strikes hit critical infrastructure in the Kyiv region and the north-eastern city of Kharkiv.\nThe strikes come after US President Donald Trump said on Sunday that an \"energy ceasefire\" was in place between Russia and Ukraine.\nRussia's defence ministry said its \"massive\" strikes had targeted communications and energy facilities used by Ukraine's military.\nBBC Ukraine Correspondent Dan Johnson explains.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "What we know about Russia's overnight"
+    ],
+    [
+     "ins",
+     "Watch: Block of flats destroyed in Russian"
+    ],
+    [
+     "eq",
+     "strikes on Ukraine A key energy facility and a residential building in"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1083,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.232,
+ "similarity": 0.9314,
+ "adjudicated_by": "rules"
+}

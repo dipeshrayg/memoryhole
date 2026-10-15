@@ -1,0 +1,74 @@
+{
+ "id": "f37f8bc9dee5bd9d-9925ce98-29fbbfba",
+ "url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-10-15T11:20:39Z",
+ "date": "2026-10-15",
+ "old_title": "Wayfair among firms fined millions for misleading sales tactics",
+ "new_title": "Wayfair among firms fined millions for misleading sales tactics",
+ "old_text": "- Published\nWayfair is among three firms which have been fined Â£6m in total by the competition watchdog for illegally using misleading sales tactics â with some customers set to receive refunds.\nThe online furniture retailer was fined Â£4.8m for misleading customers with time-limited offers, while online electronics seller Appliances Direct was fined Â£1.2m for the same practice, the Competition Markets Authority (CMA) said.\nMeanwhile, Gold's Gym has been fined Â£48,000 for not telling customers the total price of its memberships.\nIt and Appliances Direct have been ordered to refund customers a total of Â£440,000. Wayfair and Appliances Direct said the CMA's fines were disproportionate.\nGold's Gym has been contacted for comment.\nThousands of Appliances Direct customers will receive refunds of Â£25 each on average while 726 Gold's Gym customers will get refunds of up to Â£50, according to the CMA.\nThe watchdog said customers do not need to take any action and both companies will contact those affected customers about refunds.\nAppliances Direct has been told to pay refunds by 11 March, while Gold's Gym has been given a deadline of 29 March.\nThe CMA said Wayfair, Appliances Direct, and Gold's Gym had \"engaged constructively\" with its investigation. They all admitted to breaking the law and agreed to settle the case early, it added.\nThe watchdog said their co-operation reduced the firms' fines by 40%.\nThe CMA's fines are the result of an investigation it launched last November into online pricing.\nA Wayfair spokeswoman said the penalty was \"excessive\" but that \"we take the CMA's findings seriously and we chose to settle so we can continue to focus on serving our customers\".\nNick Glynne, chief executive of Buy it Direct, which owns Appliances Direct and several other online retailers, accepted that its practices were wrong, but said the firm should have simply been given \"a rap on the knuckles\" instead.\nGlynne said the CMA's process for calculating the fine was a \"black box\" and that it only settled because appealing was too expensive, accusing the watchdog of pressure tactics.\n\"When one body is investigator, prosecutor, judge and jury, it needs an exceptional commitment to fairness, restraint and proportionality. That is not what we experienced,\" he added.\nHayley Fletcher, senior director for consumer protection at the CMA, said: \"At a time when many households are carefully managing their budgets, people shouldn't lose out because of misleading sales tactics.\n\"Businesses must treat their customers fairly and make sure they comply with the law - or risk hefty fines.\"\nThe CMA's investigation found that the three companies had misled customers in different ways.\nWayfair had advertised products as if they would disappear the next day, through phrases like \"Here Today, Gone Tomorrow\" and countdown timers.\nHowever, the CMA said many products remained available at the same price or lower after the stated deadline, meaning the time-limited offer was false.\nMeanwhile, the regulator said Appliances Direct had automatically opted customers into services such as recycling old machines.\nGold's Gym was fined for failing to include joining fees in the total price of gym memberships or not making its total price clear to customers, the CMA said.",
+ "new_text": "- Published\nWayfair is among three firms which have been fined Â£6m in total by the competition watchdog for illegally using misleading sales tactics â with some customers set to receive refunds.\nThe online furniture retailer was fined Â£4.8m for misleading customers with time-limited offers, while online electronics seller Appliances Direct was fined Â£1.2m for the same practice, the Competition Markets Authority (CMA) said.\nMeanwhile, Gold's Gym has been fined Â£45,000 for not telling customers the total price of its memberships.\nIt and Appliances Direct have been ordered to refund customers a total of Â£440,000. Wayfair and Appliances Direct said the CMA's fines were disproportionate.\nGold's Gym has been contacted for comment.\nThousands of Appliances Direct customers will receive refunds of Â£25 each on average while 726 Gold's Gym customers will get refunds of up to Â£50, according to the CMA.\nThe watchdog said customers do not need to take any action and both companies will contact those affected customers about refunds.\nAppliances Direct has been told to pay refunds by 11 March, while Gold's Gym has been given a deadline of 29 March.\nThe CMA said Wayfair, Appliances Direct, and Gold's Gym had \"engaged constructively\" with its investigation. They all admitted to breaking the law and agreed to settle the case early, it added.\nThe watchdog said their co-operation reduced the firms' fines by 40%.\nThe CMA's fines are the result of an investigation it launched last November into online pricing.\nA Wayfair spokeswoman said the penalty was \"excessive\" but that \"we take the CMA's findings seriously and we chose to settle so we can continue to focus on serving our customers\".\nNick Glynne, chief executive of Buy it Direct, which owns Appliances Direct and several other online retailers, accepted that its practices were wrong, but said the firm should have simply been given \"a rap on the knuckles\" instead.\nGlynne said the CMA's process for calculating the fine was a \"black box\" and that it only settled because appealing was too expensive, accusing the watchdog of pressure tactics.\n\"When one body is investigator, prosecutor, judge and jury, it needs an exceptional commitment to fairness, restraint and proportionality. That is not what we experienced,\" he added.\nHayley Fletcher, senior director for consumer protection at the CMA, said: \"At a time when many households are carefully managing their budgets, people shouldn't lose out because of misleading sales tactics.\n\"Businesses must treat their customers fairly and make sure they comply with the law - or risk hefty fines.\"\nSue Davies, head of consumer rights policy at Which?, praised the CMA's response.\n\"The refunds secured by the CMA are a much-needed win for consumers at a time when household budgets are under strain,\" she said.\nThe CMA's investigation found that the three companies had misled customers in different ways.\nWayfair had advertised products as if they would disappear the next day, through phrases like \"Here Today, Gone Tomorrow\" and countdown timers.\nHowever, the CMA said many products remained available at the same price or lower after the stated deadline, meaning the time-limited offer was false.\nMeanwhile, the regulator said Appliances Direct had automatically opted customers into services such as recycling old machines.\nGold's Gym was fined for failing to include joining fees in the total price of gym memberships or not making its total price clear to customers, the CMA said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the Competition Markets Authority (CMA) said. Meanwhile, Gold's Gym has been fined"
+    ],
+    [
+     "del",
+     "Â£48,000"
+    ],
+    [
+     "ins",
+     "Â£45,000"
+    ],
+    [
+     "eq",
+     "for not telling customers the total price of its memberships. It and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "make sure they comply with the law - or risk hefty fines.\""
+    ],
+    [
+     "ins",
+     "Sue Davies, head of consumer rights policy at Which?, praised the CMA's response. \"The refunds secured by the CMA are a much-needed win for consumers at a time when household budgets are under strain,\" she said."
+    ],
+    [
+     "eq",
+     "The CMA's investigation found that the three companies had misled customers in"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0727,
+  "numbers_changed": [
+   "45,000",
+   "48,000"
+  ],
+  "market_figures_changed": [
+   "£45,000",
+   "£48,000"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.25,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

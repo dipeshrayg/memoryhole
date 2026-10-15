@@ -1,0 +1,334 @@
+{
+ "id": "c2ce4110e99685ed-c732c98c-4d0d4e21",
+ "url": "https://www.theguardian.com/football/2026/oct/14/lisandro-martinez-jason-wilcox-manchester-united-dressing-room",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-15T11:25:23Z",
+ "date": "2026-10-15",
+ "old_title": "Manchester United teammates widely share Martínez view that Wilcox is failing",
+ "new_title": "Manchester United teammates widely share Martínez view that Wilcox is failing",
+ "old_text": "Lisandro Martínez's view that Jason Wilcox is failing as Manchester United's director of football reflects the dressing room's general frustration at recruitment and squad depth, although the outburst is also regarded as a push by the defender to secure a move because he is out of contract next summer.\nMartínez's comments came after Tuesday's 2-0 Champions League defeat at Atlético Madrid. This left United with two wins all season, having taken six points from their first six Premier League matches, the club's poorest league start for 40 years.\nThe run of form has placed Michael Carrick's position under pressure, but Martínez zoned in on Wilcox and the rest of the hierarchy. \"Tonight it is easy to say the coach, easy to say the players, but also we have to see other areas,\" he said, pointing upwards.\n\"I expect more [investment], 100%. I expect more from our technical director [Jason Wilcox]. I have to be honest, as players we have to do more, but it is also important when you make a strong squad to be ready for this kind of night.\"\nWilcox, the executive in charge of transfers, oversaw a £155m spend in the last window on Youri Tielemans, Andrey Santos and Carlos Baleba. The decision to recruit three midfielders and not strengthen other areas has been met with puzzlement within the squad, particularly as Wilcox sought a left-back, with Newcastle's Lewis Hall the prime target.\nLuke Shaw is United's only senior player in that position and his 12-year career at the club has been plagued by injury. The 31-year-old missed the Atlético defeat and Saturday's 1-1 draw with Tottenham owing to a muscular problem. The lack of depth at left-back reflects the prevailing view among players that Carrick has been left without the resources to challenge. United were eliminated from the Carabao Cup by Brighton after making eight changes.\nAlthough Carrick led United to third last season, this came after he took over as caretaker in mid-January with only 17 league games to play with the team out of all the other competitions.\nMartínez is understood to favour a move, ideally to an elite European club outside the Premier League.",
+ "new_text": "Lisandro Martínez's view that Jason Wilcox is failing as Manchester United's director of football reflects wider dressing-room frustration over recruitment and squad depth, although the outburst caused at least one teammate to challenge the defender to identify who he believes is not good enough for the side.\nMartínez may face internal disciplinary action over extensive criticism of the hierarchy made in two broadcast interviews after Tuesday's 2-0 Champions League defeat at Atlético Madrid. The players had Wednesday off so any action would not be taken before their return to training on Thursday.\nMartínez directed his anger at Wilcox and what he referred to as \"the top\" of the club, saying not enough players had been signed and questioning the scale of investment, and that \"more ambition\" was needed. He said: \"We don't have the best squad at the moment compared with other top teams.\"\nMartínez's comments prompted a challenge from at least one teammate before the flight back to Manchester and caused a heightening of tension. The Argentinian did not appear to explicitly call out his teammates, saying merely that \"as players we have to do more\", and claimed that last season the squad had \"created the base to build an amazing team\".\nAlthough the sway of dressing-room opinion is with Martínez, his remarks are also seen as the centre-back considering his future, because he is out of contract next summer.\nDefeat at Atlético left United with two wins this season, having taken six points from their first six Premier League matches, the club's poorest league start for 40 years. The run of form has put the head coach Michael Carrick under pressure, but Martínez took aim at Wilcox and the rest of the hierarchy. \"Tonight it is easy to say the coach, easy to say the players, but also we have to see other areas,\" he said, pointing upwards.\n\"I expect more [investment], 100%. I expect more from our technical director [Jason Wilcox]. I have to be honest, as players we have to do more, but it is also important when you make a strong squad to be ready for this kind of night.\"\nWilcox, the executive in charge of transfers, oversaw £155m of spending in the last window on Youri Tielemans, Andrey Santos and Carlos Baleba. The decision to recruit three midfielders while not strengthening other areas has been met with puzzlement among the squad, particularly as Wilcox was looking for a left-back, with Newcastle's Lewis Hall the prime target.Luke Shaw is United's only senior player in that position and his 12-year career at the club has been plagued by injury. The 31-year-old missed the defeat by Atlético and owing to a muscular problem. The lack of depth at left-back reflects the prevailing view among players that Carrick has been left without the resources to challenge. United were eliminated from the Carabao Cup by Brighton after making eight changes.\nAlthough Carrick led United to third last season, this came after he took over as caretaker in mid-January with only 17 league games to play with the team out of all the other competitions.\nMartínez is understood to favour a move to an elite European club outside the Premier League.\nOn Wednesday night, Martínez released a statement on social media in an attempt to clarify his comments, writing: \"I know that, first and foremost, it's us, the players, who have to deliver, and I put myself at the front of that responsibility.\"\nHe added: \"I believe in my teammates, our manager and everyone working to help this club move forward.\" Yet he still maintained his post-match comments \"reflect how I feel and how much I want to see this club competing for the biggest honours\".",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "that Jason Wilcox is failing as Manchester United's director of football reflects"
+    ],
+    [
+     "del",
+     "the dressing room's general"
+    ],
+    [
+     "ins",
+     "wider dressing-room"
+    ],
+    [
+     "eq",
+     "frustration"
+    ],
+    [
+     "del",
+     "at"
+    ],
+    [
+     "ins",
+     "over"
+    ],
+    [
+     "eq",
+     "recruitment and squad depth, although the outburst"
+    ],
+    [
+     "del",
+     "is also regarded as a push by"
+    ],
+    [
+     "ins",
+     "caused at least one teammate to challenge"
+    ],
+    [
+     "eq",
+     "the defender to"
+    ],
+    [
+     "del",
+     "secure a move because"
+    ],
+    [
+     "ins",
+     "identify who"
+    ],
+    [
+     "eq",
+     "he"
+    ],
+    [
+     "ins",
+     "believes"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "del",
+     "out"
+    ],
+    [
+     "ins",
+     "not good enough for the side. Martínez may face internal disciplinary action over extensive criticism"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "contract next summer. Martínez's comments came"
+    ],
+    [
+     "ins",
+     "the hierarchy made in two broadcast interviews"
+    ],
+    [
+     "eq",
+     "after Tuesday's 2-0 Champions League defeat at Atlético Madrid."
+    ],
+    [
+     "del",
+     "This"
+    ],
+    [
+     "ins",
+     "The players had Wednesday off so any action would not be taken before their return to training on Thursday. Martínez directed his anger at Wilcox and what he referred to as \"the top\" of the club, saying not enough players had been signed and questioning the scale of investment, and that \"more ambition\" was needed. He said: \"We don't have the best squad at the moment compared with other top teams.\" Martínez's comments prompted a challenge from at least one teammate before the flight back to Manchester and caused a heightening of tension. The Argentinian did not appear to explicitly call out his teammates, saying merely that \"as players we have to do more\", and claimed that last season the squad had \"created the base to build an amazing team\". Although the sway of dressing-room opinion is with Martínez, his remarks are also seen as the centre-back considering his future, because he is out of contract next summer. Defeat at Atlético"
+    ],
+    [
+     "eq",
+     "left United with two wins"
+    ],
+    [
+     "del",
+     "all"
+    ],
+    [
+     "ins",
+     "this"
+    ],
+    [
+     "eq",
+     "season, having taken six points from their first six Premier League matches,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "club's poorest league start for 40 years. The run of form has"
+    ],
+    [
+     "del",
+     "placed"
+    ],
+    [
+     "ins",
+     "put the head coach"
+    ],
+    [
+     "eq",
+     "Michael"
+    ],
+    [
+     "del",
+     "Carrick's position"
+    ],
+    [
+     "ins",
+     "Carrick"
+    ],
+    [
+     "eq",
+     "under pressure, but Martínez"
+    ],
+    [
+     "del",
+     "zoned in on"
+    ],
+    [
+     "ins",
+     "took aim at"
+    ],
+    [
+     "eq",
+     "Wilcox and the rest of the hierarchy. \"Tonight it is easy to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "this kind of night.\" Wilcox, the executive in charge of transfers, oversaw"
+    ],
+    [
+     "del",
+     "a"
+    ],
+    [
+     "eq",
+     "£155m"
+    ],
+    [
+     "del",
+     "spend"
+    ],
+    [
+     "ins",
+     "of spending"
+    ],
+    [
+     "eq",
+     "in the last window on Youri Tielemans, Andrey Santos and Carlos Baleba. The decision to recruit three midfielders"
+    ],
+    [
+     "del",
+     "and"
+    ],
+    [
+     "ins",
+     "while"
+    ],
+    [
+     "eq",
+     "not"
+    ],
+    [
+     "del",
+     "strengthen"
+    ],
+    [
+     "ins",
+     "strengthening"
+    ],
+    [
+     "eq",
+     "other areas has been met with puzzlement"
+    ],
+    [
+     "del",
+     "within"
+    ],
+    [
+     "ins",
+     "among"
+    ],
+    [
+     "eq",
+     "the squad, particularly as Wilcox"
+    ],
+    [
+     "del",
+     "sought"
+    ],
+    [
+     "ins",
+     "was looking for"
+    ],
+    [
+     "eq",
+     "a left-back, with Newcastle's Lewis Hall the prime"
+    ],
+    [
+     "del",
+     "target. Luke"
+    ],
+    [
+     "ins",
+     "target.Luke"
+    ],
+    [
+     "eq",
+     "Shaw is United's only senior player in that position and his 12-year"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "at the club has been plagued by injury. The 31-year-old missed the"
+    ],
+    [
+     "ins",
+     "defeat by"
+    ],
+    [
+     "eq",
+     "Atlético"
+    ],
+    [
+     "del",
+     "defeat"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "Saturday's 1-1 draw with Tottenham"
+    ],
+    [
+     "eq",
+     "owing to a muscular problem. The lack of depth at left-back reflects"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "out of all the other competitions. Martínez is understood to favour a"
+    ],
+    [
+     "del",
+     "move, ideally"
+    ],
+    [
+     "ins",
+     "move"
+    ],
+    [
+     "eq",
+     "to an elite European club outside the Premier League."
+    ],
+    [
+     "ins",
+     "On Wednesday night, Martínez released a statement on social media in an attempt to clarify his comments, writing: \"I know that, first and foremost, it's us, the players, who have to deliver, and I put myself at the front of that responsibility.\" He added: \"I believe in my teammates, our manager and everyone working to help this club move forward.\" Yet he still maintained his post-match comments \"reflect how I feel and how much I want to see this club competing for the biggest honours\"."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.9668,
+  "numbers_changed": [
+   "1"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.76,
+ "similarity": 0.8267,
+ "adjudicated_by": "rules"
+}

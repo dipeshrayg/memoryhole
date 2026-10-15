@@ -1,0 +1,48 @@
+{
+ "id": "aae7dc9798d65f2f-fdda3f8b-65167b1c",
+ "url": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-10-15T11:20:37Z",
+ "date": "2026-10-15",
+ "old_title": "What surprise praise for UK economy tells us about the Budget",
+ "new_title": "What surprise praise for UK economy tells us about the Budget",
+ "old_text": "- Published\n\"Get your fiscal health in order,\" is a key message at the the International Monetary Fund's (IMF) annual meeting here in Thailand.\nThe IMF is worried about the debts of the world's biggest economies. It is doing its job as a watchdog, looking for and warning about financial vulnerabilities.\nIn the meantime, the finance ministers of former crisis countries are boasting about how little their borrowing costs have gone up, compared to the world's biggest economies, such as the US.\nOn three occasions in the past 24 hours, top IMF officials have praised the UK's plans to reduce its annual levels of borrowing, bucking the trend of the rest of the G7 group of countries, which includes Canada, France, Germany, Italy, Japan and the US.\nThe IMF clearly seeing the UK in a different light to these major economies is very interesting.\n\"The UK is actually one country where action to reduce debt and deficit has been taken decisively and we see the UK in that sense enjoying a bit of a better growth prospect,\" managing director Kristalina Georgieva said earlier.\nHer comments followed those of the IMF's chief economist Silvana Tenreyro who told me that UK borrowing reductions \"stand out\".\nThe IMF's twice-yearly assessment of global countries' economic prospects showed only the UK among the G7 having a serious plan for consolidation of its annual borrowing over the next few years, worth nearly 4% of the size of the economy. The US, Germany and Japan are increasing borrowing. Canada and Italy are keeping borrowing at the same level.\nIt appears the UK is now the IMF's model pupil - at the top of the G7 table for reducing deficits.\nLeaning into austerity\nThis matters because for the past half decade the UK has been on the bond market naughty step, often having the highest borrowing rates among the G7 since the Liz Truss mini budget, as political and economic crises afflicted different governments.\nWhile this is good news for the chancellor and the Treasury, it also points to the sort of Budget we will get in a fortnight's time. To keep its plans to reduce debt on track, John Healey is likely to have limited room for extra spending. He will want to marry this with limited tax rises. There could be a modest decrease in the margin for error around meeting debt rules - so-called headroom. If so that will be tied to providing a cushion against an expected rise in energy prices due to the ongoing Middle East conflict and the impact on the cost of living overall - the so called global inflation shock.\nThis is likely to mean disappointment for many public services expecting cash injections to account for rising inflation, as suggested this week by think tank the Institute for Fiscal Studies. It will mean tough public sector pay discussions.\nIt won't be \"austerity\" but the chancellor is likely to lean into the IMF framing of a government with austere plans, relative to other advanced countries. The initial prize is to avoid the direct gaze of the bond markets, whose full glare is on others, such as France now. The bigger prize could be lower relative borrowing costs for government and households.\nUltimately forecasts mean nothing without the underpinning of solid plans. Those plans will be here for everyone to judge soon enough.",
+ "new_text": "- Published\n\"Get your fiscal health in order,\" is a key message at the International Monetary Fund's (IMF) annual meeting here in Thailand.\nThe IMF is worried about the debts of the world's biggest economies. It is doing its job as a watchdog, looking for and warning about financial vulnerabilities.\nIn the meantime, the finance ministers of former crisis countries are boasting about how little their borrowing costs have gone up, compared to the world's biggest economies, such as the US.\nOn three occasions in the past 24 hours, top IMF officials have praised the UK's plans to reduce its annual levels of borrowing, bucking the trend of the rest of the G7 group of countries, which includes Canada, France, Germany, Italy, Japan and the US.\nThe IMF clearly seeing the UK in a different light to these major economies is very interesting.\n\"The UK is actually one country where action to reduce debt and deficit has been taken decisively and we see the UK in that sense enjoying a bit of a better growth prospect,\" managing director Kristalina Georgieva said earlier.\nHer comments followed those of the IMF's chief economist Silvana Tenreyro who told me that UK borrowing reductions \"stand out\".\nThe IMF's twice-yearly assessment of global countries' economic prospects showed only the UK among the G7 having a serious plan for consolidation of its annual borrowing over the next few years, worth nearly 4% of the size of the economy. The US, Germany and Japan are increasing borrowing. Canada and Italy are keeping borrowing at the same level.\nIt appears the UK is now the IMF's model pupil - at the top of the G7 table for reducing deficits.\nLeaning into austerity\nThis matters because for the past half decade the UK has been on the bond market naughty step, often having the highest borrowing rates among the G7 since the Liz Truss mini budget, as political and economic crises afflicted different governments.\nWhile this is good news for the chancellor and the Treasury, it also points to the sort of Budget we will get in a fortnight's time. To keep its plans to reduce debt on track, John Healey is likely to have limited room for extra spending. He will want to marry this with limited tax rises. There could be a modest decrease in the margin for error around meeting debt rules - so-called headroom. If so that will be tied to providing a cushion against an expected rise in energy prices due to the ongoing Middle East conflict and the impact on the cost of living overall - the so called global inflation shock.\nThis is likely to mean disappointment for many public services expecting cash injections to account for rising inflation, as suggested this week by think tank the Institute for Fiscal Studies. It will mean tough public sector pay discussions.\nIt won't be \"austerity\" but the chancellor is likely to lean into the IMF framing of a government with austere plans, relative to other advanced countries. The initial prize is to avoid the direct gaze of the bond markets, whose full glare is on others, such as France now. The bigger prize could be lower relative borrowing costs for government and households.\nUltimately forecasts mean nothing without the underpinning of solid plans. Those plans will be here for everyone to judge soon enough.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Published \"Get your fiscal health in order,\" is a key message at"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "eq",
+     "the International Monetary Fund's (IMF) annual meeting here in Thailand. The IMF"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0018,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 0.9985,
+ "adjudicated_by": "rules"
+}

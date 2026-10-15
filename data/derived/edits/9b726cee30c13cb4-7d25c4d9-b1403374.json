@@ -1,0 +1,114 @@
+{
+ "id": "9b726cee30c13cb4-7d25c4d9-b1403374",
+ "url": "https://www.npr.org/2026/10/14/nx-s1-6000696/what-to-know-about-pope-leos-lung-cancer-diagnosis",
+ "domain": "www.npr.org",
+ "source": "NPR Health",
+ "country": "United States",
+ "category": "health",
+ "lang": "en",
+ "detected_at": "2026-10-15T11:26:50Z",
+ "date": "2026-10-15",
+ "old_title": "What to know about Pope Leo's lung cancer diagnosis",
+ "new_title": "What to know about Pope Leo's lung cancer diagnosis",
+ "old_text": "What to know about Pope Leo's lung cancer diagnosisNPR's Steve Inskeep speaks to Dr. Otis Brawley, an oncologist at Johns Hopkins University, about the Pope's lung cancer diagnosis.\nNPR's Steve Inskeep speaks to Dr. Otis Brawley, an oncologist at Johns Hopkins University, about the Pope's lung cancer diagnosis.\nNPR does not offer or accept money for coverage or interviews.\nAnyone who makes such an offer or request is not an NPR employee and does not represent NPR.",
+ "new_text": "What to know about Pope Leo's lung cancer diagnosis\nNPR's Steve Inskeep speaks to Dr. Otis Brawley, an oncologist at Johns Hopkins University, about the Pope's lung cancer diagnosis.\nSTEVE INSKEEP, HOST:\nLet's get a doctor's opinion on this. Dr. Otis Brawley, who's an oncologist at the Kimmel Center at Johns Hopkins University, and who served as chief medical and scientific officer at the American Cancer Society for more than a decade. Dr. Brawley, good morning.\nOTIS BRAWLEY: Good morning.\nINSKEEP: OK. What do we need to know about adenocarcinoma?\nBRAWLEY: Adenocarcinoma is one of the types of lung cancer. It happens to be the most common type of lung cancer in nonsmokers. Many people associate lung cancer with smoking, but the truth is about 20% of people who get lung cancer nowadays get an adenocarcinoma - and they are nonsmokers.\nINSKEEP: That is useful to know. And I'm thinking of something else that I've heard about lung cancer, that it tends to be fatal more often than not, that it's a highly fatal form of lung cancer. But in this specific case, are we talking about something more survivable?\nBRAWLEY: Yeah, lung cancer has changed. And we've got - I shouldn't say lung cancer has changed. We've gotten much better in treating and detecting it. And someone who has a very small lesion - and we're very fortunate that the Holy Father has been very transparent - someone who has a very small lesion that's surgically removed. If the nodes which are being assessed right now turn out to be negative, his - we would expect that he's going to do very well without any further treatment. Just occasional observation with CT scan, but he's likely not to need chemotherapy or immunotherapy or radiation therapy.\nINSKEEP: Oh, that's great. And maybe that helps to explain why it would be that removing part of the lung - which sounds pretty severe - is actually a good sign?\nBRAWLEY: Yeah, it is a good sign. It means that, number one, he's very healthy and he can tolerate it. You know, we can live for a very long time with some of our lung removed if we're in good shape to begin with.\nINSKEEP: Let's talk about that. We've heard about the pope being a tennis player, being active, being engaged with things, but also 71 years old. What is the risk for someone who's in their 70s here?\nBRAWLEY: The risk is higher for someone in their 70s versus someone in their 50s. And it's higher for someone in their 50s versus their 30s. The most important thing to me is, are they aerobic? Can they walk up three or four flights of stairs without being winded? Do they do regular exercise, as apparently the pope does? Those are all good things.\nINSKEEP: It sounds like the pope is thinking about keeping this plan to travel overseas to Peru in a few weeks. Granting, you have not diagnosed this particular patient, but does that sound like a good idea?\nBRAWLEY: I think he can do it.\nINSKEEP: Really?\nBRAWLEY: I really think he can do it.\nINSKEEP: Go on. Why?\nBRAWLEY: You know, my impression is that this was a very small surgery that was done through - it was done more through a scoping procedure. It's not a huge incision. I - my anticipation is people who have this - I've not seen the pope, obviously, but people who have this type of procedure, who are in good physical shape, very frequently are back to normal in seven to 10 days.\nINSKEEP: What are the lessons, if any, for the rest of us in this?\nBRAWLEY: Just that we should - well, number one lesson is always don't smoke. I don't think the pope here did. But the most common cause of lung cancer still is smoking. And if someone does get a chest X-ray or a CT scan and they happen to find something that's abnormal, follow up on it. Very frequently, people will get a chest X-ray for some reason, and their - the radiologist will note there's a small lesion there. And then these people don't follow up on it.\nINSKEEP: So follow up on danger signs and get early intervention.\nBRAWLEY: That's right.\nINSKEEP: Dr. Otis Brawley is an oncologist at Johns Hopkins. Thanks so much.\nBRAWLEY: Thank you.\n(SOUNDBITE OF SONG, \"WE'REALLREALLYGONNABEDEADONEDAY\")\nCopyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.\nAccuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR's programming is the audio record.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "What to know about Pope Leo's lung cancer"
+    ],
+    [
+     "del",
+     "diagnosisNPR's Steve Inskeep speaks to Dr. Otis Brawley, an oncologist at Johns Hopkins University, about the Pope's lung cancer diagnosis."
+    ],
+    [
+     "ins",
+     "diagnosis"
+    ],
+    [
+     "eq",
+     "NPR's Steve Inskeep speaks to Dr. Otis Brawley, an oncologist at Johns Hopkins University, about the Pope's lung cancer diagnosis."
+    ],
+    [
+     "ins",
+     "STEVE INSKEEP, HOST: Let's get a doctor's opinion on this. Dr. Otis Brawley, who's an oncologist at the Kimmel Center at Johns Hopkins University, and who served as chief medical and scientific officer at the American Cancer Society for more than a decade. Dr. Brawley, good morning. OTIS BRAWLEY: Good morning. INSKEEP: OK. What do we need to know about adenocarcinoma? BRAWLEY: Adenocarcinoma is one of the types of lung cancer. It happens to be the most common type of lung cancer in nonsmokers. Many people associate lung cancer with smoking, but the truth is about 20% of people who get lung cancer nowadays get an adenocarcinoma - and they are nonsmokers. INSKEEP: That is useful to know. And I'm thinking of something else that I've heard about lung cancer, that it tends to be fatal more often than not, that it's a highly fatal form of lung cancer. But in this specific case, are we talking about something more survivable? BRAWLEY: Yeah, lung cancer has changed. And we've got - I shouldn't say lung cancer has changed. We've gotten much better in treating and detecting it. And someone who has a very small lesion - and we're very fortunate that the Holy Father has been very transparent - someone who has a very small lesion that's surgically removed. If the nodes which are being assessed right now turn out to be negative, his - we would expect that he's going to do very well without any further treatment. Just occasional observation with CT scan, but he's likely not to need chemotherapy or immunotherapy or radiation therapy. INSKEEP: Oh, that's great. And maybe that helps to explain why it would be that removing part of the lung - which sounds pretty severe - is actually a good sign? BRAWLEY: Yeah, it is a good sign. It means that, number one, he's very healthy and he can tolerate it. You know, we can live for a very long time with some of our lung removed if we're in good shape to begin with. INSKEEP: Let's talk about that. We've heard about the pope being a tennis player, being active, being engaged with things, but also 71 years old. What is the risk for someone who's in their 70s here? BRAWLEY: The risk is higher for someone in their 70s versus someone in their 50s. And it's higher for someone in their 50s versus their 30s. The most important thing to me is, are they aerobic? Can they walk up three or four flights of stairs without being winded? Do they do regular exercise, as apparently the pope does? Those are all good things. INSKEEP: It sounds like the pope is thinking about keeping this plan to travel overseas to Peru in a few weeks. Granting, you have not diagnosed this particular patient, but does that sound like a good idea? BRAWLEY: I think he can do it. INSKEEP: Really? BRAWLEY: I really think he can do it. INSKEEP: Go on. Why? BRAWLEY: You know, my impression is that this was a very small surgery that was done through - it was done more through a scoping procedure. It's not a huge incision. I - my anticipation is people who have this - I've not seen the pope, obviously, but people who have this type of procedure, who are in good physical shape, very frequently are back to normal in seven to 10 days. INSKEEP: What are the lessons, if any, for the rest of us in this? BRAWLEY: Just that we should - well, number one lesson is always don't smoke. I don't think the pope here did. But the most common cause of lung cancer still is smoking. And if someone does get a chest X-ray or a CT scan and they happen to find something that's abnormal, follow up on it. Very frequently, people will get a chest X-ray for some reason, and their - the radiologist will note there's a small lesion there. And then these people don't follow up on it. INSKEEP: So follow up on danger signs and get early intervention. BRAWLEY: That's right. INSKEEP: Dr. Otis Brawley is an oncologist at Johns Hopkins. Thanks so much. BRAWLEY: Thank you. (SOUNDBITE OF SONG, \"WE'REALLREALLYGONNABEDEADONEDAY\") Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information. Accuracy and availability of"
+    ],
+    [
+     "eq",
+     "NPR"
+    ],
+    [
+     "del",
+     "does not offer"
+    ],
+    [
+     "ins",
+     "transcripts may vary. Transcript text may be revised to correct errors"
+    ],
+    [
+     "eq",
+     "or"
+    ],
+    [
+     "del",
+     "accept money for coverage"
+    ],
+    [
+     "ins",
+     "match updates to audio. Audio on npr.org may be edited after its original broadcast"
+    ],
+    [
+     "eq",
+     "or"
+    ],
+    [
+     "del",
+     "interviews. Anyone who makes such an offer or request"
+    ],
+    [
+     "ins",
+     "publication. The authoritative record of NPR's programming"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "del",
+     "not an NPR employee and does not represent NPR."
+    ],
+    [
+     "ins",
+     "the audio record."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 10.5714,
+  "numbers_changed": [
+   "10",
+   "20",
+   "2026",
+   "30",
+   "50",
+   "70",
+   "71"
+  ],
+  "market_figures_changed": [
+   "20%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.45,
+ "similarity": 0.7334,
+ "adjudicated_by": "rules"
+}
