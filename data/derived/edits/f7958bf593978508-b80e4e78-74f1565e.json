@@ -1,0 +1,60 @@
+{
+ "id": "f7958bf593978508-b80e4e78-74f1565e",
+ "url": "https://www.abc.net.au/news/2026-10-15/two-ships-ablaze-romanian-black-sea-sailors-missing/107272674",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-16T11:08:26Z",
+ "date": "2026-10-16",
+ "old_title": "Sailors missing as two ships set ablaze in Romanian Black Sea",
+ "new_title": "Sailors missing as two ships set ablaze in Romanian Black Sea",
+ "old_text": "Sailors missing as two ships set ablaze in Romanian Black Sea\nIn short:\nMultiple sailors are missing after a fire broke out on board a ship off the Black Sea coast on Thursday.\nThe incidents follow drone strikes on at least five other cargo ships near the coasts of Romania and Bulgaria over the past 10 days.\nAt least 23 sailors were lost from those strikes, which, unlike the latest incidents, took place just outside NATO's territorial waters.",
+ "new_text": "In short:\nMultiple sailors are missing after a fire broke out on board a ship off the Black Sea coast on Thursday.\nThe incidents follow drone strikes on at least five other cargo ships near the coasts of Romania and Bulgaria over the past 10 days.\nAt least 23 sailors were lost from those strikes, which, unlike the latest incidents, took place just outside NATO's territorial waters.\nMultiple sailors are missing after a fire broke out on board a ship off the Black Sea coast on Thursday.\nRescuers were searching for seven missing crew from one of two chemical tankers that caught fire overnight inside Romanian territorial waters.\nRomanian President Nicusor Dan said the two ships had been struck by drones, but declined to say whether they were Russian.\n\"Two air drones hit them,\" Mr Dan said.\n\"There will be a reaction from the Romanian state.\"\nRecent attacks on commercial ships in the Black Sea are Russian attempts to destabilise the eastern flank and weaken support for Ukraine, Mr Dan added after a meeting with NATO's Secretary General Mark Rutte.\nThe incidents follow drone strikes on at least five other cargo ships near the coasts of Romania and Bulgaria over the past 10 days.\nShips attacked in the black sea\nAt least 23 sailors were lost from those strikes, which, unlike the latest incidents, took place just outside NATO's territorial waters.\nThe two ships hit overnight were both anchored in the Black Sea near the mouth of the canal leading into the Danube River.\nThe river is a major shipping route used by Ukraine, as Russia has attacked Ukraine's own Black Sea ports.\nRomania's naval authority said it received an emergency alert from the San Marino-flagged tanker Wine Trader.\nSeven of its 12 crew were missing, and five were rescued.\n\"At the moment, the rescue cannot be done safely because of very big waves,\" the interior ministry said in a statement.\nOn Wednesday, the Comoros-flagged chemical and oil tanker Yara J also caught fire.\nRomanian authorities initially said it was not clear whether it had been attacked. All its crew were safe.\nRomania shares a border with Ukraine, much of it along the Danube.\nIt has reported repeated breaches of its airspace by Russian drones over the past four years.\nBoth Wine Trader and Yara J caught fire near the mouth of the Danube River's Sulina Canal leading to the Black Sea, where ships often anchor due to weather delays.\nIncreasing attacks on Black Sea shipping connected with the Russia-Ukraine war in recent months have threatened to cause a global food crisis, as both countries are major exporters of grain, as is Romania.\n\"We're looking at the Black Sea as a global food artery,\" Romanian Foreign Minister Oana Toiu told a security conference in Warsaw earlier this week.\n\"It is currently, unfortunately, the deadliest sea when it comes to the number of casualties of sailors in the last months. That means we need to increase our investments in deterrence, defence.\"\nBulgarian Prime Minister Rumen Radev said EU leaders would discuss on Thursday a proposed moratorium on attacks on civilian ships in the Black Sea.\nRussia has been bombing Ukraine's Black Sea ports, forcing Kyiv to rely increasingly on Danube River ports and shipping routes close to the coasts of Bulgaria and Romania.\nAP/Reuters",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Sailors missing as two ships set ablaze in Romanian Black Sea"
+    ],
+    [
+     "eq",
+     "In short: Multiple sailors are missing after a fire broke out on"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "which, unlike the latest incidents, took place just outside NATO's territorial waters."
+    ],
+    [
+     "ins",
+     "Multiple sailors are missing after a fire broke out on board a ship off the Black Sea coast on Thursday. Rescuers were searching for seven missing crew from one of two chemical tankers that caught fire overnight inside Romanian territorial waters. Romanian President Nicusor Dan said the two ships had been struck by drones, but declined to say whether they were Russian. \"Two air drones hit them,\" Mr Dan said. \"There will be a reaction from the Romanian state.\" Recent attacks on commercial ships in the Black Sea are Russian attempts to destabilise the eastern flank and weaken support for Ukraine, Mr Dan added after a meeting with NATO's Secretary General Mark Rutte. The incidents follow drone strikes on at least five other cargo ships near the coasts of Romania and Bulgaria over the past 10 days. Ships attacked in the black sea At least 23 sailors were lost from those strikes, which, unlike the latest incidents, took place just outside NATO's territorial waters. The two ships hit overnight were both anchored in the Black Sea near the mouth of the canal leading into the Danube River. The river is a major shipping route used by Ukraine, as Russia has attacked Ukraine's own Black Sea ports. Romania's naval authority said it received an emergency alert from the San Marino-flagged tanker Wine Trader. Seven of its 12 crew were missing, and five were rescued. \"At the moment, the rescue cannot be done safely because of very big waves,\" the interior ministry said in a statement. On Wednesday, the Comoros-flagged chemical and oil tanker Yara J also caught fire. Romanian authorities initially said it was not clear whether it had been attacked. All its crew were safe. Romania shares a border with Ukraine, much of it along the Danube. It has reported repeated breaches of its airspace by Russian drones over the past four years. Both Wine Trader and Yara J caught fire near the mouth of the Danube River's Sulina Canal leading to the Black Sea, where ships often anchor due to weather delays. Increasing attacks on Black Sea shipping connected with the Russia-Ukraine war in recent months have threatened to cause a global food crisis, as both countries are major exporters of grain, as is Romania. \"We're looking at the Black Sea as a global food artery,\" Romanian Foreign Minister Oana Toiu told a security conference in Warsaw earlier this week. \"It is currently, unfortunately, the deadliest sea when it comes to the number of casualties of sailors in the last months. That means we need to increase our investments in deterrence, defence.\" Bulgarian Prime Minister Rumen Radev said EU leaders would discuss on Thursday a proposed moratorium on attacks on civilian ships in the Black Sea. Russia has been bombing Ukraine's Black Sea ports, forcing Kyiv to rely increasingly on Danube River ports and shipping routes close to the coasts of Bulgaria and Romania. AP/Reuters"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 6.3718,
+  "numbers_changed": [
+   "10",
+   "12",
+   "23"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 0.8746,
+ "adjudicated_by": "rules"
+}

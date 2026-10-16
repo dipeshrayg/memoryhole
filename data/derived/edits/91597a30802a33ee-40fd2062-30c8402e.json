@@ -1,0 +1,228 @@
+{
+ "id": "91597a30802a33ee-40fd2062-30c8402e",
+ "url": "https://www.bbc.co.uk/sport/football/articles/c3n04gy12r91o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-16T11:17:36Z",
+ "date": "2026-10-16",
+ "old_title": "Lisandro Martinez: Roy Keane says Man Utd 'like a circus'",
+ "new_title": "Lisandro Martinez: Roy Keane says Man Utd 'like a circus'",
+ "old_text": "- Published\nFormer Manchester United captain Roy Keane says the club are \"like a circus\" after defender Lisandro Martinez's criticism of the hierarchy.\nMartinez's comments came after Tuesday's 2-0 defeat by Atletico Madrid in the Champions League, which stretched their winless streak to five games.\nThe Argentina international criticised United for not strengthening the squad in the summer following qualification for the Champions League, saying he expected more investment in the United squad and \"more from our technical director [Jason Wilcox]\".\nSpeaking on The Overlap, external podcast, Keane said Martinez's statement reflected the overall state of the club.\n\"There will be some fans saying it's great and some saying you're letting the team down, especially from a player who hasn't been at his best, when the team is struggling,\" Keane said.\n\"I think as a reflection of the club, it's obviously chaos there, like a bit of a circus.\n\"When you're going through a difficult spell like United are, the issue I have with certain players saying things is you always have to start with the man in the mirror before you start coming out with all these comments.\"\nMartinez said on social media on Wednesday that he spoke out of \"anger and frustration\".\nThe 28-year-old's contract expires at the end of the season and United have the option to extend it by another year.\n\"I don't think it will be a big falling-out - because I think we have question marks over this dressing room anyway,\" Keane said.\n\"I don't think there's enough characters - enough men in there - but I don't see him as a senior player at Manchester United. I see him as a centre-half who's making lots of mistakes.\"\nFormer United defender Gary Neville compared the incident to comments made by Wayne Rooney when they were team-mates in 2010.\n\"I've got a problem with this from a player's perspective,\" said Neville. \"That is a direct attack on the players you are playing with.\n\"So if I were Harry Maguire or Bruno Fernandes, or any other senior player, I would be absolutely fuming with him because you're basically saying we shouldn't be here and we should be bringing more players in.\"\nUnited travel to Leeds United in the Premier League on Sunday.",
+ "new_text": "- Published\nFormer captain Roy Keane says Manchester United are \"like a circus\" after defender Lisandro Martinez criticised the club's hierarchy.\nSpeaking after Tuesday's 2-0 defeat by Atletico Madrid in the Champions League, Martinez said he had expected more investment in the squad in the summer and \"more from our technical director\".\nIn a social media post on Wednesday he said he had spoken out of \"anger and frustration\".\nThe loss in Madrid stretched United's winless run to five games, and they have won just one of their opening six matches of the Premier League season.\nKeane, speaking on The Overlap, external podcast, said Martinez's statement reflected the overall state of the club.\n\"There will be some fans saying it's great and some saying you're letting the team down, especially from a player who hasn't been at his best, when the team is struggling,\" he said.\n\"I think as a reflection of the club, it's obviously chaos there, like a bit of a circus.\n\"When you're going through a difficult spell like United are, the issue I have with certain players saying things is you always have to start with the man in the mirror before you start coming out with all these comments.\"\nMartinez, 28, is out of contract at the end of the season, though United have the option to extend his deal by another year.\n\"I don't think it will be a big falling-out - because I think we have question marks over this dressing room anyway,\" Keane said.\n\"I don't think there's enough characters - enough men in there - but I don't see him as a senior player at Manchester United. I see him as a centre-half who's making lots of mistakes.\"\nFormer United defender Gary Neville compared the incident to comments made by Wayne Rooney when they were team-mates in 2010.\nRooney pulled out of contract talks, saying he had not received \"any of the assurances I was seeking about the future squad\". Two days later he signed a five-year deal and later said staying was the best decision of his career.\n\"I've got a problem with this from a player's perspective,\" said Neville. \"That is a direct attack on the players you are playing with.\n\"So if I were Harry Maguire or Bruno Fernandes, or any other senior player, I would be absolutely fuming with him because you're basically saying we shouldn't be here and we should be bringing more players in.\"\nUnited travel to Leeds United in the Premier League on Sunday.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published Former"
+    ],
+    [
+     "del",
+     "Manchester United"
+    ],
+    [
+     "eq",
+     "captain Roy Keane says"
+    ],
+    [
+     "del",
+     "the club"
+    ],
+    [
+     "ins",
+     "Manchester United"
+    ],
+    [
+     "eq",
+     "are \"like a circus\" after defender Lisandro"
+    ],
+    [
+     "del",
+     "Martinez's criticism of"
+    ],
+    [
+     "ins",
+     "Martinez criticised"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "ins",
+     "club's"
+    ],
+    [
+     "eq",
+     "hierarchy."
+    ],
+    [
+     "del",
+     "Martinez's comments came"
+    ],
+    [
+     "ins",
+     "Speaking"
+    ],
+    [
+     "eq",
+     "after Tuesday's 2-0 defeat by Atletico Madrid in the Champions League,"
+    ],
+    [
+     "del",
+     "which stretched their winless streak to five games. The Argentina international criticised United for not strengthening"
+    ],
+    [
+     "ins",
+     "Martinez said he had expected more investment in"
+    ],
+    [
+     "eq",
+     "the squad in the summer"
+    ],
+    [
+     "del",
+     "following qualification for the Champions League, saying he expected more investment in the United squad"
+    ],
+    [
+     "eq",
+     "and \"more from our technical"
+    ],
+    [
+     "del",
+     "director [Jason Wilcox]\". Speaking"
+    ],
+    [
+     "ins",
+     "director\". In a social media post on Wednesday he said he had spoken out of \"anger and frustration\". The loss in Madrid stretched United's winless run to five games, and they have won just one of their opening six matches of the Premier League season. Keane, speaking"
+    ],
+    [
+     "eq",
+     "on The Overlap, external podcast,"
+    ],
+    [
+     "del",
+     "Keane"
+    ],
+    [
+     "eq",
+     "said Martinez's statement reflected the overall state of the club. \"There will"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "player who hasn't been at his best, when the team is struggling,\""
+    ],
+    [
+     "del",
+     "Keane"
+    ],
+    [
+     "ins",
+     "he"
+    ],
+    [
+     "eq",
+     "said. \"I think as a reflection of the club, it's obviously chaos"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "in the mirror before you start coming out with all these comments.\""
+    ],
+    [
+     "del",
+     "Martinez said on social media on Wednesday that he spoke"
+    ],
+    [
+     "ins",
+     "Martinez, 28, is"
+    ],
+    [
+     "eq",
+     "out of"
+    ],
+    [
+     "del",
+     "\"anger and frustration\". The 28-year-old's"
+    ],
+    [
+     "eq",
+     "contract"
+    ],
+    [
+     "del",
+     "expires"
+    ],
+    [
+     "eq",
+     "at the end of the"
+    ],
+    [
+     "del",
+     "season and"
+    ],
+    [
+     "ins",
+     "season, though"
+    ],
+    [
+     "eq",
+     "United have the option to extend"
+    ],
+    [
+     "del",
+     "it"
+    ],
+    [
+     "ins",
+     "his deal"
+    ],
+    [
+     "eq",
+     "by another year. \"I don't think it will be a big falling-out"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to comments made by Wayne Rooney when they were team-mates in 2010."
+    ],
+    [
+     "ins",
+     "Rooney pulled out of contract talks, saying he had not received \"any of the assurances I was seeking about the future squad\". Two days later he signed a five-year deal and later said staying was the best decision of his career."
+    ],
+    [
+     "eq",
+     "\"I've got a problem with this from a player's perspective,\" said Neville."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4681,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 1,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.524,
+ "similarity": 0.9493,
+ "adjudicated_by": "rules"
+}

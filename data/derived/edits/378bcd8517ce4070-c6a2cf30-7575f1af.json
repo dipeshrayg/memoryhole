@@ -1,0 +1,79 @@
+{
+ "id": "378bcd8517ce4070-c6a2cf30-7575f1af",
+ "url": "https://www.abc.net.au/news/2026-10-15/queensland-patient-deaths-review/107272588",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-16T11:08:28Z",
+ "date": "2026-10-16",
+ "old_title": "Review ordered after man dies waiting two hours for ambulance",
+ "new_title": "Review ordered after man dies waiting two hours for ambulance",
+ "old_text": "Reviews are underway after two Queensland patients died in separate incidents while waiting for medical care.\nA 53-year-old man who was experiencing chest pains called Triple Zero (000) to his property in the Brisbane suburb of Annerley on Saturday night.\nParamedics arrived two hours later and found the man dead inside the residence.\nThe Queensland Ambulance Service has confirmed a review into the matter has been launched.\n\"The death of a patient is a tragedy, and we extend our condolences to their family and loved ones,\" a QAS spokesperson said.\nOn Tuesday afternoon a man in his 80s was under the care of paramedics while waiting for a bed at Mater Private Hospital for approximately three hours.\nUpon being admitted he went into cardiac arrest.\nThe man had a \"do not resuscitate order\" and died shortly afterwards.\nIn a statement addressing both matters, Health Minister Tim Nicholls extended his condolences to the family and loved ones of the deceased.\nHe said the cases would be reviewed \"as will always happen when these types of tragic events occur - to ensure all procedures and protocols were followed\".\nThe latest Queensland Health performance data shows ambulance ramping is sitting at 42 per cent across the state's 26 top public hospital emergency departments.",
+ "new_text": "Reviews are underway after two Queensland patients died in separate incidents while waiting for medical care.\nA 51-year-old man who was experiencing chest pains called Triple Zero (000) to his property in the Brisbane suburb of Annerley on Saturday night.\nParamedics arrived two hours later and found the man dead inside the residence.\nThe Queensland Ambulance Service has confirmed a review into the matter has been launched.\n\"The death of a patient is a tragedy, and we extend our condolences to their family and loved ones,\" a QAS spokesperson said.\nOn Tuesday afternoon a man in his 80s was under the care of paramedics while waiting for a bed at the Mater Hospital for approximately three hours.\nUpon being admitted he went into cardiac arrest.\nThe man had a \"do not resuscitate order\" and died shortly afterwards.\nIn a statement addressing both matters, Health Minister Tim Nicholls extended his condolences to the family and loved ones of the deceased.\nHe said the cases would be reviewed \"as will always happen when these types of tragic events occur - to ensure all procedures and protocols were followed\".\nThe latest Queensland Health performance data shows ambulance ramping is sitting at 42 per cent across the state's 26 top public hospital emergency departments.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Queensland patients died in separate incidents while waiting for medical care. A"
+    ],
+    [
+     "del",
+     "53-year-old"
+    ],
+    [
+     "ins",
+     "51-year-old"
+    ],
+    [
+     "eq",
+     "man who was experiencing chest pains called Triple Zero (000) to his"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "was under the care of paramedics while waiting for a bed at"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "Mater"
+    ],
+    [
+     "del",
+     "Private"
+    ],
+    [
+     "eq",
+     "Hospital for approximately three hours. Upon being admitted he went into cardiac"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.019,
+  "numbers_changed": [
+   "51",
+   "53"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9997,
+ "adjudicated_by": "rules"
+}

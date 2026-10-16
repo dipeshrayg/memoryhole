@@ -1,0 +1,50 @@
+{
+ "id": "f21cd898a90a6a21-19d97f2a-896cec8a",
+ "url": "https://variety.com/2026/tv/news/the-west-wing-aaron-sorkin-thinks-reviving-series-every-day-1236911060/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-10-16T11:22:49Z",
+ "date": "2026-10-16",
+ "old_title": "Aaron Sorkin Thinks About Reviving 'The West Wing' for a 'Couple of Seconds Every Day': 'I Miss It'",
+ "new_title": "Aaron Sorkin Thinks About Reviving 'The West Wing' for a 'Couple of Seconds Every Day': 'I Miss It'",
+ "old_text": "\"The West Wing\" stays on Aaron Sorkin's mind.\nCreated by Sorkin, the beloved NBC series ran from 1999 to 2006 and is widely regarded as one of the best TV shows of all time. Asked by Entertainment Weekly about potentially reviving it, Sorkin said: \"There's probably a couple of seconds every day when I think about it.\"\nThough he noted that \"it would be very, very tricky to do in the current environment,\" he added that it \"would be fun\" and \"I miss it.\"\nPopular on Variety\n\"The West Wing\" starred Martin Sheen as President Josiah \"Jed\" Bartlet, Allison Janney as press secretary C.J. Cregg, Richard Schiff as communication director Toby Ziegler, Rob Lowe as deputy communications director Sam Seaborn, John Spencer as chief of staff Leo McGarry, Bradley Whitford as deputy chief of staff Josh Lyman, Dulé Hill as presidential aide Charlie Young, Stockard Channing as First Lady Abbey Bartlet and more.\nOf what President Bartlet would think about the current state of U.S. politics, Sorkin told EW: \"I'd like to take a little time before I put words in Jed Bartlet's mouth. I'll just say that I don't think his reaction would be dissimilar to most of our reactions to what's going on right now.\"\nSorkin isn't the only one who is open to a \"West Wing\" revival - Whitford and Hill told Variety last month that they'd both be on board if Sorkin decided to bring it back.\n\"I'll work him,\" Whitford said of Sorkin. \"I think there could be a limited series of some kind.\"\nAdded Hill, \"I think if he writes it, then we all will be there ... It would be a lovely thing to hopefully steer the collective consciousness of our society back toward humanity and connectivity and understanding.\"\nSorkin is currently doing the press rounds for his latest movie, \"The Social Reckoning,\" a follow-up to 2010's \"The Social Network\" with Jeremy Strong playing Mark Zuckerberg.",
+ "new_text": "\"The West Wing\" stays on Aaron Sorkin's mind.\nCreated by Sorkin, the beloved NBC series ran from 1999 to 2006 and is widely regarded as one of the best TV shows of all time. Asked by Entertainment Weekly about potentially reviving it, Sorkin said: \"There's probably a couple of seconds every day when I think about it.\"\nThough he noted that \"it would be very, very tricky to do in the current environment,\" he added that it \"would be fun\" and \"I miss it.\"\nPopular on Variety\nSorkin first started pondering a \"West Wing\" revival upon visiting the White House with the cast in 2024. At the time, he exclusively told Variety that his time in the real Oval Office - where the show was honored by the Biden administation - inspired him to think about a revival.\n\"The West Wing\" starred Martin Sheen as President Josiah \"Jed\" Bartlet, Allison Janney as press secretary C.J. Cregg, Richard Schiff as communication director Toby Ziegler, Rob Lowe as deputy communications director Sam Seaborn, John Spencer as chief of staff Leo McGarry, Bradley Whitford as deputy chief of staff Josh Lyman, Dulé Hill as presidential aide Charlie Young, Stockard Channing as First Lady Abbey Bartlet and more.\nOf what President Bartlet would think about the current state of U.S. politics, Sorkin told EW: \"I'd like to take a little time before I put words in Jed Bartlet's mouth. I'll just say that I don't think his reaction would be dissimilar to most of our reactions to what's going on right now.\"\nSorkin isn't the only one who is open to a \"West Wing\" revival - Whitford and Hill told Variety last month that they'd both be on board if Sorkin decided to bring it back.\n\"I'll work him,\" Whitford said of Sorkin. \"I think there could be a limited series of some kind.\"\nAdded Hill, \"I think if he writes it, then we all will be there ... It would be a lovely thing to hopefully steer the collective consciousness of our society back toward humanity and connectivity and understanding.\"\nSorkin is currently doing the press rounds for his latest movie, \"The Social Reckoning,\" a follow-up to 2010's \"The Social Network\" with Jeremy Strong playing Mark Zuckerberg.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "that it \"would be fun\" and \"I miss it.\" Popular on Variety"
+    ],
+    [
+     "ins",
+     "Sorkin first started pondering a \"West Wing\" revival upon visiting the White House with the cast in 2024. At the time, he exclusively told Variety that his time in the real Oval Office - where the show was honored by the Biden administation - inspired him to think about a revival."
+    ],
+    [
+     "eq",
+     "\"The West Wing\" starred Martin Sheen as President Josiah \"Jed\" Bartlet, Allison"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1579,
+  "numbers_changed": [
+   "2024"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9463,
+ "adjudicated_by": "rules"
+}

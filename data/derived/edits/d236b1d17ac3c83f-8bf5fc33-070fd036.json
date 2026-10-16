@@ -1,0 +1,151 @@
+{
+ "id": "d236b1d17ac3c83f-8bf5fc33-070fd036",
+ "url": "https://www.france24.com/en/middle-east/20261015-houthis-deny-targeting-holy-city-medina-after-saudi-arabia-says-intercepted-missile",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-16T11:07:28Z",
+ "date": "2026-10-16",
+ "old_title": "Houthis deny targeting holy city of Medina after Saudi Arabia says it intercepted missile",
+ "new_title": "Houthis deny targeting holy city of Medina after Saudi Arabia says it intercepted missile",
+ "old_text": "Houthis deny targeting holy city of Medina after Saudi Arabia says it intercepted missile\nYemen's Houthis denied carrying out an attack on Saudi Arabia on Thursday, shortly after Riyadh said it had intercepted a missile targeting the region around the holy city of Medina.\nYemen's Houthis said they did not carry out any attack on the Medina region Thursday, shortly after Saudi Arabia said it had intercepted a missile targeting the area of the holy city.\nRead moreHouthis threaten escalation after strike on Saudi oil giant Aramco\n\"The Yemeni armed forces confirm that they have not carried out any operation today targeting Saudi territory, and that the Saudi enemy's claims of an attack on Medina are a shameless and brazen lie,\" Houthi military spokesman Yahya Saree wrote on X.\n(FRANCE 24 with AFP)",
+ "new_text": "Houthis deny targeting holy city of Medina after Saudi Arabia says it intercepted missile\nYemen's Houthis denied carrying out an attack on Saudi Arabia on Thursday, shortly after Riyadh said it had intercepted a missile targeting the region around the holy city of Medina. Riyadh also accused Tehran of stoking tensions between the Houthis and government forces in the latest escalation.\nThe Saudi-led military coalition fighting Yemen's Houthis on Thursday said it had intercepted a cruise missile in the Medina region - home to one of Islam's holiest cities, but the Houthis denied carrying out any such attack.\n\"Interception and destruction of a cruise missile in the Medina region,\" coalition spokesman Turki Al-Malki wrote on X, with the statement also published by state media.\nThe Houthis quickly responded by saying they did not target the region on Thursday, and had previously vowed to spare the holy cities of Medina and Mecca.\nRead moreHouthis threaten escalation after strike on Saudi oil giant Aramco\nSaudi Arabia has in recent days come under sustained attack from the Houthis, including a strike on Riyadh's international airport that was the kingdom's deadliest in years, as the war with the group escalates.\nRiyadh has hit back with strikes against the Iran-backed group's stronghold in the Yemeni capital Sanaa.\nMedina, the burial place of the Prophet Mohammed and home to the Prophet's Mosque, is one of Islam's holiest cities alongside Mecca.\nRead moreWar escalates between Houthis and Riyadh: How did we get here?\nThe Houthis have vowed to continue targeting airports and other sites across Saudi Arabia but on Sunday said Mecca and Medina would be spared.\n\"The Yemeni armed forces confirm that they have not carried out any operation today targeting Saudi territory, and that the Saudi enemy's claims of an attack on Medina are a shameless and brazen lie,\" Houthi military spokesman Yahya Saree wrote on X on Thursday.\nOn Wednesday the Houthis said they had targeted facilities belonging to Saudi oil giant Aramco, with Saudi officials reporting a strike on a building in an area housing the energy giant's operations centre.\nThe Saudi-led coalition has supported Yemen's government militarily against the Houthis since 2015 in a long-running civil war that has created a humanitarian crisis.\nIran accused of encouraging Houthis\nSaudi Arabia accused Iran of encouraging Yemen's Houthis in the dramatic escalation of their fight with the kingdom, adding that the Islamic republic continued to arm and train the group.\nIn a virtual briefing with reporters including AFP journalists, Saudi Arabia's deputy minister for public diplomacy at the foreign ministry said Riyadh was still in touch with Iran, but that Tehran did not appear ready to make concessions.\n\"Iran continues to arm, train and support the Houthi militia in violation of UN security council resolutions,\" said Dr. Rayed Krimly, the deputy minister.\n\"We think that the escalation by the Houthis at this latest stage of the conflict is encouraged by Iran,\" he added.\nThe official said the kingdom continued \"to have direct communications with Iran\", but added: \"Overall, it doesn't seem yet that the Iranians are able to provide the necessary concessions for a solution.\"\nIn 2023, Iran and Saudi Arabia reached a deal mediated by China to thaw a longstanding freeze in ties, but the latest violence might threaten to upend the entente.\nThe Saudi official went on to accuse the Houthis of refusing to meet in Oman in recent weeks as fighting ramped up between the two sides.\n\"At the beginning of this escalation, we asked them to meet in Muscat, Oman and they refused,\" he added.\n\"This was the last communication which happened a few weeks ago.\"\n(FRANCE 24 with AFP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "intercepted a missile targeting the region around the holy city of Medina."
+    ],
+    [
+     "ins",
+     "Riyadh also accused Tehran of stoking tensions between the Houthis and government forces in the latest escalation. The Saudi-led military coalition fighting"
+    ],
+    [
+     "eq",
+     "Yemen's Houthis"
+    ],
+    [
+     "del",
+     "said they did not carry out any attack"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "the Medina region Thursday, shortly after Saudi Arabia"
+    ],
+    [
+     "ins",
+     "Thursday"
+    ],
+    [
+     "eq",
+     "said it had intercepted a"
+    ],
+    [
+     "ins",
+     "cruise"
+    ],
+    [
+     "eq",
+     "missile"
+    ],
+    [
+     "del",
+     "targeting"
+    ],
+    [
+     "ins",
+     "in"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "area"
+    ],
+    [
+     "ins",
+     "Medina region - home to one"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "ins",
+     "Islam's holiest cities, but the Houthis denied carrying out any such attack. \"Interception and destruction of a cruise missile in the Medina region,\" coalition spokesman Turki Al-Malki wrote on X, with the statement also published by state media. The Houthis quickly responded by saying they did not target the region on Thursday, and had previously vowed to spare"
+    ],
+    [
+     "eq",
+     "the holy"
+    ],
+    [
+     "del",
+     "city."
+    ],
+    [
+     "ins",
+     "cities of Medina and Mecca."
+    ],
+    [
+     "eq",
+     "Read moreHouthis threaten escalation after strike on Saudi oil giant Aramco"
+    ],
+    [
+     "ins",
+     "Saudi Arabia has in recent days come under sustained attack from the Houthis, including a strike on Riyadh's international airport that was the kingdom's deadliest in years, as the war with the group escalates. Riyadh has hit back with strikes against the Iran-backed group's stronghold in the Yemeni capital Sanaa. Medina, the burial place of the Prophet Mohammed and home to the Prophet's Mosque, is one of Islam's holiest cities alongside Mecca. Read moreWar escalates between Houthis and Riyadh: How did we get here? The Houthis have vowed to continue targeting airports and other sites across Saudi Arabia but on Sunday said Mecca and Medina would be spared."
+    ],
+    [
+     "eq",
+     "\"The Yemeni armed forces confirm that they have not carried out any"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "a shameless and brazen lie,\" Houthi military spokesman Yahya Saree wrote on"
+    ],
+    [
+     "del",
+     "X."
+    ],
+    [
+     "ins",
+     "X on Thursday. On Wednesday the Houthis said they had targeted facilities belonging to Saudi oil giant Aramco, with Saudi officials reporting a strike on a building in an area housing the energy giant's operations centre. The Saudi-led coalition has supported Yemen's government militarily against the Houthis since 2015 in a long-running civil war that has created a humanitarian crisis. Iran accused of encouraging Houthis Saudi Arabia accused Iran of encouraging Yemen's Houthis in the dramatic escalation of their fight with the kingdom, adding that the Islamic republic continued to arm and train the group. In a virtual briefing with reporters including AFP journalists, Saudi Arabia's deputy minister for public diplomacy at the foreign ministry said Riyadh was still in touch with Iran, but that Tehran did not appear ready to make concessions. \"Iran continues to arm, train and support the Houthi militia in violation of UN security council resolutions,\" said Dr. Rayed Krimly, the deputy minister. \"We think that the escalation by the Houthis at this latest stage of the conflict is encouraged by Iran,\" he added. The official said the kingdom continued \"to have direct communications with Iran\", but added: \"Overall, it doesn't seem yet that the Iranians are able to provide the necessary concessions for a solution.\" In 2023, Iran and Saudi Arabia reached a deal mediated by China to thaw a longstanding freeze in ties, but the latest violence might threaten to upend the entente. The Saudi official went on to accuse the Houthis of refusing to meet in Oman in recent weeks as fighting ramped up between the two sides. \"At the beginning of this escalation, we asked them to meet in Muscat, Oman and they refused,\" he added. \"This was the last communication which happened a few weeks ago.\""
+    ],
+    [
+     "eq",
+     "(FRANCE 24 with AFP)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 3.8872,
+  "numbers_changed": [
+   "2015",
+   "2023"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 3,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.137,
+ "similarity": 0.9305,
+ "adjudicated_by": "rules"
+}

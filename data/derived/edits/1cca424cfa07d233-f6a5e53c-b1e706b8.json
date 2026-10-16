@@ -1,0 +1,52 @@
+{
+ "id": "1cca424cfa07d233-f6a5e53c-b1e706b8",
+ "url": "https://news.un.org/feed/view/en/story/2026/10/1168576",
+ "domain": "news.un.org",
+ "source": "UN News",
+ "country": "International",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-16T11:10:47Z",
+ "date": "2026-10-16",
+ "old_title": "UN aid operation underway in Nepal following fresh floods",
+ "new_title": "UN aid operation underway in Nepal following fresh floods",
+ "old_text": "UN aid operation underway in Nepal following fresh floods\nThe United Nations has rushed to assist Nepal following new flash floods in the central Gorkha district on Sunday that swept away homes and bridges just weeks after catastrophic flooding in the north.\nAt least five people are missing and 95 have been rescued, according to the authorities. Hundreds have been displaced.\nIt is believed the disaster was caused by a landslide that blocked the Budhi Gandaki River.\n'We stand with Nepal'\n\"Our hearts are with every family affected by the Budhi Gandaki floods,\" the UN Country Team said on social media. \"We stand with Nepal.\"\nThe UN is supporting the National Disaster Risk Reduction and Management Authority (NDRRMA) in getting food to those who lost their homes.\nThe World Food Programme (WFP) said on Sunday that three trucks carrying ready-to-eat food and relief supplies were on the way to help meet the immediate needs of affected communities.\nFood security at risk\nThe \"devastating\" floods have damaged key roads, crops and livestock, threatening local food security, the UN Food and Agriculture Organization (FAO) said in a post on social media.\nThe UN Country Team said FAO drones and satellite imagery by the UN humanitarian affairs office OCHA are being used to \"map damage in places roads can't reach.\"\nFamilies in need\nThe raging flood waters disrupted essential services that children and families rely on, including water supply, education and healthcare. Displaced families now require safe shelter, clean drinking water, child protection and psychosocial support\nUN children's agency UNICEF is supporting rapid assessments to identify impacts and to determine priorities for the immediate response.\nUNICEF also has stocks of emergency supplies pre-positioned and ready for deployment, including hygiene kits, water treatment supplies, dignity kits, winter clothing, education materials and psychosocial support services.\nCommunities in Nepal are still reeling from the impact of flooding in late August that was triggered by a glacier collapse in the Himalayas. At least 1,400 people were killed and more than 5,000 are still missing.",
+ "new_text": "UN aid operation underway in Nepal following fresh floods\nThe United Nations has rushed to assist Nepal following new flash floods in the central Gorkha district on Sunday that swept away homes and bridges just weeks after catastrophic flooding in the north.\nAt least five people are missing and 95 have been rescued, according to the authorities. Hundreds are affected.\nIt is believed the disaster was caused by a landslide that blocked the Budhi Gandaki River.\n'We stand with Nepal'\n\"Our hearts are with every family affected by the Budhi Gandaki floods,\" the UN Country Team said on social media. \"We stand with Nepal.\"\nThe UN is supporting the National Disaster Risk Reduction and Management Authority (NDRRMA) in getting food to those who lost their homes.\nThe World Food Programme (WFP) said on Sunday that three trucks carrying ready-to-eat food and relief supplies were on the way to help meet the immediate needs of affected communities.\nFood security at risk\nThe \"devastating\" floods have damaged key roads, crops and livestock, threatening local food security, the UN Food and Agriculture Organization (FAO) said in a post on social media.\nThe UN Country Team said FAO drones and satellite imagery by the UN humanitarian affairs office OCHA are being used to \"map damage in places roads can't reach.\"\nFamilies in need\nThe raging flood waters disrupted essential services that children and families rely on, including water supply, education and healthcare. Displaced families now require safe shelter, clean drinking water, child protection and psychosocial support\nUN children's agency UNICEF is supporting rapid assessments to identify impacts and to determine priorities for the immediate response.\nUNICEF also has stocks of emergency supplies pre-positioned and ready for deployment, including hygiene kits, water treatment supplies, dignity kits, winter clothing, education materials and psychosocial support services.\nCommunities in Nepal are still reeling from the impact of flooding in late August that was triggered by a glacier collapse in the Himalayas. At least 1,400 people were killed and more than 5,000 are still missing.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "are missing and 95 have been rescued, according to the authorities. Hundreds"
+    ],
+    [
+     "del",
+     "have been displaced."
+    ],
+    [
+     "ins",
+     "are affected."
+    ],
+    [
+     "eq",
+     "It is believed the disaster was caused by a landslide that blocked"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0148,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9968,
+ "adjudicated_by": "rules"
+}

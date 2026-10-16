@@ -1,0 +1,54 @@
+{
+ "id": "bec46faf41db1a7c-1e14ffb9-15e32c88",
+ "url": "https://www.abc.net.au/news/2026-10-15/guilty-plea-over-katherine-train-derailment-crash/107269322",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-16T11:08:34Z",
+ "date": "2026-10-16",
+ "old_title": "Man faces court after 'frightening, costly' truck collision with train",
+ "new_title": "Man faces court after 'frightening, costly' truck collision with train",
+ "old_text": "In short:\nA man has pleaded guilty to two counts of careless driving causing harm over a 2023 crash that derailed a train in Katherine.\nChristopher Berto was driving a road train and was not speeding or under the influence of drugs or alcohol.\nWhat's next?\nThe case will return to court next month for sentencing.\nA man has pleaded guilty to two charges over a crash that derailed a train in the Northern Territory and seriously injured at least two other people.\nChristopher Berto, now 37, was driving a prime mover on June 14, 2023, in the Katherine region when the vehicle collided with a locomotive.\nThe court heard he was on his fourth run of the morning, moving tonnes of gravel from a quarry.\nThe truck caused the freight train to derail, injuring two workers on board.\nMr Berto pleaded guilty to two counts of careless driving causing serious harm, a plea the defence said he took at the earliest opportunity, in Darwin Local Court today.\nMarty Aust SC said his client could not explain why he did not see the crossing lights when they started flashing and that there was no speeding, drug or alcohol use involved.\n\"At that point in time he has about 70 seconds to slow the vehicle before he started skidding ... the prime mover was not capable of being stopped so he had to make a split-second decision to try and get it across,\" Mr Aust said.\n\"Ultimately he wasn't able to get the trailers across. He narrowly escaped serious, serious injury, but the consequences were serious to two persons in the locomotive.\"\nMr Berto conceded people had been seriously harmed and that the derailment was \"frightening and costly\".\n\"[Mr Berto] has been experiencing flashbacks, he has had to undergo counselling sessions himself ... he understands that is exactly what [the injured people] would be going through, and in addition they have physical complications,\" Mr Aust said.\nHe argued that the two workers suffered serious harm but their injuries were towards the lower end of the spectrum.\nMr Berto, a Katherine resident, was supported in court by his family, including two of his children.\nMr Aust argued his client should not be disqualified from driving because he was a father of four and the family's sole provider, and had \"never had an issue\" driving before or since the offending.\nCrown seeks imprisonment\nProsecutor Rhiannon McGlinn said the Crown would not ask the court to disqualify Mr Berto from driving, but sought a term of imprisonment. She said the Crown would be open to such a sentence being wholly suspended.\nMs McGlinn said one of the men who was injured required surgery to his wrist and had suffered psychological injuries.\n\"He could not return to work for three and a half months after this event,\" she said.\nMs McGlinn said the other worker suffered a back injury that required ongoing physiotherapy.\n\"He can't even hold his children up for too long due to his ongoing back pain,\" she said.\nMs McGlinn said the man also suffered financial strain and had to change careers.\nMr Berto's matter will return to court next month for sentencing.",
+ "new_text": "In short:\nA man has pleaded guilty to two counts of careless driving causing harm over a 2023 crash that derailed a train in Katherine.\nChristopher Berto was driving a road train and was not speeding or under the influence of drugs or alcohol.\nWhat's next?\nThe case will return to court next month for sentencing.\nA man has pleaded guilty to two charges over a crash that derailed a train in the Northern Territory and seriously injured at least two other people.\nChristopher Berto, now 37, was driving a prime mover on June 14, 2023, in the Katherine region when the vehicle collided with a locomotive.\nThe court heard he was on his fourth run of the morning, moving tonnes of gravel from a quarry.\nThe truck caused the freight train to derail, injuring two workers on board.\nMr Berto pleaded guilty to two counts of careless driving causing serious harm, a plea the defence said he took at the earliest opportunity, in Darwin Local Court today.\nMarty Aust SC said his client could not explain why he did not see the crossing lights when they started flashing and that there was no speeding, drug or alcohol use involved.\n\"At that point in time he has about seven seconds to slow the vehicle before he started skidding ... the prime mover was not capable of being stopped so he had to make a split-second decision to try and get it across,\" Mr Aust said.\n\"Ultimately he wasn't able to get the trailers across. He narrowly escaped serious, serious injury, but the consequences were serious to two persons in the locomotive.\"\nMr Berto conceded people had been seriously harmed and that the derailment was \"frightening and costly\".\n\"[Mr Berto] has been experiencing flashbacks, he has had to undergo counselling sessions himself ... he understands that is exactly what [the injured people] would be going through, and in addition they have physical complications,\" Mr Aust said.\nHe argued that the two workers suffered serious harm but their injuries were towards the lower end of the spectrum.\nMr Berto, a Katherine resident, was supported in court by his family, including two of his children.\nMr Aust argued his client should not be disqualified from driving because he was a father of four and the family's sole provider, and had \"never had an issue\" driving before or since the offending.\nCrown seeks imprisonment\nProsecutor Rhiannon McGlinn said the Crown would not ask the court to disqualify Mr Berto from driving, but sought a term of imprisonment. She said the Crown would be open to such a sentence being wholly suspended.\nMs McGlinn said one of the men who was injured required surgery to his wrist and had suffered psychological injuries.\n\"He could not return to work for three and a half months after this event,\" she said.\nMs McGlinn said the other worker suffered a back injury that required ongoing physiotherapy.\n\"He can't even hold his children up for too long due to his ongoing back pain,\" she said.\nMs McGlinn said the man also suffered financial strain and had to change careers.\nMr Berto's matter will return to court next month for sentencing.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "or alcohol use involved. \"At that point in time he has about"
+    ],
+    [
+     "del",
+     "70"
+    ],
+    [
+     "ins",
+     "seven"
+    ],
+    [
+     "eq",
+     "seconds to slow the vehicle before he started skidding ... the prime"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0038,
+  "numbers_changed": [
+   "70"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9999,
+ "adjudicated_by": "rules"
+}

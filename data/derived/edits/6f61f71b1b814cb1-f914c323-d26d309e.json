@@ -1,0 +1,52 @@
+{
+ "id": "6f61f71b1b814cb1-f914c323-d26d309e",
+ "url": "https://www.theguardian.com/football/2026/oct/15/gareth-southgate-premier-league-return-manager-hardly-watches-football",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-16T11:19:14Z",
+ "date": "2026-10-16",
+ "old_title": "Southgate 'hardly watches' football and does not envisage Premier League return",
+ "new_title": "Southgate 'hardly watches' football and does not envisage Premier League return",
+ "old_text": "Gareth Southgate has all but ruled out a return to Premier League management and revealed he \"didn't even enjoy the wins\" for more than a couple of minutes towards the end of his time in charge of England.\nSouthgate, who has moved away from football since stepping down as the manager of the England men's team after defeat by Spain in the Euro 2024 final, said he had not attended a game since watching his boyhood club Crystal Palace beat Manchester City in the FA Cup final last year.\nThe 56-year-old's only taste of club management came when he spent almost three and a half years at Middlesbrough after replacing Steve McClaren in 2006. Southgate was unable to keep Middlesbrough in the Premier League in 2009 and he indicated during an appearance on the Amol Rajan Connection podcast that he had no interest in seeking a return to top-flight management.\n\"I don't see a scenario where I do that,\" he said. \"Towards the end of my time with England, I stopped enjoying ... at the very least for a period, the wins keep you going. By the end, I didn't even enjoy the wins for any longer than a couple of minutes. So, I've hardly watched football.\n\"I went to the FA Cup final to see my team, Crystal Palace, win their first trophy. I've not been to a football ground since. So my sort of desire to be involved in football has changed.\"\nSouthgate managed England for almost eight years and came close to ending their hunt for a first men's trophy since the 1966 World Cup. But he has sought different opportunities since leaving the role. He has launched a podcast and fronted a BBC documentary this year in which he travelled across the UK to understand the challenges facing young men and boys.\n\"I've loved the last 18 months of my life,\" Southgate said. \"I've had 37 years where my sense of self depended on did I win or lose on Saturday. And actually I've loved having different experiences.\n\"I've met politicians, I've met people in the media industry, I have learned about leadership in all sorts of areas, I've travelled around the world learning things. I've just enjoyed playing a different film in my life.\"",
+ "new_text": "Gareth Southgate has all but ruled out a return to Premier League management and revealed he \"didn't even enjoy the wins\" for more than a couple of minutes towards the end of his time in charge of England.\nSouthgate, who has moved away from football since stepping down as the manager of the England men's team after defeat by Spain in the Euro 2024 final, said he had not attended a game since watching his boyhood club Crystal Palace beat Manchester City in the FA Cup final last year.\nThe 56-year-old's only taste of club management came when he spent almost three-and-a-half years at Middlesbrough after replacing Steve McClaren in 2006. Southgate was unable to keep Middlesbrough in the Premier League in 2009 and he indicated during an appearance on the Amol Rajan Connection podcast that he had no interest in seeking a return to top-flight management.\n\"I don't see a scenario where I do that,\" he said. \"Towards the end of my time with England, I stopped enjoying ... at the very least for a period, the wins keep you going. By the end, I didn't even enjoy the wins for any longer than a couple of minutes. So, I've hardly watched football.\n\"I went to the FA Cup final to see my team, Crystal Palace, win their first trophy. I've not been to a football ground since. So my sort of desire to be involved in football has changed.\"\nSouthgate managed England for almost eight years and came close to ending their hunt for a first men's trophy since the 1966 World Cup. But he has sought different opportunities since leaving the role. He has launched a podcast and fronted a BBC documentary this year in which he travelled across the UK to understand the challenges facing young men and boys.\n\"I've loved the last 18 months of my life,\" Southgate said. \"I've had 37 years where my sense of self depended on did I win or lose on Saturday. And actually I've loved having different experiences.\n\"I've met politicians, I've met people in the media industry, I have learned about leadership in all sorts of areas, I've travelled around the world learning things. I've just enjoyed playing a different film in my life.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "The 56-year-old's only taste of club management came when he spent almost"
+    ],
+    [
+     "del",
+     "three and a half"
+    ],
+    [
+     "ins",
+     "three-and-a-half"
+    ],
+    [
+     "eq",
+     "years at Middlesbrough after replacing Steve McClaren in 2006. Southgate was unable"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0132,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

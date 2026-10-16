@@ -1,0 +1,87 @@
+{
+ "id": "b6464169cb51a591-8e96743e-73443345",
+ "url": "https://www.abc.net.au/news/2026-10-13/world-cup-revenge-olympics-fire-mooney-beyond-100/107262248",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-16T11:08:15Z",
+ "date": "2026-10-16",
+ "old_title": "World Cup revenge, Olympics firing Mooney beyond 100",
+ "new_title": "World Cup revenge, Olympics firing Mooney beyond 100",
+ "old_text": "Sat, 15 Aug, 11:00 pm, Final score, AUS 198 & 284, BAN 426 & 1/57\nAustralian cricket star Beth Mooney set for her 100th ODI, with no eye on retirement\nIn short:\nWorld Cup revenge is driving Beth Mooney as the Australian women's cricket star eyes long-term goals even as she gets set for a career milestone.\nMooney will face Bangladesh in her 100th career ODI in Brisbane on Wednesday, but she is considering pushing on to the 2029 Women's Cricket World Cup and beyond.\nMooney says she is still disappointed after Australia's World Cup semi-final loss to India last year.",
+ "new_text": "Sat, 22 Aug, 11:00 pm, Final score, AUS 210, BAN 64 & 95\nAustralian cricket star Beth Mooney set for her 100th ODI, with no eye on retirement\nIn short:\nWorld Cup revenge is driving Beth Mooney as the Australian women's cricket star eyes long-term goals even as she gets set for a career milestone.\nMooney will face Bangladesh in her 100th career ODI in Brisbane on Wednesday, but she is considering pushing on to the 2029 Women's Cricket World Cup and beyond.\nMooney says she is still disappointed after Australia's World Cup semi-final loss to India last year.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Sat,"
+    ],
+    [
+     "del",
+     "15"
+    ],
+    [
+     "ins",
+     "22"
+    ],
+    [
+     "eq",
+     "Aug, 11:00 pm, Final score, AUS"
+    ],
+    [
+     "del",
+     "198"
+    ],
+    [
+     "ins",
+     "210, BAN 64"
+    ],
+    [
+     "eq",
+     "&"
+    ],
+    [
+     "del",
+     "284, BAN 426 & 1/57"
+    ],
+    [
+     "ins",
+     "95"
+    ],
+    [
+     "eq",
+     "Australian cricket star Beth Mooney set for her 100th ODI, with no"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1188,
+  "numbers_changed": [
+   "1",
+   "15",
+   "198",
+   "210",
+   "22",
+   "284",
+   "426",
+   "57",
+   "64",
+   "95"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9963,
+ "adjudicated_by": "rules"
+}

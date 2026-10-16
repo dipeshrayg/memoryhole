@@ -1,0 +1,87 @@
+{
+ "id": "5916bb71daf3f3a8-91e76f0d-ea25714b",
+ "url": "https://www.abc.net.au/news/2026-10-11/voll-smashes-quickfire-ton-australia-vs-bangladesh/107253844",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-16T11:07:49Z",
+ "date": "2026-10-16",
+ "old_title": "Georgia Voll smashes quickfire ton as Aussies wrap up Bangladesh series",
+ "new_title": "Georgia Voll smashes quickfire ton as Aussies wrap up Bangladesh series",
+ "old_text": "Sat, 15 Aug, 11:00 pm, Final score, AUS 198 & 284, BAN 426 & 1/57\nGeorgia Voll smashes quickfire ton as Australia wraps up Bangladesh series\nIn short:\nAustralia defeated Bangladesh by nine wickets to take an unassailable 2-0 lead in their ODI series at Allan Border field.\nAussie opening batter Georgia Voll struck an unbeaten 131 off 97 balls after Sobhana Mostary had become the first woman from Bangladesh to score an ODI century against Australia.\nWhat's next?\nThe three-match series concludes on Wednesday at the same venue.",
+ "new_text": "Sat, 22 Aug, 11:00 pm, Final score, AUS 210, BAN 64 & 95\nGeorgia Voll smashes quickfire ton as Australia wraps up Bangladesh series\nIn short:\nAustralia defeated Bangladesh by nine wickets to take an unassailable 2-0 lead in their ODI series at Allan Border field.\nAussie opening batter Georgia Voll struck an unbeaten 131 off 97 balls after Sobhana Mostary had become the first woman from Bangladesh to score an ODI century against Australia.\nWhat's next?\nThe three-match series concludes on Wednesday at the same venue.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Sat,"
+    ],
+    [
+     "del",
+     "15"
+    ],
+    [
+     "ins",
+     "22"
+    ],
+    [
+     "eq",
+     "Aug, 11:00 pm, Final score, AUS"
+    ],
+    [
+     "del",
+     "198"
+    ],
+    [
+     "ins",
+     "210, BAN 64"
+    ],
+    [
+     "eq",
+     "&"
+    ],
+    [
+     "del",
+     "284, BAN 426 & 1/57"
+    ],
+    [
+     "ins",
+     "95"
+    ],
+    [
+     "eq",
+     "Georgia Voll smashes quickfire ton as Australia wraps up Bangladesh series In"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1348,
+  "numbers_changed": [
+   "1",
+   "15",
+   "198",
+   "210",
+   "22",
+   "284",
+   "426",
+   "57",
+   "64",
+   "95"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.996,
+ "adjudicated_by": "rules"
+}
