@@ -1,0 +1,156 @@
+{
+ "id": "33a27fb900bd5a3c-4ac500b0-c696a32e",
+ "url": "https://www.abc.net.au/news/2026-10-17/women-report-sexual-offences-narrabeen-lagoon-walking-trails/107279134",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-18T10:46:40Z",
+ "date": "2026-10-18",
+ "old_title": "Police release e-bike rider image in 'sexual touching' case, increase patrols",
+ "new_title": "13yo charged with sex offences against women on Sydney walking track",
+ "old_text": "Police release image of e-bike rider they say can help with 'sexual touching' probe at Narrabeen Lagoon\nIn short:\nPolice have increased surveillance around Narrabeen Lagoon after multiple reports of alleged sexual offences against women.\nThe offences took place between October 1 and October 12, mostly between 4pm and 6pm.\nWhat's next?\nAn image has been released of an e-bike rider police say can help with their investigation, and are urging the man to come forward.",
+ "new_text": "In short:\nPolice have increased surveillance around Narrabeen Lagoon after multiple reports of alleged sexual offences against women.\nThe offences took place between October 1 and October 12, mostly between 4pm and 6pm.\nWhat's next?\nA 13-year-old has been charged in connection with the investigation.\nA 13-year-old boy has been charged after multiple reports of women being allegedly \"sexually touched\" on walking trails in Sydney's Northern Beaches.\nThe incidents took place between October 1 and October 12 in broad daylight while the women were walking or running at Narabeen Lagoon and in the surrounding bushland.\nIt will also be alleged that a woman was spoken to inappropriately at an intersection on Waroon Road and Carawa Road in Cromer, on Monday, September 7.\nThe teenager was arrested after he attended Manly Police Station on Saturday evening.\nHe has since been charged with three counts of behave in an offensive manner in or near a public place or school and eight counts of sexually touching another person without consent.\nPolice will allege 11 separate incidents occurred against women aged between 11 and 54.\nThe boy was granted conditional bail and is due to appear at a children's court on November 4.\nPolice have increased patrols on walking trails surrounding the lagoon.\nIn an update on Saturday afternoon, Superintendent John Duncan said it was alarming that women were being harassed.\n\"We take these matters very, very seriously,\" he said.\n\"In consultation with State Crime Command and the Sex Crime Squad, we've got a number of overt and covert activities.\n\"We have a number of our uniformed and plain-clothed officers in the area.\"\nMost of the alleged offending occurred between 4pm and 6pm.\nIn some cases several incidents occurred on one day.\nPolice believe just one person is involved, but are \"keeping their options open\".\n\"I'd imagine that person, or their families or friends, will actually know who that is,\"\nSuperintendent Duncan said.\n\"And we encourage them to come forward and help with our investigations.\"\nThe first reported incidents happened on October 7 and October 8.\nAfter a public appeal for information on October 12, police received an additional three reports - one dating back to the first of that month.\nThe woman alleged she was approached by a man near South Creek Road at Wheeler Heights about 4:30pm and allegedly sexually touched.\nOn October 12, in two separate incidents between 5pm and 5:30pm, two women reported being sexually touched by a male.\nAnyone with dashcam footage is urged to contact police.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Police release image of e-bike rider they say can help with 'sexual touching' probe at Narrabeen Lagoon"
+    ],
+    [
+     "eq",
+     "In short: Police have increased surveillance around Narrabeen Lagoon after multiple reports"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "October 1 and October 12, mostly between 4pm and 6pm. What's next?"
+    ],
+    [
+     "del",
+     "An image"
+    ],
+    [
+     "ins",
+     "A 13-year-old"
+    ],
+    [
+     "eq",
+     "has been"
+    ],
+    [
+     "del",
+     "released"
+    ],
+    [
+     "ins",
+     "charged in connection with the investigation. A 13-year-old boy has been charged after multiple reports"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "ins",
+     "women being allegedly \"sexually touched\" on walking trails in Sydney's Northern Beaches. The incidents took place between October 1 and October 12 in broad daylight while the women were walking or running at Narabeen Lagoon and in the surrounding bushland. It will also be alleged that a woman was spoken to inappropriately at"
+    ],
+    [
+     "eq",
+     "an"
+    ],
+    [
+     "del",
+     "e-bike rider police say can"
+    ],
+    [
+     "ins",
+     "intersection on Waroon Road and Carawa Road in Cromer, on Monday, September 7. The teenager was arrested after he attended Manly Police Station on Saturday evening. He has since been charged with three counts of behave in an offensive manner in or near a public place or school and eight counts of sexually touching another person without consent. Police will allege 11 separate incidents occurred against women aged between 11 and 54. The boy was granted conditional bail and is due to appear at a children's court on November 4. Police have increased patrols on walking trails surrounding the lagoon. In an update on Saturday afternoon, Superintendent John Duncan said it was alarming that women were being harassed. \"We take these matters very, very seriously,\" he said. \"In consultation with State Crime Command and the Sex Crime Squad, we've got a number of overt and covert activities. \"We have a number of our uniformed and plain-clothed officers in the area.\" Most of the alleged offending occurred between 4pm and 6pm. In some cases several incidents occurred on one day. Police believe just one person is involved, but are \"keeping their options open\". \"I'd imagine that person, or their families or friends, will actually know who that is,\" Superintendent Duncan said. \"And we encourage them to come forward and"
+    ],
+    [
+     "eq",
+     "help with"
+    ],
+    [
+     "del",
+     "their investigation,"
+    ],
+    [
+     "ins",
+     "our investigations.\" The first reported incidents happened on October 7"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "are urging"
+    ],
+    [
+     "ins",
+     "October 8. After a public appeal for information on October 12, police received an additional three reports - one dating back to"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "ins",
+     "first of that month. The woman alleged she was approached by a"
+    ],
+    [
+     "eq",
+     "man"
+    ],
+    [
+     "ins",
+     "near South Creek Road at Wheeler Heights about 4:30pm and allegedly sexually touched. On October 12, in two separate incidents between 5pm and 5:30pm, two women reported being sexually touched by a male. Anyone with dashcam footage is urged"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "come forward."
+    ],
+    [
+     "ins",
+     "contact police."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 5.3158,
+  "numbers_changed": [
+   "1",
+   "11",
+   "12",
+   "13",
+   "30",
+   "4",
+   "5",
+   "54",
+   "6",
+   "7",
+   "8"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 3,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.6,
+ "similarity": 0.6914,
+ "adjudicated_by": "rules"
+}

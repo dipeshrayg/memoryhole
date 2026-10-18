@@ -1,0 +1,44 @@
+{
+ "id": "4a02a10c2a1016d7-c6a57476-c6cf36f9",
+ "url": "https://www.independent.co.uk/news/uk/politics/john-healey-budget-temu-amazon-tax-vat-b3066393.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-18T10:47:12Z",
+ "date": "2026-10-18",
+ "old_title": "Chancellor in online marketplace tax crackdown as he plots 'white van man' Budget",
+ "new_title": "Chancellor in online marketplace tax crackdown as he plots 'white van man' Budget",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nMinisters are reportedly preparing to announce a tax crackdown on online retailers as part of the chancellor's plan to deliver a budget for the \"white van man\" and the \"high street beautician\".\nJohn Healey is reportedly looking at ensuring that multibillion-pound online marketplaces such as Amazon, eBay and Temu will be made responsible for collecting tax owed by retailers selling on their platforms.\nThe policy, reported by The Times, will crack down primarily on foreign sellers who abuse the rules to avoid paying VAT. It is expected to raise as much as £1bn, money which will be used to cut business rates for high street shops.\nA Treasury source told the newspaper that one of the chancellor's priorities is to \"protect local family businesses and the high streets we love\".\n\"That means having the beauticians and white van drivers of our towns at the forefront of his mind as the budget draws nearer\", the source added.\nIt comes amid growing concern that Chinese retailers are using online marketplaces to undercut British competitors by evading the 20 per cent VAT on all their sales.\nThe new rules would see online marketplaces responsible for collecting VAT at source for all sellers who have an annual turnover of more than £90,000.\nTax expert Dan Neidle, founder of Tax Policy Associates, welcomed the tightening of the rules but told The Times the system would still be open to exploitation.\n\"This is a step in the right direction but the Treasury needs to go further and make online marketplaces responsible for collecting every penny of VAT on the sales made on their platform\", he said. \"Unless that happens these Chinese sham companies will find just another way around the rules.\"\nMr Healey is facing growing pressure to raise taxes or cut spending at next month's Budget, as soaring borrowing costs because of the Iran war and weaker growth has wiped nearly billions off the government's fiscal headroom.\nBut despite the bad news, on Monday new forecasts from the International Monetary Fund showed that the rise of artificial intelligence is driving an increase in economic growth in the UK, handing a boost to Mr Healey ahead of his first budget.\nThe new report indicates that Britain's economic outlook has improved more than almost any other major economy over the past six months.\nIn its latest World Economic Outlook, the IMF said UK GDP is set to grow by 1.3 per cent in 2026 - an upgrade of 0.5 points from its April forecast, despite the energy shock triggered by the war in Iran war having lasted longer than expected.\nA Treasury spokesperson said: \"As has always been the case, decisions on tax are a matter for the Chancellor to set out at fiscal events, rather than routinely commenting on rumour, speculation or proposals.\"",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nMinisters are reportedly preparing to announce a tax crackdown on online retailers as part of the chancellor's plan to deliver a budget for the \"white van man\" and the \"high street beautician\".\nJohn Healey is reportedly looking at ensuring that multibillion-pound online marketplaces such as Amazon, eBay and Temu will be made responsible for collecting tax owed by retailers selling on their platforms.\nThe policy, reported by The Times, will crack down primarily on foreign sellers who abuse the rules to avoid paying VAT. It is expected to raise as much as £1bn, money which will be used to cut business rates for high street shops.\nA Treasury source told the newspaper that one of the chancellor's priorities is to \"protect local family businesses and the high streets we love\".\n\"That means having the beauticians and white van drivers of our towns at the forefront of his mind as the budget draws nearer\", the source added.\nIt comes amid growing concern that Chinese retailers are using online marketplaces to undercut British competitors by evading the 20 per cent VAT on all their sales.\nThe new rules would see online marketplaces responsible for collecting VAT at source for all sellers who have an annual turnover of more than £90,000.\nTax expert Dan Neidle, founder of Tax Policy Associates, welcomed the tightening of the rules but told The Times the system would still be open to exploitation.\n\"This is a step in the right direction but the Treasury needs to go further and make online marketplaces responsible for collecting every penny of VAT on the sales made on their platform\", he said. \"Unless that happens these Chinese sham companies will find just another way around the rules.\"\nMr Healey is facing growing pressure to raise taxes or cut spending at next month's Budget, as soaring borrowing costs because of the Iran war and weaker growth has wiped nearly billions off the government's fiscal headroom.\nBut despite the bad news, on Monday new forecasts from the International Monetary Fund showed that the rise of artificial intelligence is driving an increase in economic growth in the UK, handing a boost to Mr Healey ahead of his first budget.\nThe new report indicates that Britain's economic outlook has improved more than almost any other major economy over the past six months.\nIn its latest World Economic Outlook, the IMF said UK GDP is set to grow by 1.3 per cent in 2026 - an upgrade of 0.5 points from its April forecast, despite the energy shock triggered by the war in Iran war having lasted longer than expected.\nA Treasury spokesperson said: \"As has always been the case, decisions on tax are a matter for the Chancellor to set out at fiscal events, rather than routinely commenting on rumour, speculation or proposals.\"\nA spokesperson for Amazon said: \"We welcome the government's decision to extend Deemed Reseller rules to all sellers, regardless of where they are based. Closing this loophole will raise significant revenue for the Exchequer and simplify compliance for both HMRC and legitimate sellers.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "at fiscal events, rather than routinely commenting on rumour, speculation or proposals.\""
+    ],
+    [
+     "ins",
+     "A spokesperson for Amazon said: \"We welcome the government's decision to extend Deemed Reseller rules to all sellers, regardless of where they are based. Closing this loophole will raise significant revenue for the Exchequer and simplify compliance for both HMRC and legitimate sellers.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.086,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

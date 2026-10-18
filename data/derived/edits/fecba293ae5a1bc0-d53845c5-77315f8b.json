@@ -1,0 +1,411 @@
+{
+ "id": "fecba293ae5a1bc0-d53845c5-77315f8b",
+ "url": "https://www.independent.co.uk/asia/east-asia/north-korea-missile-ai-zam-b3068484.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-18T10:47:40Z",
+ "date": "2026-10-18",
+ "old_title": "North Korea tested new 'super-speed' torpedo system powered by AI",
+ "new_title": "North Korea claims to have tested an AI-guided 'super-speed' torpedo",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nNorth Korea claims to have successfully trialled a new torpedo mechanism incorporating artificial intelligence for target detection and guidance, state media reported on Saturday.\nThe Korean Central News Agency stated that Thursday's test involved a \"super-speed, precisely guided\" system designated as Zam-2.0, without elaborating on what the artificial intelligence entailed.\nThe coverage added that the operation successfully confirmed the viability of the weapon's propulsion systems, following more than 180 evaluations over the past five years.\nSouth Korea's military, which regularly accuses the North of overstating its technological advances, offered no immediate comment on the official KCNA report.\nPyongyang has been escalating its military displays in recent weeks, including conducting its initial underwater-launched missile trials in almost three years, as leader Kim Jong Un redirects emphasis to maritime strength following prolonged ballistic missile advancement.\nAnalysts believe the missile tests carried out Wednesday likely featured a yet-to-be-deployed submarine Pyongyang says is built to launch nuclear arms.\nNorth Korea also tested hypersonic missile systems of various ranges on 20 September and 3 October as it seeks to expand its arsenal of weapons designed to overwhelm missile defenses in South Korea and Japan.\nKim Yo Jong, the powerful sister of North Korean leader Kim Jong Un, claimed that the missiles tested on 3 October also used artificial intelligence technology.\nBut some experts say that while North Korea is likely improving its guidance software, it's doubtful that the country's weapons really have advanced digital capabilities such as autonomous target designation.\nKim Jong Un in recent years has halted all diplomacy and cooperation with South Korea and described it as a permanent enemy, as a years-long stalemate in nuclear negotiations with Washington drags on.\nNorth Korea has also conducted live-fire drills and commissioned a new warship in recent weeks as Mr Kim has continued to reject American and South Korean offers to resume long-stalled diplomacy.\nMr Kim has halted all diplomacy and cooperation with the rival neighbour and described it as a permanent enemy, amid a years-long stalemate in larger nuclear negotiations with Washington.\nHe has so far rebuffed US president Donald Trump's calls to revive their diplomacy, which broke down in 2019. His government has called for Washington to abandon its \"hostile\" policy towards Pyongyang and drop demands for North Korea's denuclearisation as a precondition for talks.",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nNorth Korea claims to have successfully conducted an underwater test of a new high-speed torpedo mechanism that uses artificial intelligence for target detection and guidance, according to a state media report on Saturday.\nThe test-firing of Zam-2.0, a \"super-speed, precisely guided\" system took place on Thursday and heralded a \"significant\" change in Pyongyang's naval capabilities, reported the Korean Central News Agency, without providing more details on the weapon's use of artificial intelligence.\nThe state media report framed the test as a final operation to confirm the viability of the weapon's propulsion systems, following more than 180 evaluations over the past five years.\nAccording to KCNA, key defence officials who oversaw the weapons test assessed that it \"served as a great success, foreseeing a significant change in the actual development of the Navy\".\n\"The test proved the core technology for raising the efficiency of propulsion and the performance of rocket propulsion devices,\" reported KCNA.\nSouth Korea's military, which regularly accuses the North of overstating its technological advances, offered no immediate comment on the report.\nPyongyang has been escalating its military displays in recent weeks, including conducting its first underwater missile trials in almost three years, as leader Kim Jong Un redirects his regime's focus on maritime strength following a prolonged period of ballistic missile advancement.\n\"The test launch appears to have been intended to flaunt its super-speed AI-driven torpedo, which is difficult to detect in advance and avoid, targeting the South Korean Navy's major surface ships,\" Lim Eul-chul, a professor at the Institute for Far Eastern Studies at Kyungnam University, told the Korea Times.\nAnalysts believe the missile tests likely featured a yet-to-be-deployed submarine Pyongyang says is built to launch nuclear arms.\nExperts also believe that the newly tested weapon could be a \"supercavitating torpedo\". According to Yonhap, this refers to a torpedo that creates air bubble in the nose to overcome water resistance, thereby travelling at a higher speed than conventional projectiles.\nEarlier this month, Kim Jong Un's powerful sister Kim Yo Jong announced the AI-assisted launch of an intermediate-range hypersonic missile system with various ranges.\nHowever, some experts have expressed doubt over the country's claims when it comes to advanced weaponry. Other countries have faced significant technical challenges in the development of such high-speed torpedoes, including maintaining effective guidance and control at high speeds underwater.\nThe latest development comes amid the backdrop of a possible meeting between US president Donald Trump and the North Korean leader at the Asia Pacific Economic Cooperation summit in China next month. Earlier this week, Mr Trump teased that he \"may\" meet the North Korean leader during his Asia tour in November.\nMr Kim has so far publicly rebuffed Mr Trump's attempts to revive their diplomacy, which broke down in 2019. His government has called for Washington to abandon its \"hostile\" policy towards Pyongyang and drop demands for North Korea's denuclearisation as a precondition for talks.\nMr Kim also halted all diplomacy and cooperation with South Korea and described it as a permanent enemy, as a years-long stalemate in nuclear negotiations with Washington drags on.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "today Already a member? Log in North Korea claims to have successfully"
+    ],
+    [
+     "del",
+     "trialled"
+    ],
+    [
+     "ins",
+     "conducted an underwater test of"
+    ],
+    [
+     "eq",
+     "a new"
+    ],
+    [
+     "ins",
+     "high-speed"
+    ],
+    [
+     "eq",
+     "torpedo mechanism"
+    ],
+    [
+     "del",
+     "incorporating"
+    ],
+    [
+     "ins",
+     "that uses"
+    ],
+    [
+     "eq",
+     "artificial intelligence for target detection and guidance,"
+    ],
+    [
+     "ins",
+     "according to a"
+    ],
+    [
+     "eq",
+     "state media"
+    ],
+    [
+     "del",
+     "reported"
+    ],
+    [
+     "ins",
+     "report"
+    ],
+    [
+     "eq",
+     "on Saturday. The"
+    ],
+    [
+     "del",
+     "Korean Central News Agency stated that Thursday's test involved"
+    ],
+    [
+     "ins",
+     "test-firing of Zam-2.0,"
+    ],
+    [
+     "eq",
+     "a \"super-speed, precisely guided\" system"
+    ],
+    [
+     "del",
+     "designated"
+    ],
+    [
+     "ins",
+     "took place on Thursday and heralded a \"significant\" change in Pyongyang's naval capabilities, reported the Korean Central News Agency, without providing more details on the weapon's use of artificial intelligence. The state media report framed the test"
+    ],
+    [
+     "eq",
+     "as"
+    ],
+    [
+     "del",
+     "Zam-2.0, without elaborating on what the artificial intelligence entailed. The coverage added that the"
+    ],
+    [
+     "ins",
+     "a final"
+    ],
+    [
+     "eq",
+     "operation"
+    ],
+    [
+     "del",
+     "successfully confirmed"
+    ],
+    [
+     "ins",
+     "to confirm"
+    ],
+    [
+     "eq",
+     "the viability of the weapon's propulsion systems, following more than 180 evaluations over the past five years."
+    ],
+    [
+     "ins",
+     "According to KCNA, key defence officials who oversaw the weapons test assessed that it \"served as a great success, foreseeing a significant change in the actual development of the Navy\". \"The test proved the core technology for raising the efficiency of propulsion and the performance of rocket propulsion devices,\" reported KCNA."
+    ],
+    [
+     "eq",
+     "South Korea's military, which regularly accuses the North of overstating its technological advances, offered no immediate comment on the"
+    ],
+    [
+     "del",
+     "official KCNA"
+    ],
+    [
+     "eq",
+     "report. Pyongyang has been escalating its military displays in recent weeks, including conducting its"
+    ],
+    [
+     "del",
+     "initial underwater-launched"
+    ],
+    [
+     "ins",
+     "first underwater"
+    ],
+    [
+     "eq",
+     "missile trials in almost three years, as leader Kim Jong Un redirects"
+    ],
+    [
+     "del",
+     "emphasis to"
+    ],
+    [
+     "ins",
+     "his regime's focus on"
+    ],
+    [
+     "eq",
+     "maritime strength following"
+    ],
+    [
+     "ins",
+     "a"
+    ],
+    [
+     "eq",
+     "prolonged"
+    ],
+    [
+     "ins",
+     "period of"
+    ],
+    [
+     "eq",
+     "ballistic missile advancement."
+    ],
+    [
+     "ins",
+     "\"The test launch appears to have been intended to flaunt its super-speed AI-driven torpedo, which is difficult to detect in advance and avoid, targeting the South Korean Navy's major surface ships,\" Lim Eul-chul, a professor at the Institute for Far Eastern Studies at Kyungnam University, told the Korea Times."
+    ],
+    [
+     "eq",
+     "Analysts believe the missile tests"
+    ],
+    [
+     "del",
+     "carried out Wednesday"
+    ],
+    [
+     "eq",
+     "likely featured a yet-to-be-deployed submarine Pyongyang says is built to launch nuclear arms."
+    ],
+    [
+     "del",
+     "North Korea"
+    ],
+    [
+     "ins",
+     "Experts"
+    ],
+    [
+     "eq",
+     "also"
+    ],
+    [
+     "ins",
+     "believe that the newly"
+    ],
+    [
+     "eq",
+     "tested"
+    ],
+    [
+     "ins",
+     "weapon could be a \"supercavitating torpedo\". According to Yonhap, this refers to a torpedo that creates air bubble in the nose to overcome water resistance, thereby travelling at a higher speed than conventional projectiles. Earlier this month, Kim Jong Un's powerful sister Kim Yo Jong announced the AI-assisted launch of an intermediate-range"
+    ],
+    [
+     "eq",
+     "hypersonic missile"
+    ],
+    [
+     "del",
+     "systems"
+    ],
+    [
+     "ins",
+     "system with various ranges. However, some experts have expressed doubt over the country's claims when it comes to advanced weaponry. Other countries have faced significant technical challenges in the development"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "various ranges on 20 September"
+    ],
+    [
+     "ins",
+     "such high-speed torpedoes, including maintaining effective guidance"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "3 October as it seeks to expand its arsenal"
+    ],
+    [
+     "ins",
+     "control at high speeds underwater. The latest development comes amid the backdrop"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "weapons designed to overwhelm missile defenses in South Korea"
+    ],
+    [
+     "ins",
+     "a possible meeting between US president Donald Trump"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "Japan. Kim Yo Jong,"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "powerful sister of"
+    ],
+    [
+     "eq",
+     "North Korean leader"
+    ],
+    [
+     "del",
+     "Kim Jong Un, claimed"
+    ],
+    [
+     "ins",
+     "at the Asia Pacific Economic Cooperation summit in China next month. Earlier this week, Mr Trump teased"
+    ],
+    [
+     "eq",
+     "that"
+    ],
+    [
+     "ins",
+     "he \"may\" meet"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "missiles tested on 3 October also used artificial intelligence technology. But some experts say that while"
+    ],
+    [
+     "eq",
+     "North"
+    ],
+    [
+     "del",
+     "Korea is likely improving its guidance software, it's doubtful that the country's weapons really have advanced digital capabilities such as autonomous target designation. Kim Jong Un"
+    ],
+    [
+     "ins",
+     "Korean leader during his Asia tour"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "recent years has halted all diplomacy and cooperation with South Korea and described it as a permanent enemy, as a years-long stalemate in nuclear negotiations with Washington drags on. North Korea has also conducted live-fire drills and commissioned a new warship in recent weeks as"
+    ],
+    [
+     "ins",
+     "November."
+    ],
+    [
+     "eq",
+     "Mr Kim has"
+    ],
+    [
+     "del",
+     "continued to reject American and South Korean offers to resume long-stalled diplomacy. Mr Kim has halted all diplomacy and cooperation with the rival neighbour and described it as a permanent enemy, amid a years-long stalemate in larger nuclear negotiations with Washington. He has"
+    ],
+    [
+     "eq",
+     "so far"
+    ],
+    [
+     "ins",
+     "publicly"
+    ],
+    [
+     "eq",
+     "rebuffed"
+    ],
+    [
+     "del",
+     "US president Donald"
+    ],
+    [
+     "ins",
+     "Mr"
+    ],
+    [
+     "eq",
+     "Trump's"
+    ],
+    [
+     "del",
+     "calls"
+    ],
+    [
+     "ins",
+     "attempts"
+    ],
+    [
+     "eq",
+     "to revive their diplomacy, which broke down in 2019. His government has"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and drop demands for North Korea's denuclearisation as a precondition for talks."
+    ],
+    [
+     "ins",
+     "Mr Kim also halted all diplomacy and cooperation with South Korea and described it as a permanent enemy, as a years-long stalemate in nuclear negotiations with Washington drags on."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.3181,
+  "numbers_changed": [
+   "20",
+   "3"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 5,
+  "blocks_removed": 2,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.19,
+ "similarity": 0.8717,
+ "adjudicated_by": "rules"
+}

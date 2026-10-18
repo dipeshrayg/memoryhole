@@ -1,0 +1,48 @@
+{
+ "id": "1246c2c5440ab788-d594daab-2a89ed61",
+ "url": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-18T10:43:39Z",
+ "date": "2026-10-18",
+ "old_title": "Sudan's army claims dozens of RSF fighters killed in Nyala attack",
+ "new_title": "Sudan's army claims dozens of RSF fighters killed in Nyala attack",
+ "old_text": "The Sudanese army says it has killed dozens of fighters from the Rapid Support Forces (RSF) in a series of air attacks on the southwestern city of Nyala, but the paramilitary group says the military has killed civilians.\nThe targets of Friday's attack were RSF positions and command centres in Nyala, the capital of South Darfur state and the seat of the paramilitary group's self-declared administration, the army said in a statement.\nHowever, the RSF said the army carried out a drone attack on a busy livestock market, killing 30 civilians, including 17 women and five children.\nThe group has not confirmed or denied whether separate attacks by the army killed some of its fighters and destroyed its command centres.\nSeparately, the human rights group Emergency Lawyers said in a post on X that a market was hit on Friday in Nyala and the drone used was \"affiliated\" with the Sudanese army.\nReporting from the Sudanese capital, Khartoum, Al Jazeera's Almigdad Alruhaid said on Saturday that the fighting between the army and RSF has \"intensified\".\n\"In South Kordofan, a source in the Sudanese government told Al Jazeera that RSF carried out drone attacks on mining sites with the exchange in fire intensifying in many parts of Sudan in the past 24 hours.\"\nThe army has repeatedly targeted the Darfur region in western Sudan with drones to try to retake territory controlled by the RSF, which holds most of the area.\nThis month, Sudanese military chief Abdel Fattah al-Burhan promised to seize \"every inch\" of territory under RSF control.\nThe Sudanese civil war began in 2023 and has killed tens of thousands of people. The United Nations has described the situation in Sudan as the world's worst humanitarian crisis.",
+ "new_text": "The Sudanese army says it has killed dozens of fighters from the Rapid Support Forces (RSF) in a series of air attacks on the southwestern city of Nyala, but the paramilitary group says the military has killed civilians.\nThe targets of Friday's attack were RSF positions and command centres in Nyala, the capital of South Darfur state and the seat of the paramilitary group's self-declared administration, the army said in a statement.\nHowever, the RSF said the army carried out a drone attack on a busy livestock market, killing 30 civilians, including 17 women and five children.\nThe group has not confirmed or denied whether separate attacks by the army killed some of its fighters and destroyed its command centres.\nSeparately, the human rights group Emergency Lawyers said in a post on X that a market was hit on Friday in Nyala and the drone used was \"affiliated\" with the Sudanese army.\nReporting from the Sudanese capital, Khartoum, Al Jazeera's Almigdad Alruhaid said on Saturday that the fighting between the army and RSF has \"intensified\".\n\"In South Kordofan, a source in the Sudanese government told Al Jazeera that the RSF carried out drone attacks on mining sites with the exchange in fire intensifying in many parts of Sudan in the past 24 hours.\"\nThe army has repeatedly targeted the Darfur region in western Sudan with drones to try to retake territory controlled by the RSF, which holds most of the area.\nThis month, Sudanese military chief Abdel Fattah al-Burhan promised to seize \"every inch\" of territory under RSF control.\nThe Sudanese civil war began in 2023 and has killed tens of thousands of people. The United Nations has described the situation in Sudan as the world's worst humanitarian crisis.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "South Kordofan, a source in the Sudanese government told Al Jazeera that"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "RSF carried out drone attacks on mining sites with the exchange in"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0035,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9991,
+ "adjudicated_by": "rules"
+}

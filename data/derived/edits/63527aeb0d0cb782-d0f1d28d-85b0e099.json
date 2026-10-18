@@ -1,0 +1,163 @@
+{
+ "id": "63527aeb0d0cb782-d0f1d28d-85b0e099",
+ "url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-10-18T10:54:44Z",
+ "date": "2026-10-18",
+ "old_title": "Evacuation orders as fast-moving Norte Fire burns homes south of Los Angeles",
+ "new_title": "Fast-moving California wildfire burns homes as people are ordered to leave",
+ "old_text": "- Published\nEvacuation orders in California are in effect due to a rapidly growing wildfire that has already burned six homes in the southern Los Angeles area.\nThe Norte Fire erupted on Friday in Orange County and quickly grew to 465 acres by the evening. One firefighter suffered heat exhaustion while battling the blaze.\nOfficials say the fierce Santa Ana winds will blow until Saturday, bringing further risk of more conflagrations.\nThe US National Weather Service (NWS) has issued a red flag warning for several California counties due to strong, gusty winds combined with low humidity and dry vegetation that create critical wildfire spread conditions.\nThe Norte Fire is one of 13 burning across the state, according to the California Department of Forestry and Fire Protection.\nIn an update on Friday evening, Division 3 Fire Chief Mark Backoff said that six homes had either been damaged or destroyed by the Norte Fire, and one firefighter had been injured from heat exhaustion.\n\"We continue to engage in the firefight, and have additional resources coming,\" he said.\nFootage posted online showed blazes tearing through homes in the communities of San Clemente and San Juan Capistrano.\nThe Bryson Fire, burning in the affluent coastal city of Malibu in Los Angeles county, has also sparked evacuation orders throughout the Santa Monica mountains and has grown to 147 acres.\nMore than 400 firefighters have been fighting the blaze.\nFurther south, the Henderson Fire in San Diego country erupted on Thursday, and has grown to over 2,000 acres, including around Marine Corps Base Camp Pendleton.\nThe size of the blaze has twice forced officials to close the I-5 highway, an important route that runs the length of the US West Coast.\nThe fires are being fanned by the Santa Ana winds, which normally begin during cooler months from late September to May.\nOfficials say the winds peaked on Friday, but will remain dangerous into early Saturday morning.\nWinds topped 40mph (64km/h) in the Los Angeles area, the NWS said, adding that motorists should watch for debris blown into roadways.\nTemperatures were far above average for this time of year in southern California, further driving up the fire danger.\nThe NWS has issued a heat advisory, saying that the danger of heat-related illness remained high.\nForecasts expect temperatures to reach 95F (35C) in southern California on Saturday.",
+ "new_text": "- Published\nEvacuation orders in California are in effect due to a rapidly growing wildfire that has already burned six homes south of Los Angeles.\nThe Norte Fire erupted on Friday in Orange County and quickly grew to 465 acres by the evening. By Saturday morning, it spread to 570 acres (2.3 sq km), with 5% containment.\nOne firefighter suffered heat exhaustion while battling the blaze.\nOfficials say the fierce Santa Ana winds will blow until Saturday, bringing further risk of more conflagrations.\nThe US National Weather Service (NWS) has issued a red flag warning for several California counties due to strong, gusty winds combined with low humidity and dry vegetation that create critical wildfire spread conditions.\nThe Norte Fire is one of 10 burning across the state, according to the California Department of Forestry and Fire Protection.\nIn an update on Friday evening, Division 3 Fire Chief Mark Backoff said that six homes had either been damaged or destroyed by the Norte Fire, and one firefighter had been injured from heat exhaustion.\n\"We continue to engage in the firefight, and have additional resources coming,\" he said.\nFootage posted online showed blazes tearing through homes in the communities of San Clemente and San Juan Capistrano.\nThe Bryson Fire, burning in the affluent coastal city of Malibu in Los Angeles county, has also sparked evacuation orders throughout the Santa Monica mountains and has grown to 147 acres, with 52% of the blaze contained.\nMore than 400 firefighters have been fighting the blaze.\nFurther south, the Henderson Fire in San Diego county erupted on Thursday, and has grown to over 3,100 acres (12.5 sq km), including around Marine Corps Base Camp Pendleton, with about 35% contained as of Saturday morning.\nThe size of the blaze has twice forced officials to close the I-5 highway, an important route that runs the length of the US West Coast.\nThe fires are being fanned by the Santa Ana winds, which normally begin during cooler months from late September to May.\nOfficials say the winds peaked on Friday, but will remain dangerous into early Saturday morning.\nWinds topped 40mph (64km/h) in the Los Angeles area, the NWS said, adding that motorists should watch for debris blown into roadways.\nTemperatures were far above average for this time of year in southern California, further driving up the fire danger.\nThe NWS has issued a heat advisory, saying that the danger of heat-related illness remained high.\nForecasts expect temperatures to reach 95F (35C) in southern California on Saturday.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "due to a rapidly growing wildfire that has already burned six homes"
+    ],
+    [
+     "del",
+     "in the southern"
+    ],
+    [
+     "ins",
+     "south of"
+    ],
+    [
+     "eq",
+     "Los"
+    ],
+    [
+     "del",
+     "Angeles area."
+    ],
+    [
+     "ins",
+     "Angeles."
+    ],
+    [
+     "eq",
+     "The Norte Fire erupted on Friday in Orange County and quickly grew to 465 acres by the evening."
+    ],
+    [
+     "ins",
+     "By Saturday morning, it spread to 570 acres (2.3 sq km), with 5% containment."
+    ],
+    [
+     "eq",
+     "One firefighter suffered heat exhaustion while battling the blaze. Officials say the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "that create critical wildfire spread conditions. The Norte Fire is one of"
+    ],
+    [
+     "del",
+     "13"
+    ],
+    [
+     "ins",
+     "10"
+    ],
+    [
+     "eq",
+     "burning across the state, according to the California Department of Forestry and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "evacuation orders throughout the Santa Monica mountains and has grown to 147"
+    ],
+    [
+     "del",
+     "acres."
+    ],
+    [
+     "ins",
+     "acres, with 52% of the blaze contained."
+    ],
+    [
+     "eq",
+     "More than 400 firefighters have been fighting the blaze. Further south, the Henderson Fire in San Diego"
+    ],
+    [
+     "del",
+     "country"
+    ],
+    [
+     "ins",
+     "county"
+    ],
+    [
+     "eq",
+     "erupted on Thursday, and has grown to over"
+    ],
+    [
+     "del",
+     "2,000 acres,"
+    ],
+    [
+     "ins",
+     "3,100 acres (12.5 sq km),"
+    ],
+    [
+     "eq",
+     "including around Marine Corps Base Camp"
+    ],
+    [
+     "del",
+     "Pendleton."
+    ],
+    [
+     "ins",
+     "Pendleton, with about 35% contained as of Saturday morning."
+    ],
+    [
+     "eq",
+     "The size of the blaze has twice forced officials to close the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1308,
+  "numbers_changed": [
+   "10",
+   "12.5",
+   "13",
+   "2,000",
+   "2.3",
+   "3,100",
+   "35",
+   "5",
+   "52",
+   "570"
+  ],
+  "market_figures_changed": [
+   "35%",
+   "5%",
+   "52%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.833,
+ "similarity": 0.9479,
+ "adjudicated_by": "rules"
+}

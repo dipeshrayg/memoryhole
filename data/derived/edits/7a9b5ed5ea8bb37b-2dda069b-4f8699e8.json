@@ -1,0 +1,137 @@
+{
+ "id": "7a9b5ed5ea8bb37b-2dda069b-4f8699e8",
+ "url": "https://www.abc.net.au/news/2026-10-17/rugby-league-world-cup-mitchell-moses-injury/107279314",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-18T10:46:36Z",
+ "date": "2026-10-18",
+ "old_title": "Kangaroos halfback's World Cup ends with calf muscle injury",
+ "new_title": "World Cup heartbreak for Kangaroos half as Tonga notches first win over England",
+ "old_text": "Fri, 18 Sept, 7:50 pm, Final score, Tigers 0, Raiders 6\nMitchell Moses calf injury ends Rugby League World Cup for Kangaroos halfback as PNG begins tournament with wins\nIn short:\nMitchell Moses will miss the remainder of the Rugby League World Cup after being ruled out of the Kangaroos' title defence with a lower leg injury.\nThe Parramatta playmaker suffered the injury during Australia's tournament opener on Thursday night.\nMeanwhile, Papua New Guinea's men's and women's sides began their tournaments with victories, and England eased to a 70-6 win over Wales in the women's competition.",
+ "new_text": "Fri, 18 Sept, 7:50 pm, Final score, Tigers 0, Raiders 6\nMitchell Moses' calf injury ends Rugby League World Cup for Kangaroos halfback as Tonga defeats England\nIn short:\nMitchell Moses will miss the remainder of the Rugby League World Cup after being ruled out of the Kangaroos' title defence with a lower leg injury.\nMeanwhile, England's hopes of reaching the semi-finals are already on life support after suffering a 30-12 loss to Tonga in Perth.\nPapua New Guinea's men's and women's sides began their tournaments with victories, while England breezed past Wales in the women's competition.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Fri, 18 Sept, 7:50 pm, Final score, Tigers 0, Raiders 6 Mitchell"
+    ],
+    [
+     "del",
+     "Moses"
+    ],
+    [
+     "ins",
+     "Moses'"
+    ],
+    [
+     "eq",
+     "calf injury ends Rugby League World Cup for Kangaroos halfback as"
+    ],
+    [
+     "del",
+     "PNG begins tournament with wins"
+    ],
+    [
+     "ins",
+     "Tonga defeats England"
+    ],
+    [
+     "eq",
+     "In short: Mitchell Moses will miss the remainder of the Rugby League"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "ruled out of the Kangaroos' title defence with a lower leg injury."
+    ],
+    [
+     "del",
+     "The Parramatta playmaker suffered"
+    ],
+    [
+     "ins",
+     "Meanwhile, England's hopes of reaching"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "injury during Australia's tournament opener"
+    ],
+    [
+     "ins",
+     "semi-finals are already"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "Thursday night. Meanwhile,"
+    ],
+    [
+     "ins",
+     "life support after suffering a 30-12 loss to Tonga in Perth."
+    ],
+    [
+     "eq",
+     "Papua New Guinea's men's and women's sides began their tournaments with victories,"
+    ],
+    [
+     "del",
+     "and"
+    ],
+    [
+     "ins",
+     "while"
+    ],
+    [
+     "eq",
+     "England"
+    ],
+    [
+     "del",
+     "eased to a 70-6 win over"
+    ],
+    [
+     "ins",
+     "breezed past"
+    ],
+    [
+     "eq",
+     "Wales in the women's competition."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5312,
+  "numbers_changed": [
+   "12",
+   "30",
+   "6",
+   "70"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 0.946,
+ "adjudicated_by": "rules"
+}

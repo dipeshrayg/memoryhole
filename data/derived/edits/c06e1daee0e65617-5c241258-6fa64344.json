@@ -1,0 +1,64 @@
+{
+ "id": "c06e1daee0e65617-5c241258-6fa64344",
+ "url": "https://news.un.org/feed/view/en/story/2026/10/1168578",
+ "domain": "news.un.org",
+ "source": "UN News",
+ "country": "International",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-18T10:48:52Z",
+ "date": "2026-10-18",
+ "old_title": "Security Council LIVE: Syria's fragile transition - economic strain, Israeli incursions and progress towards elections",
+ "new_title": "Security Council LIVE: Syria's fragile transition - economic strain, Israeli incursions and progress towards elections",
+ "old_text": "Security Council LIVE: Syria's fragile transition - economic strain, Israeli incursions and progress towards elections\nThe Security Council is meeting on Syria as the country's transition faces pressure on several fronts. Economic hardship is fuelling unrest, Israeli incursions continue in the south and sectarian tensions persist in Sweida, even as Damascus reports progress on its chemical weapons programme and talks about future elections. Millions, meanwhile, remain displaced. Follow live below and go here for full meetings coverage.\nKey points\n- 5.5 million Syrians remain displaced, around 800,000 of them in camps\n- The UN and Damascus have begun discussing preparations for future elections, including possible UN electoral assistance\n- The OPCW has for the first time verified the destruction of Syrian chemical munitions - 42 aerial bombs\n- The IAEA nuclear watchdog ended its investigation into Syria's nuclear non-compliance on 9 September\n- Israeli forces have held expanded territory in southern Syria since December 2024",
+ "new_text": "Security Council LIVE: Syria's fragile transition - economic strain, Israeli incursions and progress towards elections\nThe Security Council met to debate Syria's thorny transition Monday as it faces pressure on several fronts. Economic hardship is fuelling unrest, Israeli incursions continue in the south and sectarian tensions persist in Sweida, even as Damascus reports progress on its chemical weapons programme and talks about future elections. Millions, meanwhile, remain displaced. Follow live below and go here for full meetings coverage.\nKey points\n- 5.5 million Syrians remain displaced, around 800,000 of them in camps\n- The UN and Damascus have begun discussing preparations for future elections, including possible UN electoral assistance\n- The OPCW has for the first time verified the destruction of Syrian chemical munitions - 42 aerial bombs\n- The IAEA nuclear watchdog ended its investigation into Syria's nuclear non-compliance on 9 September\n- Israeli forces have held expanded territory in southern Syria since December 2024",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- economic strain, Israeli incursions and progress towards elections The Security Council"
+    ],
+    [
+     "del",
+     "is meeting on Syria"
+    ],
+    [
+     "ins",
+     "met to debate Syria's thorny transition Monday"
+    ],
+    [
+     "eq",
+     "as"
+    ],
+    [
+     "del",
+     "the country's transition"
+    ],
+    [
+     "ins",
+     "it"
+    ],
+    [
+     "eq",
+     "faces pressure on several fronts. Economic hardship is fuelling unrest, Israeli incursions"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0968,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9952,
+ "adjudicated_by": "rules"
+}
