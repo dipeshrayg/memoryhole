@@ -1,0 +1,48 @@
+{
+ "id": "d50b55521278e679-d2d8d55d-aeee9b45",
+ "url": "https://www.france24.com/en/video/20261018-france-protests-brought-the-entire-population-together-for-a-common-purpose",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-19T12:42:57Z",
+ "date": "2026-10-19",
+ "old_title": "France: Protests \"brought the entire population together for a common purpose\"",
+ "new_title": "France: Protests \"brought the entire population together for a common purpose\"",
+ "old_text": "France: Protests \"brought the entire population together for a common purpose\"\nIssued on:\nShare\nThis weekend, in cities across France, some 800,000 protesters, including students, railway workers and members of the Yellow Vest movement, took to the streets in largely peaceful nationwide demonstrations. Sparked by a month of high school student protests over educational inequality and crumbling school facilities, the movement has grown into a broader outcry over the cost of living, public spending and climate inaction, as people across France say they have reached their breaking point.",
+ "new_text": "France: Protests \"brought the entire population together for a common purpose\"\nIssued on: Modified:\nShare\nThis weekend, in cities across France, some 800,000 protesters, including students, railway workers and members of the Yellow Vest movement, took to the streets in largely peaceful nationwide demonstrations. Sparked by a month of high school student protests over educational inequality and crumbling school facilities, the movement has grown into a broader outcry over the cost of living, public spending and climate inaction, as people across France say they have reached their breaking point.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Protests \"brought the entire population together for a common purpose\" Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "Share This weekend, in cities across France, some 800,000 protesters, including students,"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0114,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9979,
+ "adjudicated_by": "rules"
+}

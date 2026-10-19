@@ -1,0 +1,180 @@
+{
+ "id": "b6d0ab0b8b8b9d4b-b26f9f1f-36bc9b1e",
+ "url": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-19T12:41:18Z",
+ "date": "2026-10-19",
+ "old_title": "Egypt to provide 'necessary' support to Saudi Arabia amid Houthi attacks",
+ "new_title": "Egypt to provide 'necessary' support to Saudi Arabia amid Houthi attacks",
+ "old_text": "Egypt says it is ready to provide \"all necessary and possible support to Saudi Arabia to defend its safety and stability\", as Yemen's Houthi rebels continue to launch attacks on the kingdom.\nThe National Defence Council, chaired by President Abdel Fattah el-Sisi, said on Sunday that Egypt \"stands fully with\" Saudi Arabia to defend its resources, territorial integrity and Islamic holy sites.\nThe president's office added that Cairo would also intensify diplomatic efforts for de-escalation.\nThe Iran-aligned Houthis, an armed group also known as Ansar Allah (Arabic for Supporters of God), have in recent days attacked Riyadh's international airport and the state oil giant Saudi Aramco, amid renewed fighting in Yemen with the Saudi-backed forces of the internationally recognised government following the collapse of a truce.\nSisi said in a speech on Saturday that Egypt would act in accordance with guidance from Saudi King Salman and Crown Prince Mohammed bin Salman, who visited Sisi last month after fighting in Yemen reignited.\nMore to come...",
+ "new_text": "Egypt says it is ready to provide \"all necessary and possible support to Saudi Arabia to defend its safety and stability\", as Yemen's Houthis continue to launch attacks on the kingdom.\nThe National Defence Council, chaired by President Abdel Fattah el-Sisi, said on Sunday that Egypt \"stands fully with\" Saudi Arabia to defend its resources, territorial integrity and Islamic holy sites.\nThe president's office added that Cairo would also intensify diplomatic efforts for de-escalation.\nThe Iran-backed Houthis, an armed group also known as Ansar Allah - Arabic for Supporters of God - have in recent days attacked Riyadh's international airport and the state-owned oil giant Saudi Aramco, amid renewed fighting in Yemen with forces loyal to the Saudi-backed, internationally recognised government, following the collapse of a truce.\nSisi said in a speech on Saturday that Egypt would act in accordance with guidance from Saudi King Salman and Crown Prince Mohammed bin Salman, who visited Egypt last month after fighting in Yemen reignited.\nHe also called for an emergency parliamentary session, being held on Sunday, to authorise him to approve any requests from Saudi Arabia for defence assistance.\nIn last month's meeting with the Saudi Crown Prince in Cairo, el-Sisi had backed Saudi calls for secure and unhindered navigation in the Red Sea.\nA statement from the Egyptian presidency at the time said that \"the security of Saudi Arabia and the Gulf states is an integral part of Egypt's national security\".\nAnalysts say Riyadh is looking for help to protect the kingdom and Red Sea shipping and that Egypt, whose Suez Canal revenue depends on the same traffic, is an obvious partner.\nThey say Egypt is eager to prevent Iran and its allies from imposing control over the region, especially maritime traffic in the Red Sea, given the impact on the Suez Canal.\nSaudi Arabia has accused Iran of encouraging Houthi attacks against the kingdom, a claim Tehran denies.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "support to Saudi Arabia to defend its safety and stability\", as Yemen's"
+    ],
+    [
+     "del",
+     "Houthi rebels"
+    ],
+    [
+     "ins",
+     "Houthis"
+    ],
+    [
+     "eq",
+     "continue to launch attacks on the kingdom. The National Defence Council, chaired"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "office added that Cairo would also intensify diplomatic efforts for de-escalation. The"
+    ],
+    [
+     "del",
+     "Iran-aligned"
+    ],
+    [
+     "ins",
+     "Iran-backed"
+    ],
+    [
+     "eq",
+     "Houthis, an armed group also known as Ansar Allah"
+    ],
+    [
+     "del",
+     "(Arabic"
+    ],
+    [
+     "ins",
+     "- Arabic"
+    ],
+    [
+     "eq",
+     "for Supporters of"
+    ],
+    [
+     "del",
+     "God),"
+    ],
+    [
+     "ins",
+     "God -"
+    ],
+    [
+     "eq",
+     "have in recent days attacked Riyadh's international airport and the"
+    ],
+    [
+     "del",
+     "state"
+    ],
+    [
+     "ins",
+     "state-owned"
+    ],
+    [
+     "eq",
+     "oil giant Saudi Aramco, amid renewed fighting in Yemen with"
+    ],
+    [
+     "ins",
+     "forces loyal to"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "Saudi-backed forces of the"
+    ],
+    [
+     "ins",
+     "Saudi-backed,"
+    ],
+    [
+     "eq",
+     "internationally recognised"
+    ],
+    [
+     "del",
+     "government"
+    ],
+    [
+     "ins",
+     "government,"
+    ],
+    [
+     "eq",
+     "following the collapse of a truce. Sisi said in a speech on"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "from Saudi King Salman and Crown Prince Mohammed bin Salman, who visited"
+    ],
+    [
+     "del",
+     "Sisi"
+    ],
+    [
+     "ins",
+     "Egypt"
+    ],
+    [
+     "eq",
+     "last month after fighting in Yemen reignited."
+    ],
+    [
+     "del",
+     "More"
+    ],
+    [
+     "ins",
+     "He also called for an emergency parliamentary session, being held on Sunday,"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "come..."
+    ],
+    [
+     "ins",
+     "authorise him to approve any requests from Saudi Arabia for defence assistance. In last month's meeting with the Saudi Crown Prince in Cairo, el-Sisi had backed Saudi calls for secure and unhindered navigation in the Red Sea. A statement from the Egyptian presidency at the time said that \"the security of Saudi Arabia and the Gulf states is an integral part of Egypt's national security\". Analysts say Riyadh is looking for help to protect the kingdom and Red Sea shipping and that Egypt, whose Suez Canal revenue depends on the same traffic, is an obvious partner. They say Egypt is eager to prevent Iran and its allies from imposing control over the region, especially maritime traffic in the Red Sea, given the impact on the Suez Canal. Saudi Arabia has accused Iran of encouraging Houthi attacks against the kingdom, a claim Tehran denies."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.1098,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 0.9757,
+ "adjudicated_by": "rules"
+}

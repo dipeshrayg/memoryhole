@@ -1,0 +1,148 @@
+{
+ "id": "e2fb3f0deacb1916-440de46a-6300f2cd",
+ "url": "https://www.independent.co.uk/news/uk/politics/green-party-zionism-motion-racism-zack-polanski-b3068717.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-19T12:44:40Z",
+ "date": "2026-10-19",
+ "old_title": "Greens won't overturn 'Zionism is racism' motion until at least 2028, Polanski says",
+ "new_title": "Greens won't overturn 'Zionism is racism' motion until at least 2028, Polanski says",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nZack Polanski has insisted his party's motion describing zionism as racism \"isn't controversial\" and he said he won't attempt to amend it until 2028.\nThe Green Party leader has faced calls from his own members to quit in recent weeks following the passing of the motion which has been condemned across the political spectrum.\nHis approval ratings have since plummeted, having received the lowest popularity of any national leader, with his overall rating falling to minus 36.\nBut on Sunday, Mr Polanski denied the motion is in itself controversial, and said: \"I think what's controversial is that 75,000 Palestinians have been murdered in the last few years, including more child amputees than ever in modern history.\"\nMr Polanski called for amendments to the motion to be made prior to the vote, which were rejected by members of the party.\nAsked if he was going to overturn the motion, he told the BBC: \"I'm not going to try and overturn it.\n\"At the first available opportunity, I do want to amend it. I want to move away from one state towards saying that Israelis and Palestinians should decide that future themselves.\"\nAsked when this would be, he said it could not be done until 2028.\n\"You can't within the rules. So when you vote on something in our party conference, that's then policy for two years.\" he said.\nAsked why he does not change his party's rules, he said: \"I'm not an out of control autocrat like some of the leaders of the Labor Party. I think if members have made a decision, then I respect the democratic will of our members.\"\nMr Polanski has faced both internal and external criticism of his leadership after the Green Party conference in Brighton backed a motion describing Zionism as \"racism\".\nThe motion passed at the Green Party's Brighton conference with about 1,000 members voting in favour and some 800 against.\nMr Polanski sought to distance himself from the vote last Friday, saying he would only have supported an amended motion.\nThe leader of the Jewish Greens, Vivien Lichtenstein, has called for Mr Polanski to resign and said he made a \"big mistake\" by missing a debate about a party conference motion that declared Zionism to be a form of racism.\nShe is among a number of senior Green figures to have criticised Mr Polanski and raised concerns about whether he should continue to lead the party, with former leader Caroline Lucas accusing him of a failure in leadership and another long-term senior figure telling The Independent that the situation is \"untenable\".\nA new survey by Ipsos in October found 52 per cent of the public said they had an unfavourable view of him, a six point rise since September.\nIt marks the first time more than half the population had expressed a negative opinion of him, while just 16 per cent said they had a positive view of Mr Polanski.\nIt means he now has the lowest popularity of any national leader, with his overall rating falling to minus 36.",
+ "new_text": "Zack Polanski has insisted his party's motion describing zionism as racism \"isn't controversial\" and he said he won't attempt to amend it until 2028.\nThe Green Party leader has faced calls from his own members to quit in recent weeks following the passing of the motion, which has been condemned across the political spectrum.\nHis approval ratings have since plummeted, having received the lowest popularity of any national leader, with his overall rating falling to minus 36.\nBut on Sunday, Mr Polanski denied the motion is in itself controversial, and said: \"I think what's controversial is that 75,000 Palestinians have been murdered in the last few years, including more child amputees than ever in modern history.\"\nMr Polanski called for amendments to the motion to be made prior to the vote, which were rejected by members of the party.\nAsked if he was going to overturn the motion, he told the BBC: \"I'm not going to try and overturn it.\n\"At the first available opportunity, I do want to amend it. I want to move away from one state towards saying that Israelis and Palestinians should decide that future themselves.\"\nAsked when this would be, he said it could not be done until 2028.\n\"You can't within the rules. So when you vote on something in our party conference, that's then policy for two years,\" he said.\nAsked why he does not change his party's rules, he said: \"I'm not an out-of-control autocrat like some of the leaders of the Labour Party. I think if members have made a decision, then I respect the democratic will of our members.\"\nMr Polanski has faced both internal and external criticism of his leadership after the Green Party conference in Brighton backed a motion describing Zionism as \"racism\".\nThe motion passed at the Green Party's Brighton conference, with about 1,000 members voting in favour and some 800 against.\nMr Polanski sought to distance himself from the vote last Friday, saying he would only have supported an amended motion.\nThe leader of the Jewish Greens, Vivien Lichtenstein, has called for Mr Polanski to resign and said he made a \"big mistake\" by missing a debate about a party conference motion that declared Zionism to be a form of racism.\nShe is among a number of senior Green figures to have criticised Mr Polanski and raised concerns about whether he should continue to lead the party, with former leader Caroline Lucas accusing him of a failure in leadership and another long-term senior figure telling The Independent that the situation is \"untenable\".\nA new survey by Ipsos in October found 52 per cent of the public said they had an unfavourable view of him, a six-point rise since September.\nIt marks the first time more than half the population had expressed a negative opinion of him, while just 16 per cent said they had a positive view of Mr Polanski.\nIt means he now has the lowest popularity of any national leader, with his overall rating falling to minus 36.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Become an Independent member to bookmark this article Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. Join today Already a member? Log in"
+    ],
+    [
+     "eq",
+     "Zack Polanski has insisted his party's motion describing zionism as racism \"isn't"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "own members to quit in recent weeks following the passing of the"
+    ],
+    [
+     "del",
+     "motion"
+    ],
+    [
+     "ins",
+     "motion,"
+    ],
+    [
+     "eq",
+     "which has been condemned across the political spectrum. His approval ratings have"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "vote on something in our party conference, that's then policy for two"
+    ],
+    [
+     "del",
+     "years.\""
+    ],
+    [
+     "ins",
+     "years,\""
+    ],
+    [
+     "eq",
+     "he said. Asked why he does not change his party's rules, he said: \"I'm not an"
+    ],
+    [
+     "del",
+     "out of control"
+    ],
+    [
+     "ins",
+     "out-of-control"
+    ],
+    [
+     "eq",
+     "autocrat like some of the leaders of the"
+    ],
+    [
+     "del",
+     "Labor"
+    ],
+    [
+     "ins",
+     "Labour"
+    ],
+    [
+     "eq",
+     "Party. I think if members have made a decision, then I respect"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "describing Zionism as \"racism\". The motion passed at the Green Party's Brighton"
+    ],
+    [
+     "del",
+     "conference"
+    ],
+    [
+     "ins",
+     "conference,"
+    ],
+    [
+     "eq",
+     "with about 1,000 members voting in favour and some 800 against. Mr"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of the public said they had an unfavourable view of him, a"
+    ],
+    [
+     "del",
+     "six point"
+    ],
+    [
+     "ins",
+     "six-point"
+    ],
+    [
+     "eq",
+     "rise since September. It marks the first time more than half the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0889,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.834,
+ "similarity": 0.906,
+ "adjudicated_by": "rules"
+}

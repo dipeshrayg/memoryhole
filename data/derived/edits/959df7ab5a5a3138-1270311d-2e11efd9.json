@@ -1,0 +1,48 @@
+{
+ "id": "959df7ab5a5a3138-1270311d-2e11efd9",
+ "url": "https://www.france24.com/en/video/20261018-france-who-was-behind-the-violence-at-saturday-s-protests",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-19T12:43:01Z",
+ "date": "2026-10-19",
+ "old_title": "France: Who was behind the violence at Saturday's protests?",
+ "new_title": "France: Who was behind the violence at Saturday's protests?",
+ "old_text": "France: Who was behind the violence at Saturday's protests?\nIssued on:\nShare\nViolent clashes, fires, vandalism and looting marred demonstrations across France on Saturday as hundreds of thousands of people marched against the rising cost of living and poor conditions in schools. The French Interior Ministry said about 400 people were arrested nationwide. Our partner TV station France 2 examined who was involved in the violence during Saturday's protests.",
+ "new_text": "France: Who was behind the violence at Saturday's protests?\nIssued on: Modified:\nShare\nViolent clashes, fires, vandalism and looting marred demonstrations across France on Saturday as hundreds of thousands of people marched against the rising cost of living and poor conditions in schools. The French Interior Ministry said about 400 people were arrested nationwide. Our partner TV station France 2 examined who was involved in the violence during Saturday's protests.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "France: Who was behind the violence at Saturday's protests? Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "Share Violent clashes, fires, vandalism and looting marred demonstrations across France on"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0145,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9972,
+ "adjudicated_by": "rules"
+}

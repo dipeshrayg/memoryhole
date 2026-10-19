@@ -1,0 +1,44 @@
+{
+ "id": "a675a2136e608a21-a81862d1-fbb01a00",
+ "url": "https://www.independent.co.uk/news/world/americas/ukraine-donald-trump-russia-kyiv-moscow-b3068497.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-19T12:44:32Z",
+ "date": "2026-10-19",
+ "old_title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+ "new_title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nUkrainian President Volodymyr Zelenskyy urged supporters Saturday to speak out in defense of new U.S. sanctions against Russia, hours after President Donald Trump signed an executive order pausing a sweeping package of restrictions targeting the Russian economy.\nThe White House's decision has further raised fears that Ukraine could be left exposed to Moscow's escalating assaults with winter approaching.\nZelenskyy described Trump's move to put sanctions on hold as unfortunate, but did not directly criticize the U.S. leader despite deepening tensions between Ukraine and Washington in recent days.\n\"A decision was unfortunately made in America to completely disregard the Lindsey Graham Act, which was supposed to impose truly effective pressure on Russia to bring this war to an end,\" Zelenskyy wrote.\nHe also expressed hope that the new sanctions could be revived. \"This Act could have helped enormously - and still can! But it needs to actually work, and every voice in support of it matters,\" he said.\nKyiv says Moscow carried out a 'massive' energy strike\nZelenskyy also said Saturday that Moscow had carried out a massive strike on Ukraine's energy infrastructure, targeting more than 15 sites across the country.\n\"The sheer scale and unrelenting pace of Russia's strikes, specifically against our energy sector, are unfortunately having severe consequences,\" he said.\nUkraine's air force said that Russian forces launched four cruise missiles and 332 attack drones overnight. All of the missiles and 289 of the drones had been suppressed or destroyed, it said.\nRussia's heavy bombardment of the power grid ahead of winter has been an annual feature of the war, aimed at wearing down Ukraine's appetite for the fight by denying civilians heat and running water. Ukrainian officials have warned that Russia is stockpiling ballistic missiles for more attacks in the coming months.\n___\nFollow the AP's coverage of the war in Ukraine at https://apnews.com/hub/russia-ukraine",
+ "new_text": "Ukrainian President Volodymyr Zelenskyy urged supporters Saturday to speak out in defense of new U.S. sanctions against Russia, hours after President Donald Trump signed an executive order pausing a sweeping package of restrictions targeting the Russian economy.\nThe White House's decision has further raised fears that Ukraine could be left exposed to Moscow's escalating assaults with winter approaching.\nZelenskyy described Trump's move to put sanctions on hold as unfortunate, but did not directly criticize the U.S. leader despite deepening tensions between Ukraine and Washington in recent days.\n\"A decision was unfortunately made in America to completely disregard the Lindsey Graham Act, which was supposed to impose truly effective pressure on Russia to bring this war to an end,\" Zelenskyy wrote.\nHe also expressed hope that the new sanctions could be revived. \"This Act could have helped enormously - and still can! But it needs to actually work, and every voice in support of it matters,\" he said.\nKyiv says Moscow carried out a 'massive' energy strike\nZelenskyy also said Saturday that Moscow had carried out a massive strike on Ukraine's energy infrastructure, targeting more than 15 sites across the country.\n\"The sheer scale and unrelenting pace of Russia's strikes, specifically against our energy sector, are unfortunately having severe consequences,\" he said.\nUkraine's air force said that Russian forces launched four cruise missiles and 332 attack drones overnight. All of the missiles and 289 of the drones had been suppressed or destroyed, it said.\nRussia's heavy bombardment of the power grid ahead of winter has been an annual feature of the war, aimed at wearing down Ukraine's appetite for the fight by denying civilians heat and running water. Ukrainian officials have warned that Russia is stockpiling ballistic missiles for more attacks in the coming months.\n___\nFollow the AP's coverage of the war in Ukraine at https://apnews.com/hub/russia-ukraine",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Become an Independent member to bookmark this article Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. Join today Already a member? Log in"
+    ],
+    [
+     "eq",
+     "Ukrainian President Volodymyr Zelenskyy urged supporters Saturday to speak out in defense"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0973,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.866,
+ "similarity": 0.9006,
+ "adjudicated_by": "rules"
+}

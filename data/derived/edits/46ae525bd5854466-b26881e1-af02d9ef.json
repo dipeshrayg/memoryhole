@@ -1,0 +1,182 @@
+{
+ "id": "46ae525bd5854466-b26881e1-af02d9ef",
+ "url": "https://www.theguardian.com/football/live/2026/oct/18/chelsea-v-tottenham-womens-super-league-live",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-19T12:52:35Z",
+ "date": "2026-10-19",
+ "old_title": "Chelsea v Tottenham: Women's Super League - live",
+ "new_title": "Chelsea 6-2 Tottenham: Women's Super League - as it happened",
+ "old_text": "Chelsea make four changes to the side that beat West Ham two weeks ago, with Lauren James starting after her double for England this week. Spurs make two tweaks, with Ella Morris and Matilda Vinberg included.\nHello, hello, hello and welcome back to the WSL. Chelsea are unbeaten in the league and have conceded just once, and that was all the way back at the start of September. And yet, they find themselves second. Manchester City are the ones with the 100% record, looking to defend their title, and there isn't room for any slip-ups. Arsenal already appear out of it.\nSpurs are the visitors this afternoon, their own strong start hurt by a 6-1 defeat by London City Lionesses, and their record against Chelsea is torrid: 13 WSL games, 13 defeats. You know what they say ... um, 14th time lucky. We get going at 12pm BST.",
+ "new_text": "Suzanne Wrack's report from the Bridge is in. Chelsea are top of the league (for now), having flexed their depth in the second half. Thanks for tuning in!\nChelsea's players and staff have a celebratory huddle out on the pitch. It's a lovely day out for Sonia Bompastor, her 50th WSL game producing a rampant win.\nCarpenter, Chelsea best player today after James, makes another smart run into the area, picks up the cutback and turns to fire home with her left foot once again.\nThompson rolls the ball out to Hamano, who decides to have a crack from range ... the ball swerves to rattle the top right corner. It's turned into a thrashing.\n84 min: Top save from Hampton! A cross in from the right finds Kirsty Hanson, who fires in a volley - the Chelsea keeper gets in the way and is up quickly to stop a rebound effort.\nHamano passes to Walsh by the edge of the area, who plays a brilliant first-time dink around the corner, picked up by Nüsken, who smashes past Kop. That should be the three points.\nJames picks up the ball in the centre circle and has space to dribble, beating Koga before finding the bottom right corner with a delightful finish. Spurs, out of nowhere, look down and out.\nThompson was having a quiet afternoon, but she suddenly finds a boost, thundering down the left before cutting back into the area. Carpenter, so lively today, times her run perfectly and finds the net with her left boot.\n51 min: Malard is dropping deep to make something happen for Chelsea, and she launches over the bar after cutting in from the right and having a crack from distance.\nSpence wins the ball in midfield and Holdt picks it up on the left. She lays it off to Blakstad, who crosses to the far post, where Vinberg leaps to head in the equaliser. Chelsea concede for just the second time this WSL season. Spurs deserved that.\n39 min: Gaupset bursts through midfield for Spurs before the dangerous Holdt picks up inside the area. Spence makes an overlapping run, receives and cuts back ... but a blue shirt is in the way. They're really giving Chelsea a decent game here.\n37 min: Most of the game feels as if it's being played down the Spurs left, Chelsea right. Carpenter whips in a teasing cross, but there's no one there to finish.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "Suzanne Wrack's report from the Bridge is in."
+    ],
+    [
+     "eq",
+     "Chelsea"
+    ],
+    [
+     "ins",
+     "are top of the league (for now), having flexed their depth in the second half. Thanks for tuning in! Chelsea's players and staff have a celebratory huddle out on the pitch. It's a lovely day out for Sonia Bompastor, her 50th WSL game producing a rampant win. Carpenter, Chelsea best player today after James, makes another smart run into the area, picks up the cutback and turns to fire home with her left foot once again. Thompson rolls the ball out to Hamano, who decides to have a crack from range ... the ball swerves to rattle the top right corner. It's turned into a thrashing. 84 min: Top save from Hampton! A cross in from the right finds Kirsty Hanson, who fires in a volley - the Chelsea keeper gets in the way and is up quickly to stop a rebound effort. Hamano passes to Walsh by the edge of the area, who plays a brilliant first-time dink around the corner, picked up by Nüsken, who smashes past Kop. That should be the three points. James picks up the ball in the centre circle and has space to dribble, beating Koga before finding the bottom right corner with a delightful finish. Spurs, out of nowhere, look down and out. Thompson was having a quiet afternoon, but she suddenly finds a boost, thundering down the left before cutting back into the area. Carpenter, so lively today, times her run perfectly and finds the net with her left boot. 51 min: Malard is dropping deep to"
+    ],
+    [
+     "eq",
+     "make"
+    ],
+    [
+     "del",
+     "four changes"
+    ],
+    [
+     "ins",
+     "something happen for Chelsea, and she launches over the bar after cutting in from the right and having a crack from distance. Spence wins the ball in midfield and Holdt picks it up on the left. She lays it off to Blakstad, who crosses"
+    ],
+    [
+     "eq",
+     "to the"
+    ],
+    [
+     "del",
+     "side that beat West Ham two weeks ago, with Lauren James starting after her double for England this week. Spurs make two tweaks, with Ella Morris and Matilda"
+    ],
+    [
+     "ins",
+     "far post, where"
+    ],
+    [
+     "eq",
+     "Vinberg"
+    ],
+    [
+     "del",
+     "included. Hello, hello, hello and welcome back"
+    ],
+    [
+     "ins",
+     "leaps"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "the WSL. Chelsea are unbeaten"
+    ],
+    [
+     "ins",
+     "head"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "league"
+    ],
+    [
+     "ins",
+     "equaliser. Chelsea concede for just the second time this WSL season. Spurs deserved that. 39 min: Gaupset bursts through midfield for Spurs before the dangerous Holdt picks up inside the area. Spence makes an overlapping run, receives"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "have conceded just once, and that was all"
+    ],
+    [
+     "ins",
+     "cuts back ... but a blue shirt is in"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "way back at"
+    ],
+    [
+     "ins",
+     "way. They're really giving Chelsea a decent game here. 37 min: Most of"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "start of September. And yet, they find themselves second. Manchester City are"
+    ],
+    [
+     "ins",
+     "game feels as if it's being played down"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "ones with the 100% record, looking"
+    ],
+    [
+     "ins",
+     "Spurs left, Chelsea right. Carpenter whips in a teasing cross, but there's no one there"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "defend their title, and there isn't room for any slip-ups. Arsenal already appear out of it. Spurs are the visitors this afternoon, their own strong start hurt by a 6-1 defeat by London City Lionesses, and their record against Chelsea is torrid: 13 WSL games, 13 defeats. You know what they say ... um, 14th time lucky. We get going at 12pm BST."
+    ],
+    [
+     "ins",
+     "finish."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 3.5811,
+  "numbers_changed": [
+   "1",
+   "100",
+   "12",
+   "13",
+   "14",
+   "37",
+   "39",
+   "50",
+   "51",
+   "6",
+   "84"
+  ],
+  "market_figures_changed": [
+   "100%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 3,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.6,
+ "similarity": 0.6525,
+ "adjudicated_by": "rules"
+}

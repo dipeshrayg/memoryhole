@@ -1,0 +1,44 @@
+{
+ "id": "735054beda680b4a-b496ea10-10a720ca",
+ "url": "https://www.independent.co.uk/travel/news-and-advice/nox-mobility-overnight-sleeper-train-munich-hamburg-b3067263.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-19T12:44:16Z",
+ "date": "2026-10-19",
+ "old_title": "New sleeper train connecting two German cities to launch with £55 tickets",
+ "new_title": "New sleeper train connecting two German cities to launch with £55 tickets",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nA new sleeper train \"redefining short-haul travel\" will launch between Hamburg and Munich next spring, with one-way tickets starting from £55.\nGerman startup Nox Mobility will introduce its first premium sleeper train service to passengers on 23 March 2027.\nThe overnight railway operator will run three trains a week in each direction between Hamburg and Munich, with stops in Bremen and Augsburg.\nOne-way fares start at €65 (£55), providing passengers with their own \"Nox Suite\", which the company describes as a \"workspace by day, a lounge to unwind in by night\".\nThe company said its train's individual, private compartments emulate the design and service a customer would expect from a boutique hotel.\nInside the Nox Suites will be a large seat, a table for working or eating, room for large luggage, and power sockets.\nThe seats will extend into two metres of space, stretching out next to a window.\nThe sleeper train will depart Hamburg on Sundays, Tuesdays and Thursdays at 9.22pm and reach Munich at 8.14am the next morning, stopping in Bremen at 10.30pm and Augsburg at 7.35am.\nIn the other direction, it departs Munich on Mondays, Wednesdays and Fridays at 9.20pm and arrives in Hamburg at 8.27am, stopping in Augsburg at 9.51pm and in Bremen at 7.20am.\nNox Mobility hopes to launch its next tier of ticket by 2029, called \"Nox Rooms\", which are private rooms for one or two people.\nThe company's aim is to redefine short-haul travel in Europe for leisure and business travellers, starting with trips between Hamburg and Munich, one of the most frequently flown domestic routes in Germany.\nNox Mobility raised €2m in pre-seed funding to launch its overnight trains with fully private rooms.\nThe company said that the overnight rail market has been shrinking for decades, despite sleeper trains having a \"cultural moment\" among travellers.\nBetween 2001 and 2019, the total number of night trains in Europe declined from around 1,200 services per week to roughly 450, Nox Mobility said.\nIn response, Nox Mobility said it moved away from the traditional overnight rail model, where passengers share compartments, and instead offers every passenger their own private space.\nThe company said its trains will replace short-haul flights and hotel stays with a single overnight journey at a comparable price.\nNox Mobility trains will depart from central stations in the evening and arrive at the destination's city centre the next morning, skipping airport transfers and security queues.\nIt said it aims to connect 100 European cities by 2035.",
+ "new_text": "A new sleeper train \"redefining short-haul travel\" will launch between Hamburg and Munich next spring, with one-way tickets starting from £55.\nGerman startup Nox Mobility will introduce its first premium sleeper train service to passengers on 23 March 2027.\nThe overnight railway operator will run three trains a week in each direction between Hamburg and Munich, with stops in Bremen and Augsburg.\nOne-way fares start at €65 (£55), providing passengers with their own \"Nox Suite\", which the company describes as a \"workspace by day, a lounge to unwind in by night\".\nThe company said its train's individual, private compartments emulate the design and service a customer would expect from a boutique hotel.\nInside the Nox Suites will be a large seat, a table for working or eating, room for large luggage, and power sockets.\nThe seats will extend into two metres of space, stretching out next to a window.\nThe sleeper train will depart Hamburg on Sundays, Tuesdays and Thursdays at 9.22pm and reach Munich at 8.14am the next morning, stopping in Bremen at 10.30pm and Augsburg at 7.35am.\nIn the other direction, it departs Munich on Mondays, Wednesdays and Fridays at 9.20pm and arrives in Hamburg at 8.27am, stopping in Augsburg at 9.51pm and in Bremen at 7.20am.\nNox Mobility hopes to launch its next tier of ticket by 2029, called \"Nox Rooms\", which are private rooms for one or two people.\nThe company's aim is to redefine short-haul travel in Europe for leisure and business travellers, starting with trips between Hamburg and Munich, one of the most frequently flown domestic routes in Germany.\nNox Mobility raised €2m in pre-seed funding to launch its overnight trains with fully private rooms.\nThe company said that the overnight rail market has been shrinking for decades, despite sleeper trains having a \"cultural moment\" among travellers.\nBetween 2001 and 2019, the total number of night trains in Europe declined from around 1,200 services per week to roughly 450, Nox Mobility said.\nIn response, Nox Mobility said it moved away from the traditional overnight rail model, where passengers share compartments, and instead offers every passenger their own private space.\nThe company said its trains will replace short-haul flights and hotel stays with a single overnight journey at a comparable price.\nNox Mobility trains will depart from central stations in the evening and arrive at the destination's city centre the next morning, skipping airport transfers and security queues.\nIt said it aims to connect 100 European cities by 2035.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Become an Independent member to bookmark this article Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. Join today Already a member? Log in"
+    ],
+    [
+     "eq",
+     "A new sleeper train \"redefining short-haul travel\" will launch between Hamburg and"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0738,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.53,
+ "similarity": 0.9566,
+ "adjudicated_by": "rules"
+}

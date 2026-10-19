@@ -1,0 +1,68 @@
+{
+ "id": "e41f059dd5ac6f89-f59156ed-db9d51dc",
+ "url": "https://www.france24.com/en/video/20261018-france-who-took-part-in-saturday-s-protests",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-19T12:42:59Z",
+ "date": "2026-10-19",
+ "old_title": "France: Who took part in Saturday's protests?",
+ "new_title": "France: Who took part in Saturday's protests?",
+ "old_text": "France: Who took part in Saturday's protests?\nIssued on:\nShare\nWeeks of student protests over poor conditions in schools and rising anger over the cost of living fuelled calls for a nationwide demonstration on October 17, bringing together youth activists and supporters of the Yellow Vest movement.The main grievance was the cost of living. The protesters demonstrating against it 'didn't get what they wanted', analyses France 24's Shirli Sitbon.",
+ "new_text": "France: Who took part in Saturday's protests?\nIssued on: Modified:\nShare\nWeeks of student protests over poor conditions in schools and rising anger over the cost of living fuelled calls for a nationwide demonstration on October 17, bringing together youth activists and supporters of the Yellow Vest movement. The main grievance was the cost of living. The protesters demonstrating against it 'didn't get what they wanted', analyses France 24's Shirli Sitbon.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "France: Who took part in Saturday's protests? Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "Share Weeks of student protests over poor conditions in schools and rising"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "October 17, bringing together youth activists and supporters of the Yellow Vest"
+    ],
+    [
+     "del",
+     "movement.The"
+    ],
+    [
+     "ins",
+     "movement. The"
+    ],
+    [
+     "eq",
+     "main grievance was the cost of living. The protesters demonstrating against it 'didn't get what they wanted', analyses France 24's Shirli Sitbon."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.058,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9967,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,207 @@
+{
+ "id": "351390f82ca4232b-93e5a855-080bf729",
+ "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-19T12:39:35Z",
+ "date": "2026-10-19",
+ "old_title": "Several dead or injured in major fire at Canada military base",
+ "new_title": "Several dead or injured in major fire at Canada military base",
+ "old_text": "- Published\nSeveral people have been killed or injured as a result of a large fire near a Canadian military base in Alberta, the nation's defence minister has said.\nDavid McGuinty did not confirm the cause or the number of casualties, describing the situation as \"very, very active and delicate\". The Canadian military and local authorities were managing the fire, he said.\nCanadian Forces Base Wainwright, where the fire broke out, is one of the country's busiest military training bases.\nCanadian TV network Global News reported that at least seven were killed and dozens more injured when a gas line or gas well was hit during a live-fire training exercise, citing unnamed military sources.\nCanada's Prime Minister Mark Carney said that a \"serious incident creating a major fire\" had occurred, adding that his \"thoughts are with all the brave women and men affected\".\nThe Canadian Broadcasting Corporation (CBC) said Royal Alexandra Hospital in Edmonton had declared a code orange, a disaster response protocol for responding to a high-casualty incident.\nWarren Thirsk, an emergency department doctor there, told the broadcaster that the number of patients would otherwise \"overwhelm\" Edmonton's healthcare facilities.\n\"It is more patients than any of us want to count right now. It's a disaster. It's a one in every 15 to 25-year disaster.\"\nAfter the fire erupted on Saturday, it \"spread rapidly due to high winds\" and tore through the fences of the base, the Municipal District of Wainwright said.\nThe region experienced gusts of up to 100km/h (62mph), though local officials indicated fire crews had contained the blaze.\nThe defence minister told reporters he \"cannot recall an incident like this in recent memory\".\nIt is unclear when the fire broke out, but the district first posted about the incident at about 17:30 local time (23:30 GMT).\nLocal authorities have urged residents to avoid the area and give all emergency vehicles right of way.\nThe mayor of the nearby town of Wainwright, Bruce Pugh, said it was a \"heavy day\" for his community.\n\"We have neighbours who are either serving or former members of the Canadian Armed Forces. We're integrated, our kids play in the same hockey teams, attend the same schools,\" he told CBC.\nWhile details on the impact of the fire remain unclear, Pugh said he believed this would come to be the area's largest-ever mass casualty event.\nAlberta's Premier Danielle Smith said the \"significant and tragic fire\" was \"affecting many of [the province's] brave military personnel\".\nNeighbouring provinces have mobilised in support. Saskatchewan Premier Scott Moe said he had deployed resources to Alberta and was \"ready to provide more if required\", while British Columbia Premier David Eby said his government had offered \"all possible assistance\".\nWainwright is the main base used by the Canadian military for live-fire training exercises, according to CBC, with about 690 military personnel and 300 civilian workers on-site on a typical day.",
+ "new_text": "- Published\nSeveral people have been killed and injured as a result of a large fire near a Canadian military base in Alberta, the nation's military has said.\nThe Canadian Armed Forces (CAF) said the full extent of the incident was being assessed and that details of casualties and injuries would not be made public until that was complete.\nCanadian TV network Global News reported that at least seven were killed and dozens more injured when a gas line or gas well was hit during a live-fire training exercise, citing unnamed military sources.\nCanadian Forces Base Wainwright, where the fire broke out at about 16:00 local time (22:00 GMT) on Saturday, is one of the country's busiest military training bases.\nOn Sunday morning, a defence department spokeswoman told the BBC that \"the situation continues to evolve\" and \"the full extent of the impact remains under assessment\".\nShe also said investigations are in progress but \"at this time, there are no indications that it was the result of any terrorist activity\".\nDefence Minister David McGuinty earlier said the CAF and local authorities were managing the fire, describing the situation as \"very, very active and delicate\".\nCanada's Prime Minister Mark Carney said his \"thoughts are with all the brave women and men affected\".\nThe Canadian Broadcasting Corporation (CBC) said Royal Alexandra Hospital in Edmonton had declared a code orange, a disaster response protocol for responding to a high-casualty incident.\nWarren Thirsk, an emergency department doctor there, told the broadcaster that the number of patients would otherwise \"overwhelm\" Edmonton's healthcare facilities.\n\"It is more patients than any of us want to count right now. It's a disaster. It's a one in every 15 to 25-year disaster.\"\nAfter the fire erupted on Saturday, it \"spread rapidly due to high winds\" and tore through the fences of the base, the Municipal District of Wainwright said.\nThe region experienced gusts of up to 100km/h (62mph), though local officials indicated fire crews had contained the blaze.\nMcGuinty told reporters he \"cannot recall an incident like this in recent memory\".\nLocal authorities have urged residents to avoid the area and give all emergency vehicles right of way.\nThe mayor of the nearby town of Wainwright, Bruce Pugh, said it was a \"heavy day\" for his community.\n\"We have neighbours who are either serving or former members of the Canadian Armed Forces. We're integrated, our kids play in the same hockey teams, attend the same schools,\" he told CBC.\nWhile details on the impact of the fire remain unclear, Pugh said he believed this would come to be the area's largest-ever mass casualty event.\nGen Jennie Carignan, chief of Canada's defence staff, said it was a \"profoundly difficult moment\" for the CAF.\nNeighbouring provinces have mobilised in support. Saskatchewan Premier Scott Moe said he had deployed resources to Alberta and was \"ready to provide more if required\", while British Columbia Premier David Eby said his government had offered \"all possible assistance\".\nWainwright is the main base used by the Canadian military for live-fire training exercises, according to CBC, with about 690 military personnel and 300 civilian workers on-site on a typical day.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published Several people have been killed"
+    ],
+    [
+     "del",
+     "or"
+    ],
+    [
+     "ins",
+     "and"
+    ],
+    [
+     "eq",
+     "injured as a result of a large fire near a Canadian military base in Alberta, the nation's"
+    ],
+    [
+     "del",
+     "defence minister"
+    ],
+    [
+     "ins",
+     "military"
+    ],
+    [
+     "eq",
+     "has said."
+    ],
+    [
+     "del",
+     "David McGuinty did not confirm the cause or the number of casualties, describing the situation as \"very, very active and delicate\"."
+    ],
+    [
+     "eq",
+     "The Canadian"
+    ],
+    [
+     "del",
+     "military and local authorities were managing"
+    ],
+    [
+     "ins",
+     "Armed Forces (CAF) said"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "fire, he said. Canadian Forces Base Wainwright, where the fire broke out, is one"
+    ],
+    [
+     "ins",
+     "full extent"
+    ],
+    [
+     "eq",
+     "of the"
+    ],
+    [
+     "del",
+     "country's busiest military training bases."
+    ],
+    [
+     "ins",
+     "incident was being assessed and that details of casualties and injuries would not be made public until that was complete."
+    ],
+    [
+     "eq",
+     "Canadian TV network Global News reported that at least seven were killed"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "well was hit during a live-fire training exercise, citing unnamed military sources."
+    ],
+    [
+     "ins",
+     "Canadian Forces Base Wainwright, where the fire broke out at about 16:00 local time (22:00 GMT) on Saturday, is one of the country's busiest military training bases. On Sunday morning, a defence department spokeswoman told the BBC that \"the situation continues to evolve\" and \"the full extent of the impact remains under assessment\". She also said investigations are in progress but \"at this time, there are no indications that it was the result of any terrorist activity\". Defence Minister David McGuinty earlier said the CAF and local authorities were managing the fire, describing the situation as \"very, very active and delicate\"."
+    ],
+    [
+     "eq",
+     "Canada's Prime Minister Mark Carney said"
+    ],
+    [
+     "del",
+     "that a \"serious incident creating a major fire\" had occurred, adding that"
+    ],
+    [
+     "eq",
+     "his \"thoughts are with all the brave women and men affected\". The"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "100km/h (62mph), though local officials indicated fire crews had contained the blaze."
+    ],
+    [
+     "del",
+     "The defence minister"
+    ],
+    [
+     "ins",
+     "McGuinty"
+    ],
+    [
+     "eq",
+     "told reporters he \"cannot recall an incident like this in recent memory\"."
+    ],
+    [
+     "del",
+     "It is unclear when the fire broke out, but the district first posted about the incident at about 17:30 local time (23:30 GMT)."
+    ],
+    [
+     "eq",
+     "Local authorities have urged residents to avoid the area and give all"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "believed this would come to be the area's largest-ever mass casualty event."
+    ],
+    [
+     "del",
+     "Alberta's Premier Danielle Smith"
+    ],
+    [
+     "ins",
+     "Gen Jennie Carignan, chief of Canada's defence staff,"
+    ],
+    [
+     "eq",
+     "said"
+    ],
+    [
+     "ins",
+     "it was a \"profoundly difficult moment\" for"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "\"significant and tragic fire\" was \"affecting many of [the province's] brave military personnel\"."
+    ],
+    [
+     "ins",
+     "CAF."
+    ],
+    [
+     "eq",
+     "Neighbouring provinces have mobilised in support. Saskatchewan Premier Scott Moe said he"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5198,
+  "numbers_changed": [
+   "00",
+   "16",
+   "17",
+   "22",
+   "23",
+   "30"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 4,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 2.183,
+ "similarity": 0.8479,
+ "adjudicated_by": "rules"
+}

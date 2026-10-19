@@ -1,0 +1,44 @@
+{
+ "id": "c105a4e34d1d71a8-6413c349-57f96154",
+ "url": "https://www.independent.co.uk/news/uk/home-news/ofwat-severn-trent-water-sewage-hafren-dyfrdwy-b3067994.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-19T12:44:18Z",
+ "date": "2026-10-19",
+ "old_title": "Severn Trent-owned Welsh water firm to pay £280,000 over 'unacceptable' sewage spills",
+ "new_title": "Severn Trent-owned Welsh water firm to pay £280,000 over 'unacceptable' sewage spills",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nWelsh water company Hafren Dyfrdwy has been ordered to pay £280,000 following \"unacceptable\" failures that resulted in sewage spills, the regulator Ofwat has announced.\nThe industry watchdog said that the utility had \"failed in its duties to deal effectively with wastewater and sewage\".\nThe provider, which is owned by Severn Trent, supplies around 109,000 customers with water and sewage services across mid-Wales and the north-east of the country.\nTo address the issues identified during Ofwat's investigation, the business has set out a £280,000 package of measures to be implemented by 2030, which must not be financed through higher household bills.\nOfwat's inquiry found that the company failed to ensure adequate drainage, failed to manage the contents of its sewers properly, and lacked the appropriate systems and processes to meet its obligations.\nThe development comes after Hafren Dyfrdwy was permitted to raise customer bills by £54, or 9 per cent, bringing the average charge to £635 for the 2026-27 financial year.\nLynn Parker, senior director for enforcement at Ofwat, said: \"Our investigation found unacceptable breaches by Hafren Dyfrdwy, which have resulted in excessive spills from storm overflows.\n\"We are clear this is unacceptable and now expect the company to focus on putting things right so that customers can regain trust in their water company and the critical service they provide.\"\nHafren Dyfrdwy - which means Severn Dee - must put in place two storm water balancing tanks to reduce spills, and work with a local preservation trust to help to create a wetland habitat.\nIt marks the ninth case in Ofwat's sector-wide sewage investigation, which it said had already secured more than £300 million in enforcement packages and fines.\n\"We understand that the public wants to see transformative change,\" Ms Parker said.\n\"That is why we are prioritising this sector-wide investigation, which is holding companies, like Hafren Dyfrdwy, to account.\"\nOfwat on Wednesday announced water bills across the country were expected to be reduced by £240 million by 2030 as it levies penalties against underperforming suppliers.\nUnder draft proposals from the watchdog, several companies will face financial penalties for failing to meet environmental and customer service targets during the 2025-26 financial year, with the money handed back to domestic and business customers through reduced charges.\nThe provisional framework outlines a total net bill reduction of £240 million up to 2029-30, including £107 million to be returned to billpayers in 2027-28.\nHowever, these savings were likely to be swallowed up for many households by separate Ofwat plans permitting suppliers to raise annual bills by an additional £3.4 billion - on top of an average 36 per cent price increase already approved over the five years to 2030.",
+ "new_text": "Welsh water company Hafren Dyfrdwy has been ordered to pay £280,000 following \"unacceptable\" failures that resulted in sewage spills, the regulator Ofwat has announced.\nThe industry watchdog said that the utility had \"failed in its duties to deal effectively with wastewater and sewage\".\nThe provider, which is owned by Severn Trent, supplies around 109,000 customers with water and sewage services across mid-Wales and the north-east of the country.\nTo address the issues identified during Ofwat's investigation, the business has set out a £280,000 package of measures to be implemented by 2030, which must not be financed through higher household bills.\nOfwat's inquiry found that the company failed to ensure adequate drainage, failed to manage the contents of its sewers properly, and lacked the appropriate systems and processes to meet its obligations.\nThe development comes after Hafren Dyfrdwy was permitted to raise customer bills by £54, or 9 per cent, bringing the average charge to £635 for the 2026-27 financial year.\nLynn Parker, senior director for enforcement at Ofwat, said: \"Our investigation found unacceptable breaches by Hafren Dyfrdwy, which have resulted in excessive spills from storm overflows.\n\"We are clear this is unacceptable and now expect the company to focus on putting things right so that customers can regain trust in their water company and the critical service they provide.\"\nHafren Dyfrdwy - which means Severn Dee - must put in place two storm water balancing tanks to reduce spills, and work with a local preservation trust to help to create a wetland habitat.\nIt marks the ninth case in Ofwat's sector-wide sewage investigation, which it said had already secured more than £300 million in enforcement packages and fines.\n\"We understand that the public wants to see transformative change,\" Ms Parker said.\n\"That is why we are prioritising this sector-wide investigation, which is holding companies, like Hafren Dyfrdwy, to account.\"\nOfwat on Wednesday announced water bills across the country were expected to be reduced by £240 million by 2030 as it levies penalties against underperforming suppliers.\nUnder draft proposals from the watchdog, several companies will face financial penalties for failing to meet environmental and customer service targets during the 2025-26 financial year, with the money handed back to domestic and business customers through reduced charges.\nThe provisional framework outlines a total net bill reduction of £240 million up to 2029-30, including £107 million to be returned to billpayers in 2027-28.\nHowever, these savings were likely to be swallowed up for many households by separate Ofwat plans permitting suppliers to raise annual bills by an additional £3.4 billion - on top of an average 36 per cent price increase already approved over the five years to 2030.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Become an Independent member to bookmark this article Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. Join today Already a member? Log in"
+    ],
+    [
+     "eq",
+     "Welsh water company Hafren Dyfrdwy has been ordered to pay £280,000 following"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.069,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.547,
+ "similarity": 0.9538,
+ "adjudicated_by": "rules"
+}

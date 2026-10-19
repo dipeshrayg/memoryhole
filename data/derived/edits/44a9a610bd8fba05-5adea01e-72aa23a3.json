@@ -1,0 +1,52 @@
+{
+ "id": "44a9a610bd8fba05-5adea01e-72aa23a3",
+ "url": "https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-19T12:42:11Z",
+ "date": "2026-10-19",
+ "old_title": "Vietnam signs free trade deal with four European countries",
+ "new_title": "Vietnam signs free trade deal with four European countries",
+ "old_text": "Vietnam and four European countries signed a free trade agreement in Hanoi on Sunday.\nThe deal was announced by the governments of Vietnam and Norway.\nVietnam's Trade Ministry said it signed the deal with the European Free Trade Association (EFTA), which is made upNorway, Switzerland, Iceland and Liechtenstein.\nThe four European countries are not part of the European Union (EU).\nThe official talks between Vietnam and the EFTA began in 2012. The talks were interrupted in 2018 and only resumed last year.\nHow does the deal benefit Vietnam?\nThe agreement between Vietnam, which is Southeast Asia's fastest-growing economy, and the European Free Trade Association (EFTA) waives or reduces customs duties, including on imports of industrial, fish and agricultural products.\nUnder the deal, around half of Norway's exports to Vietnam will be tariff-free, with more than 98% to be tariff-free within seven years, the Norwegian government said in a statement.\nAccording to the signing parties, the deal covers trade in goods and services, intellectual property rights, trade remedies and sustainable development, among other areas, both parties say.\nLast year, the trade value between the EFTA and Vietnam stood at €4.8 billion ($5.4 billion), according to the association.\nVietnam said the agreement showed the parties' resolve to \"reinforce the rules-based trading system amid continued volatility in the global economy,\" according to a government statement.\nIt was also expected to help Vietnam \"diversify its import and export markets\" and \"integrate more deeply into global value chains,\" the government said.\nEdited by: Karl Sexton\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google , so you'll always see our verified news first.",
+ "new_text": "Vietnam and four European countries signed a free trade agreement in Hanoi on Sunday.\nThe deal was announced by the governments of Vietnam and Norway.\nVietnam's Trade Ministry said it signed the deal with the European Free Trade Association (EFTA), which is made up Norway, Switzerland, Iceland and Liechtenstein.\nThe four European countries are not part of the European Union (EU).\nThe official talks between Vietnam and the EFTA began in 2012. The talks were interrupted in 2018 and only resumed last year.\nHow does the deal benefit Vietnam?\nThe agreement between Vietnam, which is Southeast Asia's fastest-growing economy, and the European Free Trade Association (EFTA) waives or reduces customs duties, including on imports of industrial, fish and agricultural products.\nUnder the deal, around half of Norway's exports to Vietnam will be tariff-free, with more than 98% to be tariff-free within seven years, the Norwegian government said in a statement.\nAccording to the signing parties, the deal covers trade in goods and services, intellectual property rights, trade remedies and sustainable development, among other areas, both parties say.\nLast year, the trade value between the EFTA and Vietnam stood at €4.8 billion ($5.4 billion), according to the association.\nVietnam said the agreement showed the parties' resolve to \"reinforce the rules-based trading system amid continued volatility in the global economy,\" according to a government statement.\nIt was also expected to help Vietnam \"diversify its import and export markets\" and \"integrate more deeply into global value chains,\" the government said.\nEdited by: Karl Sexton\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google , so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the deal with the European Free Trade Association (EFTA), which is made"
+    ],
+    [
+     "del",
+     "upNorway,"
+    ],
+    [
+     "ins",
+     "up Norway,"
+    ],
+    [
+     "eq",
+     "Switzerland, Iceland and Liechtenstein. The four European countries are not part of"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0107,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}
