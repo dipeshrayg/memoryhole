@@ -1,0 +1,44 @@
+{
+ "id": "80b498eb879f64b8-c9a32ea7-aa430f64",
+ "url": "https://www.independent.co.uk/news/uk/politics/nhs-hospital-children-yvette-cooper-laura-kuenssberg-b3068737.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-20T11:17:44Z",
+ "date": "2026-10-20",
+ "old_title": "Health secretary vows to end 'corridor care' for children in hospitals",
+ "new_title": "Health secretary vows to end 'corridor care' for children in hospitals",
+ "old_text": "Immediate action has been promised by the health secretary to end the treatment of young patients in NHS hospital corridors.\nAppearing on the BBC's Sunday With Laura Kuenssberg programme, Yvette Cooper said she asked the chief executive of NHS England to \"have urgent new standards drawn up for how children should be treated in A&E, including an urgent plan to eliminate corridor care for children as a priority\".\nShe added: \"We've got a plan for the whole of the Parliament to end corridor care more broadly, but then also to prioritise that and to do so urgently for children.\"\nWhile overall corridor care metrics began being recorded this summer, Ms Cooper noted the government will now track figures specifically for children.\nSpeaking on the show, she said: \"No child should be treated in a corridor.\"\nShe added: \"I think we need urgent action to address corridor care and support for children.\"\nThe number of people waiting more than 12 hours in A&E departments in England from a decision to admit to actually being admitted - so-called \"corridor care\" - stood at 50,582 in September, up from 44,951 in August.\nThe number waiting at least four hours from the decision to admit to admission also rose, standing at 129,199 in September, up from 118,550 in August.\nAn average of 3,310 patients in England received corridor care each day in September, with 2,549 in A&E departments and 761 in other hospital areas, NHS figures show.\nThis is up from an average of 2,865 per day in August, made up of 2,297 in emergency departments and 568 in other areas.\nMs Cooper also said child health needs to be \"a much greater priority for the NHS\", adding: \"It's one of the things I've said since I started.\n\"Maternity and child care and child health, I think, has been treated as a bit of a sidecar for the National Health Service. I think it has to be a priority.\"\nAsked whether that would mean taking money from other parts of the NHS budget to fund interventions on child health, she said: \"Obviously, look, priorities, you know, investment follows.\"\nBefore appearing on the programme, the Health Secretary had warned that the NHS faces a more challenging winter than normal, as she announced a £140 million boost for urgent care in England.\nShe said: \"Winter will be more challenging for our NHS this year, after such a heavy summer.\n\"That's why we have been preparing early and investing in extra urgent care capacity to help get patients the care they need.\"\nThe money will be spent on 14 schemes across the country, including new urgent care centres, ambulance fleets and upgrades to emergency departments.",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nImmediate action has been promised by the health secretary to end the treatment of young patients in NHS hospital corridors.\nAppearing on the BBC's Sunday With Laura Kuenssberg programme, Yvette Cooper said she asked the chief executive of NHS England to \"have urgent new standards drawn up for how children should be treated in A&E, including an urgent plan to eliminate corridor care for children as a priority\".\nShe added: \"We've got a plan for the whole of the Parliament to end corridor care more broadly, but then also to prioritise that and to do so urgently for children.\"\nWhile overall corridor care metrics began being recorded this summer, Ms Cooper noted the government will now track figures specifically for children.\nSpeaking on the show, she said: \"No child should be treated in a corridor.\"\nShe added: \"I think we need urgent action to address corridor care and support for children.\"\nThe number of people waiting more than 12 hours in A&E departments in England from a decision to admit to actually being admitted - so-called \"corridor care\" - stood at 50,582 in September, up from 44,951 in August.\nThe number waiting at least four hours from the decision to admit to admission also rose, standing at 129,199 in September, up from 118,550 in August.\nAn average of 3,310 patients in England received corridor care each day in September, with 2,549 in A&E departments and 761 in other hospital areas, NHS figures show.\nThis is up from an average of 2,865 per day in August, made up of 2,297 in emergency departments and 568 in other areas.\nMs Cooper also said child health needs to be \"a much greater priority for the NHS\", adding: \"It's one of the things I've said since I started.\n\"Maternity and child care and child health, I think, has been treated as a bit of a sidecar for the National Health Service. I think it has to be a priority.\"\nAsked whether that would mean taking money from other parts of the NHS budget to fund interventions on child health, she said: \"Obviously, look, priorities, you know, investment follows.\"\nBefore appearing on the programme, the Health Secretary had warned that the NHS faces a more challenging winter than normal, as she announced a £140 million boost for urgent care in England.\nShe said: \"Winter will be more challenging for our NHS this year, after such a heavy summer.\n\"That's why we have been preparing early and investing in extra urgent care capacity to help get patients the care they need.\"\nThe money will be spent on 14 schemes across the country, including new urgent care centres, ambulance fleets and upgrades to emergency departments.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "Become an Independent member to bookmark this article Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today. Join today Already a member? Log in"
+    ],
+    [
+     "eq",
+     "Immediate action has been promised by the health secretary to end the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0737,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.944,
+ "similarity": 0.8876,
+ "adjudicated_by": "rules"
+}

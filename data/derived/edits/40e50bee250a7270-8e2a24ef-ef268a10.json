@@ -1,0 +1,164 @@
+{
+ "id": "40e50bee250a7270-8e2a24ef-ef268a10",
+ "url": "https://www.theguardian.com/football/2026/oct/19/sarina-wiegman-signs-contract-extension-england-women-euro-2029",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-20T11:26:10Z",
+ "date": "2026-10-20",
+ "old_title": "Sarina Wiegman signs contract extension to stay as England women head coach until 2029",
+ "new_title": "Sarina Wiegman signs contract extension to stay as England women head coach until 2029",
+ "old_text": "Sarina Wiegman has extended her contract to continue as the head coach of England women for Euro 2029. Her deal was due to expire after next summer's World Cup and this gives her the chance to lead the Lionesses to three European championship titles in a row.\nWiegman, who took on the role in September 2021, also led her native Netherlands to Euros glory in 2017 and has reached the final of the past five major tournaments, twice finishing as a World Cup runner-up.\n\"I am so happy to be able to carry on with this squad and cannot think of a better job in football,\" Wiegman said. \"Working for a world-class organisation like the FA, and alongside so many people dedicated to winning England teams and the growth of our game, excites me every day.\"\nEngland will reach the World Cup finals, which are being in held in Brazil in June and July, if they come through a two-leg playoff against Ukraine for which they are heavy favourites. \"My main concern right now is absolutely the World Cup, and helping this squad realise their potential in the years to come,\" Wiegman said.\nThis is Wiegman's second contract extension with England and opens the possibility that she could coach Team GB at the 2028 Olympics in Los Angeles should the team qualify. Wiegman, who turns 57 next Monday, will continue to be assisted by Janneke Bijl, Arvid Smit and Darren Ward.\n\"Sarina is an incredible coach with an unparalleled record in major tournaments and I am so happy to continue to work with her for the next Euro cycle,\" said the Football Association's chief executive, Mark Bullingham.\nWiegman had refused to be drawn on questions over her future before England's two games against Greece during the recent international break, but the Chelsea midfielder Keira Walsh last week said \"obviously I'd want her to stay\" when asked about the head coach's future.\n\"Sarina's the boss, I would never ask her those questions, but I think everyone in England would love her to stay,\" Walsh said. \"I've played a lot of games for her and I really appreciate her as a manager.\"",
+ "new_text": "Sarina Wiegman has extended her contract to continue as the head coach of England women for Euro 2029. Her deal was due to expire after the World Cup next summer and this extension gives her the chance to lead the Lionesses to three European championship titles in a row.\nWiegman, who took on the role in September 2021, also led her native Netherlands side to European Championship glory in 2017 and has reached the final of the past five major tournaments, twice finishing as a World Cup runner-up.\n\"I am so happy to be able to carry on with this squad and cannot think of a better job in football,\" Wiegman said. \"Working for a world-class organisation like the FA, and alongside so many people dedicated to winning England teams and the growth of our game, excites me every day.\"\nEngland will reach the World Cup finals, to be held in Brazil in June and July, if they come through a two-leg playoff against Ukraine for which they are heavy favourites. \"My main concern right now is absolutely the World Cup, and helping this squad realise their potential in the years to come,\" Wiegman said.\nThis is Wiegman's second contract extension with England and opens the possibility that she could coach Team GB at the 2028 Olympic Games in Los Angeles should the team qualify. Wiegman, who turns 57 next Monday, will continue to be assisted by Janneke Bijl, Arvid Smit and Darren Ward.\n\"Sarina is an incredible coach with an unparalleled record in major tournaments and I am so happy to continue to work with her for the next Euro cycle,\" the Football Association's chief executive, Mark Bullingham, said.\nWiegman had refused to be drawn on questions over her future before England's two games against Greece during the recent international break, but the Chelsea midfielder Keira Walsh last week said \"obviously I'd want her to stay\" when asked about the head coach's future.\n\"Sarina's the boss, I would never ask her those questions, but I think everyone in England would love her to stay,\" Walsh said. \"I've played a lot of games for her and I really appreciate her as a manager.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "England women for Euro 2029. Her deal was due to expire after"
+    ],
+    [
+     "del",
+     "next summer's"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "World Cup"
+    ],
+    [
+     "ins",
+     "next summer"
+    ],
+    [
+     "eq",
+     "and this"
+    ],
+    [
+     "ins",
+     "extension"
+    ],
+    [
+     "eq",
+     "gives her the chance to lead the Lionesses to three European championship"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "took on the role in September 2021, also led her native Netherlands"
+    ],
+    [
+     "ins",
+     "side"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "Euros"
+    ],
+    [
+     "ins",
+     "European Championship"
+    ],
+    [
+     "eq",
+     "glory in 2017 and has reached the final of the past five"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "game, excites me every day.\" England will reach the World Cup finals,"
+    ],
+    [
+     "del",
+     "which are being in"
+    ],
+    [
+     "ins",
+     "to be"
+    ],
+    [
+     "eq",
+     "held in Brazil in June and July, if they come through a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "opens the possibility that she could coach Team GB at the 2028"
+    ],
+    [
+     "del",
+     "Olympics"
+    ],
+    [
+     "ins",
+     "Olympic Games"
+    ],
+    [
+     "eq",
+     "in Los Angeles should the team qualify. Wiegman, who turns 57 next"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "happy to continue to work with her for the next Euro cycle,\""
+    ],
+    [
+     "del",
+     "said"
+    ],
+    [
+     "eq",
+     "the Football Association's chief executive, Mark"
+    ],
+    [
+     "del",
+     "Bullingham."
+    ],
+    [
+     "ins",
+     "Bullingham, said."
+    ],
+    [
+     "eq",
+     "Wiegman had refused to be drawn on questions over her future before"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0639,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9966,
+ "adjudicated_by": "rules"
+}

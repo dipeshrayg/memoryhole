@@ -1,0 +1,48 @@
+{
+ "id": "8294376ada505c83-0dbff522-9b27979c",
+ "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Technology",
+ "country": "United Kingdom",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-10-20T11:24:16Z",
+ "date": "2026-10-20",
+ "old_title": "China economy: Growth accelerates as AI export boom outweighs domestic weakness",
+ "new_title": "China economy: Growth accelerates as AI export boom outweighs domestic weakness",
+ "old_text": "- Published\nChina's economic growth picked up in the three months to the end of September, rebounding from a three-year low as the artificial intelligence (AI) boom helped boost exports.\nThe world's second largest economy grew by 4.5% in the third quarter, up from the previous period but below the 5% expansion recorded from January to March, according to official Chinese data.\nThe latest figure is at the bottom end of Beijing's annual growth target of 4.5%-5%, which analysts have said gives policymakers room to address the country's economic challenges.\nWhile exports have helped offset weak spending at home, global trade tensions and uncertainty over AI investments are clouding its outlook.\nChina's National Bureau of Statistics said on Monday that the economy \"sustained steady development against pressure\" and showed \"momentum with new growth drivers and improving structure\".\nWith exports climbing, China's trade surplus - the amount of goods and services it sells abroad compared to what it buys from other countries - is on track to overtake the record $1.2tn (Â£900bn) seen last year.\nSales of high-tech goods rose by 14.3% while the production of both batteries and industrial robots grew by more than 29%, official figures showed.\nOxford Economics researcher Sheana Yue said manufacturing and high-tech exports have boosted China's growth, despite weak investment and domestic spending.\nBut property investment fell by more than 20% in the first nine months from the same period last year, official data also showed.\nChina's economy has struggling to shake off a long-running property slump, after years of overbuilding and excessive borrowing by private developers.\nThere are still no signs that this trend will end soon, Yue said.\nTrade uncertainties and geopolitical issues have also made Chinese consumers more \"pessimistic\" and unwilling to spend, she added.\nThe effects of Beijing's targeted support measures for businesses have yet to be seen, said Dave Chia, an economist at Moody's Analytics.\nSeveral risks stand out from the data, including China's reliance on a \"single external engine\" in exports, he added.\nThe technology industry has been a key driver of China's growth in recent quarters.\nGlobal demand for computer chips and other components used to build AI data centres has helped to ease pressure on Beijing and cushion the impact of sluggish domestic consumption.\nChinese businesses have leaned heavily on exports as a prolonged property slump, weak wage growth and high youth unemployment have weighed on consumer spending at home.\nIn September, Beijing unveiled a raft of support measures, including lower interest rates for some businesses and subsidies for property buyers, in an effort to boost the economy.\nBut Beijing is facing a backlash from Western economies - including the US and European Union - as manufacturers struggle to compete with large amounts of cheap Chinese goods.\nThere are also concerns over the billions of dollars being spent on AI infrastructure and whether the companies making those investments can deliver on their promises of generating huge profits.",
+ "new_text": "- Published\nChina's economic growth picked up in the three months to the end of September, rebounding from a three-year low as the artificial intelligence (AI) boom helped boost exports.\nThe world's second largest economy grew by 4.5% in the third quarter, up from the previous period but below the 5% expansion recorded from January to March, according to official Chinese data.\nThe latest figure is at the bottom end of Beijing's annual growth target of 4.5%-5%, which analysts have said gives policymakers room to address the country's economic challenges.\nWhile exports have helped offset weak spending at home, global trade tensions and uncertainty over AI investments are clouding its outlook.\nChina's National Bureau of Statistics said on Monday that the economy \"sustained steady development against pressure\" and showed \"momentum with new growth drivers and improving structure\".\nWith exports climbing, China's trade surplus - the amount of goods and services it sells abroad compared to what it buys from other countries - is on track to overtake the record $1.2tn (Â£900bn) seen last year.\nSales of high-tech goods rose by 14.3% while the production of both batteries and industrial robots grew by more than 29%, official figures showed.\nOxford Economics researcher Sheana Yue said manufacturing and high-tech exports have boosted China's growth, despite weak investment and domestic spending.\nBut property investment fell by more than 20% in the first nine months from the same period last year, official data also showed.\nChina's economy has been struggling to shake off a long-running property slump, after years of overbuilding and excessive borrowing by private developers.\nThere are still no signs that this trend will end soon, Yue said.\nTrade uncertainties and geopolitical issues have also made Chinese consumers more \"pessimistic\" and unwilling to spend, she added.\nThe effects of Beijing's targeted support measures for businesses have yet to be seen, said Dave Chia, an economist at Moody's Analytics.\nSeveral risks stand out from the data, including China's reliance on a \"single external engine\" in exports, he added.\nThe technology industry has been a key driver of China's growth in recent quarters.\nGlobal demand for computer chips and other components used to build AI data centres has helped to ease pressure on Beijing and cushion the impact of sluggish domestic consumption.\nChinese businesses have leaned heavily on exports as a prolonged property slump, weak wage growth and high youth unemployment have weighed on consumer spending at home.\nIn September, Beijing unveiled a raft of support measures, including lower interest rates for some businesses and subsidies for property buyers, in an effort to boost the economy.\nBut Beijing is facing a backlash from Western economies - including the US and European Union - as manufacturers struggle to compete with large amounts of cheap Chinese goods.\nThere are also concerns over the billions of dollars being spent on AI infrastructure and whether the companies making those investments can deliver on their promises of generating huge profits.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the same period last year, official data also showed. China's economy has"
+    ],
+    [
+     "ins",
+     "been"
+    ],
+    [
+     "eq",
+     "struggling to shake off a long-running property slump, after years of overbuilding"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.002,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

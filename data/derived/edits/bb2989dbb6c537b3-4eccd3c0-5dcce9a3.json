@@ -1,0 +1,142 @@
+{
+ "id": "bb2989dbb6c537b3-4eccd3c0-5dcce9a3",
+ "url": "https://www.theguardian.com/business/2026/oct/19/bank-of-england-said-to-be-reviewing-barclays-handling-of-private-credit-loans",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-10-20T11:23:04Z",
+ "date": "2026-10-20",
+ "old_title": "Bank of England said to be reviewing Barclays' handling of private credit loans",
+ "new_title": "Bank of England said to be reviewing Barclays' handling of private credit loans",
+ "old_text": "The Bank of England is reportedly looking into Barclays' handling of loans linked to the embattled private credit sector.\nThe Bank's regulatory arm, the Prudential Regulation Authority (PRA), started reviewing the matter earlier this year after concerns were raised by a Barclays insider, according to the Financial Times.\nThe concerns related to the way Barclays logged the derivatives used to finance the loans it issues to private credit firms. Those derivatives - financial contracts that track the performance of an underlying asset - are said to have been logged in the wrong portfolio, indicating they were less risky than they actually were.\nThat could mean the bank was not holding enough capital to cover potential losses, and could have boosted its profitability.\nBarclays is said to have built up billions of dollars' worth of exposure to private credit loans using derivatives, according to sources cited by the Financial Times.\nThe bank said in a statement: \"Barclays takes seriously its regulatory obligations in markets where it operates. Barclays does not comment on its interactions with regulators.\"\nThe Bank of England declined to comment.\nShares in Barclays fell by 3.5% on Monday, the second-biggest faller on the FTSE 100 index, amid a wider sell-off in the banking sector. The bank is due to report its latest financial results on Thursday.\nThe report could prove awkward for the new PRA boss, Katherine Braddick, who spent six years as Barclays' head of strategic policy and senior adviser to its chief executive, before becoming head of the bank regulator this spring.\nThe Bank of England said Braddick was recused from all matters relating to Barclays until the end of 2026.\nLast year, Barclays' chief executive, CS Venkatakrishnan, insisted it had the right controls in place to manage its exposure to the private credit industry, where critics worry lending standards have slipped.\nPrivate credit firms - which form a core part of the shadow banking sector - use investor money to fund their loans to companies, rather than customer loans or deposits, and face less regulation as a result.\nTraditional banks, worried about missing out on a booming market, started lending directly to private credit firms or their funds, and to companies that simultaneously borrowed from private credit firms. A growing number of banks have also been partnering with asset managers on private credit deals.\nHowever, critics worry that private credit players have been too lenient in deciding who to lend to, and regulators have said any fallout could destabilise traditional banks that are now intertwined with the industry.\nGrowing anxieties also triggered a multibillion-pound surge in withdrawals from some private credit funds earlier this year, forcing some to cap the amount of money that clients can pull out.\nThe private credit industry has been trying to recover after some high-profile company failures, including two private credit-backed US automotive companies, Tricolor and First Brands, last year, both of which were hit by fraud allegations. That was followed by the mortgage lender Market Financial Solutions (MFS), which collapsed in February amid allegations of fraud.\nBarclays was among the banks that suffered losses on the back of Tricolor's collapse, alongside JP Morgan. Barclays also took a £228m hit after MFS' failure.",
+ "new_text": "The Bank of England is reportedly looking into Barclays' handling of loans linked to the embattled private credit sector.\nThe Bank's regulatory arm, the Prudential Regulation Authority (PRA), started reviewing the matter this year after concerns were raised by a Barclays insider, according to the Financial Times.\nThe concerns related to the way Barclays logged the derivatives, known as total return swaps, used to finance the loans it issues to private credit firms. Those derivatives - financial contracts that track the performance of an underlying asset - are said to have been logged in the wrong portfolio, indicating they were less risky than they actually were.\nThat could mean the bank was not holding enough capital to cover potential losses, and could have boosted its profitability.\nBarclays is said to have built up billions of dollars' worth of exposure to private credit loans using derivatives, according to sources cited by the Financial Times.\nThe bank said: \"Barclays' treatment of total return swaps is consistent with accounting and regulatory capital requirements.\"\nIt added that it followed capital rules when deciding where to log certain assets. \"Those conditions were met and supported by appropriate governance internally and by external advisers,\" Barclays said.\nThe bank said its total exposure to the private credit sector was worth about £15bn, and that the relevant derivatives accounted for £300m of that total.\nThe Bank of England declined to comment.\nShares in Barclays fell by 3.5% on Monday, the second-biggest faller on the FTSE 100 index, amid a wider sell-off in the banking sector. The bank is due to report its latest financial results on Thursday.\nThe report could prove awkward for the new PRA boss, Katharine Braddick, who spent six years as Barclays' head of strategic policy and senior adviser to its chief executive, before becoming head of the bank regulator this spring.\nThe Bank of England said Braddick was recused from all matters relating to Barclays until the end of 2026.\nLast year, Barclays' chief executive, CS Venkatakrishnan, insisted it had the right controls in place to manage its exposure to the private credit industry, where critics worry lending standards have slipped.\nPrivate credit firms - which form a core part of the shadow banking sector - use investor money to fund their loans to companies, rather than customer loans or deposits, and face less regulation as a result.\nTraditional banks, worried about missing out on a booming market, started lending directly to private credit firms or their funds, and to companies that simultaneously borrowed from private credit firms. A growing number of banks have also been partnering with asset managers on private credit deals.\nHowever, critics worry that private credit players have been too lenient in deciding who to lend to, and regulators have said any fallout could destabilise traditional banks that are now intertwined with the industry.\nGrowing anxieties also triggered a multibillion-pound surge in withdrawals from some private credit funds earlier this year, forcing some to cap the amount of money that clients can pull out.\nThe private credit industry has been trying to recover after some high-profile company failures, including two private credit-backed US automotive companies, Tricolor and First Brands, last year, both of which were hit by fraud allegations. That was followed by the mortgage lender Market Financial Solutions (MFS), which collapsed in February amid allegations of fraud.\nBarclays was among the banks that suffered losses on the back of Tricolor's collapse, alongside JP Morgan. Barclays also took a £228m hit after the MFS failure.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Bank's regulatory arm, the Prudential Regulation Authority (PRA), started reviewing the matter"
+    ],
+    [
+     "del",
+     "earlier"
+    ],
+    [
+     "eq",
+     "this year after concerns were raised by a Barclays insider, according to the Financial Times. The concerns related to the way Barclays logged the"
+    ],
+    [
+     "del",
+     "derivatives"
+    ],
+    [
+     "ins",
+     "derivatives, known as total return swaps,"
+    ],
+    [
+     "eq",
+     "used to finance the loans it issues to private credit firms. Those"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "using derivatives, according to sources cited by the Financial Times. The bank"
+    ],
+    [
+     "ins",
+     "said: \"Barclays' treatment of total return swaps is consistent with accounting and regulatory capital requirements.\" It added that it followed capital rules when deciding where to log certain assets. \"Those conditions were met and supported by appropriate governance internally and by external advisers,\" Barclays said. The bank"
+    ],
+    [
+     "eq",
+     "said"
+    ],
+    [
+     "del",
+     "in a statement: \"Barclays takes seriously"
+    ],
+    [
+     "eq",
+     "its"
+    ],
+    [
+     "del",
+     "regulatory obligations in markets where it operates. Barclays does not comment on its interactions with regulators.\""
+    ],
+    [
+     "ins",
+     "total exposure to the private credit sector was worth about £15bn, and that the relevant derivatives accounted for £300m of that total."
+    ],
+    [
+     "eq",
+     "The Bank of England declined to comment. Shares in Barclays fell by"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "on Thursday. The report could prove awkward for the new PRA boss,"
+    ],
+    [
+     "del",
+     "Katherine"
+    ],
+    [
+     "ins",
+     "Katharine"
+    ],
+    [
+     "eq",
+     "Braddick, who spent six years as Barclays' head of strategic policy and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Tricolor's collapse, alongside JP Morgan. Barclays also took a £228m hit after"
+    ],
+    [
+     "del",
+     "MFS'"
+    ],
+    [
+     "ins",
+     "the MFS"
+    ],
+    [
+     "eq",
+     "failure."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1951,
+  "numbers_changed": [
+   "15",
+   "300"
+  ],
+  "market_figures_changed": [
+   "£15bn",
+   "£300m"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 1,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.479,
+ "similarity": 0.8819,
+ "adjudicated_by": "rules"
+}
