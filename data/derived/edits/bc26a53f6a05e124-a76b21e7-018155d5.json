@@ -1,0 +1,106 @@
+{
+ "id": "bc26a53f6a05e124-a76b21e7-018155d5",
+ "url": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-10-21T11:43:35Z",
+ "date": "2026-10-21",
+ "old_title": "Pennsylvania issues alert on congenital measles-something US hasn't seen for decades",
+ "new_title": "Pennsylvania issues alert on congenital measles-something US hasn't seen for decades",
+ "old_text": "Pennsylvania's health department issued a health alert Monday as cases of measles in pregnancy and, in turn, cases of congenital measles have continued to increase. Before the current outbreak-which continues to rage across the state-congenital measles cases hadn't been seen in decades, the department noted in its advisory.\nThe alert included detailed clinical guidance for managing measles exposures and cases during pregnancy as well as cases in newborns. Many doctors have never seen such cases in their careers given the decades of successful use of the measles, mumps, and rubella (MMR) vaccine. But now, with vaccination rates slipping nationwide, the highly infectious virus is better able to get footholds in communities and spread rapidly through under-vaccinated pockets, as is happening in Pennsylvania.\nAs of October 19, Pennsylvania had reported 1,286 measles cases this year across 42 counties. Of those, 247 have been hospitalized, and six people have reportedly died (though the latest reported death is still pending an investigation by the state health department before it is added to the state tally).\nThe Pennsylvania health department did not immediately respond to a request for information from Ars Technica. But reporting from The 19th earlier this month put the number of measles cases during pregnancy at 53. At least one case of congenital measles led to a death; the first death reported in the current outbreak was in a newborn baby boy, who died immediately after birth while his mother was severely ill with measles.\nRisky infection\nPregnant people who have not been vaccinated against measles nor previously had the infection are susceptible. A case of measles during pregnancy increases the risk of hospitalization, pneumonia, the need for oxygen support or mechanical ventilation, and death. It also increases the risk of miscarriage, stillbirth, low birth weight, and preterm labor. The MMR vaccine is not recommended during pregnancy because it is a live attenuated vaccine and poses a theoretical risk of causing an infection in a fetus. If a pregnant person is exposed to the virus, they're recommended to receive intravenous immunoglobulin to help protect against infection-but only if it is given within six days of exposure.",
+ "new_text": "Pennsylvania's health department issued a health alert Monday as cases of measles in pregnancy and, in turn, cases of congenital measles have continued to increase. Before the current outbreak-which continues to rage across the state-congenital measles cases hadn't been seen in decades, the department noted in its advisory.\nThe alert included detailed clinical guidance for managing measles exposures and cases during pregnancy as well as cases in newborns. Many doctors have never seen such cases in their careers given the decades of successful use of the measles, mumps, and rubella (MMR) vaccine. But now, with vaccination rates slipping nationwide, the highly infectious virus is better able to get footholds in communities and spread rapidly through under-vaccinated pockets, as is happening in Pennsylvania.\nAs of October 19, Pennsylvania had reported 1,286 measles cases this year across 42 counties. Of those, 247 have been hospitalized, and six people have reportedly died (though the latest reported death is still pending an investigation by the state health department before it is added to the state tally).\nIn a response to a request for comment, a spokesperson for Pennsylvania's health department said officials have confirmed that 66 of the state's measles cases were in pregnant women. The department does not keep a specific tally of congenital measles cases because the definition of these cases is not currently standardized. However, it noted that that it does track cases by age, and 157 cases have been recorded in children under the age of 4. At least one case of congenital measles led to a death; the first death reported in the current outbreak was in a newborn baby boy, who died immediately after birth while his mother was severely ill with measles.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the state health department before it is added to the state tally)."
+    ],
+    [
+     "del",
+     "The Pennsylvania health department did not immediately respond"
+    ],
+    [
+     "ins",
+     "In a response"
+    ],
+    [
+     "eq",
+     "to a request for"
+    ],
+    [
+     "del",
+     "information from Ars Technica. But reporting from The 19th earlier this month put"
+    ],
+    [
+     "ins",
+     "comment, a spokesperson for Pennsylvania's health department said officials have confirmed that 66 of"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "number of"
+    ],
+    [
+     "ins",
+     "state's"
+    ],
+    [
+     "eq",
+     "measles cases"
+    ],
+    [
+     "del",
+     "during pregnancy at 53."
+    ],
+    [
+     "ins",
+     "were in pregnant women. The department does not keep a specific tally of congenital measles cases because the definition of these cases is not currently standardized. However, it noted that that it does track cases by age, and 157 cases have been recorded in children under the age of 4."
+    ],
+    [
+     "eq",
+     "At least one case of congenital measles led to a death; the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "died immediately after birth while his mother was severely ill with measles."
+    ],
+    [
+     "del",
+     "Risky infection Pregnant people who have not been vaccinated against measles nor previously had the infection are susceptible. A case of measles during pregnancy increases the risk of hospitalization, pneumonia, the need for oxygen support or mechanical ventilation, and death. It also increases the risk of miscarriage, stillbirth, low birth weight, and preterm labor. The MMR vaccine is not recommended during pregnancy because it is a live attenuated vaccine and poses a theoretical risk of causing an infection in a fetus. If a pregnant person is exposed to the virus, they're recommended to receive intravenous immunoglobulin to help protect against infection-but only if it is given within six days of exposure."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5803,
+  "numbers_changed": [
+   "157",
+   "19",
+   "4",
+   "53",
+   "66"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.9,
+ "similarity": 0.9973,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,68 @@
+{
+ "id": "8106db000bc7a9c3-6923830f-947e9f5f",
+ "url": "https://www.bbc.co.uk/news/articles/cxzd6j5q0g7eo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-10-21T11:38:46Z",
+ "date": "2026-10-21",
+ "old_title": "Climate Change Committee chair on Northern Ireland fact-finding mission",
+ "new_title": "Climate Change Committee chair on Northern Ireland fact-finding mission",
+ "old_text": "- Published\n\"Courage and leadership\" are needed to ensure Northern Ireland catches up on tackling climate change.\nThe new chair of the Climate Change Committee, Nigel Topping, is spending two days on a fact-finding mission to hear the thoughts of people across different sectors.\nHe said Northern Ireland was a small nation that could be \"agile and innovative\" in tackling challenges like increasing renewable energy, improving waste management and reducing emissions.\nBut he warned that a failure to act would mean missing out on innovation opportunities, paying more for energy and damaging the health of children.\nThe Climate Change Committee is an independent body advising the UK and devolved governments on emissions targets.\nOver the course of a two-day visit, Topping is meeting farmers, people from the business sector and politicians.\nIt is being described as a fact-finding mission, looking at \"challenges and opportunities\".\nHe acknowledged that politics in Northern Ireland was \"complex\" and that \"when things flip-flop, it doesn't help\", due to the impact on investment decisions and people's choices.\nBut he said there was \"a real sense of collectively wanting to catch up\" and avoid anyone being left behind on the road to net zero.\n\"You've had these lags where there's been no ministers sitting and so there hasn't been policy - there's been civil servants working but no policies,\" he said.\n\"It's going to take some real courage and leadership from all sectors of society to make sure that the just transition process is a conversation, that it doesn't just disappear into polarised views in different corners of different rooms.\"\nNorthern Ireland was the last part of these islands to adopt climate change legislation, which brought in legally-binding targets for reducing emissions.\nTopping said people were experiencing climate change firsthand, with the effects of extreme weather being felt around the UK.\nAnd he added that that would continue, until emissions reached net zero.\n\"But I see this as a race between our kind of obstinate, greedy selves and our brilliant, innovative selves,\" he said.\n\"And all of us have a bit of both of those extremes and we have those as societies, and I think if we can really tap into backing ourselves as innovators, then we can take this as an opportunity.\n\"The most important thing for me is that we're going to do this and we're going to have to do this because this is a collective chance for humanity.\n\"So we can either see it as a burden and complain all of our way and be laggards, or we can see it as an opportunity and say, we're resilient, we're adaptive, we're innovative.\nWhen asked what will be the consequences of not taking that \"opportunity\", he is blunt.\n\"There's two ways of answering that question. One would be, oh, if Northern Ireland doesn't do anything, it doesn't make much difference to the world,\" he said.\n\"The other would be, if Northern Ireland doesn't do anything, it misses out on all the innovation opportunities, because other people take those.\n\"It continues to poison its children's lungs because it doesn't fix the air quality, and it continues to pay more for energy than it needs to.\n\"So that's like, dumb, dumb, dumb - why would you do that?\n\"So don't get stuck in the we're only small, what difference do we make?\n\"But see it as an opportunity as a small nation to be agile and innovative and derive benefit in all those different areas.\"",
+ "new_text": "- Published\n\"Courage and leadership\" are needed to ensure Northern Ireland catches up on tackling climate change.\nThe new chair of the Climate Change Committee, Nigel Topping, is spending two days on a fact-finding mission to hear the thoughts of people across different sectors.\nHe said Northern Ireland was a small nation that could be \"agile and innovative\" in tackling challenges like increasing renewable energy, improving waste management and reducing emissions.\nBut he warned that a failure to act would mean missing out on innovation opportunities, paying more for energy and damaging the health of children.\nThe committee is an independent body advising the UK and devolved governments on emissions targets.\nOver the course of a two-day visit, Topping is meeting farmers, people from the business sector and politicians.\nIt is being described as a fact-finding mission, looking at \"challenges and opportunities\".\nHe acknowledged that politics in Northern Ireland was \"complex\" and that \"when things flip-flop, it doesn't help\", due to the impact on investment decisions and people's choices.\nBut he said there was \"a real sense of collectively wanting to catch up\" and avoid anyone being left behind on the road to net zero.\n\"You've had these lags where there's been no ministers sitting and so there hasn't been policy - there's been civil servants working but no policies,\" he said.\n\"It's going to take some real courage and leadership from all sectors of society to make sure that the just transition process is a conversation, that it doesn't just disappear into polarised views in different corners of different rooms.\"\nNorthern Ireland was the last part of these islands to adopt climate change legislation, which brought in legally-binding targets for reducing emissions.\nTopping said people were experiencing climate change firsthand, with the effects of extreme weather being felt around the UK.\nAnd he added that that would continue, until emissions reached net zero.\n\"But I see this as a race between our kind of obstinate, greedy selves and our brilliant, innovative selves,\" he said.\n\"And all of us have a bit of both of those extremes and we have those as societies, and I think if we can really tap into backing ourselves as innovators, then we can take this as an opportunity.\n\"The most important thing for me is that we're going to do this and we're going to have to do this because this is a collective chance for humanity.\n\"So we can either see it as a burden and complain all of our way and be laggards, or we can see it as an opportunity and say, we're resilient, we're adaptive, we're innovative.\n'Poison children's lungs'\nWhen asked what will be the consequences of not taking that \"opportunity\", he is blunt.\n\"There's two ways of answering that question. One would be, oh, if Northern Ireland doesn't do anything, it doesn't make much difference to the world,\" he said.\n\"The other would be, if Northern Ireland doesn't do anything, it misses out on all the innovation opportunities, because other people take those.\n\"It continues to poison its children's lungs because it doesn't fix the air quality, and it continues to pay more for energy than it needs to.\n\"So that's like, dumb, dumb, dumb - why would you do that?\n\"So don't get stuck in the we're only small, what difference do we make?\n\"But see it as an opportunity as a small nation to be agile and innovative and derive benefit in all those different areas.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "opportunities, paying more for energy and damaging the health of children. The"
+    ],
+    [
+     "del",
+     "Climate Change Committee"
+    ],
+    [
+     "ins",
+     "committee"
+    ],
+    [
+     "eq",
+     "is an independent body advising the UK and devolved governments on emissions"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "it as an opportunity and say, we're resilient, we're adaptive, we're innovative."
+    ],
+    [
+     "ins",
+     "'Poison children's lungs'"
+    ],
+    [
+     "eq",
+     "When asked what will be the consequences of not taking that \"opportunity\","
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0121,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9924,
+ "adjudicated_by": "rules"
+}

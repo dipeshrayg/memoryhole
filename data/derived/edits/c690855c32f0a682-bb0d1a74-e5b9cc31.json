@@ -1,0 +1,100 @@
+{
+ "id": "c690855c32f0a682-bb0d1a74-e5b9cc31",
+ "url": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-10-21T11:43:31Z",
+ "date": "2026-10-21",
+ "old_title": "Visiting Slate's first showroom as its $25,000 electric truck nears production",
+ "new_title": "Visiting Slate's first showroom as its $25,000 electric truck nears production",
+ "old_text": "As I sat in the cab of the pickup truck and manually rolled down the windows, I closed my eyes and flashed back to opening the windows on a cold, winter day in my dad's 1975 Ford Ranger to let more cigarette smoke escape. The memory faded as I opened my eyes and looked through the windshield at a wall in the Slate Customer Experience Center studded with bright color chips.\nLast week, in a former Tesla store staffed by some former Tesla employees, Slate opened its first showroom. Located in the Fulton Market District just northwest of the Chicago Loop, the Slate Experience Center is a place for would-be buyers to poke around a prototype, check out customization options, buy some Slate merch, and even pre-order a new Slate Truck with a $300 deposit.\nDesigned for the American obsession with pickup trucks, the Slate Truck is a bare-bones electric pickup truck retailing for $24,950. It sports plastic panels, a minimalist interior design sensibility, actual window winders, and a projected range of 205 miles. Ars got to go for a ride in a Slate Truck over the summer, but we haven't had a chance to shop for one. So I stopped by the Slate Experience Center so I could, er, experience the Slate.\nUpon walking into the showroom on a Monday morning, the first thing I noticed was a marquee-style sign on the wall boldly and brightly serving as a price tag for the black truck parked in the middle of the showroom. The vibe was industrial-barn-chic-meets-SoHo-loft. Three other people were there, and another shopper entered as I left. One man alternated between sitting in the cab, peering at the truck as he walked around it, and peppering Manager of Customer Experience Steve Purdy with questions.\nThe showroom has been open since October 15, launching with a three-day event that offered ridealongs. Interest has been strong, Purdy told me, and while he couldn't provide sales numbers, he said the response has been \"incredible.\"\n\"We're really happy with the number of [$300] deposits we've gotten since we opened,\" Purdy said.",
+ "new_text": "As I sat in the cab of the pickup truck and manually rolled down the windows, I closed my eyes and, for the briefest moment, flashed back to opening the windows on a cold, winter day in my dad's 1975 Ford Ranger to let more cigarette smoke escape. I opened my eyes and looked through the windshield at a wall in the Slate Customer Experience Center studded with bright color chips.\nLast week, in a former Tesla store staffed by some former Tesla employees, Slate opened its first showroom. Located in the Fulton Market District just northwest of the Chicago Loop, the Slate Experience Center is a place for would-be buyers to poke around a prototype, check out customization options, buy some Slate merch, and even preorder a new Slate Truck with a $300 deposit.\nDesigned for the American obsession with pickup trucks, the Slate Truck is a bare-bones electric pickup truck retailing for $24,950. It sports plastic panels, a minimalist interior design sensibility, actual window winders, and a projected range of 205 miles. Ars went for a ride in a Slate Truck over the summer, but we haven't had a chance to shop for one. So I stopped by the Slate Experience Center so I could, er, experience the Slate.\nUpon walking into the showroom on a Monday morning, the first thing I noticed was a marquee-style sign on the wall boldly and brightly serving as a price tag for the black truck parked in the middle of the showroom. The vibe was industrial-barn-chic-meets-SoHo-loft. Three other people were there, and another shopper entered as I left. One man alternated between sitting in the cab, peering at the truck as he walked around it, and peppering Manager of Customer Experience Steve Purdy with questions.\nThe showroom has been open since October 15, launching with a three-day event that offered ridealongs. Interest has been strong, Purdy told me, and while he couldn't provide sales numbers, he said the response has been \"incredible.\"\n\"We're really happy with the number of [$300] deposits we've gotten since we opened,\" Purdy said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "pickup truck and manually rolled down the windows, I closed my eyes"
+    ],
+    [
+     "del",
+     "and"
+    ],
+    [
+     "ins",
+     "and, for the briefest moment,"
+    ],
+    [
+     "eq",
+     "flashed back to opening the windows on a cold, winter day in my dad's 1975 Ford Ranger to let more cigarette smoke escape."
+    ],
+    [
+     "del",
+     "The memory faded as"
+    ],
+    [
+     "eq",
+     "I opened my eyes and looked through the windshield at a wall"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "a prototype, check out customization options, buy some Slate merch, and even"
+    ],
+    [
+     "del",
+     "pre-order"
+    ],
+    [
+     "ins",
+     "preorder"
+    ],
+    [
+     "eq",
+     "a new Slate Truck with a $300 deposit. Designed for the American"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "sensibility, actual window winders, and a projected range of 205 miles. Ars"
+    ],
+    [
+     "del",
+     "got to go"
+    ],
+    [
+     "ins",
+     "went"
+    ],
+    [
+     "eq",
+     "for a ride in a Slate Truck over the summer, but we"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0458,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9939,
+ "adjudicated_by": "rules"
+}

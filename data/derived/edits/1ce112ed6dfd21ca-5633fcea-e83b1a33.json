@@ -1,0 +1,60 @@
+{
+ "id": "1ce112ed6dfd21ca-5633fcea-e83b1a33",
+ "url": "https://www.independent.co.uk/bulletin/news/shark-attack-south-africa-woman-killed-b3069835.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-21T11:33:30Z",
+ "date": "2026-10-21",
+ "old_title": "Shark kills 65-year-old female swimmer in South Africa - report",
+ "new_title": "Female swimmer, 65, killed in shark attack in South Africa - report",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nShark kills 65-year-old female swimmer in South Africa - report\n- A female swimmer has died following a shark attack off Orient Beach in KuGompo City, South Africa.\n- Buffalo City Metropolitan Municipality has closed both Orient Beach and Eastern Beach until further notice.\n- Beachgoers have been urged to refrain from entering the water and to exercise extreme caution across affected areas.\n- Safety warnings are being issued at other nearby beaches, with the public advised to remain vigilant.\n- Relevant authorities remain on site following the tragic incident.\nMore bulletins",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nFemale swimmer, 65, killed in shark attack off popular beach in South Africa\n- A female swimmer has died following a shark attack off Orient Beach in KuGompo City, South Africa.\n- Buffalo City Metropolitan Municipality has closed both Orient Beach and Eastern Beach until further notice.\n- Beachgoers have been urged to refrain from entering the water and to exercise extreme caution across affected areas.\n- Safety warnings are being issued at other nearby beaches, with the public advised to remain vigilant.\n- Relevant authorities remain on site following the tragic incident.\nMore bulletins",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Start your Independent Membership today. Join today Already a member? Log in"
+    ],
+    [
+     "del",
+     "Shark kills 65-year-old female swimmer"
+    ],
+    [
+     "ins",
+     "Female swimmer, 65, killed in shark attack off popular beach"
+    ],
+    [
+     "eq",
+     "in South Africa"
+    ],
+    [
+     "del",
+     "- report"
+    ],
+    [
+     "eq",
+     "- A female swimmer has died following a shark attack off Orient"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.136,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.987,
+ "adjudicated_by": "rules"
+}

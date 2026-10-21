@@ -1,0 +1,84 @@
+{
+ "id": "5e7456a8bdd0d647-97805200-21cb329d",
+ "url": "https://www.abc.net.au/news/2026-10-20/brendan-nugent-charged-over-attack-against-helen-haines/107288126",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-21T11:32:37Z",
+ "date": "2026-10-21",
+ "old_title": "Police lay three charges against Brendan Nugent over Haines attack",
+ "new_title": "Police lay three charges against Brendan Nugent over Haines attack",
+ "old_text": "Victoria Police have laid three charges against 43-year-old Brendan Nugent after he allegedly struck independent MP Helen Haines with his car on Monday.\nDetectives tonight charged Mr Nugent with dangerous driving causing serious injury and intentionally causing serious injury.\nHe was also charged with the federal offence of causing harm to a Commonwealth public official - which carries a maximum penalty of 10 years' imprisonment.\nHe is due to appear in the Wangaratta Magistrates' Court tomorrow.\nIn a statement, Victoria Police said officers would allege the incident was targeted.\nThe ABC has confirmed Ms Haines has lost one leg and doctors are fighting to save the other after she was pinned between two cars outside her electorate office in Victoria's north-east.\nMs Haines, 65, suffered critical lower-body injuries in the Wangaratta attack and was flown to The Alfred hospital in Melbourne.\nParliamentary colleagues and members of the community have expressed their shock and support for Ms Haines, who has been the member for Indi since 2019.\nFamily of accused address 'devastating' incident\nOn Tuesday officers searched Mr Nugent's Tarrawingee home, roughly 15 kilometres east of the rural city of Wangaratta.\nFamily members of Mr Nugent also released a statement, saying \"all of our love and all of our thoughts are with Helen and her family and friends\".\nIn the statement, Mr Nugent's father Rod Nugent and Rod's partner Christine Cunningham said Ms Haines had been their friend for more than 20 years and Monday's events were \"devastating and unfathomable\".\n\"Helen Haines is a deeply respected, valued and much loved member of our local community,\" the statement said.\n\"We would like to sincerely thank members of the local community and police who came to Helen's aid yesterday after the shocking and horrific crime.\n\"We will be assisting Victoria Police in any way we can.\"",
+ "new_text": "Victoria Police have laid three charges against 43-year-old Brendan Nugent after he allegedly struck independent MP Helen Haines with his car on Monday.\nDetectives have charged Mr Nugent with dangerous driving causing serious injury and intentionally causing serious injury.\nHe was also charged with the federal offence of causing harm to a Commonwealth public official - which carries a maximum penalty of 10 years' imprisonment.\nHe is due to appear in the Wangaratta Magistrates' Court today.\nIn a statement, Victoria Police said officers would allege the incident was targeted.\nThe ABC has confirmed Ms Haines has lost one leg and doctors are fighting to save the other after she was pinned between two cars outside her electorate office in Victoria's north-east.\nMs Haines, 65, suffered critical lower-body injuries in the Wangaratta attack and was flown to The Alfred hospital in Melbourne.\nParliamentary colleagues and members of the community have expressed their shock and support for Ms Haines, who has been the member for Indi since 2019.\nFamily of accused address 'devastating' incident\nOn Tuesday officers searched Mr Nugent's Tarrawingee home, roughly 15 kilometres east of the rural city of Wangaratta.\nFamily members of Mr Nugent also released a statement, saying \"all of our love and all of our thoughts are with Helen and her family and friends\".\nIn the statement, Mr Nugent's father Rod Nugent and Rod's partner Christine Cunningham said Ms Haines had been their friend for more than 20 years and Monday's events were \"devastating and unfathomable\".\n\"Helen Haines is a deeply respected, valued and much loved member of our local community,\" the statement said.\n\"We would like to sincerely thank members of the local community and police who came to Helen's aid yesterday after the shocking and horrific crime.\n\"We will be assisting Victoria Police in any way we can.\"\nLoading...",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "allegedly struck independent MP Helen Haines with his car on Monday. Detectives"
+    ],
+    [
+     "del",
+     "tonight"
+    ],
+    [
+     "ins",
+     "have"
+    ],
+    [
+     "eq",
+     "charged Mr Nugent with dangerous driving causing serious injury and intentionally causing"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "years' imprisonment. He is due to appear in the Wangaratta Magistrates' Court"
+    ],
+    [
+     "del",
+     "tomorrow."
+    ],
+    [
+     "ins",
+     "today."
+    ],
+    [
+     "eq",
+     "In a statement, Victoria Police said officers would allege the incident was"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "crime. \"We will be assisting Victoria Police in any way we can.\""
+    ],
+    [
+     "ins",
+     "Loading..."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0165,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9997,
+ "adjudicated_by": "rules"
+}

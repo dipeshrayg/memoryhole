@@ -1,0 +1,186 @@
+{
+ "id": "2dcdffdbebe4866b-3e7a6d3f-6576546f",
+ "url": "https://www.abc.net.au/news/2026-10-20/google-cloud-failure-europe-banks/107290238",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-21T11:32:33Z",
+ "date": "2026-10-21",
+ "old_title": "Breaking: Banks, websites offline as Google Cloud services fail across Europe",
+ "new_title": "European banks, websites hit as Google Cloud data centre goes offline for hours",
+ "old_text": "Google Cloud services have failed across Europe after an issue at a data centre based in London, according to the tech giant's website.\nThe issue has reportedly affected banks and other websites across the continent.\nThe Google Cloud website is not reporting serious issues in any other region and no reason for the outage has been given.\nGoogle said the incident began shortly after 6am UK time and that its engineering teams were investigating.\nBanking giant Revolut is among the institutions believed to have been affected by the outage.\n\"We are currently experiencing a service disruption affecting multiple services,\" the bank said in a statement on social media.\n\"We can confirm that all our customers' money and data are safe.\"\nAnother major British bank, Halifax, wrote on X that customers were \"having issues with our app and online\".\nCourt live streams, including that of the ongoing trial of comedian Russell Brand, were also reportedly down as a result.\n\"We're aware of an issue affecting Cloud Video Platform (CVP), used for some remote hearings,\" the UK's Courts and Tribunals Service said on X.\nBritish media outlets reported that other major companies, including Royal Mail, Microsoft and delivery company DPD were also experiencing issues.\nLoading",
+ "new_text": "In short:\nGoogle says a \"power event\" at a London data centre has disrupted cloud services across Europe.\nThe outage, which has now been largely resolved, affected banks, websites and court live streams.\nThe technology giant says it will carry out an internal investigation into what happened.\nGoogle Cloud services across Europe were disrupted for hours after a \"power event\" at a data centre based in London, according to the tech giant's website.\nThe issue reportedly affected banks and other websites across the continent, with institutions in the UK hit hardest.\nUsers reported struggling to log into their mobile banking while court live streams failed across Britain.\nThe Google Cloud website said that the incident was isolated to a data centre in London, adding that services in parts of Europe were experiencing \"elevated errors and intermittent network issues\".\n\"Due to a power event we had suffered an outage within europe-west2-b zone,\" the Google Cloud website said.\nGoogle said the incident began shortly after 6am UK time, with disruption reported well into the afternoon.\nThe tech giant said it would now carry out an internal investigation into the incident.\nBanking giant Revolut is among the institutions believed to have been affected by the outage.\n\"We are currently experiencing a service disruption affecting multiple services,\" the bank said in a statement on social media.\n\"We can confirm that all our customers' money and data are safe.\"\nAnother major British bank, Halifax, wrote on X that customers were \"having issues with our app and online\".\nBrand trial live stream affected\nThe outage affected everything from e-bike rental services to budgeting apps, British media reported.\nCourt live streams, including that of the ongoing trial of comedian Russell Brand, were also reportedly down as a result.\n\"We're aware of an issue affecting Cloud Video Platform (CVP), used for some remote hearings,\" the UK's Courts and Tribunals Service said on X.\nBritish media outlets reported that other major companies, including Royal Mail, Microsoft and delivery company DPD were also experiencing issues.\nGoogle Cloud later said on its website that the server had been restored and it would publish an analysis of the event once its internal investigation had concluded.\n\"The issue with impacted GCP products has been mitigated for most of the customers and it is believed to be affecting currently a very small number of customers and our Engineering Team is working on it.\"\nABC/wires",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "In short: Google says a \"power event\" at a London data centre has disrupted cloud services across Europe. The outage, which has now been largely resolved, affected banks, websites and court live streams. The technology giant says it will carry out an internal investigation into what happened."
+    ],
+    [
+     "eq",
+     "Google Cloud services"
+    ],
+    [
+     "del",
+     "have failed"
+    ],
+    [
+     "eq",
+     "across Europe"
+    ],
+    [
+     "ins",
+     "were disrupted for hours"
+    ],
+    [
+     "eq",
+     "after"
+    ],
+    [
+     "del",
+     "an issue"
+    ],
+    [
+     "ins",
+     "a \"power event\""
+    ],
+    [
+     "eq",
+     "at a data centre based in London, according to the tech giant's website. The issue"
+    ],
+    [
+     "del",
+     "has"
+    ],
+    [
+     "eq",
+     "reportedly affected banks and other websites across the"
+    ],
+    [
+     "del",
+     "continent."
+    ],
+    [
+     "ins",
+     "continent, with institutions in the UK hit hardest. Users reported struggling to log into their mobile banking while court live streams failed across Britain."
+    ],
+    [
+     "eq",
+     "The Google Cloud website"
+    ],
+    [
+     "del",
+     "is not reporting serious issues"
+    ],
+    [
+     "ins",
+     "said that the incident was isolated to a data centre"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "any other region"
+    ],
+    [
+     "ins",
+     "London, adding that services in parts of Europe were experiencing \"elevated errors"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "no reason for"
+    ],
+    [
+     "ins",
+     "intermittent network issues\". \"Due to a power event we had suffered an outage within europe-west2-b zone,\""
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "outage has been given."
+    ],
+    [
+     "ins",
+     "Google Cloud website said."
+    ],
+    [
+     "eq",
+     "Google said the incident began shortly after 6am UK"
+    ],
+    [
+     "del",
+     "time and that its engineering teams were investigating."
+    ],
+    [
+     "ins",
+     "time, with disruption reported well into the afternoon. The tech giant said it would now carry out an internal investigation into the incident."
+    ],
+    [
+     "eq",
+     "Banking giant Revolut is among the institutions believed to have been affected"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "on X that customers were \"having issues with our app and online\"."
+    ],
+    [
+     "ins",
+     "Brand trial live stream affected The outage affected everything from e-bike rental services to budgeting apps, British media reported."
+    ],
+    [
+     "eq",
+     "Court live streams, including that of the ongoing trial of comedian Russell"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "including Royal Mail, Microsoft and delivery company DPD were also experiencing issues."
+    ],
+    [
+     "del",
+     "Loading"
+    ],
+    [
+     "ins",
+     "Google Cloud later said on its website that the server had been restored and it would publish an analysis of the event once its internal investigation had concluded. \"The issue with impacted GCP products has been mitigated for most of the customers and it is believed to be affecting currently a very small number of customers and our Engineering Team is working on it.\" ABC/wires"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.266,
+  "numbers_changed": [
+   "2"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.397,
+ "similarity": 0.8372,
+ "adjudicated_by": "rules"
+}

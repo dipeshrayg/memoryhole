@@ -1,0 +1,444 @@
+{
+ "id": "18342e179d45debb-f8ab2220-50879657",
+ "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Technology",
+ "country": "United Kingdom",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-10-21T11:39:04Z",
+ "date": "2026-10-21",
+ "old_title": "Revolut down as thousands of users report app not working",
+ "new_title": "Google says cloud outage affecting UK banks and websites resolved",
+ "old_text": "- Published\nRevolut has been hit by an outage which it says is impacting \"multiple services\", as thousands of customers report problems.\nUsers of the British bank have flagged being unable to make some payments or access funds via its app on Tuesday morning.\nPlatform outage monitor Downdetector had seen more than 1,500 user reports of issues with Revolut services shortly after 08:00 BST.\n\"We are currently experiencing a service disruption affecting multiple services,\" a Revolut spokesperson told the BBC - adding \"we can confirm that all our customers' money and data are safe.\"\n\"We've been working to fix the issue since it was identified this morning and apologise to anyone affected and for any inconvenience caused,\" they added.\nA page on the company's website showed a range of services were \"partially unavailable\" - including card payments, transfers, ATM withdrawals and its customer support services to be having issues.\nOn social media, a number of users have criticised the company over the outage - saying it left them unable to access funds, make payments or contact customer support.\nRevolut is one of a handful of so-called \"neobanks\" that sprung up to rival traditional banks with a digital-first approach to financial services.\nAccording to its website, the bank has more than 80 million customers worldwide.\nThe company has not clarified whether the issues it was experiencing on Tuesday were affecting users globally.\nRevolut also declined to say what was causing its service issues.\nBut other popular services, including Lloyds Bank and Bank of Scotland - both owned by Lloyds Banking Group - were also reportedly experiencing some problems on Tuesday.\nA Lloyds spokesperson told the BBC its app was functioning normally, but said \"we understand some are having issues with certain online services this morning\".\n\"We are aware of similar issues affecting other organisations and are monitoring the situation closely,\" they added.\nSome have linked the issues seemingly affecting multiple sites in the UK to an incident reported by Google Cloud on Tuesday, external.\nAccording to a Google Cloud service health dashboard, it has been experiencing \"elevated errors and intermittent network failures\" at across some of its services at its UK cloud facility, europe-west2.",
+ "new_text": "- Published\nGoogle Cloud says it has resolved disruption at its UK cloud site which caused an outage affecting UK banks, businesses and the courts.\nThe company, one of a few large cloud computing firms whose infrastructure and services underpin many online platforms, reported an \"issue with multiple services\" at its London data centre complex \"europe-west2\" early on Tuesday.\nRevolut, Lloyds Bank and HSBC were among popular UK services that confirmed disruption on Tuesday morning, after thousands of reports of problems were raised by users online.\nThe tech giant apologised to those affected and thanked customers for their patience.\n\"We have resolved a disruption to Google Cloud services at a third-party facility in our europe-west2 cloud region due to a power event,\" a Google Cloud spokesperson said in a statement on Tuesday evening.\n\"Services have been restored.\"\nThey added that the company would publish an analysis of the incident on its service health dashboard, external, where it provides customers with updates about the status of its cloud services globally.\nCloud computing giants like Amazon Web Services (AWS), Microsoft Azure and Google Cloud make their services available to clients in local or regional sites around the world, which they call \"regions\", containing their data centres.\nIn updates to its service dashboard on Tuesday morning, Google Cloud had said a number of its cloud services were \"experiencing elevated errors and intermittent network failures in europe-west2 region\" - its UK cloud facility in London.\nIt later said that the issues had stemmed from a \"power event\" within one of its smaller data centre zones, europe-west2-b.\nThese seemingly affected a host of popular UK platforms and services, with customers flagging issues with sites including Royal Mail, DPD and e-bike service Forest.\nThe HM Courts and Tribunals Service also said it was aware of an issue affecting the video platform used for remote hearings.\nBanking services disrupted\nBanks appeared to be among the most badly affected, with customers reporting problems ranging from being unable to access funds abroad to struggling to complete a property purchase.\nRachael Ellen, 25, a Revolut customer from Glasgow, told BBC News she was left unable to access her money.\n\"Today I was unable to pay for my parking at a shopping centre because my Revolut account wasn't working properly,\" she told the BBC.\n\"This left me in a difficult situation as I had no way to access the money I needed at the time.\"\nShe said the outage also meant she could not view a transaction from a relative and was told by the app's help bot that there were no pending incoming transactions.\n\"It's frustrating not knowing where the payment is or when I'll receive it,\" Rachael added.\nMore than 1,500 reports of issues affecting Revolut services were flagged to platform outage monitor shortly after 08:00 BST on Tuesday.\nA spokesperson for the company said some Revolut services were disrupted earlier as a result of the Google Cloud outage.\n\"We can confirm that services are now fully restored. Our customers' money and data are safe and remained safe throughout.\n\"We apologise for any inconvenience caused.\"\nCustomers of Lloyds Bank, Halifax and Bank of Scotland - all owned by the Lloyds Banking Group - also reported issues affecting some online banking services.\nA Lloyds spokesperson did not confirm the cause of issues affecting some of its services, but told the BBC later on Tuesday \"we understand the root issues have been resolved, so we expect all our services to be back to normal soon\".\n'Incredibly frustrating'\nGuy Baybutt, who works for a family-run business The Veg Box Company also said he was \"severely affected\" by Tuesday's outage.\nBaybutt, who is from Preston, told the BBC the firm - which supplies fresh fruit, vegetables and other produce to customers across the UK - could not access its website to download and process customer orders amid the technical issues.\n\"We were also unable to book parcels onto DPD's system for collection, meaning orders that should have been dispatched today were at risk of being delayed,\" he said.\n\"To make matters worse, customers were unable to access our website to place new orders, meaning we lost valuable sales during the outage.\"\nHe said that such disruptions can have \"serious financial consequences\" for small businesses like his own.\n\"We don't have the resources of larger companies to simply absorb lost revenue, particularly when we're dealing with fresh, perishable produce that needs to reach customers promptly,\" Baybutt added.\nDependent on the cloud\nTuesday's incident came exactly one year after more than 1,000 sites, including UK banks, were knocked offline for hours during an outage at AWS' largest cloud site.\nExperts say this latest outage show how many businesses still rely on core services provided by a few large cloud operators.\n\"Google Cloud's outage is a reminder of how deeply our economies depend on just a handful of cloud providers,\" said Prof Feng Li, associate dean for research & innovation at Bayes Business School.\nHe added that it was not yet clear what caused the power problem identified by Google Cloud.\n\"Large cloud systems are complex, and failures will happen.\n\"What matters is how far they spread, how quickly services recover and whether customers have workable alternatives,\" he added.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "Revolut"
+    ],
+    [
+     "ins",
+     "Google Cloud says it"
+    ],
+    [
+     "eq",
+     "has"
+    ],
+    [
+     "del",
+     "been hit by"
+    ],
+    [
+     "ins",
+     "resolved disruption at its UK cloud site which caused"
+    ],
+    [
+     "eq",
+     "an outage"
+    ],
+    [
+     "del",
+     "which it says is impacting \"multiple services\", as"
+    ],
+    [
+     "ins",
+     "affecting UK banks, businesses and the courts. The company, one of a few large cloud computing firms whose infrastructure and services underpin many online platforms, reported an \"issue with multiple services\" at its London data centre complex \"europe-west2\" early on Tuesday. Revolut, Lloyds Bank and HSBC were among popular UK services that confirmed disruption on Tuesday morning, after"
+    ],
+    [
+     "eq",
+     "thousands of"
+    ],
+    [
+     "ins",
+     "reports of problems were raised by users online. The tech giant apologised to those affected and thanked"
+    ],
+    [
+     "eq",
+     "customers"
+    ],
+    [
+     "del",
+     "report problems. Users"
+    ],
+    [
+     "ins",
+     "for their patience. \"We have resolved a disruption to Google Cloud services at a third-party facility in our europe-west2 cloud region due to a power event,\" a Google Cloud spokesperson said in a statement on Tuesday evening. \"Services have been restored.\" They added that the company would publish an analysis"
+    ],
+    [
+     "eq",
+     "of the"
+    ],
+    [
+     "del",
+     "British bank have flagged"
+    ],
+    [
+     "ins",
+     "incident on its service health dashboard, external, where it provides customers with updates about the status of its cloud services globally. Cloud computing giants like Amazon Web Services (AWS), Microsoft Azure and Google Cloud make their services available to clients in local or regional sites around the world, which they call \"regions\", containing their data centres. In updates to its service dashboard on Tuesday morning, Google Cloud had said a number of its cloud services were \"experiencing elevated errors and intermittent network failures in europe-west2 region\" - its UK cloud facility in London. It later said that the issues had stemmed from a \"power event\" within one of its smaller data centre zones, europe-west2-b. These seemingly affected a host of popular UK platforms and services, with customers flagging issues with sites including Royal Mail, DPD and e-bike service Forest. The HM Courts and Tribunals Service also said it was aware of an issue affecting the video platform used for remote hearings. Banking services disrupted Banks appeared to be among the most badly affected, with customers reporting problems ranging from"
+    ],
+    [
+     "eq",
+     "being unable to"
+    ],
+    [
+     "del",
+     "make some payments or"
+    ],
+    [
+     "eq",
+     "access funds"
+    ],
+    [
+     "del",
+     "via its app on Tuesday morning. Platform"
+    ],
+    [
+     "ins",
+     "abroad to struggling to complete a property purchase. Rachael Ellen, 25, a Revolut customer from Glasgow, told BBC News she was left unable to access her money. \"Today I was unable to pay for my parking at a shopping centre because my Revolut account wasn't working properly,\" she told the BBC. \"This left me in a difficult situation as I had no way to access the money I needed at the time.\" She said the"
+    ],
+    [
+     "eq",
+     "outage"
+    ],
+    [
+     "del",
+     "monitor Downdetector had seen more"
+    ],
+    [
+     "ins",
+     "also meant she could not view a transaction from a relative and was told by the app's help bot that there were no pending incoming transactions. \"It's frustrating not knowing where the payment is or when I'll receive it,\" Rachael added. More"
+    ],
+    [
+     "eq",
+     "than 1,500"
+    ],
+    [
+     "del",
+     "user"
+    ],
+    [
+     "eq",
+     "reports of issues"
+    ],
+    [
+     "del",
+     "with"
+    ],
+    [
+     "ins",
+     "affecting"
+    ],
+    [
+     "eq",
+     "Revolut services"
+    ],
+    [
+     "ins",
+     "were flagged to platform outage monitor"
+    ],
+    [
+     "eq",
+     "shortly after 08:00"
+    ],
+    [
+     "del",
+     "BST."
+    ],
+    [
+     "ins",
+     "BST on Tuesday. A spokesperson for the company said some Revolut services were disrupted earlier as a result of the Google Cloud outage."
+    ],
+    [
+     "eq",
+     "\"We"
+    ],
+    [
+     "del",
+     "are currently experiencing a service disruption affecting multiple services,\" a Revolut spokesperson told the BBC - adding \"we"
+    ],
+    [
+     "eq",
+     "can confirm that"
+    ],
+    [
+     "del",
+     "all our"
+    ],
+    [
+     "ins",
+     "services are now fully restored. Our"
+    ],
+    [
+     "eq",
+     "customers' money and data are"
+    ],
+    [
+     "del",
+     "safe.\" \"We've been working to fix the issue since it was identified this morning"
+    ],
+    [
+     "ins",
+     "safe"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "ins",
+     "remained safe throughout. \"We"
+    ],
+    [
+     "eq",
+     "apologise"
+    ],
+    [
+     "del",
+     "to anyone affected and"
+    ],
+    [
+     "eq",
+     "for any inconvenience"
+    ],
+    [
+     "del",
+     "caused,\" they added. A page on the company's website showed a range"
+    ],
+    [
+     "ins",
+     "caused.\" Customers"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "services were \"partially unavailable\" - including card payments, transfers, ATM withdrawals and its customer support services to be having issues. On social media, a number of users have criticised the company over the outage - saying it left them unable to access funds, make payments or contact customer support. Revolut is one of a handful of so-called \"neobanks\" that sprung up to rival traditional banks with a digital-first approach to financial services. According to its website, the bank has more than 80 million customers worldwide. The company has not clarified whether the issues it was experiencing on Tuesday were affecting users globally. Revolut also declined to say what was causing its service issues. But other popular services, including"
+    ],
+    [
+     "eq",
+     "Lloyds"
+    ],
+    [
+     "del",
+     "Bank"
+    ],
+    [
+     "ins",
+     "Bank, Halifax"
+    ],
+    [
+     "eq",
+     "and Bank of Scotland -"
+    ],
+    [
+     "del",
+     "both"
+    ],
+    [
+     "ins",
+     "all"
+    ],
+    [
+     "eq",
+     "owned by"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "Lloyds Banking Group -"
+    ],
+    [
+     "del",
+     "were"
+    ],
+    [
+     "eq",
+     "also"
+    ],
+    [
+     "del",
+     "reportedly experiencing"
+    ],
+    [
+     "ins",
+     "reported issues affecting"
+    ],
+    [
+     "eq",
+     "some"
+    ],
+    [
+     "del",
+     "problems on Tuesday."
+    ],
+    [
+     "ins",
+     "online banking services."
+    ],
+    [
+     "eq",
+     "A Lloyds spokesperson"
+    ],
+    [
+     "ins",
+     "did not confirm the cause of issues affecting some of its services, but"
+    ],
+    [
+     "eq",
+     "told the BBC"
+    ],
+    [
+     "del",
+     "its app was functioning normally, but said"
+    ],
+    [
+     "ins",
+     "later on Tuesday"
+    ],
+    [
+     "eq",
+     "\"we understand"
+    ],
+    [
+     "del",
+     "some are having"
+    ],
+    [
+     "ins",
+     "the root"
+    ],
+    [
+     "eq",
+     "issues"
+    ],
+    [
+     "del",
+     "with certain online"
+    ],
+    [
+     "ins",
+     "have been resolved, so we expect all our"
+    ],
+    [
+     "eq",
+     "services"
+    ],
+    [
+     "del",
+     "this morning\". \"We are aware of similar issues affecting"
+    ],
+    [
+     "ins",
+     "to be back to normal soon\". 'Incredibly frustrating' Guy Baybutt, who works for a family-run business The Veg Box Company also said he was \"severely affected\" by Tuesday's outage. Baybutt, who is from Preston, told the BBC the firm - which supplies fresh fruit, vegetables and"
+    ],
+    [
+     "eq",
+     "other"
+    ],
+    [
+     "del",
+     "organisations and are monitoring the situation closely,\" they added. Some have linked the issues seemingly affecting multiple sites in"
+    ],
+    [
+     "ins",
+     "produce to customers across"
+    ],
+    [
+     "eq",
+     "the UK"
+    ],
+    [
+     "ins",
+     "- could not access its website"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "ins",
+     "download and process customer orders amid the technical issues. \"We were also unable to book parcels onto DPD's system for collection, meaning orders that should have been dispatched today were at risk of being delayed,\" he said. \"To make matters worse, customers were unable to access our website to place new orders, meaning we lost valuable sales during the outage.\" He said that such disruptions can have \"serious financial consequences\" for small businesses like his own. \"We don't have the resources of larger companies to simply absorb lost revenue, particularly when we're dealing with fresh, perishable produce that needs to reach customers promptly,\" Baybutt added. Dependent on the cloud Tuesday's incident came exactly one year after more than 1,000 sites, including UK banks, were knocked offline for hours during"
+    ],
+    [
+     "eq",
+     "an"
+    ],
+    [
+     "del",
+     "incident reported"
+    ],
+    [
+     "ins",
+     "outage at AWS' largest cloud site. Experts say this latest outage show how many businesses still rely on core services provided by a few large cloud operators. \"Google Cloud's outage is a reminder of how deeply our economies depend on just a handful of cloud providers,\" said Prof Feng Li, associate dean for research & innovation at Bayes Business School. He added that it was not yet clear what caused the power problem identified"
+    ],
+    [
+     "eq",
+     "by Google"
+    ],
+    [
+     "del",
+     "Cloud on Tuesday, external. According to a Google Cloud service health dashboard, it has been experiencing \"elevated errors"
+    ],
+    [
+     "ins",
+     "Cloud. \"Large cloud systems are complex,"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "intermittent network failures\" at across some of its"
+    ],
+    [
+     "ins",
+     "failures will happen. \"What matters is how far they spread, how quickly"
+    ],
+    [
+     "eq",
+     "services"
+    ],
+    [
+     "del",
+     "at its UK cloud facility, europe-west2."
+    ],
+    [
+     "ins",
+     "recover and whether customers have workable alternatives,\" he added."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 2.9972,
+  "numbers_changed": [
+   "1,000",
+   "25",
+   "80"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 6,
+  "blocks_added": 8,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.6,
+ "similarity": 0.5461,
+ "adjudicated_by": "rules"
+}

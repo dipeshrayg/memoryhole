@@ -1,0 +1,52 @@
+{
+ "id": "8e73fa78cbcaea42-5ac8560a-0e482282",
+ "url": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-21T11:28:14Z",
+ "date": "2026-10-21",
+ "old_title": "UK weather: Storm Austen named by Met Office as yellow wind warning issued",
+ "new_title": "Storm Austen named by Met Office as yellow wind warning issued",
+ "old_text": "- Published\nThe first named storm of the autumn - Storm Austen - is set to batter parts of the UK with severe gales and heavy rain beginning from Thursday night.\nAhead of the storm, the Met Office has issued a yellow severe weather warning for wind, which will come into force at midnight Friday.\nDamage to buildings and transport disruption is likely, with the possibility for power cuts.\nWhile Storm Austen will move away later on Friday, another deep area of low pressure will bring more wet and windy weather on Saturday.\nOver the next few days there willl be heavy rain across the UK, along with strengthening winds on Wednesday around west Wales and southern England.\nBut, it is from late on Thursday where a rapidly deepening area of low pressure - named Storm Austen by the Met Office - starts to approach from the Atlantic.\nHeavy rain will move in across England and Wales through Thursday night accompanied by strengthening winds.\nA Met Office yellow wind warning will be in force from midnight on Friday to 12:00 BST and covers south Wales, south-west England and along southern coastal counties of England.\nWind gusts of up to 70mph are expected which will likely bring damage to buildings, travel disruption and the risk of power cuts.\nMore widely gusts of 50-60mph will be felt around west Wales and through southern England.\nWhile the strongest winds will ease from the south-west later on Friday morning, the rest of England and Wales will stay blustery with heavy rain at times through the day.\nScotland and Northern Ireland will largely miss any of the impacts caused by Storm Austen.\nWet and windy weekend\nStorm Austen will clear away into the North Sea later on Friday and while there will be a quiet spell with clear skies overnight into Saturday, another area of low pressure will move in for the start of the weekend.\nThis deep area of low pressure - not expected to be as severe as Austen and therefore unlikely to be named - will head towards Scotland.\nGusts of 70-80mph will affect western Scotland with delays or cancellations to ferries and restrictions on bridges.\nIt will turn windy elsewhere across the UK throughout Saturday with heavy rain spreading east for most of us.\nSunday will turn drier but it will remain very wind, particularly towards the north east of Scotland.",
+ "new_text": "- Published\nThe first named storm of the autumn - Storm Austen - is set to batter parts of the UK with severe gales and heavy rain beginning from Thursday night.\nAhead of the storm, the Met Office has issued a yellow severe weather warning for wind, which will come into force at midnight Friday.\nDamage to buildings and transport disruption is likely, with the possibility for power cuts.\nWhile Storm Austen will move away later on Friday, another deep area of low pressure will bring more wet and windy weather on Saturday.\nOver the next few days there willl be heavy rain across the UK, along with strengthening winds on Wednesday around west Wales and southern England.\nBut, it is from late on Thursday where a rapidly deepening area of low pressure - named Storm Austen by the Met Office - starts to approach from the Atlantic.\nHeavy rain will move in across England and Wales through Thursday night accompanied by strengthening winds.\nA Met Office yellow wind warning will be in force from midnight on Friday to 12:00 BST and covers south Wales, south-west England and along southern coastal counties of England.\nWind gusts of up to 70mph are expected which will likely bring damage to buildings, travel disruption and the risk of power cuts.\nMore widely gusts of 50-60mph will be felt around west Wales and through southern England.\nWhile the strongest winds will ease from the south-west later on Friday morning, the rest of England and Wales will stay blustery with heavy rain at times through the day.\nScotland and Northern Ireland will largely miss any of the impacts caused by Storm Austen.\nWet and windy weekend\nStorm Austen will clear away into the North Sea later on Friday and while there will be a quiet spell with clear skies overnight into Saturday, another area of low pressure will move in for the start of the weekend.\nThis deep area of low pressure - not expected to be as severe as Austen and therefore unlikely to be named - will head towards Scotland.\nGusts of 70-80mph will affect western Scotland with delays or cancellations to ferries and restrictions on bridges.\nIt will turn windy elsewhere across the UK throughout Saturday with heavy rain spreading east for most of us.\nSunday will turn drier but it will remain very windy, particularly towards the north east of Scotland.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "most of us. Sunday will turn drier but it will remain very"
+    ],
+    [
+     "del",
+     "wind,"
+    ],
+    [
+     "ins",
+     "windy,"
+    ],
+    [
+     "eq",
+     "particularly towards the north east of Scotland."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.005,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

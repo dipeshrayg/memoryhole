@@ -1,0 +1,52 @@
+{
+ "id": "e346a700b30175d4-becdb227-ac2d356f",
+ "url": "https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-10-21T11:38:03Z",
+ "date": "2026-10-21",
+ "old_title": "Billionaire Mukesh Ambani launches India's biggest-ever IPO",
+ "new_title": "Billionaire Mukesh Ambani launches India's biggest-ever IPO",
+ "old_text": "India's second-richest man, Mukesh Ambani, is launching what could be the country's biggest-ever initial public offering (IPO), despite a stock market downturn.\nMumbai-based Jio Platforms, a telecoms company backed by Meta Platforms and Google, is hoping to raise up to 302bn rupees (£2.4bn) and is targeting a 10.3tn rupeesvaluation when it floats on the stock market from Wednesday.\nSet up a decade ago as a subsidiary of Ambani's conglomerate Reliance Industries, and led by Akash Ambani, the oldest son of patriarch Mukesh, Jio offers low-cost broadband to millions of Indians.\nJio secured 212 anchor investors on Monday before its blockbuster IPO. They include some of the world's largest fund managers, such as: BlackRock; Singapore's sovereign wealth fund; the Abu Dhabi Investment Authority; Fidelity Investments; Schroders; JP Morgan Asset Management; Franklin Templeton; Invesco; and Prudential.\nOn Wednesday, shares will be offered to retail investors, and the IPO is set to close on Friday.\nReliance Industries said in a stock exchange filing last week that Jio had set a price range of 1,065 rupees to 1,119 rupees a share for its maiden share sale, offering up to 270m new shares.\nThe family-owned conglomerate has been encouraging its 400,000-plus employees to buy shares, offering them a discount of 54 rupees a share.\nAt the top end of the price range, Jio would be worth 10.3tn rupees, which would make it India's fourth-largest company, behind its parent Reliance Industries, Bharti Airtel and HDFC Bank. It would be more than twice as much as the 4.9tn-rupee valuation in 2020, when Meta and Google invested in the company.\nHowever, the top valuation is far below initial expectations of more than £110bn when the telecoms group posted a draft prospectus in the summer.\nIt comes amid a broader stock market slowdown in India, with the blue chip Nifty 5o index down more than 12% this year.\nJio launched its telecoms services in September 2016. It gained 16 million subscribers in the first month, and topped 100 million subscribers within 170 days, according to Reliance Industries. It is credited with making mobile internet more affordable, by triggering a price war. The company intends to expand further into artificial intelligence, cloud computing and digital infrastructure.\nIsha Ambani, who sits on Jio's board as a director, told investors last week that the business idea was spawned by the poor connectivity she and her brother Akash faced when they returned to India on a break from studying in the US in about 2009-10. She struggled to submit a college assignment online because the internet was not working.\n\"What followed was a conversation about why should India be left behind,\" she said. \"Akash firmly believed that the answer and solution to this was creating a digital technology platform company.\"",
+ "new_text": "India's second-richest man, Mukesh Ambani, is launching what could be the country's biggest-ever initial public offering (IPO), despite a stock market downturn.\nMumbai-based Jio Platforms, a telecoms company backed by Meta Platforms and Google, is hoping to raise up to 302bn rupees (£2.4bn) and is targeting a 10.3tn rupees valuation when it floats on the stock market from Wednesday.\nSet up a decade ago as a subsidiary of Ambani's conglomerate Reliance Industries, and led by Akash Ambani, the oldest son of patriarch Mukesh, Jio offers low-cost broadband to millions of Indians.\nJio secured 212 anchor investors on Monday before its blockbuster IPO. They include some of the world's largest fund managers, such as: BlackRock; Singapore's sovereign wealth fund; the Abu Dhabi Investment Authority; Fidelity Investments; Schroders; JP Morgan Asset Management; Franklin Templeton; Invesco; and Prudential.\nOn Wednesday, shares will be offered to retail investors, and the IPO is set to close on Friday.\nReliance Industries said in a stock exchange filing last week that Jio had set a price range of 1,065 rupees to 1,119 rupees a share for its maiden share sale, offering up to 270m new shares.\nThe family-owned conglomerate has been encouraging its 400,000-plus employees to buy shares, offering them a discount of 54 rupees a share.\nAt the top end of the price range, Jio would be worth 10.3tn rupees, which would make it India's fourth-largest company, behind its parent Reliance Industries, Bharti Airtel and HDFC Bank. It would be more than twice as much as the 4.9tn-rupee valuation in 2020, when Meta and Google invested in the company.\nHowever, the top valuation is far below initial expectations of more than £110bn when the telecoms group posted a draft prospectus in the summer.\nIt comes amid a broader stock market slowdown in India, with the blue chip Nifty 5o index down more than 12% this year.\nJio launched its telecoms services in September 2016. It gained 16 million subscribers in the first month, and topped 100 million subscribers within 170 days, according to Reliance Industries. It is credited with making mobile internet more affordable, by triggering a price war. The company intends to expand further into artificial intelligence, cloud computing and digital infrastructure.\nIsha Ambani, who sits on Jio's board as a director, told investors last week that the business idea was spawned by the poor connectivity she and her brother Akash faced when they returned to India on a break from studying in the US in about 2009-10. She struggled to submit a college assignment online because the internet was not working.\n\"What followed was a conversation about why should India be left behind,\" she said. \"Akash firmly believed that the answer and solution to this was creating a digital technology platform company.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "to raise up to 302bn rupees (£2.4bn) and is targeting a 10.3tn"
+    ],
+    [
+     "del",
+     "rupeesvaluation"
+    ],
+    [
+     "ins",
+     "rupees valuation"
+    ],
+    [
+     "eq",
+     "when it floats on the stock market from Wednesday. Set up a"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0066,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}
