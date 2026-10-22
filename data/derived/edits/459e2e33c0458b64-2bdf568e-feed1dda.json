@@ -1,0 +1,99 @@
+{
+ "id": "459e2e33c0458b64-2bdf568e-feed1dda",
+ "url": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-22T11:40:50Z",
+ "date": "2026-10-22",
+ "old_title": "South Africa v Australia - Cricket - BBC Sport",
+ "new_title": "South Africa v Australia - Cricket - BBC Sport",
+ "old_text": "South Africa vs Australia\nSun 18 Oct 2026 - Thu 22 Oct 2026,Men's International Test Match Series - 2nd Test - Day 4 of 5\nSouth Africa vs Australia, in play\nAustralia trail South Africa by 326 runs\nSouth Africa innings:\n- 425 for 9 declared from 127.1 overs\nAustralia innings:\n- 99 all out from 42.3 overs\nTeam Lineups\nhome team, South Africa\nStarting lineup\n- Aiden Markram\n- Marques Ackerman\n- David Bedingham\n- Temba Bavuma , Captain\n- Matthew Breetzke\n- Ryan Rickelton , Wicket Keeper\n- Wiaan Mulder\n- Marco Jansen\n- Simon Harmer\n- Kagiso Rabada\n- Anrich Nortje\naway team, Australia\nStarting lineup\n- Nic Maddinson\n- Travis Head\n- Scott Boland\n- Marnus Labuschagne\n- Steve Smith\n- Matt Renshaw\n- Alex Carey , Wicket Keeper\n- Beau Webster\n- Pat Cummins , Captain\n- Mitchell Starc\n- Josh Hazlewood\nhome team, South Africa\nStarting lineup\n- Aiden Markram\n- Marques Ackerman\n- David Bedingham\n- Temba Bavuma , Captain\n- Matthew Breetzke\n- Ryan Rickelton , Wicket Keeper\n- Wiaan Mulder\n- Marco Jansen\n- Simon Harmer\n- Kagiso Rabada\n- Anrich Nortje\naway team, Australia\nStarting lineup\n- Nic Maddinson\n- Travis Head\n- Scott Boland\n- Marnus Labuschagne\n- Steve Smith\n- Matt Renshaw\n- Alex Carey , Wicket Keeper\n- Beau Webster\n- Pat Cummins , Captain\n- Mitchell Starc\n- Josh Hazlewood\n- Start Time:\n- 09:00\n- Toss:\n- Australia won the toss and decided to field\n- Venue:\n- Dafabet St George's Park, Gqeberha\n- Officials:\n- Richard Illingworth, Arno Jacobs, Richard Kettleborough, Javagal Srinath, Evan van der Merwe\nPlease note: All times are UK. Some content is provided by third parties, is subject to change, and is unverified.",
+ "new_text": "South Africa vs Australia\nSun 18 Oct 2026 - Thu 22 Oct 2026,Men's International Test Match Series - 2nd Test - Day 5 of 5\nSouth Africa vs Australia (batting), in play\nAustralia trail South Africa by 109 runs with 5 wickets remaining\nSouth Africa innings:\n- 425 for 9 declared from 127.1 overs\nAustralia innings:\n- 99 all out from 42.3 overs\n- 217 for 5 from 78.2 overs, in play\nTeam Lineups\nhome team, South Africa\nStarting lineup\n- Aiden Markram\n- Marques Ackerman\n- David Bedingham\n- Temba Bavuma , Captain\n- Matthew Breetzke\n- Ryan Rickelton , Wicket Keeper\n- Wiaan Mulder\n- Marco Jansen\n- Simon Harmer\n- Kagiso Rabada\n- Anrich Nortje\naway team, Australia\nStarting lineup\n- Nic Maddinson\n- Travis Head\n- Scott Boland\n- Marnus Labuschagne\n- Steve Smith\n- Matt Renshaw\n- Alex Carey , Wicket Keeper\n- Beau Webster\n- Pat Cummins , Captain\n- Mitchell Starc\n- Josh Hazlewood\nhome team, South Africa\nStarting lineup\n- Aiden Markram\n- Marques Ackerman\n- David Bedingham\n- Temba Bavuma , Captain\n- Matthew Breetzke\n- Ryan Rickelton , Wicket Keeper\n- Wiaan Mulder\n- Marco Jansen\n- Simon Harmer\n- Kagiso Rabada\n- Anrich Nortje\naway team, Australia\nStarting lineup\n- Nic Maddinson\n- Travis Head\n- Scott Boland\n- Marnus Labuschagne\n- Steve Smith\n- Matt Renshaw\n- Alex Carey , Wicket Keeper\n- Beau Webster\n- Pat Cummins , Captain\n- Mitchell Starc\n- Josh Hazlewood\n- Start Time:\n- 09:00\n- Toss:\n- Australia won the toss and decided to field\n- Venue:\n- Dafabet St George's Park, Gqeberha\n- Officials:\n- Richard Illingworth, Arno Jacobs, Richard Kettleborough, Javagal Srinath, Evan van der Merwe\nPlease note: All times are UK. Some content is provided by third parties, is subject to change, and is unverified.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "22 Oct 2026,Men's International Test Match Series - 2nd Test - Day"
+    ],
+    [
+     "del",
+     "4"
+    ],
+    [
+     "ins",
+     "5"
+    ],
+    [
+     "eq",
+     "of 5 South Africa vs"
+    ],
+    [
+     "del",
+     "Australia,"
+    ],
+    [
+     "ins",
+     "Australia (batting),"
+    ],
+    [
+     "eq",
+     "in play Australia trail South Africa by"
+    ],
+    [
+     "del",
+     "326"
+    ],
+    [
+     "ins",
+     "109"
+    ],
+    [
+     "eq",
+     "runs"
+    ],
+    [
+     "ins",
+     "with 5 wickets remaining"
+    ],
+    [
+     "eq",
+     "South Africa innings: - 425 for 9 declared from 127.1 overs Australia innings: - 99 all out from 42.3 overs"
+    ],
+    [
+     "ins",
+     "- 217 for 5 from 78.2 overs, in play"
+    ],
+    [
+     "eq",
+     "Team Lineups home team, South Africa Starting lineup - Aiden Markram -"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0683,
+  "numbers_changed": [
+   "109",
+   "217",
+   "326",
+   "4",
+   "5",
+   "78.2"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9909,
+ "adjudicated_by": "rules"
+}

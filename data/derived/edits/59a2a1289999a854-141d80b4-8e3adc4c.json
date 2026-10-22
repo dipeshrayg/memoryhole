@@ -1,0 +1,95 @@
+{
+ "id": "59a2a1289999a854-141d80b4-8e3adc4c",
+ "url": "https://www.abc.net.au/news/2026-10-21/man-charged-alice-springs-fatal-alleged-hit-and-run/107294162",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-22T11:33:06Z",
+ "date": "2026-10-22",
+ "old_title": "18yo charged over alleged Alice Springs hit-and-run that left man dead",
+ "new_title": "20yo charged over alleged Alice Springs hit-and-run that left man dead",
+ "old_text": "Police have charged an 18-year-old man with dangerous driving causing death five months after an alleged hit-and-run that killed a 57-year-old man in Alice Springs.\nIn a statement this afternoon, an NT Police spokesperson said the man was arrested at Alice Springs police station today. He was also charged with hit-and-run \"and multiple other offences relating to the fatal crash\".\nPolice have previously said the 57-year-old was found unresponsive on Len Kittle Drive at about 9:30pm on May 20 and was \"believed to have suffered head injuries consistent with a vehicle strike\".\n\"The 57-year-old male victim received catastrophic injuries and died at the scene,\"\nthe spokesperson said.\nA week later, police announced a taskforce had been formed to investigate the man's death involving major crash and regional crime detectives after he was captured on dash cam footage walking south near the BMX track.\n\"It is believed he was struck and killed by a vehicle about 350 metres south of this location, near the Men's Shed building at Blatherskite Park,\" the spokesperson said at the time.\nIn the statement today, the spokesperson said the investigation had involved \"a coordinated effort by specialist police units from across the Northern Territory\".\n\"Police acknowledge and appreciate everyone who came forward and assisted investigators,\" they said.\nThe 18-year-old man has been remanded in custody to appear in the Alice Springs Local Court tomorrow.",
+ "new_text": "Police have charged an 20-year-old man with dangerous driving causing death five months after an alleged hit-and-run that killed a 57-year-old man in Alice Springs.\nIn a statement this afternoon, an NT Police spokesperson said the man was arrested at Alice Springs police station today. He was also charged with hit-and-run \"and multiple other offences relating to the fatal crash\".\nPolice have previously said the 57-year-old was found unresponsive on Len Kittle Drive at about 9:30pm on May 20 and was \"believed to have suffered head injuries consistent with a vehicle strike\".\n\"The 57-year-old male victim received catastrophic injuries and died at the scene,\"\nthe spokesperson said.\nA week later, police announced a task force had been formed to investigate the man's death involving major crash and regional crime detectives after he was captured on dash cam footage walking south near the BMX track.\n\"It is believed he was struck and killed by a vehicle about 350 metres south of this location, near the Men's Shed building at Blatherskite Park,\" the spokesperson said at the time.\nIn the statement today, the spokesperson said the investigation had involved \"a coordinated effort by specialist police units from across the Northern Territory\".\n\"Police acknowledge and appreciate everyone who came forward and assisted investigators,\" they said.\nThe 20-year-old man has been remanded in custody to appear in the Alice Springs Local Court tomorrow.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Police have charged an"
+    ],
+    [
+     "del",
+     "18-year-old"
+    ],
+    [
+     "ins",
+     "20-year-old"
+    ],
+    [
+     "eq",
+     "man with dangerous driving causing death five months after an alleged hit-and-run"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "at the scene,\" the spokesperson said. A week later, police announced a"
+    ],
+    [
+     "del",
+     "taskforce"
+    ],
+    [
+     "ins",
+     "task force"
+    ],
+    [
+     "eq",
+     "had been formed to investigate the man's death involving major crash and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and appreciate everyone who came forward and assisted investigators,\" they said. The"
+    ],
+    [
+     "del",
+     "18-year-old"
+    ],
+    [
+     "ins",
+     "20-year-old"
+    ],
+    [
+     "eq",
+     "man has been remanded in custody to appear in the Alice Springs Local Court tomorrow."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0307,
+  "numbers_changed": [
+   "18",
+   "20"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9968,
+ "adjudicated_by": "rules"
+}

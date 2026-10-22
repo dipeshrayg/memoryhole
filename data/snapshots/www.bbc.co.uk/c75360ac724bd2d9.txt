@@ -1,0 +1,65 @@
+- Published
+For more than a decade, serious flaws had gone undetected in the technology underpinning much of the internet.
+It took AI to bring them to light and caused a global cyber-security alert.
+The vulnerabilities lie within a programming language called PHP, which has been used internationally since the 2000s to build websites.
+Governments and cyber-security agencies around the world are scrambling to contain the fallout of the discovery on Wednesday, and have urged website operators to install a new emergency fix or consider taking their platforms offline.
+Cyber-security firm Wiz - one of the companies whose researchers uncovered the vulnerabilities - described the flaws as the "most severe" ever detected by AI.
+OpenAI, whose technology was used to find the flaws, called the discovery "one of the most impactful security issues in recent memory".
+What is PHP?
+Most people may not have heard of PHP, but they probably interact with it daily.
+It stands for PHP: Hypertext Preprocessor, an open-source, back-end programming language which runs on a web server.
+Developed in the early 1990s to help serve dynamic web pages and applications, PHP still powers lots of platforms today, including Wikipedia, online shops and WordPress â the system behind many websites.
+When you visit a site, PHP is the code which collects data and effectively turns it into a page you can read.
+It has also been used to write a number of tools for building or speeding up the creation of web apps, with Laravel, Symfony and Drupal among popular PHP frameworks.
+According to cyber-security firm Wiz, which helped uncover the critical PHP vulnerabilities surfaced this week, PHP powers 70% of the world's websites.
+It is maintained by a non-profit called the PHP Foundation, external, composed of individuals and companies which depend on the language and aim to ensure its "long-term prosperity".
+What is the vulnerability?
+A group of cyber-security researchers and organisations disclosed two vulnerabilities within PHP this week, which they warned could have the potential to upend sites across the internet.
+Cyber firms Wiz and Calif said the flaws â coined "php2shell" - were inherent in the language itself, with versions of PHP released over the last decade affected.
+Ryan Austin, a Calif researcher who helped uncover the security issues, told the BBC it was "the most serious vulnerability I've ever found".
+Wiz wrote in a blog post, external about its findings that, under the right conditions, hackers could exploit the php2shell issue to take control of affected web servers and steal sensitive data - saying everything built on PHP was left exposed.
+AI could also make such attacks easier and faster, Paul Spain, chief executive of Gorilla Cyber Security, told the BBC.
+He estimated the flaw could affect "millions and millions" of websites.
+Jill Slay, a cyber-security researcher at the University of Adelaide, said it would be "disastrous" if hackers or countries weaponised the flaw and seized private data from websites.
+What websites have been affected?
+The alert has disrupted services globally, from gaming platforms to government portals and online forums.
+That includes Wikimedia - the organisation behind the online encyclopaedia Wikipedia - which took down a number of its systems as a precautionary measure.
+Sites and pages have been taken offline by the Finnish government, Edinburgh council and the BBC, with the Netherlands' cyber-security agency also pulling its website.
+A number of Scotland's public organisations, including councils and health boards, have also taken their websites offline.
+Some experts warn the vulnerability could leave poorly maintained websites, particularly those belonging to smaller organisations with limited security resources, at greater risk.
+More attempts to exploit these flaws are likely in the coming weeks since the technical details are now being made public, cyber-security researcher Salil Kanhere from UNSW Sydney said.
+What happened after the flaws were exposed?
+The PHP Foundation rolled out patches on Wednesday to fix the vulnerabilities that had been lurking in their software for years.
+"All PHP users are strongly encouraged to update immediately," the company said.
+Authorities and security organisations around the world have echoed those warnings to website operators to secure their platforms.
+The US National Security Agency told all organisations that use PHP to take their systems offline if they were unable to patch them immediately, adding that the flaw could provide a "direct path" to exploit a system's database.
+"These risks are serious enough to require immediate patching across United States Government departments and agencies," the agency said.
+The UK's National Cyber Security Centre gave similar advice and told organisations to check for "backdoors installed by an attacker".
+Its counterparts in the EU, Singapore and Australia have also issued similar alerts.
+Japanese Prime Minister Sanae Takaichi urged people to check if their publicly available websites ran on PHP.
+"We have an urgent request for everyone to take action tonight," Takaichi wrote on X.
+"If it is difficult to apply the fix patch promptly, temporarily suspending websites and similar measures can be considered an effective way to reduce risk," she said.
+Tech companies have also sought to quickly secure their systems.
+E-commerce giant Amazon said it was targeted in multiple attempts days before the public disclosure of the PHP issue, but its websites were operating as normal.
+Matthew Prince, the boss of internet infrastructure firm Cloudflare, also said it had seen "thousands" of attempts to exploit the PHP vulnerabilities across its network in the 10 hours before it was publicly announced.
+"That jumped to tens of thousands in the 45 minutes post announcement, hundreds of thousands within two hours, and millions now," he wrote on X, external.
+How was AI involved?
+Researchers at Calif and Wiz who located the vulnerabilities used advanced AI tools which can analyse code and find flaws much faster than humans or older systems.
+"Modern software is incredibly complex, and some vulnerabilities can remain undetected for years," Kanhere said.
+"The underlying bugs weren't new; what changed was our ability to find them," Kanhere said.
+Details of the discovery leaked online this week, forcing the PHP platform's developers to rush out its announcement of the security flaw and its huge scale.
+The incident "highlights how AI can uncover security flaws" but also how it can "help attackers rapidly develop offensive tools and exploits," OpenAI said in a blog post.
+The ChatGPT-maker said it had released a program to check if the PHP platform is secure.
+"Many of these flaws stem from the way software were built in the past, which were built for functionality and not with security in mind," said Ryan Ko, at the University of Queensland's Cyber Research Centre.
+What does it mean for you?
+The issue affects back-end website and web development processes that will be invisible to many users - meaning most people won't need to take any action.
+But small businesses with sites, including those built using WordPress, may be wondering how to protect themselves.
+Those who own websites or manage infrastructure running PHP have been urged to secure their websites by updating to the latest version.
+Ethical hacker Ken Munro, who has spent years finding security flaws in computer systems, says installing the fixes - known as patching - is "a bit like running a Windows update".
+If a hosting company or web developer manages your website, contact them and ask whether the PHP security fixes have been applied - something that must be applied to PHP itself and cannot be resolved by updating WordPress or its plugins.
+If you look after your website yourself, Munro says "it is your own responsibility to make sure fixes are applied".
+The UK's National Cyber Security Centre recommends, external considering temporarily taking sites offline if updates or temporary protections cannot be applied quickly enough.
+The US National Security Agency has also urged "heightened awareness" in the coming weeks, telling people to closely monitor updates from software vendors.
+"Vigilance in applying patches related to those systems is paramount," it said, external.
+And while the onus lies mainly on website operators, users should stay alert for any security advice issued by affected services, such as requests to change passwords, Kanhere said.
+He warned people to be alert to any phishing messages exploiting the publicity around the incident too.

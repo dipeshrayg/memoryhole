@@ -1,0 +1,52 @@
+{
+ "id": "a4ac5e935470c785-7f5833f5-bcd9798a",
+ "url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-10-22T11:45:12Z",
+ "date": "2026-10-22",
+ "old_title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+ "new_title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+ "old_text": "We haven't heard many details about Microsoft's upcoming \"Project Helix\" gaming hardware since the company announced it in March as a device that will \"play your Xbox and PC games.\" In a new wide-ranging profile of Xbox CEO Asha Sharma, though, Fortune alludes to a dual release strategy for upcoming Microsoft gaming hardware, with \"a next-generation handheld device\" planned by the end of next year and a 2028 holiday season console release that could cost between $1,200 and $1,800.\nThat future console price range is based on what has \"internally been projected\" at the company, according to Fortune. But the price for consumers could come down if \"Microsoft decides to subsidize the cost,\" the outlet says, as many console makers have done in the past.\nWhile a $1,200 starting price would be historically high for the game console market, even accounting for inflation, it also reflects a new normal: The slowdown in Moore's Law and AI-driven component shortages mean cutting-edge gaming hardware just isn't as cheap as it used to be. This year, the Steam Machine broke the $1,000 starting price, while the 2-year-old technology in the PlayStation 5 Pro is now going for $900, and the 6-year-old Xbox Series X now starts at $750.\nInternal clashes and sell-off rumors\nFortune also reports that Microsoft is beset by internal clashes over whether its upcoming Helix handheld will run a \"trimmed-down version of Windows Home\"-akin to last year's ROG Xbox Ally-or a bespoke operating system built and controlled by the Xbox group. Fortune cites \"people briefed on the clash\" in reporting that one high-level executive threatened to cancel the handheld altogether if they were forced to use Windows.",
+ "new_text": "We haven't heard many details about Microsoft's upcoming \"Project Helix\" gaming hardware since the company announced it in March as a device that will \"play your Xbox and PC games.\" In a new wide-ranging profile of Xbox CEO Asha Sharma, though, Fortune alludes to a dual release strategy for upcoming Microsoft gaming hardware, with \"a next-generation handheld device\" planned by the end of next year and a 2028 holiday season console release that could cost between $1,200 and $1,800.\nThat future console price range is based on what has \"internally been projected\" at the company, according to Fortune. But the price for consumers could come down if \"Microsoft decides to subsidize the cost,\" the outlet says, as many console makers have done in the past.\nWhile a $1,200 starting price would be historically high for the game console market, even accounting for inflation, it also reflects a new normal: The slowdown in Moore's Law and AI-driven component shortages means cutting-edge gaming hardware just isn't as cheap as it used to be. This year, the Steam Machine broke the $1,000 starting price, while the 2-year-old technology in the PlayStation 5 Pro is now going for $900, and the 6-year-old Xbox Series X now starts at $750.\nInternal clashes and sell-off rumors\nFortune also reports that Microsoft is beset by internal clashes over whether its upcoming Helix handheld will run a \"trimmed-down version of Windows Home\"-akin to last year's ROG Xbox Ally-or a bespoke operating system built and controlled by the Xbox group. Fortune cites \"people briefed on the clash\" in reporting that one high-level executive threatened to cancel the handheld altogether if they were forced to use Windows.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "a new normal: The slowdown in Moore's Law and AI-driven component shortages"
+    ],
+    [
+     "del",
+     "mean"
+    ],
+    [
+     "ins",
+     "means"
+    ],
+    [
+     "eq",
+     "cutting-edge gaming hardware just isn't as cheap as it used to be."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0072,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9999,
+ "adjudicated_by": "rules"
+}

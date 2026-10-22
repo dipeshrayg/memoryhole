@@ -1,0 +1,68 @@
+{
+ "id": "a30d86cf0e92bc5e-4406893d-88b7192e",
+ "url": "https://www.bbc.co.uk/sport/snooker/articles/c3ewe41dd0g5o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-22T11:41:20Z",
+ "date": "2026-10-22",
+ "old_title": "Mark Allen: Former world number one says he spent time in mental health clinic before snooker return",
+ "new_title": "Mark Allen: Former world number one says he spent time in mental health clinic before snooker return",
+ "old_text": "- Published\nMark Allen says he is working to \"turn things around\" and revealed he spent time in a mental health clinic before returning to snooker.\nThe former world number one lost to friend Jordan Brown in the first round of the Northern Ireland Open on Tuesday after five months away from the sport.\nSpeaking after the match, an emotional Allen said he was in a \"bad place at the minute\" and considering retirement.\n\"Everything I said in that interview was true. However, rest assured I'm doing my best to turn things round,\" Northern Ireland's Allen said in a statement on X on Wednesday.\nHe said he spent 10 weeks in a mental health clinic and discharged himself so he could prepare for Tuesday's match against Brown, adding that he plans to continue his treatment.\n\"I owed that to my family, in particular my daughter, to see me play for what could be the last time. I also owed it to the fans who have supported me throughout my 21 years on tour,\" added the 40-year-old.\n\"I also owed that to World Snooker who have been amazing from day one in all this, in particular Simon Brownell [CEO] and Neil Tomkins [World Professional Billiards and Snooker Association COO] who have remained in touch regularly, even Simon paying me a visit in the clinic itself.\"\nAllen's 21-year professional career includes 12 ranking titles - including the 2022 UK Championship - and a stint at the top of the world rankings in 2024.\nIn his last tournament before this week's Northern Ireland Open, Allen missed a match-winning black off its spot in the World Championship semi-final against eventual champion Wu Yize.\nOn Tuesday, Allen was visibly emotional as he admitted he \"probably\" would not have played had he not been drawn against his friend Brown.\n\"I'm not OK, but I'm OK in that itself. I've been much worse in the last few months than you saw yesterday.\n\"My daughter kept me going, the therapists, staff and all the other patients were amazing and helped me through some really dark days.\"\nHe added: \"I also know it won't happen overnight. I'm a work in progress!\n\"My fight and determination on the table has always been there for ones to see. I need to show those same fighting qualities off it now for a while.\"\nAllen also praised Brown for handling Tuesday's match with \"grace and skill\", adding he is \"proud to call him a friend\".\nHe also thanked those who have sent him messages of support and added: \"This is only the beginning of my new journey.\"\nIf you have been affected by any of the issues raised in this story you can visit BBC Action Line.",
+ "new_text": "- Published\nMark Allen says he is working to \"turn things around\" and revealed he spent time in a mental health clinic before returning to snooker.\nThe former world number one lost to friend Jordan Brown in the first round of the Northern Ireland Open on Tuesday after five months away from the sport.\nSpeaking after the match, an emotional Allen said he was in a \"bad place at the minute\" and considering retirement.\n\"Everything I said in that interview was true. However, rest assured I'm doing my best to turn things round,\" Northern Ireland's Allen said in a statement on X on Wednesday.\nHe said he spent 10 weeks in a mental health clinic and discharged himself so he could prepare for Tuesday's match against Brown, adding that he plans to continue his treatment.\n\"I owed that to my family, in particular my daughter, to see me play for what could be the last time. I also owed it to the fans who have supported me throughout my 21 years on tour,\" added the 40-year-old.\n\"I also owed that to World Snooker who have been amazing from day one in all this, in particular Simon Brownell [CEO] and Neil Tomkins [World Professional Billiards and Snooker Association COO] who have remained in touch regularly, even Simon paying me a visit in the clinic itself.\"\nThe World Snooker Tour (WST) said they and the WPBSA are \"supporting Mark and wish to help in any way we can\".\nAllen's 21-year professional career includes 12 ranking titles - including the 2022 UK Championship - and a stint at the top of the world rankings in 2024.\nIn his last tournament before this week's Northern Ireland Open, Allen missed a match-winning black off its spot in the World Championship semi-final against eventual champion Wu Yize.\nOn Tuesday, Allen was visibly emotional as he admitted he \"probably\" would not have played had he not been drawn against his friend Brown.\n\"I'm not OK, but I'm OK in that itself. I've been much worse in the last few months than you saw yesterday,\" he said.\n\"My daughter kept me going, the therapists, staff and all the other patients were amazing and helped me through some really dark days.\"\nHe added: \"I also know it won't happen overnight. I'm a work in progress!\n\"My fight and determination on the table has always been there for ones to see. I need to show those same fighting qualities off it now for a while.\"\nAllen also praised Brown for handling Tuesday's match with \"grace and skill\", adding he is \"proud to call him a friend\".\nHe also thanked those who have sent him messages of support and added: \"This is only the beginning of my new journey.\"\nIf you have been affected by any of the issues raised in this story you can visit BBC Action Line.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "touch regularly, even Simon paying me a visit in the clinic itself.\""
+    ],
+    [
+     "ins",
+     "The World Snooker Tour (WST) said they and the WPBSA are \"supporting Mark and wish to help in any way we can\"."
+    ],
+    [
+     "eq",
+     "Allen's 21-year professional career includes 12 ranking titles - including the 2022"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "I've been much worse in the last few months than you saw"
+    ],
+    [
+     "del",
+     "yesterday."
+    ],
+    [
+     "ins",
+     "yesterday,\" he said."
+    ],
+    [
+     "eq",
+     "\"My daughter kept me going, the therapists, staff and all the other"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0573,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

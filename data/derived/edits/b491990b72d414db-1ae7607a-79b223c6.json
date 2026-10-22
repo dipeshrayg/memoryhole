@@ -1,0 +1,214 @@
+{
+ "id": "b491990b72d414db-1ae7607a-79b223c6",
+ "url": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-22T11:29:39Z",
+ "date": "2026-10-22",
+ "old_title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
+ "new_title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
+ "old_text": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request\nRussian President Vladimir Putin says he has freed an American, Stephen Hubbard, from a Russian prison following a request from President Trump.\nThe announcement came as talks got underway between Putin and White House envoy Steve Witkoff focused on U.S. efforts to end the war in Ukraine.\nThe 74-year-old Stephen Hubbard of Michigan was detained by Russian forces in eastern Ukraine in 2022 and later sentenced - after a closed trial in 2024 - to nearly seven years in prison, for serving as a mercenary in the Ukrainian army.\nAs talks with Witkoff got underway in Russia's former imperial capital of Saint Petersburg, Putin announced Hubbard had been released and was already at Pulkovo Airport in St. Petersburg.\nPrior to the talks, Trump said he had asked Putin to release Hubbard, whom the U.S. had formally designated wrongfully detained under the Biden administration.\nHubbard's release comes as Trump has lifted some sanctions on Moscow - and openly criticized Ukraine - amid U.S. efforts to negotiate an end to the war.",
+ "new_text": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request\nMOSCOW and KYIV - Russian President Vladimir Putin says he has freed an American, Stephen Hubbard, 74, from a Russian prison following a request from President Trump.\nThe announcement came as talks got underway between Putin and White House envoy Steve Witkoff in Russia's former imperial capital of Saint Petersburg focused on the latest U.S. efforts to end the war in Ukraine.\nHubbard, a former school teacher native to Michigan, was detained by Russian forces in eastern Ukraine in 2022 and later sentenced - after a closed trial in 2024 - to nearly seven years in prison, for allegedly serving as a mercenary in the Ukrainian army.\nThe U.S. formally designated him wrongfully detained under the Biden administration.\nAnd yet his case was front and center as the Kremlin leader hosted Witkoff for a meeting at Saint Petersburg's ornate Constantine Palace intended to focus on a new U.S. peace plan for Ukraine.\nIn introductory remarks, Witkoff thanked Putin for arranging Hubbard's release - to which Putin confirmed the American was already at St. Petersburg's Pulkovo airport waiting to depart Russia.\n\"You talk so much about my president, President Trump, being a humanitarian,\" said Witkoff. \"You are a humanitarian also, sir.\"\nRussian state media later issued footage of a smiling Hubbard shaking hands with Witkoff as the Kremlin's White House envoy, Kirill Dmitriev, looked on.\nPresident Trump - who had signalled a deal was in the works in comments to journalists earlier in the week - celebrated the news.\n\"Welcome home Stephen, it's great to have you back,\" Trump wrote on Truth Social, adding the U.S. hadn't given \"anything in return.\"\n\"There was no \"swap\" necessary for this release. This major return should have taken place long ago through the Biden Administration, which got nowhere in its negotiations with the Kremlin,\" Trump added.\nIn a statement, Hubbard's son, Orthodox priest Joseph Coleman, also thanked President Trump - and President Putin - for securing his father's release.\n\"We have been gravely concerned for his safety and health since his 2022 detention,\" Coleman wrote in a statement.\nU.S. envoy's comments anger Ukrainians\nWitkoff's comment calling Putin a humanitarian enraged Ukrainians, who see the Russian leader as the driving force behind Russia's full-scale war on Ukraine, the biggest, bloodiest and deadliest war in Europe since World War II.\nThe United Nations has verified more than 17,000 civilian deaths in Ukraine since the start of the Russian invasion in 2022.\nOleksandr Merezhko, who chairs the foreign affairs committee in Ukraine's parliament, called Witkoff's statement \"a total disgrace for America, American diplomacy and even for President Trump.\"\n\"It's like calling Hitler a humanitarian in the middle of the Second World War,\" Merezhko told NPR in an interview. \"Putin is committing genocide against Ukrainians. And when Witkoff is calling him a humanitarian and salutes him, to me, it means he should be immediately removed, and he shouldn't represent the United States.\"\nHubbard's release comes as Trump has lifted some sanctions on Moscow, including an agreement to buy sanctioned Russian diesel fuel. That decision has angered Ukraine and its European allies who argue the move helps fund the Kremlin's war chest.\nIn televised comments to Witkoff, Putin announced the first tankers carrying 60,000 tons of Russian diesel would be departing for the U.S. in the next \"2 or 3 days.\"\nA Kremlin aide, Yuri Ushakov, later told journalists Putin had also agreed to restart three-way peace negotiations with the U.S. and Ukraine, beginning in mid-November.\nPrior to his arrival in St. Petersburg, Witkoff met with Ukrainian President Volodymyr Zelensky, Norway's Prime Minister Jonas Gahr Store and the Finnish President Alexander Stubb in Oslo. Zelenskyy requested the meeting amid a growing rift between Trump and Zelenskyy over Washington's sudden overtures to Moscow.\nTrump, in particular, has railed at Zelenskyy for responding to Russia's daily - and deadly - missile attacks on Ukrainian cities with long-range drone strikes on Russian oil facilities. Kyiv says the strike campaign is an attempt to weaken Russia's ability to wage war on Ukraine, but Trump insists it is a key driver behind surging gas prices in the US ahead of midterm elections.\nEconomists say Trump's war in Iran - and Tehran's subsequent blockage of the Strait of Hormuz - has been the primary factor behind high global oil prices.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request"
+    ],
+    [
+     "ins",
+     "MOSCOW and KYIV -"
+    ],
+    [
+     "eq",
+     "Russian President Vladimir Putin says he has freed an American, Stephen Hubbard,"
+    ],
+    [
+     "ins",
+     "74,"
+    ],
+    [
+     "eq",
+     "from a Russian prison following a request from President Trump. The announcement"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "as talks got underway between Putin and White House envoy Steve Witkoff"
+    ],
+    [
+     "ins",
+     "in Russia's former imperial capital of Saint Petersburg"
+    ],
+    [
+     "eq",
+     "focused on"
+    ],
+    [
+     "ins",
+     "the latest"
+    ],
+    [
+     "eq",
+     "U.S. efforts to end the war in Ukraine."
+    ],
+    [
+     "del",
+     "The 74-year-old Stephen Hubbard of Michigan"
+    ],
+    [
+     "ins",
+     "Hubbard, a former school teacher native to Michigan,"
+    ],
+    [
+     "eq",
+     "was detained by Russian forces in eastern Ukraine in 2022 and later"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "closed trial in 2024 - to nearly seven years in prison, for"
+    ],
+    [
+     "ins",
+     "allegedly"
+    ],
+    [
+     "eq",
+     "serving as a mercenary in the Ukrainian army."
+    ],
+    [
+     "del",
+     "As talks with Witkoff got underway in Russia's former imperial capital of Saint Petersburg, Putin announced Hubbard had been released and was already at Pulkovo Airport in St. Petersburg. Prior to the talks, Trump said he had asked Putin to release Hubbard, whom the"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "U.S."
+    ],
+    [
+     "del",
+     "had"
+    ],
+    [
+     "eq",
+     "formally designated"
+    ],
+    [
+     "ins",
+     "him"
+    ],
+    [
+     "eq",
+     "wrongfully detained under the Biden administration."
+    ],
+    [
+     "ins",
+     "And yet his case was front and center as the Kremlin leader hosted Witkoff for a meeting at Saint Petersburg's ornate Constantine Palace intended to focus on a new U.S. peace plan for Ukraine. In introductory remarks, Witkoff thanked Putin for arranging Hubbard's release - to which Putin confirmed the American was already at St. Petersburg's Pulkovo airport waiting to depart Russia. \"You talk so much about my president, President Trump, being a humanitarian,\" said Witkoff. \"You are a humanitarian also, sir.\" Russian state media later issued footage of a smiling Hubbard shaking hands with Witkoff as the Kremlin's White House envoy, Kirill Dmitriev, looked on. President Trump - who had signalled a deal was in the works in comments to journalists earlier in the week - celebrated the news. \"Welcome home Stephen, it's great to have you back,\" Trump wrote on Truth Social, adding the U.S. hadn't given \"anything in return.\" \"There was no \"swap\" necessary for this release. This major return should have taken place long ago through the Biden Administration, which got nowhere in its negotiations with the Kremlin,\" Trump added. In a statement, Hubbard's son, Orthodox priest Joseph Coleman, also thanked President Trump - and President Putin - for securing his father's release. \"We have been gravely concerned for his safety and health since his 2022 detention,\" Coleman wrote in a statement. U.S. envoy's comments anger Ukrainians Witkoff's comment calling Putin a humanitarian enraged Ukrainians, who see the Russian leader as the driving force behind Russia's full-scale war on Ukraine, the biggest, bloodiest and deadliest war in Europe since World War II. The United Nations has verified more than 17,000 civilian deaths in Ukraine since the start of the Russian invasion in 2022. Oleksandr Merezhko, who chairs the foreign affairs committee in Ukraine's parliament, called Witkoff's statement \"a total disgrace for America, American diplomacy and even for President Trump.\" \"It's like calling Hitler a humanitarian in the middle of the Second World War,\" Merezhko told NPR in an interview. \"Putin is committing genocide against Ukrainians. And when Witkoff is calling him a humanitarian and salutes him, to me, it means he should be immediately removed, and he shouldn't represent the United States.\""
+    ],
+    [
+     "eq",
+     "Hubbard's release comes as Trump has lifted some sanctions on"
+    ],
+    [
+     "del",
+     "Moscow"
+    ],
+    [
+     "ins",
+     "Moscow, including an agreement to buy sanctioned Russian diesel fuel. That decision has angered Ukraine and its European allies who argue the move helps fund the Kremlin's war chest. In televised comments to Witkoff, Putin announced the first tankers carrying 60,000 tons of Russian diesel would be departing for the U.S. in the next \"2 or 3 days.\" A Kremlin aide, Yuri Ushakov, later told journalists Putin had also agreed to restart three-way peace negotiations with the U.S. and Ukraine, beginning in mid-November. Prior to his arrival in St. Petersburg, Witkoff met with Ukrainian President Volodymyr Zelensky, Norway's Prime Minister Jonas Gahr Store and the Finnish President Alexander Stubb in Oslo. Zelenskyy requested the meeting amid a growing rift between Trump and Zelenskyy over Washington's sudden overtures to Moscow. Trump, in particular, has railed at Zelenskyy for responding to Russia's daily"
+    ],
+    [
+     "eq",
+     "- and"
+    ],
+    [
+     "del",
+     "openly criticized Ukraine"
+    ],
+    [
+     "ins",
+     "deadly"
+    ],
+    [
+     "eq",
+     "-"
+    ],
+    [
+     "del",
+     "amid U.S. efforts"
+    ],
+    [
+     "ins",
+     "missile attacks on Ukrainian cities with long-range drone strikes on Russian oil facilities. Kyiv says the strike campaign is an attempt"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "negotiate an end"
+    ],
+    [
+     "ins",
+     "weaken Russia's ability"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "ins",
+     "wage war on Ukraine, but Trump insists it is a key driver behind surging gas prices in"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "war."
+    ],
+    [
+     "ins",
+     "US ahead of midterm elections. Economists say Trump's war in Iran - and Tehran's subsequent blockage of the Strait of Hormuz - has been the primary factor behind high global oil prices."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 3.7167,
+  "numbers_changed": [
+   "17,000",
+   "2",
+   "2022",
+   "3",
+   "60,000"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 3,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 0.9402,
+ "adjudicated_by": "rules"
+}

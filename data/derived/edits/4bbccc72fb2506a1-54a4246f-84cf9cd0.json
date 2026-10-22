@@ -1,0 +1,72 @@
+{
+ "id": "4bbccc72fb2506a1-54a4246f-84cf9cd0",
+ "url": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-10-22T11:45:10Z",
+ "date": "2026-10-22",
+ "old_title": "Cops raid office of RFK Jr. allies planning \"unethical\" vaccine trial on babies",
+ "new_title": "Cops raid office of RFK Jr. allies planning \"unethical\" vaccine trial on babies",
+ "old_text": "Police in Guinea-Bissau raided the offices of Danish researchers on Monday, seizing doses of hepatitis B vaccine intended for a vaccine trial for newborns. International health experts have called the trial \"unethical,\" but anti-vaccine Health Secretary Robert F. Kennedy Jr. has attempted to fund it with US taxpayer dollars.\nUnder Kennedy, the US Centers for Disease Control and Prevention announced in December that it had awarded the Danish researchers-led by married couple Peter Aaby and Christine Stabell Benn of Bandim Health Project-an unsolicited $1.6 million grant to run the trial. Aaby and Stabell Benn are controversial vaccine researchers who claim vaccines cause overlooked harms. They have been repeatedly praised by Kennedy, but are currently under investigation for alleged scientific misconduct by Danish authorities.\nPlans for the trial were halted in January as widespread condemnation erupted over the trial's design, which would potentially expose thousands of newborns in the country to hepatitis B, risking a lifelong infection that can lead to liver cirrhosis, cancer, and premature death. Outrage flared again after a Rolling Stone story earlier this month claimed the CDC set aside another $1.6 million in funding in late September and planned to move forward with the trial.",
+ "new_text": "Police in Guinea-Bissau raided the offices of Danish researchers on Monday, seizing doses of hepatitis B vaccine intended for a vaccine trial for newborns. International health experts have called the trial \"unethical,\" but anti-vaccine Health Secretary Robert F. Kennedy Jr. has attempted to fund it with US taxpayer dollars.\nUnder Kennedy, the US Centers for Disease Control and Prevention announced in December that it had awarded the Danish researchers-led by married couple Peter Aaby and Christine Stabell Benn of Bandim Health Project-an unsolicited $1.6 million grant to run the trial. Aaby and Stabell Benn are controversial vaccine researchers who claim vaccines cause overlooked harms. They have been repeatedly praised by Kennedy but are currently under investigation by Danish authorities for alleged scientific misconduct.\nPlans for the trial were halted in January as widespread condemnation erupted over the trial's design, which would potentially expose thousands of newborns in the country to hepatitis B, risking a lifelong infection that can lead to liver cirrhosis, cancer, and premature death. Outrage flared again after a Rolling Stone story earlier this month claimed the CDC set aside another $1.6 million in funding in late September and planned to move forward with the trial.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "who claim vaccines cause overlooked harms. They have been repeatedly praised by"
+    ],
+    [
+     "del",
+     "Kennedy,"
+    ],
+    [
+     "ins",
+     "Kennedy"
+    ],
+    [
+     "eq",
+     "but are currently under investigation"
+    ],
+    [
+     "ins",
+     "by Danish authorities"
+    ],
+    [
+     "eq",
+     "for alleged scientific"
+    ],
+    [
+     "del",
+     "misconduct by Danish authorities."
+    ],
+    [
+     "ins",
+     "misconduct."
+    ],
+    [
+     "eq",
+     "Plans for the trial were halted in January as widespread condemnation erupted"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0505,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9992,
+ "adjudicated_by": "rules"
+}

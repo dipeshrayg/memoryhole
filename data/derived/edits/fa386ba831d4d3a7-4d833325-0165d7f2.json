@@ -1,0 +1,252 @@
+{
+ "id": "fa386ba831d4d3a7-4d833325-0165d7f2",
+ "url": "https://www.bbc.co.uk/news/articles/c6pvglvpln91o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-22T11:28:38Z",
+ "date": "2026-10-22",
+ "old_title": "Bristol UWE student who murdered housemate jailed for life",
+ "new_title": "Bristol UWE student who murdered housemate jailed for life",
+ "old_text": "- Published\nA student has been jailed for life with a minimum term of 28 years for murdering his university housemate after lying in wait and stabbing him 30 times.\nZack Coughlan, 23, dressed in black and wore a mask to ambush Jamie Collins, 21, in the garden of their home near Bristol on 8 April.\nCoughlan left his victim dying in an alleyway as he cycled away to dispose of bloodstained evidence. He called police eight hours later.\nCoughlan had denied murder and a trial was under way at Bristol Crown Court but he changed his plea to guilty on Tuesday.\nBoth men were final-year University of the West of England students.\nDuring sentencing, Judge Justice Linden told Coughlan: \"Collins was an idealist who took an interest in the problems of the world and society.\n\"It comes with great shock that anyone chose to do what you chose to do to him.\n\"I'm sure you were planning to kill Collins and had been for some time.\n\"Your guilty plea came at a point in the trial when your conviction was inevitable.\"\nDuring the trial, Coughlan claimed he was fearful of Collins, saying he had threatened to kill him and therefore he had \"no choice\" but to wait for his housemate to return from university and stab him repeatedly.\nCoughlan then left his housemate to die in the alleyway behind the house they shared before cycling away on the victim's bike.\nOn returning home, Coughlan ate pizza and played video games, claiming he \"had to disconnect\" from what happened. He did not call 999 for another five hours.\nThe entire attack was caught on CCTV, which jurors heard Coughlan later rewatched five times.\nJudge Linden said: \"I do not accept your evidence that he did or said anything that made you believe he would be violent towards you in any way.\n\"Your evidence about these conversations was at odds with other evidence about Collins, that he was a gentle soul who was averse to conflict and confrontation.\"",
+ "new_text": "- Published\nA student has been jailed for life with a minimum term of 28 years for murdering his university housemate after lying in wait and stabbing him 30 times.\nZack Coughlan, 23, ambushed Jamie Collins, 21, in the garden of their home near Bristol on 8 April and left him dying in the alleyway to dispose of bloodstained evidence. He called police eight hours later.\nCoughlan had denied murder and a trial was under way at Bristol Crown Court but he changed his plea to guilty on Tuesday.\nIn a statement read in court, Collins' step-mother Lisa Jane Collins said his death had \"affected our family in a deep, lasting and profound way. From now on, we will always be the couple whose boy got murdered\".\nBoth men were final-year University of the West of England (UWE) students and lived together in a house in Filton.\nCollins only had two pieces of coursework to complete before he would have returned home to his family in Swansea, where his dad already had an engineering job set up for him.\nLisa added that police came to their house early in the morning after the attack, to inform them of their son's death.\n\"We had the horror of waking up his siblings to tell them their brother Jamie had been killed, even though we had very little information,\" Lisa said.\nLisa added that Collins' father Rob was incapable of working due to stress and his business went under, leaving him in debt.\n\"Listening to the over-performative drama of Zack's evidence was excruciating as he made himself out to be the victim,\" Lisa added.\n\"I found it physically distressing being at the trial, I have vomited twice after hearing about the brutality.\"\nDuring sentencing, Judge Justice Linden told Coughlan: \"Collins was an idealist who took an interest in the problems of the world and society.\n\"It comes with great shock that anyone could do what you chose to do to him.\n\"I'm sure you were planning to kill Collins and had been for some time.\n\"Your guilty plea came at a point in the trial when your conviction was inevitable.\"\nDuring the trial, Coughlan claimed he was fearful of Collins, saying he had threatened to kill him and therefore he had \"no choice\" but to wait for his housemate to return from university and stab him repeatedly.\nJudge Linden said: \"I do not accept your evidence that he did or said anything that made you believe he would be violent towards you in any way.\n\"Your evidence about these conversations was at odds with other evidence about Collins, that he was a gentle soul who was averse to conflict and confrontation.\"\nAfter the attack, Coughlan left his housemate to die in the alleyway behind the house they shared before cycling away on the victim's bike.\nOn returning home, Coughlan ate pizza and played video games, claiming he \"had to disconnect\" from what happened. He did not call 999 for another five hours.\nThe entire attack was caught on CCTV, which jurors heard Coughlan later rewatched five times.\n'Cold-blooded execution'\nDet Ch Insp Lucy Edgeworth, of the major crime investigation team, said \"all the evidence suggests\" the killing was a \"pre-planned, cold-blooded execution\".\nShe said despite Coughlan claiming his housemate's political views had become more extreme and that he had talked about killing Coughlan, the motive for the murder was \"not clear\".\n\"We know there was a dispute about rent. We know that they held different political views.\n\"But none of those things make any sense to why somebody would carry out such a horrific crime,\" she said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "after lying in wait and stabbing him 30 times. Zack Coughlan, 23,"
+    ],
+    [
+     "del",
+     "dressed in black and wore a mask to ambush"
+    ],
+    [
+     "ins",
+     "ambushed"
+    ],
+    [
+     "eq",
+     "Jamie Collins, 21, in the garden of their home near Bristol on 8"
+    ],
+    [
+     "del",
+     "April. Coughlan"
+    ],
+    [
+     "ins",
+     "April and"
+    ],
+    [
+     "eq",
+     "left"
+    ],
+    [
+     "del",
+     "his victim"
+    ],
+    [
+     "ins",
+     "him"
+    ],
+    [
+     "eq",
+     "dying in"
+    ],
+    [
+     "del",
+     "an"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "alleyway"
+    ],
+    [
+     "del",
+     "as he cycled away"
+    ],
+    [
+     "eq",
+     "to dispose of bloodstained evidence. He called police eight hours later. Coughlan"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Bristol Crown Court but he changed his plea to guilty on Tuesday."
+    ],
+    [
+     "ins",
+     "In a statement read in court, Collins' step-mother Lisa Jane Collins said his death had \"affected our family in a deep, lasting and profound way. From now on, we will always be the couple whose boy got murdered\"."
+    ],
+    [
+     "eq",
+     "Both men were final-year University of the West of England"
+    ],
+    [
+     "del",
+     "students."
+    ],
+    [
+     "ins",
+     "(UWE) students and lived together in a house in Filton. Collins only had two pieces of coursework to complete before he would have returned home to his family in Swansea, where his dad already had an engineering job set up for him. Lisa added that police came to their house early in the morning after the attack, to inform them of their son's death. \"We had the horror of waking up his siblings to tell them their brother Jamie had been killed, even though we had very little information,\" Lisa said. Lisa added that Collins' father Rob was incapable of working due to stress and his business went under, leaving him in debt. \"Listening to the over-performative drama of Zack's evidence was excruciating as he made himself out to be the victim,\" Lisa added. \"I found it physically distressing being at the trial, I have vomited twice after hearing about the brutality.\""
+    ],
+    [
+     "eq",
+     "During sentencing, Judge Justice Linden told Coughlan: \"Collins was an idealist who"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of the world and society. \"It comes with great shock that anyone"
+    ],
+    [
+     "del",
+     "chose to"
+    ],
+    [
+     "ins",
+     "could"
+    ],
+    [
+     "eq",
+     "do what you chose to do to him. \"I'm sure you were"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "wait for his housemate to return from university and stab him repeatedly."
+    ],
+    [
+     "ins",
+     "Judge Linden said: \"I do not accept your evidence that he did or said anything that made you believe he would be violent towards you in any way. \"Your evidence about these conversations was at odds with other evidence about Collins, that he was a gentle soul who was averse to conflict and confrontation.\" After the attack,"
+    ],
+    [
+     "eq",
+     "Coughlan"
+    ],
+    [
+     "del",
+     "then"
+    ],
+    [
+     "eq",
+     "left his housemate to die in the alleyway behind the house they"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "was caught on CCTV, which jurors heard Coughlan later rewatched five times."
+    ],
+    [
+     "del",
+     "Judge Linden said: \"I do not accept your"
+    ],
+    [
+     "ins",
+     "'Cold-blooded execution' Det Ch Insp Lucy Edgeworth, of the major crime investigation team, said \"all the"
+    ],
+    [
+     "eq",
+     "evidence"
+    ],
+    [
+     "ins",
+     "suggests\" the killing was a \"pre-planned, cold-blooded execution\". She said despite Coughlan claiming his housemate's political views had become more extreme and"
+    ],
+    [
+     "eq",
+     "that he"
+    ],
+    [
+     "del",
+     "did or said anything that made you believe he would be violent towards you in any way. \"Your evidence"
+    ],
+    [
+     "ins",
+     "had talked"
+    ],
+    [
+     "eq",
+     "about"
+    ],
+    [
+     "del",
+     "these conversations"
+    ],
+    [
+     "ins",
+     "killing Coughlan, the motive for the murder"
+    ],
+    [
+     "eq",
+     "was"
+    ],
+    [
+     "del",
+     "at odds with other evidence about Collins, that he"
+    ],
+    [
+     "ins",
+     "\"not clear\". \"We know there"
+    ],
+    [
+     "eq",
+     "was a"
+    ],
+    [
+     "del",
+     "gentle soul who was averse"
+    ],
+    [
+     "ins",
+     "dispute about rent. We know that they held different political views. \"But none of those things make any sense"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "conflict and confrontation.\""
+    ],
+    [
+     "ins",
+     "why somebody would carry out such a horrific crime,\" she said."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.1958,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 1,
+  "blocks_added": 3,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 2.25,
+ "similarity": 0.8284,
+ "adjudicated_by": "rules"
+}

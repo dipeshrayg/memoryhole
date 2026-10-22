@@ -1,0 +1,173 @@
+{
+ "id": "2a31b4513bb11f36-7f5e6a31-d16c43df",
+ "url": "https://www.bbc.co.uk/news/articles/cm3wv9pdj33zo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-10-22T11:40:08Z",
+ "date": "2026-10-22",
+ "old_title": "Storm Austen: Strong 70mph winds could hit south Wales on Friday",
+ "new_title": "Storm Austen: Strong 70mph winds could hit Wales on Friday",
+ "old_text": "- Published\nTravel disruption and damage to buildings are expected when Storm Austen, the first named storm of the autumn, hits south Wales later this week.\nThe Met Office said the storm will bring a spell of strong winds up to 70mph (112km/h) overnight on Thursday and into Friday, mainly in coastal areas.\nThe yellow warning, external for Wales was issued on Wednesday morning, with periods of heavy rain also expected. The Met Office said injuries and danger to life from flying debris are possible.\nSome roads and bridges may close, and longer journey times and cancellations to public transport are possible.\nThe weather warning is in place between 00:00 and 14:00 BST on Friday.\nThe Royal National Lifeboat Institution (RNLI) has urged anyone visiting the coast in south Wales to \"to stay vigilant and not take unnecessary risks\".\nGusts of wind about 50 to 60mph are likely to hit areas such as Cardiff, Swansea and Merthyr Tydfil.\nSome coastal or exposed areas could see about 70mph gusts of wind, the Met Office said, adding winds will slowly ease during Friday afternoon.\nThe regions affected in Wales are:\n- Blaenau Gwent\n- Bridgend\n- Caerphilly\n- Cardiff\n- Carmarthenshire\n- Ceredigion\n- Merthyr Tydfil\n- Monmouthshire\n- Neath Port Talbot\n- Newport\n- Pembrokeshire\n- Powys\n- Rhondda Cynon Taf\n- Swansea\n- Torfaen\n- Vale of Glamorgan\nRoss Macleod, RNLI water safety manager, said: \"If you plan to visit the coast or a waterside location, we urge you stay a safe distance from the water as conditions could knock you off your feet or wash you into the sea.\"\nMacLeod said anyone in trouble in the water should \"lie back in the water with your head so far back that your ears are wet, extend your arms and legs and try to relax as best as you can until you get control of your breathing before then calling for help or swimming to safety\".\nHe added if anyone sees someone in danger, throw them something buoyant into the water and call 999 or 112 and ask for the coastguard.",
+ "new_text": "- Published\nTravel disruption and damage to buildings are expected when Storm Austen, the first named storm of the autumn, hits Wales.\nThe Met Office said the storm will bring a spell of strong winds up to 70mph (112km/h) overnight on Thursday and into Friday, mainly in coastal areas.\nTwo yellow warnings, external for Wales are in place for Friday at different times, with periods of heavy rain also expected. The Met Office said injuries and danger to life from flying debris were possible.\nSome roads and bridges may close, and longer journey times and cancellations to public transport are possible.\nA yellow weather warning for wind in south Wales is in place between 00:00 and 17:00 BST on Friday, while another will be in force between 10:00 and 21:00 on Friday in mid and south Wales.\nThe Royal National Lifeboat Institution (RNLI) has urged anyone visiting the coast in south Wales to \"to stay vigilant and not take unnecessary risks\".\nGusts of wind about 50 to 60mph are likely to hit areas such as Cardiff, Swansea and Merthyr Tydfil.\nSome coastal or exposed areas could see about 70mph gusts of wind, the Met Office said, adding winds will slowly ease during Friday afternoon.\nThe regions affected in Wales are:\n- Blaenau Gwent\n- Bridgend\n- Caerphilly\n- Cardiff\n- Carmarthenshire\n- Ceredigion\n- Merthyr Tydfil\n- Monmouthshire\n- Neath Port Talbot\n- Newport\n- Pembrokeshire\n- Powys\n- Rhondda Cynon Taf\n- Swansea\n- Torfaen\n- Vale of Glamorgan\n- Ceredigion\n- Conwy\n- Denbighshire\n- Flintshire\n- Gwynedd\n- Isle of Anglesey\n- Monmouthshire\n- Powys\n- Wrexham\nRoss Macleod, RNLI water safety manager, said: \"If you plan to visit the coast or a waterside location, we urge you stay a safe distance from the water as conditions could knock you off your feet or wash you into the sea.\"\nMacLeod said anyone in trouble in the water should \"lie back in the water with your head so far back that your ears are wet, extend your arms and legs and try to relax as best as you can until you get control of your breathing before then calling for help or swimming to safety\".\nHe added if anyone sees someone in danger, throw them something buoyant into the water and call 999 or 112 and ask for the coastguard.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "expected when Storm Austen, the first named storm of the autumn, hits"
+    ],
+    [
+     "del",
+     "south Wales later this week."
+    ],
+    [
+     "ins",
+     "Wales."
+    ],
+    [
+     "eq",
+     "The Met Office said the storm will bring a spell of strong"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "70mph (112km/h) overnight on Thursday and into Friday, mainly in coastal areas."
+    ],
+    [
+     "del",
+     "The"
+    ],
+    [
+     "ins",
+     "Two"
+    ],
+    [
+     "eq",
+     "yellow"
+    ],
+    [
+     "del",
+     "warning,"
+    ],
+    [
+     "ins",
+     "warnings,"
+    ],
+    [
+     "eq",
+     "external for Wales"
+    ],
+    [
+     "del",
+     "was issued on Wednesday morning,"
+    ],
+    [
+     "ins",
+     "are in place for Friday at different times,"
+    ],
+    [
+     "eq",
+     "with periods of heavy rain also expected. The Met Office said injuries and danger to life from flying debris"
+    ],
+    [
+     "del",
+     "are"
+    ],
+    [
+     "ins",
+     "were"
+    ],
+    [
+     "eq",
+     "possible. Some roads and bridges may close, and longer journey times and cancellations to public transport are possible."
+    ],
+    [
+     "del",
+     "The"
+    ],
+    [
+     "ins",
+     "A yellow"
+    ],
+    [
+     "eq",
+     "weather warning"
+    ],
+    [
+     "ins",
+     "for wind in south Wales"
+    ],
+    [
+     "eq",
+     "is in place between 00:00 and"
+    ],
+    [
+     "del",
+     "14:00"
+    ],
+    [
+     "ins",
+     "17:00"
+    ],
+    [
+     "eq",
+     "BST on"
+    ],
+    [
+     "del",
+     "Friday."
+    ],
+    [
+     "ins",
+     "Friday, while another will be in force between 10:00 and 21:00 on Friday in mid and south Wales."
+    ],
+    [
+     "eq",
+     "The Royal National Lifeboat Institution (RNLI) has urged anyone visiting the coast"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "- Rhondda Cynon Taf - Swansea - Torfaen - Vale of Glamorgan"
+    ],
+    [
+     "ins",
+     "- Ceredigion - Conwy - Denbighshire - Flintshire - Gwynedd - Isle of Anglesey - Monmouthshire - Powys - Wrexham"
+    ],
+    [
+     "eq",
+     "Ross Macleod, RNLI water safety manager, said: \"If you plan to visit"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2114,
+  "numbers_changed": [
+   "10",
+   "14",
+   "17",
+   "21"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9741,
+ "adjudicated_by": "rules"
+}

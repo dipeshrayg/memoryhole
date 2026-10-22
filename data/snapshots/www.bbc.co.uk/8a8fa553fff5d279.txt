@@ -1,0 +1,39 @@
+- Published
+The UK government says it is working to identify any potential exposure in its online services, after critical cyber-security flaws were identified in the PHP programming language that underpins a significant number of the world's websites.
+Governments and some of the world's biggest companies are rushing to protect systems that use PHP before hackers can exploit the flaws.
+The flaws were first discovered by AI, after which governments urged anyone who uses PHP to address them.
+A UK government spokesperson urged "all organisations, private and public, large and small" to follow guidance to protect their systems.
+The UK's National Cyber Security Centre (NCSC), as well as its counterparts in the EU and Australia, earlier urged those who use PHP to apply the fixes.
+"Where immediate remediation is not feasible, organisations should consider taking the system offline until it can be fully mitigated," the NCSC said in a statement., external
+Amazon said its threat intelligence system identified it was targeted on Saturday. It added there were further "exploitation attempts" once the embargo on the flaw warning was lifted.
+The company said it "automatically detected and restricted malicious scanning attempts targeting this vulnerability."
+PHP powers a vast number of platforms, including online shops, Wikipedia and WordPress â the content management system behind many websites like blogs.
+When you visit a website like Wikipedia, PHP is the code that collects information you need and presents it in a way you can read on the web.
+Surrey Centre for Cyber Security Prof Alan Woodward said the flaw affects some 30 million websites.
+As well as the scale of the flaw, Woodward said the nature of it means "an attacker can get their own code on to the webserver and run it and basically do whatever they like."
+"They can steal data , they can go to other parts of your network. All sort of things like that - even plant a backdoor to get in later on, so it's pretty serious," Woodward told BBC Radio 4's Today programme.
+Cyber security researcher Ryan Austin, who has been researching PHP security for the last 20 years, said he discovered the flaw in the programming language.
+He told the Today programme it was "the most serious vulnerability I've ever found" which "started with a hunch that I would not have been able to scratch without AI".
+Austin described PHP as "one of the first web languages that powered the early internet".
+"It's in a lot of places that you wouldn't expect to be that are basically very core to how the internet runs in a lot of ways. It's like all the old things that are in a house that you know keeps it [running] but you don't really think about," the PHP researcher said.
+But Austin said this incident is not necessarily bad news because organisations would now "run and patch PHP immediately" if they haven't already.
+Amazon announced on Wednesday that it had identified a "PHP2Shell exploitation attempt" that occurred on 17 October.
+In the attack, an anonymous internet address attempted to target weaknesses in one of Amazon's decoy or "honeypot" systems, the company's security chief CJ Moses said.
+The use of an anonymous IP address suggests that the activity was conducted by a "threat actor", he said.
+While the PHP Foundation intended to release its discovery later this month along with a complete fix for the problem, usually referred to by software developers as a "patch", details of the flaw were leaked on social media on Tuesday.
+In subsequent attacks on Amazon that occurred on 21 October, "the actual payloads and choices in anonymisation infrastructure varied, suggesting these were multiple actors," Moses said.
+The attacks occurred after the leak, but before the embargo was lifted on the PHP warning.
+The use of AI means that "more actors can act within hours or even minutes once technical details of a vulnerability are disclosed", Moses added.
+The PHP incident has "demonstrated how quickly AI is changing our cybersecurity landscape", Australian Council on AI Strategy CEO Anna-Maria Arabia told the BBC, as "what used to take months, to expose a vulnerability, is now taking days".
+She warned that threats would only become more commonplace as AI technology rapidly improves. It is "not going backwards, in other words", she said.
+The PHP flaws went undetected for at least a decade.
+Cyber-security firm Wiz has estimated that "roughly 70%" of the internet is affected, though the BBC is unable to independently verify that figure.
+The websites for several BBC programmes including Doctor Who and The Traitors are currently inaccessible.
+They have not confirmed a link to PHP - BBC News has approached them for comment.
+The Office for Budget Responsibility (OBR) said it had followed guidance to take its website offline, "in view of the critical security issues affecting PHP".
+Edinburgh and Oxford council websites also went offline on Wednesday, but are now accessible.
+The Dutch cybersecurity agency went offline as a precaution, and Finland's government shut down its public web services. Wikipedia also took down parts of its website.
+This was in line with advice issued by governments, including the US, to take websites down if the flaws could not immediately be fixed.
+The US National Security Agency said that the vulnerabilities identified "often provide a direct path to the server's file system or database".
+It could allow attackers to "steal sensitive data, disrupt services, or move deeper into a network. These vulnerabilities are flaws in PHP itself, not in the hosted application or its configuration," the NSA said in a later update.
+OpenAI called the discovery, "one of the most impactful security issues in recent memory".

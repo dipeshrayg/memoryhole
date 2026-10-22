@@ -1,0 +1,48 @@
+{
+ "id": "dc4a4c8477a0bab3-20f27002-355305ae",
+ "url": "https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-22T11:41:16Z",
+ "date": "2026-10-22",
+ "old_title": "Paris St-Germain: Khvicha Kvaratskhelia to have surgery on ruptured ACL",
+ "new_title": "Khvicha Kvaratskhelia injury: PSG forward to have surgery on ruptured ACL",
+ "old_text": "- Published\nParis St-Germain winger Khvicha Kvaratskhelia will undergo knee surgery after rupturing his anterior cruciate ligament (ACL) during his side's 4-2 win over Barcelona on Tuesday.\nKvaratskhelia sustained the injury during a challenge with Xavi Espart and was unable to put weight on his right leg as he was substituted in the 59th minute of the Champions League tie.\nPSG have not put a timeline on his return to action.\nKvaratskhelia, 25, helped PSG win back-to-back Champions League titles following his move to the French capital from Napoli in January 2025.\nThe Georgia international has featured 11 times for PSG this season.\nThe club also confirmed Ousmane Dembele and Marquinhos will be absent for a \"few weeks\". Dembele limped off with a left thigh injury while Marquinhos injured his right thigh.\nPSG and Barcelona were level at 2-2 heading into the final 10 minute at Parc des Princes before the hosts scored twice late on to maintain their winning start to their Champions League defence. They sit top of the table with three wins from three matches.",
+ "new_text": "- Published\nParis St-Germain winger Khvicha Kvaratskhelia will undergo knee surgery after rupturing his anterior cruciate ligament (ACL) during his side's 4-2 win over Barcelona on Tuesday.\nKvaratskhelia sustained the injury during a challenge with Xavi Espart and was unable to put weight on his right leg as he was substituted in the 59th minute of the Champions League tie.\nPSG have not put a timeline on his return to action.\nIn a statement on Instagram, Kvaratskhelia said: \"Before every game I play I ask God to leave the field healthy, but in vain.\n\"I probably prepared for this game the best I have ever prepared for. I thought I was prepared for everything.\n\"I realise that God chose me and if I protected the players on another field, I'm ready to go through these months of hard work, pain, tears.\n\"I know I have to come back stronger for my people who always have my back. I won't let you down, I promise, I won't waste a second.\"\nKvaratskhelia, 25, helped PSG win back-to-back Champions League titles following his move to the French capital from Napoli in January 2025.\nThe Georgia international has featured 11 times for PSG this season.\nThe club also confirmed Ousmane Dembele and Marquinhos will be absent for a \"few weeks\". Dembele limped off with a left thigh injury while Marquinhos injured his right thigh.\nPSG and Barcelona were level at 2-2 heading into the final 10 minute at Parc des Princes before the hosts scored twice late on to maintain their winning start to their Champions League defence. They sit top of the table with three wins from three matches.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "tie. PSG have not put a timeline on his return to action."
+    ],
+    [
+     "ins",
+     "In a statement on Instagram, Kvaratskhelia said: \"Before every game I play I ask God to leave the field healthy, but in vain. \"I probably prepared for this game the best I have ever prepared for. I thought I was prepared for everything. \"I realise that God chose me and if I protected the players on another field, I'm ready to go through these months of hard work, pain, tears. \"I know I have to come back stronger for my people who always have my back. I won't let you down, I promise, I won't waste a second.\""
+    ],
+    [
+     "eq",
+     "Kvaratskhelia, 25, helped PSG win back-to-back Champions League titles following his move"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5506,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.144,
+ "similarity": 0.8044,
+ "adjudicated_by": "rules"
+}
