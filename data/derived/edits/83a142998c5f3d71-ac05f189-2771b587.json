@@ -1,0 +1,276 @@
+{
+ "id": "83a142998c5f3d71-ac05f189-2771b587",
+ "url": "https://www.independent.co.uk/news/uk/home-news/php-government-websites-services-issues-b3071405.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-23T11:25:06Z",
+ "date": "2026-10-23",
+ "old_title": "UK government services hit by worldwide cyber security threat",
+ "new_title": "UK government services hit by worldwide cyber security threat",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nDozens of government services are offlline after they were hit by a major cyber-security issue affecting millions of sites worldwide.\nA total of 32 government services are offline and four are partially unavailable, ministers confirmed on Thursday morning.\nBut No 10 said no major public-facing critical services have been impacted by a severe vulnerability identified in the PHP programming language.\nAnd a cabinet minister has insisted that next week's Budget has not been compromised after the website for the OBR, the spending watchdog, was affected.\nOrganisations around the world have been scrambling to address the flaw in PHP, which powers almost 70 per cent of websites according to cybersecurity firm Cloudflare. UK cybersecurity chiefs alerted organisations to the \"critical security issue\" on Wednesday.\nA No 10 spokeswoman said on Thursday: \"Work has already taken place across government to identify and fix potential exposures to our systems, and our experts are continuing to work closely with both OpenAI and international partners on this issue.\n\"No large public-facing critical services are being affected by the exercise, but some limited services may temporarily be offline while security work is carried out.\n\"But this does not mean they were hacked, and work continues to resolve any issues.\"\nShe added that it was not \"standard practice\" to detail which specific government services had been affected.\nDouglas Alexander, the secretary of state for Scotland, has said businesses concerned about the PHP issue should visit the NCC website, but the budget has not been compromised after the OBR website shutdown.\n\"This is not a breach of government systems,\" he told Times Radio.\n\"My suggestion would be if there are any businesses listening to this programme who are worried about their websites or other organisation, visit the website of the National Centre for Cybersecurity. That's where advice can be offered.\" Asked about the Office of Budget Responsibility (OBR) taking its site offline, he added: \"I've had no indication whatsoever that there's any problem in terms of breach of budget security...historically there was vulnerabilities around the OBR forecasting process and the security of its website. Those have been addressed.\nMore follows on this breaking news story. Subscribe here to get the latest updates from The Independent",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nDozens of government services are offline after they were hit by a major cyber-security issue affecting millions of sites worldwide.\nA total of 32 UK government services are temporarily offline and four are partially unavailable, ministers confirmed on Thursday.\nOrganisations around the world have been scrambling to address the flaw in the programming language PHP, which powers almost 70 per cent of websites, according to cybersecurity firm Cloudflare. UK cybersecurity chiefs alerted organisations to the \"critical security issue\" on Wednesday.\nNo 10 said no major public-facing critical systems had been impacted by the issue and a cabinet minister insisted next week's Budget has not been compromised after the website for the Office for Budget Responsibility (OBR), the official spending watchdog, was affected.\nA No 10 spokeswoman said on Thursday: \"Work has already taken place across government to identify and fix potential exposures to our systems, and our experts are continuing to work closely with both OpenAI and international partners on this issue.\n\"No large public-facing critical services are being affected by the exercise, but some limited services may temporarily be offline while security work is carried out.\n\"But this does not mean they were hacked, and work continues to resolve any issues.\"\nShe added that it was not \"standard practice\" to detail which specific government services had been affected.\nThe PHP programming language powers much of the web. Panic was triggered this week when a bug was discovered in the technology was discovered by artificial intelligence giant OpenAI that could allow hackers to break into websites that use it.\nTech minister Baroness Lloyd of Effra told the House of Lords: \"The information I have is that 32 government services are unavailable and four are partially unavailable.\"\nShe said that the situation \"has largely resulted from precautionary measures taken to protect systems while security updates and mitigations are applied\".\nDouglas Alexander, the secretary of state for Scotland, said businesses concerned about the PHP issue should visit the National Centre for Cybersecurity (NCC) website. He added that the budget has not been compromised after the OBR website shutdown.\n\"This is not a breach of government systems,\" he told Times Radio.\n\"My suggestion would be if there are any businesses listening to this programme who are worried about their websites or other organisation, visit the website of the National Centre for Cybersecurity. That's where advice can be offered.\"\nAsked about the Office for Budget Responsibility (OBR) taking its site offline, he added: \"I've had no indication whatsoever that there's any problem in terms of breach of budget security.\"\nHe added: \"If you like, AI both identified this problem and potentially has a contribution to make to its resolutions. So in that sense, it's right to acknowledge that this is a time when a lot of questions are being asked of AI. It has the potential to contribute to medical trials. It has the potential to raise productivity. But it's also showing vulnerabilities in systems that without AI might have gone undisturbed for many years.\"\nEmergency shutdowns of banking, airline, rail, tax and government services were initiated on Wednesday night after the issue was discovered, revealing how much public and corporate systems rely on the software.\nPHP developers released urgent fixes on Wednesday for vulnerabilities that had lurked in the software for years until they were uncovered using AI, urging users to \"update immediately\".\nEven as companies and governments deployed patches and suspended websites as a precaution, hacking attempts surged into the millions, according to Cloudflare.\n\"In the 10 hours before it was publicly announced, across the network we saw thousands of attempts to exploit it,\" the company's CEO Matthew Prince said in a post on X late on Wednesday.\n\"That jumped to tens of thousands in the 45 minutes post announcement, hundreds of thousands within 2 hours, and millions now.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Join today Already a member? Log in Dozens of government services are"
+    ],
+    [
+     "del",
+     "offlline"
+    ],
+    [
+     "ins",
+     "offline"
+    ],
+    [
+     "eq",
+     "after they were hit by a major cyber-security issue affecting millions of sites worldwide. A total of 32"
+    ],
+    [
+     "ins",
+     "UK"
+    ],
+    [
+     "eq",
+     "government services are"
+    ],
+    [
+     "ins",
+     "temporarily"
+    ],
+    [
+     "eq",
+     "offline and four are partially unavailable, ministers confirmed on"
+    ],
+    [
+     "del",
+     "Thursday morning. But No 10 said no major public-facing critical services have been impacted by a severe vulnerability identified in the PHP programming language. And a cabinet minister has insisted that next week's Budget has not been compromised after the website for the OBR, the spending watchdog, was affected."
+    ],
+    [
+     "ins",
+     "Thursday."
+    ],
+    [
+     "eq",
+     "Organisations around the world have been scrambling to address the flaw in"
+    ],
+    [
+     "ins",
+     "the programming language"
+    ],
+    [
+     "eq",
+     "PHP, which powers almost 70 per cent of"
+    ],
+    [
+     "del",
+     "websites"
+    ],
+    [
+     "ins",
+     "websites,"
+    ],
+    [
+     "eq",
+     "according to cybersecurity firm Cloudflare. UK cybersecurity chiefs alerted organisations to the \"critical security issue\" on Wednesday."
+    ],
+    [
+     "ins",
+     "No 10 said no major public-facing critical systems had been impacted by the issue and a cabinet minister insisted next week's Budget has not been compromised after the website for the Office for Budget Responsibility (OBR), the official spending watchdog, was affected."
+    ],
+    [
+     "eq",
+     "A No 10 spokeswoman said on Thursday: \"Work has already taken place"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "not \"standard practice\" to detail which specific government services had been affected."
+    ],
+    [
+     "ins",
+     "The PHP programming language powers much of the web. Panic was triggered this week when a bug was discovered in the technology was discovered by artificial intelligence giant OpenAI that could allow hackers to break into websites that use it. Tech minister Baroness Lloyd of Effra told the House of Lords: \"The information I have is that 32 government services are unavailable and four are partially unavailable.\" She said that the situation \"has largely resulted from precautionary measures taken to protect systems while security updates and mitigations are applied\"."
+    ],
+    [
+     "eq",
+     "Douglas Alexander, the secretary of state for Scotland,"
+    ],
+    [
+     "del",
+     "has"
+    ],
+    [
+     "eq",
+     "said businesses concerned about the PHP issue should visit the"
+    ],
+    [
+     "del",
+     "NCC website, but"
+    ],
+    [
+     "ins",
+     "National Centre for Cybersecurity (NCC) website. He added that"
+    ],
+    [
+     "eq",
+     "the budget has not been compromised after the OBR website shutdown. \"This"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "for Cybersecurity. That's where advice can be offered.\" Asked about the Office"
+    ],
+    [
+     "del",
+     "of"
+    ],
+    [
+     "ins",
+     "for"
+    ],
+    [
+     "eq",
+     "Budget Responsibility (OBR) taking its site offline, he added: \"I've had no indication whatsoever that there's any problem in terms of breach of budget"
+    ],
+    [
+     "del",
+     "security...historically there"
+    ],
+    [
+     "ins",
+     "security.\" He added: \"If you like, AI both identified this problem and potentially has a contribution to make to its resolutions. So in that sense, it's right to acknowledge that this is a time when a lot of questions are being asked of AI. It has the potential to contribute to medical trials. It has the potential to raise productivity. But it's also showing vulnerabilities in systems that without AI might have gone undisturbed for many years.\" Emergency shutdowns of banking, airline, rail, tax and government services were initiated on Wednesday night after the issue"
+    ],
+    [
+     "eq",
+     "was"
+    ],
+    [
+     "ins",
+     "discovered, revealing how much public and corporate systems rely on the software. PHP developers released urgent fixes on Wednesday for"
+    ],
+    [
+     "eq",
+     "vulnerabilities"
+    ],
+    [
+     "del",
+     "around"
+    ],
+    [
+     "ins",
+     "that had lurked in"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "OBR forecasting process"
+    ],
+    [
+     "ins",
+     "software for years until they were uncovered using AI, urging users to \"update immediately\". Even as companies"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "ins",
+     "governments deployed patches and suspended websites as a precaution, hacking attempts surged into"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "security"
+    ],
+    [
+     "ins",
+     "millions, according to Cloudflare. \"In the 10 hours before it was publicly announced, across the network we saw thousands"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "its website. Those have been addressed. More follows"
+    ],
+    [
+     "ins",
+     "attempts to exploit it,\" the company's CEO Matthew Prince said in a post"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "this breaking news story. Subscribe here"
+    ],
+    [
+     "ins",
+     "X late on Wednesday. \"That jumped"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "get"
+    ],
+    [
+     "ins",
+     "tens of thousands in"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "latest updates from The Independent"
+    ],
+    [
+     "ins",
+     "45 minutes post announcement, hundreds of thousands within 2 hours, and millions now.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.09,
+  "numbers_changed": [
+   "2",
+   "32",
+   "45"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 3,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 0.9712,
+ "adjudicated_by": "rules"
+}

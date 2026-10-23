@@ -1,0 +1,44 @@
+{
+ "id": "555b5e45a44c7c45-4f5792d9-c89b9f36",
+ "url": "https://www.france24.com/en/video/20261020-zelensky-accused-partner-countries-of-not-warning-kyiv-of-oncoming-attacks",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-23T11:23:12Z",
+ "date": "2026-10-23",
+ "old_title": "Zelensky accuses US of again failing to warn Kyiv of impending attacks",
+ "new_title": "Zelensky accuses US of again failing to warn Kyiv of impending attacks",
+ "old_text": "Zelensky accuses US of again failing to warn Kyiv of impending attacks\nIssued on: Modified:\nShare\nRussia launched fresh attacks on Ukraine's energy and civilian infrastructure this Monday. The Ukrainian president said Kyiv had once again received no advance warning of the attacks from partner countries that had previously shared intelligence. He also accused the US of deliberately delaying EU-paid weapons delivery. FRANCE 24's Gulliver Cragg reports from Ukraine.",
+ "new_text": "Video contentVideo\nZelensky accuses US of again failing to warn Kyiv of impending attacks\nIssued on: Modified:\nShare\nRussia launched fresh attacks on Ukraine's energy and civilian infrastructure this Monday. The Ukrainian president said Kyiv had once again received no advance warning of the attacks from partner countries that had previously shared intelligence. He also accused the US of deliberately delaying EU-paid weapons delivery. FRANCE 24's Gulliver Cragg reports from Ukraine.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "Video contentVideo"
+    ],
+    [
+     "eq",
+     "Zelensky accuses US of again failing to warn Kyiv of impending attacks"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.029,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.987,
+ "adjudicated_by": "rules"
+}

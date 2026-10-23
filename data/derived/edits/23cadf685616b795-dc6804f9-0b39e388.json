@@ -1,0 +1,44 @@
+{
+ "id": "23cadf685616b795-dc6804f9-0b39e388",
+ "url": "https://www.france24.com/en/video/20261019-marseille-cleans-up-after-looting-and-vandalism-in-protest",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-23T11:23:02Z",
+ "date": "2026-10-23",
+ "old_title": "Marseille cleans up after looting and vandalism in protest",
+ "new_title": "Marseille cleans up after looting and vandalism in protest",
+ "old_text": "Marseille cleans up after looting and vandalism in protest\nIssued on:\nShare\nRubbish littered the streets of Marseille on Sunday, one day after demonstrations against rising living costs and declining public services spiralled out of control in some of the worst violence France has witnessed for decades. On Saturday, black-clad protesters broke into Marseille's city hall and defaced the building with graffiti, while public buildings were also targeted in other French cities.",
+ "new_text": "Video contentVideo\nMarseille cleans up after looting and vandalism in protest\nIssued on:\nShare\nRubbish littered the streets of Marseille on Sunday, one day after demonstrations against rising living costs and declining public services spiralled out of control in some of the worst violence France has witnessed for decades. On Saturday, black-clad protesters broke into Marseille's city hall and defaced the building with graffiti, while public buildings were also targeted in other French cities.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "Video contentVideo"
+    ],
+    [
+     "eq",
+     "Marseille cleans up after looting and vandalism in protest Issued on: Share"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0278,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9761,
+ "adjudicated_by": "rules"
+}

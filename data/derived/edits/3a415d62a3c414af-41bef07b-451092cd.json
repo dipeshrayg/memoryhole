@@ -1,0 +1,44 @@
+{
+ "id": "3a415d62a3c414af-41bef07b-451092cd",
+ "url": "https://www.france24.com/en/video/20261020-sailing-from-britanny-to-guadeloupe-route-du-rhum-village-opens-ahead-of-transatlantic-race",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-23T11:23:10Z",
+ "date": "2026-10-23",
+ "old_title": "Sailing from Britanny to Guadeloupe: Route du Rhum village opens ahead of transatlantic race",
+ "new_title": "Sailing from Britanny to Guadeloupe: Route du Rhum village opens ahead of transatlantic race",
+ "old_text": "Sailing from Britanny to Guadeloupe: Route du Rhum village opens ahead of transatlantic race\nIssued on:\nShare\nTuesday marked the opening of the race village in Saint-Malo for the Route du Rhum, with the first boats arriving and more expected in the coming days. A fleet of 115 boats is set to depart on November 1 for Guadeloupe in the Caribbean, as competitors prepare to take on this legendary solo sailing race across the Atlantic.",
+ "new_text": "Video contentVideo\nSailing from Britanny to Guadeloupe: Route du Rhum village opens ahead of transatlantic race\nIssued on:\nShare\nTuesday marked the opening of the race village in Saint-Malo for the Route du Rhum, with the first boats arriving and more expected in the coming days. A fleet of 115 boats is set to depart on November 1 for Guadeloupe in the Caribbean, as competitors prepare to take on this legendary solo sailing race across the Atlantic.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "Video contentVideo"
+    ],
+    [
+     "eq",
+     "Sailing from Britanny to Guadeloupe: Route du Rhum village opens ahead of"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0267,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9944,
+ "adjudicated_by": "rules"
+}

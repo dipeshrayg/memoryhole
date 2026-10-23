@@ -1,0 +1,46 @@
+- Published
+Organisations and businesses are still scrambling to update their systems after cyber-security flaws were revealed in a widely-used programming language, PHP.
+Websites around the world were taken offline on Wednesday and Thursday after the developers of PHP said "critical vulnerabilities" were found in the back-end language, used in web development for decades.
+Researchers warned the "severe" flaws could expose millions of sites using it to potential hacks if left unpatched - and the UK government was among those to take some sites offline as a precaution.
+There have been no successful attacks reported so far, but experts say any impact may take time - even months - to become fully apparent.
+Downing Street said on Thursday "some" limited government services "may be offline" while security work was being carried out.
+"The information I have is that 32 Government services are unavailable and four are partially unavailable," tech minister Baroness Lloyd of Effra told the House of Lords.
+She attributed this to having "largely resulted from precautionary measures taken to protect systems while security updates and mitigations are applied".
+The government did not specify which services were taken offline - but it said no large UK public-facing critical services had been affected.
+A spokesperson said work had already taken place across government to "identify and fix potential exposures to our systems and our experts are continuing to work closely with both OpenAI and international partners on this issue".
+"But this does not mean they were hacked, and work continues to resolve any issues," they added.
+Olly Whitehouse, chief technology officer of the National Cyber Security Centre (NCSC), called the event "unprecedented".
+"It will be universally felt, I suspect," he told BBC Radio 4's World At One.
+But he said there were "no indications" of any successful breaches by hackers.
+He said the NCSC was "starting to see positive confirmation" that advice sent to those affected, external had been received and was being acted on.
+Cyber-security lecturer Rory Hopcraft told the BBC the government needed to make sure that its own infrastructure was up-to-date.
+"Hacking has been around for many years," he said.
+"The government are the ones who set the rules for other organisations... they just need to effectively be practising what they're preaching at this point."
+Dean Presley, who has a garage in Chepstow, South Wales, told BBC Your Voice he had been unable to properly process MOTs online.
+He said his computer system had been down since Wednesday morning, and while he has experienced outages before, they have not lasted this long.
+"MOTs can be conducted and they're legal but none of the paperwork and certificates can be printed and they're not on the system," Dean said.
+He said this has forced him to write everything on paper documents, leading to delays for customers.
+What is PHP?
+PHP stands for PHP: Hypertext Preprocessor.
+It's a programming language which runs on a web server, behind the scenes of a website, and effectively lets you see the sites you visit.
+When you go to a site, PHP is the code which collects data and effectively turns it into a page you can read.
+It was developed in the early 1990s to help serve dynamic web pages and applications, but still powers lots of platforms today.
+PHP has been used across a wide range of platforms including Wikipedia, online shops and WordPress â the system behind many websites - as well as to write tools to build web apps, with Laravel, Symfony and Drupal among popular PHP frameworks.
+According to cyber-security firm Wiz, external, which helped uncover the critical PHP vulnerabilities surfaced this week, PHP powers 70% of the world's websites.
+And it said the flaws - now coined "php2shell" - were inherent in the language itself, affecting many past versions of it.
+The PHP Foundation, the non-profit which maintains the programming language, warned this meant that, under the right conditions, an unauthenticated attacker would be able to remotely execute code on servers running PHP.
+Some large organisations said they had seen a high volume of attempts to breach their systems.
+Matthew Prince, the boss of internet infrastructure firm Cloudflare, wrote on X, external on Thursday that the company saw "thousands" of attempts to exploit the PHP vulnerabilities across its network in the 10 hours before it was publicly announced.
+"That jumped to tens of thousands in the 45 minutes post announcement, hundreds of thousands within two hours, and millions now," he added.
+Amazon also says it saw hackers attempt to exploit the flaws, but its websites were operating as normal.
+'Serious vulnerability'
+While the impact of the PHP flaw remains to be seen, disruption continued for businesses and organisations after many sites were taken down on Wednesday.
+The website of a Dutch agency specialising in cyber-security, Finland's government and parts of Wikipedia, taken temporarily offline, had returned to business as usual by Thursday.
+But a number of sites appeared to have been taken offline on Thursday, as operators rushed to check if PHP might be running within their systems or if any patches were required.
+In France, telecommunications company Orange also said, external it had suspended access to certain services globally while it deployed security fixes.
+According to some cyber-security researchers using scans to check servers at risk of the PHP vulnerability, the rate of organisations implementing patches - but not as quickly as might be hoped globally.
+"The window to respond has shrunk dramatically," said Matt Hull, VP of cyber intelligence and response at global cyber security company NCC Group.
+"A few years ago, attackers might have taken weeks to exploit a vulnerability. Now, it can be days or hours."
+Hull also highlighted the extent of the task facing developers and engineers working to deal with the issue.
+"Several days into this incident, security professionals might already be dealing with significant burnout," he said, urging a need to "make time to rest, share the workload and look after each other".
+"Resilience depends on people as much as technology."

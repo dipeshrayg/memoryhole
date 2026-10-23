@@ -1,0 +1,44 @@
+{
+ "id": "50a0096dbe55aabd-d96e2f64-8f19cf82",
+ "url": "https://www.france24.com/en/video/20261019-replay-french-pm-speaks-after-crisis-meeting",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-23T11:22:56Z",
+ "date": "2026-10-23",
+ "old_title": "REPLAY: French PM speaks after crisis meeting",
+ "new_title": "REPLAY: French PM speaks after crisis meeting",
+ "old_text": "REPLAY: French PM speaks after crisis meeting\nIssued on:\nShare\nFrench Prime Minister Sebastien Lecornu on Monday said he had asked regional authorities to impose curfews in some cities. The measures, which he said would be \"partial\" and \"localised\", are intended to protect businesses after weekend demonstrations spilled over into street violence. Lecornu also accused the \"ultra-left movement\" of seeking to \"orchestrate deep unrest across the country\" in the runup to next year's presidential election. Watch our replay.",
+ "new_text": "Video contentVideo\nREPLAY: French PM speaks after crisis meeting\nIssued on:\nShare\nFrench Prime Minister Sebastien Lecornu on Monday said he had asked regional authorities to impose curfews in some cities. The measures, which he said would be \"partial\" and \"localised\", are intended to protect businesses after weekend demonstrations spilled over into street violence. Lecornu also accused the \"ultra-left movement\" of seeking to \"orchestrate deep unrest across the country\" in the runup to next year's presidential election. Watch our replay.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "Video contentVideo"
+    ],
+    [
+     "eq",
+     "REPLAY: French PM speaks after crisis meeting Issued on: Share French Prime"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0256,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9764,
+ "adjudicated_by": "rules"
+}

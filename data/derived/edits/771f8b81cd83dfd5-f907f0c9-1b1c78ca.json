@@ -1,0 +1,304 @@
+{
+ "id": "771f8b81cd83dfd5-f907f0c9-1b1c78ca",
+ "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-10-23T11:31:28Z",
+ "date": "2026-10-23",
+ "old_title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax",
+ "new_title": "Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
+ "old_text": "Meta has struck a deal with Mark Zuckerberg to protect him from the threat of a California wealth tax targeting billionaires.\nThe social media company behind Facebook, Instagram and WhatsApp revealed on Wednesday night that the arrangement would keep its chief executive living in California, where its headquarters are located.\nUnder the deal, Zuckerberg will receive new shares that could be sold to potentially foot a multibillion-dollar tax bill in the event that California passes a one-off billionaire tax. In return, he is committed to remain a resident of the state, or wherever Meta maintains its base, for eight years\nCalifornians will vote early next month on Proposition 40 - a one-time 5% tax on the roughly 250 billionaires who live in the state.\nZuckerberg, worth $239bn according to Forbes, told Meta he was considering moving his primary residence elsewhere because Prop 40 could expose him to a massive tax liability, potentially forcing him to sell voting shares to pay it.\nIn response, Meta is creating a new class of non-voting shares via a two-for-one stock split for all existing shareholders.\nThis will allow Zuckerberg to sell some of this new class C shares to pay a potential tax bill, without diluting his control of the company.\nRecent polling has shown that Prop 40 remains short of majority support with voters. Tech billionaires have been spending heavily to fight the measure, including the Google co-founder Sergey Brin, the Palantir co-founder Peter Thiel, and former Google CEO Eric Schmidt.\nRohit Khanna, the US congressman representing California's 17th congressional district, has dubbed Prop 40 as a choice between standing with the working class or the oligarchs.\n\"Every society is taxed. The only question is who will pay. In Trump's America, working people pay more than they should, while billionaires are so unburdened that they are becoming trillionaires. In the America we seek, billionaires and trillionaires will pay their fair share, while working people will be unburdened,\" Khanna wrote in the Guardian last week.\nMeta also reported a 26% rise in revenues for the last quarter to $64.6bn, beating expectations of $63.3bn.\nBut profits fell by 37% to $13bn, dragged down by a $9.9bn charge related to Meta's landmark lawsuit over child protection and social media addiction failings.\nIn a separate case, a judge in New Mexico ordered Meta to pay $25bn on Wednesday after a trial found the company had misled the public about how it handled Facebook user data.\nMeta also revealed it had cut its headcount to 66,775 at the end of September, 15% fewer than a year ago.\nReuters contributed to this report.",
+ "new_text": "Meta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billionaires.\nThe social media company behind Facebook, Instagram and WhatsApp revealed on Wednesday night that the arrangement would keep its chief executive living in California, where Meta's headquarters are located.\nUnder the deal, Zuckerberg will receive new shares that could be sold to potentially foot a multibillion-dollar tax bill in the event that California passes a one-off billionaire tax. In return, he is committed to remain a resident of the state, or wherever Meta maintains its base, for eight years.\nCalifornians will vote early next month on Proposition 40, a one-off 5% tax on the roughly 250 billionaires who live in the state.\nZuckerberg, worth $239bn (£180bn) according to Forbes, told Meta he was considering moving his primary residence elsewhere because Prop 40 could expose him to a massive tax liability, potentially forcing him to sell voting shares to pay it.\nIn response, Meta is creating a new class of non-voting shares via a two-for-one stock split for all existing shareholders. This will allow Zuckerberg to sell some of these new class C shares to pay a potential tax bill, without diluting his control of the company.\nRecent polling has shown that Prop 40 remains short of majority support with voters. Tech billionaires have been spending heavily to fight the measure, including the Google co-founder Sergey Brin, the Palantir co-founder Peter Thiel and the former Google CEO Eric Schmidt.\nRohit Khanna, the US congressman representing California's 17th congressional district, has described Prop 40 as a choice between standing with the working class or the oligarchs.\n\"Every society is taxed. The only question is who will pay,\" Khanna wrote in the Guardian last week.\n\"In Trump's America, working people pay more than they should, while billionaires are so unburdened that they are becoming trillionaires. In the America we seek, billionaires and trillionaires will pay their fair share, while working people will be unburdened.\"\nMeta also reported a 26% rise in revenues for the last quarter to $64.6bn, beating expectations of $63.3bn. But profits fell by 37% to $13bn, dragged down by a $9.9bn charge related to Meta's lawsuit over child protection and social media addiction failings.\nThe company's shares slid by more than 6% when trading opened on Wall Street on Thursday, helping to drag the tech-focused Nasdaq index down 2.5% amid a wider selloff of AI-linked stocks.\nIn a separate case, on Wednesday a judge in New Mexico ordered Meta to pay $25bn following a trial that found the company had misled the public about how it handled Facebook user data.\nMeta also revealed that it had cut its headcount to 66,775 at the end of September, 15% fewer than a year ago.\nReuters contributed to this report.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Meta has struck a deal with Mark Zuckerberg to"
+    ],
+    [
+     "del",
+     "protect"
+    ],
+    [
+     "ins",
+     "help"
+    ],
+    [
+     "eq",
+     "him"
+    ],
+    [
+     "del",
+     "from the threat of"
+    ],
+    [
+     "ins",
+     "foot"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "ins",
+     "possible"
+    ],
+    [
+     "eq",
+     "California wealth tax targeting billionaires. The social media company behind Facebook, Instagram"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "that the arrangement would keep its chief executive living in California, where"
+    ],
+    [
+     "del",
+     "its"
+    ],
+    [
+     "ins",
+     "Meta's"
+    ],
+    [
+     "eq",
+     "headquarters are located. Under the deal, Zuckerberg will receive new shares that"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "resident of the state, or wherever Meta maintains its base, for eight"
+    ],
+    [
+     "del",
+     "years"
+    ],
+    [
+     "ins",
+     "years."
+    ],
+    [
+     "eq",
+     "Californians will vote early next month on Proposition"
+    ],
+    [
+     "del",
+     "40 -"
+    ],
+    [
+     "ins",
+     "40,"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "one-time"
+    ],
+    [
+     "ins",
+     "one-off"
+    ],
+    [
+     "eq",
+     "5% tax on the roughly 250 billionaires who live in the state. Zuckerberg, worth $239bn"
+    ],
+    [
+     "ins",
+     "(£180bn)"
+    ],
+    [
+     "eq",
+     "according to Forbes, told Meta he was considering moving his primary residence"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "for all existing shareholders. This will allow Zuckerberg to sell some of"
+    ],
+    [
+     "del",
+     "this"
+    ],
+    [
+     "ins",
+     "these"
+    ],
+    [
+     "eq",
+     "new class C shares to pay a potential tax bill, without diluting"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the measure, including the Google co-founder Sergey Brin, the Palantir co-founder Peter"
+    ],
+    [
+     "del",
+     "Thiel,"
+    ],
+    [
+     "ins",
+     "Thiel"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "former Google CEO Eric Schmidt. Rohit Khanna, the US congressman representing California's 17th congressional district, has"
+    ],
+    [
+     "del",
+     "dubbed"
+    ],
+    [
+     "ins",
+     "described"
+    ],
+    [
+     "eq",
+     "Prop 40 as a choice between standing with the working class or the oligarchs. \"Every society is taxed. The only question is who will"
+    ],
+    [
+     "del",
+     "pay. In"
+    ],
+    [
+     "ins",
+     "pay,\" Khanna wrote in the Guardian last week. \"In"
+    ],
+    [
+     "eq",
+     "Trump's America, working people pay more than they should, while billionaires are"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and trillionaires will pay their fair share, while working people will be"
+    ],
+    [
+     "del",
+     "unburdened,\" Khanna wrote in the Guardian last week."
+    ],
+    [
+     "ins",
+     "unburdened.\""
+    ],
+    [
+     "eq",
+     "Meta also reported a 26% rise in revenues for the last quarter"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "37% to $13bn, dragged down by a $9.9bn charge related to Meta's"
+    ],
+    [
+     "del",
+     "landmark"
+    ],
+    [
+     "eq",
+     "lawsuit over child protection and social media addiction failings."
+    ],
+    [
+     "ins",
+     "The company's shares slid by more than 6% when trading opened on Wall Street on Thursday, helping to drag the tech-focused Nasdaq index down 2.5% amid a wider selloff of AI-linked stocks."
+    ],
+    [
+     "eq",
+     "In a separate case,"
+    ],
+    [
+     "ins",
+     "on Wednesday"
+    ],
+    [
+     "eq",
+     "a judge in New Mexico ordered Meta to pay $25bn"
+    ],
+    [
+     "del",
+     "on Wednesday after"
+    ],
+    [
+     "ins",
+     "following"
+    ],
+    [
+     "eq",
+     "a trial"
+    ],
+    [
+     "ins",
+     "that"
+    ],
+    [
+     "eq",
+     "found the company had misled the public about how it handled Facebook user data. Meta also revealed"
+    ],
+    [
+     "ins",
+     "that"
+    ],
+    [
+     "eq",
+     "it had cut its headcount to 66,775 at the end of September, 15% fewer than a year ago. Reuters contributed to this report."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1982,
+  "numbers_changed": [
+   "180",
+   "2.5",
+   "6"
+  ],
+  "market_figures_changed": [
+   "2.5%",
+   "6%",
+   "£180bn"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "FACTUAL",
+ "score": 1.25,
+ "similarity": 0.9904,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,118 @@
+{
+ "id": "79f652bdb0d86221-22fbd7a8-ee570ac4",
+ "url": "https://www.independent.co.uk/news/uk/crime/kieran-hayler-katie-price-court-b3071423.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-23T11:25:05Z",
+ "date": "2026-10-23",
+ "old_title": "Katie Price's ex-husband found not guilty of raping teenage girl",
+ "new_title": "Katie Price's ex-husband found not guilty of raping teenage girl",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nKatie Price's ex-husband Kieran Hayler has been found not guilty of raping and sexually assaulting a 13-year-old girl.\nHayler, 39, was charged with three counts of rape and one count of sexual assault following alleged incidents in West Sussex in 2016.\nHe was acquitted on Thursday following a trial at Lewes Crown Court.\nHe was also cleared of four alternative counts of sexual activity with a child.\nHayler's turbulent relationship with Ms Price, to whom he was married from 2012 to 2021, was laid bare during the court proceedings.\nHe accused the media personality of setting him up with \"fabricated\" allegations, saying that it was a \"smear campaign against me\".\nOn the stand, Ms Price denied being \"angry and vengeful\" towards her ex-husband.\nThe jury, made up of four men and six women, returned the verdicts on Friday after nearly 15 hours of deliberation.\nHayler appeared emotional in court, and bent over as he was told by the judge that he could leave the dock.\nThis is a breaking news story. More follows. Subscribe here to get the latest updates from The Independent.",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nKatie Price's ex-husband Kieran Hayler has been found not guilty of raping and sexually assaulting a 13-year-old girl.\nHayler, 39, was charged with three counts of rape and one count of sexual assault following alleged incidents in West Sussex in 2016.\nHe was acquitted on Thursday following a trial at Lewes Crown Court.\nHe was also cleared of four alternative counts of sexual activity with a child.\nHayler's turbulent relationship with Ms Price, to whom he was married from 2012 to 2021, was laid bare during the court proceedings.\nHe accused the media personality of setting him up with \"fabricated\" allegations, saying that it was a \"smear campaign against me\".\nOn the stand, Ms Price denied being \"angry and vengeful\" towards her ex-husband.\nThe jury, made up of four men and six women, returned the verdicts on Friday after nearly 15 hours of deliberation.\nHayler appeared emotional in court, and bent over as he was told by the judge that he could leave the dock.\nThe complainant first contacted the NSPCC in 2021 over the allegations, and the charity referred her to the police. She is not part of Hayler or Ms Price's extended families.\nThe complainant's police interview was played in court during the trial, in which she alleged that Hayler told her that sex was a \"special thing\" and cried before raping her.\nSpeaking after the alleged third incident, the complainant told police: \"I think by that point I knew it wasn't quite right, he kept telling me to 'shh', I had to be secretive and not tell anyone.\"\nShe said he told her: \"You can't talk about it, you can't tell anyone, I might get in trouble for this.\"\nShe told police: \"I tried to forget it for so many years.\"\nHayler was first interviewed by police in 2022, and consistently denied the allegations.\nThe court heard that Ms Price sent the complainant a text message asking if Hayler had kissed her and saying: \"I will make you a little star.\"\nHayler said he believed that Ms Price was \"coaching\" the complainant.\nIf you are a child and you need help because something has happened to you, you can call Childline free of charge on 0800 1111. You can also call the NSPCC if you are an adult and you are worried about a child, on 0808 800 5000. The National Association for People Abused in Childhood (Napac) offers support for adults on 0808 801 0331.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "he was told by the judge that he could leave the dock."
+    ],
+    [
+     "del",
+     "This"
+    ],
+    [
+     "ins",
+     "The complainant first contacted the NSPCC in 2021 over the allegations, and the charity referred her to the police. She"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "ins",
+     "not part of Hayler or Ms Price's extended families. The complainant's police interview was played in court during the trial, in which she alleged that Hayler told her that sex was"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "breaking news story. More follows. Subscribe here"
+    ],
+    [
+     "ins",
+     "\"special thing\" and cried before raping her. Speaking after the alleged third incident, the complainant told police: \"I think by that point I knew it wasn't quite right, he kept telling me"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "ins",
+     "'shh', I had to be secretive and not tell anyone.\" She said he told her: \"You can't talk about it, you can't tell anyone, I might"
+    ],
+    [
+     "eq",
+     "get"
+    ],
+    [
+     "ins",
+     "in trouble for this.\" She told police: \"I tried to forget it for so many years.\" Hayler was first interviewed by police in 2022, and consistently denied"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "latest updates from"
+    ],
+    [
+     "ins",
+     "allegations."
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "Independent."
+    ],
+    [
+     "ins",
+     "court heard that Ms Price sent the complainant a text message asking if Hayler had kissed her and saying: \"I will make you a little star.\" Hayler said he believed that Ms Price was \"coaching\" the complainant. If you are a child and you need help because something has happened to you, you can call Childline free of charge on 0800 1111. You can also call the NSPCC if you are an adult and you are worried about a child, on 0808 800 5000. The National Association for People Abused in Childhood (Napac) offers support for adults on 0808 801 0331."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.1574,
+  "numbers_changed": [
+   "0331",
+   "0800",
+   "0808",
+   "1111",
+   "2021",
+   "2022",
+   "5000",
+   "800",
+   "801"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 3,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.9,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

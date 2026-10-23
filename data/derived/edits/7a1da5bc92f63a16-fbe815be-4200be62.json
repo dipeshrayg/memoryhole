@@ -1,0 +1,135 @@
+{
+ "id": "7a1da5bc92f63a16-fbe815be-4200be62",
+ "url": "https://www.theguardian.com/football/2026/oct/22/harry-kane-ballon-dor-wait-very-stressful-family",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-23T11:34:57Z",
+ "date": "2026-10-23",
+ "old_title": "Harry Kane admits wait to learn if he has won Ballon d'Or is 'very stressful' for family",
+ "new_title": "Harry Kane says wait to learn if he has won Ballon d'Or is stressful for family",
+ "old_text": "Harry Kane would love to know now whether he has won the Ballon d'Or because the uncertainty and constant questions are driving his family to distraction. But the Bayern Munich and England striker accepts the suspense before the big reveal at the London Palladium on Monday night is part of the show.\nKane is the odds-on favourite to win the prestigious individual honour after a prolific run of form. The 33-year-old scored 61 goals for Bayern last season and 12 for England. This time out, he has 10 for Bayern and six for England. He scored from the penalty spot in Wednesday night's 2-2 Champions League draw against Arsenal at the Allianz Arena, although his stand-out moment was the inch-perfect through ball that set up Alphonso Davies to make it 1-1.\nBarcelona's Lamine Yamal is the second-favourite for the Ballon d'Or and Kylian Mbappé of Real Madrid is next in the betting.\n\"I think my wife would prefer to know and my family ... it's very stressful for everyone,\" Kane said, when asked whether he would prefer to be told in advance of the ceremony. \"I can see why they don't tell people. They want everyone to go, all the big names, and there will be more people watching it if they don't know so I can understand why.\n\"From my point of view, of course I'd love to know to just kind of see and not have to wait throughout the whole night. But it is their decision, I can't control that. We'll have to just enjoy it and try not to stress out too much. I try not to think about it. Obviously it is hard not to. There are always rumours and stuff flying around so you try to stay away from it.\"",
+ "new_text": "Harry Kane would love to know now whether he has won the Ballon d'Or because the uncertainty and constant questions are driving his family to distraction. But the Bayern Munich and England striker accepts the suspense before the big reveal at the London Palladium on Monday night is part of the show.\nKane is the odds-on favourite to win the prestigious individual honour after a prolific run of form. The 33-year-old scored 61 goals for Bayern last season and 12 for England. This time out, he has 10 for Bayern and six for England.\nHe scored from the penalty spot in Wednesday's 2-2 Champions League draw against Arsenal at the Allianz Arena, although his standout moment was the inch-perfect through ball that set up Alphonso Davies to make it 1-1.\nBarcelona's Lamine Yamal is the second-favourite for the Ballon d'Or and Kylian Mbappé of Real Madrid is next in the betting.\n\"I think my wife would prefer to know and my family ... it's very stressful for everyone,\" Kane said. \"I can see why they don't tell people. They want everyone to go, all the big names, and there will be more people watching it if they don't know so I can understand why.\n\"From my point of view, I'd love to know to just kind of see and not have to wait throughout the whole night. But it is their decision, I can't control that. We'll have to just enjoy it and try not to stress out too much.\n\"I try not to think about it. Obviously it is hard not to. There are always rumours and stuff flying around so you try to stay away from it.\"\nKane's fellow Bayern forward Luis Díaz will be out of action for the \"foreseeable future\" after suffering a minor muscle tear in his left hamstring during Wednesday's game.\nThe 29-year-old Colombia international came on in the 68th minute at the Allianz Arena but was forced off in stoppage time after suffering the injury.\nExaminations carried out by Bayern's medical staff confirmed the hamstring tear, the club said in a statement. \"The 29-year-old forward will therefore be sidelined for the time being,\" Bayern said.\nReuters contributed to this report",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Bayern and six for England. He scored from the penalty spot in"
+    ],
+    [
+     "del",
+     "Wednesday night's"
+    ],
+    [
+     "ins",
+     "Wednesday's"
+    ],
+    [
+     "eq",
+     "2-2 Champions League draw against Arsenal at the Allianz Arena, although his"
+    ],
+    [
+     "del",
+     "stand-out"
+    ],
+    [
+     "ins",
+     "standout"
+    ],
+    [
+     "eq",
+     "moment was the inch-perfect through ball that set up Alphonso Davies to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to know and my family ... it's very stressful for everyone,\" Kane"
+    ],
+    [
+     "del",
+     "said, when asked whether he would prefer to be told in advance of the ceremony."
+    ],
+    [
+     "ins",
+     "said."
+    ],
+    [
+     "eq",
+     "\"I can see why they don't tell people. They want everyone to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "don't know so I can understand why. \"From my point of view,"
+    ],
+    [
+     "del",
+     "of course"
+    ],
+    [
+     "eq",
+     "I'd love to know to just kind of see and not have"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to just enjoy it and try not to stress out too much."
+    ],
+    [
+     "del",
+     "I"
+    ],
+    [
+     "ins",
+     "\"I"
+    ],
+    [
+     "eq",
+     "try not to think about it. Obviously it is hard not to."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and stuff flying around so you try to stay away from it.\""
+    ],
+    [
+     "ins",
+     "Kane's fellow Bayern forward Luis Díaz will be out of action for the \"foreseeable future\" after suffering a minor muscle tear in his left hamstring during Wednesday's game. The 29-year-old Colombia international came on in the 68th minute at the Allianz Arena but was forced off in stoppage time after suffering the injury. Examinations carried out by Bayern's medical staff confirmed the hamstring tear, the club said in a statement. \"The 29-year-old forward will therefore be sidelined for the time being,\" Bayern said. Reuters contributed to this report"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3818,
+  "numbers_changed": [
+   "29",
+   "68"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.15,
+ "similarity": 0.9864,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "30cfdec7a6c29f87-79cefe76-32ddbf51",
+ "url": "https://www.france24.com/en/video/20261020-horror-and-disbelief-after-lawmaker-attacked-in-rural-australia",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-23T11:23:04Z",
+ "date": "2026-10-23",
+ "old_title": "Horror and disbelief after lawmaker attacked in rural Australia",
+ "new_title": "Horror and disbelief after lawmaker attacked in rural Australia",
+ "old_text": "Horror and disbelief after lawmaker attacked in rural Australia\nIssued on:\nShare\nA rural Australian town felt a mix of horror and disbelief on Tuesday after a highly respected lawmaker was gravely injured in what looked to be a targeted attack. Former nurse and midwife Helen Haines entered parliament in 2019, earning respect across the political divide for her efforts to stamp out corruption and bolster transparency. The 65-year-old was struck by a two-tonne SUV in Wangaratta on Monday afternoon.",
+ "new_text": "Video contentVideo\nHorror and disbelief after lawmaker attacked in rural Australia\nIssued on:\nShare\nA rural Australian town felt a mix of horror and disbelief on Tuesday after a highly respected lawmaker was gravely injured in what looked to be a targeted attack. Former nurse and midwife Helen Haines entered parliament in 2019, earning respect across the political divide for her efforts to stamp out corruption and bolster transparency. The 65-year-old was struck by a two-tonne SUV in Wangaratta on Monday afternoon.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "Video contentVideo"
+    ],
+    [
+     "eq",
+     "Horror and disbelief after lawmaker attacked in rural Australia Issued on: Share"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.025,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.987,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,80 @@
+{
+ "id": "eaeb9825d63e5fff-b684aa71-6c70d8e5",
+ "url": "https://www.abc.net.au/news/2026-10-22/woman-and-child-dead-box-hill/107298964",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-23T11:24:20Z",
+ "date": "2026-10-23",
+ "old_title": "Police investigating death of woman and child in Melbourne's east",
+ "new_title": "Police investigating death of woman and child in Melbourne's east",
+ "old_text": "Detectives are investigating the circumstances around the death of a woman and a child in Melbourne's east tonight.\nVictoria Police said they were called to Prospect Street in Box Hill just before 6:20pm, with reports a woman had been found unresponsive outside an apartment block.\nAn unresponsive child was discovered nearby a short time later.\n\"The woman and primary school-aged child could not be revived and sadly died at the scene,\" a police spokesperson said.\nAt this stage, police are not looking for anyone else in relation to the incident.\nAnyone who witnessed the incident or has information has been urged to phone Crime Stoppers on 1800 333 000.",
+ "new_text": "Detectives are investigating the circumstances around the death of a woman and a child in Melbourne's east on Thursday evening.\nVictoria Police said they were called to Prospect Street in Box Hill just before 6:20pm, with reports a woman had been found unresponsive outside an apartment block.\nAn unresponsive child was discovered nearby a short time later.\n\"The woman and primary school-aged child could not be revived and sadly died at the scene,\" a police spokesperson said.\nPolice said they were not looking for anyone else in relation to the incident.\nResidents told the ABC they were prevented from seeing much of what happened last night because of a heavy police presence.\nMany received texts from police asking them to remain indoors.\nOne man who works opposite the building who identified himself as Michael told the ABC his staff were too upset today to come to work.\n\"I still call them to come because we need to support each other,\" he said.\n\"I call them, if you need help or anything to see doctor or anything, tell me.\"\nMichael said the tragedy had deeply affected the building's residents.\n\"I can feel whole building mourning and crying,\" he said.\nPeople at the scene have told the ABC the woman did not live in the building.\nAnyone who witnessed the incident or has information has been urged to phone Crime Stoppers on 1800 333 000.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "around the death of a woman and a child in Melbourne's east"
+    ],
+    [
+     "del",
+     "tonight."
+    ],
+    [
+     "ins",
+     "on Thursday evening."
+    ],
+    [
+     "eq",
+     "Victoria Police said they were called to Prospect Street in Box Hill"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "be revived and sadly died at the scene,\" a police spokesperson said."
+    ],
+    [
+     "del",
+     "At this stage, police are"
+    ],
+    [
+     "ins",
+     "Police said they were"
+    ],
+    [
+     "eq",
+     "not looking for anyone else in relation to the incident."
+    ],
+    [
+     "ins",
+     "Residents told the ABC they were prevented from seeing much of what happened last night because of a heavy police presence. Many received texts from police asking them to remain indoors. One man who works opposite the building who identified himself as Michael told the ABC his staff were too upset today to come to work. \"I still call them to come because we need to support each other,\" he said. \"I call them, if you need help or anything to see doctor or anything, tell me.\" Michael said the tragedy had deeply affected the building's residents. \"I can feel whole building mourning and crying,\" he said. People at the scene have told the ABC the woman did not live in the building."
+    ],
+    [
+     "eq",
+     "Anyone who witnessed the incident or has information has been urged to phone Crime Stoppers on 1800 333 000."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.2477,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.45,
+ "similarity": 0.7255,
+ "adjudicated_by": "rules"
+}

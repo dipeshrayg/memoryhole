@@ -1,0 +1,173 @@
+{
+ "id": "1877cfe6c89b03aa-ac28fb1e-3db75fb3",
+ "url": "https://variety.com/2026/tv/news/comcast-q3-boosted-fifa-world-cup-odyssey-revenue-downturn-1236919567/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-10-23T11:38:25Z",
+ "date": "2026-10-23",
+ "old_title": "Comcast Q3 Sees Continued Broadband Downturn, Despite Boosts From World Cup, Peacock",
+ "new_title": "Comcast Q3 Sees Continued Broadband Downturn, Despite Boosts From World Cup, Peacock",
+ "old_text": "Comcast's third-quarter results were buoyed by a surge in advertising tied to the Spanish-language telecast on NBCU's Telemundo, a profit at its Peacock streaming service and the box-office performance of films like \"The Odyssey,\" but revenue in most parts of the company's cable-and-media empire dipped as the Philadelphia media conglomerate faced challenges in its core cable-and-connections business as well as its theme parks.\nComcast said third quarter revenue fell 6.1% to nearly $29.3 billion, compared with nearly $31.2 billion in the year-earlier period. Net income, however, rose 3.5%, to nearly $3.45 billion, or 97 cents per share., compared with $3.33 billion, or 90 cents per share, in the year-ago quarter.\nRevenue from the company's connectivity and platforms operations fell to $19.66 billion. The company said its broadband users decreased by 144,000 in the third quarter, compared with a erosion of 91,000 in the year-earlier quarter. Comcast also lost 274,000 domestic video customers, compared with 257,000 a year earlier.\nPopular on Variety\nRevenue from the company's TV, film, and theme parks operations - soon to be spun off as a separate NBCUniversal - rose 6.5% to $10.54 billion. Ad sales tied to the World Cup boosted the overall segment, with U.S. ad sale surging 14.6%. Without the World Cup, however, domestic ad sales would have increased just 0.3%. Comcast saw a 4.4% dip in revenue at its theme parks sales declined, citing lower revenue from park admissions.\nThe Peacock streaming service saw revenue surge 33% to $1.82 billion, but was down sequentially. Paid subscribers remained flat at 48 million versus Q2, while the total was up 17% year over year. Peacock saw a pre-tax profit of $261 million, compared with a loss of $217 million in the year-earlier period.",
+ "new_text": "Comcast's third-quarter results were buoyed by a surge in advertising tied to the Spanish-language telecast on NBCUniversal's Telemundo, a profit at its Peacock streaming service and the box-office performance of films like \"The Odyssey,\" but revenue in most parts of the company's cable-and-media empire dipped as the Philadelphia media conglomerate faced challenges in its core cable-and-connections business as well as its theme parks.\nComcast said third quarter revenue fell 6.1% to nearly $29.3 billion, compared with nearly $31.2 billion in the year-earlier period. On a pro-forma basis - backing out cable-centric Versant Media, which spun off from NBCU in January 2026, and the sale of Sky Deutschland to RTL Group in May 2026 - revenue was up 0.5% versus the prior-year period and adjusted EBITDA (earnings before interest, taxes, depreciation and amortization) was up 0.8%.\nNet income rose 3.5%, to nearly $3.45 billion, or 97 cents per share, compared with $3.33 billion, or 90 cents per share, in the year-ago quarter.\nPopular on Variety\nThe company said its plan to spin off NBCU as its own standalone entity remained \"on track\" for 2027, and indicated it would take a charge of more than $1 billion in the fourth quarter tied to that process.\nRevenue from the company's connectivity and platforms operations fell to $19.66 billion. The company said its broadband users decreased by 144,000 in the third quarter, compared with a erosion of 91,000 in the year-earlier quarter. Comcast also lost 274,000 domestic video customers, compared with 257,000 a year earlier.\nRevenue from the company's TV, film, and theme parks operations - soon to be spun off as a separate NBCUniversal - rose 6.5% to $10.54 billion. Ad sales tied to the World Cup boosted the overall segment, with U.S. ad sale surging 14.6%. Without the World Cup, however, domestic ad sales would have increased just 0.3%. Comcast saw a 4.4% dip in revenue at its theme parks sales declined, citing lower revenue from park admissions.\nThe Peacock streaming service saw revenue surge 34% year over year to $1.82 billion, but it was down sequentially (from $1.90 billion in Q2). Paid subscribers remained flat at 48 million versus Q2, while the total was up 17% year over year. Peacock saw a pre-tax profit of $261 million, compared with a loss of $217 million in the year-earlier period.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "buoyed by a surge in advertising tied to the Spanish-language telecast on"
+    ],
+    [
+     "del",
+     "NBCU's"
+    ],
+    [
+     "ins",
+     "NBCUniversal's"
+    ],
+    [
+     "eq",
+     "Telemundo, a profit at its Peacock streaming service and the box-office performance"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "nearly $29.3 billion, compared with nearly $31.2 billion in the year-earlier period."
+    ],
+    [
+     "ins",
+     "On a pro-forma basis - backing out cable-centric Versant Media, which spun off from NBCU in January 2026, and the sale of Sky Deutschland to RTL Group in May 2026 - revenue was up 0.5% versus the prior-year period and adjusted EBITDA (earnings before interest, taxes, depreciation and amortization) was up 0.8%."
+    ],
+    [
+     "eq",
+     "Net"
+    ],
+    [
+     "del",
+     "income, however,"
+    ],
+    [
+     "ins",
+     "income"
+    ],
+    [
+     "eq",
+     "rose 3.5%, to nearly $3.45 billion, or 97 cents per"
+    ],
+    [
+     "del",
+     "share.,"
+    ],
+    [
+     "ins",
+     "share,"
+    ],
+    [
+     "eq",
+     "compared with $3.33 billion, or 90 cents per share, in the year-ago quarter."
+    ],
+    [
+     "ins",
+     "Popular on Variety The company said its plan to spin off NBCU as its own standalone entity remained \"on track\" for 2027, and indicated it would take a charge of more than $1 billion in the fourth quarter tied to that process."
+    ],
+    [
+     "eq",
+     "Revenue from the company's connectivity and platforms operations fell to $19.66 billion."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "also lost 274,000 domestic video customers, compared with 257,000 a year earlier."
+    ],
+    [
+     "del",
+     "Popular on Variety"
+    ],
+    [
+     "eq",
+     "Revenue from the company's TV, film, and theme parks operations - soon"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "lower revenue from park admissions. The Peacock streaming service saw revenue surge"
+    ],
+    [
+     "del",
+     "33%"
+    ],
+    [
+     "ins",
+     "34% year over year"
+    ],
+    [
+     "eq",
+     "to $1.82 billion, but"
+    ],
+    [
+     "ins",
+     "it"
+    ],
+    [
+     "eq",
+     "was down"
+    ],
+    [
+     "del",
+     "sequentially."
+    ],
+    [
+     "ins",
+     "sequentially (from $1.90 billion in Q2)."
+    ],
+    [
+     "eq",
+     "Paid subscribers remained flat at 48 million versus Q2, while the total"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4062,
+  "numbers_changed": [
+   "0.5",
+   "0.8",
+   "1",
+   "1.90",
+   "2",
+   "2026",
+   "2027",
+   "33",
+   "34"
+  ],
+  "market_figures_changed": [
+   "$1 billion",
+   "$1.90 billion",
+   "0.5%",
+   "0.8%",
+   "33%",
+   "34%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.291,
+ "similarity": 0.9049,
+ "adjudicated_by": "rules"
+}

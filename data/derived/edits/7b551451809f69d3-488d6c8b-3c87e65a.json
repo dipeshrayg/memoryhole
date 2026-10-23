@@ -1,0 +1,68 @@
+{
+ "id": "7b551451809f69d3-488d6c8b-3c87e65a",
+ "url": "https://variety.com/2026/film/global/galileo-elio-germano-fandango-rome-mia-market-1236918891/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-10-23T11:38:29Z",
+ "date": "2026-10-23",
+ "old_title": "'Galileo,' Toplining Elio Germano, Boarded by Fandango, Kicking Off Sales at Rome's MIA Market (EXCLUSIVE)",
+ "new_title": "'Galileo,' Toplining Elio Germano, Boarded by Fandango, Kicking Off Sales at Rome's MIA Market (EXCLUSIVE)",
+ "old_text": "Fandango Sales has taken all international rights to \"Galileo,\" a new film from Italo-Brit director Roan Johnson (\"Rider\"), toplining Italian A-list actor Elio Germano as pioneering scientist Galileo Galilei, who famously stood trial before the Roman inquisition.\nFandango is introducing the €8 million ($9 million) movie to international buyers during Rome's MIA Market.\n\"Galileo,\" which blends drama and comedy, sees Germano - who won top acting honors in Cannes with Daniele Luchetti's \"Our Life\" - engaged in confrontation with his inquisitor before the trial over his \"Dialogue Concerning the Two Chief World Systems\" treatise in which he demonstrated the truth of the Copernican system over the Ptolemaic one, proving, for the first time, that the Earth revolves around the Sun.\nThe film - on which principal photography started in late September and will run through November - is produced by Bibi Film with RAI Cinema and with the participation of HBO Max. Fandango will also distribute in Italy.\nPopular on Variety\n\"Galileo\" is being described in promotional materials as \"not a conventionally biographical film, but a stream of consciousness [work] that weaves together Galileo's past and present.\" The narrative arc spans from his religious calling as a young boy, when Galileo was sent to the monastery school of Santa Maria di Vallombrosa after his family moved to Florence in 1574, to his successes at the University of Padua that included discovering Jupiter's four largest moons and Venus' phases, his love with partner Marina Gamba with whom he had three children and, finally, \"the torment of choosing between faith and reason,\" as the synopsis puts it.\nJohnson, who wrote the \"Galileo\" screenplay, is known for dramedy \"So Far So Good\" (\"Fino a qui tutto bene\"), winner of the audience award at the 2014 Rome Film Festival, 2016 teen pregnancy drama \"Piuma,\" which competed in Venice and 2026's \"Rider,\" a star-crossed lovers' musical set in contemporary Milan that also bowed in Venice. He has directed the long-running Sky series \"I delitti del BarLume.\"\n\"Galileo's story transcends borders, exploring the universal struggle to pursue knowledge in the face of established power,\" said Raffaella Di Giulio, Fandango's head of international sales and acquisitions.\n\"With Roan Johnson directing and Elio Germano in the lead, the film brings a globally recognized historical figure to the screen in a fresh light, balancing seriousness with playfulness, through a story that remains deeply relevant today,\" she added.",
+ "new_text": "Fandango Sales has taken all international rights to \"Galileo,\" a new film from Italo-Brit director Roan Johnson (\"Rider\"), toplining Italian A-list actor Elio Germano as pioneering scientist Galileo Galilei, who famously stood trial before the Roman inquisition.\nFandango is introducing the €8 million ($9 million) movie to international buyers during Rome's MIA Market.\n\"Galileo,\" which blends drama and comedy, sees Germano - who won top acting honors in Cannes with Daniele Luchetti's \"Our Life\" - engaged in confrontation with his inquisitor before the trial over his \"Dialogue Concerning the Two Chief World Systems\" treatise in which he demonstrated the truth of the Copernican system over the Ptolemaic one, proving, for the first time, that the Earth revolves around the Sun.\nThe film - on which principal photography started in late September and will run through November - is produced by Angelo Gallo for Bibi Film with RAI Cinema and with the participation of HBO Max. It is produced and distributed with support from Italy's Ministry of Culture. Fandango will also release in Italy.\nPopular on Variety\n\"Galileo\" is being described in promotional materials as \"not a conventionally biographical film, but a stream of consciousness [work] that weaves together Galileo's past and present.\" The narrative arc spans from his religious calling as a young boy, when Galileo was sent to the monastery school of Santa Maria di Vallombrosa after his family moved to Florence in 1574, to his successes at the University of Padua that included discovering Jupiter's four largest moons and Venus' phases, his love with partner Marina Gamba with whom he had three children and, finally, \"the torment of choosing between faith and reason,\" as the synopsis puts it.\nJohnson, who wrote the \"Galileo\" screenplay, is known for dramedy \"So Far So Good\" (\"Fino a qui tutto bene\"), winner of the audience award at the 2014 Rome Film Festival, 2016 teen pregnancy drama \"Piuma,\" which competed in Venice and 2026's \"Rider,\" a star-crossed lovers' musical set in contemporary Milan that also bowed in Venice. He has directed the long-running Sky series \"I delitti del BarLume.\"\n\"Galileo's story transcends borders, exploring the universal struggle to pursue knowledge in the face of established power,\" said Raffaella Di Giulio, Fandango's head of international sales and acquisitions.\n\"With Roan Johnson directing and Elio Germano in the lead, the film brings a globally recognized historical figure to the screen in a fresh light, balancing seriousness with playfulness, through a story that remains deeply relevant today,\" she added.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "in late September and will run through November - is produced by"
+    ],
+    [
+     "ins",
+     "Angelo Gallo for"
+    ],
+    [
+     "eq",
+     "Bibi Film with RAI Cinema and with the participation of HBO Max."
+    ],
+    [
+     "ins",
+     "It is produced and distributed with support from Italy's Ministry of Culture."
+    ],
+    [
+     "eq",
+     "Fandango will also"
+    ],
+    [
+     "del",
+     "distribute"
+    ],
+    [
+     "ins",
+     "release"
+    ],
+    [
+     "eq",
+     "in Italy. Popular on Variety \"Galileo\" is being described in promotional materials"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0427,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9874,
+ "adjudicated_by": "rules"
+}
