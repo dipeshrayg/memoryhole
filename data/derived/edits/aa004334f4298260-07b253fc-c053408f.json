@@ -1,0 +1,44 @@
+{
+ "id": "aa004334f4298260-07b253fc-c053408f",
+ "url": "https://www.france24.com/en/egypt-mulls-joining-saudi-arabia-in-war-against-houthis",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-24T10:42:22Z",
+ "date": "2026-10-24",
+ "old_title": "Egypt mulls joining Saudi Arabia in war against Houthis",
+ "new_title": "Egypt mulls joining Saudi Arabia in war against Houthis",
+ "old_text": "Egypt mulls joining Saudi Arabia in war against Houthis\nIssued on: Modified:\nShare\nEgypt may be about to join the war against Houthis. Saudi Arabia has come under sustained attack from the Iran-backed group in recent weeks after a collapse of a truce in Yemen in September. Crown Prince Mohammed bin Salman visited Egypt mid-September to request potential military support from the country - a demand put before parliament by the Egyptian president on Saturday. Story by Camille Corcoran.",
+ "new_text": "Video contentVideo\nEgypt mulls joining Saudi Arabia in war against Houthis\nIssued on: Modified:\nShare\nEgypt may be about to join the war against Houthis. Saudi Arabia has come under sustained attack from the Iran-backed group in recent weeks after a collapse of a truce in Yemen in September. Crown Prince Mohammed bin Salman visited Egypt mid-September to request potential military support from the country - a demand put before parliament by the Egyptian president on Saturday. Story by Camille Corcoran.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "Video contentVideo"
+    ],
+    [
+     "eq",
+     "Egypt mulls joining Saudi Arabia in war against Houthis Issued on: Modified:"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0253,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9893,
+ "adjudicated_by": "rules"
+}

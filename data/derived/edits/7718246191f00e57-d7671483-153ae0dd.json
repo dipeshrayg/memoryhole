@@ -1,0 +1,246 @@
+{
+ "id": "7718246191f00e57-d7671483-153ae0dd",
+ "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-24T10:38:25Z",
+ "date": "2026-10-24",
+ "old_title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+ "new_title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+ "old_text": "- Published\nFive Israelis have been wounded and two suspected Palestinian attackers killed by Israeli security forces following a shooting in the occupied West Bank, Israeli officials say.\nFootage verified by the BBC shows an intense gun battle between soldiers and the gunmen, at a military checkpoint at the entrance to the city of Hebron.\nIn response, Israel's Prime Minister Benjamin Netanyahu said he had ordered the military to prepare for a full lockdown of the West Bank, beginning later on Friday.\nThe attack comes at a time of high tensions, with extremist Jewish settlers targeting Palestinians during the annual olive harvest, and Israel's general election taking place in four days time.\nThe two injured Israelis are in critical condition, according to Israel's ambulance service.\nThe Israeli military said it had found a large quantity of ammunition in the attackers' vehicle, and that they believe the gunmen had intended to carry out a much larger attack on the nearby Route 35, but ran into the checkpoint - so instead decided to open fire there.\nUnverified CCTV footage shows two gunmen exit a car armed with what appears to be a handgun and an assault rifle and start firing on soldiers at the checkpoint, before coming under return fire.\nThe Israeli military said it had begun raids on the homes of the attackers, while far-right Finance Minister Bezalel Smotrich said he had ordered the demolition of several Palestinian buildings adjacent to the site of the attack.\nIt is common practice for Israeli forces to demolish the homes of Palestinians who are suspected of carrying out attacks on Israelis.\nNetanyahu, who has built his election campaign on promising security for Israelis, said that his Likud party would cancel campaign events for the morning.\nThe West Bank was already expected to be placed under lockdown for the election on Monday and Tuesday, according to Israeli media.\nAt least 96 Palestinians have been killed by Israeli forces or settlers in the West Bank since the start of the year, according to the UN.\nFour Israelis, both security forces and civilians, have been killed by Palestinians there over the same period, the UN says.",
+ "new_text": "- Published\nThe Israeli military has begun demolishing Palestinian buildings in the city of Hebron, after two Israeli soldiers were killed in an attack by two Palestinian gunmen.\nPrime Minister Benjamin Netanyahu said the military would \"destroy\" the neighbourhood where the two attackers came from, and that Israel was ready for \"extensive action\" in the occupied West Bank.\nThree other soldiers were wounded in the attack at a checkpoint outside Hebron, before the gunmen were shot dead, officials say.\nIt comes at a time of high tensions, with extremist Jewish settlers targeting Palestinians during the annual olive harvest, and Israel's general election taking place in four days' time.\nFootage verified by the BBC shows an intense gun battle between soldiers and the gunmen. Other footage shows two gunmen exit a car armed with what appears to be a handgun and an assault rifle and start firing on soldiers at the checkpoint, before coming under return fire.\nThe incident has already begun to influence the ongoing election campaign, with Netanyahu - who has built his campaign on the promise of security - saying that his Likud party would cancel campaign events which had been set for Friday morning.\nSpeaking later from the scene, Netanyahu said that the military would \"demolish this place and completely transform it,\" referring to the Hebron neighbourhood where the attackers are said to have come from.\nIt is common for Israeli forces to demolish the homes of Palestinians who are suspected of carrying out attacks on Israelis - a practice Israeli rights groups have criticised as collective punishment.\nNetanyahu likened his plans to previous operations in West Bank refugee camps where residential buildings were demolished and thousands were displaced.\nHe also said he had reviewed plans for the largest military operation in the West Bank in decades - though did not say when it could be carried out.\nHe added that he had imposed cordons around the city of Hebron - which has around 200,000 residents - and the nearby city of Halhul.\nNetanyahu's far-right Finance Minister Bezalel Smotrich called for Israel to launch a campaign in the West Bank \"exactly like in Gaza or Lebanon,\" while far-right National Security Minister Itamar Ben Gvir called for Israel to dismantle the Palestinian Authority.\nOn Thursday, Foreign Minister Israel Katz accused opposition leaders of undermining the government by criticising Netanyahu's warnings of an attack ahead of the election, saying they would be \"responsible\" for any future attack on the country.\nOpposition chiefs, including frontrunner Gadi Eisenkot and former Prime Minister Naftali Bennett, offered their condolences to the families of the killed troops and praised those who killed the attackers.\nThe Israeli military said it had found a large quantity of ammunition in the attackers' vehicle, and that they believe the gunmen had intended to carry out a much larger attack on the nearby Route 35, but ran into the checkpoint - so instead decided to open fire there.\nAt least 96 Palestinians have been killed by Israeli forces or settlers in the West Bank since the start of the year, according to the UN.\nFour Israelis, both security forces and civilians, have been killed by Palestinians there over the same period, the UN says - not including those killed in Friday's attack.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "Five Israelis have been wounded and two suspected"
+    ],
+    [
+     "ins",
+     "The Israeli military has begun demolishing"
+    ],
+    [
+     "eq",
+     "Palestinian"
+    ],
+    [
+     "del",
+     "attackers killed by Israeli security forces following a shooting"
+    ],
+    [
+     "ins",
+     "buildings"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "the occupied West Bank, Israeli officials say. Footage verified by the BBC shows an intense gun battle between soldiers and the gunmen, at a military checkpoint at the entrance to"
+    ],
+    [
+     "eq",
+     "the city of"
+    ],
+    [
+     "del",
+     "Hebron. In response, Israel's"
+    ],
+    [
+     "ins",
+     "Hebron, after two Israeli soldiers were killed in an attack by two Palestinian gunmen."
+    ],
+    [
+     "eq",
+     "Prime Minister Benjamin Netanyahu said"
+    ],
+    [
+     "del",
+     "he had ordered"
+    ],
+    [
+     "eq",
+     "the military"
+    ],
+    [
+     "del",
+     "to prepare"
+    ],
+    [
+     "ins",
+     "would \"destroy\" the neighbourhood where the two attackers came from, and that Israel was ready"
+    ],
+    [
+     "eq",
+     "for"
+    ],
+    [
+     "ins",
+     "\"extensive action\" in the occupied West Bank. Three other soldiers were wounded in the attack at"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "full lockdown of"
+    ],
+    [
+     "ins",
+     "checkpoint outside Hebron, before"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "West Bank, beginning later on Friday. The attack"
+    ],
+    [
+     "ins",
+     "gunmen were shot dead, officials say. It"
+    ],
+    [
+     "eq",
+     "comes at a time of high tensions, with extremist Jewish settlers targeting"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the annual olive harvest, and Israel's general election taking place in four"
+    ],
+    [
+     "del",
+     "days"
+    ],
+    [
+     "ins",
+     "days'"
+    ],
+    [
+     "eq",
+     "time."
+    ],
+    [
+     "ins",
+     "Footage verified by the BBC shows an intense gun battle between soldiers and the gunmen. Other footage shows two gunmen exit a car armed with what appears to be a handgun and an assault rifle and start firing on soldiers at the checkpoint, before coming under return fire."
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "two injured"
+    ],
+    [
+     "ins",
+     "incident has already begun to influence the ongoing election campaign, with Netanyahu - who has built his campaign on the promise of security - saying that his Likud party would cancel campaign events which had been set for Friday morning. Speaking later from the scene, Netanyahu said that the military would \"demolish this place and completely transform it,\" referring to the Hebron neighbourhood where the attackers are said to have come from. It is common for Israeli forces to demolish the homes of Palestinians who are suspected of carrying out attacks on"
+    ],
+    [
+     "eq",
+     "Israelis"
+    ],
+    [
+     "del",
+     "are"
+    ],
+    [
+     "ins",
+     "- a practice Israeli rights groups have criticised as collective punishment. Netanyahu likened his plans to previous operations"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "critical condition, according"
+    ],
+    [
+     "ins",
+     "West Bank refugee camps where residential buildings were demolished and thousands were displaced. He also said he had reviewed plans for the largest military operation in the West Bank in decades - though did not say when it could be carried out. He added that he had imposed cordons around the city of Hebron - which has around 200,000 residents - and the nearby city of Halhul. Netanyahu's far-right Finance Minister Bezalel Smotrich called for Israel"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "Israel's ambulance service."
+    ],
+    [
+     "ins",
+     "launch a campaign in the West Bank \"exactly like in Gaza or Lebanon,\" while far-right National Security Minister Itamar Ben Gvir called for Israel to dismantle the Palestinian Authority. On Thursday, Foreign Minister Israel Katz accused opposition leaders of undermining the government by criticising Netanyahu's warnings of an attack ahead of the election, saying they would be \"responsible\" for any future attack on the country. Opposition chiefs, including frontrunner Gadi Eisenkot and former Prime Minister Naftali Bennett, offered their condolences to the families of the killed troops and praised those who killed the attackers."
+    ],
+    [
+     "eq",
+     "The Israeli military said it had found a large quantity of ammunition"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "ran into the checkpoint - so instead decided to open fire there."
+    ],
+    [
+     "del",
+     "Unverified CCTV footage shows two gunmen exit a car armed with what appears to be a handgun and an assault rifle and start firing on soldiers at the checkpoint, before coming under return fire. The Israeli military said it had begun raids on the homes of the attackers, while far-right Finance Minister Bezalel Smotrich said he had ordered the demolition of several Palestinian buildings adjacent to the site of the attack. It is common practice for Israeli forces to demolish the homes of Palestinians who are suspected of carrying out attacks on Israelis. Netanyahu, who has built his election campaign on promising security for Israelis, said that his Likud party would cancel campaign events for the morning. The West Bank was already expected to be placed under lockdown for the election on Monday and Tuesday, according to Israeli media."
+    ],
+    [
+     "eq",
+     "At least 96 Palestinians have been killed by Israeli forces or settlers"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "have been killed by Palestinians there over the same period, the UN"
+    ],
+    [
+     "del",
+     "says."
+    ],
+    [
+     "ins",
+     "says - not including those killed in Friday's attack."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.7214,
+  "numbers_changed": [
+   "200,000"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 4,
+  "blocks_removed": 2,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.181,
+ "similarity": 0.8731,
+ "adjudicated_by": "rules"
+}

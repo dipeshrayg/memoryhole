@@ -1,0 +1,48 @@
+{
+ "id": "7703da810ef7cd6f-13ac63a2-d2b478c2",
+ "url": "https://www.france24.com/en/french-authorities-call-for-videos-of-looting-to-identify-rioters",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-24T10:42:48Z",
+ "date": "2026-10-24",
+ "old_title": "French authorities call for videos of looting to identify rioters",
+ "new_title": "French authorities call for videos of looting to identify rioters",
+ "old_text": "Video contentVideo\nFrench authorities call for videos of looting to identify rioters\nIssued on:\nShare\nTo identify rioters across France last weekend, French authorities are calling on people who filmed scenes of looting to assist the investigation by handing the videos in. That is an unprecedented decision - one causing debate.",
+ "new_text": "Video contentVideo\nFrench authorities call for videos of looting to identify rioters\nIssued on: Modified:\nShare\nTo identify rioters across France last weekend, French authorities are calling on people who filmed scenes of looting to assist the investigation by handing the videos in. That is an unprecedented decision - one causing debate.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "French authorities call for videos of looting to identify rioters Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "Share To identify rioters across France last weekend, French authorities are calling"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0196,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9972,
+ "adjudicated_by": "rules"
+}

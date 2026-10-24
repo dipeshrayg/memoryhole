@@ -1,0 +1,37 @@
+- Published
+Microsoft boss Satya Nadella says he has not seen anything like the PHP emergency "in a long, long time".
+Referencing the ongoing global efforts to fix the critical cyber-security flaw in millions of websites, he told a conference "it was a long day and a long night, I know, for all the IT and security folks".
+Other IT and cyber experts have told the BBC about their struggles in the last 48 hours, whose stories give us an insight into what it is like at the coalface of a major cyber emergency. But also highlight how misinformation and panic has made things a lot worse.
+"It's been relentless," says UK-based system administrator Adam Mudd.
+He said he had never had so many messages from people who were worried about their websites.
+"The biggest challenge has been juggling clients who want their sites taken offline as a precaution, while trying to coordinate updates and fixes across countless different setups," he said.
+"Sometimes it takes me longer to take a website down than to fix the PHP problem."
+PHP is a very popular programming language which powers millions of websites.
+But two critical flaws were found with the system that led to the emergency response, with national cyber-security authorities urging IT teams to download a security fix urgently or take websites and servers offline.
+Mudd says since then he has been under enormous pressure and has lost a huge amount of sleep - working early and not finishing until 22:30 BST to secure his customers' systems.
+'Hollywood action scene'
+In Mauritius, IT administrator Loganaden Velvindron said he too was flat out since his team realised just how much software relies on PHP.
+"Many versions of php running are completely end-of-life, so we are having to rebuilding web apps and change code in some cases," he said.
+He said part of the problem was the announcement about the security vulnerabilities in PHP came as a surprise, without much time to prepare for action.
+Jon Jones, Technical director for a digital advertising company, was also spurred into action by the alerts.
+"Seeing the warning drop was definitely eye-opening and a new experience we've not dealt with before," he said.
+"But, in a way, it was exciting feeling like a bit of a Hollywood action scene."
+The PHP Foundation, which manages the programming language, released its software fix and there was a scramble for people to download it.
+Jones said it felt like "the race was on" when the patch launched at 15:00 BST on Wednesday.
+"It was also a bit nerve-racking as anyone who has applied software updates before would know, there's always a chance than an update can cause other issues," he said.
+The rush came as someone had leaked details of the PHP flaw early - and it was heavily rumoured that cyber-criminals were already trying to carry out attacks.
+But cyber experts are also now questioning whether or not those rumours were real.
+"We were flooded with rubbish intel about hackers being out there actively with working Proof of Concept (PoC) methods," said UK cyber expert Daniel Card.
+He said he also been flat out since Tuesday when the rumours of PHP hacks began circulating.
+"This isn't the first time we've had a situation like this but it feels like it's been on another dimension," he said.
+He agreed that on paper the PHP vulnerabilities were very serious and should be taken seriously, but he and many others are frustrated with the misinformation about hackers being on the loose.
+'Alert fatigue' fears
+As well as the alerts from government agencies - even the Prime Minister of Japan - cyber-security companies also made errors which didn't help.
+One major firm in this space issued warnings saying hackers had a working PoC - only to have to retract it.
+In spite of warnings from Cloudflare and AWS that "millions of hacking attempts" had been made every hour, there is also no evidence of large scale data breaches or cyber-attacks.
+It is true that hackers have been seen to use AI to attempt to build attack methods, but none of them seem to be working at scale at the moment - something that may well change soon.
+AI was also used to find the PHP flaws which had been hidden from human researchers for decades.
+The IT workers we spoke to all agreed that these kinds of serious flaws were going to be uncovered more frequently now that AI tools had become so good at hacking.
+But some in the industry are concerned about how people were told about the critical vulnerabilities in PHP, as they fear improvements in AI will throw up more incidents like it.
+"We're going to find scary vulnerabilities with the amazing capabilities that OpenAI and Anthropic are bringing online, but we need to calibrate the messaging," posted Mark Maunder, founder of Wordfence - a Wordpress security tool.
+He said there was a risk of "alert fatigue" which could be a big problem if a fully exploitable and serious vulnerability arose.

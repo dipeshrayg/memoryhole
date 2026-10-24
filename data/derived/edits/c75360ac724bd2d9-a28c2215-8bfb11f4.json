@@ -1,0 +1,605 @@
+{
+ "id": "c75360ac724bd2d9-a28c2215-8bfb11f4",
+ "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-24T10:38:11Z",
+ "date": "2026-10-24",
+ "old_title": "PHP: What is it and why did it spark a global cyber security scramble?",
+ "new_title": "PHP: What is it and why did it spark a global cyber security scramble?",
+ "old_text": "- Published\nFor more than a decade, serious flaws had gone undetected in the technology underpinning much of the internet.\nIt took AI to bring them to light and caused a global cyber-security alert.\nThe vulnerabilities lie within a programming language called PHP, which has been used internationally since the 2000s to build websites.\nGovernments and cyber-security agencies around the world are scrambling to contain the fallout of the discovery on Wednesday, and have urged website operators to install a new emergency fix or consider taking their platforms offline.\nCyber-security firm Wiz - one of the companies whose researchers uncovered the vulnerabilities - described the flaws as the \"most severe\" ever detected by AI.\nOpenAI, whose technology was used to find the flaws, called the discovery \"one of the most impactful security issues in recent memory\".\nWhat is PHP?\nMost people may not have heard of PHP, but they probably interact with it daily.\nIt stands for PHP: Hypertext Preprocessor, an open-source, back-end programming language which runs on a web server.\nDeveloped in the early 1990s to help serve dynamic web pages and applications, PHP still powers lots of platforms today, including Wikipedia, online shops and WordPress â the system behind many websites.\nWhen you visit a site, PHP is the code which collects data and effectively turns it into a page you can read.\nIt has also been used to write a number of tools for building or speeding up the creation of web apps, with Laravel, Symfony and Drupal among popular PHP frameworks.\nAccording to cyber-security firm Wiz, which helped uncover the critical PHP vulnerabilities surfaced this week, PHP powers 70% of the world's websites.\nIt is maintained by a non-profit called the PHP Foundation, external, composed of individuals and companies which depend on the language and aim to ensure its \"long-term prosperity\".\nWhat is the vulnerability?\nA group of cyber-security researchers and organisations disclosed two vulnerabilities within PHP this week, which they warned could have the potential to upend sites across the internet.\nCyber firms Wiz and Calif said the flaws â coined \"php2shell\" - were inherent in the language itself, with versions of PHP released over the last decade affected.\nRyan Austin, a Calif researcher who helped uncover the security issues, told the BBC it was \"the most serious vulnerability I've ever found\".\nWiz wrote in a blog post, external about its findings that, under the right conditions, hackers could exploit the php2shell issue to take control of affected web servers and steal sensitive data - saying everything built on PHP was left exposed.\nAI could also make such attacks easier and faster, Paul Spain, chief executive of Gorilla Cyber Security, told the BBC.\nHe estimated the flaw could affect \"millions and millions\" of websites.\nJill Slay, a cyber-security researcher at the University of Adelaide, said it would be \"disastrous\" if hackers or countries weaponised the flaw and seized private data from websites.\nWhat websites have been affected?\nThe alert has disrupted services globally, from gaming platforms to government portals and online forums.\nThat includes Wikimedia - the organisation behind the online encyclopaedia Wikipedia - which took down a number of its systems as a precautionary measure.\nSites and pages have been taken offline by the Finnish government, Edinburgh council and the BBC, with the Netherlands' cyber-security agency also pulling its website.\nA number of Scotland's public organisations, including councils and health boards, have also taken their websites offline.\nSome experts warn the vulnerability could leave poorly maintained websites, particularly those belonging to smaller organisations with limited security resources, at greater risk.\nMore attempts to exploit these flaws are likely in the coming weeks since the technical details are now being made public, cyber-security researcher Salil Kanhere from UNSW Sydney said.\nWhat happened after the flaws were exposed?\nThe PHP Foundation rolled out patches on Wednesday to fix the vulnerabilities that had been lurking in their software for years.\n\"All PHP users are strongly encouraged to update immediately,\" the company said.\nAuthorities and security organisations around the world have echoed those warnings to website operators to secure their platforms.\nThe US National Security Agency told all organisations that use PHP to take their systems offline if they were unable to patch them immediately, adding that the flaw could provide a \"direct path\" to exploit a system's database.\n\"These risks are serious enough to require immediate patching across United States Government departments and agencies,\" the agency said.\nThe UK's National Cyber Security Centre gave similar advice and told organisations to check for \"backdoors installed by an attacker\".\nIts counterparts in the EU, Singapore and Australia have also issued similar alerts.\nJapanese Prime Minister Sanae Takaichi urged people to check if their publicly available websites ran on PHP.\n\"We have an urgent request for everyone to take action tonight,\" Takaichi wrote on X.\n\"If it is difficult to apply the fix patch promptly, temporarily suspending websites and similar measures can be considered an effective way to reduce risk,\" she said.\nTech companies have also sought to quickly secure their systems.\nE-commerce giant Amazon said it was targeted in multiple attempts days before the public disclosure of the PHP issue, but its websites were operating as normal.\nMatthew Prince, the boss of internet infrastructure firm Cloudflare, also said it had seen \"thousands\" of attempts to exploit the PHP vulnerabilities across its network in the 10 hours before it was publicly announced.\n\"That jumped to tens of thousands in the 45 minutes post announcement, hundreds of thousands within two hours, and millions now,\" he wrote on X, external.\nHow was AI involved?\nResearchers at Calif and Wiz who located the vulnerabilities used advanced AI tools which can analyse code and find flaws much faster than humans or older systems.\n\"Modern software is incredibly complex, and some vulnerabilities can remain undetected for years,\" Kanhere said.\n\"The underlying bugs weren't new; what changed was our ability to find them,\" Kanhere said.\nDetails of the discovery leaked online this week, forcing the PHP platform's developers to rush out its announcement of the security flaw and its huge scale.\nThe incident \"highlights how AI can uncover security flaws\" but also how it can \"help attackers rapidly develop offensive tools and exploits,\" OpenAI said in a blog post.\nThe ChatGPT-maker said it had released a program to check if the PHP platform is secure.\n\"Many of these flaws stem from the way software were built in the past, which were built for functionality and not with security in mind,\" said Ryan Ko, at the University of Queensland's Cyber Research Centre.\nWhat does it mean for you?\nThe issue affects back-end website and web development processes that will be invisible to many users - meaning most people won't need to take any action.\nBut small businesses with sites, including those built using WordPress, may be wondering how to protect themselves.\nThose who own websites or manage infrastructure running PHP have been urged to secure their websites by updating to the latest version.\nEthical hacker Ken Munro, who has spent years finding security flaws in computer systems, says installing the fixes - known as patching - is \"a bit like running a Windows update\".\nIf a hosting company or web developer manages your website, contact them and ask whether the PHP security fixes have been applied - something that must be applied to PHP itself and cannot be resolved by updating WordPress or its plugins.\nIf you look after your website yourself, Munro says \"it is your own responsibility to make sure fixes are applied\".\nThe UK's National Cyber Security Centre recommends, external considering temporarily taking sites offline if updates or temporary protections cannot be applied quickly enough.\nThe US National Security Agency has also urged \"heightened awareness\" in the coming weeks, telling people to closely monitor updates from software vendors.\n\"Vigilance in applying patches related to those systems is paramount,\" it said, external.\nAnd while the onus lies mainly on website operators, users should stay alert for any security advice issued by affected services, such as requests to change passwords, Kanhere said.\nHe warned people to be alert to any phishing messages exploiting the publicity around the incident too.",
+ "new_text": "- Published\nFor more than a decade, serious flaws had gone undetected in the technology underpinning much of the internet.\nIt took AI to bring them to light and caused a global cyber-security alert.\nResearchers who helped surface the vulnerabilities in PHP - a popular server-side programming language used in web development for decades - warned platforms which use it could be exposed to potential hacks.\nGovernments and cyber-security agencies rushed to contain the fallout, urging website owners to check if their sites were affected and, if so, install updates to patch the issue or consider going offline.\nThere have been no reports of any successful exploits of the flaw, coined php2shell, so far.\nBut in the days since the issues came to light, disruption to sites and services has continued to ripple around the world.\nWhat is PHP?\nMost people may not have heard of PHP, but they probably interact with it daily.\nIt stands for PHP: Hypertext Preprocessor, an open-source, back-end programming language which runs on a web server.\nDeveloped in the early 1990s to help serve dynamic web pages and applications, PHP still powers lots of platforms today, including Wikipedia, online shops and WordPress â the system behind many websites.\nWhen you visit a site, PHP is the code which collects data and effectively turns it into a page you can read.\nIt has also been used to write a number of tools for building or speeding up the creation of web apps, with Laravel, Symfony and Drupal among popular PHP frameworks.\nAccording to cyber-security firm Wiz, which helped uncover the critical PHP vulnerabilities surfaced this week, PHP powers 70% of the world's websites.\nIt is maintained by a non-profit called the PHP Foundation, external, composed of individuals and companies which depend on the language and aim to ensure its \"long-term prosperity\".\nWhat is the vulnerability?\nA group of cyber-security researchers and organisations disclosed two vulnerabilities within PHP this week, which they warned could have the potential to upend sites across the internet.\nCyber firms Wiz and Calif said the flaws were inherent in the language itself, affecting versions of PHP released over the last decade.\nThe technical bugs, given the technical IDs CVE-2026-109618 and CVE-2026-109619, were ranked a 9.2 out of 10 in severity by researchers.\nCalif researcher Ryan Austin, who helped uncover it, told the BBC it was \"the most serious vulnerability I've ever found\".\nWiz wrote in a blog post, external about its findings that, under the right conditions, hackers could exploit the bugs to take control of affected web servers and steal sensitive data - saying everything built on PHP was left exposed.\nAI could also make such attacks easier and faster, Paul Spain, chief executive of Gorilla Cyber Security, told the BBC.\nHe estimated the flaw could affect \"millions and millions\" of websites.\nJill Slay, a cyber-security researcher at the University of Adelaide, said it would be \"disastrous\" if hackers or countries weaponised the flaw and seized private data from websites.\nWhat websites have been affected?\nThe alert on 21 October disrupted services globally, from gaming platforms to government portals and online forums.\nIt included Wikimedia - the organisation behind the online encyclopaedia Wikipedia - which took down a number of its systems as a precautionary measure.\nSites and pages were also taken offline by the Finnish government, Edinburgh council and some BBC pages, with the Netherlands' cyber-security agency also pulling its website on Wednesday.\nBut while many sites were back up by Thursday, others were still being taken down temporarily elsewhere as people and businesses check for potential exposure.\nThe UK Government revealed on Thursday some \"limited\" services may be offline temporarily.\nIt said 32 sites had been taken down as a precaution, none of them large public-facing services.\nIn France, telecommunications company Orange also said it had suspended access to certain services globally while it deployed security fixes.\nOn Friday, local media in Japan reported telecom operator SoftBank Corp had temporarily suspended emergency alerts for earthquakes, tsunamis and other disasters.\nAccording to the Mainichi newspaper, external, SoftBank customers have been urged to make sure they have other ways to get alerts about natural disasters - with its mobile phone alerts not set to sound even in the event of a strong earthquake.\nThe service is reportedly set to resume on Monday.\nSome experts warn the issue could leave poorly maintained websites, particularly those belonging to smaller organisations with limited security resources, at greater risk.\nMore attempts to exploit these flaws are likely in the coming weeks since the technical details are now being made public, said cyber-security researcher Salil Kanhere of UNSW Sydney.\nWhat happened after the flaws were exposed?\nThe PHP Foundation rolled out patches on Wednesday to fix the vulnerabilities that had been lurking in their software for years.\n\"All PHP users are strongly encouraged to update immediately,\" the company said.\nAuthorities and security organisations around the world have echoed those warnings to website operators to secure their platforms.\nThe US National Security Agency told all organisations, external that use PHP to take their systems offline if they were unable to patch them immediately, adding that the flaw could provide a \"direct path\" to exploit a system's database.\n\"These risks are serious enough to require immediate patching across United States Government departments and agencies,\" the agency said.\nIts counterparts in the EU, Singapore and Australia have also issued similar alerts.\nJapanese Prime Minister Sanae Takaichi urged people to check if their publicly available websites ran on PHP in posts on X.\nTech companies also sought to quickly secure their systems.\nE-commerce giant Amazon said it was targeted in multiple attempts days before the public disclosure of the PHP issue, but its websites were operating as normal.\nMatthew Prince, the boss of internet infrastructure firm Cloudflare, also said it had seen \"thousands\" of attempts to exploit the PHP vulnerabilities across its network in the 10 hours before it was publicly announced.\n\"That jumped to tens of thousands in the 45 minutes post announcement, hundreds of thousands within two hours, and millions now,\" he wrote on X, external.\nAs of Friday morning, no successful attacks had been reported.\nBut experts have warned any impact may take time to become fully apparent.\nAnd operators of a number of services where PHP may have been used - not just in web development - are still being urged to check their systems and implement updates, where necessary.\n\"It is important to remember that PHP is not limited to web applications,\" said Daniel Stewart, head of threat intelligence at global risk manager LRQA.\n\"It is commonly found in the management interfaces of network appliances, load balancers, and embedded devices, which are often overlooked during these incidents.\"\nAccording to some cyber-security researchers using scans to check servers at risk of the PHP vulnerability, the rate of organisations implementing patches has climbed - but not as quickly as might be hoped globally.\nHow was AI involved?\nResearchers at Calif and Wiz who located the vulnerabilities used advanced AI tools, developed by ChatGPT-developer OpenAI, which can analyse code and find flaws much faster than humans or older systems.\n\"Modern software is incredibly complex, and some vulnerabilities can remain undetected for years,\" Kanhere said.\n\"The underlying bugs weren't new; what changed was our ability to find them,\" Kanhere said.\nDetails of the discovery leaked online this week, forcing the PHP platform's developers to rush out its announcement of the security flaw and its huge scale.\nThe incident \"highlights how AI can uncover security flaws\" but also how it can \"help attackers rapidly develop offensive tools and exploits,\" OpenAI said in a blog post.\nIt said it had also released a program that could check if the PHP platform was secure.\n\"Many of these flaws stem from the way software were built in the past, which were built for functionality and not with security in mind,\" said Ryan Ko, at the University of Queensland's Cyber Research Centre.\nWhat does it mean for you?\nThe issue affects back-end website and web development processes that will be invisible to many users - meaning most people won't need to take any action.\nBut small businesses with sites, including those built using WordPress, may be wondering how to protect themselves.\nThose who own websites or manage infrastructure running PHP have been urged to secure their websites by updating to the latest version.\nEthical hacker Ken Munro, who has spent years finding security flaws in computer systems, says installing the fixes - known as patching - is \"a bit like running a Windows update\".\nIf a hosting company or web developer manages your website, contact them and ask whether the PHP security fixes have been applied - something that must be applied to PHP itself and cannot be resolved by updating WordPress or its plugins.\nIf you look after your website yourself, Munro says \"it is your own responsibility to make sure fixes are applied\".\nThe UK's National Cyber Security Centre recommends, external considering temporarily taking sites offline if updates or temporary protections cannot be applied quickly enough.\nThe US National Security Agency has also urged \"heightened awareness\" in the coming weeks, telling people to closely monitor updates from software vendors.\n\"Vigilance in applying patches related to those systems is paramount,\" it said.\nAnd while the onus lies mainly on website operators, users should stay alert for any security advice issued by affected services, such as requests to change passwords, Kanhere said.\nHe warned people to be alert to any phishing messages exploiting the publicity around the incident too.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "AI to bring them to light and caused a global cyber-security alert."
+    ],
+    [
+     "del",
+     "The"
+    ],
+    [
+     "ins",
+     "Researchers who helped surface the"
+    ],
+    [
+     "eq",
+     "vulnerabilities"
+    ],
+    [
+     "del",
+     "lie within"
+    ],
+    [
+     "ins",
+     "in PHP -"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "ins",
+     "popular server-side"
+    ],
+    [
+     "eq",
+     "programming language"
+    ],
+    [
+     "del",
+     "called PHP,"
+    ],
+    [
+     "ins",
+     "used in web development for decades - warned platforms"
+    ],
+    [
+     "eq",
+     "which"
+    ],
+    [
+     "del",
+     "has been used internationally since the 2000s"
+    ],
+    [
+     "ins",
+     "use it could be exposed"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "build websites."
+    ],
+    [
+     "ins",
+     "potential hacks."
+    ],
+    [
+     "eq",
+     "Governments and cyber-security agencies"
+    ],
+    [
+     "del",
+     "around the world are scrambling"
+    ],
+    [
+     "ins",
+     "rushed"
+    ],
+    [
+     "eq",
+     "to contain the"
+    ],
+    [
+     "del",
+     "fallout"
+    ],
+    [
+     "ins",
+     "fallout, urging website owners to check if their sites were affected and, if so, install updates to patch the issue or consider going offline. There have been no reports of any successful exploits"
+    ],
+    [
+     "eq",
+     "of the"
+    ],
+    [
+     "del",
+     "discovery on Wednesday,"
+    ],
+    [
+     "ins",
+     "flaw, coined php2shell, so far. But in the days since the issues came to light, disruption to sites"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "have urged website operators"
+    ],
+    [
+     "ins",
+     "services has continued"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "install a new emergency fix or consider taking their platforms offline. Cyber-security firm Wiz - one of"
+    ],
+    [
+     "ins",
+     "ripple around"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "companies whose researchers uncovered the vulnerabilities - described the flaws as the \"most severe\" ever detected by AI. OpenAI, whose technology was used to find the flaws, called the discovery \"one of the most impactful security issues in recent memory\"."
+    ],
+    [
+     "ins",
+     "world."
+    ],
+    [
+     "eq",
+     "What is PHP? Most people may not have heard of PHP, but"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "sites across the internet. Cyber firms Wiz and Calif said the flaws"
+    ],
+    [
+     "del",
+     "â coined \"php2shell\" -"
+    ],
+    [
+     "eq",
+     "were inherent in the language itself,"
+    ],
+    [
+     "del",
+     "with"
+    ],
+    [
+     "ins",
+     "affecting"
+    ],
+    [
+     "eq",
+     "versions of PHP released over the last"
+    ],
+    [
+     "del",
+     "decade affected."
+    ],
+    [
+     "ins",
+     "decade. The technical bugs, given the technical IDs CVE-2026-109618 and CVE-2026-109619, were ranked a 9.2 out of 10 in severity by researchers. Calif researcher"
+    ],
+    [
+     "eq",
+     "Ryan Austin,"
+    ],
+    [
+     "del",
+     "a Calif researcher"
+    ],
+    [
+     "eq",
+     "who helped uncover"
+    ],
+    [
+     "del",
+     "the security issues,"
+    ],
+    [
+     "ins",
+     "it,"
+    ],
+    [
+     "eq",
+     "told the BBC it was \"the most serious vulnerability I've ever found\"."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "about its findings that, under the right conditions, hackers could exploit the"
+    ],
+    [
+     "del",
+     "php2shell issue"
+    ],
+    [
+     "ins",
+     "bugs"
+    ],
+    [
+     "eq",
+     "to take control of affected web servers and steal sensitive data -"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "seized private data from websites. What websites have been affected? The alert"
+    ],
+    [
+     "del",
+     "has"
+    ],
+    [
+     "ins",
+     "on 21 October"
+    ],
+    [
+     "eq",
+     "disrupted services globally, from gaming platforms to government portals and online forums."
+    ],
+    [
+     "del",
+     "That includes"
+    ],
+    [
+     "ins",
+     "It included"
+    ],
+    [
+     "eq",
+     "Wikimedia - the organisation behind the online encyclopaedia Wikipedia - which took"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "a number of its systems as a precautionary measure. Sites and pages"
+    ],
+    [
+     "del",
+     "have been"
+    ],
+    [
+     "ins",
+     "were also"
+    ],
+    [
+     "eq",
+     "taken offline by the Finnish government, Edinburgh council and"
+    ],
+    [
+     "del",
+     "the BBC,"
+    ],
+    [
+     "ins",
+     "some BBC pages,"
+    ],
+    [
+     "eq",
+     "with the Netherlands' cyber-security agency also pulling its"
+    ],
+    [
+     "del",
+     "website. A number"
+    ],
+    [
+     "ins",
+     "website on Wednesday. But while many sites were back up by Thursday, others were still being taken down temporarily elsewhere as people and businesses check for potential exposure. The UK Government revealed on Thursday some \"limited\" services may be offline temporarily. It said 32 sites had been taken down as a precaution, none"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "Scotland's public organisations, including councils"
+    ],
+    [
+     "ins",
+     "them large public-facing services. In France, telecommunications company Orange also said it had suspended access to certain services globally while it deployed security fixes. On Friday, local media in Japan reported telecom operator SoftBank Corp had temporarily suspended emergency alerts for earthquakes, tsunamis"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "health boards,"
+    ],
+    [
+     "ins",
+     "other disasters. According to the Mainichi newspaper, external, SoftBank customers"
+    ],
+    [
+     "eq",
+     "have"
+    ],
+    [
+     "del",
+     "also taken their websites offline."
+    ],
+    [
+     "ins",
+     "been urged to make sure they have other ways to get alerts about natural disasters - with its mobile phone alerts not set to sound even in the event of a strong earthquake. The service is reportedly set to resume on Monday."
+    ],
+    [
+     "eq",
+     "Some experts warn the"
+    ],
+    [
+     "del",
+     "vulnerability"
+    ],
+    [
+     "ins",
+     "issue"
+    ],
+    [
+     "eq",
+     "could leave poorly maintained websites, particularly those belonging to smaller organisations with"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the coming weeks since the technical details are now being made public,"
+    ],
+    [
+     "ins",
+     "said"
+    ],
+    [
+     "eq",
+     "cyber-security researcher Salil Kanhere"
+    ],
+    [
+     "del",
+     "from"
+    ],
+    [
+     "ins",
+     "of"
+    ],
+    [
+     "eq",
+     "UNSW"
+    ],
+    [
+     "del",
+     "Sydney said."
+    ],
+    [
+     "ins",
+     "Sydney."
+    ],
+    [
+     "eq",
+     "What happened after the flaws were exposed? The PHP Foundation rolled out"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "operators to secure their platforms. The US National Security Agency told all"
+    ],
+    [
+     "del",
+     "organisations"
+    ],
+    [
+     "ins",
+     "organisations, external"
+    ],
+    [
+     "eq",
+     "that use PHP to take their systems offline if they were unable"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "immediate patching across United States Government departments and agencies,\" the agency said."
+    ],
+    [
+     "del",
+     "The UK's National Cyber Security Centre gave similar advice and told organisations to check for \"backdoors installed by an attacker\"."
+    ],
+    [
+     "eq",
+     "Its counterparts in the EU, Singapore and Australia have also issued similar"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Takaichi urged people to check if their publicly available websites ran on"
+    ],
+    [
+     "del",
+     "PHP. \"We have an urgent request for everyone to take action tonight,\" Takaichi wrote"
+    ],
+    [
+     "ins",
+     "PHP in posts"
+    ],
+    [
+     "eq",
+     "on X."
+    ],
+    [
+     "del",
+     "\"If it is difficult to apply the fix patch promptly, temporarily suspending websites and similar measures can be considered an effective way to reduce risk,\" she said."
+    ],
+    [
+     "eq",
+     "Tech companies"
+    ],
+    [
+     "del",
+     "have"
+    ],
+    [
+     "eq",
+     "also sought to quickly secure their systems. E-commerce giant Amazon said it"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "thousands within two hours, and millions now,\" he wrote on X, external."
+    ],
+    [
+     "ins",
+     "As of Friday morning, no successful attacks had been reported. But experts have warned any impact may take time to become fully apparent. And operators of a number of services where PHP may have been used - not just in web development - are still being urged to check their systems and implement updates, where necessary. \"It is important to remember that PHP is not limited to web applications,\" said Daniel Stewart, head of threat intelligence at global risk manager LRQA. \"It is commonly found in the management interfaces of network appliances, load balancers, and embedded devices, which are often overlooked during these incidents.\" According to some cyber-security researchers using scans to check servers at risk of the PHP vulnerability, the rate of organisations implementing patches has climbed - but not as quickly as might be hoped globally."
+    ],
+    [
+     "eq",
+     "How was AI involved? Researchers at Calif and Wiz who located the vulnerabilities used advanced AI"
+    ],
+    [
+     "del",
+     "tools"
+    ],
+    [
+     "ins",
+     "tools, developed by ChatGPT-developer OpenAI,"
+    ],
+    [
+     "eq",
+     "which can analyse code and find flaws much faster than humans or"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "rapidly develop offensive tools and exploits,\" OpenAI said in a blog post."
+    ],
+    [
+     "del",
+     "The ChatGPT-maker"
+    ],
+    [
+     "ins",
+     "It"
+    ],
+    [
+     "eq",
+     "said it had"
+    ],
+    [
+     "ins",
+     "also"
+    ],
+    [
+     "eq",
+     "released a program"
+    ],
+    [
+     "del",
+     "to"
+    ],
+    [
+     "ins",
+     "that could"
+    ],
+    [
+     "eq",
+     "check if the PHP platform"
+    ],
+    [
+     "del",
+     "is"
+    ],
+    [
+     "ins",
+     "was"
+    ],
+    [
+     "eq",
+     "secure. \"Many of these flaws stem from the way software were built"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "vendors. \"Vigilance in applying patches related to those systems is paramount,\" it"
+    ],
+    [
+     "del",
+     "said, external."
+    ],
+    [
+     "ins",
+     "said."
+    ],
+    [
+     "eq",
+     "And while the onus lies mainly on website operators, users should stay"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4563,
+  "numbers_changed": [
+   "10",
+   "109618",
+   "109619",
+   "2000",
+   "2026",
+   "21",
+   "32",
+   "9.2"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 4,
+  "blocks_added": 5,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 2.634,
+ "similarity": 0.8477,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "778ad965eb2ab9fa-a9752e11-8e32704b",
+ "url": "https://www.france24.com/en/video/20261020-kenyan-cult-leader-guilty-on-all-charges-over-191-starvation-deaths",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-24T10:42:12Z",
+ "date": "2026-10-24",
+ "old_title": "Kenyan cult leader guilty on all charges over 191 starvation deaths",
+ "new_title": "Kenyan cult leader guilty on all charges over 191 starvation deaths",
+ "old_text": "Kenyan cult leader guilty on all charges over 191 starvation deaths\nIssued on:\nShare\nA self-proclaimed Kenyan preacher and his associates were on Monday found guilty of murdering 190 children and one adult in an infamous starvation cult. Hundreds of bodies have been discovered since 2023 at the cult base inland from the Kenyan beach resort of Malindi, in what became known as the \"Shakahola Forest Massacre\".",
+ "new_text": "Video contentVideo\nKenyan cult leader guilty on all charges over 191 starvation deaths\nIssued on:\nShare\nA self-proclaimed Kenyan preacher and his associates were on Monday found guilty of murdering 190 children and one adult in an infamous starvation cult. Hundreds of bodies have been discovered since 2023 at the cult base inland from the Kenyan beach resort of Malindi, in what became known as the \"Shakahola Forest Massacre\".",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "Video contentVideo"
+    ],
+    [
+     "eq",
+     "Kenyan cult leader guilty on all charges over 191 starvation deaths Issued"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0299,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9958,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,75 @@
+{
+ "id": "97d165295e4f6221-cf1e64b4-c40223f6",
+ "url": "https://www.abc.net.au/news/2026-10-23/meghan-markle-father-abuse-allegations/107303754",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-24T10:43:41Z",
+ "date": "2026-10-24",
+ "old_title": "Breaking: Meghan Markle says she was told of 'disturbing' allegations about father in 2018",
+ "new_title": "Meghan Markle says she was told of 'disturbing' allegations about father in 2018",
+ "old_text": "Meghan the Duchess of Sussex has revealed she was informed of \"disturbing allegations\" involving her estranged father in 2018, which she says prompted her to keep her children away from him.\n\"I am deeply distressed at the news that has come to light in the last 24 hours, and my thoughts are with any children who may have been harmed,\" she said in a statement.\nIt comes after international media reported claims of child sexual abuse material had been found at his former home in the Philippines.\nIn an interview with the Daily Mail, Thomas Markle denied possessing the images, calling the accusations \"sick lies\".\nAfter the reports, Meghan revealed that in 2018 she had seen a letter sent to London's Metropolitan Police making similar accusations.\n\"It made troubling and disturbing allegations against my father and I was given assurances that these were being investigated,\" she said in a statement.\nLoading",
+ "new_text": "Meghan the Duchess of Sussex has revealed she was informed of \"disturbing allegations\" involving her estranged father in 2018, which she says prompted her to keep her children away from him.\n\"I am deeply distressed at the news that has come to light in the last 24 hours, and my thoughts are with any children who may have been harmed,\" she said in a statement.\nIt comes after international media reported claims of child sexual abuse material had been found at his former home in the Philippines.\nIn an interview with the Daily Mail, Thomas Markle denied possessing the images, calling the accusations \"sick lies\".\nAfter the reports, Meghan revealed that in 2018 she had seen a letter sent to London's Metropolitan Police making similar accusations.\n\"It made troubling and disturbing allegations against my father and I was given assurances that these were being investigated,\" she said.\nHarry, the second son of King Charles III and estranged brother of the heir to the throne, Prince William, married the former American actress in May 2018. Thomas Markle did not attend.\nMeghan, who has two children with Harry, said she hoped it could \"now be understood that, despite certain media publications' distortion over the years, any distance from my father and my choice to not allow him to have contact with our children, was for one reason: to protect them\".\nThe couple left Britain and quit royal duties in 2020 amid family tension, but made an unexpected return to live in the United Kingdom in August.\n\"Although the breadth of what has now been uncovered is more sickening than one could ever imagine, my sincerest hope is that justice will be fully served and that the priority remains the safety and protection of innocent children,\" Meghan said.\nBritish police said they were aware of \"media reports that officers from the Met's Royalty and Specialist Protection Command were involved in the passing on of a letter in 2018\".\n\"We are undertaking enquiries internally in an effort to confirm this,\" a spokesperson for the Metropolitan Police said.\nThomas Markle Sr was living in the Philippines earlier this year when he suffered a stroke and had his left leg amputated. That forced him to return to the US.\nPolice in the Philippines said they were also investigating.\n\"Our Anti-Trafficking and Anti-OSAEC (online sexual abuse and exploitation of children) task force in Cebu is currently investigating the matter,\" Nicholas Ty, Philippine justice undersecretary, told Reuters.\nThomas Markle Jr told British tabloid The Sun he had found \"hundreds, if not thousands\" of child sex abuse images in boxes at his father's former home in the Philippine city of Cebu when he was clearing out the property.\nMr Markle Jr said he reported the images to police in the Philippines and contacted the Federal Bureau of Investigation in the US.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "father and I was given assurances that these were being investigated,\" she"
+    ],
+    [
+     "ins",
+     "said. Harry, the second son of King Charles III and estranged brother of the heir to the throne, Prince William, married the former American actress in May 2018. Thomas Markle did not attend. Meghan, who has two children with Harry,"
+    ],
+    [
+     "eq",
+     "said"
+    ],
+    [
+     "ins",
+     "she hoped it could \"now be understood that, despite certain media publications' distortion over the years, any distance from my father and my choice to not allow him to have contact with our children, was for one reason: to protect them\". The couple left Britain and quit royal duties"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "ins",
+     "2020 amid family tension, but made an unexpected return to live in the United Kingdom in August. \"Although the breadth of what has now been uncovered is more sickening than one could ever imagine, my sincerest hope is that justice will be fully served and that the priority remains the safety and protection of innocent children,\" Meghan said. British police said they were aware of \"media reports that officers from the Met's Royalty and Specialist Protection Command were involved in the passing on of"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "statement. Loading"
+    ],
+    [
+     "ins",
+     "letter in 2018\". \"We are undertaking enquiries internally in an effort to confirm this,\" a spokesperson for the Metropolitan Police said. Thomas Markle Sr was living in the Philippines earlier this year when he suffered a stroke and had his left leg amputated. That forced him to return to the US. Police in the Philippines said they were also investigating. \"Our Anti-Trafficking and Anti-OSAEC (online sexual abuse and exploitation of children) task force in Cebu is currently investigating the matter,\" Nicholas Ty, Philippine justice undersecretary, told Reuters. Thomas Markle Jr told British tabloid The Sun he had found \"hundreds, if not thousands\" of child sex abuse images in boxes at his father's former home in the Philippine city of Cebu when he was clearing out the property. Mr Markle Jr said he reported the images to police in the Philippines and contacted the Federal Bureau of Investigation in the US."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 2.1523,
+  "numbers_changed": [
+   "2018",
+   "2020"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 4,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.994,
+ "similarity": 0.9044,
+ "adjudicated_by": "rules"
+}

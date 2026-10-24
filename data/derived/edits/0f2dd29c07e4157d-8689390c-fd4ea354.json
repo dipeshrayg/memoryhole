@@ -1,0 +1,44 @@
+{
+ "id": "0f2dd29c07e4157d-8689390c-fd4ea354",
+ "url": "https://www.france24.com/en/video/20261022-popular-dissatisfaction-across-europe-promises-of-more-economic-growth-haven-t-come-true-1",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-24T10:42:38Z",
+ "date": "2026-10-24",
+ "old_title": "'Popular dissatisfaction' across Europe: 'Promises of more economic growth haven't come true'",
+ "new_title": "'Popular dissatisfaction' across Europe: 'Promises of more economic growth haven't come true'",
+ "old_text": "'Popular dissatisfaction' across Europe: 'Promises of more economic growth haven't come true'\nIssued on: Modified:\nShare\nOliver Farry is pleased to welcome Steven Erlanger, Chief Diplomatic Correspondent in Europe for The New York Times, based in Berlin. Europe's political centre is confronting a crisis that extends far beyond electoral volatility. From France and Germany to Italy and Spain, mounting economic frustration, generational inequality and declining confidence in established political leadership are reshaping the continent's democratic landscape. \"The promises of more economic growth haven't come true,\" explains Erlanger, describing a continent marked by \"a kind of general disgust\" and \"a sense of drift.\"",
+ "new_text": "Video contentVideo\n'Popular dissatisfaction' across Europe: 'Promises of more economic growth haven't come true'\nIssued on: Modified:\nShare\nOliver Farry is pleased to welcome Steven Erlanger, Chief Diplomatic Correspondent in Europe for The New York Times, based in Berlin. Europe's political centre is confronting a crisis that extends far beyond electoral volatility. From France and Germany to Italy and Spain, mounting economic frustration, generational inequality and declining confidence in established political leadership are reshaping the continent's democratic landscape. \"The promises of more economic growth haven't come true,\" explains Erlanger, describing a continent marked by \"a kind of general disgust\" and \"a sense of drift.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "Video contentVideo"
+    ],
+    [
+     "eq",
+     "'Popular dissatisfaction' across Europe: 'Promises of more economic growth haven't come true'"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0196,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9854,
+ "adjudicated_by": "rules"
+}

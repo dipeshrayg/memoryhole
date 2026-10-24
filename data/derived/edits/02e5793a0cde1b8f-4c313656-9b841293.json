@@ -1,0 +1,44 @@
+{
+ "id": "02e5793a0cde1b8f-4c313656-9b841293",
+ "url": "https://www.france24.com/en/video/20261019-les-mis%C3%A9rables-macron-s-sense-of-detachment-amid-rising-living-costs-youth-fears-for-the-future",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-24T10:42:07Z",
+ "date": "2026-10-24",
+ "old_title": "Les Misérables: Macron's 'sense of detachment' amid rising living costs and youth 'fears for future'",
+ "new_title": "Les Misérables: Macron's 'sense of detachment' amid rising living costs and youth 'fears for future'",
+ "old_text": "Les Misérables: Macron's 'sense of detachment' amid rising living costs and youth 'fears for future'\nIssued on: Modified:\nShare\nFrance's escalating protest movement is exposing a widening disconnect between political leadership and public frustration, while raising questions about the country's long tradition of social unrest. Chris Reynolds, Professor of French and European Studies at Nottingham Trent University, argues that President Emmanuel Macron's latest address was characterised by a troubling \"sense of detachment,\" offering little to resolve the structural grievances driving the demonstrations. Drawing parallels with May 1968 and the Yellow Vest movement, Reynolds warns that violent unrest risks eclipsing the legitimate concerns of largely peaceful protesters, undermining public sympathy and reshaping political debate ahead of the presidential election.",
+ "new_text": "Video contentVideo\nLes Misérables: Macron's 'sense of detachment' amid rising living costs and youth 'fears for future'\nIssued on: Modified:\nShare\nFrance's escalating protest movement is exposing a widening disconnect between political leadership and public frustration, while raising questions about the country's long tradition of social unrest. Chris Reynolds, Professor of French and European Studies at Nottingham Trent University, argues that President Emmanuel Macron's latest address was characterised by a troubling \"sense of detachment,\" offering little to resolve the structural grievances driving the demonstrations. Drawing parallels with May 1968 and the Yellow Vest movement, Reynolds warns that violent unrest risks eclipsing the legitimate concerns of largely peaceful protesters, undermining public sympathy and reshaping political debate ahead of the presidential election.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "Video contentVideo"
+    ],
+    [
+     "eq",
+     "Les Misérables: Macron's 'sense of detachment' amid rising living costs and youth"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0169,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9813,
+ "adjudicated_by": "rules"
+}

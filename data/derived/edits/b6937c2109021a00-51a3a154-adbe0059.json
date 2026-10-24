@@ -1,0 +1,60 @@
+{
+ "id": "b6937c2109021a00-51a3a154-adbe0059",
+ "url": "https://www.independent.co.uk/news/world/europe/uk-france-nuclear-drill-raf-typhoon-b3072129.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-24T10:44:47Z",
+ "date": "2026-10-24",
+ "old_title": "RAF holds first ever joint nuclear drill with France in warning shot to Putin",
+ "new_title": "RAF holds first ever joint nuclear drill with France in warning shot to Putin",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nBritain and France carried out their first joint exercise involving France's airborne nuclear deterrent, France's armed forces ministry said in a statement on Friday.\nBritish Typhoon jets joined in a nuclear exercise alongside French Rafale warplanes on Tuesday evening, French armed forces minister Catherine Vautrin said.\n\"Having independent nuclear forces does not preclude coordination,\" she said, adding: \"Our nuclear cooperation with the United Kingdom continues to deepen.\"\nMs Vautrin said the exercise showed the \"coordination and commitment\" of the two European nuclear powers \"in support of Europe's security and credible deterrence\".\nThe two countries last summer agreed to reinforce cooperation over their respective nuclear arsenals in response to growing threats to Europe and amid uncertainty over their US ally.\nUS president Donald Trump's criticism of the Nato military alliance and his overtures to Russia have led to concerns in Europe about Washington's commitment to helping defend its European allies.\nEurope's primary nuclear deterrence comes from the United States and is a decades-old symbol of trans-Atlantic solidarity.\nFrance and Britain represent the two remaining nuclear powers in Europe outside of Russia, after Ukraine gave up its weapons in 1994 in return for security assurances from the US, UK and Russia.\nThe French defence ministry said earlier in October that it had carried out the first test launch of its latest-generation M51.3 submarine-launched ballistic missile, underscoring its nuclear deterrent.\nThe missile, which was not equipped with a nuclear warhead, was launched off the coast of Brittany as part of an operation to certify the nuclear-submarine Le Vigilant's ability to deploy the weapon following a major maintenance overhaul, the ministry said in a statement.\nIt said the launch was conducted without a payload and in strict compliance with international obligations.\nThe announcement made no mention of Russia but came amid heightened tensions days after president Vladimir Putin warned the West not to threaten the Russian exclave of Kaliningrad, which Moscow has said it would defend with nuclear weapons if necessary.\nNato has said none of its \"exercises or activities pose a threat to the territory of the Russian Federation\".\nPutin also said Russia had no plans to attack any European country and wanted to coexist peacefully.\nMore follows...",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nBritain and France carried out their first joint exercise involving France's airborne nuclear deterrent, France's armed forces ministry said in a statement on Friday.\nBritish Typhoon jets joined in a nuclear exercise alongside French Rafale warplanes on Tuesday evening, French armed forces minister Catherine Vautrin said.\n\"Having independent nuclear forces does not preclude coordination,\" she said, adding: \"Our nuclear cooperation with the United Kingdom continues to deepen.\"\nMs Vautrin said the exercise showed the \"coordination and commitment\" of the two European nuclear powers \"in support of Europe's security and credible deterrence\".\nBritish defence secretary Wes Streeting said on Friday afternoon: \"This week RAF Typhoons have flown alongside French Rafale jets - the first time the UK has taken part in a French nuclear air exercise.\n\"It's a landmark step in UK-France defence co-operation, and a clear signal that we stand shoulder to shoulder with our allies on European security and credible deterrence.\"\nThe two countries last summer agreed to reinforce cooperation over their respective nuclear arsenals in response to growing threats to Europe and amid uncertainty over their US ally.\nUS president Donald Trump's criticism of the Nato military alliance and his overtures to Russia have led to concerns in Europe about Washington's commitment to helping defend its European allies.\nEurope's primary nuclear deterrence comes from the United States and is a decades-old symbol of trans-Atlantic solidarity.\nFrance and Britain represent the two remaining nuclear powers in Europe outside of Russia, after Ukraine gave up its weapons in 1994 in return for security assurances from the US, UK and Russia.\nThe French defence ministry said earlier in October that it had carried out the first test launch of its latest-generation M51.3 submarine-launched ballistic missile, underscoring its nuclear deterrent.\nThe missile, which was not equipped with a nuclear warhead, was launched off the coast of Brittany as part of an operation to certify the nuclear-submarine Le Vigilant's ability to deploy the weapon following a major maintenance overhaul, the ministry said in a statement.\nIt said the launch was conducted without a payload and in strict compliance with international obligations.\nThe announcement made no mention of Russia but came amid heightened tensions days after president Vladimir Putin warned the West not to threaten the Russian exclave of Kaliningrad, which Moscow has said it would defend with nuclear weapons if necessary.\nNato has said none of its \"exercises or activities pose a threat to the territory of the Russian Federation\".\nPutin also said Russia had no plans to attack any European country and wanted to coexist peacefully.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "two European nuclear powers \"in support of Europe's security and credible deterrence\"."
+    ],
+    [
+     "ins",
+     "British defence secretary Wes Streeting said on Friday afternoon: \"This week RAF Typhoons have flown alongside French Rafale jets - the first time the UK has taken part in a French nuclear air exercise. \"It's a landmark step in UK-France defence co-operation, and a clear signal that we stand shoulder to shoulder with our allies on European security and credible deterrence.\""
+    ],
+    [
+     "eq",
+     "The two countries last summer agreed to reinforce cooperation over their respective"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "no plans to attack any European country and wanted to coexist peacefully."
+    ],
+    [
+     "del",
+     "More follows..."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1583,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.916,
+ "similarity": 0.8923,
+ "adjudicated_by": "rules"
+}

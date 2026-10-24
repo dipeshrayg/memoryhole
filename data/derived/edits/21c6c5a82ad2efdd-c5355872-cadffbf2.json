@@ -1,0 +1,204 @@
+{
+ "id": "21c6c5a82ad2efdd-c5355872-cadffbf2",
+ "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-10-24T10:51:45Z",
+ "date": "2026-10-24",
+ "old_title": "Earnings limit of up to Â£140K for first-time buyers loan scheme",
+ "new_title": "Earnings limit of up to Â£140K for first-time buyers loan scheme",
+ "old_text": "- Published\nThe government is expected to allow households earning up to Â£110,000 to apply for its new loan scheme to help first-time buyers in England.\nAs first reported by The Times, external, a higher earnings limit of Â£140,000 is expected to apply to those purchasing properties in London.\nThe Your First Home scheme will offer government-backed equity loans worth 20% of new-build properties purchased from participating developers.\nThe loans, which will also be subject to an initial interest-free period, are designed to help people buy a home with deposits as low as 2.5%.\nPrevious schemes to help first-time buyers did not restrict eligibility by income but faced criticism for stoking house prices by allowing relatively wealthy households to borrow more.\nUnveiling the Your First Home Scheme at last month's Labour conference, Prime Minister Andy Burnham said it would focus on those who \"really need support\".\nDetails of the changes, including salary caps, are due to be confirmed at next week's Budget.\nThe Times reported that ministers had initially decided to set the earnings limits at Â£90,000 for homes outside outside London and Â£110,000 in the capital, before concluding this would deny access to too many middle-earning couples, such as teachers and nurses.\nThe government has also argued that the scheme will help to boost housebuilding, after ministers conceded they are set to miss a target to build 1.5 million homes in England by the next election.\nHelp to Buy\nLabour has said the scheme will be funded by within existing government budgets, but is yet to provide details of which other areas will see their spending cut.\nDevelopers taking part in the scheme will also be asked to contribute towards running costs.\nLike the Help to Buy scheme launched under the Conservative-Liberal Democrat coalition government, the scheme will use equity loans, which are linked to changes in the value of properties they are used to purchase.\nThat scheme, which initially ran between 2013 and 2021, enabled all home purchasers to put down a 5% deposit on a newly built home worth up to Â£600,000.\nUp to 20% of the cost of the home was funded by a shared equity loan, which was interest-free for the first five years.\nA second version of that scheme, which ran from 2021 to 2023, restricted access to first-time buyers and applied regional-level price caps to the properties could be bought under the programme.",
+ "new_text": "- Published\nHouseholds will need to earn less than Â£110,000 to qualify for the government's new loan scheme for first-time buyers, or Â£140,000 for homes bought in London.\nAs first reported by The Times, external, the earnings limits are expected to be confirmed at the Budget next week.\nThe Your First Home scheme will offer government-backed equity loans worth 20% of new-build properties in England bought from participating developers.\nThe loans, which will also be subject to an initial interest-free period, are designed to help people buy a home with deposits as low as 2.5%.\nPrevious schemes to help first-time buyers did not restrict eligibility by income but faced criticism for stoking house prices by allowing relatively wealthy households to borrow more.\nUnveiling the Your First Home Scheme at last month's Labour conference, Prime Minister Andy Burnham said it would focus on those who \"really need support\".\nThe Times reported that ministers had initially decided to set the earnings limits at Â£90,000 for homes outside outside London and Â£110,000 in the capital, before concluding this would deny access to too many middle-earning couples, such as teachers and nurses.\nThe government has also argued that the scheme will help to boost housebuilding, after ministers conceded they are set to miss a target to build 1.5 million homes in England by the next election.\nHelp to Buy\nLabour has said the scheme will be funded by within existing government budgets, but is yet to provide details of which other areas will see their spending cut.\nDevelopers taking part in the scheme will also be asked to contribute towards running costs.\nThe Home Builders Federation, which represents developers, has welcomed the plans and urged the government to move quickly to set up the scheme.\nThe Conservatives have however branded the proposals a \"colossal admission of failure\" of Labour's housebuilding record, and expressed concerns that the new developer levy could push up the price of new homes.\nLike the Help to Buy scheme launched under the Conservative-Liberal Democrat coalition government, the scheme will use equity loans, which are linked to changes in the value of properties they are used to purchase.\nThat scheme, which initially ran between 2013 and 2021, enabled all home purchasers to put down a 5% deposit on a newly built home worth up to Â£600,000.\nUp to 20% of the cost of the home was funded by a shared equity loan, which was interest-free for the first five years.\nA second version of that scheme, which ran from 2021 to 2023, restricted access to first-time buyers and applied regional-level price caps to the properties could be bought under the programme.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "The government is expected"
+    ],
+    [
+     "ins",
+     "Households will need"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "allow households earning up to"
+    ],
+    [
+     "ins",
+     "earn less than"
+    ],
+    [
+     "eq",
+     "Â£110,000 to"
+    ],
+    [
+     "del",
+     "apply"
+    ],
+    [
+     "ins",
+     "qualify"
+    ],
+    [
+     "eq",
+     "for"
+    ],
+    [
+     "del",
+     "its"
+    ],
+    [
+     "ins",
+     "the government's"
+    ],
+    [
+     "eq",
+     "new loan scheme"
+    ],
+    [
+     "del",
+     "to help"
+    ],
+    [
+     "ins",
+     "for"
+    ],
+    [
+     "eq",
+     "first-time"
+    ],
+    [
+     "del",
+     "buyers"
+    ],
+    [
+     "ins",
+     "buyers, or Â£140,000 for homes bought"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "England."
+    ],
+    [
+     "ins",
+     "London."
+    ],
+    [
+     "eq",
+     "As first reported by The Times, external,"
+    ],
+    [
+     "del",
+     "a higher"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "earnings"
+    ],
+    [
+     "del",
+     "limit of Â£140,000 is"
+    ],
+    [
+     "ins",
+     "limits are"
+    ],
+    [
+     "eq",
+     "expected to"
+    ],
+    [
+     "del",
+     "apply to those purchasing properties in London."
+    ],
+    [
+     "ins",
+     "be confirmed at the Budget next week."
+    ],
+    [
+     "eq",
+     "The Your First Home scheme will offer government-backed equity loans worth 20% of new-build properties"
+    ],
+    [
+     "del",
+     "purchased"
+    ],
+    [
+     "ins",
+     "in England bought"
+    ],
+    [
+     "eq",
+     "from participating developers. The loans, which will also be subject to an"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Andy Burnham said it would focus on those who \"really need support\"."
+    ],
+    [
+     "del",
+     "Details of the changes, including salary caps, are due to be confirmed at next week's Budget."
+    ],
+    [
+     "eq",
+     "The Times reported that ministers had initially decided to set the earnings"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "in the scheme will also be asked to contribute towards running costs."
+    ],
+    [
+     "ins",
+     "The Home Builders Federation, which represents developers, has welcomed the plans and urged the government to move quickly to set up the scheme. The Conservatives have however branded the proposals a \"colossal admission of failure\" of Labour's housebuilding record, and expressed concerns that the new developer levy could push up the price of new homes."
+    ],
+    [
+     "eq",
+     "Like the Help to Buy scheme launched under the Conservative-Liberal Democrat coalition"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.325,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 0.9821,
+ "adjudicated_by": "rules"
+}
