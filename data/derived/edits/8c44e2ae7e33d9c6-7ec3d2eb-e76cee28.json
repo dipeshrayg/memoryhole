@@ -1,0 +1,327 @@
+{
+ "id": "8c44e2ae7e33d9c6-7ec3d2eb-e76cee28",
+ "url": "https://www.independent.co.uk/news/business/adl-spain-morocco-portugal-birmingham-b3070690.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-25T11:08:51Z",
+ "date": "2026-10-25",
+ "old_title": "National Express owner in talks over £282m takeover deal",
+ "new_title": "National Express owner in talks over £282m takeover deal",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nA British transport company is eyeing a potential takeover deal from its Spanish majority shareholder.\nNational Express parent firm Mobico has said it is in talks over a £282 million takeover deal from a Spanish transport company.\nBirmingham-based Mobico, which also runs bus operations in Spain, Portugal and Morocco, said Autobuses de Leon (AdL) has made a proposal to buy the company for 46p per share.\nSpain's AdL is backed by CMC Group and investment firm Asterion Industrial Partners, who is Mobico's largest shareholder, with a roughly 26% stake.\nMobico shares jumped by around 33% to 39.5p after the talks were confirmed on Wednesday morning.\nThe proposal represented a roughly 56% premium on the closing price of Mobico shares on Tuesday evening.\nMobico bosses said they have evaluated the approach with advisers and are \"minded to recommend\" the deal to shareholders, should AdL make a formal takeover offer.\n\"This announcement does not amount to an announcement of a firm intention to make an offer,\" the company said in a statement.\n\"There can be no certainty that any firm offer for Mobico will be made. Mobico shareholders are advised to take no action in relation to the proposal.\"\nAdL has until November 18 to announce a firm offer.\nIt comes as takeover activity continues to ramp up this year, with interest from overseas strategic buyers and private equity.\nHousehold names including easyJet and sugar giant Tate & Lyle have been taken off the London Stock Exchange by foreign investors.\nTate & Lyle shareholders voted overwhelmingly to wave through a £2.7 billion ($3.7 billion enterprise value) recommended all-cash takeover by US rival Ingredion on July 28.\nAnd easyJet's board unanimously agreed to a recommended £5.7 billion cash takeover offer from US private equity firm Apollo Global Management, which valued the airline at £7.15 per share.\nMeanwhile, Mobico has trimmed down its operations through disposals in recent years.\nIt agreed a recent deal to sell its remaining UK regional bus operator to the West Midlands local authority, and completed a £457 million sale of its US school bus arm last year.",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nMobico, the parent company behind National Express, is in talks with a Spanish transport company over a potential £282 million takeover deal.\nThe Birmingham-based Mobico said that Autobuses de Leon (AdL) has proposed to purchase the company for 46p per share.\nShares in Mobico, which also operates bus companies in Spain, Portugal and Morocco, jumped by around 33 per cent to 39.5p after the talks were confirmed on Wednesday morning, and have since further risen to 40.4p.\nThe proposed price is roughly a 56 per cent premium on the closing price of Mobico shares on Tuesday evening, and approximately a 13.9 per cent premium on the share price as of Saturday morning.\nMobico bosses said they were \"minded to recommend\" the deal to shareholders after discussing the proposal with advisers, should the Spanish AdL make an official takeover offer.\n\"This announcement does not amount to an announcement of a firm intention to make an offer,\" Mobico said.\n\"There can be no certainty that any firm offer for Mobico will be made. Mobico shareholders are advised to take no action in relation to the proposal.\"\nAdL is backed by CMC Group, which is Mobico's largest shareholder, and already possesses roughly 26 per cent of the company.\nIt comes as takeover activity continues to ramp up this year, with interest from overseas strategic buyers and private equity.\nHousehold names including easyJet and sugar giant Tate & Lyle have been taken off the London Stock Exchange by foreign investors.\nTate & Lyle shareholders voted overwhelmingly to wave through a £2.7 billion ($3.7 billion enterprise value) recommended all-cash takeover by US rival Ingredion on July 28.\nAnd easyJet's board unanimously agreed to a recommended £5.7 billion cash takeover offer from US private equity firm Apollo Global Management, which valued the airline at £7.15 per share.\nMeanwhile, Mobico has trimmed down its operations through disposals in recent years.\nIt agreed a recent deal to sell its remaining UK regional bus operator to the West Midlands local authority, and completed a £457 million sale of its US school bus arm last year.\nAdL has until 18 November to announce a firm offer.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Start your Independent Membership today. Join today Already a member? Log in"
+    ],
+    [
+     "del",
+     "A British transport"
+    ],
+    [
+     "ins",
+     "Mobico, the parent"
+    ],
+    [
+     "eq",
+     "company"
+    ],
+    [
+     "del",
+     "is eyeing a potential takeover deal from its Spanish majority shareholder."
+    ],
+    [
+     "ins",
+     "behind"
+    ],
+    [
+     "eq",
+     "National"
+    ],
+    [
+     "del",
+     "Express parent firm Mobico has said it"
+    ],
+    [
+     "ins",
+     "Express,"
+    ],
+    [
+     "eq",
+     "is in talks"
+    ],
+    [
+     "ins",
+     "with a Spanish transport company"
+    ],
+    [
+     "eq",
+     "over a"
+    ],
+    [
+     "ins",
+     "potential"
+    ],
+    [
+     "eq",
+     "£282 million takeover"
+    ],
+    [
+     "del",
+     "deal from a Spanish transport company."
+    ],
+    [
+     "ins",
+     "deal. The"
+    ],
+    [
+     "eq",
+     "Birmingham-based"
+    ],
+    [
+     "del",
+     "Mobico, which also runs bus operations in Spain, Portugal and Morocco,"
+    ],
+    [
+     "ins",
+     "Mobico"
+    ],
+    [
+     "eq",
+     "said"
+    ],
+    [
+     "ins",
+     "that"
+    ],
+    [
+     "eq",
+     "Autobuses de Leon (AdL) has"
+    ],
+    [
+     "del",
+     "made a proposal"
+    ],
+    [
+     "ins",
+     "proposed"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "buy"
+    ],
+    [
+     "ins",
+     "purchase"
+    ],
+    [
+     "eq",
+     "the company for 46p per share."
+    ],
+    [
+     "del",
+     "Spain's AdL is backed by CMC Group"
+    ],
+    [
+     "ins",
+     "Shares in Mobico, which also operates bus companies in Spain, Portugal"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "investment firm Asterion Industrial Partners, who is Mobico's largest shareholder, with a roughly 26% stake. Mobico shares"
+    ],
+    [
+     "ins",
+     "Morocco,"
+    ],
+    [
+     "eq",
+     "jumped by around"
+    ],
+    [
+     "del",
+     "33%"
+    ],
+    [
+     "ins",
+     "33 per cent"
+    ],
+    [
+     "eq",
+     "to 39.5p after the talks were confirmed on Wednesday"
+    ],
+    [
+     "del",
+     "morning."
+    ],
+    [
+     "ins",
+     "morning, and have since further risen to 40.4p."
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "proposal represented"
+    ],
+    [
+     "ins",
+     "proposed price is roughly"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "roughly 56%"
+    ],
+    [
+     "ins",
+     "56 per cent"
+    ],
+    [
+     "eq",
+     "premium on the closing price of Mobico shares on Tuesday"
+    ],
+    [
+     "del",
+     "evening."
+    ],
+    [
+     "ins",
+     "evening, and approximately a 13.9 per cent premium on the share price as of Saturday morning."
+    ],
+    [
+     "eq",
+     "Mobico bosses said they"
+    ],
+    [
+     "del",
+     "have evaluated the approach with advisers and are"
+    ],
+    [
+     "ins",
+     "were"
+    ],
+    [
+     "eq",
+     "\"minded to recommend\" the deal to"
+    ],
+    [
+     "del",
+     "shareholders,"
+    ],
+    [
+     "ins",
+     "shareholders after discussing the proposal with advisers,"
+    ],
+    [
+     "eq",
+     "should"
+    ],
+    [
+     "ins",
+     "the Spanish"
+    ],
+    [
+     "eq",
+     "AdL make"
+    ],
+    [
+     "del",
+     "a formal"
+    ],
+    [
+     "ins",
+     "an official"
+    ],
+    [
+     "eq",
+     "takeover offer. \"This announcement does not amount to an announcement of a firm intention to make an offer,\""
+    ],
+    [
+     "del",
+     "the company said in a statement."
+    ],
+    [
+     "ins",
+     "Mobico said."
+    ],
+    [
+     "eq",
+     "\"There can be no certainty that any firm offer for Mobico will"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "are advised to take no action in relation to the proposal.\" AdL"
+    ],
+    [
+     "del",
+     "has until November 18 to announce a firm offer."
+    ],
+    [
+     "ins",
+     "is backed by CMC Group, which is Mobico's largest shareholder, and already possesses roughly 26 per cent of the company."
+    ],
+    [
+     "eq",
+     "It comes as takeover activity continues to ramp up this year, with"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "a £457 million sale of its US school bus arm last year."
+    ],
+    [
+     "ins",
+     "AdL has until 18 November to announce a firm offer."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5407,
+  "numbers_changed": [
+   "13.9",
+   "40.4"
+  ],
+  "market_figures_changed": [
+   "26%",
+   "33%",
+   "56%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 0.9449,
+ "adjudicated_by": "rules"
+}

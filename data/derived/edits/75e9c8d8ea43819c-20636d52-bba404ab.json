@@ -1,0 +1,140 @@
+{
+ "id": "75e9c8d8ea43819c-20636d52-bba404ab",
+ "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrives-in-chinese-border-city/a-79748580?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-25T11:05:55Z",
+ "date": "2026-10-25",
+ "old_title": "Kim Jong Un arrives in China via newly opened border bridge",
+ "new_title": "Kim Jong Un travels to China via newly opened border bridge",
+ "old_text": "North Korean leader Kim Jong Un arrived in China via the newly opened bridge, South Korea's Yonhap news agency reported on Saturday.\n\"It appears that Kim Jong Un has arrived in Dandong, China, via the New Yalu River Bridge,\" the unnamed source said.\nThe four-lane bridge was completed in 2014 but remained unused for 12 years due to a lack of connecting roads and customs facilities on the North Korean side.\nIt officially opened about a week ago, marking a step towards strengthening economic ties between the neighbouring countries.\nChina is North Korea's largest trading partner and a key source of diplomatic, economic and political support for the isolated, nuclear-armed state, although relations between the two have not always been smooth.\nKim's trip coincides with key dates in China\nNeither Beijing nor Pyongyang has confirmed Kim's visit.\nThe trip coincides with the anniversary of China's entry into the Korean War, known in China as the \"War to Resist US Aggression and Aid Korea.\" It remains unclear whether Kim will attend commemorative events.\nDuring the 1950-53 war, Chinese troops fought alongside North Korea against South Korea and US-led United Nations forces.\nKim's visit also comes ahead of a key political meeting in Beijing on Monday, when Chinese President Xi Jinping and other senior officials gather for the fifth plenary session of the Communist Party's powerful Central Committee.\nBridge highlights North Korea's ties with China\nThe New Yalu River Bridge opened just over a month after North Korea and Russia inaugurated their first road bridge, which Pyongyang hailed as a sign of closer ties.\nWhile North Korea's trade with Russia largely involves military supplies, trade with China could provide goods needed to develop its civilian economy, analysts say.\nEdited by: Zac Crellin\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "North Korean leader Kim Jong Un arrived in China via the newly opened bridge on Saturday. He arrived in the Chinese border city of Dandong via the New Yalu River Bridge linking the two countries.\nChina's top political adviser Wang Huning met North Korean leader Kim Jong Un, Chinese state media reported.\nWang conveyed President Xi Jinping's \"greetings and best wishes to Kim,\" Xinhua reported.\nChina and North Korea pledged to \"strengthen strategic communication and cooperation to safeguard their sovereignty, security and development interests.\"\nThe two countries also vowed to expand people-to-people exchanges and economic and trade cooperation through the opening of the New Yalu River Bridge.\nThe four-lane bridge was completed in 2014 but remained unused for 12 years due to a lack of connecting roads and customs facilities on the North Korean side.\nIt officially opened about a week ago, marking a step towards strengthening economic ties between the neighbouring countries.\nChina is North Korea's largest trading partner and a key source of diplomatic, economic and political support for the isolated, nuclear-armed state, although relations between the two have not always been smooth.\nKim's trip coincides with key dates in China\nThe trip coincides with the anniversary of China's entry into the Korean War, known in China as the \"War to Resist US Aggression and Aid Korea.\" It remains unclear whether Kim will attend commemorative events.\nDuring the 1950-53 war, Chinese troops fought alongside North Korea against South Korea and US-led United Nations forces.\nKim's visit also comes ahead of a key political meeting in Beijing on Monday, when Xi and other senior officials gather for the fifth plenary session of the Communist Party's powerful Central Committee.\nBridge highlights North Korea's ties with China\nThe New Yalu River Bridge opened just over a month after North Korea and Russia inaugurated their first road bridge, which Pyongyang hailed as a sign of closer ties.\nWhile North Korea's trade with Russia largely involves military supplies, trade with China could provide goods needed to develop its civilian economy, analysts say.\nEdited by: Zac Crellin\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Korean leader Kim Jong Un arrived in China via the newly opened"
+    ],
+    [
+     "del",
+     "bridge, South Korea's Yonhap news agency reported"
+    ],
+    [
+     "ins",
+     "bridge"
+    ],
+    [
+     "eq",
+     "on Saturday."
+    ],
+    [
+     "del",
+     "\"It appears that Kim Jong Un has"
+    ],
+    [
+     "ins",
+     "He"
+    ],
+    [
+     "eq",
+     "arrived in"
+    ],
+    [
+     "del",
+     "Dandong, China,"
+    ],
+    [
+     "ins",
+     "the Chinese border city of Dandong"
+    ],
+    [
+     "eq",
+     "via the New Yalu River"
+    ],
+    [
+     "del",
+     "Bridge,\""
+    ],
+    [
+     "ins",
+     "Bridge linking"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "unnamed source said."
+    ],
+    [
+     "ins",
+     "two countries. China's top political adviser Wang Huning met North Korean leader Kim Jong Un, Chinese state media reported. Wang conveyed President Xi Jinping's \"greetings and best wishes to Kim,\" Xinhua reported. China and North Korea pledged to \"strengthen strategic communication and cooperation to safeguard their sovereignty, security and development interests.\" The two countries also vowed to expand people-to-people exchanges and economic and trade cooperation through the opening of the New Yalu River Bridge."
+    ],
+    [
+     "eq",
+     "The four-lane bridge was completed in 2014 but remained unused for 12"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "not always been smooth. Kim's trip coincides with key dates in China"
+    ],
+    [
+     "del",
+     "Neither Beijing nor Pyongyang has confirmed Kim's visit."
+    ],
+    [
+     "eq",
+     "The trip coincides with the anniversary of China's entry into the Korean"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "comes ahead of a key political meeting in Beijing on Monday, when"
+    ],
+    [
+     "del",
+     "Chinese President"
+    ],
+    [
+     "eq",
+     "Xi"
+    ],
+    [
+     "del",
+     "Jinping"
+    ],
+    [
+     "eq",
+     "and other senior officials gather for the fifth plenary session of the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3485,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 1,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.991,
+ "similarity": 0.9132,
+ "adjudicated_by": "rules"
+}
