@@ -1,0 +1,60 @@
+{
+ "id": "a4dc771c8d40e12e-6a4fc303-a032c373",
+ "url": "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-26T12:36:58Z",
+ "date": "2026-10-26",
+ "old_title": "Brazil heads to the polls for tight runoff between leftist Lula and right-wing Flavio Bolsonaro",
+ "new_title": "Brazil heads to the polls for tight runoff between leftist Lula and right-wing Flavio Bolsonaro",
+ "old_text": "Voters in Brazil head to polls on Sunday for a presidential runoff election between incumbent Luiz Inacio Lula da Silva and Flavio Bolsonaro, the son of convicted former President Jair Bolsonaro.\nIn the first round earlier this month, Bolsonaro surpassed Lula by more than 2.2 million votes. More than 33 million voters out of nearly 160 million abstained.\nHowever, Sunday's runoff election is expected to be neck-and-neck, with recent polls showing Lula closing the gap.\nCandidates need more than 50% of the vote to become president.\nElection to determine Brazil's direction\nThe high-stakes election is set to determine Brazil's political direction, pitting left-of-center veteran Lula, 80, against right-wing Bolsonaro, 45, who is an ally of the US.\nIf Bolsonaro wins, it will signify a shift to the right for Brazil and could determine the extent to which the US will be able to grow its influence in Latin America.\nLula has campaigned to continue his social policies to boost employment and reduce poverty, while Bolsonaro has pledged a tougher course against crime and a political fresh start.\nFlavio has also pledged to free his father, who is under house arrest for attempting a coup in 2022, if he is elected.\nHowever, if Lula, who has opposed the US President Donald Trump over trade and security, secures a fourth term, it is likely to pose hurdles for Washington.\nThe 80-year-old was previously head of state from 2003 to 2010, and became president again in 2023.\nFlavio Bolsonaro has sat in the Senate since 2019 and is running for the presidency for the first time.\nThe rematch between Lula and Bolsonaro comes against the backdrop of corruption scandals, economic downslide and accusations of US interference, which Washington denies.\nAround 159 million people are eligible to vote in the election.\nPreliminary results are expected on Sunday night.\nEdited by: Natalie Muller\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking hereand hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "Voters in Brazil headed to the polls on Sunday for a presidential runoff election between incumbent Luiz Inacio Lula da Silva and Flavio Bolsonaro, the son of convicted former President Jair Bolsonaro.\nIn the first round earlier this month, Bolsonaro surpassed Lula by more than 2.2 million votes. More than 33 million voters out of nearly 160 million abstained.\nHowever, Sunday's runoff election is expected to be neck-and-neck, with recent polls showing Lula closing the gap.\nCandidates need more than 50% of the vote to become president.\nElection to determine Brazil's direction\nThe high-stakes election is set to determine Brazil's political direction, pitting left-of-center veteran Lula, 80, against right-wing Bolsonaro, 45, who is an ally of the US.\nIf Bolsonaro wins, it will signify a shift to the right for Brazil and could determine the extent to which the US will be able to grow its influence in Latin America.\nLula has campaigned to continue his social policies to boost employment and reduce poverty, while Bolsonaro has pledged a tougher course against crime and a political fresh start.\nFlavio has also pledged to free his father, who is under house arrest for attempting a coup in 2022, if he is elected.\nHowever, if Lula, who has opposed the US President Donald Trump over trade and security, secures a fourth term, it is likely to pose hurdles for Washington.\nThe 80-year-old was previously head of state from 2003 to 2010, and became president again in 2023.\nFlavio Bolsonaro has sat in the Senate since 2019 and is running for the presidency for the first time.\nThe rematch between Lula and Bolsonaro comes against the backdrop of corruption scandals, economic downslide and accusations of US interference, which Washington denies.\nAround 159 million people are eligible to vote in the election.\nPreliminary results are expected on Sunday night.\nEdited by: Natalie Muller\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking hereand hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Voters in Brazil"
+    ],
+    [
+     "del",
+     "head"
+    ],
+    [
+     "ins",
+     "headed"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "polls on Sunday for a presidential runoff election between incumbent Luiz Inacio"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0086,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9985,
+ "adjudicated_by": "rules"
+}

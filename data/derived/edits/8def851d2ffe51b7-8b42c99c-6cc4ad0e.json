@@ -1,0 +1,48 @@
+{
+ "id": "8def851d2ffe51b7-8b42c99c-6cc4ad0e",
+ "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-26T12:36:09Z",
+ "date": "2026-10-26",
+ "old_title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
+ "new_title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
+ "old_text": "Saudi Arabia has intercepted drones and missiles over its capital, Riyadh, and southern areas, the Saudi-led coalition has said, as fighting with Yemen's Houthis continues.\nCoalition spokesman Major-General Turki al-Maliki said on Sunday its forces intercepted and destroyed a Houthi ballistic missile launched towards the capital city that morning, as well as a drone in the Riyadh region, and a cruise missile aimed at the southwestern city of Khamis Mushait, with explosions ringing out in the Saudi capital.\nIt later reported the interception of 10 ballistic missiles fired towards southern Saudi Arabia.\nThe attacks come as operations resumed at two terminals at Saudi Arabia's King Khalid international airport after deadly attacks earlier this month by the Houthis, an armed group also known as Ansar Allah (Arabic for Supporters of God).\nOperations at the airport were halted on October 10 after 13 people were killed and more than 300 others were wounded in a Houthi attack.\nLate on Saturday, Riyadh airport said in a statement that international flights would resume from Terminal 2 on Sunday, while Terminal 1 would be designated for domestic flights.\nHouthi military spokesman Yahya Saree warned that the airport was still \"unsafe\" and a \"military target\" for the Iran-backed group.\n\"The Yemeni Armed Forces warn all international, regional and local airlines - as well as staff and travellers - against using King Khalid airport in Riyadh, as it is unsafe and serves as a military target for our forces,\" he said. \"The Saudi regime shall bear the consequences of any operations at the airport.\"\nThe Iran-aligned Houthis on Saturday said they targeted three Saudi airports, including one in Riyadh, energy installations, a pipeline and an airbase.\nThe Saudi civil defence agency said it also responded to falling debris in the Mecca and Medina regions on Saturday after intercepting two Houthi missiles.\nThe Houthis denied targeting Mecca and Medina, two of the holiest cities in Islam, calling the Saudi claim a \"huge lie\".\nIn Yemen on Sunday, the Houthis advanced on Jabal Sabr, the strategic mountain overlooking the city of Taiz, which has become the focus of the fighting between the Houthis and Yemen's government forces.\nHouthi fighters have besieged the city and cut off the main road to Aden, which serves as the interim capital of Yemen's internationally recognised government.\nThe United Nations has warned that \"time is running out\" to deliver aid to the 800,000 people trapped in the city.\nYemen's government forces, meanwhile, said they conducted more than 700 operations against Houthi targets on Saturday, claiming to have killed more than 300 fighters.\nFighting between government forces and Houthi fighters has intensified across multiple fronts in Yemen in recent weeks, causing a spiralling humanitarian crisis.\nThe war in Yemen escalated sharply when the Houthis seized strategic territory from forces loyal to the country's internationally recognised government along the Red Sea coast last month.\nThe Houthi attacks on Saudi Arabia, which is aligned with Yemen's government forces, have dealt a huge blow to the kingdom, the world's biggest exporter of crude oil, disrupting its businesses, airlines and normal life, and damaging its international image.",
+ "new_text": "Saudi Arabia has intercepted drones and missiles over its capital, Riyadh, and southern areas, the Saudi-led coalition has said, as fighting with Yemen's Houthis continues.\nCoalition spokesman Major-General Turki al-Maliki said on Sunday its forces intercepted and destroyed a Houthi ballistic missile launched towards the capital city that morning, as well as a drone in the Riyadh region, and a cruise missile aimed at the southwestern city of Khamis Mushait, with explosions ringing out in the Saudi capital.\nIt later reported the interception of 10 ballistic missiles fired towards southern Saudi Arabia.\nThe fall of debris following the destruction of two ballistic missiles in Khamis Mushait and Ahad Rafidah caused two injuries, the Saudi Civil Defence agency said. In a post on X, it added the shrapnel also damaged three residential buildings and seven vehicles.\nThe attacks come as operations resumed at two terminals at Saudi Arabia's King Khalid international airport after deadly attacks earlier this month by the Houthis, an armed group also known as Ansar Allah (Arabic for Supporters of God).\nOperations at the airport were halted on October 10 after 13 people were killed and more than 300 others were wounded in a Houthi attack.\nLate on Saturday, Riyadh airport said in a statement that international flights would resume from Terminal 2 on Sunday, while Terminal 1 would be designated for domestic flights.\nHouthi military spokesman Yahya Saree warned that the airport was still \"unsafe\" and a \"military target\" for the Iran-backed group.\n\"The Yemeni Armed Forces warn all international, regional and local airlines - as well as staff and travellers - against using King Khalid airport in Riyadh, as it is unsafe and serves as a military target for our forces,\" he said. \"The Saudi regime shall bear the consequences of any operations at the airport.\"\nThe Iran-aligned Houthis on Saturday said they targeted three Saudi airports, including one in Riyadh, energy installations, a pipeline and an airbase.\nThe Saudi civil defence agency said it also responded to falling debris in the Mecca and Medina regions on Saturday after intercepting two Houthi missiles.\nThe Houthis denied targeting Mecca and Medina, two of the holiest cities in Islam, calling the Saudi claim a \"huge lie\".\nIn Yemen on Sunday, the Houthis advanced on Jabal Sabr, the strategic mountain overlooking the city of Taiz, which has become the focus of the fighting between the Houthis and Yemen's government forces.\nHouthi fighters have besieged the city and cut off the main road to Aden, which serves as the interim capital of Yemen's internationally recognised government.\nThe United Nations has warned that \"time is running out\" to deliver aid to the 800,000 people trapped in the city.\nYemen's government forces, meanwhile, said they conducted more than 700 operations against Houthi targets on Saturday, claiming to have killed more than 300 fighters.\nFighting between government forces and Houthi fighters has intensified across multiple fronts in Yemen in recent weeks, causing a spiralling humanitarian crisis.\nThe war in Yemen escalated sharply when the Houthis seized strategic territory from forces loyal to the country's internationally recognised government along the Red Sea coast last month.\nThe Houthi attacks on Saudi Arabia, which is aligned with Yemen's government forces, have dealt a huge blow to the kingdom, the world's biggest exporter of crude oil, disrupting its businesses, airlines and normal life, and damaging its international image.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "reported the interception of 10 ballistic missiles fired towards southern Saudi Arabia."
+    ],
+    [
+     "ins",
+     "The fall of debris following the destruction of two ballistic missiles in Khamis Mushait and Ahad Rafidah caused two injuries, the Saudi Civil Defence agency said. In a post on X, it added the shrapnel also damaged three residential buildings and seven vehicles."
+    ],
+    [
+     "eq",
+     "The attacks come as operations resumed at two terminals at Saudi Arabia's"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.083,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.555,
+ "similarity": 0.9525,
+ "adjudicated_by": "rules"
+}

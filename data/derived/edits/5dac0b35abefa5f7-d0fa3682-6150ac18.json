@@ -1,0 +1,100 @@
+{
+ "id": "5dac0b35abefa5f7-d0fa3682-6150ac18",
+ "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-10-26T12:49:12Z",
+ "date": "2026-10-26",
+ "old_title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+ "new_title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+ "old_text": "During a lengthy news conference on Friday, NASA provided a detailed overview of how it plans to return astronauts to the lunar surface as soon as 2028 as part of its Artemis Program.\nAlthough much of the information behind these plans has been previously reported at Ars Technica and elsewhere, this marked the first time NASA has laid them out in detail and acknowledged some substantial changes in the architecture.\nMost notably, for SpaceX's Starship vehicle, the revised plan calls for the Orion spacecraft to dock with the Starship lunar lander in high-Earth orbit before transiting to the Moon. And for Blue Origin, the mission architecture includes four launches of the New Glenn rocket, but no spacecraft-to-spacecraft refuelings. Additionally, the Blue Origin plans allows for the possibility of its Blue Moon lander rendezvousing with Orion in low-Lunar orbit.\nDuring the presentation on Friday, NASA officials said they continue to anticipate launching the Artemis III mission-a demonstration involving docking with both Blue Moon and Starship near Earth-by \"summer\" 2027. And they are still tracking toward a 2028 launch of Artemis IV, which would involve an actual landing on the lunar surface.\n\"This is an achievable path we are on right now,\" NASA Administrator Jared Isaacman said. \"We have the mandate, we have the resources, and the support from our stakeholders to be able to execute, and that's what we intend to do.\"\nIt is commendable that Isaacman and his leadership have taken a hard look every element of the Artemis Program and sought to make changes where they can help the lunar lander companies execute and accelerate their plans. But can they hold to those dates?\nThe SpaceX plan\nThe biggest ask SpaceX engineers had in meetings with NASA in early 2026 was removing the requirement to dock with Orion in a near-rectilinear halo orbit around the Moon. This required more energy and had other difficulties associated with it. When NASA canceled the Lunar Gateway earlier this year, it solved this problem for SpaceX.",
+ "new_text": "During a lengthy news conference on Friday, NASA provided a detailed overview of how it plans to return astronauts to the lunar surface as soon as 2028 as part of its Artemis Program.\nAlthough much of the information behind these plans has been previously reported at Ars Technica and elsewhere, this marked the first time NASA has laid them out in detail and acknowledged some substantial changes in the architecture.\nMost notably, for SpaceX's Starship vehicle, the revised plan calls for the Orion spacecraft to dock with the Starship lunar lander in high-Earth orbit before transiting to the Moon. And for Blue Origin, the mission architecture includes four launches of the New Glenn rocket, but no spacecraft-to-spacecraft refuelings. Additionally, the Blue Origin plan allows for the possibility of its Blue Moon lander rendezvousing with Orion in low-lunar orbit.\nDuring the presentation on Friday, NASA officials said they continue to anticipate launching the Artemis III mission-a demonstration involving docking with both Blue Moon and Starship near Earth-by \"summer\" 2027. And they are still tracking toward a 2028 launch of Artemis IV, which would involve an actual landing on the lunar surface.\n\"This is an achievable path we are on right now,\" NASA Administrator Jared Isaacman said. \"We have the mandate, we have the resources, and the support from our stakeholders to be able to execute, and that's what we intend to do.\"\nIt is commendable that Isaacman and his leadership have taken a hard look at every element of the Artemis program and sought to make changes where they can to help the lunar lander companies execute and accelerate their plans. But can they hold to those dates?\nThe SpaceX plan\nThe biggest ask SpaceX engineers had in meetings with NASA in early 2026 was removing the requirement to dock with Orion in a near-rectilinear halo orbit around the Moon. This required more energy and had other difficulties associated with it. When NASA canceled the Lunar Gateway earlier this year, it solved this problem for SpaceX.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the New Glenn rocket, but no spacecraft-to-spacecraft refuelings. Additionally, the Blue Origin"
+    ],
+    [
+     "del",
+     "plans"
+    ],
+    [
+     "ins",
+     "plan"
+    ],
+    [
+     "eq",
+     "allows for the possibility of its Blue Moon lander rendezvousing with Orion in"
+    ],
+    [
+     "del",
+     "low-Lunar"
+    ],
+    [
+     "ins",
+     "low-lunar"
+    ],
+    [
+     "eq",
+     "orbit. During the presentation on Friday, NASA officials said they continue to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "is commendable that Isaacman and his leadership have taken a hard look"
+    ],
+    [
+     "ins",
+     "at"
+    ],
+    [
+     "eq",
+     "every element of the Artemis"
+    ],
+    [
+     "del",
+     "Program"
+    ],
+    [
+     "ins",
+     "program"
+    ],
+    [
+     "eq",
+     "and sought to make changes where they can"
+    ],
+    [
+     "ins",
+     "to"
+    ],
+    [
+     "eq",
+     "help the lunar lander companies execute and accelerate their plans. But can"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.024,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9997,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,84 @@
+{
+ "id": "f979e2cd26e84c02-e47276cf-b637b59a",
+ "url": "https://www.france24.com/en/france/20261025-suspect-in-racist-gun-attack-near-paris-transferred-to-psychiatric-unit",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-26T12:37:47Z",
+ "date": "2026-10-26",
+ "old_title": "Suspect in racist gun attack near Paris transferred to psychiatric unit",
+ "new_title": "Suspect in racist Paris shooting transferred to psychiatric unit, had drugs in his system",
+ "old_text": "Suspect in racist gun attack near Paris transferred to psychiatric unit\nA shooter suspected of killing one person and wounding five others on Friday in the town of Trappes, near Paris, has had his police custody suspended for a 48-hour psychiatric observation, anti-terror prosecutors said Sunday. The 39-year-old man is believed to have had racist motivations behind the gun attack as most of the victims had foreign origins.\nA man suspected of a gun attack in the Paris suburbs that killed one person and wounded five has left custody and been placed in a psychiatric unit for observation, French anti-terror prosecutors said Sunday.\nThe 39-year-old suspect, partly identified as Kevin T., was arrested Friday in possession of a submachine gun and tear-gas grenades in his car, shortly after the victims were shot as a vehicle drove through the working-class town of Trappes and neighbouring La Verrière.\nPresident Emmanuel Macron had branded the shooting a \"racist terrorist attack\", as most of the victims were from foreign backgrounds.\nRead moreMacron says 'racist terrorist attack' in Trappes marks turning point for France\nThe French National Anti-Terrorism Prosecutor's Office (PNAT), which is handling the case, on Saturday extended the suspect's time in detention to pursue its interrogation.\nBut on Sunday, the PNAT said: \"After a psychiatric examination of Kevin T. carried out in the evening (of Saturday), his custody has been lifted.\"\nIt said that, in line with conclusions from a psychiatric expert, he \"was transferred to the police psychiatric unit to be subjected to a psychiatric observation period likely to last 48 hours\".\nThat observation period \"should allow us to evaluate whether his state of psychiatric health is compatible with pursuing his interrogation sessions\".\nThe PNAT added that traces of cannabis and cocaine were also found in the suspect's blood.\nPolice have searched the suspected gunman's home in the town of Plaisir outside of Paris.\nAccording to a source close to the investigation on Saturday, they found a Bible, a Quran and a copy of Adolf Hitler's \"Mein Kampf\".\nThe person killed in Friday's shooting was a 26-year-old man of Congolese origin, Pengo Bossio Wangi.\nOne of those wounded was a 12-year-old girl who was hit by bullets eight times. She remains in a critical condition.\nThe shooting comes at a moment of deep divisions in France, which is heading for elections in six months' time with far-right candidate Marine Le Pen leading in the polls.\nPolitical and social tensions boiled over a week ago into riots that have marred the country's image ahead of the vote to choose Macron's successor.\n(FRANCE 24 with AFP)",
+ "new_text": "Suspect in racist Paris shooting transferred to psychiatric unit, had drugs in his system\nA shooter suspected of killing one person and wounding five others on Friday in the town of Trappes, near Paris, has had his police custody suspended for a 48-hour psychiatric observation, anti-terror prosecutors said Sunday. The 39-year-old man is believed to have had racist motivations behind the gun attack as most of the victims had foreign origins.\nA man suspected of a gun attack in the Paris suburbs that killed one person and wounded five has left custody and been placed in a psychiatric unit for observation, French anti-terror prosecutors said Sunday.\nAccording to a source close to the investigation, the suspect was undergoing treatment for schizophrenia, AFP reported.\nThe 39-year-old suspect, partly identified as Kevin T., was arrested Friday in possession of a submachine gun and tear-gas grenades in his car, shortly after the victims were shot as a vehicle drove through the working-class town of Trappes and neighbouring La Verrière.\nPresident Emmanuel Macron had branded the shooting a \"racist terrorist attack\", as most of the victims were from foreign backgrounds.\nRead moreMacron says 'racist terrorist attack' in Trappes marks turning point for France\nThe French National Anti-Terrorism Prosecutor's Office (PNAT), which is handling the case, on Saturday extended the suspect's time in detention to pursue its interrogation.\nBut on Sunday, the PNAT said: \"After a psychiatric examination of Kevin T. carried out in the evening (of Saturday), his custody has been lifted.\"\nIt said that, in line with conclusions from a psychiatric expert, he \"was transferred to the police psychiatric unit to be subjected to a psychiatric observation period likely to last 48 hours\".\nThat observation period \"should allow us to evaluate whether his state of psychiatric health is compatible with pursuing his interrogation sessions\".\nThe PNAT added that traces of cannabis and cocaine were also found in the suspect's blood.\nPolice have searched the suspected gunman's home in the town of Plaisir outside of Paris.\nAccording to a source close to the investigation on Saturday, they found a Bible, a Quran and a copy of Adolf Hitler's \"Mein Kampf\".\nThe person killed in Friday's shooting was a 26-year-old man of Congolese origin, Pengo Bossio Wangi.\nOne of those wounded was a 12-year-old girl who was hit by bullets eight times. She remains in a critical condition.\nThe shooting comes at a moment of deep divisions in France, which is heading for elections in six months' time with far-right candidate Marine Le Pen leading in the polls.\nPolitical and social tensions boiled over a week ago into riots that have marred the country's image ahead of the vote to choose Macron's successor.\n(FRANCE 24 with AFP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Suspect in racist"
+    ],
+    [
+     "del",
+     "gun attack near"
+    ],
+    [
+     "eq",
+     "Paris"
+    ],
+    [
+     "ins",
+     "shooting"
+    ],
+    [
+     "eq",
+     "transferred to psychiatric"
+    ],
+    [
+     "del",
+     "unit"
+    ],
+    [
+     "ins",
+     "unit, had drugs in his system"
+    ],
+    [
+     "eq",
+     "A shooter suspected of killing one person and wounding five others on"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "placed in a psychiatric unit for observation, French anti-terror prosecutors said Sunday."
+    ],
+    [
+     "ins",
+     "According to a source close to the investigation, the suspect was undergoing treatment for schizophrenia, AFP reported."
+    ],
+    [
+     "eq",
+     "The 39-year-old suspect, partly identified as Kevin T., was arrested Friday in"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0648,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.76,
+ "similarity": 0.96,
+ "adjudicated_by": "rules"
+}
