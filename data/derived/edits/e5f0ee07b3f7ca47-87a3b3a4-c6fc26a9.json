@@ -1,0 +1,300 @@
+{
+ "id": "e5f0ee07b3f7ca47-87a3b3a4-c6fc26a9",
+ "url": "https://www.independent.co.uk/bulletin/lifestyle/daylight-savings-time-2026-fall-b3073454.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-27T11:57:51Z",
+ "date": "2026-10-27",
+ "old_title": "Daylight saving time ends this week. Here's how to prepare for the time change",
+ "new_title": "How to prepare for daylight saving time with 15-minute sleep hack",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nDaylight saving time ends this week. Here's how to prepare for the time change\n- Daylight saving time ends in the U.S. on Sunday at 2 a.m. local time, granting Americans an extra hour of sleep as clocks fall back to standard time until March 14, though it also leads to earlier darkness in the evening.\n- Public opinion remains largely against the twice-yearly time changes, with an AP-NORC poll indicating only 12 percent of U.S. adults support it, while health organizations advocate for year-round standard time to align with human circadian rhythms.\n- Shifting the clock can disrupt internal circadian rhythms that control sleep and other vital physiological functions, worsening issues for shift workers, sleep-deprived individuals, and those with seasonal affective disorder.\n- Sleep experts say changing bedtimes by as little as 15 minutes a night in the days before the change can help ease into it.\n- And sunshine in the morning is critical in helping reset your circadian rhythm for healthful sleep. If you can't get outdoors, sit by windows.\nMore bulletins",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nOne simple trick to ease into daylight saving time as most US clocks will 'fall back'\n- Most Americans will gain an extra hour of sleep on Sunday as daylight saving time comes to an end, with clocks turning back one hour at 2am local time.\n- Hawaii and parts of Arizona remain exempt from the change, with standard time lasting until clocks \"spring forward\" again on 14 March.\n- The biannual clock change remains deeply unpopular in the US, with an AP-NORC poll showing just 12 per cent of adults support daylight saving time.\n- The earlier darkness reduces post-work sunlight, posing challenges for sleep-deprived individuals, shift workers, and those suffering from seasonal affective disorder (SAD).\n- Experts recommend gradually shifting bedtimes by 15 minutes each night and getting morning sunlight to help synchronise the body's internal clock.\nMore bulletins",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Start your Independent Membership today. Join today Already a member? Log in"
+    ],
+    [
+     "del",
+     "Daylight"
+    ],
+    [
+     "ins",
+     "One simple trick to ease into daylight"
+    ],
+    [
+     "eq",
+     "saving time"
+    ],
+    [
+     "del",
+     "ends this week. Here's how to prepare for the time change"
+    ],
+    [
+     "ins",
+     "as most US clocks will 'fall back'"
+    ],
+    [
+     "eq",
+     "-"
+    ],
+    [
+     "del",
+     "Daylight saving time ends in the U.S. on Sunday at 2 a.m. local time, granting"
+    ],
+    [
+     "ins",
+     "Most"
+    ],
+    [
+     "eq",
+     "Americans"
+    ],
+    [
+     "ins",
+     "will gain"
+    ],
+    [
+     "eq",
+     "an extra hour of sleep"
+    ],
+    [
+     "ins",
+     "on Sunday"
+    ],
+    [
+     "eq",
+     "as"
+    ],
+    [
+     "ins",
+     "daylight saving time comes to an end, with"
+    ],
+    [
+     "eq",
+     "clocks"
+    ],
+    [
+     "del",
+     "fall"
+    ],
+    [
+     "ins",
+     "turning"
+    ],
+    [
+     "eq",
+     "back"
+    ],
+    [
+     "del",
+     "to"
+    ],
+    [
+     "ins",
+     "one hour at 2am local time. - Hawaii and parts of Arizona remain exempt from the change, with"
+    ],
+    [
+     "eq",
+     "standard time"
+    ],
+    [
+     "ins",
+     "lasting"
+    ],
+    [
+     "eq",
+     "until"
+    ],
+    [
+     "del",
+     "March 14, though it also leads to earlier darkness"
+    ],
+    [
+     "ins",
+     "clocks \"spring forward\" again on 14 March. - The biannual clock change remains deeply unpopular"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "evening. - Public opinion remains largely against the twice-yearly time changes,"
+    ],
+    [
+     "ins",
+     "US,"
+    ],
+    [
+     "eq",
+     "with an AP-NORC poll"
+    ],
+    [
+     "del",
+     "indicating only"
+    ],
+    [
+     "ins",
+     "showing just"
+    ],
+    [
+     "eq",
+     "12"
+    ],
+    [
+     "del",
+     "percent"
+    ],
+    [
+     "ins",
+     "per cent"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "U.S."
+    ],
+    [
+     "eq",
+     "adults support"
+    ],
+    [
+     "del",
+     "it, while health organizations advocate"
+    ],
+    [
+     "ins",
+     "daylight saving time. - The earlier darkness reduces post-work sunlight, posing challenges"
+    ],
+    [
+     "eq",
+     "for"
+    ],
+    [
+     "del",
+     "year-round standard time to align with human circadian rhythms. - Shifting the clock can disrupt internal circadian rhythms that control sleep and other vital physiological functions, worsening issues for"
+    ],
+    [
+     "ins",
+     "sleep-deprived individuals,"
+    ],
+    [
+     "eq",
+     "shift workers,"
+    ],
+    [
+     "del",
+     "sleep-deprived individuals,"
+    ],
+    [
+     "eq",
+     "and those"
+    ],
+    [
+     "del",
+     "with"
+    ],
+    [
+     "ins",
+     "suffering from"
+    ],
+    [
+     "eq",
+     "seasonal affective"
+    ],
+    [
+     "del",
+     "disorder."
+    ],
+    [
+     "ins",
+     "disorder (SAD)."
+    ],
+    [
+     "eq",
+     "-"
+    ],
+    [
+     "del",
+     "Sleep experts say changing"
+    ],
+    [
+     "ins",
+     "Experts recommend gradually shifting"
+    ],
+    [
+     "eq",
+     "bedtimes by"
+    ],
+    [
+     "del",
+     "as little as"
+    ],
+    [
+     "eq",
+     "15 minutes"
+    ],
+    [
+     "del",
+     "a"
+    ],
+    [
+     "ins",
+     "each"
+    ],
+    [
+     "eq",
+     "night"
+    ],
+    [
+     "del",
+     "in"
+    ],
+    [
+     "ins",
+     "and getting morning sunlight to help synchronise"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "days before the change can help ease into it. - And sunshine in the morning is critical in helping reset your circadian rhythm for healthful sleep. If you can't get outdoors, sit by windows."
+    ],
+    [
+     "ins",
+     "body's internal clock."
+    ],
+    [
+     "eq",
+     "More bulletins"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.125,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.383,
+ "similarity": 0.9312,
+ "adjudicated_by": "rules"
+}

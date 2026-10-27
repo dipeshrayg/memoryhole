@@ -1,0 +1,51 @@
+{
+ "id": "45533e4af922add6-e13153bc-d79672d2",
+ "url": "https://www.npr.org/2026/10/26/nx-s1-6013568/mercks-melanoma-vaccine-trial-shows-reduced-recurrence-or-death-from-skin-cancer",
+ "domain": "www.npr.org",
+ "source": "NPR Health",
+ "country": "United States",
+ "category": "health",
+ "lang": "en",
+ "detected_at": "2026-10-27T12:07:08Z",
+ "date": "2026-10-27",
+ "old_title": "Merck's melanoma vaccine trial shows reduced recurrence or death from skin cancer",
+ "new_title": "Merck's melanoma vaccine trial shows reduced recurrence or death from skin cancer",
+ "old_text": "Merck's melanoma vaccine trial shows reduced recurrence or death from skin cancer\nMerck presented its mRNA melanoma vaccine trial data at a European cancer conference this weekend. Results are promising: The vaccine reduces recurrence and death alongside an immunotherapy drug.",
+ "new_text": "Merck's melanoma vaccine trial shows reduced recurrence or death from skin cancer\nMerck presented its mRNA melanoma vaccine trial data at a European cancer conference this weekend. Results are promising: The vaccine reduces recurrence and death alongside an immunotherapy drug.\nLEILA FADEL, HOST:\nThe results of the first major trial of an experimental cancer treatment are now public. The treatment uses an mRNA vaccine combined with immunotherapy. The data show that the combination reduced recurrence or death from skin cancer by 42% over two years. NPR's Yuki Noguchi reports.\nYUKI NOGUCHI, BYLINE: This concept of a cancer vaccine isn't new. But because this was the first large clinical test of that concept, patients, doctors and Wall Street investors all eagerly awaited release of the data. Some of that data was leaked over social media on Thursday. That prompted some investors hoping for even more dramatic results to shave off some of the massive recent stock gains for the vaccine sponsors, Merck and Moderna. But melanoma tumor specialist Antoni Ribas, an investigator and author of the study, said that didn't dampen the medical community's enthusiastic response at a European cancer conference Saturday.\n(APPLAUSE)\nANTONI RIBAS: The room was full. There was overflow rooms. That's because the interest was way beyond people who treat melanoma and are experts in melanoma.\nNOGUCHI: The launch of mRNA vaccine technology during the COVID-19 pandemic, plus the identification of mutant proteins on cancer cells, led to recent advances enabling development of this treatment. In this melanoma trial, doctors used samples from patients' tumors to design personalized mRNA vaccines for each of the 1,100 participants. The results indicate the vaccine is effective at reprogramming immune cells to recognize mutated proteins on cancerous cells before killing them. Merck Chief Medical Officer Eliav Barr says this is just the beginning. He's overseeing clinical trials on similar vaccines for kidney and bladder cancer as well.\nELIAV BARR: If these studies are positive, then we have a very large landscape of cancers that we can start to address.\nNOGUCHI: He says Merck will apply to the Food and Drug Administration for approval for the melanoma vaccine, which could come next year. Merck declined to estimate its cost, though it will likely be pricey, based on the complex process to develop a personalized vaccine.\nYuki Noguchi, NPR News.\nCopyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.\nAccuracy and availability of transcripts for NPR programming may vary. Transcript text may also be revised to correct errors or match updates to audio. Audio may be edited after its original broadcast or publication. The authoritative record of NPR's programming is the audio record.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "are promising: The vaccine reduces recurrence and death alongside an immunotherapy drug."
+    ],
+    [
+     "ins",
+     "LEILA FADEL, HOST: The results of the first major trial of an experimental cancer treatment are now public. The treatment uses an mRNA vaccine combined with immunotherapy. The data show that the combination reduced recurrence or death from skin cancer by 42% over two years. NPR's Yuki Noguchi reports. YUKI NOGUCHI, BYLINE: This concept of a cancer vaccine isn't new. But because this was the first large clinical test of that concept, patients, doctors and Wall Street investors all eagerly awaited release of the data. Some of that data was leaked over social media on Thursday. That prompted some investors hoping for even more dramatic results to shave off some of the massive recent stock gains for the vaccine sponsors, Merck and Moderna. But melanoma tumor specialist Antoni Ribas, an investigator and author of the study, said that didn't dampen the medical community's enthusiastic response at a European cancer conference Saturday. (APPLAUSE) ANTONI RIBAS: The room was full. There was overflow rooms. That's because the interest was way beyond people who treat melanoma and are experts in melanoma. NOGUCHI: The launch of mRNA vaccine technology during the COVID-19 pandemic, plus the identification of mutant proteins on cancer cells, led to recent advances enabling development of this treatment. In this melanoma trial, doctors used samples from patients' tumors to design personalized mRNA vaccines for each of the 1,100 participants. The results indicate the vaccine is effective at reprogramming immune cells to recognize mutated proteins on cancerous cells before killing them. Merck Chief Medical Officer Eliav Barr says this is just the beginning. He's overseeing clinical trials on similar vaccines for kidney and bladder cancer as well. ELIAV BARR: If these studies are positive, then we have a very large landscape of cancers that we can start to address. NOGUCHI: He says Merck will apply to the Food and Drug Administration for approval for the melanoma vaccine, which could come next year. Merck declined to estimate its cost, though it will likely be pricey, based on the complex process to develop a personalized vaccine. Yuki Noguchi, NPR News. Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information. Accuracy and availability of transcripts for NPR programming may vary. Transcript text may also be revised to correct errors or match updates to audio. Audio may be edited after its original broadcast or publication. The authoritative record of NPR's programming is the audio record."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 10.275,
+  "numbers_changed": [
+   "1,100",
+   "19",
+   "2026",
+   "42"
+  ],
+  "market_figures_changed": [
+   "42%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.141,
+ "similarity": 0.8549,
+ "adjudicated_by": "rules"
+}

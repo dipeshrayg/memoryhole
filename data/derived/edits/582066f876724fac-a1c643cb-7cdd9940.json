@@ -1,0 +1,64 @@
+{
+ "id": "582066f876724fac-a1c643cb-7cdd9940",
+ "url": "https://www.dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-27T11:55:22Z",
+ "date": "2026-10-27",
+ "old_title": "Venezuela: Opposition leader Machado returns from exile, received by thousands of supporters in Caracas",
+ "new_title": "Venezuelan opposition leader Machado returns from exile, received by thousands of supporters in Caracas",
+ "old_text": "Venezuela's opposition leader Maria Corina Machado was greeted by thousands of cheering supporters in Caracas on Sunday after returning from nearly a year in exile.\nHer supporters stood along highways, toll plazas and city streets waving Venezuelan flags and chanting slogans like \"freedom\" as Machado made her way in a convoy of cars and motorcycles to the capital, Caracas.\nWearing her trademark white T-shirt and blue jeans, she leaned out of the sunroof and shouted \"this country is giving lessons to everyone\" as her convoy entered the capital.\nIn Guacara earlier, the AFP news agency reported seeing Machado singing the national anthem in a plaza packed with supporters, waving flags and cheering her return.\nWhy was Machado in exile?\nMachado left Venezuela last December to receive the Nobel Peace Prize for her work in promoting democracy in autocratic Venezuela.\nFacing arrest by the regime of former President Nicolas Maduro, she sought refuge in the Argentine embassy in Caracas and was smuggled out of the country with assistance from the United States.\nAt first she was unable to return for fear of detention by authorities.\nAfter the US-led ouster and arrest of Maduro, she gave her Nobel medal to US President Donald Trump.\nHowever, her inability to return to Venezuela for so long was partly due to the Trump administration.\nInstead of backing Machado, Washington decided to support interim President Delcy Rodriguez.\nMachado has said she faced travel restrictions and flight cancellations, partly due to Trump's worries that her presence in Venezuela could inflame tensions during a period of transition, and partly due to Rodriguez' interference.\nEdited by: Wesley Rahn\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "new_text": "Venezuela's opposition leader Maria Corina Machado was greeted by thousands of cheering supporters in Caracas on Sunday after returning from nearly a year in exile.\nHer supporters stood along highways, toll plazas and city streets waving Venezuelan flags and chanting slogans like \"freedom\" as Machado made her way in a convoy of cars and motorcycles to the capital, Caracas.\nWearing her trademark white T-shirt and blue jeans, she leaned out of the sunroof and shouted \"this country is giving lessons to everyone\" as her convoy entered the capital.\nIn Guacara earlier, the AFP news agency reported seeing Machado singing the national anthem in a plaza packed with supporters, waving flags and cheering her return.\nVenezuelan interim president responds unfavorably to Machado's return\nVenezuela's acting president, Delcy Rodriguez, said in rare comments to reporters that Machado could have avoided the pomp and celebration that she chose to arrive with.\n\"The show could have been avoided-the airports are right here,\" Rodriguez said on state television.\nMachado's spokesperson earlier said that she was willing to sit down with the Venezuelan regime to talk things through.\nWhy was Machado in exile?\nMachado left Venezuela last December to receive the Nobel Peace Prize for her work in promoting democracy in autocratic Venezuela.\nFacing arrest by the regime of former President Nicolas Maduro, she sought refuge in the Argentine embassy in Caracas and was smuggled out of the country with assistance from the United States.\nAt first she was unable to return for fear of detention by authorities.\nAfter the US-led ouster and arrest of Maduro, she gave her Nobel medal to US President Donald Trump.\nHowever, her inability to return to Venezuela for so long was partly due to the Trump administration.\nInstead of backing Machado, Washington decided to support Rodriguez.\nMachado has said she faced travel restrictions and flight cancellations, partly due to Trump's worries that her presence in Venezuela could inflame tensions during a period of transition, and partly due to Rodriguez' interference.\nEdited by: Wesley Rahn\nIf you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google by clicking here and hitting the \"star\" or \"preferred\" button, so you'll always see our verified news first.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "in a plaza packed with supporters, waving flags and cheering her return."
+    ],
+    [
+     "ins",
+     "Venezuelan interim president responds unfavorably to Machado's return Venezuela's acting president, Delcy Rodriguez, said in rare comments to reporters that Machado could have avoided the pomp and celebration that she chose to arrive with. \"The show could have been avoided-the airports are right here,\" Rodriguez said on state television. Machado's spokesperson earlier said that she was willing to sit down with the Venezuelan regime to talk things through."
+    ],
+    [
+     "eq",
+     "Why was Machado in exile? Machado left Venezuela last December to receive"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to the Trump administration. Instead of backing Machado, Washington decided to support"
+    ],
+    [
+     "del",
+     "interim President Delcy"
+    ],
+    [
+     "eq",
+     "Rodriguez. Machado has said she faced travel restrictions and flight cancellations, partly"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2298,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.425,
+ "similarity": 0.9242,
+ "adjudicated_by": "rules"
+}

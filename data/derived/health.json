@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-26T12:33:33Z",
+ "last_run": "2026-10-27T11:51:58Z",
  "sources": [
   {
    "name": "BBC News",
@@ -11,7 +11,7 @@
   {
    "name": "The Guardian",
    "ok": true,
-   "checked": 7,
+   "checked": 6,
    "changed": 0,
    "error": null
   },
@@ -26,28 +26,28 @@
    "name": "Al Jazeera",
    "ok": true,
    "checked": 24,
-   "changed": 1,
+   "changed": 2,
    "error": null
   },
   {
    "name": "Deutsche Welle",
    "ok": true,
    "checked": 25,
-   "changed": 8,
+   "changed": 4,
    "error": null
   },
   {
    "name": "France 24",
    "ok": true,
    "checked": 25,
-   "changed": 2,
+   "changed": 1,
    "error": null
   },
   {
    "name": "ABC News (Australia)",
    "ok": true,
    "checked": 25,
-   "changed": 2,
+   "changed": 1,
    "error": null
   },
   {
@@ -74,15 +74,15 @@
   {
    "name": "ProPublica",
    "ok": true,
-   "checked": 10,
+   "checked": 8,
    "changed": 0,
    "error": null
   },
   {
    "name": "GOV.UK announcements",
    "ok": true,
-   "checked": 20,
-   "changed": 1,
+   "checked": 19,
+   "changed": 0,
    "error": null
   },
   {
@@ -102,8 +102,8 @@
   {
    "name": "BBC Business",
    "ok": true,
-   "checked": 19,
-   "changed": 1,
+   "checked": 20,
+   "changed": 2,
    "error": null
   },
   {
@@ -116,7 +116,7 @@
   {
    "name": "CNBC Markets",
    "ok": true,
-   "checked": 2,
+   "checked": 3,
    "changed": 0,
    "error": null
   },
@@ -137,14 +137,14 @@
   {
    "name": "BBC Science",
    "ok": true,
-   "checked": 19,
-   "changed": 4,
+   "checked": 18,
+   "changed": 0,
    "error": null
   },
   {
    "name": "BBC Technology",
    "ok": true,
-   "checked": 7,
+   "checked": 6,
    "changed": 0,
    "error": null
   },
@@ -158,7 +158,7 @@
   {
    "name": "Guardian Science",
    "ok": true,
-   "checked": 8,
+   "checked": 10,
    "changed": 0,
    "error": null
   },
@@ -166,7 +166,7 @@
    "name": "Guardian Sport",
    "ok": true,
    "checked": 25,
-   "changed": 3,
+   "changed": 2,
    "error": null
   },
   {
@@ -180,40 +180,40 @@
    "name": "NPR Science",
    "ok": true,
    "checked": 4,
-   "changed": 0,
+   "changed": 3,
    "error": null
   },
   {
    "name": "NPR Health",
    "ok": true,
-   "checked": 8,
-   "changed": 0,
+   "checked": 6,
+   "changed": 3,
    "error": null
   },
   {
    "name": "ScienceDaily",
    "ok": true,
    "checked": 20,
-   "changed": 1,
+   "changed": 0,
    "error": null
   },
   {
    "name": "Ars Technica",
    "ok": true,
    "checked": 18,
-   "changed": 1,
+   "changed": 0,
    "error": null
   },
   {
    "name": "Variety",
    "ok": true,
    "checked": 25,
-   "changed": 2,
+   "changed": 19,
    "error": null
   }
  ],
- "articles_checked": 473,
- "edits_found": 35,
- "duration_s": 1001.1,
- "total_edits": 3848
+ "articles_checked": 469,
+ "edits_found": 46,
+ "duration_s": 1041.6,
+ "total_edits": 3894
 }

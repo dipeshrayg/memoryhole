@@ -1,0 +1,48 @@
+{
+ "id": "2049cbe5eb25dcc9-477115f7-d2caabd0",
+ "url": "https://variety.com/2026/film/festivals/japanese-director-kawase-naomi-doha-film-festival-jury-1236931056/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-10-27T12:09:11Z",
+ "date": "2026-10-27",
+ "old_title": "Japanese Director Naomi Kawase to Lead Doha Film Festival Jury",
+ "new_title": "Japanese Director Naomi Kawase to Lead Doha Film Festival Jury",
+ "old_text": "Japanese auteur and Cannes regular Naomi Kawase will preside over the main competition jury of the upcoming Doha Film Festival which is set to run Nov. 19-27 in the Qatari capital.\nJapan's best-known female film director, Kawase has a close rapport with the Doha Film Institute, having joined its Qumra program mentoring emerging filmmakers in 2016.\nKawase, who is based in her Japanese hometown, in Nara, won the Caméra d'Or for best debut feature film at Cannes for \"Moe no Suzaku\" (1997), and also won awards there for \"Mogari no Mori\" (2007) and \"Hikari\" (2017). In 2000, her film \"Hotaru\" won the FIPRESCI award at Locarno. Her latest feature, \"Yakushima's Illusion,\" premiered in competition at Locarno in 2025. An experienced juror, she served on the 2013 Cannes competition jury.\nJoining Kawase on the Doha Film Festival jury will be rapidly emerging French-Tunisian actor Adam Bessa (\"Ghost Trail\"); pioneering Tunisian producer Dora Bouchoucha; award-winning Italian documentary filmmaker Gianfranco Rosi \"Fire at Sea\"; and prominent Palestinian filmmaker Kamal Aljafari (\"With Hasan in Gaza\")\nPopular on Variety\n\"We are immensely proud to welcome friends of the Institute who share our vision and have dedicated their lives to nurturing independent cinema,\" said Doha Film Institute CEO Fatma Hassan Alremaihi in a statement. \"Their collective experience and artistic integrity embody the spirit of DFI and DFF: championing original voices, creating space for bold ideas and ensuring that powerful stories, find their way to audiences around the world.\"\nThe revamped Doha Film Festival has transformed the DFI's existing Ajyal Film Festival, dedicated to youth and family-friendly cinema, into a more ambitious international event for a broader audience.\nAs previously announced, Yemeni-Scottish filmmaker Sara Ishaq's timely drama \"The Station,\" which looks at the impact of Yemen's civil war on the country, is set as the in-competition opener of the revamped event's second edition\nThe top prizes to be dished out will be: best narrative, worth $75,000; documentary, worth $50,000; artistic achievement, worth $45,000; and the gender-neutral performance acting award, worth $15,000.\nBesides the Doha Film Institute, key partners of the Doha Film Festival include Katara, Media City Qatar - Film Committee, and Visit Qatar.",
+ "new_text": "Japanese auteur and Cannes regular Naomi Kawase will preside over the main competition jury of the upcoming Doha Film Festival which is set to run Nov. 19-27 in the Qatari capital.\nJapan's best-known female film director, Kawase has a close rapport with the Doha Film Institute, having joined its Qumra program mentoring emerging filmmakers in 2016.\nKawase, who is based in her Japanese hometown, in Nara, won the Caméra d'Or for best debut feature film at Cannes for \"Moe no Suzaku\" (1997), and also won awards there for \"Mogari no Mori\" (2007) and \"Hikari\" (2017). In 2000, her film \"Hotaru\" won the FIPRESCI award at Locarno. Her latest feature, \"Yakushima's Illusion,\" premiered in competition at Locarno in 2025. An experienced juror, she served on the 2013 Cannes competition jury.\nJoining Kawase on the Doha Film Festival jury will be rapidly emerging French-Tunisian actor Adam Bessa (\"Ghost Trail\"); pioneering Tunisian producer Dora Bouchoucha; award-winning Italian documentary filmmaker Gianfranco Rosi \"Fire at Sea\"; and prominent Palestinian filmmaker Kamal Aljafari (\"With Hasan in Gaza\")\n\"We are immensely proud to welcome friends of the Institute who share our vision and have dedicated their lives to nurturing independent cinema,\" said Doha Film Institute CEO Fatma Hassan Alremaihi in a statement. \"Their collective experience and artistic integrity embody the spirit of DFI and DFF: championing original voices, creating space for bold ideas and ensuring that powerful stories, find their way to audiences around the world.\"\nThe revamped Doha Film Festival has transformed the DFI's existing Ajyal Film Festival, dedicated to youth and family-friendly cinema, into a more ambitious international event for a broader audience.\nAs previously announced, Yemeni-Scottish filmmaker Sara Ishaq's timely drama \"The Station,\" which looks at the impact of Yemen's civil war on the country, is set as the in-competition opener of the revamped event's second edition\nThe top prizes to be dished out will be: best narrative, worth $75,000; documentary, worth $50,000; artistic achievement, worth $45,000; and the gender-neutral performance acting award, worth $15,000.\nBesides the Doha Film Institute, key partners of the Doha Film Festival include Katara, Media City Qatar - Film Committee, and Visit Qatar.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "at Sea\"; and prominent Palestinian filmmaker Kamal Aljafari (\"With Hasan in Gaza\")"
+    ],
+    [
+     "del",
+     "Popular on Variety"
+    ],
+    [
+     "eq",
+     "\"We are immensely proud to welcome friends of the Institute who share"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0084,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}
