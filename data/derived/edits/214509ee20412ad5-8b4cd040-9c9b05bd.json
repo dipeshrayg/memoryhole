@@ -1,0 +1,144 @@
+{
+ "id": "214509ee20412ad5-8b4cd040-9c9b05bd",
+ "url": "https://www.theguardian.com/football/2026/oct/27/manchester-united-eddie-howe-newcastle-compensation-michael-carrick",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-28T12:39:18Z",
+ "date": "2026-10-28",
+ "old_title": "Manchester United must pay Newcastle £3m compensation if they want Eddie Howe",
+ "new_title": "Carrick given chance to save job as he stays for Manchester United's game at Chelsea",
+ "old_text": "Manchester United will have to pay Newcastle about £3m in compensation if they want to make Eddie Howe their next manager, with Michael Carrick expected to be removed only when a deal for his successor has been finalised.\nCarrick expects to take training on Tuesday after Jason Wilcox, the director of football, and Omar Berrada, the chief executive, discussed his future in the wake of a 3-0 home defeat by Bournemouth that made it eight games without a win.\nHowe is Wilcox's prime candidate for the role and wants the job. When he left Newcastle in July a deal was struck on the remaining terms of his contract which means the club would be due compensation.\nUnited would also have to pay Newcastle a minor sum for Howe's staff, headed by his assistant, Jason Tindall.\nManchester United's director of recruitment, Christopher Vivell, has been pushing the case of Julian Nagelsmann, the former Germany and Bayern Munich head coach.",
+ "new_text": "Michael Carrick has been given the chance to save his job by turning Manchester United's results around, with the head coach remaining in place for Saturday's visit to Chelsea.\nThe decision by Jason Wilcox, the director of football, and Omar Berrada, the chief executive, can be viewed as a surprise given United's dire form. Sunday's abject 3-0 league home defeat by Bournemouth followed last Wednesday's equally poor 4-1 reverse at Como in the Champions League. Carrick's side have won twice in 12 games and were eliminated from the Carabao Cup by Brighton. United are 16th in the Premier League, a point above the relegation zone.\nYet Wilcox, who has driven the retaining of Carrick, wants to give the 45-year-old a chance to change form and morale. Whether Carrick could survive another poor performance and result at Stamford Bridge is in the balance.\nUnited host Roma in the Champions League three days later, then Aston Villa in the league the following Sunday before a two-week international window, which would offer a longer period for the board to assess the situation.\nCarrick's reprieve may be a move to allow time for Wilcox to secure a replacement should the decision be taken to sack him.\nUnited will have to pay Newcastle about £3m in compensation if they want Eddie Howe. He is Wilcox's prime candidate if a change is made and the 48-year-old wants the job at Old Trafford. When he left Newcastle at the end of July a deal was struck on the remaining terms of his contract which means the club would be due compensation.\nUnited would also have to pay Newcastle a minor sum for Howe's staff, headed by his assistant, Jason Tindall.\nManchester United's director of recruitment, Christopher Vivell, has been pushing the case of Julian Nagelsmann, the 39-year-old former Germany and Bayern Munich head coach.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "Michael Carrick has been given the chance to save his job by turning"
+    ],
+    [
+     "eq",
+     "Manchester"
+    ],
+    [
+     "ins",
+     "United's results around, with the head coach remaining in place for Saturday's visit to Chelsea. The decision by Jason Wilcox, the director of football, and Omar Berrada, the chief executive, can be viewed as a surprise given United's dire form. Sunday's abject 3-0 league home defeat by Bournemouth followed last Wednesday's equally poor 4-1 reverse at Como in the Champions League. Carrick's side have won twice in 12 games and were eliminated from the Carabao Cup by Brighton. United are 16th in the Premier League, a point above the relegation zone. Yet Wilcox, who has driven the retaining of Carrick, wants to give the 45-year-old a chance to change form and morale. Whether Carrick could survive another poor performance and result at Stamford Bridge is in the balance. United host Roma in the Champions League three days later, then Aston Villa in the league the following Sunday before a two-week international window, which would offer a longer period for the board to assess the situation. Carrick's reprieve may be a move to allow time for Wilcox to secure a replacement should the decision be taken to sack him."
+    ],
+    [
+     "eq",
+     "United will have to pay Newcastle about £3m in compensation if they want"
+    ],
+    [
+     "del",
+     "to make"
+    ],
+    [
+     "eq",
+     "Eddie"
+    ],
+    [
+     "del",
+     "Howe their next manager, with Michael Carrick expected to be removed only when a deal for his successor has been finalised. Carrick expects to take training on Tuesday after Jason Wilcox, the director of football, and Omar Berrada, the chief executive, discussed his future in the wake of a 3-0 home defeat by Bournemouth that made it eight games without a win. Howe"
+    ],
+    [
+     "ins",
+     "Howe. He"
+    ],
+    [
+     "eq",
+     "is Wilcox's prime candidate"
+    ],
+    [
+     "del",
+     "for"
+    ],
+    [
+     "ins",
+     "if a change is made and"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "role and"
+    ],
+    [
+     "ins",
+     "48-year-old"
+    ],
+    [
+     "eq",
+     "wants the"
+    ],
+    [
+     "del",
+     "job."
+    ],
+    [
+     "ins",
+     "job at Old Trafford."
+    ],
+    [
+     "eq",
+     "When he left Newcastle"
+    ],
+    [
+     "del",
+     "in"
+    ],
+    [
+     "ins",
+     "at the end of"
+    ],
+    [
+     "eq",
+     "July a deal was struck on the remaining terms of his contract"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "recruitment, Christopher Vivell, has been pushing the case of Julian Nagelsmann, the"
+    ],
+    [
+     "ins",
+     "39-year-old"
+    ],
+    [
+     "eq",
+     "former Germany and Bayern Munich head coach."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.8291,
+  "numbers_changed": [
+   "1",
+   "12",
+   "16",
+   "39",
+   "4",
+   "45",
+   "48"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.6,
+ "similarity": 0.6477,
+ "adjudicated_by": "rules"
+}

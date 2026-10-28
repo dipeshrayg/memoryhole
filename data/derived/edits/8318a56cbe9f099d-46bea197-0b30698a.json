@@ -1,0 +1,88 @@
+{
+ "id": "8318a56cbe9f099d-46bea197-0b30698a",
+ "url": "https://www.bbc.co.uk/sport/cricket/articles/cvlyd05g6wypo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-28T12:38:08Z",
+ "date": "2026-10-28",
+ "old_title": "Abhishek Sharma hits 35-ball century as India seal T20 series win over New Zealand",
+ "new_title": "Abhishek Sharma hits 35-ball century as India seal T20 series win over New Zealand",
+ "old_text": "- Published\nThird T20, Wellington\nNew Zealand 198-3 (20 overs): Mitchell 89 (52); Singh 1-33\nIndia 199-4 (13.2 overs): Abhishek 113 (38); Jamieson 2-45\nIndia won by six wickets; lead series 3-0\nAbhishek Sharma struck a 35-ball century in India's astonishing chase of 199 in just 13.2 overs in the third T20 against New Zealand in Wellington.\nAbhishek and teenage sensation Vaibhav Sooryavanshi blitzed 133 in seven overs for the first wicket, with their powerplay score of 118 setting a new record for international T20s.\nFifteen-year-old Sooryavanshi's 45 from 19 balls was merely a supporting act to Abhishek, who raced to his fifty from 15 deliveries as New Zealand's bowlers wilted.\nAfter the youngster's departure in the eighth over, Abhishek helped India cruise towards their target, falling for 113 from 38 balls - which included nine fours and 11 sixes.\nHe fell short of equalling his record for India's fastest T20 hundred, which came off 30 balls against Afghanistan last month.\nIndia's middle order then ticked off the remaining 21 runs required with ease, with New Zealand captain Mitchell Santner's figures of 1-17 off three overs an outlier in a painful match for bowlers.\nThe Black Caps' 198-3 was set up by Daryl Mitchell's 89 from 52 balls and Finn Allen added 40 off 25, and their total looked competitive until India barely broke a sweat in their pursuit.\nThe result gives India an unassailable 3-0 lead in the five-match series, which is followed by five one-day internationals and two Tests.",
+ "new_text": "- Published\nThird T20, Wellington (Hnry Stadium)\nNew Zealand 198-3 (20 overs): Mitchell 89 (52); Singh 1-33\nIndia 199-4 (13.2 overs): Abhishek 113 (38); Jamieson 2-45\nIndia won by six wickets; lead series 3-0\nAbhishek Sharma struck a 35-ball century in India's astonishing chase of 199 in just 13.2 overs in the third T20 against New Zealand in Wellington.\nAbhishek and teenage sensation Vaibhav Sooryavanshi blitzed 133 in seven overs for the first wicket, with their powerplay score of 118 setting a new record for T20 internationals.\nFifteen-year-old Sooryavanshi's 45 from 19 balls was merely a supporting act to Abhishek, who raced to his fifty from 15 deliveries as New Zealand's bowlers wilted.\nAfter the youngster's departure in the eighth over, Abhishek helped India cruise towards their target, falling for 113 from 38 balls - which included nine fours and 11 sixes.\nHe fell short of equalling his record for India's fastest T20 hundred, which came off 30 balls against Afghanistan last month.\nIndia's middle order then ticked off the remaining 21 runs required with ease, with New Zealand captain Mitchell Santner's figures of 1-17 off three overs an outlier in a painful match for bowlers at Hnry Stadium.\nThe Black Caps' 198-3 was set up by Daryl Mitchell's 89 from 52 balls and Finn Allen added 40 off 25, and their total looked competitive until India barely broke a sweat in their pursuit.\nThe result gives India an unassailable 3-0 lead in the five-match series, which is followed by five one-day internationals and two Tests.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published Third T20, Wellington"
+    ],
+    [
+     "ins",
+     "(Hnry Stadium)"
+    ],
+    [
+     "eq",
+     "New Zealand 198-3 (20 overs): Mitchell 89 (52); Singh 1-33 India 199-4"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "wicket, with their powerplay score of 118 setting a new record for"
+    ],
+    [
+     "del",
+     "international T20s."
+    ],
+    [
+     "ins",
+     "T20 internationals."
+    ],
+    [
+     "eq",
+     "Fifteen-year-old Sooryavanshi's 45 from 19 balls was merely a supporting act to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of 1-17 off three overs an outlier in a painful match for"
+    ],
+    [
+     "del",
+     "bowlers."
+    ],
+    [
+     "ins",
+     "bowlers at Hnry Stadium."
+    ],
+    [
+     "eq",
+     "The Black Caps' 198-3 was set up by Daryl Mitchell's 89 from"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0438,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9943,
+ "adjudicated_by": "rules"
+}

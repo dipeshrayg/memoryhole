@@ -1,0 +1,104 @@
+{
+ "id": "725d0d0e43bca57c-e4c5f6c1-06e1b960",
+ "url": "https://www.dw.com/en/police-in-northern-germany-search-for-suspects-after-car-ramming-overnight-injures-several/a-78107062?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-28T12:29:49Z",
+ "date": "2026-10-28",
+ "old_title": "Germany: Car ramming injures several near Hannover",
+ "new_title": "Germany: Car ramming injures several near Hannover",
+ "old_text": "A BMW was driven deliberately into a group of people, leaving four to five of them with some serious but not life-threatening injuries in Neustadt am Rübenberge late on Monday night, police said on Tuesday morning.\nA police patrol making routine traffic checks in town near Hannover in the state of Lower Saxony, intervened, shooting at the car to stop it.\n\"The officers witnessed the incident as it happened and opened fire on the vehicle after it had been driven into the group of people,\" the spokesperson said.\nOrganized crime suspected\nPolice announced that they had taken three people into custody at the BMW owner's address.\nA police spokesperson added that initial findings indicated the ramming was an act of gang violence between organized crime families, that the individuals involved knew each other and that the perpetrators likely targeted the group of people and were not acting at random.\nSeveral suspects had fled the scene of the ramming on foot, police had said.\n\"The sequence of events and the exact roles of those involved are still under investigation,\" the spokesperson said, adding that forensic analysis of the cars and ramming scene was ongoing.\nA reporter for the German DPA news agency described several damaged cars, with flat tires, a smashed rear window and bullet holes.\nEdited by: Wesley Rahn",
+ "new_text": "A BMW was driven deliberately into a group of people, leaving four to five of them with some serious but not life-threatening injuries in Neustadt am Rübenberge late on Monday night, police said on Tuesday.\nA police patrol making routine traffic checks in town near Hannover in the state of Lower Saxony, intervened, shooting at the car to stop it around 11:30 p.m. local time (2230 UTC/GMT)\n\"The officers witnessed the incident as it happened and opened fire on the vehicle after it had been driven into the group of people,\" the spokesperson said.\nOrganized crime suspected\nPolice announced that they had detained three people at the BMW owner's address. They added that there was no danger to the public.\nA police spokesperson added that initial findings indicated the ramming was an act of gang violence between organized crime families, that the individuals involved knew each other and that the perpetrators likely targeted the group of people and were not acting at random.\nSeveral suspects had fled the scene of the ramming on foot, police had said.\n\"The sequence of events and the exact roles of those involved are still under investigation,\" the spokesperson said, adding that forensic analysis of the cars and ramming scene was ongoing.\nA reporter for the German DPA news agency described several damaged cars, with flat tires, a smashed rear window and bullet holes.\nEdited by: Wesley Rahn",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "injuries in Neustadt am Rübenberge late on Monday night, police said on"
+    ],
+    [
+     "del",
+     "Tuesday morning."
+    ],
+    [
+     "ins",
+     "Tuesday."
+    ],
+    [
+     "eq",
+     "A police patrol making routine traffic checks in town near Hannover in the state of Lower Saxony, intervened, shooting at the car to stop"
+    ],
+    [
+     "del",
+     "it."
+    ],
+    [
+     "ins",
+     "it around 11:30 p.m. local time (2230 UTC/GMT)"
+    ],
+    [
+     "eq",
+     "\"The officers witnessed the incident as it happened and opened fire on"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "people,\" the spokesperson said. Organized crime suspected Police announced that they had"
+    ],
+    [
+     "del",
+     "taken"
+    ],
+    [
+     "ins",
+     "detained"
+    ],
+    [
+     "eq",
+     "three people"
+    ],
+    [
+     "del",
+     "into custody"
+    ],
+    [
+     "eq",
+     "at the BMW owner's address."
+    ],
+    [
+     "ins",
+     "They added that there was no danger to the public."
+    ],
+    [
+     "eq",
+     "A police spokesperson added that initial findings indicated the ramming was an"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1187,
+  "numbers_changed": [
+   "11",
+   "2230",
+   "30"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.949,
+ "adjudicated_by": "rules"
+}

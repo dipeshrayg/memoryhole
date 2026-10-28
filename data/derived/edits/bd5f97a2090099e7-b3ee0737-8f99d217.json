@@ -1,0 +1,52 @@
+{
+ "id": "bd5f97a2090099e7-b3ee0737-8f99d217",
+ "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-28T12:27:10Z",
+ "date": "2026-10-28",
+ "old_title": "What does Israel's election mean for Gaza and the wider world?",
+ "new_title": "What does Israel's election mean for Gaza and the wider world?",
+ "old_text": "What does Israel's election mean for Gaza and the wider world?\nIsraelis are voting in what many view as one of the most pivotal elections in the country's history.\nPolling published on Friday suggests incumbent Benjamin Netanyahu is in a near neck-and-neck race with former military chief Gadi Eisenkot to become prime minister.\nBut where do the two rivals stand when it comes to foreign policy and how might their actions differ with regards to Gaza and the occupied West Bank?\nThe BBC's diplomatic correspondent James Landale reports from Jerusalem.",
+ "new_text": "What does Israel's election mean for Gaza and the wider world?\nIsraelis have voted in what many view as one of the most pivotal elections in the country's history.\nPolling published on Friday suggests incumbent Benjamin Netanyahu is in a near neck-and-neck race with former military chief Gadi Eisenkot to become prime minister.\nBut where do the two rivals stand when it comes to foreign policy and how might their actions differ with regards to Gaza and the occupied West Bank?\nThe BBC's diplomatic correspondent James Landale reports from Jerusalem.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "What does Israel's election mean for Gaza and the wider world? Israelis"
+    ],
+    [
+     "del",
+     "are voting"
+    ],
+    [
+     "ins",
+     "have voted"
+    ],
+    [
+     "eq",
+     "in what many view as one of the most pivotal elections in"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0444,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9993,
+ "adjudicated_by": "rules"
+}
