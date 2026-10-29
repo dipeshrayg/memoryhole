@@ -1,0 +1,70 @@
+{
+ "id": "f681d1f5236d6c5c-31b89660-8111ce5d",
+ "url": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-29T12:49:26Z",
+ "date": "2026-10-29",
+ "old_title": "Manchester United: Michael Carrick and Bruno Fernandes hold clear-the-air talks",
+ "new_title": "Manchester United: Michael Carrick and Bruno Fernandes hold clear-the-air talks",
+ "old_text": "- Published\nManchester United head coach Michael Carrick and captain Bruno Fernandes have held clear-the-air talks before the team's trip to Chelsea.\nFernandes, 32, was an unused substitute during United's 3-0 defeat by Bournemouth on Sunday.\nThe Portuguese was dropped to the bench after he criticised Carrick's tactics following the 4-1 loss against Como in the Champions League.\nSources have told BBC Sport that the pair spoke privately at the club's training ground on Tuesday, with the talks aimed at airing issues.\nUnited are preparing for Saturday's trip to Chelsea (12:30 GMT), when Fernandes could return to the starting line-up.\nCarrick was widely expected to be sacked following the Bournemouth game, but he will take charge of the Premier League match at Stamford Bridge.\nUnited's board decided the 45-year-old deserved the opportunity to turn things around at Old Trafford, despite the team languishing in 16th place in the Premier League.\nThere was further good news for Carrick on Wednesday, with midfielder Kobbie Mainoo returning to training after a fortnight out through injury.\nDespite managing just one victory in eight Premier League matches this term, the predicament at the club is not seen as being entirely Carrick's fault by the board.\nSenior figures at the club feel United's players - a squad they think are capable of qualifying for the Champions League - are underperforming badly and should shoulder some blame.\nOne player told BBC Sport: \"The feeling is that we all want to put it right. Players, staff, everyone.\"\nNevertheless, sources have told BBC Sport that the club have shortlisted former Newcastle United boss Eddie Howe and ex-Germany and Bayern Munich head coach Julian Nagelsmann is potential replacements for Carrick.\nAny decision to appoint Howe would trigger a multi-million-pound compensation claim from his former club Newcastle, while Nagelsmann is a free agent.",
+ "new_text": "- Published\nManchester United head coach Michael Carrick and captain Bruno Fernandes have held clear-the-air talks before the team's trip to Chelsea.\nFernandes, 32, was an unused substitute during United's 3-0 defeat by Bournemouth on Sunday.\nThe Portuguese was dropped to the bench after he criticised Carrick's tactics following the 4-1 loss against Como in the Champions League.\nSources have told BBC Sport that the pair spoke privately at the club's training ground on Tuesday, with the talks aimed at airing issues.\nIt is unclear whether Fernandes, who was made club captain in 2023, apologised for his critical comments.\nUnited are preparing for Saturday's trip to Chelsea (12:30 GMT), when Fernandes could return to the starting line-up.\nCarrick was widely expected to be sacked following the Bournemouth game, but he will take charge of the Premier League match at Stamford Bridge.\nUnited's board decided the 45-year-old deserved the opportunity to turn things around at Old Trafford, despite the team languishing in 16th place in the Premier League.\nThere was further good news for Carrick on Wednesday, with midfielder Kobbie Mainoo returning to training after a fortnight out through injury.\nDespite managing just one victory in eight Premier League matches this term, the predicament at the club is not seen as being entirely Carrick's fault by the board.\nSenior figures at the club feel United's players - a squad they think are capable of qualifying for the Champions League - are underperforming badly and should shoulder some blame.\nOne player told BBC Sport: \"The feeling is that we all want to put it right. Players, staff, everyone.\"\nNevertheless, sources have told BBC Sport that the club have shortlisted former Newcastle United boss Eddie Howe and ex-Germany and Bayern Munich head coach Julian Nagelsmann as potential replacements for Carrick.\nAny decision to appoint Howe would trigger a multi-million-pound compensation claim from his former club Newcastle, while Nagelsmann is a free agent.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "club's training ground on Tuesday, with the talks aimed at airing issues."
+    ],
+    [
+     "ins",
+     "It is unclear whether Fernandes, who was made club captain in 2023, apologised for his critical comments."
+    ],
+    [
+     "eq",
+     "United are preparing for Saturday's trip to Chelsea (12:30 GMT), when Fernandes"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "boss Eddie Howe and ex-Germany and Bayern Munich head coach Julian Nagelsmann"
+    ],
+    [
+     "del",
+     "is"
+    ],
+    [
+     "ins",
+     "as"
+    ],
+    [
+     "eq",
+     "potential replacements for Carrick. Any decision to appoint Howe would trigger a"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0629,
+  "numbers_changed": [
+   "2023"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.972,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,293 @@
+{
+ "id": "7bc29a3b311c83d4-163f45de-8b35d280",
+ "url": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-10-29T12:47:51Z",
+ "date": "2026-10-29",
+ "old_title": "Fed set to hold interest rates steady in last decision before midterms",
+ "new_title": "Fed holds interest rates steady in last decision before midterms",
+ "old_text": "The US Federal Reserve is expected to leave interest rates unchanged on Wednesday during its last rate-setting meeting before the midterm elections, keeping rates at one of the highest pre-election levels seen in over 20 years.\nLast month, Fed officials raised rates for the first time since 2023, citing rising inflation. Inflation has hovered for years above the Fed's target rate of 2%, and for most of this year, the annualized inflation rate has remained above 3%.\nThe move infuriated Donald Trump, who said that \"interest rates in the United States should be 1% or less\".\nThough inflation rose higher in September, going from 3.4% in August to 3.7%, a pause would signal the central bank is taking a wait-and-see approach ahead of the midterms next week.\nInterest rates determine the cost of interest for loans, including for credit cards, mortgage and some savings accounts. During times of high inflation, raising rates can slow price increases.\nMultiple Fed leaders have suggested in recent weeks that the central bank has room for a pause, even if most Fed economists are predicting one more rate hike before the end of the year.\n\"The hikes do not need to come at consecutive meetings, but they should be in place in an acceptable period of time,\" Fed governor Christopher Waller said earlier this month.\nThe proximity of the election also makes it more likely that the Fed will \"not take any radical action,\" said Nicholas Economides, a professor of economics at the NYU Stern Business School.\n\"Even if the Fed were to do something radically different, the economy would not have time to adjust before the elections,\" he said.\nRising prices this year have largely been driven by war in the Middle East with Iran. Oil prices have soared with the closure of the strait of Hormuz, a crucial passageway for trade. Inflation rose last month to its highest level since the spring, while oil traded briefly above $117 a barrel earlier this week, its highest price in more than six months.\nThe higher cost of living is expected to play a crucial role in the upcoming midterm elections that will determine which party will control Congress. Across multiple polls, the economy has been cited as the top issue for voters.\nBy itself, hiking interest rates cannot solely address inflation caused by supply shocks, Economides said. Raising rates is helpful for when the economy is too hot, or when demand outpaces supply, but can be counterproductive otherwise.\n\"If inflation is caused by supply factors, it doesn't make sense to try to cure it by increasing interest rates because it won't work,\" he said. \"It will slow down the economy at a time in which you don't want it to slow down.\"\nFed chair Kevin Warsh has suggested, however, that present-day inflation has persisted beyond the war, and the central bank's decision to raise rates was to prevent prices from creeping up further.\n\"We cannot affect any individual price, whether it be oil prices, whether it be foodstuffs at the grocery store,\" Warsh said at the Fed's September meeting.\n\"But what we can do, and will do, is ensure that any change in relative prices don't broaden out, don't have second and third-order effects on the economy. That's what we're tasked to do, and that's what we will do.\"",
+ "new_text": "The US Federal Reserve left interest rates unchanged on Wednesday during its last board meeting before the midterm elections, keeping rates at one of the highest pre-election levels seen in over 20 years.\nTwo out of 12 board members voted against the pause, preferring to raise rates by a quarter point this meeting, the Fed board said in a statement.\nLast month, Fed officials raised rates for the first time since 2023, citing rising inflation, bringing rates to a range of 3.75% to 4%. Inflation has hovered for years above the Fed's target rate of 2%, and for most of this year, the annualized inflation rate has remained above 3%.\nThough inflation rose higher in September, going from 3.4% in August to 3.7%, the pause signals the central bank is taking a wait-and-see approach ahead of the midterms next week.\nDuring a press conference on Wednesday afternoon, the Fed chair, Kevin Warsh, told reporters that the upcoming election played no role in deliberations.\n\"Politics played no role in the decision,\" he said. \"I didn't hear an utterance about politics.\"\nThe central bank is still focused on price stability, he said, but emphasized that \"the information that we receive over the coming period will help us determine where want policy to be\".\n\"The period right in front of us is information rich, there's a lot that's happening in the world, my colleagues and I are keen to take notice of it,\" he said.\nSeptember's rate hike infuriated Donald Trump, who said that \"interest rates in the United States should be 1% or less\".\nWarsh declined to comment on a remark from Donald Trump that, besides Warsh, the Fed board is full of Democratic-appointed members who \"would like to see the country do badly\", but said that the latest meeting was \"a heck of a family fight\".\n\"I'm honored to be here, and I'm honored to be chairman of this group,\" he said.\nInterest rates determine the cost of interest for loans, including for credit cards, mortgage and some savings accounts. During times of high inflation, raising rates can slow price increases.\nMultiple Fed leaders have suggested in recent weeks that the central bank has room for a pause, even if most Fed economists are predicting one more rate hike before the end of the year.\n\"The hikes do not need to come at consecutive meetings, but they should be in place in an acceptable period of time,\" the Fed governor Christopher Waller said earlier this month.\nThe proximity of the election also made it more likely that the Fed will \"not take any radical action\", said Nicholas Economides, a professor of economics at the NYU Stern Business School.\n\"Even if the Fed were to do something radically different, the economy would not have time to adjust before the elections,\" he said.\nRising prices this year have largely been driven by war in the Middle East with Iran. Oil prices have soared with the closure of the strait of Hormuz, a crucial passageway for trade. Inflation rose last month to its highest level since the spring, while oil traded briefly above $117 a barrel earlier this week, its highest price in more than six months.\nThe higher cost of living is expected to play a crucial role in the upcoming midterm elections that will determine which party will control Congress. Across multiple polls, the economy has been cited as the top issue for voters.\nBy itself, hiking interest rates cannot solely address inflation caused by supply shocks, Economides said. Raising rates is helpful for when the economy is too hot, or when demand outpaces supply, but can be counterproductive otherwise.\n\"If inflation is caused by supply factors, it doesn't make sense to try to cure it by increasing interest rates because it won't work,\" he said. \"It will slow down the economy at a time in which you don't want it to slow down.\nOn Wednesday, Warsh also announced upcoming changes to the Fed's eight board meetings it conducts annually. Starting in fall 2027, only seven of those meetings will be convened to set interest rates. That number will go down to six in 2028, with the other meetings dedicated to \"broad monetary policy\" when the change is implemented.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "The US Federal Reserve"
+    ],
+    [
+     "del",
+     "is expected to leave"
+    ],
+    [
+     "ins",
+     "left"
+    ],
+    [
+     "eq",
+     "interest rates unchanged on Wednesday during its last"
+    ],
+    [
+     "del",
+     "rate-setting"
+    ],
+    [
+     "ins",
+     "board"
+    ],
+    [
+     "eq",
+     "meeting before the midterm elections, keeping rates at one of the highest pre-election levels seen in over 20 years."
+    ],
+    [
+     "ins",
+     "Two out of 12 board members voted against the pause, preferring to raise rates by a quarter point this meeting, the Fed board said in a statement."
+    ],
+    [
+     "eq",
+     "Last month, Fed officials raised rates for the first time since 2023, citing rising"
+    ],
+    [
+     "del",
+     "inflation."
+    ],
+    [
+     "ins",
+     "inflation, bringing rates to a range of 3.75% to 4%."
+    ],
+    [
+     "eq",
+     "Inflation has hovered for years above the Fed's target rate of 2%,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "most of this year, the annualized inflation rate has remained above 3%."
+    ],
+    [
+     "ins",
+     "Though inflation rose higher in September, going from 3.4% in August to 3.7%, the pause signals the central bank is taking a wait-and-see approach ahead of the midterms next week. During a press conference on Wednesday afternoon, the Fed chair, Kevin Warsh, told reporters that the upcoming election played no role in deliberations. \"Politics played no role in the decision,\" he said. \"I didn't hear an utterance about politics.\""
+    ],
+    [
+     "eq",
+     "The"
+    ],
+    [
+     "del",
+     "move"
+    ],
+    [
+     "ins",
+     "central bank is still focused on price stability, he said, but emphasized that \"the information that we receive over the coming period will help us determine where want policy to be\". \"The period right in front of us is information rich, there's a lot that's happening in the world, my colleagues and I are keen to take notice of it,\" he said. September's rate hike"
+    ],
+    [
+     "eq",
+     "infuriated Donald Trump, who said that \"interest rates in the United States should be 1% or less\"."
+    ],
+    [
+     "del",
+     "Though inflation rose higher in September, going"
+    ],
+    [
+     "ins",
+     "Warsh declined to comment on a remark"
+    ],
+    [
+     "eq",
+     "from"
+    ],
+    [
+     "del",
+     "3.4% in August"
+    ],
+    [
+     "ins",
+     "Donald Trump that, besides Warsh, the Fed board is full of Democratic-appointed members who \"would like"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "3.7%,"
+    ],
+    [
+     "ins",
+     "see the country do badly\", but said that the latest meeting was \"a heck of"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "pause would signal the central bank is taking a wait-and-see approach ahead"
+    ],
+    [
+     "ins",
+     "family fight\". \"I'm honored to be here, and I'm honored to be chairman"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "the midterms next week."
+    ],
+    [
+     "ins",
+     "this group,\" he said."
+    ],
+    [
+     "eq",
+     "Interest rates determine the cost of interest for loans, including for credit"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "but they should be in place in an acceptable period of time,\""
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "Fed governor Christopher Waller said earlier this month. The proximity of the election also"
+    ],
+    [
+     "del",
+     "makes"
+    ],
+    [
+     "ins",
+     "made"
+    ],
+    [
+     "eq",
+     "it more likely that the Fed will \"not take any radical"
+    ],
+    [
+     "del",
+     "action,\""
+    ],
+    [
+     "ins",
+     "action\","
+    ],
+    [
+     "eq",
+     "said Nicholas Economides, a professor of economics at the NYU Stern Business"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "economy at a time in which you don't want it to slow"
+    ],
+    [
+     "del",
+     "down.\" Fed chair Kevin"
+    ],
+    [
+     "ins",
+     "down. On Wednesday,"
+    ],
+    [
+     "eq",
+     "Warsh"
+    ],
+    [
+     "del",
+     "has suggested, however, that present-day inflation has persisted beyond the war, and the central bank's decision"
+    ],
+    [
+     "ins",
+     "also announced upcoming changes"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "raise rates was to prevent prices from creeping up further. \"We cannot affect any individual price, whether it be oil prices, whether it be foodstuffs at the grocery store,\" Warsh said at"
+    ],
+    [
+     "eq",
+     "the Fed's"
+    ],
+    [
+     "del",
+     "September meeting. \"But what we can do, and"
+    ],
+    [
+     "ins",
+     "eight board meetings it conducts annually. Starting in fall 2027, only seven of those meetings"
+    ],
+    [
+     "eq",
+     "will"
+    ],
+    [
+     "del",
+     "do,"
+    ],
+    [
+     "ins",
+     "be convened to set interest rates. That number will go down to six in 2028, with the other meetings dedicated to \"broad monetary policy\" when the change"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "del",
+     "ensure that any change in relative prices don't broaden out, don't have second and third-order effects on the economy. That's what we're tasked to do, and that's what we will do.\""
+    ],
+    [
+     "ins",
+     "implemented."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.7383,
+  "numbers_changed": [
+   "12",
+   "2027",
+   "2028",
+   "3.75",
+   "4"
+  ],
+  "market_figures_changed": [
+   "3.75%",
+   "4%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 2,
+  "blocks_added": 2,
+  "blocks_removed": 2,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.158,
+ "similarity": 0.877,
+ "adjudicated_by": "rules"
+}

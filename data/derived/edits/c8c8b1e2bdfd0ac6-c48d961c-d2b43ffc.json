@@ -1,0 +1,62 @@
+{
+ "id": "c8c8b1e2bdfd0ac6-c48d961c-d2b43ffc",
+ "url": "https://www.bbc.co.uk/news/videos/c5pvg8y8lk2mo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-29T12:36:50Z",
+ "date": "2026-10-29",
+ "old_title": "Take a stroll down newly pedestrianised Oxford Street",
+ "new_title": "Take a stroll down newly pedestrianised Oxford Street",
+ "old_text": "What is walking down the newly pedestrianised Oxford Street like?\nAlmost a kilometre of London's Oxford Street, a famous shopping area in the heart of the capital, is now pedestrian-only.\nThe first phase of the major overhaul is expected to be finished by spring 2027.\nLondon Mayor Lord Sadiq Khan said the move marked the \"end of decline\" for the street.\n\"We will have a great lead up to Christmas, safe and spacious, and next year you'll be seeing more trees and seats and public squares\", the mayor said.\nBBC reporter Graham Satchell went to Oxford Street's pedestrian-only section for a stroll.",
+ "new_text": "What is walking down the newly pedestrianised Oxford Street like?\nAlmost half a mile (800m) of London's Oxford Street, a famous shopping area in the heart of the capital, is now pedestrian-only.\nThe first phase of the major overhaul is expected to be finished by spring 2027.\nLondon Mayor Lord Sadiq Khan said the move marked the \"end of decline\" for the street.\n\"We will have a great lead up to Christmas, safe and spacious, and next year you'll be seeing more trees and seats and public squares\", the mayor said.\nBBC reporter Graham Satchell went to Oxford Street's pedestrian-only section for a stroll.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "What is walking down the newly pedestrianised Oxford Street like? Almost"
+    ],
+    [
+     "ins",
+     "half"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "kilometre"
+    ],
+    [
+     "ins",
+     "mile (800m)"
+    ],
+    [
+     "eq",
+     "of London's Oxford Street, a famous shopping area in the heart of"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0392,
+  "numbers_changed": [
+   "800"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9883,
+ "adjudicated_by": "rules"
+}

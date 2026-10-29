@@ -1,0 +1,52 @@
+{
+ "id": "99c45d45f5184239-5337a7fb-a0bc7ba1",
+ "url": "https://www.france24.com/en/video/20261028-mbapp%C3%A9-s-china-faux-pas-when-the-sports-world-collides-with-the-complexities-of-geopolitics",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-29T12:40:57Z",
+ "date": "2026-10-29",
+ "old_title": "Mbappé's China faux pas: When the sports world collides with the complexities of geopolitics",
+ "new_title": "Mbappé's China faux pas: When the sports world collides with the complexities of geopolitics",
+ "old_text": "Video contentVideo\nMbappé's China faux pas: When the sports world collides with the complexities of geopolitics\nIssued on: Modified:\nShare\nFrançois Picard welcomes Igor Mladenovic, a French-Serbian sports writer, sports business analyst and former football commentator based in Luxembourg. For Mladenovic, the backlash in China over Kylian Mbappé's playful reference to a meme depicting him in the likeness of Mao Zedong illustrates a dilemma of the digital age: How a seemingly innocuous anecdote from a football superstar can escalate into a geopolitical firestorm.",
+ "new_text": "Video contentVideo\nMbappé's China faux pas: When the sports world collides with the complexities of geopolitics\nIssued on: Modified:\nShare\nFrançois Picard welcomes Igor Mladenovic, a French-Serbian sports writer, sports business analyst and former football commentator based in Luxembourg. For Mladenovic, the backlash in China over Kylian Mbappé's playful reference to a meme depicting him in the likeness of Mao Zedong illustrates a dilemma of the digital age: how a seemingly innocuous anecdote from a football superstar can escalate into a geopolitical firestorm.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the likeness of Mao Zedong illustrates a dilemma of the digital age:"
+    ],
+    [
+     "del",
+     "How"
+    ],
+    [
+     "ins",
+     "how"
+    ],
+    [
+     "eq",
+     "a seemingly innocuous anecdote from a football superstar can escalate into a geopolitical firestorm."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0241,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

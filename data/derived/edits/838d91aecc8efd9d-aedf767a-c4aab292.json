@@ -1,0 +1,64 @@
+{
+ "id": "838d91aecc8efd9d-aedf767a-c4aab292",
+ "url": "https://www.abc.net.au/news/2026-10-28/cruise-passengers-stranded-after-fuel-prices-tanks-operator/107320706",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-29T12:41:52Z",
+ "date": "2026-10-29",
+ "old_title": "Hundreds stranded as 'cruise for life' operator goes bust over fuel costs",
+ "new_title": "Hundreds of cruise passengers stranded in Cambodia due to soaring fuel costs",
+ "old_text": "In short:\nHundreds of passengers aboard a \"cruise for life\" voyage have been left stranded in Cambodia after the company went bust.\nUS-based Villa Vie Residences gave passengers seven hours to disembark, claiming mounting fuel prices had tanked operations.\nWhat's next?\nThe operator says it is working to find temporary accommodation for the people left stranded.\nAround 200 passengers who paid to live on a cruise ship while travelling the world have been abruptly left in a Cambodian port after the company ran out of money.\nUS-based operator Villa Vie Residences, which markets its residency programs as luxury alternatives to current retirement options, announced it had suspended operations after two and a half years of continuous travel.\nIn a statement on Tuesday, local time, Villa Vie blamed the \"extraordinary\" fuel costs following the Iran war for halting operations.\nPassengers were given just seven hours to pack their bags and leave during a scheduled stop in the Cambodian port of Sihanoukville, according to Long Dimanche, deputy governor of Preah Sihanouk province.\nHe said in a statement 203 guests and 156 crew had arrived aboard the Bahamas-flagged ship from Thailand on October 23 and had been due to go on to Vietnam.\n\"The sudden order to disembark has left many retirees and remote workers homeless thousands of miles from their home countries,\" he said.\nSome passengers took flights out while others remained in the city, he said, adding that the ship itself was due to refuel and leave on October 31.\nInside Villa Vie's 'continuous' voyage\nPassengers aboard the 200-metre-long Odyssey cruise ship, equipped with a 24/7 medical centre, spa and fully contained villas, are sold on a \"worry-free\" life at sea.\nResidents have the option to buy or rent rooms for a holiday or for life, with basic cabins starting at about $85,000.\nThe cruise departed Northern Ireland in October 2024 for a continuous voyage; some passengers sold everything they had to pay for it.\nAt the beginning of this year, the residential cruise ship dropped anchor at multiple ports on Australia's east coast.\nRandy Cassingham, a passenger on board who runs a cruise blog, wrote that the disembarkation order followed a \"cascade of problems\".\nUnder a post entitled \"Abandon Ship!\", he said its Belfast launch was delayed by four months, while the ship never reached its capacity of 650 residents, peaking at around 350.\nHe said it was not a \"luxury\" ship but affordable until the company started \"begging for money\".\nVilla Vie said in its statement that per-cabin monthly fuel expenses had gone from an average of $1,800 to an estimated $6,000 to $8,000 in parts of Asia.\n\"The company cannot simply pass increases of that scale on to residents, and the resulting shortfall has placed its current operating model under unsustainable financial pressure,\" it said.\nMr Cassingham accused the company of doing \"absolutely nothing to help\" stranded passengers.\nVilla Vie said it was working to find temporary accommodation for residents.\n\"Villa Vie Residences recognises that this is a difficult and disruptive period for residents, crew members and employees, and is working to support those affected as plans develop,\" it said.\nAFP",
+ "new_text": "In short:\nHundreds of passengers aboard a \"cruise for life\" voyage have been left stranded in Cambodia as the company grapples with soaring fuel costs.\nUS-based Villa Vie Residences gave passengers seven hours to disembark, claiming mounting fuel prices had tanked operations.\nWhat's next?\nThe operator says it is working to find temporary accommodation for the people left stranded.\nAround 200 passengers who paid to live on a cruise ship while travelling the world have been abruptly left in a Cambodian port after the company ran out of money.\nUS-based operator Villa Vie Residences, which markets its residency programs as luxury alternatives to current retirement options, announced it had suspended operations after two and a half years of continuous travel.\nIn a statement on Tuesday, local time, Villa Vie blamed the \"extraordinary\" fuel costs following the Iran war for halting operations.\nPassengers were given just seven hours to pack their bags and leave during a scheduled stop in the Cambodian port of Sihanoukville, according to Long Dimanche, deputy governor of Preah Sihanouk province.\nHe said in a statement 203 guests and 156 crew had arrived aboard the Bahamas-flagged ship from Thailand on October 23 and had been due to go on to Vietnam.\n\"The sudden order to disembark has left many retirees and remote workers homeless thousands of miles from their home countries,\" he said.\nSome passengers took flights out while others remained in the city, he said, adding that the ship itself was due to refuel and leave on October 31.\nInside Villa Vie's 'continuous' voyage\nPassengers aboard the 200-metre-long Odyssey cruise ship, equipped with a 24/7 medical centre, spa and fully contained villas, are sold on a \"worry-free\" life at sea.\nResidents have the option to buy or rent rooms for a holiday or for life, with basic cabins starting at about $85,000.\nThe cruise departed Northern Ireland in October 2024 for a continuous voyage; some passengers sold everything they had to pay for it.\nAt the beginning of this year, the residential cruise ship dropped anchor at multiple ports on Australia's east coast.\nRandy Cassingham, a passenger on board who runs a cruise blog, wrote that the disembarkation order followed a \"cascade of problems\".\nUnder a post entitled \"Abandon Ship!\", he said its Belfast launch was delayed by four months, while the ship never reached its capacity of 650 residents, peaking at around 350.\nHe said it was not a \"luxury\" ship but affordable until the company started \"begging for money\".\nVilla Vie said in its statement that per-cabin monthly fuel expenses had gone from an average of $1,800 to an estimated $6,000 to $8,000 in parts of Asia.\n\"The company cannot simply pass increases of that scale on to residents, and the resulting shortfall has placed its current operating model under unsustainable financial pressure,\" it said.\nMr Cassingham accused the company of doing \"absolutely nothing to help\" stranded passengers.\nVilla Vie said it was working to find temporary accommodation for residents.\n\"Villa Vie Residences recognises that this is a difficult and disruptive period for residents, crew members and employees, and is working to support those affected as plans develop,\" it said.\nAFP",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "aboard a \"cruise for life\" voyage have been left stranded in Cambodia"
+    ],
+    [
+     "del",
+     "after"
+    ],
+    [
+     "ins",
+     "as"
+    ],
+    [
+     "eq",
+     "the company"
+    ],
+    [
+     "del",
+     "went bust."
+    ],
+    [
+     "ins",
+     "grapples with soaring fuel costs."
+    ],
+    [
+     "eq",
+     "US-based Villa Vie Residences gave passengers seven hours to disembark, claiming mounting"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0172,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9936,
+ "adjudicated_by": "rules"
+}

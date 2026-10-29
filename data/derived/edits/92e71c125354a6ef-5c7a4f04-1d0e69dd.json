@@ -1,0 +1,60 @@
+{
+ "id": "92e71c125354a6ef-5c7a4f04-1d0e69dd",
+ "url": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-29T12:49:28Z",
+ "date": "2026-10-29",
+ "old_title": "Arsenal to appeal against Max Dowman's red card against Fleetwood in Carabao Cup",
+ "new_title": "Arsenal to appeal against Max Dowman's red card against Fleetwood in Carabao Cup",
+ "old_text": "- Published\nArsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup tie at Fleetwood.\nThe 16-year-old midfielder was shown a straight red card in the 85th minute after reacting to a heavy challenge by Fleetwood's Harrison Neal.\nAlthough Dowman did not fully kick out, his foot did make contact with Neal.\nThe game finished 1-1 before League Two Fleetwood beat the Premier League champions 5-3 on penalties.\nIt was Dowman's second red card this month having also been sent off while representing England's Under-19s.\nAs Dowman left the field, Arsenal boss Mikel Arteta gave him a scathing look and made what appeared to be an angry comment to the youngster.\nMore to follow.",
+ "new_text": "- Published\nArsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup tie at Fleetwood.\nThe 16-year-old midfielder was shown a straight red card in the 85th minute after reacting to a heavy challenge by Fleetwood's Harrison Neal.\nAlthough Dowman did not fully kick out, his foot did make contact with Neal.\nThe game finished 1-1 before League Two Fleetwood beat the Premier League champions 5-3 on penalties.\nIt was Dowman's second red card this month having also been sent off while representing England's Under-19s.\nAs Dowman left the field, Arsenal boss Mikel Arteta gave him a scathing look and made what appeared to be an angry comment to the young winger.\nArteta said after the game: \"When we prepared the context of the match, we were very clear on the things to respect, the things that emotionally we have to dominate. It was very clear.\"\nDowman was dismissed for violent conduct, which according to the laws of the game is when a player \"uses or attempts to use excessive force or brutality against an opponent when not challenging for the ball... regardless of whether contact is made\".\nAs it stands, Dowman will face a three-match suspension.\nThe Gunners were already light on options on the wing as Bukayo Saka, Christos Tzolis and Noni Madueke are currently out injured.\nArteta's side return to Premier League action away to Liverpool on Sunday.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "look and made what appeared to be an angry comment to the"
+    ],
+    [
+     "del",
+     "youngster. More"
+    ],
+    [
+     "ins",
+     "young winger. Arteta said after the game: \"When we prepared the context of the match, we were very clear on the things"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "follow."
+    ],
+    [
+     "ins",
+     "respect, the things that emotionally we have to dominate. It was very clear.\" Dowman was dismissed for violent conduct, which according to the laws of the game is when a player \"uses or attempts to use excessive force or brutality against an opponent when not challenging for the ball... regardless of whether contact is made\". As it stands, Dowman will face a three-match suspension. The Gunners were already light on options on the wing as Bukayo Saka, Christos Tzolis and Noni Madueke are currently out injured. Arteta's side return to Premier League action away to Liverpool on Sunday."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.0696,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.906,
+ "similarity": 0.894,
+ "adjudicated_by": "rules"
+}

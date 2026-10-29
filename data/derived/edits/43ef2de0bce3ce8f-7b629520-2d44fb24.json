@@ -1,0 +1,168 @@
+{
+ "id": "43ef2de0bce3ce8f-7b629520-2d44fb24",
+ "url": "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-29T12:37:02Z",
+ "date": "2026-10-29",
+ "old_title": "Overturned carriages and makeshift medical tents at Spain train crash site",
+ "new_title": "Overturned carriages and makeshift medical tents at Spain train crash site",
+ "old_text": "Overturned carriages and makeshift medical tents at Spain train crash site\nDozens of people are feared dead after a Spanish high-speed train collided with another train south of capital Madrid.\nMore than 500 passengers were travelling on the trains involved, and an initial death toll of 10 \"will almost certainly rise\", a spokesperson for the regional government said.\nSpain's Prime Minister Pedro SÃ¡nchez says he is \"shocked by the serious train accident\" and is in constant contact with the transport minister\nRail operator Adif says the incident occurred between a Renfe train and another of the Iryo company, which covers the Madrid to Seville route.",
+ "new_text": "Overturned carriages and makeshift medical tents at Spain train crash site\nA Spanish high-speed train has collided with another, south of the country's capital Madrid, killing dozens of people and injuring more.\nMore than 500 passengers were travelling on the trains involved, and the death toll makes the rail disaster the worst in the country since 2013.\n\"The whole country is grieving\", said Spain's Prime Minister Pedro SÃ¡nchez, who visited the site. He also announced three days of mourning starting on 29 October.\nRail operator Adif said the incident occurred between a Renfe train and another of the Iryo company, which covers the Madrid to Seville route.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Overturned carriages and makeshift medical tents at Spain train crash site"
+    ],
+    [
+     "del",
+     "Dozens of people are feared dead after a"
+    ],
+    [
+     "ins",
+     "A"
+    ],
+    [
+     "eq",
+     "Spanish high-speed train"
+    ],
+    [
+     "ins",
+     "has"
+    ],
+    [
+     "eq",
+     "collided with"
+    ],
+    [
+     "del",
+     "another train"
+    ],
+    [
+     "ins",
+     "another,"
+    ],
+    [
+     "eq",
+     "south of"
+    ],
+    [
+     "ins",
+     "the country's"
+    ],
+    [
+     "eq",
+     "capital"
+    ],
+    [
+     "del",
+     "Madrid."
+    ],
+    [
+     "ins",
+     "Madrid, killing dozens of people and injuring more."
+    ],
+    [
+     "eq",
+     "More than 500 passengers were travelling on the trains involved, and"
+    ],
+    [
+     "del",
+     "an initial"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "death toll"
+    ],
+    [
+     "del",
+     "of 10 \"will almost certainly rise\", a spokesperson for"
+    ],
+    [
+     "ins",
+     "makes"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "regional government said."
+    ],
+    [
+     "ins",
+     "rail disaster the worst in the country since 2013. \"The whole country is grieving\", said"
+    ],
+    [
+     "eq",
+     "Spain's Prime Minister Pedro"
+    ],
+    [
+     "del",
+     "SÃ¡nchez says he is \"shocked by"
+    ],
+    [
+     "ins",
+     "SÃ¡nchez, who visited"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "serious train accident\" and is in constant contact with the transport minister"
+    ],
+    [
+     "ins",
+     "site. He also announced three days of mourning starting on 29 October."
+    ],
+    [
+     "eq",
+     "Rail operator Adif"
+    ],
+    [
+     "del",
+     "says"
+    ],
+    [
+     "ins",
+     "said"
+    ],
+    [
+     "eq",
+     "the incident occurred between a Renfe train and another of the Iryo company, which covers the Madrid to Seville route."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.8571,
+  "numbers_changed": [
+   "10",
+   "2013",
+   "29"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 2,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.334,
+ "similarity": 0.9144,
+ "adjudicated_by": "rules"
+}

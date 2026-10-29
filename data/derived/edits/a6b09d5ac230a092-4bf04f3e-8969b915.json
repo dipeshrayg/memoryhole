@@ -1,0 +1,48 @@
+{
+ "id": "a6b09d5ac230a092-4bf04f3e-8969b915",
+ "url": "https://www.france24.com/en/video/20261028-israeli-election-pm-loses-a-significant-number-of-seats-since-2022-election",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-29T12:40:59Z",
+ "date": "2026-10-29",
+ "old_title": "Israeli election: PM loses a significant number of seats since 2022 election",
+ "new_title": "Israeli election: PM loses a significant number of seats since 2022 election",
+ "old_text": "Video contentVideo\nIsraeli election: PM loses a significant number of seats since 2022 election\nIssued on:\nShare\nIsrael was counting votes on Wednesday after pivotal elections in which exit polls showed no clear winner. Prime Minister Benjamin Netanyahu's bloc appears to have lost a significant number of seats compared with the previous election in 2022. France 24's International Affairs Editor Angela Diffley shares further insights.",
+ "new_text": "Video contentVideo\nIsraeli election: PM loses a significant number of seats since 2022 election\nIssued on: Modified:\nShare\nIsrael was counting votes on Wednesday after pivotal elections in which exit polls showed no clear winner. Prime Minister Benjamin Netanyahu's bloc appears to have lost a significant number of seats compared with the previous election in 2022. France 24's International Affairs Editor Angela Diffley shares further insights.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "PM loses a significant number of seats since 2022 election Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "Share Israel was counting votes on Wednesday after pivotal elections in which"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0154,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9934,
+ "adjudicated_by": "rules"
+}
