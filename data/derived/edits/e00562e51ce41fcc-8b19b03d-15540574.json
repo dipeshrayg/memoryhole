@@ -1,0 +1,60 @@
+{
+ "id": "e00562e51ce41fcc-8b19b03d-15540574",
+ "url": "https://www.france24.com/en/video/20261029-usa-barack-obama-slams-donald-trump-in-final-midterm-push",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-30T12:31:55Z",
+ "date": "2026-10-30",
+ "old_title": "USA: Barack Obama slams Donald Trump in final midterm push",
+ "new_title": "USA: Barack Obama slams Donald Trump in final midterm push",
+ "old_text": "Video contentVideo\nUSA: Barack Obama slams Donald Trump in final midterm push\nIssued on:\nShare\nJust five days before the US midterm elections, former president Barack Obama took aim at President Donald Trump. He commented on the reaction of Trump's administration to a joke he had made the day before. \"He was very upset about the Cheesecake Factory comments\", Obama said. \"They mobilized a whole-of-government response to that joke. Not to inflation, but to that joke.\" As the election is getting closer, polls point to a possible Democratic majority in the House.",
+ "new_text": "Video contentVideo\nUSA: Barack Obama slams Donald Trump in final midterm push\nIssued on: Modified:\nShare\nJust five days before the US midterm elections, former president Barack Obama came to Georgia in a show of support to Senator Jon Ossoff in tthe midterm elections. Obama commented on the reaction of Trump's administration to a joke he had made the day before. \"He was very upset about the Cheesecake Factory comments\", Obama said. \"They mobilized a whole-of-government response to that joke. Not to inflation, but to that joke.\" As the election is getting closer, polls point to a possible Democratic majority in the House.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "USA: Barack Obama slams Donald Trump in final midterm push Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "Share Just five days before the US midterm elections, former president Barack Obama"
+    ],
+    [
+     "del",
+     "took aim at President Donald Trump. He"
+    ],
+    [
+     "ins",
+     "came to Georgia in a show of support to Senator Jon Ossoff in tthe midterm elections. Obama"
+    ],
+    [
+     "eq",
+     "commented on the reaction of Trump's administration to a joke he had"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2717,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.542,
+ "similarity": 0.8796,
+ "adjudicated_by": "rules"
+}

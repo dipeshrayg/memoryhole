@@ -1,0 +1,180 @@
+{
+ "id": "424092d150b0125c-b471372b-bec82381",
+ "url": "https://www.abc.net.au/news/2026-10-29/katie-zacharia-on-short-lived-white-house-press-secretary-role/107323442",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-30T12:32:51Z",
+ "date": "2026-10-30",
+ "old_title": "Zacharia blames media for troubled stint as White House press secretary",
+ "new_title": "Zacharia blames media for troubled stint as White House press secretary",
+ "old_text": "In short:\nThe former White House press secretary continues to defend President Donald Trump despite being pushed out of the role after just five days.\nKatie Zacharia has spoken for the first time since her dismissal, blaming the media for making her job difficult.\nWhat's next?\nMr Trump has said he intends to name Ms Zacharia's replacement after the US midterm elections next week.\nFormer White House press secretary Katie Zacharia has broken her silence 10 days after her abrupt departure from the administration.\nMs Zacharia's legal credentials came under scrutiny after a truncated first press briefing raised questions over her suitability for the position.\nIt all seemed to come crashing down for Ms Zacharia after two appearances on Fox News, where she admitted she had failed the bar exam.\nIn a media appearance at the time, US President Donald Trump told reporters he had advised her to reconsider the position, bringing her tenure after just five days in the office.\nThe pair appeared to part ways cordially, with Mr Trump accusing the media of treating her \"pretty nastily\".\nMs Zacharia later penned an op-ed for the New York Post saying the \"call\" to serve the president was an \"honor\" she was proud of.\n\"I've always wanted to work for President Donald Trump,\" she wrote.\n\"Being back in California feels like an interlude, a temporary pause between the work that matters most,\" she wrote.\nAppearing on Piers Morgan Uncensored this week, Ms Zacharia doubled down on her loyalty to Mr Trump and did not rule out working for his administration if the opportunity arose again.\n\"I would love to work for the president again,\" Ms Zacharia told Morgan on Wednesday, local time.\nShe said she had since returned to her home state of California, where she plans to continue to \"fight\" for Mr Trump, whom she described as a \"force of nature\" and an \"incredible president to serve\".\nWhen Morgan asked about the firestorm after her first press briefing and the backlash over the misrepresentation of her legal credentials, Ms Zacharia blamed the media for leading the public down a \"red herring trail\" that distracted attention from Mr Trump ahead of crucial midterm elections.\nAs she continued to pledge her loyalty to Mr Trump, Morgan accused her of being a \"robot\".\n\"Has Donald Trump got some program plugged into you to make you say all of this?\" he asked.\nThe United States goes to the polls next week, where voters will decide which major party will control the House of Representatives and the Senate for the remainder of Mr Trump's administration.\nMs Zacharia, a staunch supporter of Mr Trump since his first term in office, told Morgan that initial polling showed the Senate race would be \"tight\" and the House would prove to be an \"uphill battle\".\nIn the lead-up to the midterms, Mr Trump has drawn criticism for attempting to block alleged non-citizens from voting in California.\nMeanwhile, he has continued to host rallies around the country, recently addressing Ms Zacharia's departure from the White House at one such event.\n\"She was a perfect, beautiful woman when she walked into that press room,\" he told the crowd.\nHe blamed the media for \"scaring\" the former press secretary, telling the crowd that he told her there were easier ways to make a living.\nMr Trump has yet to appoint the next press secretary, having earlier said he had no plans to do so until after the midterms.\nABC",
+ "new_text": "In short:\nKatie Zacharia has spoken for the first time since her dismissal as White House press secretary, blaming the media for making her job difficult.\nShe continues to defend President Donald Trump despite being pushed out of the role after just five days.\nWhat's next?\nMr Trump has said he intends to name Ms Zacharia's replacement after the US midterm elections next week.\nFormer White House press secretary Katie Zacharia has broken her silence 10 days after her abrupt departure from the administration.\nMs Zacharia's legal credentials came under scrutiny after a truncated first press briefing raised questions over her suitability for the position.\nIt all seemed to come crashing down for Ms Zacharia after two appearances on Fox News, where she admitted she had failed the bar exam.\nIn a media appearance at the time, US President Donald Trump told reporters he had advised her to reconsider the position, bringing her tenure to an end after just five days.\nThe pair appeared to part ways cordially, with Mr Trump accusing the media of treating her \"pretty nastily\".\nMs Zacharia later penned an op-ed for the New York Post saying the \"call\" to serve the president was an \"honor\" she was proud of.\n\"I've always wanted to work for President Donald Trump,\" she wrote.\n\"Being back in California feels like an interlude, a temporary pause between the work that matters most,\" she wrote.\nAppearing on Piers Morgan Uncensored this week, Ms Zacharia doubled down on her loyalty to Mr Trump.\n\"I would love to work for the president again,\" Ms Zacharia told Morgan on Wednesday, local time.\nShe said she had since returned to her home state of California, where she plans to continue to \"fight\" for Mr Trump, whom she described as a \"force of nature\" and an \"incredible president to serve\".\nWhen Morgan asked about the firestorm after her first press briefing and the backlash over the misrepresentation of her legal credentials, Ms Zacharia blamed the media for leading the public down a \"red herring trail\" that distracted attention from Mr Trump ahead of crucial midterm elections.\nAs she continued to pledge her loyalty to Mr Trump, Morgan accused her of being a \"robot\".\n\"Has Donald Trump got some program plugged into you to make you say all of this?\" he asked.\nUS voters go to the polls next week to decide which major party will control the House of Representatives and the Senate for the remainder of Mr Trump's administration.\nMs Zacharia, a staunch supporter of Mr Trump since his first term in office, told Morgan initial polling showed the Senate race would be \"tight\" and the House would prove to be an \"uphill battle\".\nIn the lead-up to the midterms, Mr Trump has drawn criticism for attempting to block alleged non-citizens from voting in California.\nMeanwhile, he has continued to host rallies around the country, recently addressing Ms Zacharia's departure from the White House at one such event.\n\"She was a perfect, beautiful woman when she walked into that press room,\" he told the crowd.\nHe blamed the media for \"scaring\" the former press secretary, telling the crowd that he told her there were easier ways to make a living.\nMr Trump has yet to appoint the next press secretary, having earlier said he had no plans to do so until after the midterms.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "In short:"
+    ],
+    [
+     "del",
+     "The former"
+    ],
+    [
+     "ins",
+     "Katie Zacharia has spoken for the first time since her dismissal as"
+    ],
+    [
+     "eq",
+     "White House press"
+    ],
+    [
+     "del",
+     "secretary"
+    ],
+    [
+     "ins",
+     "secretary, blaming the media for making her job difficult. She"
+    ],
+    [
+     "eq",
+     "continues to defend President Donald Trump despite being pushed out of the role after just five days."
+    ],
+    [
+     "del",
+     "Katie Zacharia has spoken for the first time since her dismissal, blaming the media for making her job difficult."
+    ],
+    [
+     "eq",
+     "What's next? Mr Trump has said he intends to name Ms Zacharia's"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "reporters he had advised her to reconsider the position, bringing her tenure"
+    ],
+    [
+     "ins",
+     "to an end"
+    ],
+    [
+     "eq",
+     "after just five"
+    ],
+    [
+     "del",
+     "days in the office."
+    ],
+    [
+     "ins",
+     "days."
+    ],
+    [
+     "eq",
+     "The pair appeared to part ways cordially, with Mr Trump accusing the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Uncensored this week, Ms Zacharia doubled down on her loyalty to Mr"
+    ],
+    [
+     "del",
+     "Trump and did not rule out working for his administration if the opportunity arose again."
+    ],
+    [
+     "ins",
+     "Trump."
+    ],
+    [
+     "eq",
+     "\"I would love to work for the president again,\" Ms Zacharia told"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "plugged into you to make you say all of this?\" he asked."
+    ],
+    [
+     "del",
+     "The United States goes"
+    ],
+    [
+     "ins",
+     "US voters go"
+    ],
+    [
+     "eq",
+     "to the polls next"
+    ],
+    [
+     "del",
+     "week, where voters will"
+    ],
+    [
+     "ins",
+     "week to"
+    ],
+    [
+     "eq",
+     "decide which major party will control the House of Representatives and the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "supporter of Mr Trump since his first term in office, told Morgan"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "eq",
+     "initial polling showed the Senate race would be \"tight\" and the House"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "said he had no plans to do so until after the midterms."
+    ],
+    [
+     "del",
+     "ABC"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1436,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9946,
+ "adjudicated_by": "rules"
+}

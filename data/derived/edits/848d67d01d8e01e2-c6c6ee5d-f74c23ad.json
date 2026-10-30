@@ -1,0 +1,122 @@
+{
+ "id": "848d67d01d8e01e2-c6c6ee5d-f74c23ad",
+ "url": "https://www.npr.org/2026/10/29/nx-s1-6019546/new-blood-test-can-detect-changes-associated-with-alzheimers-disease",
+ "domain": "www.npr.org",
+ "source": "NPR Health",
+ "country": "United States",
+ "category": "health",
+ "lang": "en",
+ "detected_at": "2026-10-30T12:44:04Z",
+ "date": "2026-10-30",
+ "old_title": "New blood test can detect changes associated with Alzheimer's disease",
+ "new_title": "New blood test can detect changes associated with Alzheimer's disease",
+ "old_text": "New blood test can detect changes associated with Alzheimer's diseaseBrain changes associated with Alzheimer's disease can be detected by a new type of blood test -- and a growing number of patients are asking their doctors about it.\nBrain changes associated with Alzheimer's disease can be detected by a new type of blood test - and a growing number of patients are asking their doctors about it.\nNPR does not offer or accept money for coverage or interviews.\nAnyone who makes such an offer or request is not an NPR employee and does not represent NPR.",
+ "new_text": "New blood test can detect changes associated with Alzheimer's disease\nBrain changes associated with Alzheimer's disease can be detected by a new type of blood test - and a growing number of patients are asking their doctors about it.\nLEILA FADEL, HOST:\nBrain changes associated with Alzheimer's disease can be detected by a new type of blood test. More and more patients are asking their doctors about it.\nSUSAN DANCER: I wanted to know. And a few days later, got my results via email.\nFADEL: Jon Hamilton reports on the promise and peril of these tests.\nJON HAMILTON, BYLINE: Susan Dancer's (ph) mother and grandmother both died with symptoms of Alzheimer's. She's the eldest of three sisters. So when Dancer turned 60 this year, she began to worry about her own brain.\nDANCER: It's extremely scary. And I just felt like, you know, I'm the matriarch of this family now. Am I next?\nHAMILTON: Dancer, who cares for rescued animals in Bay City, Texas, searched for answers online. That led her to a new type of blood test that indicates the presence of amyloid plaques in the brain, a hallmark of Alzheimer's. Dancer checked in with her daughter, who is a medical research scientist.\nDANCER: Her knee-jerk reaction as a medical person was, we don't want to know. Don't do it (laughter).\nHAMILTON: Because the result wouldn't lead to treatment. But Dancer wanted to plan the rest of her life and death.\nDANCER: I want to be in charge of my health myself and to shield and protect my family from having to go through what my sisters and I went through with our mother and grandmother.\nHAMILTON: Dancer got the test by enrolling in a clinical trial. Pretty soon, an email provided the result.\nDANCER: The literature said that you were hoping for a number below 0.18, and my number was 0.10, roughly halfway there. So that was - I don't think it means that I'm not going to get dementia or have issues down the road, but it was very reassuring.\nHAMILTON: The test Dancer got measures a protein called p-tau217. The approach was developed by scientists, including Dr. David Holtzman, a neurologist at Washington University School of Medicine in St. Louis.\nDAVID HOLTZMAN: That particular test is extremely accurate at determining whether you have amyloid in the brain or not.\nHAMILTON: Much like a brain scan.\nIn September, the Food and Drug Administration approved two blood tests that measure p-tau217. But Holtzman says those tests aren't meant for people like Dancer.\nHOLTZMAN: The currently approved tests are for people who have symptoms of the disease. They were not approved by the FDA for people who are not symptomatic.\nHAMILTON: Holtzman says that's because the two drugs that can remove amyloid from the brain are approved only for people who already have symptoms of dementia.\nHOLTZMAN: Right now, if you did get a test like that and you're still cognitively normal, there's nothing that we know medically to do about that.\nHAMILTON: So for people without memory loss or other symptoms, he says, a positive test can be the source of needless anxiety. But Michael Malek-Ahmadi, a scientist at Banner Health in Phoenix, says that even people without symptoms may learn something from a blood test.\nMICHAEL MALEK-AHMADI: Those who are at or above a certain threshold, we do know those individuals are at a higher risk for progressing to having symptoms of Alzheimer's disease.\nHAMILTON: Malek-Ahmadi says researchers are currently studying whether Alzheimer's can be prevented or delayed by treating these asymptomatic people with amyloid drugs. He says if the approach works, amyloid testing could become standard for older patients.\nMALEK-AHMADI: What we're working toward is that these tests would be part of a regular screening routine for older adults and that we would identify people who have the biology of Alzheimer's disease, just not the symptoms.\nHAMILTON: In the meantime, deciding whether to get a test at all is up to doctors and their patients.\nFor NPR News, I'm Jon Hamilton.\n(SOUNDBITE OF MUSIC)\nCopyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.\nAccuracy and availability of transcripts for NPR programming may vary. Transcript text may also be revised to correct errors or match updates to audio. Audio may be edited after its original broadcast or publication. The authoritative record of NPR's programming is the audio record.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "New blood test can detect changes associated with Alzheimer's"
+    ],
+    [
+     "del",
+     "diseaseBrain changes associated with Alzheimer's"
+    ],
+    [
+     "eq",
+     "disease"
+    ],
+    [
+     "del",
+     "can be detected by a new type of blood test -- and a growing number of patients are asking their doctors about it."
+    ],
+    [
+     "eq",
+     "Brain changes associated with Alzheimer's disease can be detected by a new"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and a growing number of patients are asking their doctors about it."
+    ],
+    [
+     "ins",
+     "LEILA FADEL, HOST: Brain changes associated with Alzheimer's disease can be detected by a new type of blood test. More and more patients are asking their doctors about it. SUSAN DANCER: I wanted to know. And a few days later, got my results via email. FADEL: Jon Hamilton reports on the promise and peril of these tests. JON HAMILTON, BYLINE: Susan Dancer's (ph) mother and grandmother both died with symptoms of Alzheimer's. She's the eldest of three sisters. So when Dancer turned 60 this year, she began to worry about her own brain. DANCER: It's extremely scary. And I just felt like, you know, I'm the matriarch of this family now. Am I next? HAMILTON: Dancer, who cares for rescued animals in Bay City, Texas, searched for answers online. That led her to a new type of blood test that indicates the presence of amyloid plaques in the brain, a hallmark of Alzheimer's. Dancer checked in with her daughter, who is a medical research scientist. DANCER: Her knee-jerk reaction as a medical person was, we don't want to know. Don't do it (laughter). HAMILTON: Because the result wouldn't lead to treatment. But Dancer wanted to plan the rest of her life and death. DANCER: I want to be in charge of my health myself and to shield and protect my family from having to go through what my sisters and I went through with our mother and grandmother. HAMILTON: Dancer got the test by enrolling in a clinical trial. Pretty soon, an email provided the result. DANCER: The literature said that you were hoping for a number below 0.18, and my number was 0.10, roughly halfway there. So that was - I don't think it means that I'm not going to get dementia or have issues down the road, but it was very reassuring. HAMILTON: The test Dancer got measures a protein called p-tau217. The approach was developed by scientists, including Dr. David Holtzman, a neurologist at Washington University School of Medicine in St. Louis. DAVID HOLTZMAN: That particular test is extremely accurate at determining whether you have amyloid in the brain or not. HAMILTON: Much like a brain scan. In September, the Food and Drug Administration approved two blood tests that measure p-tau217. But Holtzman says those tests aren't meant for people like Dancer. HOLTZMAN: The currently approved tests are for people who have symptoms of the disease. They were not approved by the FDA for people who are not symptomatic. HAMILTON: Holtzman says that's because the two drugs that can remove amyloid from the brain are approved only for people who already have symptoms of dementia. HOLTZMAN: Right now, if you did get a test like that and you're still cognitively normal, there's nothing that we know medically to do about that. HAMILTON: So for people without memory loss or other symptoms, he says, a positive test can be the source of needless anxiety. But Michael Malek-Ahmadi, a scientist at Banner Health in Phoenix, says that even people without symptoms may learn something from a blood test. MICHAEL MALEK-AHMADI: Those who are at or above a certain threshold, we do know those individuals are at a higher risk for progressing to having symptoms of Alzheimer's disease. HAMILTON: Malek-Ahmadi says researchers are currently studying whether Alzheimer's can be prevented or delayed by treating these asymptomatic people with amyloid drugs. He says if the approach works, amyloid testing could become standard for older patients. MALEK-AHMADI: What we're working toward is that these tests would be part of a regular screening routine for older adults and that we would identify people who have the biology of Alzheimer's disease, just not the symptoms. HAMILTON: In the meantime, deciding whether to get a test at all is up to doctors and their patients. For"
+    ],
+    [
+     "eq",
+     "NPR"
+    ],
+    [
+     "del",
+     "does not offer"
+    ],
+    [
+     "ins",
+     "News, I'm Jon Hamilton. (SOUNDBITE OF MUSIC) Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information. Accuracy and availability of transcripts for NPR programming may vary. Transcript text may also be revised to correct errors"
+    ],
+    [
+     "eq",
+     "or"
+    ],
+    [
+     "del",
+     "accept money for coverage"
+    ],
+    [
+     "ins",
+     "match updates to audio. Audio may be edited after its original broadcast"
+    ],
+    [
+     "eq",
+     "or"
+    ],
+    [
+     "del",
+     "interviews. Anyone who makes such an offer or request"
+    ],
+    [
+     "ins",
+     "publication. The authoritative record of NPR's programming"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "del",
+     "not an NPR employee and does not represent NPR."
+    ],
+    [
+     "ins",
+     "the audio record."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 7.8438,
+  "numbers_changed": [
+   "0.10",
+   "0.18",
+   "2026",
+   "217",
+   "60"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.9,
+ "similarity": 0.7148,
+ "adjudicated_by": "rules"
+}

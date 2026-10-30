@@ -1,0 +1,75 @@
+{
+ "id": "d175d4f66bfd1ea4-fefc7ab9-6bfcb45e",
+ "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-10-30T12:45:31Z",
+ "date": "2026-10-30",
+ "old_title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+ "new_title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+ "old_text": "The Trump administration is trying to stop Utah from enforcing its gambling ban against Kalshi, making Utah the 10th state sued by the US government agency that regulates prediction markets.\nUtah, which prohibits gambling, sued Kalshi in a state court last week. Utah's lawsuit seeks an order prohibiting Kalshi from offering bets on sports, elections, politics, and other events.\n\"Kalshi runs an online casino in Utah and calls it a prediction market. That violates Utah law,\" Utah Attorney General Derek Brown, a Republican, said last week. \"Not only do our state laws ban gambling but Utah is one of only two states where gambling is also prohibited under the state constitution. For 130 years, Utah has been clear: gambling has no place here, and we will enforce our laws.\"\nUtah already defeated Kalshi in federal court after the prediction market filed a preemptive lawsuit that sought to prevent the state from enforcing its gambling laws. Now that Utah is moving ahead in its attempt to shut down Kalshi, it must defend against a lawsuit filed by the US Commodity Futures Trading Commission (CFTC).\nTrump admin claims sole authority\nThe CFTC \"has filed a lawsuit against Utah to block the state's efforts to shut down CFTC-registered contract markets using state laws,\" the commission said yesterday. \"The lawsuit follows Utah's decision to file civil enforcement actions in state court against CFTC-regulated markets and other businesses. Utah's effort to restrict the functioning of CFTC-registered exchanges obstructs Congress's decision to federally preempt state law.\"\nIf Utah can shut down Kalshi, that could spell trouble for Kalshi's chief prediction-market rival, Polymarket, and for sports betting sites like DraftKings and FanDuel. DraftKings and FanDuel advertise availability in all US states via a mix of products, including prediction-market platforms in states like Utah. Both are registered with the CFTC.",
+ "new_text": "The Trump administration is trying to stop Utah from enforcing its gambling ban against Kalshi, making Utah the 10th state sued by the US government agency that regulates prediction markets.\nMeanwhile, Utah Attorney General Derek Brown filed criminal charges in a state court against Kalshi and its founders on Wednesday. The attorney general's office provided us with court filings listing charges against KalshiEX, LLC, Kalshi co-founder and CEO Tarek Mansour, and Kalshi co-founder and COO Luana Lopes Lara.\nThe company and two co-founders each face 13 felony charges and one misdemeanor for violating gambling laws. The charges are based on sports bets offered on Kalshi between September 13 and September 24. \"The state did not issue arrest warrants for Monsour and Lopes Lara. Instead, they have been issued summons to respond to the charges in Third District Court in Salt Lake County,\" The Salt Lake Tribune wrote.\nThe Utah News Dispatch quoted a Kalshi statement vowing to fight the charges. \"This is a crazy overreach; Utah is clearly playing politics. We look forward to putting a stop to this in court, just like we did in Arizona,\" the statement said, referring to similar charges the company beat in Arizona in May.\nUtah, which prohibits gambling, filed a civil lawsuit against Kalshi in a state court last week. Utah's lawsuit seeks an order prohibiting Kalshi from offering bets on sports, elections, politics, and other events.\n\"Kalshi runs an online casino in Utah and calls it a prediction market. That violates Utah law,\" Utah Attorney General Derek Brown, a Republican, said last week. \"Not only do our state laws ban gambling but Utah is one of only two states where gambling is also prohibited under the state constitution. For 130 years, Utah has been clear: gambling has no place here, and we will enforce our laws.\"\nUtah already defeated Kalshi in federal court after the prediction market filed a preemptive lawsuit that sought to prevent the state from enforcing its gambling laws. Now that Utah is moving ahead in its attempt to shut down Kalshi, it must defend against a lawsuit filed by the US Commodity Futures Trading Commission (CFTC).",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "10th state sued by the US government agency that regulates prediction markets."
+    ],
+    [
+     "ins",
+     "Meanwhile, Utah Attorney General Derek Brown filed criminal charges in a state court against Kalshi and its founders on Wednesday. The attorney general's office provided us with court filings listing charges against KalshiEX, LLC, Kalshi co-founder and CEO Tarek Mansour, and Kalshi co-founder and COO Luana Lopes Lara. The company and two co-founders each face 13 felony charges and one misdemeanor for violating gambling laws. The charges are based on sports bets offered on Kalshi between September 13 and September 24. \"The state did not issue arrest warrants for Monsour and Lopes Lara. Instead, they have been issued summons to respond to the charges in Third District Court in Salt Lake County,\" The Salt Lake Tribune wrote. The Utah News Dispatch quoted a Kalshi statement vowing to fight the charges. \"This is a crazy overreach; Utah is clearly playing politics. We look forward to putting a stop to this in court, just like we did in Arizona,\" the statement said, referring to similar charges the company beat in Arizona in May."
+    ],
+    [
+     "eq",
+     "Utah, which prohibits gambling,"
+    ],
+    [
+     "del",
+     "sued"
+    ],
+    [
+     "ins",
+     "filed a civil lawsuit against"
+    ],
+    [
+     "eq",
+     "Kalshi in a state court last week. Utah's lawsuit seeks an order"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "against a lawsuit filed by the US Commodity Futures Trading Commission (CFTC)."
+    ],
+    [
+     "del",
+     "Trump admin claims sole authority The CFTC \"has filed a lawsuit against Utah to block the state's efforts to shut down CFTC-registered contract markets using state laws,\" the commission said yesterday. \"The lawsuit follows Utah's decision to file civil enforcement actions in state court against CFTC-regulated markets and other businesses. Utah's effort to restrict the functioning of CFTC-registered exchanges obstructs Congress's decision to federally preempt state law.\" If Utah can shut down Kalshi, that could spell trouble for Kalshi's chief prediction-market rival, Polymarket, and for sports betting sites like DraftKings and FanDuel. DraftKings and FanDuel advertise availability in all US states via a mix of products, including prediction-market platforms in states like Utah. Both are registered with the CFTC."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.9801,
+  "numbers_changed": [
+   "13",
+   "24"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 2,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.456,
+ "similarity": 0.8273,
+ "adjudicated_by": "rules"
+}
