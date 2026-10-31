@@ -1,0 +1,80 @@
+{
+ "id": "785b1088e2647750-92b4f59c-8347a438",
+ "url": "https://variety.com/2026/tv/news/greg-berlanti-paley-center-honors-award-1236930363/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-10-31T12:18:54Z",
+ "date": "2026-10-31",
+ "old_title": "Greg Berlanti to Receive the Paley Center for Media's Honors Award at Its Fall Gala",
+ "new_title": "Greg Berlanti, Goldie Hawn to Receive the Paley Center for Media's Honors Award at Its Fall Gala",
+ "old_text": "Superproducer Greg Berlanti has been tapped to receive the Paley Center for Media's Paley Honors Award, the org's highest recognition. Berlanti will be presented the award during the 2026 Paley Honors Fall Gala, to be held on Thursday, Dec. 3 at the Beverly Wilshire Hotel in Beverly Hills.\nAdditional honorees will be announced later. The Paley Honors Award is given to someone who has made \"landmark contributions\" and had an \"enduring impact to the media industry.\"\n\"For more than 30 years, Greg Berlanti has captivated audiences with acclaimed storytelling that has entertained, inspired, and brought enormous joy to people around the world,\" said Maureen J. Reidy, president and CEO of The Paley Center for Media, in a statement. \"A visionary creative force, Greg has helped shape the television landscape with his enthralling series and unforgettable characters that have resonated with generations of viewers. In recognition of his extraordinary career and enduring impact on the entertainment industry, we are privileged to present him with our highest recognition, The Paley Honors Award.\"\nLast year's honorees included country music superstar and actress Reba McEntire (\"Happy's Place\"), TV executive producer Bill Lawrence (\"Scrubs,\" \"Shrinking\") and then-Mattel chairman/CEO (now Skydance co-CEO) Ynon Kreiz.\nBerlanti, of course, has behind series including \"Arrow,\" \"The Flash,\" \"Supergirl,\" \"Blindspot,\" \"All American,\" \"You,\" \"Riverdale,\" \"Dirty Sexy Money,\" \"Eli Stone,\" \"Everwood,\" \"Brothers and Sisters\" and \"Brilliant Minds\" and of course, came to prominence as showrunner on \"Dawson's Creek.\" Next up, his new series include \"How to Survive Without Me\" and \"Afterlife with Archie.\"\nAmong his recent honors, Berlanti received an Emmy Governors award, was named one of Time Magazine's 100 Most Influential People and received the PGA's Norman Lear Achievement Award. Berlanti also founded the Berlanti Family Foundation, raising money charities, nonprofits and cancer research.",
+ "new_text": "Superproducer Greg Berlanti and star Goldie Hawn have been tapped to receive the Paley Center for Media's Paley Honors Award, the org's highest recognition. Berlanti will be presented the award during the 2026 Paley Honors Fall Gala, to be held on Thursday, Dec. 3 at the Beverly Wilshire Hotel in Beverly Hills.\nAdditional honorees will be announced later. The Paley Honors Award is given to someone who has made \"landmark contributions\" and had an \"enduring impact to the media industry.\"\n\"For more than 30 years, Greg Berlanti has captivated audiences with acclaimed storytelling that has entertained, inspired, and brought enormous joy to people around the world,\" said Maureen J. Reidy, president and CEO of The Paley Center for Media, in a statement. \"A visionary creative force, Greg has helped shape the television landscape with his enthralling series and unforgettable characters that have resonated with generations of viewers. In recognition of his extraordinary career and enduring impact on the entertainment industry, we are privileged to present him with our highest recognition, The Paley Honors Award.\"\nAs for Hawn, she'll be recognized as \"a beloved trailblazer whose timeless charm and exceptional talent have earned her a place as one of the most influential and respected figures in entertainment,\" Reidy said. \"Across her extraordinary career, she has dazzled audiences with her unforgettable performances and won over the world with her wit, generous spirit, and unrivaled comedic gifts.\"\nLast year's honorees included country music superstar and actress Reba McEntire (\"Happy's Place\"), TV executive producer Bill Lawrence (\"Scrubs,\" \"Shrinking\") and then-Mattel chairman/CEO (now Skydance co-CEO) Ynon Kreiz.\nBerlanti, of course, has behind series including \"Arrow,\" \"The Flash,\" \"Supergirl,\" \"Blindspot,\" \"All American,\" \"You,\" \"Riverdale,\" \"Dirty Sexy Money,\" \"Eli Stone,\" \"Everwood,\" \"Brothers and Sisters\" and \"Brilliant Minds\" and of course, came to prominence as showrunner on \"Dawson's Creek.\" Next up, his new series include \"How to Survive Without Me\" and \"Afterlife with Archie.\"\nAmong his recent honors, Berlanti received an Emmy Governors award, was named one of Time Magazine's 100 Most Influential People and received the PGA's Norman Lear Achievement Award. Berlanti also founded the Berlanti Family Foundation, raising money charities, nonprofits and cancer research.\nHawn recently launched the book series \"The After School Kindness Crew\" and is behind orgs including MindUP and The Goldie Hawn Foundation. Her career began on \"Rowan & Martin's Laugh-In,\" and her philanthropy has included specials like \"Goldie and Kids...Listen to Us\" and \"Goldie & Liza: Together.\" She also directed \"Hope\" and executive produced TV films including \"The Matthew Shepard Story\" and \"When Billie Beat Bobby.\"\n\"I'm deeply honored to receive this recognition,\" Hawn said in a statement. \"My career has been a joyful journey filled with wonderful stories, generous collaborators, and audiences who have welcomed me into their lives. I'm grateful for every opportunity to create, to make people laugh, and to keep learning along the way. One of the most meaningful parts of my life has been founding MindUP and helping children understand their brains, build mental fitness, and thrive.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Superproducer Greg Berlanti"
+    ],
+    [
+     "del",
+     "has"
+    ],
+    [
+     "ins",
+     "and star Goldie Hawn have"
+    ],
+    [
+     "eq",
+     "been tapped to receive the Paley Center for Media's Paley Honors Award,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "privileged to present him with our highest recognition, The Paley Honors Award.\""
+    ],
+    [
+     "ins",
+     "As for Hawn, she'll be recognized as \"a beloved trailblazer whose timeless charm and exceptional talent have earned her a place as one of the most influential and respected figures in entertainment,\" Reidy said. \"Across her extraordinary career, she has dazzled audiences with her unforgettable performances and won over the world with her wit, generous spirit, and unrivaled comedic gifts.\""
+    ],
+    [
+     "eq",
+     "Last year's honorees included country music superstar and actress Reba McEntire (\"Happy's"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "founded the Berlanti Family Foundation, raising money charities, nonprofits and cancer research."
+    ],
+    [
+     "ins",
+     "Hawn recently launched the book series \"The After School Kindness Crew\" and is behind orgs including MindUP and The Goldie Hawn Foundation. Her career began on \"Rowan & Martin's Laugh-In,\" and her philanthropy has included specials like \"Goldie and Kids...Listen to Us\" and \"Goldie & Liza: Together.\" She also directed \"Hope\" and executive produced TV films including \"The Matthew Shepard Story\" and \"When Billie Beat Bobby.\" \"I'm deeply honored to receive this recognition,\" Hawn said in a statement. \"My career has been a joyful journey filled with wonderful stories, generous collaborators, and audiences who have welcomed me into their lives. I'm grateful for every opportunity to create, to make people laugh, and to keep learning along the way. One of the most meaningful parts of my life has been founding MindUP and helping children understand their brains, build mental fitness, and thrive.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.7075,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.772,
+ "similarity": 0.9414,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,118 @@
+{
+ "id": "b6fc71f7104a9084-7ae84e5b-c10a942f",
+ "url": "https://www.npr.org/2026/10/30/nx-s1-6020514/florida-sees-spike-in-dengue-fever-cases",
+ "domain": "www.npr.org",
+ "source": "NPR Health",
+ "country": "United States",
+ "category": "health",
+ "lang": "en",
+ "detected_at": "2026-10-31T12:16:57Z",
+ "date": "2026-10-31",
+ "old_title": "Florida sees spike in dengue fever cases",
+ "new_title": "Florida sees spike in dengue fever cases",
+ "old_text": "Florida sees spike in dengue fever casesFlorida is seeing a record number of dengue fever cases this year as the tropical disease thrives in warming climates.\nFlorida is seeing a record number of dengue fever cases this year as the tropical disease thrives in warming climates.\nNPR does not offer or accept money for coverage or interviews.\nAnyone who makes such an offer or request is not an NPR employee and does not represent NPR.",
+ "new_text": "Florida sees spike in dengue fever cases\nFlorida is seeing a record number of dengue fever cases this year as the tropical disease thrives in warming climates.\nSTEVE INSKEEP, HOST:\nSome other news now. Florida has the largest outbreak of locally acquired dengue in the continental U.S. in nearly a century. It's linked to the death of an elderly woman, and it is spreading. Here's Jessica Meszaros with our member station WUSF.\nJESSICA MESZAROS, BYLINE: Infected mosquitoes spread dengue to people. Symptoms include high fever, headache and body pain, which is how it got the nickname break-bone fever. People typically contract it while traveling through a continent where the virus is always present, like South America, Asia or Africa. But this year, folks who got infected during their worldly adventures brought it back to the U.S., passing it on to the mosquitoes here. Now over 400 local cases have been reported in the U.S. so far, almost entirely in Florida.\nEVA BUCKNER: I have not seen anything like this. It is very much unprecedented.\nMESZAROS: Eva Buckner is an insect scientist at the University of Florida. She says one factor in this spread is dengue has been recently really active globally.\nBUCKNER: Which allows multiple travel cases to occur in Florida.\nMESZAROS: Plus, the state already has the type of mosquito that can carry dengue - Aedes aegypti. And then there was a long drought this year.\nBUCKNER: Aedes aegypti has drought-resistant eggs, and so it allowed some of the eggs to build up in the environment.\nMESZAROS: So when it finally rained in June, all those eggs hatched simultaneously - just in time for a hot, humid summer, which these mosquitoes thrive in. In Tampa, cases spiked because the area wasn't prepared to fight this tropical disease like they already do in more southern Florida counties. Erin Mordecai is an infectious disease researcher at Stanford University. She co-authored a study published last year that found a warming climate can increase the number of dengue transmissions.\nERIN MORDECAI: We estimate that about 18% of the global dengue burden is attributable to climate change that had already happened by 1995 to 2014, so not even including the last decade of warming.\nMESZAROS: Climate change increases the chance of temperatures reaching 84 degrees in more places, which is optimal for dengue transmissions. This analysis was done on 21 countries in Latin America and Asia. But Mordecai says they're currently studying the U.S. For now, the good news is weekly cases of dengue are slowing down a bit in Florida as the state welcomes cooler, drier air.\nFor NPR News, I'm Jessica Meszaros in Tampa, Florida.\n(SOUNDBITE OF BRANT BJORK'S \"WAITING FOR A COCONUT TO DROP\")\nCopyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.\nAccuracy and availability of transcripts for NPR programming may vary. Transcript text may also be revised to correct errors or match updates to audio. Audio may be edited after its original broadcast or publication. The authoritative record of NPR's programming is the audio record.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Florida sees spike in dengue fever"
+    ],
+    [
+     "del",
+     "casesFlorida is seeing a record number of dengue fever"
+    ],
+    [
+     "eq",
+     "cases"
+    ],
+    [
+     "del",
+     "this year as the tropical disease thrives in warming climates."
+    ],
+    [
+     "eq",
+     "Florida is seeing a record number of dengue fever cases this year as the tropical disease thrives in warming climates."
+    ],
+    [
+     "ins",
+     "STEVE INSKEEP, HOST: Some other news now. Florida has the largest outbreak of locally acquired dengue in the continental U.S. in nearly a century. It's linked to the death of an elderly woman, and it is spreading. Here's Jessica Meszaros with our member station WUSF. JESSICA MESZAROS, BYLINE: Infected mosquitoes spread dengue to people. Symptoms include high fever, headache and body pain, which is how it got the nickname break-bone fever. People typically contract it while traveling through a continent where the virus is always present, like South America, Asia or Africa. But this year, folks who got infected during their worldly adventures brought it back to the U.S., passing it on to the mosquitoes here. Now over 400 local cases have been reported in the U.S. so far, almost entirely in Florida. EVA BUCKNER: I have not seen anything like this. It is very much unprecedented. MESZAROS: Eva Buckner is an insect scientist at the University of Florida. She says one factor in this spread is dengue has been recently really active globally. BUCKNER: Which allows multiple travel cases to occur in Florida. MESZAROS: Plus, the state already has the type of mosquito that can carry dengue - Aedes aegypti. And then there was a long drought this year. BUCKNER: Aedes aegypti has drought-resistant eggs, and so it allowed some of the eggs to build up in the environment. MESZAROS: So when it finally rained in June, all those eggs hatched simultaneously - just in time for a hot, humid summer, which these mosquitoes thrive in. In Tampa, cases spiked because the area wasn't prepared to fight this tropical disease like they already do in more southern Florida counties. Erin Mordecai is an infectious disease researcher at Stanford University. She co-authored a study published last year that found a warming climate can increase the number of dengue transmissions. ERIN MORDECAI: We estimate that about 18% of the global dengue burden is attributable to climate change that had already happened by 1995 to 2014, so not even including the last decade of warming. MESZAROS: Climate change increases the chance of temperatures reaching 84 degrees in more places, which is optimal for dengue transmissions. This analysis was done on 21 countries in Latin America and Asia. But Mordecai says they're currently studying the U.S. For now, the good news is weekly cases of dengue are slowing down a bit in Florida as the state welcomes cooler, drier air. For"
+    ],
+    [
+     "eq",
+     "NPR"
+    ],
+    [
+     "del",
+     "does not offer"
+    ],
+    [
+     "ins",
+     "News, I'm Jessica Meszaros in Tampa, Florida. (SOUNDBITE OF BRANT BJORK'S \"WAITING FOR A COCONUT TO DROP\") Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information. Accuracy and availability of transcripts for NPR programming may vary. Transcript text may also be revised to correct errors"
+    ],
+    [
+     "eq",
+     "or"
+    ],
+    [
+     "del",
+     "accept money for coverage"
+    ],
+    [
+     "ins",
+     "match updates to audio. Audio may be edited after its original broadcast"
+    ],
+    [
+     "eq",
+     "or"
+    ],
+    [
+     "del",
+     "interviews. Anyone who makes such an offer or request"
+    ],
+    [
+     "ins",
+     "publication. The authoritative record of NPR's programming"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "del",
+     "not an NPR employee and does not represent NPR."
+    ],
+    [
+     "ins",
+     "the audio record."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 7.08,
+  "numbers_changed": [
+   "18",
+   "1995",
+   "2014",
+   "2026",
+   "21",
+   "400",
+   "84"
+  ],
+  "market_figures_changed": [
+   "18%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.9,
+ "similarity": 0.7554,
+ "adjudicated_by": "rules"
+}

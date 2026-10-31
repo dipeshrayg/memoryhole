@@ -1,0 +1,72 @@
+{
+ "id": "e5411e06f49b5cc7-6148664b-967e56dc",
+ "url": "https://www.theguardian.com/football/2026/oct/30/fifa-miss-equal-womens-world-cup-prize-money-ambition-gianni-infantino",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-10-31T12:15:16Z",
+ "date": "2026-10-31",
+ "old_title": "Fifa to miss equal Women's World Cup prize money ambition set by Infantino",
+ "new_title": "Fifa to miss equal Women's World Cup prize money ambition set by Infantino",
+ "old_text": "Fifa is to fall short of gender equality with the prize money on offer at next year's Women's World Cup, despite making a record $15bn (£11.2bn) in revenue from this summer's men's tournament.\nGianni Infantino, the Fifa president, said in 2023 that the organisation's ambitionwas to have equality for the prize pot for 2027, saying: \"Fifa is stepping up with actions, not just with words.\" There had, therefore, been widespread hope across the women's game that 2027's prize pot would match the men's on at least a per-team basis.\nThere were 48 teams at the men's event and 32 women's teams will participate in Brazil next summer, so a women's pot two-thirds the size of the men's $655m would have been regarded as parity, but it is understood the women's prize money will be about a third of the men's.\nThat does mark a substantial increase. Some sources with knowledge of the extensive negotiations that have taken place in recent weeks are privately praising the rise, but one senior female source described the news as a \"huge missed open goal\" by Fifa. No decision is expected to be confirmed until December's Fifa council meeting.\nSky News, which revealed that Fifa would not match the men's prize fund, has reported that the women's pot is being targeted to double from $110m in 2023 to $220m, which would be a more than seven-fold increase on the 2019 women's finals in France. Fifa prize money to the men's teams this year included $50m for the winners, Spain.\nSenior Fifa officials are understood to have spoken to some leading female players to outline its wider investments in the women's game and explain the decision, which is believed to be related to the commercial income the 2027 event will generate.\nInfantino has previously criticised broadcasters for not paying more for the televisions rights for the women's tournament, which in 2023 reached 933 million viewers on linear television and 895 million on streaming platforms, according to Fifa. The final between England and Spain in Sydney had a global live audience of 67 million and reached 222 million people overall, Fifa said.\nFifa did not comment when contacted by the Guardian but sources at the governing body said there would be further enhancements to the women's club benefits programme and additional money ringfenced for the players who take part in the tournament.\nIt was confirmed this month that 2027's Women's World Cup teams will receive the same preparation money from Fifa as those who played at the men's tournament. The preparation money has been more than doubled to $2.5m each.\nEvery player will be guaranteed business class or chartered flights, and their own hotel room rather than having to share, which Fifa says brings the provisions in line with the men's World Cup.",
+ "new_text": "Fifa is to fall short of gender equality with the prize money on offer at next year's Women's World Cup, despite making a record $15bn (£11.2bn) in revenue from this summer's men's tournament.\nGianni Infantino, the Fifa president, said in 2023 that the organisation's ambition was to have equality for the prize pot for 2027, saying: \"Fifa is stepping up with actions, not just with words.\" There had, therefore, been widespread hope across the women's game that 2027's prize pot would match the men's on at least a per-team basis.\nThere were 48 teams at the men's event and 32 women's teams will participate in Brazil next summer, so a women's pot two-thirds the size of the men's $655m would have been regarded as parity, but it is understood the women's prize money will be about a third of the men's.\nThat does mark a substantial increase. Some sources with knowledge of the extensive negotiations that have taken place in recent weeks are privately praising the rise, but one senior female source described the news as a \"huge missed open goal\" by Fifa. No decision is expected to be confirmed until December's Fifa council meeting.\nSky News, which revealed that Fifa would not match the men's prize fund, has reported that the women's pot is being targeted to double from $110m in 2023 to $220m, which would be a more than seven-fold increase on the 2019 women's finals in France. Fifa prize money to the men's teams this year included $50m for the winners, Spain.\nSenior Fifa officials are understood to have spoken to some leading female players to outline its wider investments in the women's game and explain the decision, which is believed to be related to the commercial income the 2027 event will generate.\nInfantino has previously criticised broadcasters for not paying more for the television rights for the women's tournament, which in 2023 reached 933 million viewers on linear television and 895 million on streaming platforms, according to Fifa. The final between England and Spain in Sydney had a global live audience of 67 million and reached 222 million people overall, Fifa said.\nFifa did not comment when contacted by the Guardian but sources at the governing body said there would be further enhancements to the women's club benefits programme and additional money ringfenced for the players who take part in the tournament.\nIt was confirmed this month that 2027's Women's World Cup teams will receive the same preparation money from Fifa as those who played at the men's tournament. The preparation money has been more than doubled to $2.5m each.\nEvery player will be guaranteed business class or chartered flights, and their own hotel room rather than having to share, which Fifa says brings the provisions in line with the men's World Cup.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "tournament. Gianni Infantino, the Fifa president, said in 2023 that the organisation's"
+    ],
+    [
+     "del",
+     "ambitionwas"
+    ],
+    [
+     "ins",
+     "ambition was"
+    ],
+    [
+     "eq",
+     "to have equality for the prize pot for 2027, saying: \"Fifa is"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "generate. Infantino has previously criticised broadcasters for not paying more for the"
+    ],
+    [
+     "del",
+     "televisions"
+    ],
+    [
+     "ins",
+     "television"
+    ],
+    [
+     "eq",
+     "rights for the women's tournament, which in 2023 reached 933 million viewers"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0107,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9999,
+ "adjudicated_by": "rules"
+}

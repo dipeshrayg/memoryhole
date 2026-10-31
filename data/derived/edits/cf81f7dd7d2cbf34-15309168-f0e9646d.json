@@ -1,0 +1,152 @@
+{
+ "id": "cf81f7dd7d2cbf34-15309168-f0e9646d",
+ "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-10-31T12:12:34Z",
+ "date": "2026-10-31",
+ "old_title": "Uttarakhand's Joshimath: Rescue operations on after Indian helicopter crashes in Himalayan state",
+ "new_title": "Uttarakhand's Joshimath: Six dead after helicopter crashes in northern Indian state",
+ "old_text": "- Published\nA search for survivors is under way after a helicopter carrying six people, including five pilgrims, crashed in the northern Indian state of Uttarakhand, officials say.\nUttarakhand's Chief Minister Pushkar Singh Dhami said the helicopter had crashed near a village close to Joshimath in Chamoli district. Rescue teams have been dispatched to the mountainous area, but the condition of those on board remains unclear.\nThe aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.\nThe cause of the crash is also not yet known. The incident happened amid reports of heavy rain and poor visibility in the region.\nUttarakhand, a Himalayan state which borders China and Nepal, is home to some of Hinduism's holiest shrines and attracts millions of pilgrims every year.\nBadrinath is one of four sacred sites on the Char Dham pilgrimage circuit, alongside Kedarnath, Gangotri and Yamunotri. Many devotees travel through steep Himalayan valleys to reach the temples, which are open for only part of the year because of harsh winter conditions.\nHelicopter services have become increasingly popular among pilgrims seeking to avoid difficult mountain journeys, but their safety has come under scrutiny following a series of accidents.\nFriday's incident happened amid heavy rain in the region. India's weather department had issued an orange alert for the area, warning of thunderstorms, hail and strong winds.\nDhami said, external a joint rescue operation was under way involving the district administration, disaster management department and State Disaster Response Force.\n\"I am continuously monitoring the entire incident,\" he added.\nDhami also said he had ordered that anyone seriously injured be airlifted for treatment.\nIn June 2025, seven people were killed when a helicopter carrying pilgrims crashed near Kedarnath. Another seven died in a crash on the same pilgrimage route in October 2022.\nSeveral other helicopter accidents were reported during the 2025 pilgrimage season, prompting aviation authorities to tighten safety checks and restrict some operations.",
+ "new_text": "- Published\nFive pilgrims and a pilot have died after their helicopter crashed in the northern Indian state of Uttarakhand, officials say.\nThe aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.\nThe cause of the crash is not yet known but there had been reports of heavy rain and poor visibility in the region.\nUttarakhand, a Himalayan state which borders China and Nepal, is home to some of Hinduism's holiest shrines and attracts millions of pilgrims every year.\nBadrinath is one of four sacred sites on the Char Dham pilgrimage circuit, alongside Kedarnath, Gangotri and Yamunotri. Many devotees travel through steep Himalayan valleys to reach the temples, which are open for only part of the year because of harsh winter conditions.\nUttarakhand's Chief Minister Pushkar Singh Dhami said the helicopter came down near a village close to Joshimath in Chamoli district.\nThe local civil aviation authority later confirmed to Indian media that six bodies had been located.\nHelicopter services have become increasingly popular among pilgrims seeking to avoid difficult mountain journeys, but their safety has come under scrutiny following a series of accidents.\nBefore Friday's crash, India's weather department had issued an orange alert for the area, warning of thunderstorms, hail and strong winds.\nIn June 2025, seven people were killed when a helicopter carrying pilgrims crashed near Kedarnath. Another seven died in a crash on the same pilgrimage route in October 2022.\nSeveral other helicopter accidents were reported during the 2025 pilgrimage season, prompting aviation authorities to tighten safety checks and restrict some operations.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "A search for survivors is under way"
+    ],
+    [
+     "ins",
+     "Five pilgrims and a pilot have died"
+    ],
+    [
+     "eq",
+     "after"
+    ],
+    [
+     "del",
+     "a"
+    ],
+    [
+     "ins",
+     "their"
+    ],
+    [
+     "eq",
+     "helicopter"
+    ],
+    [
+     "del",
+     "carrying six people, including five pilgrims,"
+    ],
+    [
+     "eq",
+     "crashed in the northern Indian state of Uttarakhand, officials say."
+    ],
+    [
+     "del",
+     "Uttarakhand's Chief Minister Pushkar Singh Dhami said the helicopter had crashed near a village close to Joshimath in Chamoli district. Rescue teams have been dispatched to the mountainous area, but the condition of those on board remains unclear."
+    ],
+    [
+     "eq",
+     "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact. The cause of the crash is"
+    ],
+    [
+     "del",
+     "also"
+    ],
+    [
+     "eq",
+     "not yet"
+    ],
+    [
+     "del",
+     "known. The incident happened amid"
+    ],
+    [
+     "ins",
+     "known but there had been"
+    ],
+    [
+     "eq",
+     "reports of heavy rain and poor visibility in the region. Uttarakhand, a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "open for only part of the year because of harsh winter conditions."
+    ],
+    [
+     "ins",
+     "Uttarakhand's Chief Minister Pushkar Singh Dhami said the helicopter came down near a village close to Joshimath in Chamoli district. The local civil aviation authority later confirmed to Indian media that six bodies had been located."
+    ],
+    [
+     "eq",
+     "Helicopter services have become increasingly popular among pilgrims seeking to avoid difficult"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "but their safety has come under scrutiny following a series of accidents."
+    ],
+    [
+     "ins",
+     "Before"
+    ],
+    [
+     "eq",
+     "Friday's"
+    ],
+    [
+     "del",
+     "incident happened amid heavy rain in the region."
+    ],
+    [
+     "ins",
+     "crash,"
+    ],
+    [
+     "eq",
+     "India's weather department had issued an orange alert for the area, warning of thunderstorms, hail and strong winds."
+    ],
+    [
+     "del",
+     "Dhami said, external a joint rescue operation was under way involving the district administration, disaster management department and State Disaster Response Force. \"I am continuously monitoring the entire incident,\" he added. Dhami also said he had ordered that anyone seriously injured be airlifted for treatment."
+    ],
+    [
+     "eq",
+     "In June 2025, seven people were killed when a helicopter carrying pilgrims"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 1,
+  "blocks_added": 1,
+  "blocks_removed": 2,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.155,
+ "similarity": 0.9608,
+ "adjudicated_by": "rules"
+}

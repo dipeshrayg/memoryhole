@@ -1,0 +1,76 @@
+{
+ "id": "be1f625b03e4dfea-0af6cde1-003414cb",
+ "url": "https://www.aljazeera.com/news/2026/10/30/russia-forces-closure-of-investigative-newspaper-novaya-gazeta?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-31T12:00:27Z",
+ "date": "2026-10-31",
+ "old_title": "Russia 'forces' closure of investigative newspaper Novaya Gazeta",
+ "new_title": "Russia 'forces' closure of investigative newspaper Novaya Gazeta",
+ "old_text": "Russian newspaper Novaya Gazeta has announced it will shut down, citing pressure from the authorities.\nThe independent outlet's editorial board said in a statement released on Friday that the newspaper has been forced to end its operations.\nThe Russian media has come under increased scrutiny from the state amid Moscow's war on Ukraine. The authorities recently searched the home of Novaya Gazeta's senior editor and arrested the editor-in-chief.\n\"The newspaper is gone. The Russian authorities and ... intelligence services forced the editorial staff to cease operations,\" the editorial board said in the statement, which was entitled: \"We were killed.\"\nViewed as a relative bastion of independent journalism in Russia, Novaya Gazeta has been classed as a \"foreign agent\" by Moscow, a label used to stifle dissent.\n\"Novaya Gazeta is ceasing to exist,\" editor-in-chief Sergei Sokolov said in a video statement published on YouTube. \"On November 9 we will turn off the lights in our home, where we have lived for 30 years. We will shut down the servers and leave.\"\nEarlier this month, Sokolov was taken in for questioning as Russian authorities searched his home due, they said, to a link to a criminal case involving his colleague Oleg Roldugin.\nRoldugin was arrested in April and charged with \"unlawful access to computerised information\".\n\"How far will the Kremlin's relentless campaign against Novaya Gazeta go?\" asked media watchdog Reporters Without Borders in a statement after Sokolov was arrested on October 15.\n\"Six of its journalists and staff members have been murdered, its newsroom has been raided, its journalists have been prosecuted, and the publication has been designated a 'foreign agent',\" the press freedom organisation noted.\nThe forced closure of Novaya Gazeta marks another escalation in Russia's crackdown on press freedom, with few independent media outlets or journalists left in the country, as censorship levels and arrests of regime critics have skyrocketed since it launched its invasion of Ukraine in February 2022.\nThe newspaper had already trimmed production inside Russia after Moscow invaded Ukraine, as authorities revoked its media licence.\nThe paper's then editor-in-chief, Dmitry Muratov, jointly won the Nobel Peace Prize in 2021 for his \"efforts to safeguard freedom of expression\" at the helm of the paper.",
+ "new_text": "Russian newspaper Novaya Gazeta has announced it will shut down, citing pressure from the authorities.\nThe independent outlet's editorial board said in a statement released on Friday that the newspaper has been forced to end its operations.\nThe Russian media has come under increased scrutiny from the state amid Moscow's war on Ukraine. The authorities recently searched the home of Novaya Gazeta's senior editor and arrested the editor-in-chief.\n\"The newspaper is gone. The Russian authorities and ... intelligence services forced the editorial staff to cease operations,\" the editorial board said in the statement, which was entitled: \"We were killed.\"\nViewed as a relative bastion of independent journalism in Russia, Novaya Gazeta has been classed as a \"foreign agent\" by Moscow, a label used to stifle dissent.\n\"Novaya Gazeta is ceasing to exist,\" editor-in-chief Sergei Sokolov said in a video statement published on YouTube. \"On November 9 we will turn off the lights in our home, where we have lived for 30 years. We will shut down the servers and leave.\"\nEarlier this month, Sokolov was taken in for questioning as Russian authorities searched his home due, they said, to a link to a criminal case involving his colleague Oleg Roldugin.\nRoldugin was arrested in April and charged with \"unlawful access to computerised information\".\n\"How far will the Kremlin's relentless campaign against Novaya Gazeta go?\" asked media watchdog Reporters Without Borders in a statement after Sokolov was arrested on October 15.\n\"Six of its journalists and staff members have been murdered, its newsroom has been raided, its journalists have been prosecuted, and the publication has been designated a 'foreign agent',\" the press freedom organisation noted.\nThe United Nations High Commissioner for Human Rights, Volker Turk, said he was \"deeply concerned and saddened\" by the closure, describing it as another \"devastating blow\" for remaining independent media in Russia.\nTurk said pressure on independent journalism had intensified significantly since Russia's full-scale invasion of Ukraine, through increasingly restrictive legislation, tighter state controls and the persecution of journalists.\nHe noted that his office has repeatedly raised concerns about the wider media clampdown, including the \"foreign agent\" law and its effect on civil and political rights.\nThe forced closure of Novaya Gazeta marks another escalation in Russia's crackdown on press freedom, with few independent media outlets or journalists left in the country, as censorship levels and arrests of regime critics have skyrocketed since it launched the Ukraine war in February 2022.\nThe newspaper had already trimmed production inside Russia after Moscow invaded Ukraine, as authorities revoked its media licence.\nThe paper's then editor-in-chief, Dmitry Muratov, jointly won the Nobel Peace Prize in 2021 for his \"efforts to safeguard freedom of expression\" at the helm of the paper.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "has been designated a 'foreign agent',\" the press freedom organisation noted. The"
+    ],
+    [
+     "ins",
+     "United Nations High Commissioner for Human Rights, Volker Turk, said he was \"deeply concerned and saddened\" by the closure, describing it as another \"devastating blow\" for remaining independent media in Russia. Turk said pressure on independent journalism had intensified significantly since Russia's full-scale invasion of Ukraine, through increasingly restrictive legislation, tighter state controls and the persecution of journalists. He noted that his office has repeatedly raised concerns about the wider media clampdown, including the \"foreign agent\" law and its effect on civil and political rights. The"
+    ],
+    [
+     "eq",
+     "forced closure of Novaya Gazeta marks another escalation in Russia's crackdown on"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "censorship levels and arrests of regime critics have skyrocketed since it launched"
+    ],
+    [
+     "del",
+     "its invasion of"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "Ukraine"
+    ],
+    [
+     "ins",
+     "war"
+    ],
+    [
+     "eq",
+     "in February 2022. The newspaper had already trimmed production inside Russia after"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2486,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

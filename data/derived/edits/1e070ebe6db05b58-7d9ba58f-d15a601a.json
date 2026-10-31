@@ -1,0 +1,71 @@
+{
+ "id": "1e070ebe6db05b58-7d9ba58f-d15a601a",
+ "url": "https://www.abc.net.au/news/2026-10-28/we-havent-got-it-right-collingwood-to-review-aflw/107320818",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-10-31T12:03:05Z",
+ "date": "2026-10-31",
+ "old_title": "'We haven't got it right': Collingwood to review AFLW",
+ "new_title": "'We haven't got it right': Collingwood to review AFLW",
+ "old_text": "Fri, 23 Oct, 7:15 pm, Final score, Power 52, Magpies 4\nCollingwood confirms strategic review of AFLW program amid upheaval at club\nIn short:\nCollingwood has announced a review of its struggling AFLW program, saying it remains committed to ensuring the club is ready for success.\nThe Magpies have won just one game this season, and coach Sam Wright and captain Ruby Schleicher will leave after the final match of the year.\nWhat's next?\nCollingwood will finish its season against Essendon on Sunday.",
+ "new_text": "Fri, 30 Oct, 7:15 pm, Final score, Cats 88, Bulldogs 20\nCollingwood confirms strategic review of AFLW program amid upheaval at club\nIn short:\nCollingwood has announced a review of its struggling AFLW program, saying it remains committed to ensuring the club is ready for success.\nThe Magpies have won just one game this season, and coach Sam Wright and captain Ruby Schleicher will leave after the final match of the year.\nWhat's next?\nCollingwood will finish its season against Essendon on Sunday.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Fri,"
+    ],
+    [
+     "del",
+     "23"
+    ],
+    [
+     "ins",
+     "30"
+    ],
+    [
+     "eq",
+     "Oct, 7:15 pm, Final score,"
+    ],
+    [
+     "del",
+     "Power 52, Magpies 4"
+    ],
+    [
+     "ins",
+     "Cats 88, Bulldogs 20"
+    ],
+    [
+     "eq",
+     "Collingwood confirms strategic review of AFLW program amid upheaval at club In"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1205,
+  "numbers_changed": [
+   "20",
+   "23",
+   "30",
+   "4",
+   "52",
+   "88"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9896,
+ "adjudicated_by": "rules"
+}

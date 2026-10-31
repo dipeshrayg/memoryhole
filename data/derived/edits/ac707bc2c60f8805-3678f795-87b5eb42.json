@@ -1,0 +1,48 @@
+{
+ "id": "ac707bc2c60f8805-3678f795-87b5eb42",
+ "url": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-10-31T12:18:28Z",
+ "date": "2026-10-31",
+ "old_title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
+ "new_title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
+ "old_text": "In 2015, biomedical entrepreneur Elizabeth Holmes was Silicon Valley's golden girl, lauded as the youngest and richest self-made female billionaire thanks to the company she founded, Theranos, which was valued at $9 billion at the height of its success. Then it all came crashing down when accusations of fraud surfaced about the company's signature blood-testing device, culminating in a sensational trial. Holmes was convicted on four counts and sentenced to 11 years in prison.\nHolmes is back in the headlines thanks to a new film, You Can See Everything, which depicts the final days before Holmes, having exhausted her appeals, went to prison. Co-directed by Nathan Fielder and Lance Oppenheim, it's a surreal, absurdist piece that has largely been received with gushing enthusiasm and no small amount of hype, with some declaring it the best film of the year. A few contrarian voices have emerged over the past week with much-needed reality checks, but there's no denying the film is destined to be an awards-season darling.\nPardon me for joining the buzzkills, but I cannot in good conscience jump on the You Can See Everything bandwagon. Sure, it has its moments, and the second half is highly entertaining, but there's nothing here to warrant all the breathless hyperbole. For all their much-touted access, Oppenheim and Fielder have produced a surprisingly shallow film that runs in circles, yielding very little fresh or novel insight-into Holmes, personally, or much else.\nI get that manufacturing ambiguity is the much-ballyhooed point. I get that much of the film's appeal lies in how much fun people have afterward vigorously debating their interpretations of key scenes. But there's no real mystery here. Holmes is still spouting all the same talking points and self-justifications, still playing the victim, dodging accountability, and affixing blame on anyone except herself, just as she did all the way through her trial. The only mystery is why a convicted fraudster is still deemed worthy of our attention.",
+ "new_text": "In 2015, biomedical entrepreneur Elizabeth Holmes was Silicon Valley's golden girl, lauded as the youngest and richest self-made female billionaire thanks to the company she founded, Theranos, which was valued at $9 billion at the height of its success. Then it all came crashing down when accusations of fraud surfaced about the company's signature blood-testing device, culminating in a sensational trial. Holmes was convicted on four counts and sentenced to 11 years in prison.\nHolmes is back in the headlines thanks to a new film, You Can See Everything, which depicts the final days before Holmes, having exhausted her appeals, went to prison. Co-directed by Nathan Fielder and Lance Oppenheim, it's a surreal, absurdist piece that has largely been received with gushing enthusiasm and no small amount of hype, with some declaring it the best film of the year. A few contrarian voices have emerged over the past week with much-needed reality checks, but there's no denying the film is destined to be an awards-season darling.\nPardon me for joining the buzzkills, but I cannot in good conscience jump on the You Can See Everything bandwagon. Sure, it has its moments, and the second half is highly entertaining, but there's nothing here to warrant all the breathless hyperbole. For all their much-touted access, Oppenheim and Fielder have produced a surprisingly shallow film that runs in circles, yielding very little fresh or novel insight-into Holmes, personally, or much else.\nI get that manufacturing ambiguity is the much-ballyhooed point. I get that much of the film's appeal lies in how much fun people have afterward vigorously debating their interpretations of key scenes. (Perhaps the film should have been titled You Can See Whatever You Want to See.) But there's no real mystery here. Holmes is still spouting all the same talking points and self-justifications, still playing the victim, dodging accountability, and affixing blame on anyone except herself, just as she did all the way through her trial. The only mystery is why a convicted fraudster is still deemed worthy of our attention.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "much fun people have afterward vigorously debating their interpretations of key scenes."
+    ],
+    [
+     "ins",
+     "(Perhaps the film should have been titled You Can See Whatever You Want to See.)"
+    ],
+    [
+     "eq",
+     "But there's no real mystery here. Holmes is still spouting all the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0462,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

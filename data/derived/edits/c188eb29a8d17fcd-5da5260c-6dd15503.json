@@ -1,0 +1,48 @@
+{
+ "id": "c188eb29a8d17fcd-5da5260c-6dd15503",
+ "url": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-10-31T12:12:38Z",
+ "date": "2026-10-31",
+ "old_title": "AI makes Britain's largest woodland bat survey possible, scientists say",
+ "new_title": "AI makes Britain's largest woodland bat survey possible, scientists say",
+ "old_text": "- Published\nBritain's largest ever woodland survey of bats would \"simply not have been feasible\" without AI, scientists say.\nResearchers left devices on poles among the trees of 310 woodlands across Britain, recording 98 million bat calls over three years, which would have taken more than 30 years to analyse without AI.\nSome of Britain's rarest and most threatened bats, including the red-listed Barbastelle, have been recorded in the south-west of England, including Somerset, Devon, Cornwall and Dorset.\nKate Jones, from University College London, said: \"AI has fundamentally changed the scale at which we can monitor wildlife.\" She added the survey was a \"nice story of AI for good\".\nMore from Somerset\nJones added: \"Previously, analysing this volume of acoustic data would simply not have been feasible.\n\"These efficient open-source AI tools allow us to identify millions of bat calls across thousands of nights of recordings, identify patterns and flag species at a national scale.\"\nThe Barbastelle roams ancient forests but its elusive nature has made it challenging to track.\nHotspots of Barbastelle activity detected in the survey were concentrated across the South West.\nLia Gilmour, of the Bat Conservation Trust, which was involved in the survey alongside Forest Research, said the project was \"unprecedented\".\n\"We're getting some really good bat activity in the south-west area of Somerset,\" Gilmour said.\n\"Somerset is generally a really good stronghold for the bat species we have across the UK.\n\"It's been quite exciting some of the rarest species popping up in Somerset as part of the survey.\n\"In biodiversity monitoring, we view AI as a powerful tool,\" Gilmour added.\n\"We were looking at huge volumes of data and 90,000 hours of recording, there was no way we would be able to do this manually.\"",
+ "new_text": "- Published\nBritain's largest ever woodland survey of bats would \"simply not have been feasible\" without AI, scientists say.\nResearchers left devices on poles among the trees of 310 woodlands across Britain, recording 98 million bat calls over three years, which would have taken more than 30 years to analyse without AI.\nSome of Britain's rarest and most threatened bats, including the red-listed Barbastelle, have been recorded in the south-west of England, including Somerset, Devon, Cornwall and Dorset.\nKate Jones, from University College London, said: \"AI has fundamentally changed the scale at which we can monitor wildlife.\" She added the survey was a \"nice story of AI for good\".\nMore from Somerset\nAllow YouTube content?\nThis article contains content provided by Google YouTube. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Googleâs cookie policy, external and privacy policy, external before accepting. To view this content choose âaccept and continueâ.\nJones added: \"Previously, analysing this volume of acoustic data would simply not have been feasible.\n\"These efficient open-source AI tools allow us to identify millions of bat calls across thousands of nights of recordings, identify patterns and flag species at a national scale.\"\nThe Barbastelle roams ancient forests but its elusive nature has made it challenging to track.\nHotspots of Barbastelle activity detected in the survey were concentrated across the South West.\nLia Gilmour, of the Bat Conservation Trust, which was involved in the survey alongside Forest Research, said the project was \"unprecedented\".\n\"We're getting some really good bat activity in the south-west area of Somerset,\" Gilmour said.\n\"Somerset is generally a really good stronghold for the bat species we have across the UK.\n\"It's been quite exciting some of the rarest species popping up in Somerset as part of the survey.\n\"In biodiversity monitoring, we view AI as a powerful tool,\" Gilmour added.\n\"We were looking at huge volumes of data and 90,000 hours of recording, there was no way we would be able to do this manually.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "survey was a \"nice story of AI for good\". More from Somerset"
+    ],
+    [
+     "ins",
+     "Allow YouTube content? This article contains content provided by Google YouTube. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Googleâs cookie policy, external and privacy policy, external before accepting. To view this content choose âaccept and continueâ."
+    ],
+    [
+     "eq",
+     "Jones added: \"Previously, analysing this volume of acoustic data would simply not"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1787,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.753,
+ "similarity": 0.9195,
+ "adjudicated_by": "rules"
+}
