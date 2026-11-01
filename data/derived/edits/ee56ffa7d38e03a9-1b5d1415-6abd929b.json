@@ -1,0 +1,158 @@
+{
+ "id": "ee56ffa7d38e03a9-1b5d1415-6abd929b",
+ "url": "https://www.bbc.co.uk/weather/articles/c6ly075l742ro?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-11-01T13:07:54Z",
+ "date": "2026-11-01",
+ "old_title": "UK weather: hazardous driving conditions as fog warning issued by Met Office",
+ "new_title": "Dry weather for next ten days for most of UK",
+ "old_text": "- Published\nThick fog has formed on Friday morning across parts of the United Kingdom which could lead to hazardous driving conditions.\nThe Met Office has issued a yellow severe weather warning for fog from Lincolnshire, the East Midlands, the Home Counties into parts of Greater London.\nFog will be dense in places with visibility below 100 metres at times and it will be most extensive and disruptive during the morning rush hour.\nIt will slowly begin to thin, lift and clear later this morning but in some rural spots in eastern England it may not clear until this afternoon.\nThe weekend forecast\nEarly morning mist and fog patches on Saturday may lift into low cloud, which could hang around all day.\nSome areas will fare better with some spells of sunshine with many areas staying dry.\nThe exception to this theme will be north-west Scotland, where a weak weather front will bring thicker cloud and rain for a time.\nTemperatures will be close to average and will be overall, similar to recent days.\nBy Sunday this dying weather front will bring some thicker cloud to Wales and central England threatening a few patches of light rain or drizzle, but not much.\nThe rest of the UK will have a dry day on Sunday with variable cloud and some spells of sunshine at times.\nWhen will we see Storm Chloe?\nHigh pressure has been building and is set to dominate across the UK in the coming days.\nThis is in stark contrast to last week which saw areas buffeted by a cluster of storms developed by a powerful Atlantic jet stream.\nThe jet stream, still running close to the UK, with the building area of high pressure bringing us much quieter weather.\nWhilst Storms Austen and Boelo provided some short-term hydrological benefit, 82% of England remains in drought status according to the Environment Agency.\nThe area of high pressure will stay over or close to the UK for at least ten days as a result of a 'diffluent blocking pattern' forming in the Atlantic jet stream across the UK and western Europe, which will prevent weather systems reaching our shores.\nIt means we are heading into a long stretch of mostly dry weather. There could still be some patches of low cloud and drizzle associated with early morning mist and fog, however, rainfall amounts will be negligible.\nWith no storms on the horizon any time soon, it is likely to be a while before we see the arrival of Chloe, the next name on this year's storm list.\nIn the short-term this lack of rainfall will raise concerns about the drought and low water levels in England's reservoirs.\nFollowing the latest meeting of the National Drought Group, water companies are being urged to speed up the fixing of leaks and members of the public to take shorter showers and turn off the tap when brushing their teeth.\nThe Environment Agency (EA) says that 20% more rain than average is needed over the next six months, external for the drought to end.\nPhilip Duffy, Chief Executive of the Environment Agency, said: \"The recent rain is welcome, but the drought isn't over. A few wet days cannot reverse months of hot, dry weather.\n\"Our rivers, reservoirs and groundwater need sustained rainfall to recover, and the effects on nature can last much longer.\"\nEl NiÃ±o has been linked to wetter and stormier weather in late autumn and early winter. The current three month outlook from the Met Office forecasts that there is double the chance of it being wetter than normal.",
+ "new_text": "- Published\nThis weekend will see dry conditions become established across most of the UK with recurring mist and fog at times.\nThis is in stark contrast to last week which saw areas buffeted by a cluster of storms developed by a powerful Atlantic jet stream.\nThe jet stream, still running close to the UK, will now develop an area of high pressure bringing us much quieter weather.\nAn earlier Met Office fog warning for eastern central England has now been lifted.\nThe weekend forecast\nEarly morning mist and fog patches on Saturday may lift into low cloud, which could hang around all day.\nSome areas will fare better with some spells of sunshine with many areas staying dry.\nThe exception to this theme will be north-west Scotland, where a weak weather front will bring thicker cloud and rain for a time.\nTemperatures will be close to average and will be overall, similar to recent days.\nBy Sunday this dying weather front will bring some thicker cloud to Wales and central England threatening a few patches of light rain or drizzle, but not much.\nThe rest of the UK will have a dry day on Sunday with variable cloud and some spells of sunshine at times.\nWhen will we see Storm Chloe?\nHigh pressure has been building and is set to dominate across the UK in the coming days.\nThis is in stark contrast to last week which saw areas buffeted by a cluster of storms developed by a powerful Atlantic jet stream.\nWhilst Storms Austen and Boelo provided some short-term hydrological benefit, 82% of England remains in drought status according to the Environment Agency.\nThe area of high pressure will stay over or close to the UK for at least ten days as a result of a 'diffluent blocking pattern' forming in the Atlantic jet stream across the UK and western Europe, which will prevent weather systems reaching our shores.\nIt means we are heading into a long stretch of mostly dry weather. There could still be some patches of low cloud and drizzle associated with early morning mist and fog, however, rainfall amounts will be negligible.\nWith no storms on the horizon any time soon, it is likely to be a while before we see the arrival of Chloe, the next name on this year's storm list.\nIn the short-term this lack of rainfall will raise concerns about the drought and low water levels in England's reservoirs.\nFollowing the latest meeting of the National Drought Group, water companies are being urged to speed up the fixing of leaks and members of the public to take shorter showers and turn off the tap when brushing their teeth.\nThe Environment Agency (EA) says that 20% more rain than average is needed over the next six months, external for the drought to end.\nPhilip Duffy, Chief Executive of the Environment Agency, said: \"The recent rain is welcome, but the drought isn't over. A few wet days cannot reverse months of hot, dry weather.\n\"Our rivers, reservoirs and groundwater need sustained rainfall to recover, and the effects on nature can last much longer.\"\nEl NiÃ±o has been linked to wetter and stormier weather in late autumn and early winter. The current three month outlook from the Met Office forecasts that there is double the chance of it being wetter than normal.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "Thick fog has formed on Friday morning"
+    ],
+    [
+     "ins",
+     "This weekend will see dry conditions become established"
+    ],
+    [
+     "eq",
+     "across"
+    ],
+    [
+     "del",
+     "parts"
+    ],
+    [
+     "ins",
+     "most"
+    ],
+    [
+     "eq",
+     "of the"
+    ],
+    [
+     "del",
+     "United Kingdom"
+    ],
+    [
+     "ins",
+     "UK with recurring mist and fog at times. This is in stark contrast to last week"
+    ],
+    [
+     "eq",
+     "which"
+    ],
+    [
+     "del",
+     "could lead"
+    ],
+    [
+     "ins",
+     "saw areas buffeted by a cluster of storms developed by a powerful Atlantic jet stream. The jet stream, still running close"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "hazardous driving conditions. The"
+    ],
+    [
+     "ins",
+     "the UK, will now develop an area of high pressure bringing us much quieter weather. An earlier"
+    ],
+    [
+     "eq",
+     "Met Office"
+    ],
+    [
+     "del",
+     "has issued a yellow severe weather"
+    ],
+    [
+     "ins",
+     "fog"
+    ],
+    [
+     "eq",
+     "warning for"
+    ],
+    [
+     "del",
+     "fog from Lincolnshire, the East Midlands, the Home Counties into parts of Greater London. Fog will be dense in places with visibility below 100 metres at times and it will be most extensive and disruptive during the morning rush hour. It will slowly begin to thin, lift and clear later this morning but in some rural spots in"
+    ],
+    [
+     "eq",
+     "eastern"
+    ],
+    [
+     "ins",
+     "central"
+    ],
+    [
+     "eq",
+     "England"
+    ],
+    [
+     "del",
+     "it may not clear until this afternoon."
+    ],
+    [
+     "ins",
+     "has now been lifted."
+    ],
+    [
+     "eq",
+     "The weekend forecast Early morning mist and fog patches on Saturday may"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "by a cluster of storms developed by a powerful Atlantic jet stream."
+    ],
+    [
+     "del",
+     "The jet stream, still running close to the UK, with the building area of high pressure bringing us much quieter weather."
+    ],
+    [
+     "eq",
+     "Whilst Storms Austen and Boelo provided some short-term hydrological benefit, 82% of"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.296,
+  "numbers_changed": [
+   "100"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.451,
+ "similarity": 0.9199,
+ "adjudicated_by": "rules"
+}
