@@ -1,0 +1,60 @@
+{
+ "id": "8081a815705b75d8-707d55cc-9d4ffc3a",
+ "url": "https://www.bbc.co.uk/sport/tennis/articles/cm62y10v3p96o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-11-02T15:26:24Z",
+ "date": "2026-11-02",
+ "old_title": "Harriet Dart wins first WTA title by beating Lilli Tagger at Guangzhou Open",
+ "new_title": "Harriet Dart wins first WTA title by beating Lilli Tagger at Guangzhou Open",
+ "old_text": "- Published\nBritain's Harriet Dart won the first WTA Tour singles title of her career as she beat fast-rising Austrian teenager Lilli Tagger in the Guangzhou Open final.\nDart, 30, was overcome by emotion following a 4-6 6-3 6-4 victory in a tense final.\nThe gutsy victory capped a stunning run for Dart, who came through qualifying to lift the trophy at the WTA 250 event.\n\"It's crazy to be sitting here as champion after coming through qualifying - it's mad really,\" Dart told BBC Sport.\n\"It's been a wild week - I'm super proud of myself.\"\nThe British number five, ranked 115th in the world, twice had a lead in the decider wiped out by 18-year-old Tagger.\nBut Dart broke for a third time for 4-3 and held serve to move within one game of the title.\nDart held two championship points on 53rd-ranked Tagger's serve in the ninth game - dumping an inviting mid-court ball into the net on the second - but recovered to seal victory in the biggest match of her career.\nShe took her third championship point with a service winner, falling to the court in joy before celebrating with her team.\nAs well as taking home the trophy, Dart will be rewarded for the best week of her career by climbing back inside the world's top 100.\nIt means she will go directly into the main draw of the Australian Open when the opening Grand Slam of the season takes place in January.\nThe hallmark of Dart's success this week has been her resilience and ability to recover from losing positions.\nFighting back against 2025 French Open junior champion Tagger was the fourth time in seven matches she won after losing the first set.\n\"This week shows that even when I'm down - and people think I'm down and out - I'm still able to overcome it,\" Dart added.\n\"Today was a really tough match. I have no doubt Lilli will go on and win multiple titles. To come through a week like this means a lot.\"\nThe title is rich reward for a superb second half to the season, in which Dart has struck the ball consistently well and continued to grow in confidence.\nDart reached a career high of 70th in the world in 2024, having made the Wimbledon third round and US Open second round, but has been languishing outside the top 100 for most of the past two seasons.\nWorking with former Wimbledon champion Marion Bartoli has been a big factor in Dart's resurgence.\nDart has won 19 of her 24 tour-level matches on the hard courts since Wimbledon, taking her overall record on the WTA Tour this season to 23 victories from 34 matches - the highest winning percentage of her career.\n\"It wasn't fun to be on the other side of the court today - you've had an amazing year,\" Tagger, who beat seven-time major champion Venus Williams on her way to the final, told Dart.",
+ "new_text": "- Published\nBritain's Harriet Dart won the first WTA Tour singles title of her career as she beat fast-rising Austrian teenager Lilli Tagger in the Guangzhou Open final.\nDart, 30, was overcome by emotion following a 4-6 6-3 6-4 victory in a tense final.\nThe gutsy victory capped a stunning run for Dart, who came through qualifying to lift the trophy at the WTA 250 event.\n\"Since I was a little girl, lifting a trophy on the WTA Tour has been something I've dreamt of. To be able to finally do it is amazing,\" Dart told BBC Sport.\n\"It's crazy to be sitting here as champion after coming through qualifying - it's mad really.\n\"It's been a wild week - I'm super proud of myself.\"\nThe British number five, ranked 115th in the world, twice had a lead in the decider wiped out by 18-year-old Tagger.\nBut Dart broke for a third time for 4-3 and held serve to move within one game of the title.\nDart held two championship points on 53rd-ranked Tagger's serve in the ninth game - dumping an inviting mid-court ball into the net on the second - but recovered to seal victory in the biggest match of her career.\nShe took her third championship point with a service winner, falling to the court in joy before celebrating with her team.\nAs well as taking home the trophy, Dart will be rewarded for the best week of her career by climbing back inside the world's top 100.\nIt means she will go directly into the main draw of the Australian Open when the opening Grand Slam of the season takes place in January.\nThe hallmark of Dart's success this week has been her resilience and ability to recover from losing positions.\nFighting back against 2025 French Open junior champion Tagger was the fourth time in seven matches she won after losing the first set.\n\"This week shows that even when I'm down - and people think I'm down and out - I'm still able to overcome it,\" Dart added.\n\"Today was a really tough match. I have no doubt Lilli will go on and win multiple titles. To come through a week like this means a lot.\"\nThe title is rich reward for a superb second half to the season, in which Dart has struck the ball consistently well and continued to grow in confidence.\nDart reached a career high of 70th in the world in 2024, having made the Wimbledon third round and US Open second round, but has been languishing outside the top 100 for most of the past two seasons.\nWorking with former Wimbledon champion Marion Bartoli has been a big factor in Dart's resurgence.\nDart has won 19 of her 24 tour-level matches on the hard courts since Wimbledon, taking her overall record on the WTA Tour this season to 23 victories from 34 matches - the highest winning percentage of her career.\n\"It wasn't fun to be on the other side of the court today - you've had an amazing year,\" Tagger, who beat seven-time major champion Venus Williams on her way to the final, told Dart.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "came through qualifying to lift the trophy at the WTA 250 event."
+    ],
+    [
+     "ins",
+     "\"Since I was a little girl, lifting a trophy on the WTA Tour has been something I've dreamt of. To be able to finally do it is amazing,\" Dart told BBC Sport."
+    ],
+    [
+     "eq",
+     "\"It's crazy to be sitting here as champion after coming through qualifying - it's mad"
+    ],
+    [
+     "del",
+     "really,\" Dart told BBC Sport."
+    ],
+    [
+     "ins",
+     "really."
+    ],
+    [
+     "eq",
+     "\"It's been a wild week - I'm super proud of myself.\" The"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0763,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.562,
+ "similarity": 0.9514,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,168 @@
+{
+ "id": "49fc6e1403de9494-45a9f016-9e6df1fc",
+ "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-11-02T15:24:42Z",
+ "date": "2026-11-02",
+ "old_title": "Binance resumes customer withdrawals after record $6.3bn hack",
+ "new_title": "Binance resumes customer withdrawals after record $6.3bn hack",
+ "old_text": "The cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack.\nThe exchange was hit by the theft on Thursday, which has since been described as the biggest heist in history, with experts identifying North Korea as the likely culprit.\nBinance initially froze withdrawals as it investigated the breach, but on Sunday announced that it had began a phased reopening after 2pm Singapore time.\nThe first phase will allow people who hold the ethereum, USDT and USDC tokens on the ethereum blockchain to withdraw their funds, as well as some others held on the BNB Smart Chain blockchain.\nThe platform said it had replenished 90% of the amount stolen. The remaining 10% of tokens were less liquid, meaning they may take longer to buy, the company said in a post on X on Saturday.\nRichard Teng, Binance's co-chief executive, said separately that the company was \"committed to covering the remaining 10%\" and that users would not bear the financial impact of the hack.\nIt came as the FBI on Saturday confirmed earlier suspicions from private investigators and analysts that a North Korea-affiliated group called TraderTraitor was behind the hack.\nTraderTraitor is believed to be part of the Lazarus Group, which gained notoriety in 2014 when it was accused of hacking into Sony Pictures as revenge for The Interview, a film that mocked the North Korean leader Kim Jong-un.\n\"The Federal Bureau of Investigation is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6bn in virtual assets from cryptocurrency exchange Binance, on or about October 29,\" the law enforcement agency said in a statement.\nThe FBI added that it had observed \"TraderTraitor actors\" converting stolen assets into ethereum, and expected those assets to be laundered further by converting them using decentralised finance and instant swap services.\nIt said it was urging private sector entities \"to block transactions with or derived from addresses TraderTraitor actors\" were \"using to launder these stolen assets\".\nTeng said on Friday that the breach was a \"complex attack\" involving a compromised laptop and malicious software designed to delete evidence of its activity, making it harder to trace and investigate.\nBinance said it had set aside about $6.34bn of company funds to cover the losses. \"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said.\nThe money spent rebuying tokens came from using part of its $1bn Secure Asset Fund for Users, a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company's own corporate treasury, it said on X.\nThe attack on Binance came as many observers express worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols.\nBitcoin plunged nearly 5% after the news of the hack, while ethereum dropped nearly 6% and BNB, native to Binance, tumbled nearly 10%.\nThe sheer scale of the hack has put a spotlight on the capacity of North Korea - which faces extensive international sanctions over its nuclear and missile programmes - to find illicit means to capture revenue.",
+ "new_text": "The cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack.\nThe exchange was hit by the theft on Thursday, which has since been described as the biggest heist in history, with experts identifying North Korea as the likely culprit.\nBinance initially froze withdrawals as it investigated the breach, but on Sunday announced that it had began a phased reopening after 2pm Singapore time.\nIn the first phase people holding the ethereum, USDT and USDC tokens on the ethereum blockchain were able to withdraw their funds, as well as some others held on the BNB Smart Chain blockchain. Later on Sunday, dealing in the Dogecoin and Avalanche currencies resumed on their own platforms.\nThe platform said it had replenished 90% of the amount stolen. The remaining 10% of tokens were less liquid, meaning they may take longer to buy, the company said in a post on X on Saturday.\nRichard Teng, Binance's co-chief executive, said separately that the company was \"committed to covering the remaining 10%\" and users would not bear the financial impact of the hack.\nIt came as the FBI on Saturday confirmed earlier suspicions from private investigators and analysts that a North Korea-affiliated group called TraderTraitor was behind the hack.\nTraderTraitor is believed to be part of the Lazarus Group, which gained notoriety in 2014 when it was accused of hacking into Sony Pictures as revenge for The Interview, a film that mocked the North Korean leader Kim Jong-un.\n\"The Federal Bureau of Investigation is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6bn in virtual assets from cryptocurrency exchange Binance, on or about October 29,\" the law enforcement agency said in a statement.\nThe FBI added that it had observed \"TraderTraitor actors\" converting stolen assets into ethereum, and expected those assets to be laundered further by converting them using decentralised finance and instant swap services.\nIt said it was urging private sector entities \"to block transactions with or derived from addresses TraderTraitor actors\" were \"using to launder these stolen assets\".\nTeng said on Friday that the breach was a \"complex attack\" involving a compromised laptop and malicious software designed to delete evidence of its activity, making it harder to trace and investigate.\nBinance said it had set aside about $6.34bn of company funds to cover the losses. \"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said.\nThe money spent rebuying tokens came from using part of its $1bn secure asset fund for users, a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its futures insurance fund and own corporate treasury, the company said on X.\nThe attack on Binance came as many observers express worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols.\nBitcoin plunged nearly 5% after the news of the hack, while ethereum dropped nearly 6% and BNB, native to Binance, tumbled nearly 10%.\nThe sheer scale of the hack has put a spotlight on the capacity of North Korea - which faces extensive international sanctions over its nuclear and missile programmes - to find illicit means to capture revenue.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "announced that it had began a phased reopening after 2pm Singapore time."
+    ],
+    [
+     "del",
+     "The"
+    ],
+    [
+     "ins",
+     "In the"
+    ],
+    [
+     "eq",
+     "first phase"
+    ],
+    [
+     "del",
+     "will allow"
+    ],
+    [
+     "eq",
+     "people"
+    ],
+    [
+     "del",
+     "who hold"
+    ],
+    [
+     "ins",
+     "holding"
+    ],
+    [
+     "eq",
+     "the ethereum, USDT and USDC tokens on the ethereum blockchain"
+    ],
+    [
+     "ins",
+     "were able"
+    ],
+    [
+     "eq",
+     "to withdraw their funds, as well as some others held on the BNB Smart Chain blockchain."
+    ],
+    [
+     "ins",
+     "Later on Sunday, dealing in the Dogecoin and Avalanche currencies resumed on their own platforms."
+    ],
+    [
+     "eq",
+     "The platform said it had replenished 90% of the amount stolen. The"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "separately that the company was \"committed to covering the remaining 10%\" and"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "eq",
+     "users would not bear the financial impact of the hack. It came"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "The money spent rebuying tokens came from using part of its $1bn"
+    ],
+    [
+     "del",
+     "Secure Asset Fund"
+    ],
+    [
+     "ins",
+     "secure asset fund"
+    ],
+    [
+     "eq",
+     "for"
+    ],
+    [
+     "del",
+     "Users,"
+    ],
+    [
+     "ins",
+     "users,"
+    ],
+    [
+     "eq",
+     "a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its"
+    ],
+    [
+     "del",
+     "Futures Insurance Fund,"
+    ],
+    [
+     "ins",
+     "futures insurance fund"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "the company's"
+    ],
+    [
+     "eq",
+     "own corporate treasury,"
+    ],
+    [
+     "del",
+     "it"
+    ],
+    [
+     "ins",
+     "the company"
+    ],
+    [
+     "eq",
+     "said on X. The attack on Binance came as many observers express"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.082,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.003,
+ "similarity": 0.9695,
+ "adjudicated_by": "rules"
+}

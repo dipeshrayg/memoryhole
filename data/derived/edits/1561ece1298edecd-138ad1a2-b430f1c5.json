@@ -1,0 +1,60 @@
+{
+ "id": "1561ece1298edecd-138ad1a2-b430f1c5",
+ "url": "https://www.abc.net.au/news/2026-11-01/salisbury-north-fatal-pedestrian/107333956",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-02T15:17:55Z",
+ "date": "2026-11-02",
+ "old_title": "Driver charged after pedestrian's death in Adelaide's north",
+ "new_title": "Driver charged after pedestrian's death in Adelaide's north",
+ "old_text": "Pedestrian dies after crash at Salisbury North in Adelaide's northern suburbs\nIn short:\nA pedestrian has died at the scene of a crash at Salisbury North in Adelaide's northern suburbs on Sunday morning, while a second pedestrian was taken to hospital with serious injuries.\nEmergency services were called to the intersection of Waterloo Corner Road and Whites Road just after 10am when a vehicle collided with a traffic light pole and two pedestrians.\nWhat's next?\nThe 19-year-old driver, who was uninjured, has been charged with causing death by dangerous driving and will appear in the Elizabeth Magistrates Court on December 14.",
+ "new_text": "Pedestrian dies, another injured in crash at Salisbury North\nIn short:\nA pedestrian has died at the scene of a crash at Salisbury North in Adelaide's northern suburbs on Sunday morning, while a second pedestrian was taken to hospital with serious injuries.\nEmergency services were called to the intersection of Waterloo Corner Road and Whites Road just after 10am when a vehicle collided with a traffic light pole and two pedestrians.\nWhat's next?\nThe 19-year-old driver, who was uninjured, has been charged with causing death by dangerous driving and will appear in the Elizabeth Magistrates Court on December 14.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Pedestrian"
+    ],
+    [
+     "del",
+     "dies after"
+    ],
+    [
+     "ins",
+     "dies, another injured in"
+    ],
+    [
+     "eq",
+     "crash at Salisbury North"
+    ],
+    [
+     "del",
+     "in Adelaide's northern suburbs"
+    ],
+    [
+     "eq",
+     "In short: A pedestrian has died at the scene of a crash"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.099,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9883,
+ "adjudicated_by": "rules"
+}

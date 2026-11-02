@@ -1,0 +1,144 @@
+{
+ "id": "79c90a19b9937480-3fae3130-687a0154",
+ "url": "https://www.theguardian.com/football/2026/nov/01/michael-carrick-stay-manager-manchester-united-roma-game",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-11-02T15:27:32Z",
+ "date": "2026-11-02",
+ "old_title": "Michael Carrick to stay in charge of Manchester United for Roma game",
+ "new_title": "Michael Carrick to stay in charge of Manchester United for Roma game",
+ "old_text": "Michael Carrick is set to remain in charge of Manchester United for Tuesday's Champions League game against Roma at Old Trafford despite Saturday's 2-0 loss at Chelsea.\nThe defeat means United have not won in nine games and have made their poorest start to a season since 1988, but Carrick's position is expected to be reviewed again during the international break after the next round of Premier League matches, in which United host Aston Villa next Sunday.\nThe 45-year-old came close to losing his job last Monday when Jason Wilcox and Omar Berrada met at the training ground to discuss his future. The director of football and the chief executive decided Carrick should be given a chance to turn form and results around.\nCarrick's side are in 17th with seven points, above the relegation zone only on goal difference.\nThere remains a view within the hierarchy that Carrick can still transform fortunes, with United's travelling support still backing him at the end of the defeat at Stamford Bridge on Saturday.\nAfter the game the head coach indicated that he expected to still be in position for the Roma game. He said: \"We've got to move forward and win matches, it's as simple as that.\"\nEddie Howe is Wilcox's preferred candidate should Carrick be sacked, with contact between the parties understood to have been made. The former Newcastle manager is open to taking up the position, subject to negotiations. He would cost about £3m in compensation to Newcastle.\nJulian Nagelsmann, the former Germany and Bayern Munich head coach, is highly regarded by Christopher Vivell, United's director of recruitment, who is believed to have sounded out his fellow German. The pair previously worked together at RB Leipzig.",
+ "new_text": "Michael Carrick is poised to remain in charge of Manchester United for the Champions League game against Roma at Old Trafford on Tuesday despite the 2-0 defeat at Chelsea on Saturday.\nUnited have not won in nine games and have made their poorest start to a season since 1988, but Carrick's position is expected to be reviewed again during the international break after the next round of Premier League matches, in which United host Aston Villa next Sunday.\nThe 45-year-old head coach came close to losing his job last Monday when Jason Wilcox and Omar Berrada met at the training ground to discuss his future. The director of football and the chief executive decided Carrick should be given a chance to turn form and results around.\nCarrick's side are in 17th with seven points, above the relegation zone only on goal difference.\nThere remains a view within the hierarchy that Carrick can still transform fortunes, with United's travelling support still backing him at the end of the defeat at Stamford Bridge on Saturday. After the game the head coach indicated that he expected to still be in position for the Roma match. He said: \"We've got to move forward and win matches, it's as simple as that.\"\nEddie Howe is Wilcox's preferred candidate should Carrick be sacked, with contact between the parties understood to have been made. The former Newcastle manager is open to taking up the position, subject to negotiations. He would cost about £3m in compensation to Newcastle.\nJulian Nagelsmann, the former Germany and Bayern Munich head coach, is highly regarded by Christopher Vivell, United's director of recruitment, who is believed to have sounded out his fellow German. The pair previously worked together at RB Leipzig.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Michael Carrick is"
+    ],
+    [
+     "del",
+     "set"
+    ],
+    [
+     "ins",
+     "poised"
+    ],
+    [
+     "eq",
+     "to remain in charge of Manchester United for"
+    ],
+    [
+     "del",
+     "Tuesday's"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "Champions League game against Roma at Old Trafford"
+    ],
+    [
+     "ins",
+     "on Tuesday"
+    ],
+    [
+     "eq",
+     "despite"
+    ],
+    [
+     "del",
+     "Saturday's"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "2-0"
+    ],
+    [
+     "del",
+     "loss"
+    ],
+    [
+     "ins",
+     "defeat"
+    ],
+    [
+     "eq",
+     "at"
+    ],
+    [
+     "del",
+     "Chelsea. The defeat means"
+    ],
+    [
+     "ins",
+     "Chelsea on Saturday."
+    ],
+    [
+     "eq",
+     "United have not won in nine games and have made their poorest"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "League matches, in which United host Aston Villa next Sunday. The 45-year-old"
+    ],
+    [
+     "ins",
+     "head coach"
+    ],
+    [
+     "eq",
+     "came close to losing his job last Monday when Jason Wilcox and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "indicated that he expected to still be in position for the Roma"
+    ],
+    [
+     "del",
+     "game."
+    ],
+    [
+     "ins",
+     "match."
+    ],
+    [
+     "eq",
+     "He said: \"We've got to move forward and win matches, it's as"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0737,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9737,
+ "adjudicated_by": "rules"
+}

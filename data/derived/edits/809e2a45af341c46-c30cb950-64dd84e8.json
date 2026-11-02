@@ -1,0 +1,330 @@
+{
+ "id": "809e2a45af341c46-c30cb950-64dd84e8",
+ "url": "https://www.theguardian.com/sport/2026/nov/01/ciara-mageean-european-1500m-gold-medallist-ireland-dies-age-34",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-11-02T15:27:28Z",
+ "date": "2026-11-02",
+ "old_title": "Ciara Mageean, European 1500m gold medallist with Ireland, dies aged 34",
+ "new_title": "Ciara Mageean, European 1500m gold medallist with Ireland, dies aged 34",
+ "old_text": "Ireland's European 1500 metres gold medallist Ciara Mageean has died at the age of 34. Two-time Olympian Mageean, who won the European title in Rome in 2024, announced last year she had been diagnosed with bowel cancer.\nA statement on her Instagram account on Sunday read: \"At 6:30am this morning, Ciara lost her battle with cancer surrounded by her loved ones. A beloved daughter, sister, wife, friend and inspiration to so many, she will be deeply missed.\"\nMageean, from Portaferry, County Down, in Northern Ireland, was married last month.\nMageean, who competed at the Rio 2016 and Tokyo 2020 Olympics, also won European 1500m silver in 2022 and bronze in 2016, while she finished fourth in the World Championships in 2023.\nShe won silver competing for Northern Ireland at the Commonwealth Games in Birmingham in 2022. A statement from Athletics Ireland read: \"Athletics Ireland is deeply saddened to learn of the passing of Ciara Mageean.\n\"Ciara was a much-loved and inspirational figure who touched the lives of so many. Her courage, warmth and spirit will leave a lasting legacy.\n\"The thoughts and heartfelt condolences of everyone at Athletics Ireland are with Ciara's family, friends and loved ones at this incredibly difficult time. May she rest in peace.\"",
+ "new_text": "The Irish middle-distance runner Ciara Mageean, who won European gold and competed at two Olympic Games, has died aged 34, her family have announced.\nThe athlete, from Portaferry in Northern Ireland, died at 6.30am on Sunday. In a post on social media, her family said she was surrounded by her loved ones, adding: \"A beloved daughter, sister, wife, friend and inspiration to so many, she will be deeply missed.\"\nMageean was one of the most high‐profile athletes in Ireland, specialising in the 1500m event. She represented Ireland at the 2016 Rio Olympics and 2020 Tokyo Games, as well as holding a slew of Irish records.\nShe became the first individual Irish European champion since Sonia O'Sullivan when she won gold at the 2024 championships in Rome. Mageean was unable to compete at the 2024 Olympics because of an achilles injury. The following year, she announced she had been diagnosed with cancer. She went on to marry her partner, Thomas Moran, in October only weeks before her death.\nMicheál Martin, the Taoiseach, said he was deeply saddened at her passing. \"My heartfelt sympathies go to her husband Thomas, all her family and friends,\" he said. The Tánaiste, Simon Harris, described the news as heartbreaking. He said: \"She was a European champion, two-time Olympian, a proud Irish athlete and an extraordinary person.\"\nNorthern Ireland's first minister, Michelle O'Neill, said Mageean demonstrated \"extraordinary talent, determination and dedication\", adding: \"I am deeply saddened to hear of the passing of Ciara Mageean, and I want to extend my heartfelt condolences to her husband Tommy, her parents, family, friends and everyone who loved her.\n\"Ciara's achievements in athletics brought immense pride to her local community and to people right across Ireland. From representing Ireland at two Olympic Games to winning European championship gold in Rome in 2024, Ciara demonstrated extraordinary talent, determination and dedication.\n\"However, beyond the medals, records and sporting accolades, Ciara will be remembered for her warmth, courage and tremendous strength of character. Throughout her illness, she showed a remarkable spirit and an incredible ability to find hope and joy in life, even in the most difficult circumstances. Her courage touched countless people and will leave a lasting legacy.\n\"For a community like Portaferry, this loss will be deeply felt. Ciara was one of our own, and the pride she brought to her community and beyond will never be forgotten. At this incredibly difficult time, I hope her family and loved ones can take some comfort from knowing just how deeply she was admired, respected and loved by so many people.\"\nThe deputy first minister, Emma Little-Pengelly, said: \"I am so sorry to hear of the death of Ciara Mageean, at the age of 34 years. An outstanding athlete and ambassador for her sport, Ciara was born in Portaferry, County Down, and represented Northern Ireland and predominantly Ireland on the world stage.\n\"Ciara had outstanding success, and was an inspiration to many. She spoke with such honesty and bravery about the health battles she subsequently faced. I know so many from right across Northern Ireland were deeply proud and inspired by Ciara. My deepest condolences to her family, teammates and friends, and her husband to whom she had so recently married.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Ireland's European 1500 metres gold medallist"
+    ],
+    [
+     "ins",
+     "The Irish middle-distance runner"
+    ],
+    [
+     "eq",
+     "Ciara"
+    ],
+    [
+     "del",
+     "Mageean has died at the age of 34. Two-time Olympian"
+    ],
+    [
+     "eq",
+     "Mageean, who won"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "eq",
+     "European"
+    ],
+    [
+     "del",
+     "title"
+    ],
+    [
+     "ins",
+     "gold and competed at two Olympic Games, has died aged 34, her family have announced. The athlete, from Portaferry"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "Rome in 2024, announced last year"
+    ],
+    [
+     "ins",
+     "Northern Ireland, died at 6.30am on Sunday. In a post on social media, her family said"
+    ],
+    [
+     "eq",
+     "she"
+    ],
+    [
+     "del",
+     "had been diagnosed with bowel cancer. A statement on her Instagram account on Sunday read: \"At 6:30am this morning, Ciara lost her battle with cancer"
+    ],
+    [
+     "ins",
+     "was"
+    ],
+    [
+     "eq",
+     "surrounded by her loved"
+    ],
+    [
+     "del",
+     "ones. A"
+    ],
+    [
+     "ins",
+     "ones, adding: \"A"
+    ],
+    [
+     "eq",
+     "beloved daughter, sister, wife, friend and inspiration to so many, she will be deeply missed.\""
+    ],
+    [
+     "del",
+     "Mageean, from Portaferry, County Down,"
+    ],
+    [
+     "ins",
+     "Mageean was one of the most high‐profile athletes"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "Northern"
+    ],
+    [
+     "eq",
+     "Ireland,"
+    ],
+    [
+     "del",
+     "was married last month. Mageean, who competed at the Rio 2016 and Tokyo 2020 Olympics, also won European 1500m silver in 2022 and bronze in 2016, while she finished fourth"
+    ],
+    [
+     "ins",
+     "specialising"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "World Championships in 2023."
+    ],
+    [
+     "ins",
+     "1500m event."
+    ],
+    [
+     "eq",
+     "She"
+    ],
+    [
+     "del",
+     "won silver competing for Northern"
+    ],
+    [
+     "ins",
+     "represented"
+    ],
+    [
+     "eq",
+     "Ireland at the"
+    ],
+    [
+     "del",
+     "Commonwealth Games"
+    ],
+    [
+     "ins",
+     "2016 Rio Olympics and 2020 Tokyo Games, as well as holding a slew of Irish records. She became the first individual Irish European champion since Sonia O'Sullivan when she won gold at the 2024 championships"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "Birmingham"
+    ],
+    [
+     "ins",
+     "Rome. Mageean was unable to compete at the 2024 Olympics because of an achilles injury. The following year, she announced she had been diagnosed with cancer. She went on to marry her partner, Thomas Moran,"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "2022. A statement from Athletics Ireland read: \"Athletics Ireland is"
+    ],
+    [
+     "ins",
+     "October only weeks before her death. Micheál Martin, the Taoiseach, said he was deeply saddened at her passing. \"My heartfelt sympathies go to her husband Thomas, all her family and friends,\" he said. The Tánaiste, Simon Harris, described the news as heartbreaking. He said: \"She was a European champion, two-time Olympian, a proud Irish athlete and an extraordinary person.\" Northern Ireland's first minister, Michelle O'Neill, said Mageean demonstrated \"extraordinary talent, determination and dedication\", adding: \"I am"
+    ],
+    [
+     "eq",
+     "deeply saddened to"
+    ],
+    [
+     "del",
+     "learn"
+    ],
+    [
+     "ins",
+     "hear"
+    ],
+    [
+     "eq",
+     "of the passing of Ciara"
+    ],
+    [
+     "del",
+     "Mageean. \"Ciara was"
+    ],
+    [
+     "ins",
+     "Mageean, and I want to extend my heartfelt condolences to her husband Tommy, her parents, family, friends and everyone who loved her. \"Ciara's achievements in athletics brought immense pride to her local community and to people right across Ireland. From representing Ireland at two Olympic Games to winning European championship gold in Rome in 2024, Ciara demonstrated extraordinary talent, determination and dedication. \"However, beyond the medals, records and sporting accolades, Ciara will be remembered for her warmth, courage and tremendous strength of character. Throughout her illness, she showed"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "much-loved"
+    ],
+    [
+     "ins",
+     "remarkable spirit"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "inspirational figure who"
+    ],
+    [
+     "ins",
+     "an incredible ability to find hope and joy in life, even in the most difficult circumstances. Her courage"
+    ],
+    [
+     "eq",
+     "touched"
+    ],
+    [
+     "del",
+     "the lives of so many. Her courage, warmth"
+    ],
+    [
+     "ins",
+     "countless people"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "spirit"
+    ],
+    [
+     "eq",
+     "will leave a lasting legacy."
+    ],
+    [
+     "del",
+     "\"The thoughts"
+    ],
+    [
+     "ins",
+     "\"For a community like Portaferry, this loss will be deeply felt. Ciara was one of our own,"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "heartfelt condolences of everyone at Athletics Ireland are with Ciara's family, friends"
+    ],
+    [
+     "ins",
+     "the pride she brought to her community and beyond will never be forgotten. At this incredibly difficult time, I hope her family"
+    ],
+    [
+     "eq",
+     "and loved ones"
+    ],
+    [
+     "ins",
+     "can take some comfort from knowing just how deeply she was admired, respected and loved by so many people.\" The deputy first minister, Emma Little-Pengelly, said: \"I am so sorry to hear of the death of Ciara Mageean,"
+    ],
+    [
+     "eq",
+     "at"
+    ],
+    [
+     "del",
+     "this incredibly difficult time. May"
+    ],
+    [
+     "ins",
+     "the age of 34 years. An outstanding athlete and ambassador for her sport, Ciara was born in Portaferry, County Down, and represented Northern Ireland and predominantly Ireland on the world stage. \"Ciara had outstanding success, and was an inspiration to many. She spoke with such honesty and bravery about the health battles"
+    ],
+    [
+     "eq",
+     "she"
+    ],
+    [
+     "del",
+     "rest in peace.\""
+    ],
+    [
+     "ins",
+     "subsequently faced. I know so many from right across Northern Ireland were deeply proud and inspired by Ciara. My deepest condolences to her family, teammates and friends, and her husband to whom she had so recently married.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 3.0242,
+  "numbers_changed": [
+   "2022",
+   "2023",
+   "30",
+   "6",
+   "6.30"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 2,
+  "blocks_added": 7,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 2.33,
+ "similarity": 0.8984,
+ "adjudicated_by": "rules"
+}

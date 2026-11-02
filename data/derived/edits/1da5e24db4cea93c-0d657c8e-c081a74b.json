@@ -1,0 +1,219 @@
+{
+ "id": "1da5e24db4cea93c-0d657c8e-c081a74b",
+ "url": "https://www.aljazeera.com/sports/2026/11/1/yamaha-pulls-out-of-qatar-motogp-over-situation-in-the-middle-east?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-02T15:15:11Z",
+ "date": "2026-11-02",
+ "old_title": "Yamaha pulls out of Qatar MotoGP over 'situation in the Middle East'",
+ "new_title": "Yamaha pulls out of Qatar MotoGP over 'situation in the Middle East'",
+ "old_text": "Yamaha has withdrawn its MotoGP team from next weekend's race in Qatar, citing \"the situation in the Middle East\".\nThe Japanese manufacturer announced its decision shortly after the Malaysian MotoGP race on Sunday.\n\"Yamaha has not identified sufficient grounds to change its existing company-wide travel restrictions,\" Yamaha said in its statement.\nAmong the racers on the MotoGP grid riding Yamaha bikes is France's Fabio Quartararo, the 2021 world champion. Alex Rins of Spain is the other racer on the Yamaha team.\nThe sport's governing body, the MotoGP Group, said it was \"disappointed\" by the decision and said that \"Yamaha's non-participation also carries sporting implications\".\n\"While we recognise the team is subject to a broader corporate policy restricting travel to the Middle East, we do not believe this decision reflects the extensive assurances provided to all championship stakeholders,\" it said.\nMotoGP said talks with the organisers in Qatar, as well as safety advisers, had not flagged any reasons to change plans for the event, which will run from November 6-8 at the Lusail International Circuit outside Qatar's capital Doha.\n\"We communicated that position, together with the latest available information, to all manufacturers and teams today and welcome the confirmation from the remainder of the grid that they will compete in Qatar, and we thank them for that commitment,\" the MotoGP Group said.\nThe statements came shortly after the Malaysian MotoGP in Sepang, after which there are just three races left in the season, starting in Qatar.\nDucati's reigning seven-time world champion Marc Marquez won the race at Sepang and could clinch the title in Doha.\nAl Jazeera has requested a comment from the Qatar Motor and Motorcycle Federation.",
+ "new_text": "Yamaha has withdrawn its MotoGP team from next weekend's race in Qatar, citing \"the situation in the Middle East\".\nThe Japanese manufacturer announced its decision shortly after the Malaysian Grand Prix on Sunday.\n\"Yamaha has not identified sufficient grounds to change its existing company-wide travel restrictions,\" Yamaha said in a statement.\nAmong the racers on the MotoGP grid riding Yamaha bikes is France's Fabio Quartararo, the 2021 world champion. Alex Rins of Spain is the other racer on the Yamaha team.\nThe sport's governing body, the MotoGP Group, said it was \"disappointed\" by the decision and \"Yamaha's non-participation also carries sporting implications\".\n\"While we recognise the team is subject to a broader corporate policy restricting travel to the Middle East, we do not believe this decision reflects the extensive assurances provided to all championship stakeholders,\" it said.\nMotoGP said talks with the organisers in Qatar and safety advisers had not flagged any reasons to change plans for the event, which will run from Friday to November 8 at the Lusail International Circuit outside Qatar's capital, Doha.\n\"We communicated that position, together with the latest available information, to all manufacturers and teams today and welcome the confirmation from the remainder of the grid that they will compete in Qatar, and we thank them for that commitment,\" the MotoGP Group said.\nThe statements were released shortly after the Malaysian MotoGP in Sepang, after which there are just three races left in the season.\nDucati's reigning seven-time world champion, Marc Marquez, won the race at Sepang and could clinch the title in Doha.\nQatar was subject to Iranian attacks from February to April after the United States and Israel began a war on Iran. On Friday, a Qatari liquefied natural gas tanker was hit by unidentified objects in the Gulf, and in September 2025, Israel carried out an air strike on Doha that killed and injured Hamas leaders.\nAl Jazeera has requested a comment from the Qatar Motor and Motorcycle Federation on whether Yamaha's decision will have any impact on the race.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Middle East\". The Japanese manufacturer announced its decision shortly after the Malaysian"
+    ],
+    [
+     "del",
+     "MotoGP race"
+    ],
+    [
+     "ins",
+     "Grand Prix"
+    ],
+    [
+     "eq",
+     "on Sunday. \"Yamaha has not identified sufficient grounds to change its existing company-wide travel restrictions,\" Yamaha said in"
+    ],
+    [
+     "del",
+     "its"
+    ],
+    [
+     "ins",
+     "a"
+    ],
+    [
+     "eq",
+     "statement. Among the racers on the MotoGP grid riding Yamaha bikes is"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "body, the MotoGP Group, said it was \"disappointed\" by the decision and"
+    ],
+    [
+     "del",
+     "said that"
+    ],
+    [
+     "eq",
+     "\"Yamaha's non-participation also carries sporting implications\". \"While we recognise the team is"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "all championship stakeholders,\" it said. MotoGP said talks with the organisers in"
+    ],
+    [
+     "del",
+     "Qatar, as well as"
+    ],
+    [
+     "ins",
+     "Qatar and"
+    ],
+    [
+     "eq",
+     "safety"
+    ],
+    [
+     "del",
+     "advisers,"
+    ],
+    [
+     "ins",
+     "advisers"
+    ],
+    [
+     "eq",
+     "had not flagged any reasons to change plans for the event, which will run from"
+    ],
+    [
+     "ins",
+     "Friday to"
+    ],
+    [
+     "eq",
+     "November"
+    ],
+    [
+     "del",
+     "6-8"
+    ],
+    [
+     "ins",
+     "8"
+    ],
+    [
+     "eq",
+     "at the Lusail International Circuit outside Qatar's"
+    ],
+    [
+     "del",
+     "capital"
+    ],
+    [
+     "ins",
+     "capital,"
+    ],
+    [
+     "eq",
+     "Doha. \"We communicated that position, together with the latest available information, to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "we thank them for that commitment,\" the MotoGP Group said. The statements"
+    ],
+    [
+     "del",
+     "came"
+    ],
+    [
+     "ins",
+     "were released"
+    ],
+    [
+     "eq",
+     "shortly after the Malaysian MotoGP in Sepang, after which there are just three races left in the"
+    ],
+    [
+     "del",
+     "season, starting in Qatar."
+    ],
+    [
+     "ins",
+     "season."
+    ],
+    [
+     "eq",
+     "Ducati's reigning seven-time world"
+    ],
+    [
+     "del",
+     "champion"
+    ],
+    [
+     "ins",
+     "champion,"
+    ],
+    [
+     "eq",
+     "Marc"
+    ],
+    [
+     "del",
+     "Marquez"
+    ],
+    [
+     "ins",
+     "Marquez,"
+    ],
+    [
+     "eq",
+     "won the race at Sepang and could clinch the title in Doha."
+    ],
+    [
+     "ins",
+     "Qatar was subject to Iranian attacks from February to April after the United States and Israel began a war on Iran. On Friday, a Qatari liquefied natural gas tanker was hit by unidentified objects in the Gulf, and in September 2025, Israel carried out an air strike on Doha that killed and injured Hamas leaders."
+    ],
+    [
+     "eq",
+     "Al Jazeera has requested a comment from the Qatar Motor and Motorcycle"
+    ],
+    [
+     "del",
+     "Federation."
+    ],
+    [
+     "ins",
+     "Federation on whether Yamaha's decision will have any impact on the race."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3682,
+  "numbers_changed": [
+   "2025",
+   "6"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 0.9942,
+ "adjudicated_by": "rules"
+}

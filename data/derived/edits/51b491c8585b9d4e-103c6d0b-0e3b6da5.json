@@ -1,0 +1,350 @@
+{
+ "id": "51b491c8585b9d4e-103c6d0b-0e3b6da5",
+ "url": "https://www.theguardian.com/sport/2026/nov/01/harriet-dart-wins-maiden-wta-title-guangzhou-open-tennis-lilli-tagger",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-11-02T15:27:31Z",
+ "date": "2026-11-02",
+ "old_title": "GB's Harriet Dart wins maiden WTA title at 30 with Guangzhou Open triumph",
+ "new_title": "GB's Harriet Dart wins maiden WTA title at 30 with Guangzhou Open triumph",
+ "old_text": "Britain's Harriet Dart won her first WTA title after coming from a set down to beat Lilli Tagger in the final of the Guangzhou Open in China. Dart, who saved three match points in her semi-final win over Sun Xinran to reach her first tour-level final, edged a thrilling match against the 18-year-old from Austria 4-6, 6-3, 6-4.\nDart, the British No 5 and a qualifier, dropped serve in the opening game and had to save a break point in her next service game before finally getting on the board against the fourth seed. The 30-year-old from Hampstead broke back for 4-4, but Tagger hit straight back before wrapping up the first set.\nThe first break point of the second set came the way of Dart, who took it for 5-3 on her way to levelling the match.\nIn a tense deciding set, a run of five consecutive breaks of serve ended when a gutsy Dart saved two break points to hold for 5-3. In the next she brought up two championship points, but a big Tagger serve saved the first before Dart netted a mid-court forehand on the second. However, Dart wiped that miss from her mind to serve out the match to 15, falling on her back in delight when victory was sealed with an unreturned serve.\nShe said on court: \"I'll try not to get too emotional. A big thank you to my team this week. It's amazing to play in front of such a big crowd. It's been so much fun here and I really appreciate it and hope to be back next year.\"\nDart's victory lifted her back into the top 100 of the WTA rankings.",
+ "new_text": "Harriet Dart won her first WTA title after the Briton came from a set down to defeat Lilli Tagger in the final of the Guangzhou Open in China.\nDart, who saved three match points in her semi-final against Sun Xinran to reach her first tour‐level final, edged a thrilling match against the 18‐year‐old Austrian 4-6, 6-3, 6-4.\nThe British No 5, a qualifier for the tournament, dropped serve in the opening game and had to save a break point in her next service game before finally getting on the board against the fourth seed. The 30‐year‐old from Hampstead broke back for 4-4 but Tagger, who won the 2025 junior French Open, hit straight back before wrapping up the first set.\nDart took the first break point of the second set for 5-3 on her way to levelling the match.\nIn a tense deciding set, a run of five consecutive breaks of serve ended when a gutsy Dart saved two break points to hold for 5-3. In the next game she brought up two championship points, but a big serve from Tagger saved the first before Dart hit a mid‐court forehand into the net on the second.\nHowever, Dart wiped that miss from her mind to serve out the match to 15, falling on her back in delight when victory was sealed with an unreturned serve.\nDart, who has been working with the former Wimbledon champion Marion Bartoli, said on court: \"I'll try not to get too emotional. A big thank you to my team this week. It's amazing to play in front of such a big crowd. It's been so much fun here and I really appreciate it and hope to be back next year.\n\"This week shows that even when I'm down - and people think I'm down and out - I'm still able to overcome it. Today was a really tough match. I have no doubt Lilli will go on and win multiple titles. To come through a week like this means a lot.\"\nDart's victory will lift her back into the top 100 and secures direct entry into the Australian Open in January. The British player has won 19 of her 24 tour-level matches on the hard courts since Wimbledon, taking her overall record on the tour this season to 23 victories from 34 matches - the highest winning percentage of her career.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Britain's"
+    ],
+    [
+     "eq",
+     "Harriet Dart won her first WTA title after"
+    ],
+    [
+     "del",
+     "coming"
+    ],
+    [
+     "ins",
+     "the Briton came"
+    ],
+    [
+     "eq",
+     "from a set down to"
+    ],
+    [
+     "del",
+     "beat"
+    ],
+    [
+     "ins",
+     "defeat"
+    ],
+    [
+     "eq",
+     "Lilli Tagger in the final of the Guangzhou Open in China. Dart, who saved three match points in her semi-final"
+    ],
+    [
+     "del",
+     "win over"
+    ],
+    [
+     "ins",
+     "against"
+    ],
+    [
+     "eq",
+     "Sun Xinran to reach her first"
+    ],
+    [
+     "del",
+     "tour-level"
+    ],
+    [
+     "ins",
+     "tour‐level"
+    ],
+    [
+     "eq",
+     "final, edged a thrilling match against the"
+    ],
+    [
+     "del",
+     "18-year-old from Austria"
+    ],
+    [
+     "ins",
+     "18‐year‐old Austrian"
+    ],
+    [
+     "eq",
+     "4-6, 6-3, 6-4."
+    ],
+    [
+     "del",
+     "Dart, the"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "British No"
+    ],
+    [
+     "del",
+     "5 and"
+    ],
+    [
+     "ins",
+     "5,"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "qualifier,"
+    ],
+    [
+     "ins",
+     "qualifier for the tournament,"
+    ],
+    [
+     "eq",
+     "dropped serve in the opening game and had to save a break"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "game before finally getting on the board against the fourth seed. The"
+    ],
+    [
+     "del",
+     "30-year-old"
+    ],
+    [
+     "ins",
+     "30‐year‐old"
+    ],
+    [
+     "eq",
+     "from Hampstead broke back for"
+    ],
+    [
+     "del",
+     "4-4,"
+    ],
+    [
+     "ins",
+     "4-4"
+    ],
+    [
+     "eq",
+     "but"
+    ],
+    [
+     "del",
+     "Tagger"
+    ],
+    [
+     "ins",
+     "Tagger, who won the 2025 junior French Open,"
+    ],
+    [
+     "eq",
+     "hit straight back before wrapping up the first set."
+    ],
+    [
+     "del",
+     "The"
+    ],
+    [
+     "ins",
+     "Dart took the"
+    ],
+    [
+     "eq",
+     "first break point of the second set"
+    ],
+    [
+     "del",
+     "came the way of Dart, who took it"
+    ],
+    [
+     "eq",
+     "for 5-3 on her way to levelling the match. In a tense"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Dart saved two break points to hold for 5-3. In the next"
+    ],
+    [
+     "ins",
+     "game"
+    ],
+    [
+     "eq",
+     "she brought up two championship points, but a big"
+    ],
+    [
+     "ins",
+     "serve from"
+    ],
+    [
+     "eq",
+     "Tagger"
+    ],
+    [
+     "del",
+     "serve"
+    ],
+    [
+     "eq",
+     "saved the first before Dart"
+    ],
+    [
+     "del",
+     "netted"
+    ],
+    [
+     "ins",
+     "hit"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "mid-court"
+    ],
+    [
+     "ins",
+     "mid‐court"
+    ],
+    [
+     "eq",
+     "forehand"
+    ],
+    [
+     "ins",
+     "into the net"
+    ],
+    [
+     "eq",
+     "on the second. However, Dart wiped that miss from her mind to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "her back in delight when victory was sealed with an unreturned serve."
+    ],
+    [
+     "del",
+     "She"
+    ],
+    [
+     "ins",
+     "Dart, who has been working with the former Wimbledon champion Marion Bartoli,"
+    ],
+    [
+     "eq",
+     "said on court: \"I'll try not to get too emotional. A big"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "here and I really appreciate it and hope to be back next"
+    ],
+    [
+     "del",
+     "year.\""
+    ],
+    [
+     "ins",
+     "year. \"This week shows that even when I'm down - and people think I'm down and out - I'm still able to overcome it. Today was a really tough match. I have no doubt Lilli will go on and win multiple titles. To come through a week like this means a lot.\""
+    ],
+    [
+     "eq",
+     "Dart's victory"
+    ],
+    [
+     "del",
+     "lifted"
+    ],
+    [
+     "ins",
+     "will lift"
+    ],
+    [
+     "eq",
+     "her back into the top 100"
+    ],
+    [
+     "ins",
+     "and secures direct entry into the Australian Open in January. The British player has won 19"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "ins",
+     "her 24 tour-level matches on"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "WTA rankings."
+    ],
+    [
+     "ins",
+     "hard courts since Wimbledon, taking her overall record on the tour this season to 23 victories from 34 matches - the highest winning percentage of her career."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.6512,
+  "numbers_changed": [
+   "19",
+   "2025",
+   "23",
+   "24",
+   "34"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 0.9513,
+ "adjudicated_by": "rules"
+}

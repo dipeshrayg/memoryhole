@@ -1,0 +1,48 @@
+{
+ "id": "641fcec3e146e5fc-302f84dd-adca7a10",
+ "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-11-02T15:23:56Z",
+ "date": "2026-11-02",
+ "old_title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+ "new_title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+ "old_text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (Â£4.7bn) assets stolen in a hack on Thursday.\nThe remaining 10% may take longer to source in the required amounts, the company added.\nBinance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so.\n\"Binance will absorb the financial impact of these stolen funds, not our users,\" the company said in a statement on Saturday.\nIn an update on Sunday, Binance said withdrawals had been restored on several of its networks, after they were suspended following the hack.\nIt previously said withdrawals would be resumed in phases.\nThe Federal Bureau of Investigation (FBI) said on Saturday that North Korea was responsible for the attack.\nThe FBI said it had observed hackers converting stolen assets into a type of cryptocurrency called Ethereum and that it is expected that the assets will then be converted again using decentralised finance and instant swap services.\nTwo analytics firms previously told the BBC they had robust intelligence pointing to North Korean state-backed hacking unit the Lazarus Group, also known as TraderTraitor - which was specifically named by the FBI - as the likely culprits.\nBinance said it had replenished the stolen assets using various funds and its own corporate treasury.\nAll holdings of the cryptocurrencies bitcoin, Ethereum and Tether are covered, along with seven other widely-traded crypto assets, the company said.\nThe hack is believed to be the largest in history, eclipsing the record of a $1.5bn heist on the Bybit exchange in 2025 - for which the FBI also said North Korea was responsible.\nNorth Korea has always denied involvement in these attacks.\nBinance's initial investigation suggested an engineer's laptop was compromised, which allowed access to unauthorised withdrawals, but a later update said they had uncovered \"additional points of breach\".\nRichard Teng, Binance's co-chief executive officer, said the hack was carried out by more than one person, and the hackers used sophisticated methods to hide their tracks, such as a \"self-destruct mechanism\".\nOn Friday, the company said it had frozen around $3bn of stolen assets after working with law enforcement, intelligence firms and partners.\nThe investigation is ongoing, it added. The US Secret Service said on Friday it is \"working around the clock\" with private sector partners \"to identify, freeze, trace, and recover funds\" stolen from Binance.\nBinance, founded in China in 2017, lets users buy, sell and trade digital assets - it is estimated to have hundreds of millions of users worldwide.\nCrypto is a digital asset, which doesn't exist physically and is instead accessed via digital wallets or computers.",
+ "new_text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (Â£4.7bn) assets stolen in a hack on Thursday.\nThe remaining 10% may take longer to source in the required amounts, the company added.\nBinance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so.\n\"Binance will absorb the financial impact of these stolen funds, not our users,\" the company said in a statement on Saturday.\nIn an update on Sunday, Binance said withdrawals had been restored on several of its networks, after they were suspended following the hack.\nIt previously said withdrawals would be resumed in phases.\nThe Federal Bureau of Investigation (FBI) said on Saturday that North Korea was responsible for the attack.\nThe FBI said it had observed hackers converting stolen assets into a type of cryptocurrency called Ethereum and that it is expected that the assets will then be converted again using decentralised finance and instant swap services.\nTwo analytics firms previously told the BBC they had robust intelligence pointing to North Korean state-backed hacking unit the Lazarus Group, also known as TraderTraitor - which was specifically named by the FBI - as the likely culprits.\nSpeaking to reporters on Saturday night, US President Donald Trump said, external the US is still unsure who the culprits are.\n\"We're learning about it. We don't know if it's North Korea - but if it is, we'll talk to North Korea about it,\" he said.\nBinance said it had replenished the stolen assets using various funds and its own corporate treasury.\nAll holdings of the cryptocurrencies bitcoin, Ethereum and Tether are covered, along with seven other widely-traded crypto assets, the company said.\nThe hack is believed to be the largest in history, eclipsing the record of a $1.5bn heist on the Bybit exchange in 2025 - for which the FBI also said North Korea was responsible.\nNorth Korea has always denied involvement in these attacks.\nBinance's initial investigation suggested an engineer's laptop was compromised, which allowed access to unauthorised withdrawals, but a later update said they had uncovered \"additional points of breach\".\nRichard Teng, Binance's co-chief executive officer, said the hack was carried out by more than one person, and the hackers used sophisticated methods to hide their tracks, such as a \"self-destruct mechanism\".\nOn Friday, the company said it had frozen around $3bn of stolen assets after working with law enforcement, intelligence firms and partners.\nThe investigation is ongoing, it added. The US Secret Service said on Friday it is \"working around the clock\" with private sector partners \"to identify, freeze, trace, and recover funds\" stolen from Binance.\nBinance, founded in China in 2017, lets users buy, sell and trade digital assets - it is estimated to have hundreds of millions of users worldwide.\nCrypto is a digital asset, which doesn't exist physically and is instead accessed via digital wallets or computers.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "which was specifically named by the FBI - as the likely culprits."
+    ],
+    [
+     "ins",
+     "Speaking to reporters on Saturday night, US President Donald Trump said, external the US is still unsure who the culprits are. \"We're learning about it. We don't know if it's North Korea - but if it is, we'll talk to North Korea about it,\" he said."
+    ],
+    [
+     "eq",
+     "Binance said it had replenished the stolen assets using various funds and"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1004,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

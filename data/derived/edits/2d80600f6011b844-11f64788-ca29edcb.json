@@ -1,0 +1,72 @@
+{
+ "id": "2d80600f6011b844-11f64788-ca29edcb",
+ "url": "https://variety.com/2026/tv/news/snl-weekend-update-israel-stance-michael-che-colin-jost-1236936599/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-11-02T15:30:48Z",
+ "date": "2026-11-02",
+ "old_title": "'SNL' Weekend Update Finally Weighs in on Israel",
+ "new_title": "'SNL' Weekend Update Finally Weighs in on Israel",
+ "old_text": "The Halloween edition of \"SNL\" Weekend Update saw a cameo by Ben Marshall's Pennywise as well as some jabs at President Trump's recent obsession with candidates' posteriors.\n\"Even Vice President JD Vance came out and said that he was jealous that President Trump has never complimented his butt. What the hell is going on! Your party is about to lose the midterms, stop playing 'smash or pass' with each other!\" exclaimed co-host Colin Jost.\nLater on during Weekend Update, Michael Che made a joke about Israel that made Jost jokingly grimace.\n\"This week, a record number of people voted in Israel's election - which is great to see, regardless of if you're on the right side, or the left side, or the genocide,\" quipped Che.\nOne of the reasons why the U.K.'s \"Saturday Night Live\" Weekend Update has lapped the U.S. version is that Jost and Che have largely avoided controversial topics like Israel, whereas the U.K.'s Weekend Update co-hosts have artfully mocked the likes of Ed Sheeran and Macklemore over their outsized roles in the conversation surrounding Israel's war on Gaza.\nAnd this, it seems, is the best Jost and Che could finally come up with.",
+ "new_text": "The Halloween edition of \"SNL\" Weekend Update saw a cameo by Ben Marshall's Pennywise as well as some jabs at President Trump's recent obsession with candidates' posteriors.\n\"Even Vice President JD Vance came out and said that he was jealous that President Trump has never complimented his butt. What the hell is going on! Your party is about to lose the midterms, stop playing 'smash or pass' with each other!\" exclaimed co-anchor Colin Jost.\nLater on during Weekend Update, Michael Che made a joke about Israel that made Jost jokingly grimace.\n\"This week, a record number of people voted in Israel's election - which is great to see, regardless of if you're on the right side, or the left side, or the genocide,\" quipped Che.\nOne of the reasons why the U.K.'s \"Saturday Night Live\" Weekend Update has lapped the U.S. version is that Jost and Che have largely avoided controversial topics like Israel, whereas the U.K.'s Weekend Update co-anchors have artfully mocked the likes of Ed Sheeran and Macklemore over their outsized roles in the conversation surrounding Israel's war on Gaza.\nAnd this, it seems, is the best Jost and Che could finally come up with.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "lose the midterms, stop playing 'smash or pass' with each other!\" exclaimed"
+    ],
+    [
+     "del",
+     "co-host"
+    ],
+    [
+     "ins",
+     "co-anchor"
+    ],
+    [
+     "eq",
+     "Colin Jost. Later on during Weekend Update, Michael Che made a joke"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "have largely avoided controversial topics like Israel, whereas the U.K.'s Weekend Update"
+    ],
+    [
+     "del",
+     "co-hosts"
+    ],
+    [
+     "ins",
+     "co-anchors"
+    ],
+    [
+     "eq",
+     "have artfully mocked the likes of Ed Sheeran and Macklemore over their"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0203,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9923,
+ "adjudicated_by": "rules"
+}
