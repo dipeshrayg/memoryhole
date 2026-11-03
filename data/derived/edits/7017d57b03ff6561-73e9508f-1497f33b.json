@@ -1,0 +1,64 @@
+{
+ "id": "7017d57b03ff6561-73e9508f-1497f33b",
+ "url": "https://www.dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-03T13:57:22Z",
+ "date": "2026-11-03",
+ "old_title": "Global pedestrian Karl Bushby returns home to UK after 28-year trek",
+ "new_title": "Global pedestrian Karl Bushby returns home to UK after 28-year trek",
+ "old_text": "British adventurer Karl Bushby, 57, arrived back his hometown in England on Monday after crossing four continents on foot.\nHe was met by a cheering crowd of some 500 people in the northeastern city of Hull at the end of his 50,000 km (31,000 mile) journey, which began in the far south of South America in 1998.\n\"I didn't do this alone. There was a big team, the biggest team, Earth. That's what it took to get me back,\" Bushby told the crowd.\nOn his trip, he obeyed two rules: to avoid all forms of motorized transport to advance; and not to return until he had finished what he had set out to do.\nA very final leg of his journey was to take him to north Hull, where he was to reunite with his mother, Angela, his 36-year-old son, Adam, and a 12-year-old granddaughter he had never met.\nWhat did Bushby experience on his epic journey?\nBushby, a former paratrooper, began his adventure in Chile aged 29 after a marriage breakup that saw his wife return to Northern Ireland with their son.\nDuring the trip, he crossed an iced-over Bering Strait from Alaska to Russia with French explorer Dimitri Kieffer in 2006 - nearly losing his life in the process - and, returning to Britain early last month, he swam the English Channel from northern France to Dover over four days.\nHe interrupted, or was forced to pause, his journey several times, including when he was refused a visa by Russia, which caused a journey originally planned to take 12 years to last more than double that time.\nHe also spent some jail time in Panama for entering the country without a visa.\nThe COVID-19 pandemic also caused delays, and he spent some time living at a base in Mexico.\nBut he always resumed the trek at the exact spot where he had left off.\nThe famous German filmmaker Werner Herzog is making a feature-length documentary about the journey entitled \"Walk of Life.\"\nIn an interview with the AFP news agency from northern France in September, Bushby expressed apprehension about returning to a more normal life back in Britain.\n\"I've got to try and get established in the grown-up world again,\" he said.",
+ "new_text": "British adventurer Karl Bushby, 57, arrived back his hometown in England on Monday after crossing four continents on foot.\nHe was met by a cheering crowd of about 500 people in the northeastern city of Hull at the end of his 50,000-kilometer (31,000-mile) journey, which began in the far south of South America in 1998.\n\"I didn't do this alone. There was a big team, the biggest team, Earth. That's what it took to get me back,\" Bushby told the crowd.\nOn his trip, he obeyed two rules: to avoid all forms of motorized transport to advance; and not to return until he had finished what he had set out to do.\nA very final leg of his journey was to take him to north Hull, where he was to reunite with his mother, Angela, his 36-year-old son, Adam, and a 12-year-old granddaughter he had never met.\nWhat did Bushby experience on his epic journey?\nBushby, a former paratrooper, began his adventure in Chile aged 29 after a marriage breakup that saw his wife return to Northern Ireland with their son.\nDuring the trip, he crossed an iced-over Bering Strait from Alaska to Russia with French explorer Dimitri Kieffer in 2006 - nearly losing his life in the process - and, returning to Britain early last month, he swam the English Channel from northern France to Dover over four days.\nHe interrupted, or was forced to pause, his journey several times, including when he was refused a visa by Russia, which caused a journey originally planned to take 12 years to last more than double that time.\nHe also spent some jail time in Panama for entering the country without a visa.\nThe COVID-19 pandemic also caused delays, and he spent some time living at a base in Mexico.\nBut he always resumed the trek at the exact spot where he had left off.\nThe famous German filmmaker Werner Herzog is making a feature-length documentary about the journey entitled \"Walk of Life.\"\nIn an interview with the AFP news agency from northern France in September, Bushby expressed apprehension about returning to a more normal life back in Britain.\n\"I've got to try and get established in the grown-up world again,\" he said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "four continents on foot. He was met by a cheering crowd of"
+    ],
+    [
+     "del",
+     "some"
+    ],
+    [
+     "ins",
+     "about"
+    ],
+    [
+     "eq",
+     "500 people in the northeastern city of Hull at the end of his"
+    ],
+    [
+     "del",
+     "50,000 km (31,000 mile)"
+    ],
+    [
+     "ins",
+     "50,000-kilometer (31,000-mile)"
+    ],
+    [
+     "eq",
+     "journey, which began in the far south of South America in 1998."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0214,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9972,
+ "adjudicated_by": "rules"
+}

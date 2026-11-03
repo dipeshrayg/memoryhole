@@ -1,0 +1,68 @@
+{
+ "id": "ef58a7b02961bdd1-2d40ee50-7beed648",
+ "url": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
+ "domain": "www.npr.org",
+ "source": "NPR Health",
+ "country": "United States",
+ "category": "health",
+ "lang": "en",
+ "detected_at": "2026-11-03T14:09:30Z",
+ "date": "2026-11-03",
+ "old_title": "Do you know signs of a stroke? BE FAST are the words to remember",
+ "new_title": "Do you know signs of a stroke? BE FAST are the words to remember",
+ "old_text": "Do you know signs of a stroke? BE FAST are the words to remember\nSen. Chris Murphy, D-Conn., suffered a stroke on Saturday. His prognosis is excellent, according to his office. His case illustrates the importance of knowing the warning signs of a stroke.\nThe American Stroke Association says following the six letters in the acronym BE FAST - can help save stroke victims and prevent permanent brain damage.\nMurphy, 53, had the \"A\" for \"arm weakness\" - he felt numbness in his arm while he was at his son's hockey game, according to a statement from his staff. And they said he acted quickly to get care - that's the \"T\" for \"time.\"\nBeing seen by medical professionals as soon as possible - be fast! - gives people the best shot at survival and full recovery.\nHere are all six of the stroke-spotting signs in the BE FAST acronym, according to the American Stroke Association:\nB - BALANCE loss\nDizzyness, trouble walking or a sudden loss of balance are all signs that a stroke may be occurring.\nE - EYE changes\nIs the person having trouble with their vision? Blurred vision, double vision or loss of sight in one eye are important symptoms.\nF - FACE drooping\nAsk the person to smile. Is their smile uneven? Numbness or drooping on one side of the face is a symptom.\nA - ARM weakness\nNumbness in one arm, as Murphy had, is a symptom. Weakness is too. Ask the person to raise both arms. Does one arm drift down?\nS - SPEECH difficulty\nTrouble talking is another common symptom. Can the person repeat a simple sentence? Is their speech slurred or hard to understand?\nT - TIME to call 911\nIf you or someone you are with is experiencing these symptoms, call 911 as soon as you can. Getting care quickly is very important for survival and to minimize long-term effects.\nA stroke happens when blood flow to or within the brain is interrupted. It can happen when an artery is blocked or when a blood vessel in the brain bursts. Brain tissue that is deprived of oxygen can be permanently damaged, resulting in long-term disability or death.\nOther important symptoms of a stroke are a severe headache, confusion and numbness on one side of the body.\nStroke is the #4 leading cause of death in the U.S., killing more than 162,000 people in 2023, according to the American Heart Association.",
+ "new_text": "Do you know signs of a stroke? BE FAST are the words to remember\nSen. Chris Murphy, D-Conn., suffered a stroke on Saturday. His prognosis is excellent, according to his office. His case illustrates the importance of knowing the warning signs of a stroke.\nThe American Stroke Association says following the six letters in the acronym BE FAST - can help save stroke victims and prevent permanent brain damage.\nMurphy, 53, had the \"A\" for \"arm weakness\" - he felt numbness in his arm while he was at his son's hockey game, according to a statement from his staff. And they said he acted quickly to get care - that's the \"T\" for \"time.\"\nBeing seen by medical professionals as soon as possible - be fast! - gives people the best shot at survival and full recovery.\nHere are all six of the stroke-spotting signs in the BE FAST acronym, according to the American Stroke Association:\nB - BALANCE loss\nDizziness, trouble walking or a sudden loss of balance are all signs that a stroke may be occurring.\nE - EYE changes\nIs the person having trouble with their vision? Blurred vision, double vision or loss of sight in one eye are important symptoms.\nF - FACE drooping\nAsk the person to smile. Is their smile uneven? Numbness or drooping on one side of the face is a symptom.\nA - ARM weakness\nNumbness in one arm, as Murphy had, is a symptom. Weakness is too. Ask the person to raise both arms. Does one arm drift down?\nS - SPEECH difficulty\nTrouble talking is another common symptom. Can the person repeat a simple sentence? Is their speech slurred or hard to understand?\nT - TIME to call 911\nIf you or someone you are with is experiencing any of these symptoms, call 911 as soon as you can. Getting care quickly is very important for survival and to minimize long-term effects.\nA stroke happens when blood flow to or within the brain is interrupted. It can happen when an artery is blocked or when a blood vessel in the brain bursts. Brain tissue that is deprived of oxygen can be permanently damaged, resulting in long-term disability or death.\nOther important symptoms of a stroke are a severe headache, confusion and numbness on one side of the body.\nStroke is the #4 leading cause of death in the U.S., killing more than 162,000 people in 2023, according to the American Heart Association.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "FAST acronym, according to the American Stroke Association: B - BALANCE loss"
+    ],
+    [
+     "del",
+     "Dizzyness,"
+    ],
+    [
+     "ins",
+     "Dizziness,"
+    ],
+    [
+     "eq",
+     "trouble walking or a sudden loss of balance are all signs that"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to call 911 If you or someone you are with is experiencing"
+    ],
+    [
+     "ins",
+     "any of"
+    ],
+    [
+     "eq",
+     "these symptoms, call 911 as soon as you can. Getting care quickly"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0098,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9983,
+ "adjudicated_by": "rules"
+}

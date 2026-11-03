@@ -1,0 +1,84 @@
+{
+ "id": "c1fb3bcb36411444-73edb452-db057e9c",
+ "url": "https://www.abc.net.au/news/2026-11-02/queensland-storm-hail-warning/107338402",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-03T13:59:01Z",
+ "date": "2026-11-03",
+ "old_title": "Wild storms dump hail on south-east Queensland",
+ "new_title": "Wild storms dump hail on Queensland",
+ "old_text": "A series of dangerous storms have dumped hail on communities across south-east Queensland.\nVision from Maryborough on Monday night shows built-up hail accumulating in chunks across a road.\nLoading...\nThe Bureau of Meteorology issued a number of warnings for very dangerous and severe storms from north of Maryborough down to northern NSW.\nMore than 50 millimetres of rain was recorded in 30 minutes at Cooroy, on the Sunshine Coast.\nHervey Bay resident Michael was speaking to ABC 612 when his home was hit by a storm.\nHe said his front lawn looked like it was \"covered with golf balls\".\n\"The car's literally wobbling in the driveway. I can't see the grass now it looks like it just snowed.\"\nAs of 9pm a severe thunderstorm warning remained in place for parts of the Central Highlands and Coalfields, Wide Bay and Burnett and Darling Downs and Granite Belt.\nThe bureau has forecast more extreme weather for much of south-east Queensland on Tuesday and warned the potential for very dangerous storm cells could even result in one or two brief and short-lived tornadoes.\nSenior forecaster Angus Hines said storms could bring \"significant damage\" including large hail, wind damage and flash flooding.",
+ "new_text": "A series of dangerous storms have dumped hail on Queensland's south-east and Fraser Coast.\nVision from Maryborough on Monday night shows hail accumulating in chunks on a road.\nLoading...\nThe Bureau of Meteorology issued a number of warnings for very dangerous and severe storms from north of Maryborough down to northern NSW.\nMore than 50 millimetres of rain was recorded in 30 minutes at Cooroy, on the Sunshine Coast.\nHervey Bay resident Michael was speaking to ABC 612 when his home was hit by a storm.\nHe said his front lawn looked like it was \"covered with golf balls\".\n\"The car's literally wobbling in the driveway. I can't see the grass now it looks like it just snowed.\"\nAs of 9pm a severe thunderstorm warning remained in place for parts of the Central Highlands and Coalfields, Wide Bay and Burnett and Darling Downs and Granite Belt.\nThe bureau has forecast more extreme weather for much of south-east Queensland on Tuesday and warned the potential for very dangerous storm cells could even result in one or two brief and short-lived tornadoes.\nSenior forecaster Angus Hines said storms could bring \"significant damage\" including large hail, wind damage and flash flooding.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "A series of dangerous storms have dumped hail on"
+    ],
+    [
+     "del",
+     "communities across"
+    ],
+    [
+     "ins",
+     "Queensland's"
+    ],
+    [
+     "eq",
+     "south-east"
+    ],
+    [
+     "del",
+     "Queensland."
+    ],
+    [
+     "ins",
+     "and Fraser Coast."
+    ],
+    [
+     "eq",
+     "Vision from Maryborough on Monday night shows"
+    ],
+    [
+     "del",
+     "built-up"
+    ],
+    [
+     "eq",
+     "hail accumulating in chunks"
+    ],
+    [
+     "del",
+     "across"
+    ],
+    [
+     "ins",
+     "on"
+    ],
+    [
+     "eq",
+     "a road. Loading... The Bureau of Meteorology issued a number of warnings"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0505,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9975,
+ "adjudicated_by": "rules"
+}

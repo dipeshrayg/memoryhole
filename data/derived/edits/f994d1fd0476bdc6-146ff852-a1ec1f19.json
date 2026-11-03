@@ -1,0 +1,280 @@
+{
+ "id": "f994d1fd0476bdc6-146ff852-a1ec1f19",
+ "url": "https://www.abc.net.au/news/2026-11-03/european-grocers-report-fridge-cyber-incidents/107338760",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-03T13:58:59Z",
+ "date": "2026-11-03",
+ "old_title": "Cyberattack on fridges hits supermarkets across Europe",
+ "new_title": "Cyber attack on fridges hits supermarkets across Europe",
+ "old_text": "In short:\nSupermarket chains across Europe have reported an IT incident which led to changes in fridge and freezer temperatures.\nBelieved to be a cyber attack, the incident has affected multiple supermarket chains, including one Ikea outlet in Belgium.\nWhat's next?\nThe head of Sweden's national cyber security centre said it had \"become clear\" how many operational technologies are exposed, and need to be protected.\nMultiple supermarket and grocery chains across Europe reported an IT incident impacting fridges and freezers overnight, with one company attributing the temperature spikes to a cyber attack.\nDutch supermarket chain Ahold Delhaize, and Belgian chain Colruyt said on Monday an IT incident overnight hit cold storage in dozens of stores in Belgium and Luxembourg, while Swedish grocers ICA and Coop reported similar temperature spikes.\nSwedish retailer Ikea also reported that one of its Belgian stores had suffered a similar issue affecting refrigeration, blaming a cyber attack and stating that some food products had been removed from shelves.\nThe EU's food commissioner, Christophe Hansen, said the incidents were \"a deliberate attempt\" to undermine consumer confidence in the EU's food supply, adding that there currently was no risk to the bloc's food security.\nThe incidents follow an attack in France last month, in which police said hackers seized control of cooling units at hundreds of supermarkets, raising temperatures up to 50 degrees Celsius, causing fires and food losses.\nAhold Delhaize also reported a cybersecurity incident to Dutch police last month after it detected suspicious activity in its infrastructure.\nOn Monday, Ahold Delhaize realised there had also been temperature increases in the cooling systems, according to company spokesperson Sarah De Meester.\nThe company is investigating the incident.\nStephan Moelans, the CEO of Belgian refrigeration company Sabcobel, which operates Ahold Delhaize's systems, told Belga news agency the incident was a cyber attack, in which the units' evaporators were switched to defrost mode.\nMr Moelans' office declined to comment when contacted by Reuters.\nA spokesperson for Colruyt Group, which operates Spar stores in Belgium under a franchise system, said the fridge system were attacked in five shops.\nFrom refrigerators and heating systems to security cameras and alarm networks, an expanding range of devices once largely mechanical can now be monitored and controlled remotely, creating new opportunities for cybercriminals.\nAuthorities have not indicated who could have been behind last month's incidents, and there were no claims of responsibility.\nSweden and Estonia impacted\nThe head of Sweden's national cybersecurity centre, John Billow, told Reuters it was working on several incidents regarding refrigeration systems in grocery stores around Sweden.\nOne Swedish ICA store said on social media the temperature of its refrigerators and freezers had been \"hacked\" overnight and set to 50 degrees.\nAt an ICA Baronen store in Stockholm, a notice said all the shop's freezers were broken due to a cyber attack. The store's sales manager said the attack happened at 2AM local time, and was noticed at 5.30AM.\n\"We are aware that a limited number of stores were affected by an incident overnight, which impacted their refrigeration and freezer systems,\" a spokesperson for ICA said.\nGrocery retail group Coop told Swedish news outlets six of its stores had been affected by similar incidents. It did not immediately respond to a request for comment.\n\"We have in recent weeks... identified that we have quite a lot of exposed operational technology devices in Sweden that we have been clear about the necessity to update or patch,\" Mr Billow said.\nAn Estonian supermarket chain was also affected, with temperatures set to 50 degrees, technology supplier Kitman Coldtech told public broadcaster ERR.\n\"This is very fresh, it happened this morning,\" Kitman CEO Jann Mutso told ERR.\nHe declined to name the affected grocery chain.",
+ "new_text": "In short:\nSupermarket chains across Europe have reported an IT incident that led to changes in fridge and freezer temperatures.\nBelieved to be a cyber attack, affected stores included an Ikea outlet in Belgium.\nWhat's next?\nA cybersecurity expert says it has \"become clear\" just how many technologies are exposed.\nMultiple supermarket and grocery chains across Europe have reported an IT incident affecting fridges and freezers overnight, with one company attributing the temperature spikes to a cyber attack.\nDutch supermarket chain Ahold Delhaize and Belgian chain Colruyt said on Monday a tech incident overnight hit cold storage in dozens of stores in Belgium and Luxembourg, while Swedish grocers ICA and Coop reported similar temperature spikes.\nSwedish retailer Ikea also reported that one of its Belgian stores had suffered a similar issue affecting refrigeration, blaming a cyber attack and stating that some food products had been removed from shelves.\nThe EU's food commissioner, Christophe Hansen, said the incidents were \"a deliberate attempt\" to undermine consumer confidence in the EU's food supply, adding that there currently was no risk to the bloc's food security.\nThe incidents follow an attack in France last month, in which police said hackers seized control of cooling units at hundreds of supermarkets, raising temperatures up to 50 degrees Celsius, causing fires and food losses.\nAhold Delhaize also reported a cybersecurity incident to Dutch police last month after it detected suspicious activity in its infrastructure.\nOn Monday, Ahold Delhaize realised there had also been temperature increases in the cooling systems, according to company spokesperson Sarah De Meester.\nThe company is investigating the incident.\nStephan Moelans, the CEO of Belgian refrigeration company Sabcobel, which operates Ahold Delhaize's systems, told Belga news agency the incident was a cyber attack, in which the units' evaporators were switched to defrost mode.\nMr Moelans's office declined to comment when contacted by Reuters.\nA spokesperson for Colruyt Group, which operates Spar stores in Belgium under a franchise system, said the fridge system was attacked in five shops.\nFrom refrigerators and heating systems to security cameras and alarm networks, an expanding range of devices once largely mechanical can now be monitored and controlled remotely, creating new opportunities for cybercriminals.\nAuthorities have not indicated who could have been behind last month's incidents, and there were no claims of responsibility.\nSweden and Estonia hit\nThe head of Sweden's national cybersecurity centre, John Billow, told Reuters it was working on several incidents regarding refrigeration systems in grocery stores around Sweden.\nOne Swedish ICA store said on social media the temperature of its refrigerators and freezers had been \"hacked\" overnight and set to 50 degrees.\nAt an ICA Baronen store in Stockholm, a notice said all the shop's freezers were broken due to a cyber attack. The store's sales manager said the attack happened at 2am local time, and was noticed at 5.30am.\n\"We are aware that a limited number of stores were affected by an incident overnight, which impacted their refrigeration and freezer systems,\" a spokesperson for ICA said.\nGrocery retail group Coop told Swedish news outlets six of its stores had been affected by similar incidents. It did not immediately respond to a request for comment.\n\"We have in recent weeks ... identified that we have quite a lot of exposed operational technology devices in Sweden that we have been clear about the necessity to update or patch,\" Mr Billow said.\nAn Estonian supermarket chain was also affected, with temperatures set to 50 degrees, technology supplier Kitman Coldtech told public broadcaster ERR.\n\"This is very fresh, it happened this morning,\" Kitman CEO Jann Mutso told ERR.\nHe declined to name the affected grocery chain.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "In short: Supermarket chains across Europe have reported an IT incident"
+    ],
+    [
+     "del",
+     "which"
+    ],
+    [
+     "ins",
+     "that"
+    ],
+    [
+     "eq",
+     "led to changes in fridge and freezer temperatures. Believed to be a cyber attack,"
+    ],
+    [
+     "del",
+     "the incident has"
+    ],
+    [
+     "eq",
+     "affected"
+    ],
+    [
+     "del",
+     "multiple supermarket chains, including one"
+    ],
+    [
+     "ins",
+     "stores included an"
+    ],
+    [
+     "eq",
+     "Ikea outlet in Belgium. What's next?"
+    ],
+    [
+     "del",
+     "The head of Sweden's national cyber security centre said"
+    ],
+    [
+     "ins",
+     "A cybersecurity expert says"
+    ],
+    [
+     "eq",
+     "it"
+    ],
+    [
+     "del",
+     "had"
+    ],
+    [
+     "ins",
+     "has"
+    ],
+    [
+     "eq",
+     "\"become clear\""
+    ],
+    [
+     "ins",
+     "just"
+    ],
+    [
+     "eq",
+     "how many"
+    ],
+    [
+     "del",
+     "operational"
+    ],
+    [
+     "eq",
+     "technologies are"
+    ],
+    [
+     "del",
+     "exposed, and need to be protected."
+    ],
+    [
+     "ins",
+     "exposed."
+    ],
+    [
+     "eq",
+     "Multiple supermarket and grocery chains across Europe"
+    ],
+    [
+     "ins",
+     "have"
+    ],
+    [
+     "eq",
+     "reported an IT incident"
+    ],
+    [
+     "del",
+     "impacting"
+    ],
+    [
+     "ins",
+     "affecting"
+    ],
+    [
+     "eq",
+     "fridges and freezers overnight, with one company attributing the temperature spikes to a cyber attack. Dutch supermarket chain Ahold"
+    ],
+    [
+     "del",
+     "Delhaize,"
+    ],
+    [
+     "ins",
+     "Delhaize"
+    ],
+    [
+     "eq",
+     "and Belgian chain Colruyt said on Monday"
+    ],
+    [
+     "del",
+     "an IT"
+    ],
+    [
+     "ins",
+     "a tech"
+    ],
+    [
+     "eq",
+     "incident overnight hit cold storage in dozens of stores in Belgium and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "attack, in which the units' evaporators were switched to defrost mode. Mr"
+    ],
+    [
+     "del",
+     "Moelans'"
+    ],
+    [
+     "ins",
+     "Moelans's"
+    ],
+    [
+     "eq",
+     "office declined to comment when contacted by Reuters. A spokesperson for Colruyt"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Spar stores in Belgium under a franchise system, said the fridge system"
+    ],
+    [
+     "del",
+     "were"
+    ],
+    [
+     "ins",
+     "was"
+    ],
+    [
+     "eq",
+     "attacked in five shops. From refrigerators and heating systems to security cameras"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "month's incidents, and there were no claims of responsibility. Sweden and Estonia"
+    ],
+    [
+     "del",
+     "impacted"
+    ],
+    [
+     "ins",
+     "hit"
+    ],
+    [
+     "eq",
+     "The head of Sweden's national cybersecurity centre, John Billow, told Reuters it"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "a cyber attack. The store's sales manager said the attack happened at"
+    ],
+    [
+     "del",
+     "2AM"
+    ],
+    [
+     "ins",
+     "2am"
+    ],
+    [
+     "eq",
+     "local time, and was noticed at"
+    ],
+    [
+     "del",
+     "5.30AM."
+    ],
+    [
+     "ins",
+     "5.30am."
+    ],
+    [
+     "eq",
+     "\"We are aware that a limited number of stores were affected by"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "not immediately respond to a request for comment. \"We have in recent"
+    ],
+    [
+     "del",
+     "weeks..."
+    ],
+    [
+     "ins",
+     "weeks ..."
+    ],
+    [
+     "eq",
+     "identified that we have quite a lot of exposed operational technology devices"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0952,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9794,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,240 @@
+{
+ "id": "47d1950be67746f0-df3ababd-d01d0fef",
+ "url": "https://www.theguardian.com/sport/2026/nov/02/asa-tribe-england-lions-cricket-tour-st-kitts-ebola-rules-kenya-trip",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-11-03T14:08:15Z",
+ "date": "2026-11-03",
+ "old_title": "Asa Tribe barred from England Lions tour under Ebola rules after Kenya trip",
+ "new_title": "Asa Tribe barred from England Lions tour under Ebola rules after Kenya trip",
+ "old_text": "The Glamorgan opener Asa Tribe has been barred from joining the England Lions tour of the Caribbean following a visit to Kenya and concerns over the recent outbreak of Ebola in east Africa.\nTribe, 22, is able to represent his native Jersey until he wins a first senior England cap and played three List A games for the associate nation in Nairobi last month. From there he was due to join the England Lions squad in St Kitts and Nevis.\nHowever, the emergence of the deadly Ebola virus in Kenya - with nine confirmed cases, including two fatalities - has seen the government of St Kitts and Nevis place an entry ban on recent non-national visitors to the country.\nA spokesperson for the England and Wales Cricket Board said: \"Asa Tribe was unable to enter Saint Kitts & Nevis, having recently travelled to Kenya. Saint Kitts & Nevis currently have a 21-day non-entry rule in place for non-nationals who have been in Kenya due to the Ebola situation in Kenya and seven other countries in Africa. Asa is back in the UK, and we are in touch with the relevant authorities.\"\nIt is understood that after playing his final match in Nairobi on 27 October, Tribe was then intending to travel to St Kitts and Nevis using connecting flights. He had made it as far as Paris before discovering the problem.\nIn his absence, England Lions began their T20 series with an eight-wicket victory over West Indies A on Sunday. Thomas Rew, captaining aged 18, struck an unbeaten 50 as England's second string chased down a target of 99 in 10.1 overs.\nThere are four T20s and three 50-over matches to come but with all seven matches taking place in St Kitts - and the last one being held on 16 November - Tribe appears unlikely to make a late appearance on tour without a waiver.",
+ "new_text": "The Glamorgan opener Asa Tribe has been barred from joining the England Lions tour of the Caribbean following a visit to Kenya and concerns over the recent outbreak of Ebola in east Africa.\nTribe is able to represent his native Jersey until he wins a first senior England cap and played three List A games for the associate nation in Nairobi last month. From there he was due to join the England Lions squad in St Kitts and Nevis.\nHowever, the emergence of thee deadly Ebola virus in Kenya - with nine confirmed cases, including two fatalities - has led to the government of St Kitts and Nevis placing an entry ban on recent non‐national visitors to the country.\nA spokesperson for the England and Wales Cricket Board said: \"Asa Tribe was unable to enter St Kitts and Nevis, having recently travelled to Kenya. Saint Kitts and Nevis currently have a 21-day non‐entry rule in place for non‐nationals who have been in Kenya due to the Ebola situation in Kenya and seven other countries in Africa. Asa is back in the UK, and we are in touch with the relevant authorities.\"\nIt is understood that after playing his final match in Nairobi on 27 October, Tribe was then intending to travel to St Kitts and Nevis using connecting flights. He had made it as far as Paris before discovering the problem.\nIn his absence, England Lions began their T20 series with an eight‐wicket win against West Indies A on Sunday. Thomas Rew, captaining aged 18, struck an unbeaten 50 as England's second string chased down a target of 99 in 10.1 overs.\nThere are two T20s and five 50-over games to come but with all seven matches taking place in St Kitts - and the last one being held on 16 November - the 22-year-old Tribe appears unlikely to make a late appearance on tour without a waiver.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Kenya and concerns over the recent outbreak of Ebola in east Africa."
+    ],
+    [
+     "del",
+     "Tribe, 22,"
+    ],
+    [
+     "ins",
+     "Tribe"
+    ],
+    [
+     "eq",
+     "is able to represent his native Jersey until he wins a first"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "England Lions squad in St Kitts and Nevis. However, the emergence of"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "ins",
+     "thee"
+    ],
+    [
+     "eq",
+     "deadly Ebola virus in Kenya - with nine confirmed cases, including two fatalities - has"
+    ],
+    [
+     "del",
+     "seen"
+    ],
+    [
+     "ins",
+     "led to"
+    ],
+    [
+     "eq",
+     "the government of St Kitts and Nevis"
+    ],
+    [
+     "del",
+     "place"
+    ],
+    [
+     "ins",
+     "placing"
+    ],
+    [
+     "eq",
+     "an entry ban on recent"
+    ],
+    [
+     "del",
+     "non-national"
+    ],
+    [
+     "ins",
+     "non‐national"
+    ],
+    [
+     "eq",
+     "visitors to the country. A spokesperson for the England and Wales Cricket Board said: \"Asa Tribe was unable to enter"
+    ],
+    [
+     "del",
+     "Saint"
+    ],
+    [
+     "ins",
+     "St"
+    ],
+    [
+     "eq",
+     "Kitts"
+    ],
+    [
+     "del",
+     "&"
+    ],
+    [
+     "ins",
+     "and"
+    ],
+    [
+     "eq",
+     "Nevis, having recently travelled to Kenya. Saint Kitts"
+    ],
+    [
+     "del",
+     "&"
+    ],
+    [
+     "ins",
+     "and"
+    ],
+    [
+     "eq",
+     "Nevis currently have a 21-day"
+    ],
+    [
+     "del",
+     "non-entry"
+    ],
+    [
+     "ins",
+     "non‐entry"
+    ],
+    [
+     "eq",
+     "rule in place for"
+    ],
+    [
+     "del",
+     "non-nationals"
+    ],
+    [
+     "ins",
+     "non‐nationals"
+    ],
+    [
+     "eq",
+     "who have been in Kenya due to the Ebola situation in Kenya"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "problem. In his absence, England Lions began their T20 series with an"
+    ],
+    [
+     "del",
+     "eight-wicket victory over"
+    ],
+    [
+     "ins",
+     "eight‐wicket win against"
+    ],
+    [
+     "eq",
+     "West Indies A on Sunday. Thomas Rew, captaining aged 18, struck an"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "string chased down a target of 99 in 10.1 overs. There are"
+    ],
+    [
+     "del",
+     "four"
+    ],
+    [
+     "ins",
+     "two"
+    ],
+    [
+     "eq",
+     "T20s and"
+    ],
+    [
+     "del",
+     "three"
+    ],
+    [
+     "ins",
+     "five"
+    ],
+    [
+     "eq",
+     "50-over"
+    ],
+    [
+     "del",
+     "matches"
+    ],
+    [
+     "ins",
+     "games"
+    ],
+    [
+     "eq",
+     "to come but with all seven matches taking place in St Kitts - and the last one being held on 16 November -"
+    ],
+    [
+     "ins",
+     "the 22-year-old"
+    ],
+    [
+     "eq",
+     "Tribe appears unlikely to make a late appearance on tour without a waiver."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1139,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9893,
+ "adjudicated_by": "rules"
+}
