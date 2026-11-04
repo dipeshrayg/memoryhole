@@ -1,0 +1,88 @@
+{
+ "id": "81116927e8f652ad-e87682f9-efe016ef",
+ "url": "https://variety.com/2026/tv/news/ms-now-no-news-fatigue-fox-news-1236938360/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-11-04T14:18:05Z",
+ "date": "2026-11-04",
+ "old_title": "Versant CEO: MS NOW Not Suffering From 'News Fatigue' Like Fox News",
+ "new_title": "Versant CEO: MS NOW Not Suffering From 'News Fatigue' Like Fox News",
+ "old_text": "If Fox News' viewers are growing weary of the headlines, MS NOW's are not.\nViewers of the Versant Media-backed cable outlet appear to be growing more interested, not less, in the current news cycle, according to remarks made by Mark Lazarus, the company's CEO, to investors Tuesday. Lazarus was responding to a question about the state of interest in news following comments made Monday by Fox Corp. CEO Lachlan Murdoch, who said Fox News' audience had \"viewer fatigue,\" which had resulted in a ratings downturn in both the third quarter and October.\n\"We are not seeing any of that viewer fatigue,\" Lazarus said, suggesting that recent growth in MS NOW's ratings may be fueled by audiences who are leaving other networks. \"I think some of the viewership is leaving other places and trying us, and spending some more time with us because I think they're seeing the value in what we're providing,\" he said.\nNeither CEO said as much, but the executives stand on opposite sides of the red-vs.-blue divide. Viewers at Fox News, which caters to a conservative crowd, have likely been put off by growing poll projections that call for Republicans to lose seats in both the U.S. House and Senate on Election Day. Meanwhile, MS NOW's audiences, which tilt left, are no doubt encouraged.\nIndeed, Lazarus called MS NOW's coming Election Day coverage would be a stand-out event. \"Today is the Super Bowl for the news organization,\" the executive said. \"We believe we will continue to grow audiences for MS NOW.\"\n\"I mean, we're not seeing, currently not seeing any fatigue with our audiences. Our audiences are active and vibrant and growing for MS NOW, and for that matter, with CNBC,\" Lazarus added.\nTo be sure, the audience for Fox News Channel continues to dwarf that of its competitors. Fox News won an average of 2.06 million total viewers in primetime in the third quarter, compared with 930,000 viewers at MS NOW. Among viewers between 25 and 54 - the demographic most coveted by advertisers - Fox News captured an average of 183,000 in primetime, compared with 84,000 at MS NOW.\nBut Fox News' numbers are eroding, while MS NOW's are growing. The primetime averages for Fox News in the third quarter fell 17% among overall viewers and nearly 25% in the advertiser demo. MS NOW's primetime averages were up 16% in total viewers and up 27.3% among viewers between 25 and 54.\nOn Monday, Murdoch suggested a spate of tough headlines, including flooding in parts of the U.S. and the assassination of conservative activist Charlie Kirk, had turned some part of the Fox News audience off of watching the news. \"Those viewers are not going to any other news channel,\" Murdoch said during the analyst call. Instead, he suggested, \"they are just fatigued and watching slightly less television.\" Executives at Fox News Media, he said, have seen the dynamic before and have a \"playbook\" and know how to navigate the trend.\nIf Lazarus seemed to be tweaking his contemporary, well, Murdoch kind of started it. During the Fox call on Monday, he indicated he did not think much of Fox News' rivals. \"You can't really call them peers, but our cable news competitors,\" he said.",
+ "new_text": "If Fox News' viewers are growing weary of the headlines, MS NOW's are not.\nViewers of the Versant Media-backed cable outlet appear to be growing more interested, not less, in the current news cycle, according to remarks made by Mark Lazarus, the company's CEO, to investors Tuesday. Lazarus was responding to a question about the state of interest in news following comments made Monday by Fox Corp. CEO Lachlan Murdoch, who said Fox News' audience had \"viewer fatigue,\" which had resulted in a ratings downturn in both the third quarter and October.\n\"We are not seeing any of that viewer fatigue,\" Lazarus said, suggesting that recent growth in MS NOW's ratings may be fueled by audiences who are leaving other networks. \"I think some of the viewership is leaving other places and trying us, and spending some more time with us because I think they're seeing the value in what we're providing,\" he said.\nNeither CEO said as much, but the executives stand on opposite sides of the red-vs.-blue divide. Viewers at Fox News, which caters to a conservative crowd, have likely been put off by growing poll projections that call for Republicans to lose seats in both the U.S. House and Senate on Election Day. Meanwhile, MS NOW's audiences, which tilt left, are no doubt encouraged.\nIndeed, Lazarus called MS NOW's coming Election Day coverage would be a stand-out event. \"Today is the Super Bowl for the news organization,\" the executive said. \"We believe we will continue to grow audiences for MS NOW.\"\n\"I mean, we're not seeing, currently not seeing any fatigue with our audiences. Our audiences are active and vibrant and growing for MS NOW, and for that matter, with CNBC,\" Lazarus added.\nTo be sure, the audience for Fox News Channel continues to dwarf that of its competitors. Fox News won an average of 2.06 million total viewers in primetime in the third quarter, compared with 930,000 viewers at MS NOW. Among viewers between 25 and 54 - the demographic most coveted by advertisers - Fox News captured an average of 183,000 in primetime, compared with 84,000 at MS NOW.\nBut Fox News' numbers are eroding, while MS NOW's are growing. The primetime averages for Fox News in the third quarter fell 17% among overall viewers and nearly 25% in the advertiser demo. MS NOW's primetime averages were up 16% in total viewers and up 27.3% among viewers between 25 and 54.\nOn Monday, Murdoch suggested a spate of big stories, including flooding in parts of the U.S. and the assassination of conservative activist Charlie Kirk, had lured bigger audiences in the past year and raised the bar in terms of year over year audience comparisons. But he didn't feel Fox News was losing its audience. \"Those viewers are not going to any other news channel,\" Murdoch said during the analyst call. Instead, he suggested, \"they are just fatigued and watching slightly less television.\" Executives at Fox News Media, he said, have seen the dynamic before and have a \"playbook\" and know how to navigate the trend.\nIf Lazarus seemed to be tweaking his contemporary, well, Murdoch kind of started it. During the Fox call on Monday, he indicated he did not think much of Fox News' rivals. \"You can't really call them peers, but our cable news competitors,\" he said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "viewers between 25 and 54. On Monday, Murdoch suggested a spate of"
+    ],
+    [
+     "del",
+     "tough headlines,"
+    ],
+    [
+     "ins",
+     "big stories,"
+    ],
+    [
+     "eq",
+     "including flooding in parts of the U.S. and the assassination of conservative activist Charlie Kirk, had"
+    ],
+    [
+     "del",
+     "turned some part"
+    ],
+    [
+     "ins",
+     "lured bigger audiences in the past year and raised the bar in terms"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "ins",
+     "year over year audience comparisons. But he didn't feel"
+    ],
+    [
+     "eq",
+     "Fox News"
+    ],
+    [
+     "del",
+     "audience off of watching the news."
+    ],
+    [
+     "ins",
+     "was losing its audience."
+    ],
+    [
+     "eq",
+     "\"Those viewers are not going to any other news channel,\" Murdoch said"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0742,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

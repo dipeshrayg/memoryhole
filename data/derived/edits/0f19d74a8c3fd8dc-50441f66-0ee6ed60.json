@@ -1,0 +1,48 @@
+{
+ "id": "0f19d74a8c3fd8dc-50441f66-0ee6ed60",
+ "url": "https://variety.com/2026/film/global/jason-statham-guy-ritchie-dogfight-netflix-action-film-1236938327/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-11-04T14:18:09Z",
+ "date": "2026-11-04",
+ "old_title": "Jason Statham and Guy Ritchie Reunite - Again - for Netflix Revenge Action Movie 'Dogfight'",
+ "new_title": "Jason Statham and Guy Ritchie Reunite - Again - for Netflix Revenge Action Movie 'Dogfight'",
+ "old_text": "The Jason Statham-Guy Ritchie partnership is set to extend into a seventh film.\n\"Dogfight\" - announced by Netflix - is described as a \"stylish revenge actioner\" set in the London criminal underworld. No other plot details have been revealed, but it's safe to presume there'll be guns, blood and - probably - some mean-looking faces. Production is due to commence n early 2027, with filming taking place in the U.K.\nLike almost all of their previous collaborations, Ritchie will write, direct and produce, while Statham will star.\nProduction companies on \"Dogfight\" are Black Bear Pictures, behind most of Ritchie's recent titles (including his latest releases \"In the Grey\" and \"Wife & Dog\") plus Ritchie's own Toff Guy Films and Statham's Punch Palace Productions. Producers include Ritchie, Statham, Ritchie's Toff Guy partner Ivan Atkinson and John Friedberg from Black Bear.\n\"Dogfight\" lengthens a long-running and hugely successful relationship between the director and his action star, which began when Ritchie gave Statham his first film role in his 1998 directorial debut \"Lock, Stock and Two Smoking Barrels.\" This partnership would continue with \"Snatch,\" \"Revolver,\" \"Wrath of Man\" and \"Operation Fortune: Rose de Guerre.\"\nThe pair's latest feature together, announced last year by Variety, is the action-thriller \"Viva La Madness,\" based on J.J. Connolly's novel and the author's sequel to \"Layer Cake,\" which was adapted into the 2004 film by Matthew Vaughn. Principal photography on the film wrapped earlier this year, with Black Bear distributing in North America and Amazon MGM Studios holding rights to most international territories.",
+ "new_text": "The Jason Statham-Guy Ritchie partnership is set to extend into a seventh film.\n\"Dogfight\" - announced by Netflix - is described as a \"stylish revenge actioner\" set in the London criminal underworld. No other plot details have been revealed, but it's safe to presume there'll be guns, blood and - probably - some mean-looking faces. Production is due to commence n early 2027, with filming taking place in the U.K.\nLike almost all of their previous collaborations, Ritchie will write, direct and produce, while Statham will star.\nProduction companies on \"Dogfight\" are Black Bear Pictures, behind most of Ritchie's recent titles (including his latest releases \"In the Grey\" and \"Wife & Dog\") plus Ritchie's own Toff Guy Films and Statham's Punch Palace Productions. Producers include Ritchie, Statham, Ritchie's Toff Guy partner Ivan Atkinson and John Friedberg from Black Bear.\n\"Dogfight\" lengthens a long-running and hugely successful relationship between the director and his action star, which began when Ritchie gave Statham his first film role in his 1998 directorial debut \"Lock, Stock and Two Smoking Barrels.\" This partnership would continue with \"Snatch,\" \"Revolver,\" \"Wrath of Man\" and \"Operation Fortune: Rose de Guerre.\"\nThe pair's latest feature together, announced last year by Variety, is the action-thriller \"Viva La Madness,\" based on J.J. Connolly's novel and the author's sequel to \"Layer Cake,\" which was adapted into the 2004 film by Matthew Vaughn. However, while plot details have been kept under wraps, \"Viva La Madness\" has been described as a standalone film and not a continuation of previous work. Principal photography on the film wrapped earlier this year, with Black Bear distributing in North America and Amazon MGM Studios holding rights to most international territories.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "\"Layer Cake,\" which was adapted into the 2004 film by Matthew Vaughn."
+    ],
+    [
+     "ins",
+     "However, while plot details have been kept under wraps, \"Viva La Madness\" has been described as a standalone film and not a continuation of previous work."
+    ],
+    [
+     "eq",
+     "Principal photography on the film wrapped earlier this year, with Black Bear"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.102,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

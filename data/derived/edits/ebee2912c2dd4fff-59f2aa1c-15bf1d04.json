@@ -1,0 +1,100 @@
+{
+ "id": "ebee2912c2dd4fff-59f2aa1c-15bf1d04",
+ "url": "https://www.abc.net.au/news/2026-11-03/weight-loss-tablet-cleared-for-use-in-australia/107343340",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-04T14:06:49Z",
+ "date": "2026-11-04",
+ "old_title": "TGA clears weight loss tablets for use in Australia",
+ "new_title": "TGA clears weight-loss tablets for use in Australia",
+ "old_text": "Daily weight loss tablet Wegovy cleared by TGA for use in Australia\nIn short:\nA daily Wegovy tablet has been cleared for use in Australia.\nIt is the first GLP-1 approved by the TGA in oral form.\nWhat's next?\nThe TGA is yet to review the packaging and production processes to confirm they meet standards before the product is released.",
+ "new_text": "Daily weight-loss tablet Wegovy cleared by TGA for use in Australia\nIn short:\nA daily Wegovy tablet has been cleared for use in Australia.\nIt is the first GLP-1 approved by the Therapeutic Goods Administration in oral form.\nWhat's next?\nThe TGA has yet to review the packaging and production processes to confirm they meet standards before releasing the product.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Daily"
+    ],
+    [
+     "del",
+     "weight loss"
+    ],
+    [
+     "ins",
+     "weight-loss"
+    ],
+    [
+     "eq",
+     "tablet Wegovy cleared by TGA for use in Australia In short: A"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "for use in Australia. It is the first GLP-1 approved by the"
+    ],
+    [
+     "del",
+     "TGA"
+    ],
+    [
+     "ins",
+     "Therapeutic Goods Administration"
+    ],
+    [
+     "eq",
+     "in oral form. What's next? The TGA"
+    ],
+    [
+     "del",
+     "is"
+    ],
+    [
+     "ins",
+     "has"
+    ],
+    [
+     "eq",
+     "yet to review the packaging and production processes to confirm they meet standards before"
+    ],
+    [
+     "ins",
+     "releasing"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "product is released."
+    ],
+    [
+     "ins",
+     "product."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2333,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9881,
+ "adjudicated_by": "rules"
+}

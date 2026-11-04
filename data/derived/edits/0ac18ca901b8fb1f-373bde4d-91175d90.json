@@ -1,0 +1,52 @@
+{
+ "id": "0ac18ca901b8fb1f-373bde4d-91175d90",
+ "url": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-11-04T14:11:30Z",
+ "date": "2026-11-04",
+ "old_title": "'Quiet quitting' could be hitting the economy - here's why",
+ "new_title": "'Quiet quitting' could be hitting the economy - here's why",
+ "old_text": "- Published\nThe so-called \"quiet quitting\" trend where workers do the basic requirements of a job but refuse to do anything more might be hitting the economy, analysis has found.\nOver the last decade, Britons have become less engaged with the jobs they do and are less willing to put in extra effort, according to a Resolution Foundation report.\nThe thinktank said this could partly help explain the slump in productivity since the pandemic.\n\"This is self-evidently bad for workers, but it also doesn't bode well for productivity and labour supply, both of which are vital for lifting living standards in the years ahead,\" said Hannah Slaughter, principal economist at the Resolution Foundation.\nQuiet quitting was popularised on social media shortly after the pandemic.\nFrustrated by high demands, low pay, and a squeeze in living standards, many online posts said workers should only do what their bosses asked and nothing more.\nSo you still show up for work, but no more helping out with additional tasks or checking emails outside work hours, instead focusing on work-life balance and \"acting your wage\".\nYet, far from being just a talking point on TikTok, the Resolution Foundation said the findings in its report were \"consistent\" with the idea of quiet quitting.\nThe percentage of those surveyed willing to go the extra mile to help their employer has sunk from 69% in 2015 to 55% in 2025, according to their survey of 4,656 adults.\nMeanwhile, those who were not even \"fairly\" satisfied with their roles has sank to one-in-four, the lowest level on record.\nIn addition, workers are less likely than 10 years ago to say they have an interesting job, with 63% of those surveyed saying so, down from 74%.\n\"Workers today are indeed a little less committed to their employers, and a little less intrinsically drawn to work in general, than workers were a decade ago,\" the report added.\nThis shift over the last decade \"may have contributed to weak productivity growth\", which has slowed since the financial crisis and weakened again after the pandemic, the Resolution Foundation found.\nWorkers were also more focused on pay than in the past, which it said was \"perhaps unsurprising... given the flatlining living standards of the past decade\".\nSir John Curtice, politics professor and co-editor of the report, said the analysis does not mean that young people have \"become more 'work-shy', nor have workers in general become more reluctant to change jobs\".\n\"But if workers are to be fully engaged in their work, it has seemingly become more important for employers to provide jobs that are both financially rewarding and have flexible work hours,\" he added.",
+ "new_text": "- Published\nThe so-called \"quiet quitting\" trend where workers do the basic requirements of a job but refuse to do anything more might be hitting the economy, analysis has found.\nOver the last decade, Britons have become less engaged with the jobs they do and are less willing to put in extra effort, according to a Resolution Foundation report.\nThe thinktank said this could partly help explain the slump in productivity since the pandemic.\n\"This is self-evidently bad for workers, but it also doesn't bode well for productivity and labour supply, both of which are vital for lifting living standards in the years ahead,\" said Hannah Slaughter, principal economist at the Resolution Foundation.\nQuiet quitting was popularised on social media shortly after the pandemic.\nFrustrated by high demands, low pay, and a squeeze in living standards, many online posts said workers should only do what their bosses asked and nothing more.\nSo you still show up for work, but no more helping out with additional tasks or checking emails outside work hours, instead focusing on work-life balance and \"acting your wage\".\nYet, far from being just a talking point on TikTok, the Resolution Foundation said the findings in its report were \"consistent\" with the idea of quiet quitting.\nThe percentage of those surveyed willing to go the extra mile to help their employer has sunk from 69% in 2015 to 55% in 2025, according to their survey of 4,656 adults.\nMeanwhile, those who were not even \"fairly\" satisfied with their roles has sunk to one-in-four, the lowest level on record.\nIn addition, workers are less likely than 10 years ago to say they have an interesting job, with 63% of those surveyed saying so, down from 74%.\n\"Workers today are indeed a little less committed to their employers, and a little less intrinsically drawn to work in general, than workers were a decade ago,\" the report added.\nThis shift over the last decade \"may have contributed to weak productivity growth\", which has slowed since the financial crisis and weakened again after the pandemic, the Resolution Foundation found.\nWorkers were also more focused on pay than in the past, which it said was \"perhaps unsurprising... given the flatlining living standards of the past decade\".\nSir John Curtice, politics professor and co-editor of the report, said the analysis does not mean that young people have \"become more 'work-shy', nor have workers in general become more reluctant to change jobs\".\n\"But if workers are to be fully engaged in their work, it has seemingly become more important for employers to provide jobs that are both financially rewarding and have flexible work hours,\" he added.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Meanwhile, those who were not even \"fairly\" satisfied with their roles has"
+    ],
+    [
+     "del",
+     "sank"
+    ],
+    [
+     "ins",
+     "sunk"
+    ],
+    [
+     "eq",
+     "to one-in-four, the lowest level on record. In addition, workers are less"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0045,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,58 @@
+{
+ "id": "869e9a5fedeed449-207fe36c-5c3a484d",
+ "url": "https://www.france24.com/en/video/20261103-us-supreme-court-rejects-trump-request-to-set-aside-20-000-california-ballots",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-04T14:06:01Z",
+ "date": "2026-11-04",
+ "old_title": "US Supreme court rejects Trump request to set aside 20,000 California ballots",
+ "new_title": "US Supreme court rejects Trump request to set aside 20,000 California ballots",
+ "old_text": "Video contentVideo\nUS Supreme court rejects Trump request to set aside 20,000 California ballots\nIssued on:\nShare\nThe US Supreme Court rejected on Monday, November 3, the Trump administration's push to force California to set aside 20,000 ballots from people the federal government claims are noncitizens, a decision that came hours before the final day of voting in the pivotal midterm elections. FRANCE 24's correspondent Wassim Cornet reports.",
+ "new_text": "Video contentVideo\nUS Supreme court rejects Trump request to set aside 20,000 California ballots\nIssued on: Modified:\nShare\nThe US Supreme Court rejected the Trump administration's push to force California to set aside 20,000 ballots from people the federal government claims are noncitizens, a decision that came hours before the final day of voting in the pivotal midterm elections. FRANCE 24's correspondent Wassim Cornet reports.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "court rejects Trump request to set aside 20,000 California ballots Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "Share The US Supreme Court rejected"
+    ],
+    [
+     "del",
+     "on Monday, November 3,"
+    ],
+    [
+     "eq",
+     "the Trump administration's push to force California to set aside 20,000 ballots"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0735,
+  "numbers_changed": [
+   "3"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.991,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,100 @@
+{
+ "id": "80233dcadec1bea7-0bfa28bf-0965091c",
+ "url": "https://www.abc.net.au/news/2026-11-03/beaconsfield-miner-todd-russell-last-days-health-battle/107343156",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-04T14:06:57Z",
+ "date": "2026-11-04",
+ "old_title": "Beaconsfield miner Todd Russell to 'see out' last days at home amid health battle",
+ "new_title": "Beaconsfield miner Todd Russell to 'see out' last days at home amid health battle",
+ "old_text": "Beaconsfield mine collapse survivor Todd Russell has announced he is leaving hospital treatment and will \"see out his days\" at home surrounded by his family.\nMr Russell, 54, was one of two Tasmanian miners thrown into the world spotlight after becoming trapped underground by a rockfall at the Beaconsfield gold mine, in northern Tasmania, on Anzac Day 2006.\nHe and co-worker Brant Webb were presumed dead after the body of a third miner, Larry Knight, was found.\nThey were discovered alive six days later, setting off a rescue operation that lasted another eight days and had the world captivated.\nIn July 2024, it was announced that Mr Russell had received \"some unfortunate health news and has been unwell\".\nIn October last year, Mr Russell posted an image from hospital, announcing he has started treatment for an undisclosed illness and was hoping to \"get back to my old self\".\nToday, Mr Russell took to social media to announce that \"after years of pain, uncertainty, appointments, treatments, setbacks, and endless battles plus the emotional exhaustion of having to pick myself up time and time again, have left me with nothing left to give\".\n\"The time has come, medically and physically, where there are no further options on either front for me, and there is no more fight left in me.\n\"I will leave hospital tomorrow after eight and a half months for the last time to see out my days in my own home surrounded by my wife, kids, loved ones and friends.\nMr Russell posted a \"massive thank you to the incredible staff at the Launceston General Hospital\" for their \"overwhelming support, care and kindness have helped to soften the daily grind of what has been an incredibly difficult journey\".\nMr Russell was up until recently active in his local community, as a firefighter and also having a career as a motivational speaker talking about his ordeal at the mine.\nHe has also openly discussed his battle with mental health challenges following the experience at Beaconsfield.",
+ "new_text": "Beaconsfield mine collapse survivor Todd Russell has announced he is leaving hospital treatment and will \"see out his days\" at home surrounded by his family.\nMr Russell, 54, was one of two Tasmanian miners thrown into the world spotlight after becoming trapped underground by a rockfall at the Beaconsfield gold mine, in northern Tasmania, on Anzac Day 2006.\nHe and co-worker Brant Webb were presumed dead after the body of a third miner, Larry Knight, was found.\nThey were discovered alive six days later, setting off a rescue operation that lasted another eight days and had the world captivated.\nIn July 2024, it was announced that Mr Russell had received \"some unfortunate health news and has been unwell\".\nIn October last year, Mr Russell posted an image from hospital, announcing he had started treatment for an undisclosed illness and was hoping to \"get back to my old self\".\nToday, Mr Russell took to social media to announce that \"after years of pain, uncertainty, appointments, treatments, setbacks, and endless battles plus the emotional exhaustion of having to pick myself up time and time again, have left me with nothing left to give\".\n\"The time has come, medically and physically, where there are no further options on either front for me, and there is no more fight left in me.\n\"I will leave hospital tomorrow after eight and a half months for the last time to see out my days in my own home surrounded by my wife, kids, loved ones and friends.\nMr Russell posted a \"massive thank you to the incredible staff at the Launceston General Hospital\" for their \"overwhelming support, care and kindness have helped to soften the daily grind of what has been an incredibly difficult journey\".\nMr Russell was active in his local community until recently, as a firefighter and as a motivational speaker who has spoken about his ordeal at the mine.\nHe has also openly discussed his battle with mental health challenges following the experience at Beaconsfield.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "October last year, Mr Russell posted an image from hospital, announcing he"
+    ],
+    [
+     "del",
+     "has"
+    ],
+    [
+     "ins",
+     "had"
+    ],
+    [
+     "eq",
+     "started treatment for an undisclosed illness and was hoping to \"get back"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "grind of what has been an incredibly difficult journey\". Mr Russell was"
+    ],
+    [
+     "del",
+     "up until recently"
+    ],
+    [
+     "eq",
+     "active in his local"
+    ],
+    [
+     "del",
+     "community,"
+    ],
+    [
+     "ins",
+     "community until recently,"
+    ],
+    [
+     "eq",
+     "as a firefighter and"
+    ],
+    [
+     "del",
+     "also having a career"
+    ],
+    [
+     "eq",
+     "as a motivational speaker"
+    ],
+    [
+     "del",
+     "talking"
+    ],
+    [
+     "ins",
+     "who has spoken"
+    ],
+    [
+     "eq",
+     "about his ordeal at the mine. He has also openly discussed his battle with mental health challenges following the experience at Beaconsfield."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0507,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9998,
+ "adjudicated_by": "rules"
+}

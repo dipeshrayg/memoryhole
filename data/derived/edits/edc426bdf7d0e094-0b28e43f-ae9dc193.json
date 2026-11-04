@@ -1,0 +1,140 @@
+{
+ "id": "edc426bdf7d0e094-0b28e43f-ae9dc193",
+ "url": "https://www.theguardian.com/sport/2026/nov/03/24-year-old-woman-dies-after-collapasing-in-final-stages-of-new-york-city-marathon",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-11-04T14:15:06Z",
+ "date": "2026-11-04",
+ "old_title": "24-year-old woman dies after collapsing in final stages of New York City Marathon",
+ "new_title": "24-year-old woman dies after collapsing in final stages of New York City Marathon",
+ "old_text": "A 24-year-old woman died after collapsing during the final stages of Sunday's New York City Marathon, her father has said.\nRachel Apa's father, Steve Apa, told the New York Times his daughter was in Central Park, two miles from the end of the race, when she collapsed. It was Rachel's first marathon and she was running as part of the Parkinson's Champions team in honor of her late grandfather, who suffered from the disease.\nSteve Apa told the Times that his daughter had played field hockey at college and was in \"perfect health, perfect shape\".\nRachel, from Lewisberry, Pennsylvania, was being cheered on by Steve and her mother, Michelle Apa, on Sunday.\nMichelle Apa filmed her daughter smiling at mile 14, but at mile 18 later Rachel texted her father, writing \"Ow\". A mile later she texted him: \"Ow, ow\". She appeared to have rallied when she texted \"final stretch\" to Steve at the 23rd mile. However, she collapsed soon afterwards and was given CPR by a member of the public. Race medical staff then used a defibrillator on Rachel, before she was taken to Mount Sinai Medical Center. Doctors there tried to save her but she died at 9.40pm. Her father told the Times that Rachel had died from rhabdomyolysis, a rare condition that can be brought on by heavy exercise in which muscles break down.\n\"It's unfathomable,\" Steve Apa said.\nRachel had recently started an MBA at Charleston Southern University.\n\"We are deeply saddened by the death of one of our runners following yesterday's race,\" the New York Road Runners, who organize the race, said in a statement. \"Our thoughts and sincere sympathies are with the runner's family, friends, and the entire running community.\"\nNew York Road Runners said the last time a participant in the race died from a medical incident was in 2024.",
+ "new_text": "A 24-year-old woman died after collapsing during the final stages of Sunday's New York City Marathon, her father has said.\nRachel Apa's father, Steve Apa, told the New York Times his daughter was in Central Park, two miles from the end of the race, when she collapsed. It was Rachel's first marathon and she was running as part of the Parkinson's Champions team in honor of her late grandfather, who suffered from the disease.\nSteve Apa told the Times that his daughter had played field hockey in college and was in \"perfect health, perfect shape\".\nRachel, from Lewisberry, Pennsylvania, was being cheered on by Steve and her mother, Michelle Apa, on Sunday.\nMichelle Apa filmed her daughter smiling at mile 14, but at mile 18 later Rachel texted her father, writing \"Ow\". A mile later she texted him: \"Ow, ow\". At mile 23, Steve texted \"final stretch\" to her but she did not reply. She collapsed soon afterwards and was given CPR by a member of the public. Race medical staff then used a defibrillator on Rachel before she was taken to Mount Sinai Medical Center. Doctors there tried to save her but she died at 9.40pm. Her father told the Times that Rachel had died from rhabdomyolysis, a rare condition that can be brought on by heavy exercise in which muscles break down.\n\"It's unfathomable,\" Steve Apa said.\nRachel had recently started an MBA program at Charleston Southern University.\n\"We are deeply saddened by the death of one of our runners following yesterday's race,\" the New York Road Runners, who organize the race, said in a statement. \"Our thoughts and sincere sympathies are with the runner's family, friends, and the entire running community.\"\nNew York Road Runners said the last time a participant in the race died after a medical incident was in 2024.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Steve Apa told the Times that his daughter had played field hockey"
+    ],
+    [
+     "del",
+     "at"
+    ],
+    [
+     "ins",
+     "in"
+    ],
+    [
+     "eq",
+     "college and was in \"perfect health, perfect shape\". Rachel, from Lewisberry, Pennsylvania,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "her father, writing \"Ow\". A mile later she texted him: \"Ow, ow\"."
+    ],
+    [
+     "del",
+     "She appeared to have rallied when she"
+    ],
+    [
+     "ins",
+     "At mile 23, Steve"
+    ],
+    [
+     "eq",
+     "texted \"final stretch\" to"
+    ],
+    [
+     "del",
+     "Steve at the 23rd mile. However,"
+    ],
+    [
+     "ins",
+     "her but"
+    ],
+    [
+     "eq",
+     "she"
+    ],
+    [
+     "ins",
+     "did not reply. She"
+    ],
+    [
+     "eq",
+     "collapsed soon afterwards and was given CPR by a member of the public. Race medical staff then used a defibrillator on"
+    ],
+    [
+     "del",
+     "Rachel,"
+    ],
+    [
+     "ins",
+     "Rachel"
+    ],
+    [
+     "eq",
+     "before she was taken to Mount Sinai Medical Center. Doctors there tried"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "down. \"It's unfathomable,\" Steve Apa said. Rachel had recently started an MBA"
+    ],
+    [
+     "ins",
+     "program"
+    ],
+    [
+     "eq",
+     "at Charleston Southern University. \"We are deeply saddened by the death of"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Road Runners said the last time a participant in the race died"
+    ],
+    [
+     "del",
+     "from"
+    ],
+    [
+     "ins",
+     "after"
+    ],
+    [
+     "eq",
+     "a medical incident was in 2024."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0977,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9966,
+ "adjudicated_by": "rules"
+}

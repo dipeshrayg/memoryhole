@@ -1,0 +1,120 @@
+{
+ "id": "dc132aa1c9e54ea9-01df9146-49619e49",
+ "url": "https://www.bbc.co.uk/news/articles/cve8rp085zzjo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-04T14:02:46Z",
+ "date": "2026-11-04",
+ "old_title": "'Mogging' is Collins' word of the year... but do you know what it means?",
+ "new_title": "'Mogging' is Collins' word of the year... but do you know what it means?",
+ "old_text": "- Published\n\"Mogging\", a word used playfully to mean outshining, outperforming or upstaging someone or something, has been named as word of the year by the Collins English Dictionary.\nA fast-growing slang word among members of Generations Z and Alpha - both online and in everyday conversation - mogging went mainstream in 2026 with a 210% increase in its usage.\nCollins' managing director Alex Beecroft said its lexicographers look at \"how often words are used\" and also \"analyse patterns of usage\" that reveal the latest linguistic trends.\nThe selection of mogging as word of the year, he said, \"shows how each generation leaves its mark on language\".\nHe added: \"It's a great example of how Gen Z and Gen Alpha have adopted a word and turned it into humorous slang, making the language their own and 'mogging' the rest of us!\"\nMogging - not to be confused with mugging or mugging someone off - refers to outshining or dominating someone, most often in looks.\nYou may even have mogged someone or been mogged yourself over the past 12 months.\nThe word is often traced back to the acronym AMOG, standing for Alpha Male of the Group, and has been variously associated with bodybuilding forums in the mid-2010s as well as the manosphere and Incels.\nBut it now has a much more mainstream usage, as a playful put-down or a compliment, depending on the context.\nIt can be seen and heard in looksmaxxing communities - online groups where people swap advice on how to maximise their physical attractiveness.\nCollins - one of the UK's major dictionary publishers - draws from a range of sources, including social media, to reflect how the English language is evolving in the UK each year.\nIts word of the year for 2025 was \"vibe coding\" - the art of making an app or website by describing it to artificial intelligence (AI) rather than by writing programming code manually.\nOther definitions that made the dictionary's 10-strong shortlist this year include ghost job, something frustrated jobseekers will be familiar with - when an employer posts a position with no intention of appointing someone.\nAnother, Hydration break was of course made famous by this year's Fifa Menâs World Cup, while P(doom) is the estimation of probability of an AI-aided collapse of civilisation.\nManchesterism, a term associated with Prime Minister and former Manchester Mayor Andy Burnham, is about the devolution of power to the regions, combining economic growth with social progress.\nCheck out the other five words that made the list in the quiz above.",
+ "new_text": "- Published\n\"Mogging\", a word used playfully to mean outshining, outperforming or upstaging someone or something, has been named as word of the year by the Collins English Dictionary.\nA fast-growing slang word among members of Generations Z and Alpha - both online and in everyday conversation - mogging went mainstream in 2026 with a 210% increase in its usage.\nCollins' managing director Alex Beecroft said its lexicographers look at \"how often words are used\" and also \"analyse patterns of usage\" that reveal the latest linguistic trends.\nThe selection of mogging as word of the year, he said, \"shows how each generation leaves its mark on language\".\nHe added: \"It's a great example of how Gen Z and Gen Alpha have adopted a word and turned it into humorous slang, making the language their own and 'mogging' the rest of us!\"\nMogging - not to be confused with mugging or mugging someone off - refers to outshining or dominating someone, most often in looks.\nYou may even have mogged someone or been mogged yourself over the past 12 months.\nThe word is often traced back to the acronym AMOG, standing for Alpha Male of the Group, and has been variously associated with bodybuilding forums in the mid-2010s as well as the manosphere and Incels.\nBut it now has a much more mainstream usage, as a playful put-down or a compliment, depending on the context.\nIt can be seen and heard in looksmaxxing communities - online groups where people swap advice on how to maximise their physical attractiveness.\nCollins - one of the UK's major dictionary publishers - draws from a range of sources, including social media, to reflect how the English language is evolving in the UK each year.\nIts word of the year for 2025 was \"vibe coding\" - the art of making an app or website by describing it to artificial intelligence (AI) rather than by writing programming code manually.\nOther definitions that made the dictionary's 10-strong shortlist this year include ghost job, something frustrated jobseekers will be familiar with - when an employer posts a position with no intention of appointing someone.\nAnother, Hydration break was of course made famous by this year's Fifa Menâs World Cup, while P(doom) is the estimation of probability of an AI-aided collapse of civilisation.\nManchesterism is the term used for the political approach associated with Prime Minister Andy Burnham, the former Mayor of Greater Manchester. It centres on devolving power to the regions. It also aims to combine economic growth with social progress and stronger public control of essential services.\nCheck out the other five words that made the list in the quiz above.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "P(doom) is the estimation of probability of an AI-aided collapse of civilisation."
+    ],
+    [
+     "del",
+     "Manchesterism, a"
+    ],
+    [
+     "ins",
+     "Manchesterism is the"
+    ],
+    [
+     "eq",
+     "term"
+    ],
+    [
+     "ins",
+     "used for the political approach"
+    ],
+    [
+     "eq",
+     "associated with Prime Minister"
+    ],
+    [
+     "del",
+     "and former Manchester Mayor"
+    ],
+    [
+     "eq",
+     "Andy Burnham,"
+    ],
+    [
+     "del",
+     "is about"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "devolution"
+    ],
+    [
+     "ins",
+     "former Mayor"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "ins",
+     "Greater Manchester. It centres on devolving"
+    ],
+    [
+     "eq",
+     "power to the"
+    ],
+    [
+     "del",
+     "regions, combining"
+    ],
+    [
+     "ins",
+     "regions. It also aims to combine"
+    ],
+    [
+     "eq",
+     "economic growth with social"
+    ],
+    [
+     "del",
+     "progress."
+    ],
+    [
+     "ins",
+     "progress and stronger public control of essential services."
+    ],
+    [
+     "eq",
+     "Check out the other five words that made the list in the quiz above."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0988,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}
