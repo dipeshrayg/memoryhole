@@ -1,0 +1,64 @@
+{
+ "id": "6b006f2eca5e1c73-d211b002-bc70035f",
+ "url": "https://variety.com/2026/tv/global/skys-itv-culture-secretary-public-interest-notice-1236939191/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-11-05T14:39:52Z",
+ "date": "2026-11-05",
+ "old_title": "Sky's ITV Acquisition Hits Roadblock as Culture Secretary Issues Public Interest Intervention Notice",
+ "new_title": "Sky's ITV Acquisition Hits Bump as Culture Secretary Issues Public Interest Intervention Notice",
+ "old_text": "Sky's acquisition of ITV has hit a roadblock as the U.K. culture secretary Lisa Nandy has officially issued an intervention notice.\nThe issuing of a public interest intervention notice means the U.K.'s Competition and Markets Authority and media regulatory body Ofcom will both investigate the proposed acquisition. The CMA will scrutinize the deal from a jurisdictional and competition perspective and Ofcom in terms of public interest.\nBoth bodies have a deadline of Jan. 27 to report back after which Nandy will decide whether to instruct CMA to carry out a more detailed investigation.\nComcast-owned Sky announced earlier this year they were set to acquire public service broadcaster ITV for $2.1 billion. The deal was only for the network and its proprietary streaming platform ITVX, resulting in the spinning off of its production arm, ITV Studios.\nNandy noted she did not see the need to issue a foreign state intervention notice.\n\"On 15 October 2026 my Department wrote to Sky UK Limited and ITV plc to inform them I was minded to intervene in the anticipated merger between Sky UK Ltd and ITV Media & Entertainment Holdings Ltd under the Enterprise Act 2002 (\"the Act\") and inviting them to submit representations. Having fully considered their representations, I have decided to issue a Public Interest Intervention Notice (PIIN),\" Nandy has said.\nEarlier this year Nandy declined to issue a PIIN in Paramount's acquisition of Warner Bros. Discovery, despite a public plea from Benedict Cumberbatch, Benedict Wong and Alan Cumming.\nHowever, the U.S. entities had a much smaller combined television market share in the U.K. than Sky and ITV, which are among the biggest broadcasters in the territory with a combined television advertising share of around 70%.\nBut former ITV chair Sir Peter Bazalgette told Variety earlier this year he believes the deal will ultimately go through. \"The reality of how the market operates is nothing to do with that,\" he said, pointing out the fragmentation of video advertising now across digital platforms such as YouTube, Meta and TikTok. When those are taken into account, Sky and ITV's joint share drops to around 20 to 30%.\nThere is also concern about the possibility of Sky combining its newsroom operations with ITV's after the latter's PSB license comes up for renewal at the end of 2034.\nAt the Royal Television Society conference in September, Sky's content chief Cecile Frot-Coutaz said Sky has made a \"very public commitment to maintain Sky News and to maintain ITN news.\" However she refused to comment on whether that commitment will extend past 2034.",
+ "new_text": "Sky's acquisition of ITV has hit a bump as the U.K. culture secretary Lisa Nandy has officially issued an intervention notice.\nThe issuing of a public interest intervention notice means the U.K.'s Competition and Markets Authority and media regulatory body Ofcom will both investigate the proposed acquisition. The CMA will scrutinize the deal from a jurisdictional and competition perspective and Ofcom in terms of public interest.\nBoth bodies have a deadline of Jan. 27 to report back after which Nandy will decide whether to instruct CMA to carry out a more detailed investigation.\nComcast-owned Sky announced earlier this year they were set to acquire public service broadcaster ITV for $2.1 billion. The deal was only for the network and its proprietary streaming platform ITVX, resulting in the spinning off of its production arm, ITV Studios.\nNandy noted she did not see the need to issue a foreign state intervention notice.\n\"On 15 October 2026 my Department wrote to Sky UK Limited and ITV plc to inform them I was minded to intervene in the anticipated merger between Sky UK Ltd and ITV Media & Entertainment Holdings Ltd under the Enterprise Act 2002 (\"the Act\") and inviting them to submit representations. Having fully considered their representations, I have decided to issue a Public Interest Intervention Notice (PIIN),\" Nandy has said.\nEarlier this year Nandy declined to issue a PIIN in Paramount's acquisition of Warner Bros. Discovery, despite a public plea from Benedict Cumberbatch, Benedict Wong and Alan Cumming.\nHowever, the U.S. entities had a much smaller combined television market share in the U.K. than Sky and ITV, which are among the biggest broadcasters in the territory with a combined television advertising share of around 70%.\nBut former ITV chair Sir Peter Bazalgette told Variety earlier this year he believes the deal will ultimately go through. \"The reality of how the market operates is nothing to do with that,\" he said, pointing out the fragmentation of video advertising now across digital platforms such as YouTube, Meta and TikTok. When those are taken into account, Sky and ITV's joint share drops to around 20 to 30%.\nThere is also concern about the possibility of Sky combining its newsroom operations with ITV's after the latter's PSB license comes up for renewal at the end of 2034.\nAt the Royal Television Society conference in September, Sky's content chief Cecile Frot-Coutaz said Sky has made a \"very public commitment to maintain Sky News and to maintain ITN news.\" However she refused to comment on whether that commitment will extend past 2034.\n\"We note the Secretary of State's decision to issue a public interest intervention notice and look forward to engaging constructively in the review,\" a rep for Sky told Variety. \"Bringing Sky and ITV Media & Entertainment together will create a stronger British media business, better equipped to compete with global streamers, support British content and deliver more for viewers. We believe the transaction is in the public interest, with clear commitments already made to protect ITV's identity, public service broadcasting obligations and the distinct editorial voices of Sky News and ITV News.\"\nITV's rep added: \"We welcome the Secretary of State's decision to issue a Public Interest Intervention Notice and are pleased it has quickly followed the Secretary of State's 'minded to' letter.\"\n\"This is a major milestone in the regulatory review process towards creating a U.K. champion with the scale and resources to better compete with global streaming platforms benefitting viewers, advertisers, the U.K. creative industries and the delivery of Public Service Broadcasting. We look forward to cooperating fully with the CMA, DCMS and Ofcom in the review and will respond formally to the PIIN.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Sky's acquisition of ITV has hit a"
+    ],
+    [
+     "del",
+     "roadblock"
+    ],
+    [
+     "ins",
+     "bump"
+    ],
+    [
+     "eq",
+     "as the U.K. culture secretary Lisa Nandy has officially issued an intervention"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "she refused to comment on whether that commitment will extend past 2034."
+    ],
+    [
+     "ins",
+     "\"We note the Secretary of State's decision to issue a public interest intervention notice and look forward to engaging constructively in the review,\" a rep for Sky told Variety. \"Bringing Sky and ITV Media & Entertainment together will create a stronger British media business, better equipped to compete with global streamers, support British content and deliver more for viewers. We believe the transaction is in the public interest, with clear commitments already made to protect ITV's identity, public service broadcasting obligations and the distinct editorial voices of Sky News and ITV News.\" ITV's rep added: \"We welcome the Secretary of State's decision to issue a Public Interest Intervention Notice and are pleased it has quickly followed the Secretary of State's 'minded to' letter.\" \"This is a major milestone in the regulatory review process towards creating a U.K. champion with the scale and resources to better compete with global streaming platforms benefitting viewers, advertisers, the U.K. creative industries and the delivery of Public Service Broadcasting. We look forward to cooperating fully with the CMA, DCMS and Ofcom in the review and will respond formally to the PIIN.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4424,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.15,
+ "similarity": 0.9984,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,288 @@
+{
+ "id": "91f9cf2a19b71130-41460984-ecbe2553",
+ "url": "https://www.theguardian.com/sport/2026/nov/04/qatar-pulls-out-of-hosting-2028-nations-championship-owing-to-middle-east-crisis",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-11-05T14:36:46Z",
+ "date": "2026-11-05",
+ "old_title": "Qatar pulls out of hosting 2028 Nations Championship owing to Middle East crisis",
+ "new_title": "Qatar pulls out of hosting 2028 Nations Championship owing to Middle East crisis",
+ "old_text": "Qatar will not host the finals of the 2028 Nations Championship owing to uncertainty caused by the war in the Middle East in a development that has also led to the cancellation of a planned title sponsorship deal for the new tournament with Qatar Airways.\nFollowing months of negotiations both parties have agreed to withdraw from an agreement that would have seen Qatar stage the six-match final series in 2028 and 2032, as well as a title sponsorship for four editions of the competition with the national airline.\nThe total value of staging rights and title sponsorship is understood to have been worth around £80m to the Nations Championship for each tournament held in Qatar. However, the Six Nations and four leading Sanzaar unions who run the competition are confident those funds can be recouped by replacement deals.\nThe Nations Championship resumes this weekend following last summer's matches in the southern hemisphere, with the finals to be held over three days at Twickenham's Allianz Stadium at the end of the month.\nWhile this year's inaugural competition will take place without a title sponsor, the Qatar Airways sponsorship is understood to have been worth £15m of a deal whose main value was in hosting rights, so the initial write-off will not be that significant.\nIn addition there have already been informal expressions of interest from France and Spain to host in 2028 with the Nations Championship planning to issue an invitation to tender at the start of next year.\nThe United States has been pencilled in to host the finals in 2030 the year before staging the Rugby World Cup in 2031, with a 2028 finals event at the Stade de France regarded as the most likely outcome at this stage.\nThe outline of the Qatar deal was agreed last year, but Donald Trump's decision to order US airstrikes on Iran in March and the subsequent escalation in the region caused complications.\nThe Qatar government decided against implementing the deal before the first series of matches in July due to sensitivity around the conflict, leaving the Nations Championship without a title sponsorship, although at that stage it was hoped the agreement would begin this autumn.\nWith the US and Israel continuing to threaten further strikes on Iran despite peace talks hosted by Qatar last weekend, a mutual agreement has been reached to cancel the deal.\nQatar's sporting ambitions have been severely curtailed by the war, as have those of Saudi Arabia and other neighbouring countries, with uncertainty still surrounding the planned Formula One Grand Prix due to take place at the end of this month.\nThis weekend's Qatar MotoGP is scheduled to go ahead despite a boycott from several riders amid safety concerns, and the cancellation of a high-profile event planned for 2028 will represent another significant blow to the Emirate.\nDespite the absence of a title sponsor the Nations Championship is still projected to be profitable in year one, and significant growth is expected in future years. TV rights deals are in place with over 80 broadcasters and 70% of the tickets have been sold for the finals weekend, with sellouts expected when the fixtures are confirmed.\nUnder a new format Six Nations teams played three away matches in the southern hemisphere last summer and will have three home games against the other Sanzaar nations - plus Japan and Fiji - they have yet to play over the next three weeks.\nThe top-ranked team from each region will meet in a grand final to determine the champions at the Allianz Stadium on Sunday 29 November, with second playing second, third v third, and so on across the same weekend.",
+ "new_text": "Qatar will not host the 2028 Nations Championship finals owing to uncertainty caused by the war in the Middle East, in a development that has also led to the cancellation of a planned title sponsorship deal for the new tournament with Qatar Airways.\nFollowing months of negotiations both parties have agreed to withdraw from an agreement in which Qatar would have staged the six‐match finals series in 2028 and 2032, as well as a title sponsorship for four editions of the competition with the national airline.\nThe total value of staging rights and title sponsorship is understood to have been worth around £80m to the Nations Championship for each tournament held in Qatar. However, the Six Nations and four leading Sanzaar unions that run the competition are confident those funds can be recouped by replacement deals.\nThe Nations Championship resumes this weekend following matches last summer in the southern hemisphere, with the finals to be held over three days at Twickenham's Allianz Stadium at the end of the month.\nWhile the inaugural competition this year will take place without a title sponsor, the Qatar Airways sponsorship is understood to have been worth £15m of a deal in which the main value was hosting rights, so the initial write‐off will not be that significant.\nIn addition there have already been informal expressions of interest from France and Spain to host in 2028 with the Nations Championship planning to issue an invitation to tender at the start of next year.\nThe US has been pencilled in to host the finals in 2030 the year before staging the Rugby World Cup in 2031, with a 2028 finals event at the Stade de France regarded as the most likely outcome at this stage.\nThe outline of the Qatar deal was agreed last year, but Donald Trump's decision to order US airstrikes on Iran in March and the subsequent escalation in the region caused complications.\nThe Qatar government decided against implementing the deal before the first series of matches in July due to sensitivity around the conflict, leaving the Nations Championship without a title sponsorship, although at that stage it was hoped that the agreement would begin this autumn.\nWith the US and Israel continuing to threaten further strikes on Iran despite peace talks hosted by Qatar last weekend, a mutual agreement has been reached to cancel the deal.\nQatar's sporting ambitions have been severely curtailed by the war, as have those of Saudi Arabia and other neighbouring countries, with uncertainty still surrounding the planned Formula One Grand Prix due to take place at the end of this month.\nThe Qatar MotoGP is scheduled to go ahead this weekend despite a boycott from several riders amid safety concerns, and the cancellation of a high-profile event planned for 2028 will represent another significant blow to the Emirate.\nDespite the absence of a title sponsor the Nations Championship is still projected to be profitable in year one, and significant growth is expected in future years. TV rights deals are in place with more than 80 broadcasters and 70% of the tickets have been sold for the finals weekend, with sellouts expected when the fixtures are confirmed.\nUnder a new format Six Nations teams played three away matches in the southern hemisphere last summer and will have three home games against the other Sanzaar nations - plus Japan and Fiji - they have yet to play over the next three weeks.\nThe top-ranked team from each region will meet in a grand final to determine the champions at the Allianz Stadium on Sunday 29 November, with second playing second, third v third, and so on across the same weekend.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Qatar will not host the"
+    ],
+    [
+     "del",
+     "finals of the"
+    ],
+    [
+     "eq",
+     "2028 Nations Championship"
+    ],
+    [
+     "ins",
+     "finals"
+    ],
+    [
+     "eq",
+     "owing to uncertainty caused by the war in the Middle"
+    ],
+    [
+     "del",
+     "East"
+    ],
+    [
+     "ins",
+     "East,"
+    ],
+    [
+     "eq",
+     "in a development that has also led to the cancellation of a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "months of negotiations both parties have agreed to withdraw from an agreement"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "ins",
+     "in which Qatar"
+    ],
+    [
+     "eq",
+     "would have"
+    ],
+    [
+     "del",
+     "seen Qatar stage"
+    ],
+    [
+     "ins",
+     "staged"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "six-match final"
+    ],
+    [
+     "ins",
+     "six‐match finals"
+    ],
+    [
+     "eq",
+     "series in 2028 and 2032, as well as a title sponsorship for"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "held in Qatar. However, the Six Nations and four leading Sanzaar unions"
+    ],
+    [
+     "del",
+     "who"
+    ],
+    [
+     "ins",
+     "that"
+    ],
+    [
+     "eq",
+     "run the competition are confident those funds can be recouped by replacement deals. The Nations Championship resumes this weekend following"
+    ],
+    [
+     "ins",
+     "matches"
+    ],
+    [
+     "eq",
+     "last"
+    ],
+    [
+     "del",
+     "summer's matches"
+    ],
+    [
+     "ins",
+     "summer"
+    ],
+    [
+     "eq",
+     "in the southern hemisphere, with the finals to be held over three days at Twickenham's Allianz Stadium at the end of the month. While"
+    ],
+    [
+     "del",
+     "this year's"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "inaugural competition"
+    ],
+    [
+     "ins",
+     "this year"
+    ],
+    [
+     "eq",
+     "will take place without a title sponsor, the Qatar Airways sponsorship is understood to have been worth £15m of a deal"
+    ],
+    [
+     "del",
+     "whose"
+    ],
+    [
+     "ins",
+     "in which the"
+    ],
+    [
+     "eq",
+     "main value was"
+    ],
+    [
+     "del",
+     "in"
+    ],
+    [
+     "eq",
+     "hosting rights, so the initial"
+    ],
+    [
+     "del",
+     "write-off"
+    ],
+    [
+     "ins",
+     "write‐off"
+    ],
+    [
+     "eq",
+     "will not be that significant. In addition there have already been informal"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "issue an invitation to tender at the start of next year. The"
+    ],
+    [
+     "del",
+     "United States"
+    ],
+    [
+     "ins",
+     "US"
+    ],
+    [
+     "eq",
+     "has been pencilled in to host the finals in 2030 the year"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Championship without a title sponsorship, although at that stage it was hoped"
+    ],
+    [
+     "ins",
+     "that"
+    ],
+    [
+     "eq",
+     "the agreement would begin this autumn. With the US and Israel continuing"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Grand Prix due to take place at the end of this month."
+    ],
+    [
+     "del",
+     "This weekend's"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "Qatar MotoGP is scheduled to go ahead"
+    ],
+    [
+     "ins",
+     "this weekend"
+    ],
+    [
+     "eq",
+     "despite a boycott from several riders amid safety concerns, and the cancellation"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "is expected in future years. TV rights deals are in place with"
+    ],
+    [
+     "del",
+     "over"
+    ],
+    [
+     "ins",
+     "more than"
+    ],
+    [
+     "eq",
+     "80 broadcasters and 70% of the tickets have been sold for the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0788,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.995,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,180 @@
+{
+ "id": "41cfae51be9919ca-65788adc-81e3d85a",
+ "url": "https://www.dw.com/en/indonesia-deploys-troops-to-jakarta-after-wiretapping-allegations/a-79853779?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-05T14:26:42Z",
+ "date": "2026-11-05",
+ "old_title": "Indonesia deploys thousands of troops to Jakarta after alleged wire-tapping operation targeting president",
+ "new_title": "Indonesia deploys thousands of troops to Jakarta after alleged wire-tapping operation targeting president",
+ "old_text": "Indonesia's military deployed more than 20,000 troops and personnel to the capital city Jakarta after authorities launched an investigation into an alleged wiretapping operation targeting the President Prabowo Subianto.\nSome 20,000 troops have been deployed in Jakarta amid the scandal with the president's chief of staff is currently being investigated.\nSenior military figures implicated\nSo far, three senior police generals have been detained. They are being accused of illegally tapping the phones of the president, journalists, politicians and business people.\nAmong those detained is Listyo Sigit Prabowo - not related to the president - who was the national police chief before becoming the president's chief of staff last month.\nThe presidential palace claims the alleged wiretapping targeting President Subianto could be regarded as an act \"tending towards treason.\"\nThe authorities did not officially confirm that the deployment is connected to the scandal.\nThe number of troops and personnel deployed to the capital since Monday surpassed 20,000 as of Wednesday, according to the navy operations assistant, Vice Admiral Yayan Sofiyan.\nIndonesian armed forces spokesperson Major General Muhammad Nas claimed that the troop movement was a \"standart procedure\" for maintaining national security.\nMotive yet to be established\nAccording to Indonesia's senior minister for legal affairs, the government has yet to determine the motive for the wiretapping.\nThe suspects, who have not responded publicly to the allegations, could face unlawful surveillance related charges, which can lead up to 10 years in prison.\n\"There is a strong suspicion that the wiretapping was carried out not in the interests of the state or the National Police, but for the interests of other parties,\" Adrianus Meliala, a criminologist at the University of Indonesia and a former commissioner of the National Police Commission said.\n\"No one expected Listyo Sigit Prabowo to be named a suspect,\" said Meliala, \"But if the allegations are proven, the case could be understood in the context of political maneuvering. Anyone who engages in politics must also be prepared to face the political consequences,\" Meliala said.",
+ "new_text": "Indonesia's military deployed more than 20,000 troops and personnel to the capital city, Jakarta, after authorities launched an investigation into an alleged wiretapping operation targeting President Prabowo Subianto.\nSome 20,000 troops have been deployed in Jakarta amid a scandal with the president's chief of staff currently being investigated.\nSenior military figures implicated\nSo far, three senior police generals have been detained. They are being accused of illegally tapping the phones of the president, journalists, politicians and business people.\nAmong those detained is Listyo Sigit Prabowo - not related to the president - who was the national police chief before becoming the president's chief of staff last month.\nThe presidential palace claims the alleged wiretapping targeting President Subianto could be regarded as an act \"tending towards treason.\"\nThe authorities did not officially confirm that the deployment is connected to the scandal.\nThe number of troops and personnel deployed to the capital since Monday surpassed 20,000 as of Wednesday, according to navy operations assistant Vice Admiral Yayan Sofiyan.\nIndonesian armed forces spokesperson Major General Muhammad Nas claimed that the troop movement was a \"standart procedure\" for maintaining national security.\nMotive yet to be established\nAccording to Indonesia's senior minister for legal affairs, the government has yet to determine the motive for the wiretapping.\nThe suspects, who have not responded publicly to the allegations, could face unlawful surveillance-related charges, which can lead to up to 10 years in prison.\n\"There is a strong suspicion that the wiretapping was carried out not in the interests of the state or the National Police, but for the interests of other parties,\" said Adrianus Meliala, a criminologist at the University of Indonesia and a former commissioner of the National Police Commission.\n\"No one expected Listyo Sigit Prabowo to be named a suspect,\" said Meliala, \"But if the allegations are proven, the case could be understood in the context of political maneuvering. Anyone who engages in politics must also be prepared to face the political consequences.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Indonesia's military deployed more than 20,000 troops and personnel to the capital"
+    ],
+    [
+     "del",
+     "city Jakarta"
+    ],
+    [
+     "ins",
+     "city, Jakarta,"
+    ],
+    [
+     "eq",
+     "after authorities launched an investigation into an alleged wiretapping operation targeting"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "eq",
+     "President Prabowo Subianto. Some 20,000 troops have been deployed in Jakarta amid"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "ins",
+     "a"
+    ],
+    [
+     "eq",
+     "scandal with the president's chief of staff"
+    ],
+    [
+     "del",
+     "is"
+    ],
+    [
+     "eq",
+     "currently being investigated. Senior military figures implicated So far, three senior police"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to the capital since Monday surpassed 20,000 as of Wednesday, according to"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "eq",
+     "navy operations"
+    ],
+    [
+     "del",
+     "assistant,"
+    ],
+    [
+     "ins",
+     "assistant"
+    ],
+    [
+     "eq",
+     "Vice Admiral Yayan Sofiyan. Indonesian armed forces spokesperson Major General Muhammad Nas"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "suspects, who have not responded publicly to the allegations, could face unlawful"
+    ],
+    [
+     "del",
+     "surveillance related"
+    ],
+    [
+     "ins",
+     "surveillance-related"
+    ],
+    [
+     "eq",
+     "charges, which can lead"
+    ],
+    [
+     "ins",
+     "to"
+    ],
+    [
+     "eq",
+     "up to 10 years in prison. \"There is a strong suspicion that"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "state or the National Police, but for the interests of other parties,\""
+    ],
+    [
+     "ins",
+     "said"
+    ],
+    [
+     "eq",
+     "Adrianus Meliala, a criminologist at the University of Indonesia and a former commissioner of the National Police"
+    ],
+    [
+     "del",
+     "Commission said."
+    ],
+    [
+     "ins",
+     "Commission."
+    ],
+    [
+     "eq",
+     "\"No one expected Listyo Sigit Prabowo to be named a suspect,\" said"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "who engages in politics must also be prepared to face the political"
+    ],
+    [
+     "del",
+     "consequences,\" Meliala said."
+    ],
+    [
+     "ins",
+     "consequences.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0691,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9979,
+ "adjudicated_by": "rules"
+}

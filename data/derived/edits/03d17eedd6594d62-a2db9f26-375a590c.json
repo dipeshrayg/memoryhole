@@ -1,0 +1,72 @@
+{
+ "id": "03d17eedd6594d62-a2db9f26-375a590c",
+ "url": "https://www.france24.com/en/blue-wave-sweeps-across-america-in-1974-we-had-watergate-babies-now-we-have-iran-war-babies",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-05T14:27:31Z",
+ "date": "2026-11-05",
+ "old_title": "Blue wave sweeps across America: 'In 1974, we had Watergate babies, now we have Iran War babies'",
+ "new_title": "Blue wave sweeps across America: 'In 1974, we had Watergate babies, now we have Iran War babies'",
+ "old_text": "Video contentVideo\nBlue wave sweeps across America: 'In 1974, we had Watergate babies, now we have Iran War babies'\nIssued on:\nShare\nStuart Norval welcomes France 24 International Affairs Editor Philip Turle and Hind Ziane, Geopolitical analyst and founder / CEO of Genpo. \"In 1974, we had the Watergate babies. Now we have the Iran War babies,\" remarks Ziane with this striking historical analogy. Just as the Watergate scandal helped propel a new generation of Democratic lawmakers into Congress in 1974, Zian argues that public disillusionment with the Iran war, mounting economic pressures and dissatisfaction with Donald Trump's leadership may now be reshaping the American political landscape.Yet the significance of this veritable blue wave extends well beyond the Republican Party's reported losses. As international affairs editor Philip Turle reminds us, \"They're not voting for Democrats because they love the Democrats. They're voting for the Democrats because they don't like Donald Trump.\" This distinction lies at the heart of a decisive electoral rejection, across America, of a wildly unpopular administration. A party can achieve a sweeping electoral victory without necessarily winning a mandate or even the lasting confidence of the electorate.",
+ "new_text": "Video contentVideo\nBlue wave sweeps across America: 'In 1974, we had Watergate babies, now we have Iran War babies'\nIssued on: Modified:\nShare\nStuart Norval welcomes France 24 International Affairs Editor Philip Turle and Hind Ziane, Geopolitical analyst and founder / CEO of Genpo. \"In 1974, we had the Watergate babies. Now we have the Iran War babies,\" remarks Ziane with this striking historical analogy. Just as the Watergate scandal helped propel a new generation of Democratic lawmakers into Congress in 1974, Zian argues that public disillusionment with the Iran war, mounting economic pressures and dissatisfaction with Donald Trump's leadership may now be reshaping the American political landscape. Yet Turle reminds us, \"They're not voting for Democrats because they love the Democrats. They're voting for the Democrats because they don't like Donald Trump.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "we had Watergate babies, now we have Iran War babies' Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "Share Stuart Norval welcomes France 24 International Affairs Editor Philip Turle and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "dissatisfaction with Donald Trump's leadership may now be reshaping the American political"
+    ],
+    [
+     "del",
+     "landscape.Yet the significance of this veritable blue wave extends well beyond the Republican Party's reported losses. As international affairs editor Philip"
+    ],
+    [
+     "ins",
+     "landscape. Yet"
+    ],
+    [
+     "eq",
+     "Turle reminds us, \"They're not voting for Democrats because they love the Democrats. They're voting for the Democrats because they don't like Donald Trump.\""
+    ],
+    [
+     "del",
+     "This distinction lies at the heart of a decisive electoral rejection, across America, of a wildly unpopular administration. A party can achieve a sweeping electoral victory without necessarily winning a mandate or even the lasting confidence of the electorate."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3316,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.684,
+ "similarity": 0.931,
+ "adjudicated_by": "rules"
+}

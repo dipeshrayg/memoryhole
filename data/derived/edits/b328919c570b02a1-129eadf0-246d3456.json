@@ -1,0 +1,157 @@
+{
+ "id": "b328919c570b02a1-129eadf0-246d3456",
+ "url": "https://www.independent.co.uk/news/world/europe/blood-banks-hacked-france-cyberattack-b3079117.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-05T14:29:14Z",
+ "date": "2026-11-05",
+ "old_title": "Blood banks hit by cyber attack a day after mystery bomb hoaxes ground flights",
+ "new_title": "Cyber attack threatens blood banks in France",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nBlood banks in France were hit by a cyberattack on Monday, the French health ministry has said, the latest in a series of online hoaxes and cyber attacks across Europe.\nThe incident follows attacks that forced stores in eight European countries to throw away vast quantities of food after hackers tampered with their fridges on Monday, mirroring hacks that swept dozens of supermarkets in France three weeks ago.\nBut there was no damage to blood products stored in the centres.\n\"Several regional facilities of the French Blood Establishment (EFS) were affected by a cybersecurity incident that impacted certain cold storage room monitoring and control systems,\" the ministry's statement said.\n\"The situation is now under control and is being closely monitored ... The safety of the blood supplies was preserved thanks to the facilities' monitoring and alarm systems, as well as precautionary measures immediately implemented.\"\nInvestigations into the incident and equipment potentially affected are underway as authorities look at a timeline for a safe return to service.\nMore follows on this breaking news story...",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nBlood banks in France were hit by a cyberattack, the French health ministry has said, the latest in a series of online hoaxes and cyberattacks across Europe.\n\"Several regional facilities of the French Blood Establishment (EFS) were affected by a cybersecurity incident that impacted certain cold storage room monitoring and control systems,\" the ministry said.\nThe incident follows attacks that forced stores in eight European countries to throw away vast quantities of food after hackers tampered with their fridges on Monday, mirroring hacks that swept dozens of supermarkets in France three weeks ago.\nBut there was no damage to blood products in the centres following the attack, which took place on Monday but was publicised on Wednesday.\n\"The situation is now under control and is being closely monitored,\" the French health ministry added.\n\"The safety of the blood supplies was preserved thanks to the facilities' monitoring and alarm systems, as well as precautionary measures immediately implemented.\"\nInvestigations into the incident and equipment potentially affected are underway as authorities look at a timeline for a safe return to service for the blood banks.\nOn Wednesday, French cooperative bank Credit Mutuel Arkea said it had been hit by a cyberattack which \"enabled fraudulent transactions to be carried out\" - but that no money belonging to clients had been affected.\nThe bank said the incident has been contained and operations are resuming now, adding that the authorities were alerted to the incident.\nThe attacks come after British meat suppliers and supermarkets in seven European countries were forced to throw out their supplies after a suspected cyberattack.\nFridges and freezers have been hacked, with thermostats remotely cranked up in some cases to 50C (122F), while others have been set to \"defrost\" mode, putting the heat to 15C rather than minus 22C.\nHundreds of shops were targeted by the overnight cyberattack, which caused millions of Euros worth of fresh and frozen food to be spoiled.\nThe UK National Cyber Security Centre warned British retailers to urgently update the software on fridge temperature controllers, adding that the attack is a \"wake-up call\" and that our \"digital infrastructure remains outdated and vulnerable\".\nIt also followed a series of bomb hoaxes across Europe on Tuesday, which caused significant flight disruption and the closure of an airport in Poland.\nAt least seven flights in Europe were subjected to bomb threats, forcing several planes to divert and an airport in Poland to close in a day of chaos on Tuesday.\n\"Malicious\" bomb scares on two flights from London, and others from Manchester, Copenhagen, Israel, Dublin, Bergamo and Lisbon threw airports into disarray, with authorities searching planes after some of the flights went through emergency landings.\nThe diversion of the flights with hundreds of passengers on board, and temporary closures of airports, raises concerns over the ease with which agitators can cause major disruption.\nA government spokesperson said of the two planes affected that departed from Britain: \"The UK has one of the most robust aviation security systems in the world, with well-tested processes for dealing with any potential threats, as well as malicious hoax threats, like those we've seen today.\n\"Our world-leading police and intelligence agencies work closely every day to keep us safe, using the tools they have to assess and respond to potential threats.\"\nTwo Ryanair flights from Dublin and Lisbon were searched following anonymous tips regarding potential bomb threats, the airline said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "a member? Log in Blood banks in France were hit by a"
+    ],
+    [
+     "del",
+     "cyberattack on Monday,"
+    ],
+    [
+     "ins",
+     "cyberattack,"
+    ],
+    [
+     "eq",
+     "the French health ministry has said, the latest in a series of online hoaxes and"
+    ],
+    [
+     "del",
+     "cyber attacks"
+    ],
+    [
+     "ins",
+     "cyberattacks"
+    ],
+    [
+     "eq",
+     "across Europe."
+    ],
+    [
+     "ins",
+     "\"Several regional facilities of the French Blood Establishment (EFS) were affected by a cybersecurity incident that impacted certain cold storage room monitoring and control systems,\" the ministry said."
+    ],
+    [
+     "eq",
+     "The incident follows attacks that forced stores in eight European countries to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "France three weeks ago. But there was no damage to blood products"
+    ],
+    [
+     "del",
+     "stored"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "centres. \"Several regional facilities of"
+    ],
+    [
+     "ins",
+     "centres following"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "French Blood Establishment (EFS) were affected by a cybersecurity incident that impacted certain cold storage room monitoring and control systems,\" the ministry's statement said."
+    ],
+    [
+     "ins",
+     "attack, which took place on Monday but was publicised on Wednesday."
+    ],
+    [
+     "eq",
+     "\"The situation is now under control and is being closely"
+    ],
+    [
+     "del",
+     "monitored ... The"
+    ],
+    [
+     "ins",
+     "monitored,\" the French health ministry added. \"The"
+    ],
+    [
+     "eq",
+     "safety of the blood supplies was preserved thanks to the facilities' monitoring"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "underway as authorities look at a timeline for a safe return to"
+    ],
+    [
+     "del",
+     "service. More follows"
+    ],
+    [
+     "ins",
+     "service for the blood banks. On Wednesday, French cooperative bank Credit Mutuel Arkea said it had been hit by a cyberattack which \"enabled fraudulent transactions to be carried out\" - but that no money belonging to clients had been affected. The bank said the incident has been contained and operations are resuming now, adding that the authorities were alerted to the incident. The attacks come after British meat suppliers and supermarkets in seven European countries were forced to throw out their supplies after a suspected cyberattack. Fridges and freezers have been hacked, with thermostats remotely cranked up in some cases to 50C (122F), while others have been set to \"defrost\" mode, putting the heat to 15C rather than minus 22C. Hundreds of shops were targeted by the overnight cyberattack, which caused millions of Euros worth of fresh and frozen food to be spoiled. The UK National Cyber Security Centre warned British retailers to urgently update the software"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "this breaking news story..."
+    ],
+    [
+     "ins",
+     "fridge temperature controllers, adding that the attack is a \"wake-up call\" and that our \"digital infrastructure remains outdated and vulnerable\". It also followed a series of bomb hoaxes across Europe on Tuesday, which caused significant flight disruption and the closure of an airport in Poland. At least seven flights in Europe were subjected to bomb threats, forcing several planes to divert and an airport in Poland to close in a day of chaos on Tuesday. \"Malicious\" bomb scares on two flights from London, and others from Manchester, Copenhagen, Israel, Dublin, Bergamo and Lisbon threw airports into disarray, with authorities searching planes after some of the flights went through emergency landings. The diversion of the flights with hundreds of passengers on board, and temporary closures of airports, raises concerns over the ease with which agitators can cause major disruption. A government spokesperson said of the two planes affected that departed from Britain: \"The UK has one of the most robust aviation security systems in the world, with well-tested processes for dealing with any potential threats, as well as malicious hoax threats, like those we've seen today. \"Our world-leading police and intelligence agencies work closely every day to keep us safe, using the tools they have to assess and respond to potential threats.\" Two Ryanair flights from Dublin and Lisbon were searched following anonymous tips regarding potential bomb threats, the airline said."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 2.3398,
+  "numbers_changed": [
+   "122",
+   "15",
+   "22",
+   "50"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 1,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.101,
+ "similarity": 0.9699,
+ "adjudicated_by": "rules"
+}
