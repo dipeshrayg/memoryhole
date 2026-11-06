@@ -1,0 +1,100 @@
+{
+ "id": "3908d59e18602665-a4c1c656-3b441096",
+ "url": "https://www.dw.com/en/north-korea-tells-eu-to-mind-its-own-business-on-human-rights/a-79862196?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-06T14:02:51Z",
+ "date": "2026-11-06",
+ "old_title": "North Korea tells European Union to 'mind its own business' over human rights resolution",
+ "new_title": "North Korea tells European Union to 'mind its own business' over human rights resolution",
+ "old_text": "North Korea, responded European Union's draft United Nations resolution on human rights in the country by telling the bloc to \"mind its own business,\" state media reported Thursday.\nPyongyang has long been accused by the UN and human rights advocates of committing human rights violations.\nNorth Korea's UN mission said in a statement carried by the official Korean Central News Agency that the move was a \"farce\" and a \"politically motivated provocation.\"\nIt said the resolution is \"flagrantly distorting it's human rights policy,\" claiming that human rights are not \"a monopoly of the West.\"\nReferring to the protests in Europe, \"Streets are filled with demonstrators from all walks of life demanding such elementary rights as the rights to existence,\" the North Korean mission said.\n\"The EU had better mind its own business, instead of hyping up the non-existent 'human rights issues,'\" it added.\nSouth Korea to co-sponsor the resolution\nThe UN General Assembly has adopted a resolution condemning North Korea's human rights violations every year since 2005.\nAccording to the South Korean Yonhap News Agency, Seoul has decided to co-sponsor the resolution proposed by the EU.\nIt is the fifth consecutive year that Seoul has done so, following a break from 2019 to 2021 under the liberal Moon Jae-in government.\nThe draft text is expected to be adopted by the Third Committee of the UN General Assembly later this month, before being submitted to the UN General Assembly for final approval.",
+ "new_text": "North Korea responded to the European Union's draft United Nations resolution on human rights in the country by telling the bloc to \"mind its own business,\" state media reported Thursday.\nPyongyang has long been accused by the UN and human rights advocates of committing human rights violations.\nNorth Korea's UN mission said in a statement carried by the official Korean Central News Agency that the move was a \"farce\" and a \"politically motivated provocation.\"\nIt said the resolution is \"flagrantly distorting it's human rights policy,\" claiming that human rights are not \"a monopoly of the West.\"\nReferring to the protests in Europe, the North Korean mission said: \"Streets are filled with demonstrators from all walks of life demanding such elementary rights as the rights to existence.\"\n\"The EU had better mind its own business, instead of hyping up the nonexistent 'human rights issues,'\" it added.\nSouth Korea to co-sponsor the resolution\nThe UN General Assembly has adopted a resolution condemning North Korea's human rights violations every year since 2005.\nAccording to the South Korean Yonhap News Agency, Seoul has decided to co-sponsor the resolution proposed by the EU.\nIt is the fifth consecutive year that Seoul has done so, following a break from 2019 to 2021 under the liberal Moon Jae-in government.\nThe draft text is expected to be adopted by the Third Committee of the UN General Assembly later this month, before being submitted to the UN General Assembly for final approval.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "North"
+    ],
+    [
+     "del",
+     "Korea,"
+    ],
+    [
+     "ins",
+     "Korea"
+    ],
+    [
+     "eq",
+     "responded"
+    ],
+    [
+     "ins",
+     "to the"
+    ],
+    [
+     "eq",
+     "European Union's draft United Nations resolution on human rights in the country"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "not \"a monopoly of the West.\" Referring to the protests in Europe,"
+    ],
+    [
+     "ins",
+     "the North Korean mission said:"
+    ],
+    [
+     "eq",
+     "\"Streets are filled with demonstrators from all walks of life demanding such elementary rights as the rights to"
+    ],
+    [
+     "del",
+     "existence,\" the North Korean mission said."
+    ],
+    [
+     "ins",
+     "existence.\""
+    ],
+    [
+     "eq",
+     "\"The EU had better mind its own business, instead of hyping up the"
+    ],
+    [
+     "del",
+     "non-existent"
+    ],
+    [
+     "ins",
+     "nonexistent"
+    ],
+    [
+     "eq",
+     "'human rights issues,'\" it added. South Korea to co-sponsor the resolution The"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0747,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9949,
+ "adjudicated_by": "rules"
+}

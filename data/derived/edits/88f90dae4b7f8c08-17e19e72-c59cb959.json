@@ -1,0 +1,63 @@
+{
+ "id": "88f90dae4b7f8c08-17e19e72-c59cb959",
+ "url": "https://www.independent.co.uk/arts-entertainment/tv/news/strictly-come-dancing-jamie-winstone-injury-b3079120.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-06T14:05:07Z",
+ "date": "2026-11-06",
+ "old_title": "Strictly star to miss this weekend's episode after 'devastating' injury",
+ "new_title": "Strictly star to miss this weekend's episode after 'devastating' injury",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nStrictly Come Dancing's Jaime Winstone is set to miss this weekend's shows after tearing an abdominal muscle.\nThe BBC announced the news on Wednesday (4 November), sharing that doctors have advised the actor to rest this week.\n\"In line with the rules of the show, Jaime and Carlos will receive a bye through to next week when it is hoped they will be able to dance again. We wish Jaime the very best as she continues her recovery,\" a spokesperson said.\nWinstone said in a statement: \"I am absolutely devastated not to be dancing this weekend due to a torn abdominal muscle. I am in considerable pain, and my doctors have advised complete rest to give my body the best possible chance to heal. As frustrating as it is, I have to put my health first and follow their advice to step away from dancing this week.\n\"I love every moment of dancing and performing with Carlos, and I am praying for a speedy recovery so that I can continue this magical journey.\n\"I want to thank everyone for their incredible support so far. It means more than you know. Wishing everyone on the show all the luck, love and strength for Saturday night and I hope to be back on that dance floor very soon. With love, Jaime.\"\nMore to follow.",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nStrictly Come Dancing's Jaime Winstone is set to miss this weekend's shows after tearing an abdominal muscle.\nThe BBC announced the news on Wednesday (4 November), sharing that doctors have advised the actor to rest this week.\n\"In line with the rules of the show, Jaime and Carlos will receive a bye through to next week when it is hoped they will be able to dance again. We wish Jaime the very best as she continues her recovery,\" a spokesperson said.\nWinstone said in a statement: \"I am absolutely devastated not to be dancing this weekend due to a torn abdominal muscle. I am in considerable pain, and my doctors have advised complete rest to give my body the best possible chance to heal. As frustrating as it is, I have to put my health first and follow their advice to step away from dancing this week.\n\"I love every moment of dancing and performing with Carlos, and I am praying for a speedy recovery so that I can continue this magical journey.\n\"I want to thank everyone for their incredible support so far. It means more than you know. Wishing everyone on the show all the luck, love and strength for Saturday night and I hope to be back on that dance floor very soon. With love, Jaime.\"\nHer fellow competitor Delta Goodrem commented on Instagram: \"Ahhhh sending all the healing energy beautiful Jaime the same way you gave me so much love and support!!!! Heal and rest, get better. We come back fighting!! Xxx.\"\n\"Sending love,\" professional dancer Dianne Buswell said.\nHead judge Shirley Ballas added: \"We wish you a speedy recovery. Take care of yourself health first xx.\"\nThe actress and her dance partner - the reigning champion of the series - have faced the dance-off over the past two weeks, narrowly avoiding elimination.\nWinstone is known for appearing in films including Made In Dagenham, Bullet Boy and Tomb Raider.\nShe also appeared in several shows including Dead Set, Poirot and the BBC TV movie Babs, where she played the late Dame Barbara Windsor.\nLast month Australian singer Goodrem was also forced to miss a week of the competition after suffering a rib injury.\nShe returned the following week, scoring the first 10 of this season after performing a rumba to Celine Dion's It's All Coming Back To Me Now with professional partner Kai Widdrington, placing her second.\nAfter the dance, Goodrem said: \"It was a tough week this week, and it's been sort of waves and sort of working through the process, but when you know you have a time frame, where you just have to keep getting up step by step, I think that was a positive mindset...\n\"I'm thrilled we could get through it today and onwards and upwards.\"\nStrictly Come Dancing continues at 6.30pm Saturday on BBC One.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "to be back on that dance floor very soon. With love, Jaime.\""
+    ],
+    [
+     "del",
+     "More"
+    ],
+    [
+     "ins",
+     "Her fellow competitor Delta Goodrem commented on Instagram: \"Ahhhh sending all the healing energy beautiful Jaime the same way you gave me so much love and support!!!! Heal and rest, get better. We come back fighting!! Xxx.\" \"Sending love,\" professional dancer Dianne Buswell said. Head judge Shirley Ballas added: \"We wish you a speedy recovery. Take care of yourself health first xx.\" The actress and her dance partner - the reigning champion of the series - have faced the dance-off over the past two weeks, narrowly avoiding elimination. Winstone is known for appearing in films including Made In Dagenham, Bullet Boy and Tomb Raider. She also appeared in several shows including Dead Set, Poirot and the BBC TV movie Babs, where she played the late Dame Barbara Windsor. Last month Australian singer Goodrem was also forced"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "follow."
+    ],
+    [
+     "ins",
+     "miss a week of the competition after suffering a rib injury. She returned the following week, scoring the first 10 of this season after performing a rumba to Celine Dion's It's All Coming Back To Me Now with professional partner Kai Widdrington, placing her second. After the dance, Goodrem said: \"It was a tough week this week, and it's been sort of waves and sort of working through the process, but when you know you have a time frame, where you just have to keep getting up step by step, I think that was a positive mindset... \"I'm thrilled we could get through it today and onwards and upwards.\" Strictly Come Dancing continues at 6.30pm Saturday on BBC One."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.0078,
+  "numbers_changed": [
+   "10",
+   "6.30"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.9,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

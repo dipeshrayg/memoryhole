@@ -1,0 +1,60 @@
+{
+ "id": "193d54eb60b4e063-9273112b-197d33ac",
+ "url": "https://www.dw.com/en/poland-arrests-four-over-alleged-spying-for-russia/a-79862829?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-06T14:02:53Z",
+ "date": "2026-11-06",
+ "old_title": "Poland arrests four over alleged spying for Russia, two more charge with supplying military components",
+ "new_title": "Poland arrests 4 accused of spying for Russia, charges 2 more with supplying military components",
+ "old_text": "Polish authorities said Thursday they had arrested six people over alleged military component shipments to Russia, four of whom they charged with espionage.\nInvestigators said the group illegally supplied Moscow with significant quantities of parts used to manufacture ammunition and weapons systems despite an embargo.\nWhat are the suspects accused of?\nFour suspects, including the Russian woman, were charged with espionage and placed in pretrial detention for three months, Poland's Internal Security Agency (ABW) said. The other two are subject to non-custodial restrictions.\nAll six also face allegations of violating rules governing international trade in goods and technologies of strategic importance to national defense and international security.\n\"Russia is subject to a strict embargo in this area, and this operation was designed to circumvent it,\" Siemoniak told reporters.\nThe suspects are five Poles aged 25 to 52 and a 37-year-old Russian woman, intelligence coordinator Tomasz Siemoniak said.\nFour suspects, including the Russian woman, were charged with espionage and placed in pretrial detention for three months, Poland's Internal Security Agency (ABW) said. The other two are subject to non-custodial restrictions.\nAll six also face allegations of violating rules governing international trade in goods and technologies of strategic importance to national defense and international security.\n\"Russia is subject to a strict embargo in this area, and this operation was designed to circumvent it,\" Siemoniak told reporters.\nThe suspects are five Poles aged 25 to 52 and a 37-year-old Russian woman, intelligence coordinator Tomasz Siemoniak said.\nWhy is Poland concerned about Russian operations?\nPoland, an EU and NATO member, is a major supporter of Ukraine and the main transit route for Western military and humanitarian aid to the country.\nSiemoniak said nearly 100 people had been charged in ABW espionage and sabotage investigations since January 1, 2024.\nWarsaw has repeatedly accused Russia of sabotage since Moscow launched its full-scale invasion of Ukraine in 2022. On Tuesday, Prime Minister Donald Tusk said Poland had foiled a possible provocation at its border with Russia's Kaliningrad exclave.\nThe Russian Embassy did not immediately respond to a request for comment. The Kremlin has consistently denied conducting sabotage operations in NATO countries.",
+ "new_text": "Polish authorities said Thursday that they had arrested six people over alleged military component shipments to Russia, four of whom have been charged with espionage.\nInvestigators said the group illegally supplied Moscow with significant quantities of parts used to manufacture ammunition and weapons systems despite an embargo.\nWhat are the suspects accused of?\nFour suspects, including the Russian woman, were charged with espionage and placed in pretrial detention for three months, Poland's Internal Security Agency (ABW) said. The other two are subject to non-custodial restrictions.\nAll six also face allegations of violating rules governing international trade in goods and technologies of strategic importance to national defense and international security.\n\"Russia is subject to a strict embargo in this area, and this operation was designed to circumvent it,\" Siemoniak told reporters.\nThe suspects are five Poles aged 25 to 52 and a 37-year-old Russian woman, intelligence coordinator Tomasz Siemoniak said.\nFour suspects, including the Russian woman, were charged with espionage and placed in pretrial detention for three months, Poland's Internal Security Agency (ABW) said. The other two are subject to non-custodial restrictions.\nAll six also face allegations of violating rules governing international trade in goods and technologies of strategic importance to national defense and international security.\n\"Russia is subject to a strict embargo in this area, and this operation was designed to circumvent it,\" Siemoniak told reporters.\nThe suspects are five Poles aged 25 to 52 and a 37-year-old Russian woman, intelligence coordinator Tomasz Siemoniak said.\nWhy is Poland concerned about Russian operations?\nPoland, an EU and NATO member, is a major supporter of Ukraine and the main transit route for Western military and humanitarian aid to the country.\nSiemoniak said nearly 100 people had been charged in ABW espionage and sabotage investigations since January 1, 2024.\nWarsaw has repeatedly accused Russia of sabotage since Moscow launched its full-scale invasion of Ukraine in 2022. On Tuesday, Prime Minister Donald Tusk said Poland had foiled a possible provocation at its border with Russia's Kaliningrad exclave.\nThe Russian Embassy did not immediately respond to a request for comment. The Kremlin has consistently denied conducting sabotage operations in NATO countries.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Polish authorities said Thursday"
+    ],
+    [
+     "ins",
+     "that"
+    ],
+    [
+     "eq",
+     "they had arrested six people over alleged military component shipments to Russia, four of whom"
+    ],
+    [
+     "del",
+     "they"
+    ],
+    [
+     "ins",
+     "have been"
+    ],
+    [
+     "eq",
+     "charged with espionage. Investigators said the group illegally supplied Moscow with significant"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0113,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9965,
+ "adjudicated_by": "rules"
+}

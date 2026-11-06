@@ -1,0 +1,106 @@
+{
+ "id": "b42362010773cd79-5889ac64-760f344a",
+ "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-06T14:00:07Z",
+ "date": "2026-11-06",
+ "old_title": "Story of US 2026 midterm elections in maps and charts",
+ "new_title": "Story of US 2026 midterm elections in maps and charts",
+ "old_text": "- Published\nSenate\nThe results in the Senate are beyond what the Democrats would have expected. North Carolina was a likely pick-up but the previously deep red state of South Carolina was a huge shock and Kansas had not returned a Democratic senator since 1932.\nTexas, Iowa, Ohio and Maine also turned blue and the Democrats held Michigan. There are two seats remaining, Alaska and Mississippi, both are on a knife edge.\nThe shift from Republican to Democrat happened across the country. Some of the biggest swings since the presidential election in 2024 were in Texas, where the Democrats took the Senate seat and the governor. Several counties on the state's southern border swung by more than 50 percentage points.\nHouse\nThe BBC's partner CBS News projected the Democrats would win the House just after 03:00 GMT on Wednesday (22:00 EST Tuesday).\nNow it's a question of how big that win will be as counting continues.\nTwo significant seats are Florida 14 and Florida 25 which the Democrats have held. This is a blow to the Republicans' attempt to redraw the boundaries in their favour.\nThe redistricting saw both districts move from having a majority of 2024 Kamala Harris voters to having a majority of people who voted for Donald Trump.\nFlorida 22, which was also redrawn to favour the Republicans, saw a victory for the Democrats too.\nWhat turned the vote?\nHispanic voters look to be one of the key groups in the elections in Texas. The poll suggests this group backed the Democratic Senate candidate James Talarico by 68% to 30% for the Republican Ken Paxton.\nThis is a turnaround from the estimated 50% of Hispanic voters who backed Donald Trump in 2024.\nThe poll also asked what issues voters were most concerned about. It suggests that across the country the economy was the biggest issue, followed by the state of democracy.\nProduced by Wesley Stephenson, Christine Jeavans, Daniel Wainwright, Becky Dale, Libby Rogers, Jess Carr, John Walton and Rob England.\nFollow the twists and turns of Trump's second term with North America correspondent Anthony Zurcher's US Politics Unspun newsletter. Readers in the UK can sign up here. Those outside the UK can sign up here.",
+ "new_text": "- Published\nSenate\nThe results in the Senate are beyond what the Democrats would have expected. North Carolina was a likely pick-up but the previously deep red state of South Carolina was a huge shock and Kansas had not returned a Democratic senator since 1932.\nTexas, Iowa, Ohio and Maine also turned blue and the Democrats held Michigan. There are two seats remaining, Alaska and Mississippi, both are on a knife edge.\nThe shift from Republican to Democrat happened across the country. Some of the biggest swings since the presidential election in 2024 were in Texas where the Democrats took the Senate seat and the governor. Several counties on the state's southern border swung by more that 50 percentage points.\nHouse\nThe BBC's partner CBS News projected the Democrats would win the House just after 03:00 GMT on Wednesday (22:00 EST Tuesday).\nNow it's a question of how big that win will be as counting continues.\nTwo significant seats are Florida 14 and Florida 25 which the Democrats have held. This is a blow to the Republicans' attempt to redraw the boundaries in their favour.\nThe redistricting saw both districts move from having a majority of 2024 Kamala Harris voters to having a majority of people who voted for Donald Trump.\nFlorida 22, which was also redrawn to favour the Republicans, saw a victory for the Democrats too.\nWhat turned the vote?\nHispanic voters look to be one of the key groups in the elections in Texas. The poll suggests this group backed the Democratic Senate candidate James Talerico by 68% to 30% for the Republican Ken Paxton.\nThis is a turnaround from the estimated 50% of Hispanic voters who backed Donald Trump in 2024.\nThe poll also asked what issues voters were most concerned about. It suggests that across the country the economy was the biggest issue, followed by the state of democracy.\nTurnout\nTurnout has been up at the past few midterm elections and 2026 is no exception climbing nearly to the 50% seen in 2018. The figure is provisional and will rise as more votes come in.\nProduced by Wesley Stephenson, Christine Jeavans, Daniel Wainwright, Becky Dale, Libby Rogers, Jess Carr, John Walton and Rob England.\nFollow the twists and turns of Trump's second term with North America correspondent Anthony Zurcher's US Politics Unspun newsletter. Readers in the UK can sign up here. Those outside the UK can sign up here.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "of the biggest swings since the presidential election in 2024 were in"
+    ],
+    [
+     "del",
+     "Texas,"
+    ],
+    [
+     "ins",
+     "Texas"
+    ],
+    [
+     "eq",
+     "where the Democrats took the Senate seat and the governor. Several counties on the state's southern border swung by more"
+    ],
+    [
+     "del",
+     "than"
+    ],
+    [
+     "ins",
+     "that"
+    ],
+    [
+     "eq",
+     "50 percentage points. House The BBC's partner CBS News projected the Democrats"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Texas. The poll suggests this group backed the Democratic Senate candidate James"
+    ],
+    [
+     "del",
+     "Talarico"
+    ],
+    [
+     "ins",
+     "Talerico"
+    ],
+    [
+     "eq",
+     "by 68% to 30% for the Republican Ken Paxton. This is a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the economy was the biggest issue, followed by the state of democracy."
+    ],
+    [
+     "ins",
+     "Turnout Turnout has been up at the past few midterm elections and 2026 is no exception climbing nearly to the 50% seen in 2018. The figure is provisional and will rise as more votes come in."
+    ],
+    [
+     "eq",
+     "Produced by Wesley Stephenson, Christine Jeavans, Daniel Wainwright, Becky Dale, Libby Rogers,"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1141,
+  "numbers_changed": [
+   "2018",
+   "2026",
+   "50"
+  ],
+  "market_figures_changed": [
+   "50%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9975,
+ "adjudicated_by": "rules"
+}

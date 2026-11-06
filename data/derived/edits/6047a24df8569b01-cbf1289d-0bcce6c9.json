@@ -1,0 +1,72 @@
+{
+ "id": "6047a24df8569b01-cbf1289d-0bcce6c9",
+ "url": "https://www.theguardian.com/science/audio/2026/nov/05/ferritin-face-can-you-really-diagnose-low-iron-from-a-selfie-podcast",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-11-06T14:13:19Z",
+ "date": "2026-11-06",
+ "old_title": "'Ferritin face': can you really diagnose low iron from a selfie? - podcast",
+ "new_title": "'Ferritin face': what you need to know about low iron - podcast",
+ "old_text": "Support the Guardian: theguardian.com/sciencepod\n'Ferritin face': can you really diagnose low iron from a selfie? - podcast\nSocial media is awash with claims iron deficiency can be identified in the mirror by dark circles, breaking hair and dry skin. But is 'ferritin face' real? Madeleine Finlay tells Ian Sample why so many of us struggle to keep our iron levels up, how we can actually diagnose low iron and the best way to correct a deficiency, with help from Hal Drakesmith, a professor of iron biology at Oxford University, and advice from Dr Sue Pavord, a consultant haematologist at Oxford university hospitals and associate senior lecturer in clinical medicine at St Edmund Hall",
+ "new_text": "Support the Guardian: theguardian.com/sciencepod\n'Ferritin face': what you need to know about low iron - podcast\nSocial media is awash with claims iron deficiency can be identified in the mirror by dark circles, breaking hair and dry skin. But is 'ferritin face' real? Madeleine Finlay tells Ian Sample why so many of us struggle to keep our iron levels up, how we can actually diagnose low iron and the best way to correct a deficiency, with help from Hal Drakesmith, a professor of iron biology at Oxford University, and advice from Dr Sue Pavord, a consultant haematologist at Oxford university hospitals and associate senior lecturer in clinical medicine at St Edmund Hall",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Support the Guardian: theguardian.com/sciencepod 'Ferritin face':"
+    ],
+    [
+     "del",
+     "can"
+    ],
+    [
+     "ins",
+     "what"
+    ],
+    [
+     "eq",
+     "you"
+    ],
+    [
+     "del",
+     "really diagnose"
+    ],
+    [
+     "ins",
+     "need to know about"
+    ],
+    [
+     "eq",
+     "low iron"
+    ],
+    [
+     "del",
+     "from a selfie?"
+    ],
+    [
+     "eq",
+     "- podcast Social media is awash with claims iron deficiency can be"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0973,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.725,
+ "similarity": 0.9658,
+ "adjudicated_by": "rules"
+}

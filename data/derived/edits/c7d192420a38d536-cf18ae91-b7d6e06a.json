@@ -1,0 +1,94 @@
+{
+ "id": "c7d192420a38d536-cf18ae91-b7d6e06a",
+ "url": "https://www.abc.net.au/news/2026-11-05/police-union-pushes-for-mandatory-jail-terms-alleged-assault/107348932",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-06T14:04:28Z",
+ "date": "2026-11-06",
+ "old_title": "Union pushes for mandatory sentences after alleged assault on Mount Isa police",
+ "new_title": "Union pushes for mandatory sentences after alleged assault on Mount Isa police",
+ "old_text": "In short:\nQueensland's police union is calling for urgent reform to deal with police assaults after a Mount Isa officer was allegedly attacked.\nA legal expert says harsher penalties will not deter assaults.\nWhat's next?\nThe union is urging the attorney-general to begin drafting reforms.\nThe Queensland Police Union (QPU) is calling for mandatory minimum sentencing for serious assaults on police after an alleged attack that left an officer with a cut jaw.\nA male officer was taken to hospital after he and two colleagues were allegedly involved in an altercation in the city about 2:30am on October 30, a Queensland Police Service (QPS) spokesperson said.\nTwo men, aged 26 and 24, have been charged over the alleged assault and are set to face court.\nQPU president Shane Prior said reforms were needed to better protect police.\n\"If you assault a police officer ... there is one place for you, and that is inside a prison cell,\" Mr Prior said.\n\"As far as I'm concerned, that meets community expectations.\"\nThe union leader and former frontline officer said he had since spoken with the Mount Isa staff involved, including the injured officer.\nMr Prior said he sustained \"injuries to his cheekbone and upper jaw [and] a deep laceration to the top area of his lip and nose\".\n'We've got to do something differently'\nMandatory minimum sentencing reforms for serious assaults on emergency workers were referred to the Queensland Sentencing Advisory Council by then attorney-general Yvette D'Ath.\nThe report found that more than 90 per cent of serious assaults on emergency workers, examined in the previous 10 years, resulted in a custodial sentence.\nMr Prior said it did not go far enough.\n\"We've got to do something differently,\" he said.\nData from the Queensland Sentencing Board in 2025 showed aggravated serious assaults on police had increased.\nIn the 2019-2020 financial year, 220 matters involved a sentencing for aggravated serious assault on police by adult perpetrators.\nIn the last financial year, that grew to 360.\nBetween 2020 and 2025, 48 per cent of sentenced matters involving serious assault on police resulted in imprisonment while 20 per cent were wholly suspended, the data showed.\n'Doesn't stand up'\nGriffith University senior law lecturer Simon McKenzie acknowledged the need for worker safety but said mandatory minimum sentencing would not deter assaults.\n\"The idea that someone is having a disagreement with a police officer and think, 'Maybe I'll assault them, but maybe I won't, because of the mandatory minimum' doesn't really stand up to scrutiny,\" he said.\nDr McKenzie said such reforms would likely lead to higher prison populations and a less efficient justice system.\n\"It really reduces the likelihood that people will plead guilty because there's no point if you get the mandatory minimum ... so you might as well roll the dice,\" he said.\nThe state government last month passed mandatory minimum sentencing laws for bail breaches, which take effect at the end of this month.\nIn a statement to the ABC, Attorney-General Deb Frecklington would not rule out whether similar laws for assaults on police were being considered.\nShe said the government was steadfast in its commitment to make Queensland safer.\n\"We've always said we will continue to strengthen laws where required,\" Ms Frecklington said.",
+ "new_text": "In short:\nQueensland's police union is calling for urgent reform to deal with police assaults after a Mount Isa officer was allegedly attacked.\nA legal expert says harsher penalties will not deter assaults.\nWhat's next?\nThe union is urging the Attorney-General to begin drafting reforms.\nThe Queensland Police Union (QPU) is calling for mandatory minimum sentencing for serious assaults on police after an alleged attack that left an officer with a cut jaw.\nA male officer was taken to hospital after he and two colleagues were allegedly involved in an altercation in the city about 2:30am on October 30, a Queensland Police Service (QPS) spokesperson said.\nTwo men, aged 26 and 24, have been charged over the alleged assault with their matters before the court.\nQPU president Shane Prior said reforms were needed to better protect police.\n\"If you assault a police officer ... there is one place for you, and that is inside a prison cell,\" Mr Prior said.\n\"As far as I'm concerned, that meets community expectations.\"\nThe union leader and former frontline officer said he had since spoken with the Mount Isa staff involved, including the injured officer.\nMr Prior said he sustained \"injuries to his cheekbone and upper jaw [and] a deep laceration to the top area of his lip and nose\".\n'We've got to do something differently'\nMandatory minimum sentencing reforms for serious assaults on emergency workers were referred to the Queensland Sentencing Advisory Council by then attorney-general Yvette D'Ath in 2020.\nThe report found that more than 90 per cent of serious assaults on emergency workers, examined in the previous 10 years, resulted in a custodial sentence.\nMr Prior said it did not go far enough.\n\"We've got to do something differently,\" he said.\nData from the Queensland Sentencing Board in 2025 showed aggravated serious assaults on police had increased.\nIn the 2019-2020 financial year, 220 matters involved a sentencing for aggravated serious assault on police by adult perpetrators.\nIn the last financial year, that grew to 360.\nBetween 2020 and 2025, 48 per cent of sentenced matters involving serious assault on police resulted in imprisonment while 20 per cent were wholly suspended, the data showed.\n'Doesn't stand up'\nGriffith University senior law lecturer Simon McKenzie acknowledged the need for worker safety but said mandatory minimum sentencing would not deter assaults.\n\"The idea that someone is having a disagreement with a police officer and think, 'Maybe I'll assault them, but maybe I won't, because of the mandatory minimum' doesn't really stand up to scrutiny,\" he said.\nDr McKenzie said such reforms would likely lead to higher prison populations and a less efficient justice system.\n\"It really reduces the likelihood that people will plead guilty because there's no point if you get the mandatory minimum ... so you might as well roll the dice,\" he said.\nThe state government last month passed mandatory minimum sentencing laws for bail breaches, which take effect at the end of this month.\nIn a statement to the ABC, Attorney-General Deb Frecklington would not rule out whether similar laws for assaults on police were being considered.\nShe said the government was steadfast in its commitment to make Queensland safer.\n\"We've always said we will continue to strengthen laws where required,\" Ms Frecklington said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "penalties will not deter assaults. What's next? The union is urging the"
+    ],
+    [
+     "del",
+     "attorney-general"
+    ],
+    [
+     "ins",
+     "Attorney-General"
+    ],
+    [
+     "eq",
+     "to begin drafting reforms. The Queensland Police Union (QPU) is calling for"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "men, aged 26 and 24, have been charged over the alleged assault"
+    ],
+    [
+     "del",
+     "and are set to face"
+    ],
+    [
+     "ins",
+     "with their matters before the"
+    ],
+    [
+     "eq",
+     "court. QPU president Shane Prior said reforms were needed to better protect"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "were referred to the Queensland Sentencing Advisory Council by then attorney-general Yvette"
+    ],
+    [
+     "del",
+     "D'Ath."
+    ],
+    [
+     "ins",
+     "D'Ath in 2020."
+    ],
+    [
+     "eq",
+     "The report found that more than 90 per cent of serious assaults"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0296,
+  "numbers_changed": [
+   "2020"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9993,
+ "adjudicated_by": "rules"
+}

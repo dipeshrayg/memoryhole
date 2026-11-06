@@ -1,0 +1,116 @@
+{
+ "id": "67414a8d5709bad3-e9b95a16-c0a87476",
+ "url": "https://www.theguardian.com/football/2026/nov/05/fifa-wants-womens-olympic-football-under-23s",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-11-06T14:14:09Z",
+ "date": "2026-11-06",
+ "old_title": "Fifa wants to restrict women's Olympic football to under-23s in controversial move",
+ "new_title": "Fifa wants talks over restricting women's Olympic football to under-23s",
+ "old_text": "Fifa wants the International Olympic Committee to restrict the women's Olympic football tournament to under-23s owing to concerns over fixture congestion and the workload of senior players.\nThe eligibility criteria for the 2028 Olympics in Los Angeles has been set, with qualification tournaments having begun in some regions, so no change can be made until Brisbane 2032 at the earliest, but sources at both organisations have told the Guardian that they are open to dialogue.\nAlthough no formal proposal has been made, Fifa is understood to be interested in examining the matter in talks with the IOC and other key stakeholders, such as the players and leading member associations whose national sides routinely qualify for the Games.\nA move to bring in age restrictions would dramatically alter the nature of the event and require careful analysis, consultation and consideration through Fifa and IOC processes.\nSuch a change would be controversial and could provoke a backlash from leading international players because the Olympics has long been regarded as one of the highlights of the women's calendar, with Emma Hayes's United States team securing gold in Paris two years ago. The Olympic title has been contested eight times and the US have won five.\nWomen's football also has a major commercial appeal for the IOC, particularly in markets such as the US, Europe and Australia, so it may resist Fifa's overtures.\nWomen's football was introduced to the Olympics at Atlanta in 1996, and as an amateur sport at that time never had eligibility requirements, in contrast to the men's game.\nAfter admitting football to the Olympic programme in 1908 the IOC did not permit professionals to take part until 1984 owing to Fifa's insistence on maintaining the primacy of the World Cup, as well as the demands on players from a congested calendar. Under pressure from Fifa the IOC introduced an under-23 age restriction in 1992, although three overage players have also been allowed in each squad since 1996.\nThe huge growth and professionalisation of the women's game over the past decade has created increased fixture congestion, with the 2028 calendar the most bloated yet.\nFifa is to a large extent culpable for this because the world governing body has chosen to launch the Women's Club World Cup in an Olympic year, with the US to stage the 16-team competition between 5 and 30 January, six months before the Games.\nThe Women's Club World Cup will cause major disruption to the European club season, with Arsenal and Chelsea or Manchester City likely to be absent from domestic competition for up to a month if they reach the latter stages, missing four Women's Super League matches and the FA Cup fourth round.\nThe importance of the sport to the IOC is shown by the fact that the women's football tournament will be bigger than the men's for the first time in LA, featuring 16 teams to 12 in a reversal of the numbers at Paris 2024.\nFifa and the IOC declined to comment.",
+ "new_text": "Fifa wants talks with the International Olympic Committee over restricting the Olympic women's football tournament to under-23s owing to concerns over fixture congestion and the workload of senior players.\nThe eligibility criteria for the 2028 Olympics in Los Angeles has been set, with qualification tournaments having begun in some regions, so no change can be made until Brisbane 2032 at the earliest, but sources at both organisations have said that they are open to dialogue.\nAlthough no formal proposal has been made, Fifa is understood to be interested in examining the matter in talks with the IOC and other key stakeholders, such as the players and leading member associations whose national sides routinely qualify for the Games.\nA move to bring in age restrictions would dramatically alter the nature of the event and require careful analysis, consultation and consideration through Fifa and IOC processes.\nSuch a change would be controversial and could provoke a backlash from leading international players because the Olympics has long been regarded as one of the highlights of the women's calendar, with Emma Hayes's United States team securing gold in Paris two years ago. The Olympic title has been contested eight times and the US have won five.\nWomen's football also has a major commercial appeal for the IOC, particularly in markets such as the US, Europe and Australia, so it may resist Fifa's overtures.\nWomen's football was introduced to the Olympics at Atlanta in 1996, and as an amateur sport at that time never had eligibility requirements, in contrast to the men's game.\nAfter admitting football to the Olympic programme in 1908 the IOC did not permit professionals to take part until 1984 owing to Fifa's insistence on maintaining the primacy of the World Cup, as well as the demands on players from a congested calendar. Under pressure from Fifa the IOC introduced an under-23 age restriction in 1992, although three overage players have also been allowed in each squad since 1996.\nThe huge growth and professionalisation of the women's game over the past decade has created increased fixture congestion, with the 2028 calendar the most bloated yet.\nFifa is to a large extent culpable for this because the world governing body has chosen to launch the Women's Club World Cup in an Olympic year, with the US to stage the 16-team competition between 5 and 30 January, six months before the Games.\nThe Women's Club World Cup will cause major disruption to the European club season, with Arsenal and Chelsea or Manchester City likely to be absent from domestic competition for up to a month if they reach the latter stages, missing four Women's Super League matches and the FA Cup fourth round. The importance of the sport to the IOC is shown by the fact that the women's football tournament will be bigger than the men's for the first time in LA, featuring 16 teams to 12, in a reversal of the numbers at Paris 2024.\nFifa and the IOC declined to comment.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Fifa wants"
+    ],
+    [
+     "ins",
+     "talks with"
+    ],
+    [
+     "eq",
+     "the International Olympic Committee"
+    ],
+    [
+     "del",
+     "to restrict"
+    ],
+    [
+     "ins",
+     "over restricting"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "ins",
+     "Olympic"
+    ],
+    [
+     "eq",
+     "women's"
+    ],
+    [
+     "del",
+     "Olympic"
+    ],
+    [
+     "eq",
+     "football tournament to under-23s owing to concerns over fixture congestion and the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "until Brisbane 2032 at the earliest, but sources at both organisations have"
+    ],
+    [
+     "del",
+     "told the Guardian"
+    ],
+    [
+     "ins",
+     "said"
+    ],
+    [
+     "eq",
+     "that they are open to dialogue. Although no formal proposal has been"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the men's for the first time in LA, featuring 16 teams to"
+    ],
+    [
+     "del",
+     "12"
+    ],
+    [
+     "ins",
+     "12,"
+    ],
+    [
+     "eq",
+     "in a reversal of the numbers at Paris 2024. Fifa and the IOC declined to comment."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.028,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.998,
+ "adjudicated_by": "rules"
+}

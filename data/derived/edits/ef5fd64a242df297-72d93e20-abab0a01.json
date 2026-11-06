@@ -1,0 +1,112 @@
+{
+ "id": "ef5fd64a242df297-72d93e20-abab0a01",
+ "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-11-06T14:10:22Z",
+ "date": "2026-11-06",
+ "old_title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+ "new_title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+ "old_text": "- Published\nPeople riding drunk or dangerously on e-bikes â and those who jump red lights - could face on-the-spot fines under plans to curb anti-social behaviour.\nFirms which run shared e-bike schemes will also be expected to manage their fleets better and provide designated parking areas to keep pavements safe.\nThey could also be required to take out insurance so people can claim compensation if they are hit by someone on a shared bike.\nIt's part of a crackdown on what ministers called the \"wild west\" of e-biking â with a patchwork of rules across the country often leaving the streets unsafe for pedestrians.\nA consultation launched on Thursday sets out proposed national standards to make journeys safer for everyone and keep pavements clear, particularly for wheelchair users and families with prams.\nThe first e-bikes were launched in Exeter in 2016 and arrived in London a year later, growing to become a popular commuter option.\nAccording to the Greater London Authority, 37 million trips were taken on dockless e-bikes last year â a third more than the previous year.\nShared e-bikes - such as Lime, Voi, Beryl, Dott, Forest and Bolt - make short journeys quick and convenient.\nWhile some areas enforce rules that mean shared bikes can only be left in specific areas, others have looser rules.\nUnder the government's proposals, local leaders will be able to license schemes in their area, allowing them to enforce minimum standards and better integrate e-bikes into existing transport networks.\nMeasures could include requiring operators to have a parking plan and to manage fleet sizes and operating areas, so bikes aren't overcrowding streets.\nThe consultation will also consider ways to tackle antisocial and illegal behaviour, to prevent users from riding shared cycles drunk, underage, or on pavements. There will also be clear consequences set out â such as fines for this type of behaviour.\nThe government is also consulting on whether local leaders should have extra powers, including setting fees and requirements for operators to share data to improve enforcement and journey planning.\nPrime Minister Andy Burnham said the e-bike clampdown was a \"small but important everyday fix\" which would make streets safer.\nTransport Secretary Heidi Alexander said the changes would \"stop nuisance parking, tackle antisocial behaviour and make journeys safer\".\nBosses at Lime, Voi and Bolt all welcomed the proposals, adding that consistent standards being applied across the country would provide clarity and certainty for operators, riders and the general public.",
+ "new_text": "- Published\nPeople riding drunk or dangerously on e-bikes â and those who jump red lights - could face on-the-spot fines under plans to curb anti-social behaviour.\nFirms which run shared e-bike schemes will also be expected to manage their fleets better and provide designated parking areas to keep pavements safe.\nThey could also be required to take out insurance so people can claim compensation if they are hit by someone on a shared bike.\nIt's part of a crackdown on what ministers called the \"wild west\" of e-biking â with a patchwork of rules across the country often leaving the streets unsafe for pedestrians.\nA consultation launched on Thursday sets out proposed national standards to make journeys safer for everyone and keep pavements clear, particularly for wheelchair users and families with prams.\nThe first e-bikes were launched in Exeter in 2016 and arrived in London a year later, growing to become a popular commuter option.\nAccording to the Greater London Authority, 37 million trips were taken on dockless e-bikes last year â a third more than the previous year.\nShared e-bikes - such as Lime, Voi, Beryl, Dott, Forest and Bolt - make short journeys quick and convenient.\nWhile some areas enforce rules that mean shared bikes can only be left in specific areas, others have looser rules.\nUnder the government's proposals, local leaders will be able to license schemes in their area, allowing them to enforce minimum standards and better integrate e-bikes into existing transport networks.\nMeasures could include requiring operators to have a parking plan and to manage fleet sizes and operating areas, so bikes aren't overcrowding streets.\nThe consultation will also consider ways to tackle antisocial and illegal behaviour, to prevent users from riding shared cycles drunk, underage, or on pavements. There will also be clear consequences set out â such as fines - for this type of behaviour.\nThe government is also consulting on whether local leaders should have extra powers, including setting fees and requirements for operators to share data to improve enforcement and journey planning.\nThe consultation will last for eight weeks after which the government will draw up legislation to implement the changes.\nPrime Minister Andy Burnham said the e-bike clampdown was a \"small but important everyday fix\" which would make streets safer.\nTransport Secretary Heidi Alexander said the government wanted e-bike schemes to \"grow in popularity\" but acknowledged they were \"causing a little bit of nuisance at the moment\".\nAsked how punishments for dangerous cycling could be enforced, Alexander said licensing rules could allow for fines but added: \"What you can't do is legislate for every eventuality, you can't legislate for idiots.\"\n\"The police enforce the rules of the road to stop cyclists when they are behaving recklessly but police have got a lot on their plate so individuals have to take some responsibility,\" she added.\nBosses at Lime, Voi and Bolt all welcomed the proposals, adding that consistent standards being applied across the country would provide clarity and certainty for operators, riders and the general public.\nMike Wordingham from the Royal National Institute for the Blind said 92% of blind and partially sighted people had been forced to walk into roads due to e-bikes blocking pavements.\nHe welcomed the government's announced but warned that tackling rider behaviour would be \"difficult\" and said a locally-led approach shouldn't lead to \"a patchwork of regulations and inconsistency in implementing them\".",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "There will also be clear consequences set out â such as fines"
+    ],
+    [
+     "ins",
+     "-"
+    ],
+    [
+     "eq",
+     "for this type of behaviour. The government is also consulting on whether"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "requirements for operators to share data to improve enforcement and journey planning."
+    ],
+    [
+     "ins",
+     "The consultation will last for eight weeks after which the government will draw up legislation to implement the changes."
+    ],
+    [
+     "eq",
+     "Prime Minister Andy Burnham said the e-bike clampdown was a \"small but"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "fix\" which would make streets safer. Transport Secretary Heidi Alexander said the"
+    ],
+    [
+     "del",
+     "changes would \"stop"
+    ],
+    [
+     "ins",
+     "government wanted e-bike schemes to \"grow in popularity\" but acknowledged they were \"causing a little bit of"
+    ],
+    [
+     "eq",
+     "nuisance"
+    ],
+    [
+     "del",
+     "parking, tackle antisocial behaviour and make journeys safer\"."
+    ],
+    [
+     "ins",
+     "at the moment\". Asked how punishments for dangerous cycling could be enforced, Alexander said licensing rules could allow for fines but added: \"What you can't do is legislate for every eventuality, you can't legislate for idiots.\" \"The police enforce the rules of the road to stop cyclists when they are behaving recklessly but police have got a lot on their plate so individuals have to take some responsibility,\" she added."
+    ],
+    [
+     "eq",
+     "Bosses at Lime, Voi and Bolt all welcomed the proposals, adding that"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "would provide clarity and certainty for operators, riders and the general public."
+    ],
+    [
+     "ins",
+     "Mike Wordingham from the Royal National Institute for the Blind said 92% of blind and partially sighted people had been forced to walk into roads due to e-bikes blocking pavements. He welcomed the government's announced but warned that tackling rider behaviour would be \"difficult\" and said a locally-led approach shouldn't lead to \"a patchwork of regulations and inconsistency in implementing them\"."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4366,
+  "numbers_changed": [
+   "92"
+  ],
+  "market_figures_changed": [
+   "92%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 1,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.4,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

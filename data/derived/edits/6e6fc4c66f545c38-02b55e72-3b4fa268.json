@@ -1,0 +1,48 @@
+{
+ "id": "6e6fc4c66f545c38-02b55e72-3b4fa268",
+ "url": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-11-06T14:11:57Z",
+ "date": "2026-11-06",
+ "old_title": "Comber: Investigation into 'major fish kill' underway after pollution incident",
+ "new_title": "Comber: Investigation into 'major fish kill' underway after pollution incident",
+ "old_text": "- Published\nA investigation is underway after \"a major fish kill\" in a County Down river, the Department for Agriculture, Environment and Rural Affairs (Daera) has confirmed.\nThe pollution caused the death of brown and migratory sea trout in the Gransha, Ballystockart and Inler Rivers.\nGlenn McKibbin, the secretary of Inler Angling Club, said about 1,000 fish were killed in the incident and it \"could not have happened in a worse location on the river or at a worse time\".\nThe Northern Ireland Environment Agency (NIEA) and Daera Inland Fisheries are working to \"identify the source of the pollution and to finalise the numbers of fish killed\".\nThe Department said the incident was reported by a member of the public on Tuesday at 09:30 GMT.\nFish stocks 'obliterated'\nMcKibbin said that \"current and future fish stocks obliterated for years to come\".\nHe added that resident and non-resident migratory fish, which only return at this of year to spawn, have been impacted.\n\"Knock-on effects for other wildlife such as resident kingfishers, herons & otters unavoidable.\n\"For our members and volunteers who work tirelessly in a bid to improve the river this is soul-destroying, particularly as the river was still in recovery from major pollution incidents / fish kills in 2013 and 2015,\" McKibbin said.\n\"Waterways up and down the country continue to be treated like sewers.\n\"The paltry fines that usually follow incidents of this nature are not a deterrent and the current 'system' is broken.\"\nMany migratory fish, such as trout and salmon, swim up smaller tributaries to lay their eggs in cleaner, gravel-bottomed, or cooler waters away from larger predators in the main river.\nA tributary is a smaller river that flows into a larger mainstem river where many migratory fish, such as trout and salmon, swim up to lay their eggs away from larger predators in the main river.\nInler Angling Club Chairperson David Pyper said: \"For those who dedicate so much time and effort to caring for the river, witnessing the sheer loss of fish in circumstances such as these is particularly disappointing.\n\"The club hopes that the forthcoming investigations will establish the cause of this latest incident and help ensure appropriate steps are taken to protect the river and its wildlife.\"\nThe club has encouraged local representatives and authorities to continue to prioritise rivers and direct resources towards improving water quality and preventing further incidents.",
+ "new_text": "- Published\nA investigation is underway after \"a major fish kill\" in a County Down river, the Department for Agriculture, Environment and Rural Affairs (Daera) has confirmed.\nThe pollution caused the death of brown and migratory sea trout in the Gransha, Ballystockart and Inler (also known as Enler) Rivers.\nGlenn McKibbin, the secretary of Inler Angling Club, said about 1,000 fish were killed in the incident and it \"could not have happened in a worse location on the river or at a worse time\".\nThe Northern Ireland Environment Agency (NIEA) and Daera Inland Fisheries are working to \"identify the source of the pollution and to finalise the numbers of fish killed\".\nThe Department said the incident was reported by a member of the public on Tuesday at 09:30 GMT.\nFish stocks 'obliterated'\nMcKibbin said that \"current and future fish stocks obliterated for years to come\".\nHe added that resident and non-resident migratory fish, which only return at this of year to spawn, have been impacted.\n\"Knock-on effects for other wildlife such as resident kingfishers, herons & otters unavoidable.\n\"For our members and volunteers who work tirelessly in a bid to improve the river this is soul-destroying, particularly as the river was still in recovery from major pollution incidents / fish kills in 2013 and 2015,\" McKibbin said.\n\"Waterways up and down the country continue to be treated like sewers.\n\"The paltry fines that usually follow incidents of this nature are not a deterrent and the current 'system' is broken.\"\nMany migratory fish, such as trout and salmon, swim up smaller tributaries to lay their eggs in cleaner, gravel-bottomed, or cooler waters away from larger predators in the main river.\nA tributary is a smaller river that flows into a larger mainstem river where many migratory fish, such as trout and salmon, swim up to lay their eggs away from larger predators in the main river.\nInler Angling Club Chairperson David Pyper said: \"For those who dedicate so much time and effort to caring for the river, witnessing the sheer loss of fish in circumstances such as these is particularly disappointing.\n\"The club hopes that the forthcoming investigations will establish the cause of this latest incident and help ensure appropriate steps are taken to protect the river and its wildlife.\"\nThe club has encouraged local representatives and authorities to continue to prioritise rivers and direct resources towards improving water quality and preventing further incidents.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "of brown and migratory sea trout in the Gransha, Ballystockart and Inler"
+    ],
+    [
+     "ins",
+     "(also known as Enler)"
+    ],
+    [
+     "eq",
+     "Rivers. Glenn McKibbin, the secretary of Inler Angling Club, said about 1,000"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.01,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9879,
+ "adjudicated_by": "rules"
+}

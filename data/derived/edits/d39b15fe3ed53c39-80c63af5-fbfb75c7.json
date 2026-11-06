@@ -1,0 +1,74 @@
+{
+ "id": "d39b15fe3ed53c39-80c63af5-fbfb75c7",
+ "url": "https://www.dw.com/en/cristiano-ronaldo-announces-retirement-from-international-football/a-79864361?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-06T14:02:49Z",
+ "date": "2026-11-06",
+ "old_title": "Cristiano Ronaldo announces retirement from international football",
+ "new_title": "Cristiano Ronaldo announces retirement from international football",
+ "old_text": "Cristiano Ronaldo took to social media on Thursday to announce that he had played his last game for Portugal.\n\"To the Portuguese people, the day has come for me to hand back the number seven shirt of our national team,\" the 41-year-old Ronaldo said in a video on his Instagram account.\n\"I never felt it belonged to me alone, but for 23 years I had the privilege and the responsibility of wearing it, defending it and carrying it with me into stadiums all around the world.\"\nThe former Manchester United, Real Madrid and Juventus forward represented his country 234 times, scoring 146 goals - making him the men's record-holder for international appearances and for international goals.\nDecision made with 'head and heart'\nHe captained Portugal to their first major trophy at Euro 2016 and led them to the 2019 and 2025 Nations League titles.\n\"It was not an easy decision, there are decisions that are not only with the head. They are also made with the heart,\" Ronaldo continued in the Instagram post.\n\"If I ever made you happy, if one of my goals ever made you hug someone, forget a worry or feel proud of our country, then it was all worth it.\"\nHe also thanked his family, the Portuguese people and the teammates, coaches and staff he worked with over his national team career.\n'The greatest of all time'\nThe Portuguese Football Association (FPF) released a statement expressing its gratitude and respect for the player also known as \"CR7.\"\n\"Cristiano Ronaldo has raised Portugal's profile and inspired generations of young people who dream of following in his footsteps; for many of us, he is the greatest player of all time!\" it read.\nThe FPF intends to organize a tribute \"in which the fans and the country can one more time applaud and celebrate a player who has given us so much.\"\nTraining camp walkout\nWhile his long-rival Lionel Messi ended his Argentina career with a much anticipated farewell match last month, Ronaldo's final appearance may go down as Portugal's 1-0 win over Wales on September 24, depending on the nature of the tribute. Portugal coach Jorge Jesus left him on the bench for the following match and said he wouldn't start the next one.\nRonaldo responded by walking out of the Portugal training camp. He was subsequently suspended and fined by the FPF, but he had been expected to return to Portugal for the November international break.\nLike Messi, Ronaldo intends to continue his club career with Al-Nassr in Saudi Arabia.",
+ "new_text": "Cristiano Ronaldo took to social media on Thursday to announce that he had played his last game for Portugal.\n\"To the Portuguese people, the day has come for me to hand back the No. 7 shirt of our national team,\" the 41-year-old Ronaldo said in a video on his Instagram account.\n\"I never felt it belonged to me alone, but for 23 years I had the privilege and the responsibility of wearing it, defending it and carrying it with me into stadiums all around the world,\" Ronaldo said.\nThe former Manchester United, Real Madrid and Juventus forward represented his country 234 times, scoring 146 goals - making him the men's record-holder for international appearances and for international goals.\nDecision made with 'head and heart'\nHe captained Portugal to their first major trophy at Euro 2016 and led them to the 2019 and 2025 Nations League titles.\n\"It was not an easy decision, there are decisions that are not only with the head. They are also made with the heart,\" Ronaldo continued in the Instagram post.\n\"If I ever made you happy, if one of my goals ever made you hug someone, forget a worry or feel proud of our country, then it was all worth it.\"\nHe also thanked his family, the Portuguese people and the teammates, coaches and staff he worked with over his national team career.\n'The greatest of all time'\nThe Portuguese Football Association (FPF) released a statement expressing its gratitude and respect for the player also known as \"CR7.\"\n\"Cristiano Ronaldo has raised Portugal's profile and inspired generations of young people who dream of following in his footsteps; for many of us, he is the greatest player of all time!\" it read.\nThe FPF intends to organize a tribute \"in which the fans and the country can one more time applaud and celebrate a player who has given us so much.\"\nTraining camp walkout\nWhile his long-rival Lionel Messi ended his Argentina career with a much anticipated farewell match last month, Ronaldo's final appearance may go down as Portugal's 1-0 win over Wales on September 24, depending on the nature of the tribute. Portugal coach Jorge Jesus left him on the bench for the following match and said he wouldn't start the next one.\nRonaldo responded by walking out of the Portugal training camp. He was subsequently suspended and fined by the FPF, but he had been expected to return to Portugal for the November international break.\nLike Messi, Ronaldo intends to continue his club career with Al-Nassr in Saudi Arabia.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Portuguese people, the day has come for me to hand back the"
+    ],
+    [
+     "del",
+     "number seven"
+    ],
+    [
+     "ins",
+     "No. 7"
+    ],
+    [
+     "eq",
+     "shirt of our national team,\" the 41-year-old Ronaldo said in a video"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "defending it and carrying it with me into stadiums all around the"
+    ],
+    [
+     "del",
+     "world.\""
+    ],
+    [
+     "ins",
+     "world,\" Ronaldo said."
+    ],
+    [
+     "eq",
+     "The former Manchester United, Real Madrid and Juventus forward represented his country"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0189,
+  "numbers_changed": [
+   "7"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9852,
+ "adjudicated_by": "rules"
+}

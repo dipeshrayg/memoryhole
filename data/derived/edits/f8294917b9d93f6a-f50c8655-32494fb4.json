@@ -1,0 +1,206 @@
+{
+ "id": "f8294917b9d93f6a-f50c8655-32494fb4",
+ "url": "https://www.independent.co.uk/bulletin/news/russell-brand-guilty-verdict-court-b3079829.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-06T14:05:21Z",
+ "date": "2026-11-06",
+ "old_title": "Russell Brand found guilty of one rape and three sexual assaults",
+ "new_title": "Russell Brand found guilty of one rape and three sexual assaults",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nRussell Brand found guilty of one rape and three sexual assaults\n- Russell Brand has been convicted of one count of rape and three counts of sexual assault following a four-week trial at Southwark Crown Court.\n- A jury consisting of eight men and four women deliberated for just under two days before returning their guilty verdicts.\n- The convictions cover a ten-year period between 1999 and 2009 during a time when Brand was rising to staggering fame.\n- The rape conviction relates to an attack on a young fan following one of his live shows in 2009.\n- Brand stood upright in the dock and closed his eyes, showing limited emotion as the verdicts were delivered. He was found not guilty of two further rapes and an attempted indecent assault.\nMore bulletins",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nRussell Brand found guilty of one rape and three sexual assaults\n- Comedian and TV presenter Russell Brand has been found guilty at Southwark Crown Court of one count of rape and three counts of sexual assault following a trial lasting nearly four weeks.\n- The jury deliberated for eight and a half hours before convicting the 51-year-old of raping a fan in 2009, alongside sexually assaulting three women employed by MTV, Capital Radio, and Channel 4 between 2004 and 2009.\n- Brand was cleared of three other charges, comprising two counts of rape and one charge of attempted indecent assault, which related to allegations from 1999, 2001, and 2004.\n- During the trial, Brand denied the allegations and claimed to be the target of a media conspiracy, but faced testimony from six women alongside evidence from his own 2007 autobiography regarding his sexual conduct.\n- Following the jury's verdicts, Mr Justice Bennathan informed Brand that a substantial custodial sentence would be imposed, with the formal sentencing hearing scheduled for Monday.\nMore bulletins",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Russell Brand found guilty of one rape and three sexual assaults -"
+    ],
+    [
+     "ins",
+     "Comedian and TV presenter"
+    ],
+    [
+     "eq",
+     "Russell Brand has been"
+    ],
+    [
+     "del",
+     "convicted"
+    ],
+    [
+     "ins",
+     "found guilty at Southwark Crown Court"
+    ],
+    [
+     "eq",
+     "of one count of rape and three counts of sexual assault following a"
+    ],
+    [
+     "del",
+     "four-week"
+    ],
+    [
+     "eq",
+     "trial"
+    ],
+    [
+     "del",
+     "at Southwark Crown Court."
+    ],
+    [
+     "ins",
+     "lasting nearly four weeks."
+    ],
+    [
+     "eq",
+     "-"
+    ],
+    [
+     "del",
+     "A"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "jury"
+    ],
+    [
+     "del",
+     "consisting of eight men and four women"
+    ],
+    [
+     "eq",
+     "deliberated for"
+    ],
+    [
+     "del",
+     "just under two days"
+    ],
+    [
+     "ins",
+     "eight and a half hours"
+    ],
+    [
+     "eq",
+     "before"
+    ],
+    [
+     "del",
+     "returning their guilty verdicts. - The convictions cover"
+    ],
+    [
+     "ins",
+     "convicting the 51-year-old of raping"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "ten-year period"
+    ],
+    [
+     "ins",
+     "fan in 2009, alongside sexually assaulting three women employed by MTV, Capital Radio, and Channel 4"
+    ],
+    [
+     "eq",
+     "between"
+    ],
+    [
+     "del",
+     "1999"
+    ],
+    [
+     "ins",
+     "2004"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "2009 during a time when Brand was rising to staggering fame. - The rape conviction relates to an attack on a young fan following one of his live shows in"
+    ],
+    [
+     "eq",
+     "2009. - Brand"
+    ],
+    [
+     "del",
+     "stood upright in the dock"
+    ],
+    [
+     "ins",
+     "was cleared of three other charges, comprising two counts of rape"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "closed his eyes, showing limited emotion as the verdicts were delivered. He was found not guilty"
+    ],
+    [
+     "ins",
+     "one charge"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "two further rapes and an"
+    ],
+    [
+     "eq",
+     "attempted indecent"
+    ],
+    [
+     "del",
+     "assault."
+    ],
+    [
+     "ins",
+     "assault, which related to allegations from 1999, 2001, and 2004. - During the trial, Brand denied the allegations and claimed to be the target of a media conspiracy, but faced testimony from six women alongside evidence from his own 2007 autobiography regarding his sexual conduct. - Following the jury's verdicts, Mr Justice Bennathan informed Brand that a substantial custodial sentence would be imposed, with the formal sentencing hearing scheduled for Monday."
+    ],
+    [
+     "eq",
+     "More bulletins"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.2771,
+  "numbers_changed": [
+   "2001",
+   "2004",
+   "2007",
+   "4",
+   "51"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.232,
+ "similarity": 0.9147,
+ "adjudicated_by": "rules"
+}

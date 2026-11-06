@@ -1,0 +1,204 @@
+{
+ "id": "8220a085cff2cddb-d2408063-7aa23f0c",
+ "url": "https://www.france24.com/en/cyberattack-french-bank-says-online-hacking-stole-around-100-million",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-06T14:03:35Z",
+ "date": "2026-11-06",
+ "old_title": "Cyberattack: French bank says online hacking stole around $100 million",
+ "new_title": "French bank hit by cyberattack, hackers steal $100 million",
+ "old_text": "Video contentVideo\nCyberattack: French bank says online hacking stole around $100 million\nIssued on: Modified:\nShare\nFrench regional bank Credit Mutuel Arkea said Wednesday it had been the victim of a cyberattack that allowed fraudulent transactions amounting to around 100 million euros ($112 million). It said in the attack, which had now been \"contained\", hackers gained access to Arkea's account to make transfers to other banks, not the accounts of clients, who did not suffer any losses.",
+ "new_text": "Video contentVideo\nFrench bank hit by cyberattack, hackers steal $100 million\nIssued on: Modified:\nShare\nFrench regional bank Crédit Mutuel Arkéa said Wednesday it had been hit by a cyberattack that led to fraudulent transfers worth around 100 million euros ($112 million). The bank said the attack, which has since been \"contained\", allowed hackers to access its own accounts and transfer funds to other banks. Customer accounts were not affected, and no losses were reported by clients.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Video contentVideo"
+    ],
+    [
+     "del",
+     "Cyberattack:"
+    ],
+    [
+     "eq",
+     "French bank"
+    ],
+    [
+     "del",
+     "says online hacking stole around"
+    ],
+    [
+     "ins",
+     "hit by cyberattack, hackers steal"
+    ],
+    [
+     "eq",
+     "$100 million Issued on: Modified: Share French regional bank"
+    ],
+    [
+     "del",
+     "Credit"
+    ],
+    [
+     "ins",
+     "Crédit"
+    ],
+    [
+     "eq",
+     "Mutuel"
+    ],
+    [
+     "del",
+     "Arkea"
+    ],
+    [
+     "ins",
+     "Arkéa"
+    ],
+    [
+     "eq",
+     "said Wednesday it had been"
+    ],
+    [
+     "del",
+     "the victim of"
+    ],
+    [
+     "ins",
+     "hit by"
+    ],
+    [
+     "eq",
+     "a cyberattack that"
+    ],
+    [
+     "del",
+     "allowed"
+    ],
+    [
+     "ins",
+     "led to"
+    ],
+    [
+     "eq",
+     "fraudulent"
+    ],
+    [
+     "del",
+     "transactions amounting to"
+    ],
+    [
+     "ins",
+     "transfers worth"
+    ],
+    [
+     "eq",
+     "around 100 million euros ($112 million)."
+    ],
+    [
+     "del",
+     "It"
+    ],
+    [
+     "ins",
+     "The bank"
+    ],
+    [
+     "eq",
+     "said"
+    ],
+    [
+     "del",
+     "in"
+    ],
+    [
+     "eq",
+     "the attack, which"
+    ],
+    [
+     "del",
+     "had now"
+    ],
+    [
+     "ins",
+     "has since"
+    ],
+    [
+     "eq",
+     "been \"contained\","
+    ],
+    [
+     "ins",
+     "allowed"
+    ],
+    [
+     "eq",
+     "hackers"
+    ],
+    [
+     "del",
+     "gained"
+    ],
+    [
+     "ins",
+     "to"
+    ],
+    [
+     "eq",
+     "access"
+    ],
+    [
+     "del",
+     "to Arkea's account to make transfers"
+    ],
+    [
+     "ins",
+     "its own accounts and transfer funds"
+    ],
+    [
+     "eq",
+     "to other"
+    ],
+    [
+     "del",
+     "banks,"
+    ],
+    [
+     "ins",
+     "banks. Customer accounts were"
+    ],
+    [
+     "eq",
+     "not"
+    ],
+    [
+     "del",
+     "the accounts of clients, who did not suffer any losses."
+    ],
+    [
+     "ins",
+     "affected, and no losses were reported by clients."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.961,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.887,
+ "similarity": 0.9389,
+ "adjudicated_by": "rules"
+}
