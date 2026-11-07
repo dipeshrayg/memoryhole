@@ -1,0 +1,52 @@
+{
+ "id": "e9d08434b5377d8a-87e843dd-c1d6689a",
+ "url": "https://www.theguardian.com/sport/2026/nov/06/clicky-ponting-cheating-scandal-cricketer-brian-devine-banned-club-relegated",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-11-07T13:02:42Z",
+ "date": "2026-11-07",
+ "old_title": "'Clicky Ponting' cheating scandal cricketer banned and club relegated",
+ "new_title": "'Clicky Ponting' cheating scandal cricketer banned and club relegated",
+ "old_text": "The club cricketer dubbed \"Clicky Ponting\" in response to accusations of cheating during the English summer has been handed a two-year ban from the sport. His team, Saltburn CC's 2nd XI, have also been relegated.\nBrian Devine earned online notoriety back in July after footage from Division Two of the North Yorkshire and South Durham Cricket League went viral. In the clip, Devine was seen clicking his fingers in the field and successfully tricking the umpire into believing a Norton CC batter had edged a catch behind.\nAs well as a new nickname - a nod to former Australia captain Ricky Ponting - it saw Devine provisionally suspended by his club for the remainder of the 2026 season while an investigation was undertaken by the league. Further examples of the practice subsequently emerged and were circulated widely online.\nAfter a series of player interviews, written statements, and a review of the footage by a three-person disciplinary panel, both Devine and Saltburn CC accepted misconduct charges. The following sanctions were announced on Friday:\n- Devine is now banned from all cricket under the auspices of the England and Wales Cricket Board until the end of the 2028 season. The ban covers \"playing, coaching, umpiring, scoring and managing junior teams\".\n- After an appeal against their sanction, Saltburn CC have been fined £300 and their 2nd XI has been relegated to Division Three of the NYSDCL. The 2nd XI will also start the 2027 season with 60-point deduction, while previously relegated Middlesbrough CC have retained their place in Division Two.\nIn a statement, the NYSDCL looked to draw a line under the matter and acknowledge the impact it had on a volunteer-run club that found itself the subject of widespread condemnation and global headlines.\n\"The League recognises the strain this has placed on many people, especially those who were abused online and in person,\" the statement read. \"We ask everyone to respect that the formal process is now complete.\"\nA statement from Saltburn CC added: \"The club fully participated in the disciplinary proceedings and accept the decision of the appeal following the original decision from the League.\n\"We are now focussing on preparations for the 2027 season.\"",
+ "new_text": "The club cricketer dubbed \"Clicky Ponting\" in response to accusations of cheating during the English summer has been handed a two-year ban from the sport. His team, Saltburn CC's 2nd XI, have also been relegated.\nBrian Devine earned online notoriety back in July after footage from Division Two of the North Yorkshire and South Durham Cricket League went viral. In the clip, Devine was seen clicking his fingers in the field and successfully tricking the umpire into believing a Norton CC batter had edged a catch behind.\nAs well as a new nickname - a nod to former Australia captain Ricky Ponting - it saw Devine provisionally suspended by his club for the remainder of the 2026 season while an investigation was undertaken by the league. Further examples of the practice subsequently emerged and were circulated widely online.\nAfter a series of player interviews, written statements, and a review of the footage by a three-person disciplinary panel, both Devine and Saltburn CC accepted misconduct charges. The following sanctions were announced on Friday:\n- Devine is now banned from all cricket under the auspices of the England and Wales Cricket Board until the end of the 2028 season. The ban covers \"playing, coaching, umpiring, scoring and managing junior teams\".\n- After an appeal against their sanction, Saltburn CC have been fined £300 and their 2nd XI has been relegated to Division Three of the NYSDCL. The 2nd XI will also start the 2027 season with 60-point deduction, while previously relegated Middlesbrough CC have retained their place in Division Two.\nIn a statement, the NYSDCL looked to draw a line under the matter and acknowledge the impact it had on a volunteer-run club that found itself the subject of widespread condemnation and global headlines.\n\"The League recognises the strain this has placed on many people, especially those who were abused online and in person,\" the statement read. \"We ask everyone to respect that the formal process is now complete.\"\nA statement from Saltburn CC added: \"The club fully participated in the disciplinary proceedings and accept the decision of the appeal following the original decision from the League.\n\"We are now focusing on preparations for the 2027 season.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the appeal following the original decision from the League. \"We are now"
+    ],
+    [
+     "del",
+     "focussing"
+    ],
+    [
+     "ins",
+     "focusing"
+    ],
+    [
+     "eq",
+     "on preparations for the 2027 season.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0055,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

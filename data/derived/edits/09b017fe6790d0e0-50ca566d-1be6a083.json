@@ -1,0 +1,112 @@
+{
+ "id": "09b017fe6790d0e0-50ca566d-1be6a083",
+ "url": "https://www.dw.com/en/global-temperatures-are-set-to-exceed-1-5-degrees-above-pre-industrial-levels-in-2026-likely-the-second-warmest-year-on-record/a-79874098?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-07T12:48:42Z",
+ "date": "2026-11-07",
+ "old_title": "2026 set to exceed 1.5-degree warming threshold as El Nino adds heat",
+ "new_title": "2026 set to exceed 1.5-degree warming threshold as El Nino adds heat",
+ "old_text": "Global temperatures will almost certainly average more than 1.5 degrees Celsius (2.7 degrees Fahrenheit) above pre-industrial levels in 2026, the European Union's Copernicus Climate Change Service said Friday.\nThat would make 2026 the second calendar year after 2024 above the threshold set as part of the Paris Agreement.\nWhat does the 1.5-degree target mean?\nThe Paris treaty was aimed at preventing global temperatures from rising above 1.5 degrees Celsius in the long term. The 2015 deal was seen as a major step forward in tackling climate change.\nMost of the world's nations agreed to hold global temperature rise to well below 2 degrees Celsius compared to pre-industrial levels and \"pursue efforts\" to keep it below 1.5 degrees.\nThe target concerns long-term warming, so a single year above 1.5 degrees does not in itself mean it has been breached.\nCould 2026 become the warmest year on record?\nCopernicus estimates that 2026 will most likely be the second-warmest year after 2024 since records began. However, there is a 20% chance that it could surpass 2024 levels.\nThe climate service also expects the four-year average for 2023 to 2026 to be above the 1.5 degree threshold.\nOctober 2026 was the warmest October on record globally, with an average global surface temperature of 1.75 degrees above pre-industrial levels for the month. It marked the third consecutive month above the 1.5 degrees threshold.\n\"An exceptionally strong El Nino is adding further heat to a climate already warmed by human activities, while 2026 is on track to become the second calendar year above 1.5 degrees,\" said Samantha Burgess of the European Centre for Medium-Range Weather Forecasts.\nThat goal is no longer within reach\nThe UN Environment Programme now expects warming to overshoot the Paris Agreement's 1.5-degree target.\nBecause this threatens drastic climate extremes and dangerous tipping points, the overshoot should be kept as small and short as possible, it said.\nAccording to a September report by the UN Environment Programme (UNEP), every additional fraction of a degree makes the risks and impacts worse.\nClimate scientist Johan Rockström, director of the Potsdam Institute for Climate Impact Research, called for temperatures to be lowered quickly again by removing CO2 from the atmosphere.\nUNEP lays out a scenario in which the world sees warming peak at 1.7 to 1.8 degrees Celsius around mid-century, before falling back to 1.5 degrees Celsius by 2100. Getting there would require steep emissions cuts of 69% by 2040, relative to 2025 levels.\nIt was now unavoidable that global warming would exceed 1.5 degrees Celsius above pre-industrial levels within the next five years, Rockström said at a briefing.\nHe said that humanity was currently on \"a path to an unmanageable future.\"",
+ "new_text": "Global temperatures will almost certainly average over 1.5 degrees Celsius (2.7 F) above preindustrial levels in 2026, the European Union's Copernicus Climate Change Service reported on Friday.\nThat would make 2026 the second calendar year, after 2024, above the threshold set as part of the Paris Agreement.\nWhat does the 1.5-degree target mean?\nThe Paris treaty was aimed at preventing global temperatures from rising above 1.5 degrees Celsius in the long term. The 2015 deal was seen as a major step forward in tackling climate change.\nMost of the world's nations agreed to hold global temperature rise to well below 2 degrees Celsius compared to pre-industrial levels and \"pursue efforts\" to keep it below 1.5 degrees.\nThe target concerns long-term warming, so a single year above 1.5 degrees does not in itself mean it has been breached.\nCould 2026 become the warmest year on record?\nCopernicus estimates that 2026 will most likely be the second-warmest year after 2024 since records began. However, there is a 20% chance that it could surpass 2024 levels.\nThe climate service also expects the four-year average for 2023 to 2026 to be above the 1.5 degree threshold.\nOctober 2026 was the warmest October on record globally, with an average global surface temperature of 1.75 degrees above pre-industrial levels for the month. It marked the third consecutive month above the 1.5 degrees threshold.\n\"An exceptionally strong El Nino is adding further heat to a climate already warmed by human activities, while 2026 is on track to become the second calendar year above 1.5 degrees,\" said Samantha Burgess of the European Centre for Medium-Range Weather Forecasts.\nThat goal is no longer within reach\nThe UN Environment Programme now expects warming to overshoot the Paris Agreement's 1.5-degree target.\nBecause this threatens drastic climate extremes and dangerous tipping points, the overshoot should be kept as small and short as possible, it said.\nAccording to a September report by the UN Environment Programme (UNEP), every additional fraction of a degree makes the risks and impacts worse.\nClimate scientist Johan Rockström, director of the Potsdam Institute for Climate Impact Research, called for temperatures to be lowered quickly again by removing CO2 from the atmosphere.\nUNEP lays out a scenario in which the world sees warming peak at 1.7 to 1.8 degrees Celsius around mid-century, before falling back to 1.5 degrees Celsius by 2100. Getting there would require steep emissions cuts of 69% by 2040, relative to 2025 levels.\nIt was now unavoidable that global warming would exceed 1.5 degrees Celsius above pre-industrial levels within the next five years, Rockström said at a briefing.\nHe said that humanity was currently on \"a path to an unmanageable future.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Global temperatures will almost certainly average"
+    ],
+    [
+     "del",
+     "more than"
+    ],
+    [
+     "ins",
+     "over"
+    ],
+    [
+     "eq",
+     "1.5 degrees Celsius (2.7"
+    ],
+    [
+     "del",
+     "degrees Fahrenheit)"
+    ],
+    [
+     "ins",
+     "F)"
+    ],
+    [
+     "eq",
+     "above"
+    ],
+    [
+     "del",
+     "pre-industrial"
+    ],
+    [
+     "ins",
+     "preindustrial"
+    ],
+    [
+     "eq",
+     "levels in 2026, the European Union's Copernicus Climate Change Service"
+    ],
+    [
+     "del",
+     "said"
+    ],
+    [
+     "ins",
+     "reported on"
+    ],
+    [
+     "eq",
+     "Friday. That would make 2026 the second calendar"
+    ],
+    [
+     "del",
+     "year"
+    ],
+    [
+     "ins",
+     "year,"
+    ],
+    [
+     "eq",
+     "after"
+    ],
+    [
+     "del",
+     "2024"
+    ],
+    [
+     "ins",
+     "2024,"
+    ],
+    [
+     "eq",
+     "above the threshold set as part of the Paris Agreement. What does"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0336,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9959,
+ "adjudicated_by": "rules"
+}

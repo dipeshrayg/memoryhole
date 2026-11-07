@@ -1,0 +1,92 @@
+{
+ "id": "e024b4cae3ca7f76-ddaaf96b-3c87ef1d",
+ "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-11-07T13:05:31Z",
+ "date": "2026-11-07",
+ "old_title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+ "new_title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+ "old_text": "KENNEDY SPACE CENTER, Fla.-Blue Origin announced two significant upgrades to its New Glenn rocket on Thursday, reducing the cost of manufacturing the vehicle and expanding its capacity for payload delivery to geostationary orbit and the Moon.\nWith these upgrades, the company aims to eventually position New Glenn to launch more than 1,000 times a year.\n\"There has never been higher demand for launch, ever,\" Dave Limp, chief executive officer of Blue Origin, said during the UP.Summit conference at the Shuttle Landing Facility in Florida.\nBlue Origin has already begun test firing a new engine, called Northstar, that will eventually replace the BE-4 engine that powers the first stage of New Glenn. Separately, the company also said it was developing a hydrogen-oxygen third stage for the rocket, GS3, to give it an extra kick.\nA new Northstar\nThe Northstar engine is a simplified but more powerful version of the BE-4 engine, Limp said. It has half the number of parts, 30 percent less mass, and about 65 percent can be 3D-printed.\nBlue Origin believes it can manufacture the engine at 25 percent of the cost of a BE-4 engine, and eventually reach the point where each engine can be assembled in less than a day. The company is deep into development and testing of Northstar, having already begun a test-firing campaign.\n\"To get access to space at a lower cost, we have to look at every part of the vehicle,\" Limp said. \"This is going to be a game-changer.\"\nThe BE-4 engine powering New Glenn today has a thrust of 640,000 pounds, and Limp said Northstar will have a starting thrust of 715,000 pounds. Like the BE-4 engine, Northstar burns methane and liquid oxygen using an oxygen-rich staged combustion cycle and a single-shaft turbopump architecture.\nLimp said the company will continue to manufacture the existing BE-4 engine for United Launch Alliance, which uses two of the engines to power its Vulcan rocket.",
+ "new_text": "KENNEDY SPACE CENTER, Florida-Blue Origin announced two significant upgrades to its New Glenn rocket on Thursday, reducing the cost of manufacturing the vehicle and expanding its capacity for payload delivery to geostationary orbit and the Moon.\nWith these upgrades, the company aims to eventually position New Glenn to launch more than 1,000 times a year.\n\"There has never been higher demand for launch, ever,\" Dave Limp, chief executive officer of Blue Origin, said during the UP.Summit conference at the Shuttle Landing Facility in Florida.\nBlue Origin has already begun test firing a new engine, called Northstar, that will eventually replace the BE-4 engine that powers the first stage of New Glenn. Separately, the company also said it was developing a hydrogen-oxygen third stage for the rocket, GS3, to give it an extra kick.\nA new Northstar\nThe Northstar engine is a simplified but more powerful version of the BE-4 engine, Limp said. It has half the number of parts and 30 percent less mass, and about 65 percent can be 3D-printed.\nBlue Origin believes it can manufacture the engine at 25 percent of the cost of a BE-4 engine and eventually reach the point where each engine can be assembled in less than a day. The company is deep into development and testing of Northstar, having already begun a test-firing campaign.\n\"To get access to space at a lower cost, we have to look at every part of the vehicle,\" Limp said. \"This is going to be a game-changer.\"\nThe BE-4 engine powering New Glenn today has a thrust of 640,000 pounds, and Limp said Northstar will have a starting thrust of 715,000 pounds. Like the BE-4 engine, Northstar burns methane and liquid oxygen using an oxygen-rich staged combustion cycle and a single-shaft turbopump architecture.\nLimp said the company will continue to manufacture the existing BE-4 engine for United Launch Alliance, which uses two of the engines to power its Vulcan rocket.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "KENNEDY SPACE CENTER,"
+    ],
+    [
+     "del",
+     "Fla.-Blue"
+    ],
+    [
+     "ins",
+     "Florida-Blue"
+    ],
+    [
+     "eq",
+     "Origin announced two significant upgrades to its New Glenn rocket on Thursday,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of the BE-4 engine, Limp said. It has half the number of"
+    ],
+    [
+     "del",
+     "parts,"
+    ],
+    [
+     "ins",
+     "parts and"
+    ],
+    [
+     "eq",
+     "30 percent less mass, and about 65 percent can be 3D-printed. Blue"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "manufacture the engine at 25 percent of the cost of a BE-4"
+    ],
+    [
+     "del",
+     "engine,"
+    ],
+    [
+     "ins",
+     "engine"
+    ],
+    [
+     "eq",
+     "and eventually reach the point where each engine can be assembled in"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0218,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9909,
+ "adjudicated_by": "rules"
+}
