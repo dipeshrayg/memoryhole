@@ -1,0 +1,92 @@
+{
+ "id": "29bcc907b04e7c9c-278ca686-00df01a0",
+ "url": "https://www.france24.com/en/video/20261106-tech-giants-lose-1-trillion-in-one-day-after-democrats-victory-in-midterms",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-08T13:05:58Z",
+ "date": "2026-11-08",
+ "old_title": "Tech giants lose $1 trillion in one day after Democrats victory in midterms",
+ "new_title": "Tech giants lose $1 trillion in one day after Democrats' victory in midterms",
+ "old_text": "Video contentVideo\nTech giants lose $1 trillion in one day after Democrats victory in midterms\nIssued on:\nShare\nTrillions of dollars have been wiped off the stock value of major tech firms in the US, Europe and Asia. Investors appear worried about the possibility of an AI slowdown and tougher regulation as Democrats won the midterms in the US. Some of the Democratic candidates had expressed their opposition to the data centres that are needed to power AI technology.",
+ "new_text": "Video contentVideo\nTech giants lose $1 trillion in one day after Democrats' victory in midterms\nIssued on: Modified:\nShare\nVast sums have been wiped off the stock value of major tech firms in the US, Europe and Asia. Investors appear worried about the possibility of an AI slowdown and tougher regulation after Democrats won the midterms in the US. Some of the Democratic candidates had expressed their opposition to the data centres that are needed to power AI technology.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Video contentVideo Tech giants lose $1 trillion in one day after"
+    ],
+    [
+     "del",
+     "Democrats"
+    ],
+    [
+     "ins",
+     "Democrats'"
+    ],
+    [
+     "eq",
+     "victory in midterms Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "Share"
+    ],
+    [
+     "del",
+     "Trillions of dollars"
+    ],
+    [
+     "ins",
+     "Vast sums"
+    ],
+    [
+     "eq",
+     "have been wiped off the stock value of major tech firms in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "appear worried about the possibility of an AI slowdown and tougher regulation"
+    ],
+    [
+     "del",
+     "as"
+    ],
+    [
+     "ins",
+     "after"
+    ],
+    [
+     "eq",
+     "Democrats won the midterms in the US. Some of the Democratic candidates"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1266,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9936,
+ "adjudicated_by": "rules"
+}

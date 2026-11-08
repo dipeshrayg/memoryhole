@@ -1,0 +1,126 @@
+{
+ "id": "12603b1beb23af78-ec27c6b1-979c1fbd",
+ "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-08T13:01:42Z",
+ "date": "2026-11-08",
+ "old_title": "Two held after boy hurt in sword attack near Gloucester school",
+ "new_title": "Three held after boy hurt in sword attack near Gloucester school",
+ "old_text": "- Published\nTwo men have been arrested after a teenager was injured in an attack involving a sword near two schools in Gloucester.\nSt Peter's High School and Willow Primary Academy, in Tuffley, were put into lockdown after the incident at 08:50 GMT on Friday. Armed police attended the scene to search for the suspects who reportedly fled on foot.\nPolice said a 17-year-old suffered a wound \"believed to have been caused by the sword\".\nA 19-year-old, from Gloucester, was arrested overnight on suspicion of assault occasioning actual bodily harm and affray. An 18-year-old, also from Gloucester, was held on suspicion of possession of an offensive weapon, assault occasioning actual bodily harm and affray.\nBoth men remain in police custody for questioning.\nTwo men, one with a sword, had been seen chasing two boys, according to police on Friday.\nPolice said the 17-year-old suffered a \"superficial wound believed to have been caused by the sword\".\nThe other boy involved was not injured.\nGloucestershire Police also said that a woman who had previously been arrested on suspicion of assisting an offender had been released on police bail.\nAt the school gates outside St Peter's High School on Friday, a pupil called Jimmy told the BBC the situation was \"really scary\" and that they had been told to lock doors and turn lights off.\n\"At the time I was scared. My heart was racing,\" he said.\nJimmy said pupils were locked in their classrooms for several hours.",
+ "new_text": "- Published\nTwo men and a boy have been arrested after a teenager was injured in an attack involving a sword near two schools in Gloucester.\nSt Peter's High School and Willow Primary Academy, in Tuffley, were put into lockdown after the incident at 08:50 GMT on Friday.\nPolice said a 17-year-old suffered a wound \"believed to have been caused by the sword\".\nA 19-year-old was arrested overnight on suspicion of assault occasioning actual bodily harm and affray. An 18-year-old was held on suspicion of possession of an offensive weapon, assault occasioning actual bodily harm and affray. Meanwhile another 17-year-old boy was arrested on suspicion of assisting an offender.\nThe trio - who are all from Gloucester - remain in police custody for questioning.\nTwo men, one with a sword, had been seen chasing two boys, according to police on Friday.\nArmed officers attended the scene to search for the suspects who reportedly fled on foot.\nPolice said the 17-year-old suffered a \"superficial wound believed to have been caused by the sword\".\nThe other boy involved was not injured.\nGloucestershire Police also said a woman who had previously been arrested on suspicion of assisting an offender had been released on police bail.\nAt the school gates outside St Peter's High School on Friday, a pupil called Jimmy told the BBC the situation was \"really scary\" and that they had been told to lock doors and turn lights off.\n\"At the time I was scared. My heart was racing,\" he said.\nJimmy said pupils were locked in their classrooms for several hours.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published Two men"
+    ],
+    [
+     "ins",
+     "and a boy"
+    ],
+    [
+     "eq",
+     "have been arrested after a teenager was injured in an attack involving"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "were put into lockdown after the incident at 08:50 GMT on Friday."
+    ],
+    [
+     "del",
+     "Armed police attended the scene to search for the suspects who reportedly fled on foot."
+    ],
+    [
+     "eq",
+     "Police said a 17-year-old suffered a wound \"believed to have been caused by the sword\". A"
+    ],
+    [
+     "del",
+     "19-year-old, from Gloucester,"
+    ],
+    [
+     "ins",
+     "19-year-old"
+    ],
+    [
+     "eq",
+     "was arrested overnight on suspicion of assault occasioning actual bodily harm and affray. An"
+    ],
+    [
+     "del",
+     "18-year-old, also from Gloucester,"
+    ],
+    [
+     "ins",
+     "18-year-old"
+    ],
+    [
+     "eq",
+     "was held on suspicion of possession of an offensive weapon, assault occasioning actual bodily harm and affray."
+    ],
+    [
+     "del",
+     "Both men"
+    ],
+    [
+     "ins",
+     "Meanwhile another 17-year-old boy was arrested on suspicion of assisting an offender. The trio - who are all from Gloucester -"
+    ],
+    [
+     "eq",
+     "remain in police custody for questioning. Two men, one with a sword, had been seen chasing two boys, according to police on Friday."
+    ],
+    [
+     "ins",
+     "Armed officers attended the scene to search for the suspects who reportedly fled on foot."
+    ],
+    [
+     "eq",
+     "Police said the 17-year-old suffered a \"superficial wound believed to have been"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "sword\". The other boy involved was not injured. Gloucestershire Police also said"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "eq",
+     "a woman who had previously been arrested on suspicion of assisting an"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.2694,
+  "numbers_changed": [
+   "17"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.714,
+ "similarity": 0.9676,
+ "adjudicated_by": "rules"
+}
