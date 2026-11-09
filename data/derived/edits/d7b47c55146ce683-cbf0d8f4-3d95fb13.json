@@ -1,0 +1,244 @@
+{
+ "id": "d7b47c55146ce683-cbf0d8f4-3d95fb13",
+ "url": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-09T15:42:41Z",
+ "date": "2026-11-09",
+ "old_title": "Abuse in media industry probably still happening, Lisa Nandy says",
+ "new_title": "'Time is up': Nandy warns media industry to take abuse seriously in wake of Brand case",
+ "old_text": "- Published\nAbuse in the media industry is probably still happening as organisations are not doing enough to protect women, the culture secretary has warned in the wake of Russell Brand's conviction.\nLisa Nandy told the BBC's Sunday with Laura Kuenssberg: \"Hand on heart, I can't say to you as the culture secretary that this is not happening today. In fact, if I had to wager, I would say it is.\"\nShe added that since entering government, \"many people\" from within the industry had reached out to her \"to allege that things have happened to them\".\nBrand was found guilty of rape and sexual assault after a four-week trial, following allegations from multiple women spanning the decade between 1999 and 2009.\nNandy was asked whether she believed there was still exploitation and abuse within the media industry, following the Brand trial and cancellation of Channel 4 reality show Married at First Sight after the BBC revealed rape allegations.\nShe said: \"I do not see that much has changed in terms of the way that institutions in the media industry and across public life, including politics, deal with women who very bravely come forward to allege abuse.\"\nNandy added that there was often no protection and a \"very heavy cost\" for women who speak up in industries such as media and politics, pointing to power imbalances and short-term contracts some staff members are given.\n\"Time is up, it really is time for the media industry to take this seriously.\"\nShe said many had come forward from within the industry, including from the BBC.\nBut she added that the BBC had been an \"exemplar\" in signing up to the industry body to protect whistleblowers - the Creative Industries Independent Standards Authority - and urged other organisations to follow suit.\nThe BBC has been approached for comment.\nStarting his career as a stand-up comedian, Brand became a household name as a host of TV shows such as Big Brother's Big Mouth, and with his own radio programmes on stations such as BBC Radio 2 and 6 Music.\nDuring Brand's trial, he faced allegations from six women and was found guilty of one count of rape and three counts of sexual assault. The women revealed how Brand used his fame to force them into sexual activity.\nFollowing his conviction, a BBC spokesperson said there could be \"no place for the abuse of power, adding: \"Across the industry we must work together to ensure that anyone who suffers at someone else's hand feels able to report it, that their concerns are taken seriously and that they are listened to.\"\nThe corporation restated its apology to staff who felt they could not speak up with concerns about Brand's behaviour when he worked at the BBC between 2006 and 2008, because he was seen as \"too influential\".\nChannel 4, which aired Big Brother and its spin-off programmes at the time Brand was a presenter, said it recognised the \"profound impact of these crimes\".",
+ "new_text": "- Published\nAbuse in the media industry is probably still happening as organisations are not doing enough to protect women, the culture secretary has warned in the wake of Russell Brand's conviction.\nLisa Nandy told the BBC's Sunday with Laura Kuenssberg programme: \"Time is up, it really is time for the media industry to take this seriously.\"\nShe added that since entering government, \"many people\" from within the industry had reached out to her \"to allege that things have happened to them\".\nBrand is due to be sentenced on Monday after being convicted last week of one count of rape and three counts of sexual assault, following allegations from multiple women spanning the decade between 1999 and 2009.\nNandy was asked whether she believed there was still exploitation and abuse within the media industry, following the Brand trial and cancellation of Channel 4 reality show Married at First Sight after the BBC revealed rape allegations.\nShe said: \"I do not see that much has changed in terms of the way that institutions in the media industry and across public life, including politics, deal with women who very bravely come forward to allege abuse.\"\nNandy added that there was often no protection and a \"very heavy cost\" for women who speak up in industries such as media and politics, pointing to power imbalances and short-term contracts some staff members are given.\n\"Hand on heart, I can't say to you as the culture secretary that this is not happening today. In fact, if I had to wager, I would say it is,\" she said.\nNandy said many had come forward from within the industry, including from the BBC.\nBut she added that the BBC had been an \"exemplar\" in signing up to the industry body to protect whistleblowers - the Creative Industries Independent Standards Authority - and urged other organisations to follow suit.\nA BBC spokesperson said the broadcaster \"has made a significant commitment to improve its culture, processes and standards\".\n\"Last year, following an independent culture review, we set out the behavioural expectations for everyone who works with or for the BBC and we were clear action would be taken if these were not met,\" the spokesperson added.\nStarting his career as a stand-up comedian, Brand became a household name as a host of TV shows such as Big Brother's Big Mouth. He also had his own radio programmes on BBC Radio 2 and 6 Music.\nDuring Brand's trial, he faced allegations from six women and was found guilty of one count of rape and three counts of sexual assault. The women revealed how Brand used his fame to force them into sexual activity.\nFollowing his conviction, a BBC spokesperson said there could be \"no place for the abuse of power\", adding: \"Across the industry we must work together to ensure that anyone who suffers at someone else's hand feels able to report it, that their concerns are taken seriously and that they are listened to.\"\nThe corporation restated its apology to staff who felt they could not speak up with concerns about Brand's behaviour when he worked at the BBC between 2006 and 2008, because he was seen as \"too influential\".\nChannel 4, which aired Big Brother and its spin-off programmes at the time Brand was a presenter, said it recognised the \"profound impact of these crimes\".",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "of Russell Brand's conviction. Lisa Nandy told the BBC's Sunday with Laura"
+    ],
+    [
+     "del",
+     "Kuenssberg: \"Hand on heart, I can't say"
+    ],
+    [
+     "ins",
+     "Kuenssberg programme: \"Time is up, it really is time for the media industry"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "you as the culture secretary that"
+    ],
+    [
+     "ins",
+     "take"
+    ],
+    [
+     "eq",
+     "this"
+    ],
+    [
+     "del",
+     "is not happening today. In fact, if I had to wager, I would say it is.\""
+    ],
+    [
+     "ins",
+     "seriously.\""
+    ],
+    [
+     "eq",
+     "She added that since entering government, \"many people\" from within the industry"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "out to her \"to allege that things have happened to them\". Brand"
+    ],
+    [
+     "del",
+     "was found guilty"
+    ],
+    [
+     "ins",
+     "is due to be sentenced on Monday after being convicted last week of one count"
+    ],
+    [
+     "eq",
+     "of rape and"
+    ],
+    [
+     "ins",
+     "three counts of"
+    ],
+    [
+     "eq",
+     "sexual"
+    ],
+    [
+     "del",
+     "assault after a four-week trial,"
+    ],
+    [
+     "ins",
+     "assault,"
+    ],
+    [
+     "eq",
+     "following allegations from multiple women spanning the decade between 1999 and 2009."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "pointing to power imbalances and short-term contracts some staff members are given."
+    ],
+    [
+     "del",
+     "\"Time"
+    ],
+    [
+     "ins",
+     "\"Hand on heart, I can't say to you as the culture secretary that this"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "del",
+     "up,"
+    ],
+    [
+     "ins",
+     "not happening today. In fact, if I had to wager, I would say"
+    ],
+    [
+     "eq",
+     "it"
+    ],
+    [
+     "del",
+     "really is time for the media industry to take this seriously.\" She"
+    ],
+    [
+     "ins",
+     "is,\" she said. Nandy"
+    ],
+    [
+     "eq",
+     "said many had come forward from within the industry, including from the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Industries Independent Standards Authority - and urged other organisations to follow suit."
+    ],
+    [
+     "del",
+     "The"
+    ],
+    [
+     "ins",
+     "A"
+    ],
+    [
+     "eq",
+     "BBC"
+    ],
+    [
+     "del",
+     "has been approached"
+    ],
+    [
+     "ins",
+     "spokesperson said the broadcaster \"has made a significant commitment to improve its culture, processes and standards\". \"Last year, following an independent culture review, we set out the behavioural expectations"
+    ],
+    [
+     "eq",
+     "for"
+    ],
+    [
+     "del",
+     "comment."
+    ],
+    [
+     "ins",
+     "everyone who works with or for the BBC and we were clear action would be taken if these were not met,\" the spokesperson added."
+    ],
+    [
+     "eq",
+     "Starting his career as a stand-up comedian, Brand became a household name as a host of TV shows such as Big Brother's Big"
+    ],
+    [
+     "del",
+     "Mouth, and with"
+    ],
+    [
+     "ins",
+     "Mouth. He also had"
+    ],
+    [
+     "eq",
+     "his own radio programmes on"
+    ],
+    [
+     "del",
+     "stations such as"
+    ],
+    [
+     "eq",
+     "BBC Radio 2 and 6 Music. During Brand's trial, he faced allegations"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "BBC spokesperson said there could be \"no place for the abuse of"
+    ],
+    [
+     "del",
+     "power,"
+    ],
+    [
+     "ins",
+     "power\","
+    ],
+    [
+     "eq",
+     "adding: \"Across the industry we must work together to ensure that anyone"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.377,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 2,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.711,
+ "similarity": 0.9681,
+ "adjudicated_by": "rules"
+}

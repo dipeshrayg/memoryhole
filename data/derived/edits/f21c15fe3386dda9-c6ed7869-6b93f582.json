@@ -1,0 +1,50 @@
+{
+ "id": "f21c15fe3386dda9-c6ed7869-6b93f582",
+ "url": "https://www.independent.co.uk/bulletin/news/rent-house-landlord-tax-uk-budget-b3080954.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-09T15:47:50Z",
+ "date": "2026-11-09",
+ "old_title": "Thousands of landlords consider leaving rental market after Budget",
+ "new_title": "Thousands of landlords consider leaving rental market after Budget",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nThousands of landlords consider leaving rental market after Budget\n- A survey by Propertymark revealed that 57 per cent of nearly 20,000 estate agents reported inquiries from landlords considering leaving the private rented sector following new tax hikes.\n- Property experts warn that a landlord exodus could exacerbate housing shortages and drive up average UK rents by 15 per cent, or over £2,500 annually, by 2031.\n- Shadow housing secretary Katie Lam accused the Labour government of economic incompetence, claiming their tax policies leave tenants facing reduced choices and higher costs.\n- More than 800,000 rental properties have been sold off by buy-to-let investors since 2020, with the vast majority being purchased by owner-occupiers.\n- The Ministry of Housing, Communities and Local Government said there is no evidence of mass landlord exits, pointing to protection measures under the Renters' Rights Act.\nMore bulletins",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nThousands of landlords consider leaving rental market after Budget\n- A survey by Propertymark revealed that 57 per cent of estate agents reported inquiries from landlords considering leaving the private rented sector following new tax hikes.\n- Property experts warn that a landlord exodus could exacerbate housing shortages and drive up average UK rents by 15 per cent, or over £2,500 annually, by 2031.\n- Shadow housing secretary Katie Lam accused the Labour government of economic incompetence, claiming their tax policies leave tenants facing reduced choices and higher costs.\n- More than 800,000 rental properties have been sold off by buy-to-let investors since 2020, with the vast majority being purchased by owner-occupiers.\n- The Ministry of Housing, Communities and Local Government said there is no evidence of mass landlord exits, pointing to protection measures under the Renters' Rights Act.\nMore bulletins",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Budget - A survey by Propertymark revealed that 57 per cent of"
+    ],
+    [
+     "del",
+     "nearly 20,000"
+    ],
+    [
+     "eq",
+     "estate agents reported inquiries from landlords considering leaving the private rented sector"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0114,
+  "numbers_changed": [
+   "20,000"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9943,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,148 @@
+{
+ "id": "4e8ef42af691aa6b-8c9fca59-00dae6e4",
+ "url": "https://www.abc.net.au/news/2026-11-08/indonesia-helicopter-crash-borneo-australians/107361384",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-09T15:47:04Z",
+ "date": "2026-11-09",
+ "old_title": "Two Australians rescued after helicopter crashes into Borneo river",
+ "new_title": "Australian rescued after helicopter crashes into Borneo river",
+ "old_text": "In short:\nA helicopter involved in fighting forest fires in Indonesia has crashed into a river on the island of Borneo.\nTwo Australian crew members survived the crash, while the body of an Indonesian crew member was recovered late on Sunday night, local authorities confirmed.\nWhat's next?\nThe cause of the crash is being investigated.\nTwo Australians have survived a helicopter crash after it nosedived into an Indonesian river while fighting fires on the island of Borneo.\nVideo shows the helicopter collecting water for water-bombing operations from a river in Indonesia's South Kalimantan province.\nThe aircraft then loses control, losing altitude and crashing into the river.\nIndonesia's National Disaster Mitigation Agency (BNPB) said two Australians survived and the cause was being investigated.\nLate on Sunday night, personnel from Indonesia's search and rescue agency Basarnas confirmed they found the body of an Indonesian crew member who was in the helicopter when it crashed.\nLoading...\nVideo shows local residents helping to pull the wreckage out of the river.\nThe two Australian men are receiving medical attention while personnel from Indonesia's search and rescue agency, Basarnas, are heading to the scene.\nThe helicopter was contracted by Indonesian authorities as the country faces its worst forest and land fire season in more than a decade.\n\"In Indonesia, the helicopter frequently supports various disaster response missions of the National Disaster Management Agency, with flight routes covering Banjarmasin, Pontianak, and Surabaya,\" BNPB spokesperson Berton SP Panjaitan said.\n\"The relevant team is currently on stand-by in the field, and a complete report detailing the chronology and exact cause of the accident is being compiled for immediate release to the public and authorities.\"\nFlight tracking data shows the helicopter leaving Banjarmasin, the capital of South Kalimantan this morning and heading to fire-affected areas before the crash.\nThe crash comes after three Indonesian crew were killed after a separate water-bombing helicopter crashed earlier this week in Central Kalimantan.\nThe helicopter was carrying eight crew and also crashed while loading water.\nIndonesia battles supercharged fires\nIntense forest and land fires have been burning across large swathes of Indonesia, particularly in the Indonesian portion of Borneo, known as Kalimantan, in Sumatra and in Papua.\nThe fires often burn on peatland, which can be notoriously difficult to put out as embers can burn far below the ground.\nEnvironmental monitor Nusantara Atlas said satellite monitoring data shows more than 1.9 million hectares have burned across Indonesia up to September this year.\nThe country's environment minister said more than 100,000 personnel have been involved in fighting fires across the country.\nThe fires have spewed a toxic smoke haze across parts of the region and in Indonesia alone more than 400,000 cases of acute respiratory infections have been recorded according to the country's health ministry.\nThe country has a fire season annually, but this year has been supercharged by drought and heat caused by a Super El Niño.\nThe fires are commonly linked to land clearing operations, particularly to clear land for plantations.\nIndonesian police have named more than 240 people and 20 companies as suspects, accused of deliberately or negligently lighting fires.",
+ "new_text": "In short:\nA helicopter involved in fighting forest fires in Indonesia has crashed into a river on the island of Borneo.\nAn Australian crew member survived the crash, while the body of an Indonesian crew member was recovered late on Sunday night, local authorities confirmed.\nWhat's next?\nThe cause of the crash is being investigated.\nRead the story in Bahasa Indonesia\nOne Australian has survived a helicopter crash after it nosedived into an Indonesian river while fighting fires on the island of Borneo.\nVideo shows the helicopter collecting water for water-bombing operations from a river in Indonesia's South Kalimantan province.\nThe aircraft then loses control, losing altitude and crashing into the river.\nIndonesia's National Disaster Mitigation Agency (BNPB) initially said two Australians survived and the cause was being investigated.\nA spokesperson for the Department of Foreign Affairs and Trade on Monday confirmed the agency was providing assistance to one Australian rescued after the crash.\nLate on Sunday night, personnel from Indonesia's search and rescue agency Basarnas confirmed they found the body of an Indonesian crew member who was in the helicopter when it crashed.\nLoading...\nVideo shows local residents helping to pull the wreckage out of the river.\nThe Australian crew member was receiving medical attention while personnel from Indonesia's search and rescue agency, Basarnas, headed to the scene.\nThe helicopter was contracted by Indonesian authorities as the country faces its worst forest and land fire season in more than a decade.\n\"In Indonesia, the helicopter frequently supports various disaster response missions of the National Disaster Management Agency, with flight routes covering Banjarmasin, Pontianak, and Surabaya,\" BNPB spokesperson Berton SP Panjaitan said.\n\"The relevant team is currently on stand-by in the field, and a complete report detailing the chronology and exact cause of the accident is being compiled for immediate release to the public and authorities.\"\nFlight tracking data shows the helicopter leaving Banjarmasin, the capital of South Kalimantan this morning and heading to fire-affected areas before the crash.\nThe crash comes after three Indonesian crew were killed after a separate water-bombing helicopter crashed earlier this week in Central Kalimantan.\nThe helicopter was carrying eight crew and also crashed while loading water.\nIndonesia battles supercharged fires\nIntense forest and land fires have been burning across large swathes of Indonesia, particularly in the Indonesian portion of Borneo, known as Kalimantan, in Sumatra and in Papua.\nThe fires often burn on peatland, which can be notoriously difficult to put out as embers can burn far below the ground.\nEnvironmental monitor Nusantara Atlas said satellite monitoring data shows more than 1.9 million hectares have burned across Indonesia up to September this year.\nThe country's environment minister said more than 100,000 personnel have been involved in fighting fires across the country.\nThe fires have spewed a toxic smoke haze across parts of the region and in Indonesia alone more than 400,000 cases of acute respiratory infections have been recorded according to the country's health ministry.\nThe country has a fire season annually, but this year has been supercharged by drought and heat caused by a Super El Niño.\nThe fires are commonly linked to land clearing operations, particularly to clear land for plantations.\nIndonesian police have named more than 240 people and 20 companies as suspects, accused of deliberately or negligently lighting fires.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "in Indonesia has crashed into a river on the island of Borneo."
+    ],
+    [
+     "del",
+     "Two"
+    ],
+    [
+     "ins",
+     "An"
+    ],
+    [
+     "eq",
+     "Australian crew"
+    ],
+    [
+     "del",
+     "members"
+    ],
+    [
+     "ins",
+     "member"
+    ],
+    [
+     "eq",
+     "survived the crash, while the body of an Indonesian crew member was"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "authorities confirmed. What's next? The cause of the crash is being investigated."
+    ],
+    [
+     "del",
+     "Two Australians have"
+    ],
+    [
+     "ins",
+     "Read the story in Bahasa Indonesia One Australian has"
+    ],
+    [
+     "eq",
+     "survived a helicopter crash after it nosedived into an Indonesian river while"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "altitude and crashing into the river. Indonesia's National Disaster Mitigation Agency (BNPB)"
+    ],
+    [
+     "ins",
+     "initially"
+    ],
+    [
+     "eq",
+     "said two Australians survived and the cause was being investigated."
+    ],
+    [
+     "ins",
+     "A spokesperson for the Department of Foreign Affairs and Trade on Monday confirmed the agency was providing assistance to one Australian rescued after the crash."
+    ],
+    [
+     "eq",
+     "Late on Sunday night, personnel from Indonesia's search and rescue agency Basarnas"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "local residents helping to pull the wreckage out of the river. The"
+    ],
+    [
+     "del",
+     "two"
+    ],
+    [
+     "eq",
+     "Australian"
+    ],
+    [
+     "del",
+     "men are"
+    ],
+    [
+     "ins",
+     "crew member was"
+    ],
+    [
+     "eq",
+     "receiving medical attention while personnel from Indonesia's search and rescue agency, Basarnas,"
+    ],
+    [
+     "del",
+     "are heading"
+    ],
+    [
+     "ins",
+     "headed"
+    ],
+    [
+     "eq",
+     "to the scene. The helicopter was contracted by Indonesian authorities as the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0985,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9717,
+ "adjudicated_by": "rules"
+}

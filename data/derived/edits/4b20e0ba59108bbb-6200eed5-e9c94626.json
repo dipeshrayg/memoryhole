@@ -1,0 +1,52 @@
+{
+ "id": "4b20e0ba59108bbb-6200eed5-e9c94626",
+ "url": "https://www.gov.uk/government/news/adviser-finder-and-adviser-register-temporarily-unavailable",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "country": "United Kingdom",
+ "category": "government",
+ "lang": "en",
+ "detected_at": "2026-11-09T15:51:24Z",
+ "date": "2026-11-09",
+ "old_title": "Adviser Finder and Adviser Register temporarily unavailable",
+ "new_title": "Adviser Finder and Adviser Register temporarily unavailable",
+ "old_text": "Adviser Finder and Adviser Register temporarily unavailable\nWe apologise for any inconvenience and are working to restore access as quickly as possible.\nThe Immigration Advice Authority's Adviser Finder and Adviser Register are currently offline, while we carry out essential checks and assurance activities.\nWe expect them to be available again early next week.\nIf you are looking for an immigration adviser, please wait until the Adviser Finder is back online before choosing one if possible. If you need to check whether an adviser is registered, submit an enquiry to us or wait until the Adviser Register is back online.\nPlease be careful about using an adviser whose registration you have not been able to check.\nWe are working with our technical supplier to complete the system checks and bring both tools back as soon as possible. We will publish an update on Monday 9 November 2026.",
+ "new_text": "Adviser Finder and Adviser Register temporarily unavailable\nWe apologise for any inconvenience and are working to restore access as quickly as possible.\nUpdate: 9 November 2026\nThe Immigration Advice Authority's Adviser Finder and Adviser Register remain temporarily unavailable while further essential checks and assurance activities are carried out.\nWe apologise for any inconvenience and thank users for their patience. We will provide a further update once the tools are back online.\nUpdate: 6 November 2026\nThe Immigration Advice Authority's Adviser Finder and Adviser Register are currently offline, while we carry out essential checks and assurance activities.\nWe expect them to be available again early next week.\nIf you are looking for an immigration adviser, please wait until the Adviser Finder is back online before choosing one if possible. If you need to check whether an adviser is registered, submit an enquiry to us or wait until the Adviser Register is back online.\nPlease be careful about using an adviser whose registration you have not been able to check.\nWe are working with our technical supplier to complete the system checks and bring both tools back as soon as possible. We will publish an update on Monday 9 November 2026.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "any inconvenience and are working to restore access as quickly as possible."
+    ],
+    [
+     "ins",
+     "Update: 9 November 2026 The Immigration Advice Authority's Adviser Finder and Adviser Register remain temporarily unavailable while further essential checks and assurance activities are carried out. We apologise for any inconvenience and thank users for their patience. We will provide a further update once the tools are back online. Update: 6 November 2026"
+    ],
+    [
+     "eq",
+     "The Immigration Advice Authority's Adviser Finder and Adviser Register are currently offline,"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.363,
+  "numbers_changed": [
+   "2026",
+   "6",
+   "9"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9734,
+ "adjudicated_by": "rules"
+}

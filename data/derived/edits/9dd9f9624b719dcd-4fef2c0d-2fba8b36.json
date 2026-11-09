@@ -1,0 +1,55 @@
+{
+ "id": "9dd9f9624b719dcd-4fef2c0d-2fba8b36",
+ "url": "https://www.abc.net.au/news/2026-11-08/jillaroos-avoid-all-time-upset-against-fiji/107361340",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-09T15:47:08Z",
+ "date": "2026-11-09",
+ "old_title": "Jillaroos avoid all-time upset to progress to World Cup final",
+ "new_title": "Jillaroos avoid all-time upset to progress to World Cup final",
+ "old_text": "Fri, 11 Sept, 7:50 pm, Final score, Rabbitohs 10, Knights 20\nJillaroos qualify for Rugby League World Cup final after scare against Fiji\nIn short:\nThe Jillaroos qualified for a fifth consecutive World Cup final, overcoming an early scare to defeat Fiji 34-14.\nFiji raced out to an 8-0 first-half lead to threaten one of the sport's all-time upsets.\nWhat's next?\nAustralia will face New Zealand in next Sunday's decider at Lang Park.",
+ "new_text": "Fri, 11 Sept, 7:50 pm, Final score, Rabbitohs 10, Knights 20\nJillaroos qualify for Rugby League World Cup final after scare against Fiji\nIn short:\nThe Jillaroos qualified for a fifth consecutive World Cup final, overcoming an early scare to defeat Fiji 30-14.\nFiji raced out to an 8-0 first-half lead to threaten one of the sport's all-time upsets.\nWhat's next?\nAustralia will face New Zealand in next Sunday's decider at Lang Park.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "fifth consecutive World Cup final, overcoming an early scare to defeat Fiji"
+    ],
+    [
+     "del",
+     "34-14."
+    ],
+    [
+     "ins",
+     "30-14."
+    ],
+    [
+     "eq",
+     "Fiji raced out to an 8-0 first-half lead to threaten one of"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0274,
+  "numbers_changed": [
+   "30",
+   "34"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9998,
+ "adjudicated_by": "rules"
+}

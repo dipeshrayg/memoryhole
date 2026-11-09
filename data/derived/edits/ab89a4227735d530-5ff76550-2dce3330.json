@@ -1,0 +1,95 @@
+{
+ "id": "ab89a4227735d530-5ff76550-2dce3330",
+ "url": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-09T15:44:33Z",
+ "date": "2026-11-09",
+ "old_title": "South Africa's ANC suffers setback in local elections",
+ "new_title": "South Africa's ANC suffers setback in local elections",
+ "old_text": "South Africa's African National Congress (ANC) party faces a major setback after last week's municipal elections, leaving it in a weak position in coalition talks to form city governments.\nWith 99 percent of the votes counted on Sunday, President Cyril Ramaphosa's ANC had 31 percent nationally against 25 percent for its main rival, the Democratic Alliance (DA).\nThat represents a drop of roughly 14 percentage points from its 2021 local elections performance.\nFormer President Jacob Zuma's uMkhonto weSizwe party won about 10 percent of votes, putting it in third place, while the rest of the ballots were split between hundreds of smaller parties.\nFinal results are expected to be announced at 6pm (16:00 GMT) on Sunday.\nWhile still the largest party in South Africa, the ANC's support has steadily eroded as voters grow increasingly frustrated with corruption and the party's failure to tackle unemployment, which tops 34 percent more than three decades after the end of apartheid.\nFailures in basic services, such as water and electricity, have also contributed to the ANC's vote share falling in local elections over the past 15 years.\nThe party failed to win an outright majority in any of the eight major metro areas, including Johannesburg and Pretoria.\nCoalition talks\nSince no party won more than 50 percent of the votes in many cities, including South Africa's commercial hub Johannesburg, the ANC and DA will have to team up or hash it out with smaller parties to form municipal governments.\nParties will have 14 days to negotiate before city councils are formed.\nANC Secretary-General Fikile Mbalula called the result \"catastrophic\" for the ANC but said the party would not go begging for positions when coalition talks begin soon.\n\"When the people tell us we have fallen short, ... the honest answer is not to argue with them but to go home and put our house in order,\" Mbalula said on Saturday.\nIn Johannesburg, the DA led the count with about 35 percent of the votes, compared with 20 percent for the ANC.\nThat could give DA veteran Helen Zille, who campaigned on fixing potholes and leaking water pipes, a good chance of becoming mayor, depending on the coalition agreements reached.\nThe DA said in a statement that it would initiate coalition discussions with \"political parties that share a commitment to clean and accountable government, rooting out corruption, service delivery for all, the rule of law, and non-racialism\".",
+ "new_text": "South Africa's African National Congress (ANC) party faces a major setback after last week's municipal elections, leaving it in a weak position in coalition talks to form city governments.\nWith all votes counted on Sunday, President Cyril Ramaphosa's ANC had just over 30 percent nationally against about 25 percent for its main rival, the Democratic Alliance (DA).\nThat represents a drop of roughly 14 percentage points from its 2021 local elections performance.\nFormer President Jacob Zuma's uMkhonto weSizwe party won about 10 percent of votes, putting it in third place, while the rest of the ballots were split between hundreds of smaller parties.\nWhile still the largest party in South Africa, the ANC's support has steadily eroded as voters grow increasingly frustrated with corruption and the party's failure to tackle unemployment, which tops 34 percent more than three decades after the end of apartheid.\nFailures in basic services, such as water and electricity, have also contributed to the ANC's vote share falling in local elections over the past 15 years.\nThe party failed to win an outright majority in any of the eight major metro areas, including Johannesburg and Pretoria.\nCoalition talks\nSince no party won more than 50 percent of the votes in many cities, including South Africa's commercial hub Johannesburg, the ANC and DA will have to team up or hash it out with smaller parties to form municipal governments.\nParties will have 14 days to negotiate before city councils are formed.\nANC Secretary-General Fikile Mbalula called the result \"catastrophic\" for the ANC but said the party would not go begging for positions when coalition talks begin soon.\n\"When the people tell us we have fallen short, ... the honest answer is not to argue with them but to go home and put our house in order,\" Mbalula said on Saturday.\nIn Johannesburg, the DA led the count with about 35 percent of the votes, compared with 20 percent for the ANC.\nThat could give DA veteran Helen Zille, who campaigned on fixing potholes and leaking water pipes, a good chance of becoming mayor, depending on the coalition agreements reached.\nThe DA said in a statement that it would initiate coalition discussions with \"political parties that share a commitment to clean and accountable government, rooting out corruption, service delivery for all, the rule of law, and non-racialism\".",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "in a weak position in coalition talks to form city governments. With"
+    ],
+    [
+     "del",
+     "99 percent of the"
+    ],
+    [
+     "ins",
+     "all"
+    ],
+    [
+     "eq",
+     "votes counted on Sunday, President Cyril Ramaphosa's ANC had"
+    ],
+    [
+     "del",
+     "31"
+    ],
+    [
+     "ins",
+     "just over 30"
+    ],
+    [
+     "eq",
+     "percent nationally against"
+    ],
+    [
+     "ins",
+     "about"
+    ],
+    [
+     "eq",
+     "25 percent for its main rival, the Democratic Alliance (DA). That represents"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the rest of the ballots were split between hundreds of smaller parties."
+    ],
+    [
+     "del",
+     "Final results are expected to be announced at 6pm (16:00 GMT) on Sunday."
+    ],
+    [
+     "eq",
+     "While still the largest party in South Africa, the ANC's support has"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0572,
+  "numbers_changed": [
+   "00",
+   "16",
+   "30",
+   "31",
+   "6",
+   "99"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9768,
+ "adjudicated_by": "rules"
+}
