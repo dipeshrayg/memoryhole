@@ -1,0 +1,48 @@
+{
+ "id": "ed6d0ef8aaf5e722-7e8ea8cd-6d55177b",
+ "url": "https://www.dw.com/en/russell-brand-sentenced-to-over-10-years-in-prison-for-rape-and-sexual-assault-convictions/a-79896124?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-10T14:40:12Z",
+ "date": "2026-11-10",
+ "old_title": "Russell Brand sentenced to over 10 years in prison for rape and sexual assault convictions",
+ "new_title": "Russell Brand sentenced to over 10 years in prison for rape and sexual assault convictions",
+ "old_text": "British media personality Russell Brand was sentenced to 10 years and 6 months imprisonment on Monday after being found guilty of rape and assault.\nHe is required to spend at least two-thirds of that time in prison, and may be released under supervision after that if he displays good conduct while in jail.\nJudge Joel Bennathan called Brand a \"predator,\" and said that the sentence is \"just and proportionate...to the overall gravity of your criminality.\"\nBennathan also praised the \"determination and bravery\" of the survivors who came forward.\nThe 51-year-old had consistently denied the charges, brought about by six victims on allegations going back as far as 1999.\nA jury of four women and eight men did not find his defense that all the encounters were consensual to be plausible, and found him guilty of raping or sexually assaulting four of his accusers.\nWhat did Russell Brand's survivors say about him?\nAt the sentencing hearing, some of his victims gave victim impact statements to the court.\n\"I wanted to express how this crime has affected me over the years,\" one woman said from behind a screen to protect her privacy, adding that the attack led to an \"undeserved feeling of shame\" she had carried for 20 years.\nAnother survivor called Brand a \"sexual predator who has no remorse.\"\nUK Prime Minister Andy Burnham hailed the bravery of the survivors in a statement, and said his government would be \"relentless in making whatever improvements we can\" to provide more support for victims and make sure every police station has a sexual assault response team.\nWho is Russell Brand?\nBrand rose to prominence in the UK stand-up scene in the early 2000s with sets focused on his sex life, alcoholism, and heroin addiction.\nHe then became a presenter for several British television shows before starring in several Hollywood movies and being in a brief, high-profile marriage to American pop star Katy Perry.\nAs accusations of predatory behavior toward women began to mount, Brand left London and Hollywood behind for Florida. His politics changed from left-wing activism to promoting conservative ideas and conspiracy theories on his podcast.\nHe has said he underwent a religious conversion around this time. In 2016 he resumed his relationship with restauranteur Laura Gallacher, whom he first dated in 2007 when he was 31 and she was 19. They have since had three children together. Gallacher has remained by Brand's side throughout the court proceedings.",
+ "new_text": "British media personality Russell Brand was sentenced to 10 years and 6 months imprisonment on Monday after being found guilty of rape and assault.\nHe is required to spend at least two-thirds of that time in prison, and may be released under supervision after that if he displays good conduct while in jail.\nJudge Joel Bennathan called Brand a \"predator,\" and said that the sentence is \"just and proportionate...to the overall gravity of your criminality.\"\nBennathan also praised the \"determination and bravery\" of the survivors who came forward.\nThe 51-year-old had consistently denied the charges, brought about by six victims on allegations going back as far as 1999.\nA jury of four women and eight men did not find his defense that all the encounters were consensual to be plausible, and found him guilty of raping or sexually assaulting four of his accusers.\nWhat did Russell Brand's survivors say about him?\nAt the sentencing hearing, some of his victims gave impact statements to the court.\n\"I wanted to express how this crime has affected me over the years,\" one woman said from behind a screen to protect her privacy, adding that the attack led to an \"undeserved feeling of shame\" she had carried for 20 years.\nAnother survivor called Brand a \"sexual predator who has no remorse.\"\nUK Prime Minister Andy Burnham hailed the bravery of the survivors in a statement, and said his government would be \"relentless in making whatever improvements we can\" to provide more support for victims and make sure every police station has a sexual assault response team.\nWho is Russell Brand?\nBrand rose to prominence in the UK stand-up scene in the early 2000s with sets focused on his sex life, alcoholism, and heroin addiction.\nHe then became a presenter for several British television shows before starring in several Hollywood movies and being in a brief, high-profile marriage to American pop star Katy Perry.\nAs accusations of predatory behavior toward women began to mount, Brand left London and Hollywood behind for Florida. His politics changed from left-wing activism to promoting conservative ideas and conspiracy theories on his podcast.\nHe has said he underwent a religious conversion around this time. In 2016 he resumed his relationship with restauranteur Laura Gallacher, whom he first dated in 2007 when he was 31 and she was 19. They have since had three children together. Gallacher has remained by Brand's side throughout the court proceedings.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "say about him? At the sentencing hearing, some of his victims gave"
+    ],
+    [
+     "del",
+     "victim"
+    ],
+    [
+     "eq",
+     "impact statements to the court. \"I wanted to express how this crime"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0025,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9992,
+ "adjudicated_by": "rules"
+}
