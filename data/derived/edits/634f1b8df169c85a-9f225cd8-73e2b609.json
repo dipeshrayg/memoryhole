@@ -1,0 +1,52 @@
+{
+ "id": "634f1b8df169c85a-9f225cd8-73e2b609",
+ "url": "https://variety.com/2026/biz/news/the-team-board-members-watts-wasserman-providence-equity-1236943788/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-11-11T14:12:46Z",
+ "date": "2026-11-11",
+ "old_title": "The Team Unveils New Board as Firm Regroups After Rebrand From Wasserman",
+ "new_title": "The Team Unveils New Board as Firm Regroups After Rebrand From Wasserman",
+ "old_text": "The Team has unveiled an 11-member board to guide the sports, music and entertainment agency that was rebranded in July following the sale of Casey Wasserman's stake in his marketing and representation firm.\nProvidence Equity Partners acquired Casey Wasserman's 40% interest in the firm that he founded as Wasserman Media Group in 2002. The private equity firm purchased a majority stake in Wasserman in 2022. The firm went through a rough patch earlier this year amid the pressure that descended on Casey Wasserman with the uproar over his years-old association with the disgraced and now-convicted Jeffrey Epstein associate Ghislaine Maxwell.\nThe Team relaunch was unveiled in March. The newly named board members are: Michael Watts, CEO of The Team; Elizabeth Lindsey, global president of brands and properties; Jason Ranne , president of global talent representation; Kevin Shivers, co-president of music; Matthew Vandrau, president of EMEA & APAC; Elena Rochelli, chief financial officer; and Jon Liebman, chairman and CEO of Brillstein Entertainment Partners. Brillstein operates autonomously under the Team banner. Each board member will continue to serve in their leadership role within their business units.\nBoard members representing Providence Equity are: Davis Noell, who is senior managing director and co-head of North America for the private equity firm; Greg Brown, operating partner; Scott Marimow, managing director; and Ahana Maken, senior VP. Providence will appoint additional external board members in the coming months, the company said.\n\"This is an important moment for our company,\" Watts said. \"The members of this board have shown the qualities we value most: embracing our culture, supporting their colleagues and delivering exceptional results for our clients. This group will build on our momentum and help us accelerate growth by focusing on the ways we can best support our clients' goals and aspirations.\"\nThe new configuration encompasses an \"incredibly talented leadership team, and we welcome the expertise and perspective that this board will bring to the business,\" Noell said. \"We're excited about the growth opportunities ahead and will continue to provide capital and strategic partnership to help expand The Team's capabilities across sports, music and entertainment.\"\n(Pictured: Top row: Greg Brown, Jon Liebman, Elizabeth Lindsay, Ahana Maken; middle row: Scott Marimow, Davis Noell, Jason Ranne, Elena Rochelli; bottom row: Kevin Shivers, Matthew Vandrau, Michael Watts)",
+ "new_text": "The Team has unveiled an 11-member board to guide the sports, music and entertainment agency that was rebranded in July following the sale of Casey Wasserman's stake in his marketing and representation firm.\nProvidence Equity Partners acquired Casey Wasserman's 40% interest in the firm that he founded as Wasserman Media Group in 2002. The private equity firm purchased a majority stake in Wasserman in 2022. The firm went through a rough patch earlier this year amid the pressure that descended on Casey Wasserman with the uproar over his years-old association with the disgraced and now-convicted Jeffrey Epstein associate Ghislaine Maxwell.\nThe Team relaunch was unveiled in March. The newly named board members are: Michael Watts, CEO of The Team; Elizabeth Lindsey, global president of brands and properties; Jason Ranne , president of global talent representation; Kevin Shivers, co-president of music; Matthew Vandrau, president of EMEA & APAC; Elena Rochelli, chief financial officer; and Jon Liebman, chairman and CEO of Brillstein Entertainment Partners. Brillstein operates autonomously under the Team banner. Each board member will continue to serve in their leadership role within their business units.\nBoard members representing Providence Equity are: Davis Noell, who is senior managing director and co-head of North America for the private equity firm; Greg Brown, operating partner; Scott Marimow, managing director; and Ahana Maken, senior VP. Providence will appoint additional external board members in the coming months, the company said.\n\"This is an important moment for our company,\" Watts said. \"The members of this board have shown the qualities we value most: embracing our culture, supporting their colleagues and delivering exceptional results for our clients. This group will build on our momentum and help us accelerate growth by focusing on the ways we can best support our clients' goals and aspirations.\"\nThe new configuration encompasses an \"incredibly talented leadership team, and we welcome the expertise and perspective that this board will bring to the business,\" Noell said. \"We're excited about the growth opportunities ahead and will continue to provide capital and strategic partnership to help expand The Team's capabilities across sports, music and entertainment.\"\n(Pictured: Top row: Greg Brown, Jon Liebman, Elizabeth Lindsey, Ahana Maken; middle row: Scott Marimow, Davis Noell, Jason Ranne, Elena Rochelli; bottom row: Kevin Shivers, Matthew Vandrau, Michael Watts)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "sports, music and entertainment.\" (Pictured: Top row: Greg Brown, Jon Liebman, Elizabeth"
+    ],
+    [
+     "del",
+     "Lindsay,"
+    ],
+    [
+     "ins",
+     "Lindsey,"
+    ],
+    [
+     "eq",
+     "Ahana Maken; middle row: Scott Marimow, Davis Noell, Jason Ranne, Elena Rochelli; bottom row: Kevin Shivers, Matthew Vandrau, Michael Watts)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0053,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "17642df37fdb8cc9-656fdf25-cc889430",
+ "url": "https://www.gov.uk/government/news/sensor-sensibility-new-themed-competition-launch",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "country": "United Kingdom",
+ "category": "government",
+ "lang": "en",
+ "detected_at": "2026-11-11T14:03:42Z",
+ "date": "2026-11-11",
+ "old_title": "Sensor sensibility: new Themed Competition launch",
+ "new_title": "Sensor sensibility: new Themed Competition launch",
+ "old_text": "Sensor sensibility: new Themed Competition launch\nUK Defence Innovation and Dstl launch £2.8 million competition to advance electro optic sensing technologies\n- UKDI has launched a new £2.8 million Themed Competition looking for innovative electro optic sensing technologies\n- This competition is run on behalf of Dstl\n- UK only eligibility\n- Stage 1 applications close on 9 December 2026\nUK Defence Innovation (UKDI), on behalf of the Defence Science and Technology Laboratory (Dstl) has launched a new Themed Competition seeking cutting-edge electro-optic sensing technologies that can enhance the UK's defence capability across land, maritime, air and space environments. The competition is being delivered on behalf of the Electro Optic Sensing (EOS) project and aims to identify technologies that can help military forces operate more effectively in contested and degraded environments.\nUp to £2.8 million in funding (excluding VAT) is available with this total amount expected to support between five and seven projects. Individual proposals can receive funding of up to £600,000, with projects expected to mature technologies from Technology Readiness Level (TRL) 3 to TRL 6.\nWhat we're looking for\nElectro optic sensors play a vital role in modern military operations, supporting activities such as threat warning, target detection, discrimination and identification. UKDI is now seeking innovative solutions that can extend sensing range, improve target recognition, operate effectively through environmental obscurants, and provide enhanced situational awareness for defence users.\nThe challenge areas\nThe competition includes nine challenge areas:\n- Infrared active imaging\n- Detection and characterisation of laser sources on the battlefield and technologies to counter electromagnetic jamming\n- Cost effective wide area day and night sensing through challenging environments\n- Detection and ID of dim and distant targets in cluttered environments\n- Underwater environmental sensing and technologies for imaging through turbid media\n- Automatic Target Recognition (ATR) for 3D LiDAR data\n- Machine learning methods for Hyperspectral Imaging\n- Low SWaP-C Hyperspectral sensors for tactical platforms\n- High resolution imaging through aperture synthesis\nHow to submit a proposal\nUKDI will use a two-stage competition model. Stage 1 provides innovators with an opportunity to submit an outline concept before progressing to a full proposal in Stage 2 by invitation only. This approach helps innovators quickly understand whether their idea aligns with defence requirements before investing significant effort in a detailed submission.\nPlease ensure you have read the full competition document and watched the recorded webinar before submitting your proposal.\nThe competition is open to UK-registered businesses, sole traders and UK academic institutions, with projects expected to be delivered in the UK.\nStage 1 submissions close at 12 noon GMT on 9 December 2026, with successful applicants progressing to the next phase in early 2027.",
+ "new_text": "Sensor sensibility: new Themed Competition launch\nUK Defence Innovation and Dstl launch £2.8 million competition to advance electro optic sensing technologies\n- UKDI has launched a new £2.8 million Themed Competition looking for innovative electro optic sensing technologies\n- This competition is run on behalf of Dstl\n- UK only eligibility\n- Stage 1 applications close on 9 December 2026\nUK Defence Innovation (UKDI), on behalf of the Defence Science and Technology Laboratory (Dstl) has launched a new Themed Competition seeking cutting-edge electro optic sensing technologies that can enhance the UK's defence capability across land, maritime, air and space environments. The competition is being delivered on behalf of the Electro Optic Sensing (EOS) project and aims to identify technologies that can help military forces operate more effectively in contested and degraded environments.\nUp to £2.8 million in funding (excluding VAT) is available with this total amount expected to support between five and seven projects. Individual proposals can receive funding of up to £600,000, with projects expected to mature technologies from Technology Readiness Level (TRL) 3 to TRL 6.\nWhat we're looking for\nElectro optic sensors play a vital role in modern military operations, supporting activities such as threat warning, target detection, discrimination and identification. UKDI is now seeking innovative solutions that can extend sensing range, improve target recognition, operate effectively through environmental obscurants, and provide enhanced situational awareness for defence users.\nThe challenge areas\nThe competition includes nine challenge areas:\n- Infrared active imaging\n- Detection and characterisation of laser sources on the battlefield and technologies to counter electromagnetic jamming\n- Cost effective wide area day and night sensing through challenging environments\n- Detection and ID of dim and distant targets in cluttered environments\n- Underwater environmental sensing and technologies for imaging through turbid media\n- Automatic Target Recognition (ATR) for 3D LiDAR data\n- Machine learning methods for Hyperspectral Imaging\n- Low SWaP-C Hyperspectral sensors for tactical platforms\n- High resolution imaging through aperture synthesis\nHow to submit a proposal\nUKDI will use a two-stage competition model. Stage 1 provides innovators with an opportunity to submit an outline concept before progressing to a full proposal in Stage 2 by invitation only. This approach helps innovators quickly understand whether their idea aligns with defence requirements before investing significant effort in a detailed submission.\nPlease ensure you have read the full competition document and watched the recorded webinar before submitting your proposal.\nThe competition is open to UK-registered businesses, sole traders and UK academic institutions, with projects expected to be delivered in the UK.\nStage 1 submissions close at 12 noon GMT on 9 December 2026, with successful applicants progressing to the next phase in early 2027.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "and Technology Laboratory (Dstl) has launched a new Themed Competition seeking cutting-edge"
+    ],
+    [
+     "del",
+     "electro-optic"
+    ],
+    [
+     "ins",
+     "electro optic"
+    ],
+    [
+     "eq",
+     "sensing technologies that can enhance the UK's defence capability across land, maritime,"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0067,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

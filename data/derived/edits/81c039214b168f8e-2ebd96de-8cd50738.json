@@ -1,0 +1,98 @@
+{
+ "id": "81c039214b168f8e-2ebd96de-8cd50738",
+ "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/how-a-nigerian-vendor-survives-on-selling-local-street-delicacy?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-11T13:54:49Z",
+ "date": "2026-11-11",
+ "old_title": "How a Nigerian vendor survives on selling local street delicacy",
+ "new_title": "How a Nigerian street food vendor built a life for herself and her family",
+ "old_text": "How a Nigerian vendor survives on selling local street delicacy\nIn Nigeria, okpa is a traditional delicacy mostly sold on the streets. Meet a woman who has been selling okpa for over twenty years. Despite the gruelling journey, Victoria has put her four children through school.",
+ "new_text": "How a Nigerian vendor survives on selling local street delicacy\nOkpa is a beloved Nigerian street food that Victoria has been selling for over 20 years. Despite the gruelling journey, she kept going and has put her four children through school.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "How a Nigerian vendor survives on selling local street delicacy"
+    ],
+    [
+     "del",
+     "In Nigeria, okpa"
+    ],
+    [
+     "ins",
+     "Okpa"
+    ],
+    [
+     "eq",
+     "is a"
+    ],
+    [
+     "del",
+     "traditional delicacy mostly sold on the streets. Meet a woman who"
+    ],
+    [
+     "ins",
+     "beloved Nigerian street food that Victoria"
+    ],
+    [
+     "eq",
+     "has been selling"
+    ],
+    [
+     "del",
+     "okpa"
+    ],
+    [
+     "eq",
+     "for over"
+    ],
+    [
+     "del",
+     "twenty"
+    ],
+    [
+     "ins",
+     "20"
+    ],
+    [
+     "eq",
+     "years. Despite the gruelling journey,"
+    ],
+    [
+     "del",
+     "Victoria"
+    ],
+    [
+     "ins",
+     "she kept going and"
+    ],
+    [
+     "eq",
+     "has put her four children through school."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.6304,
+  "numbers_changed": [
+   "20"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.863,
+ "similarity": 0.9429,
+ "adjudicated_by": "rules"
+}

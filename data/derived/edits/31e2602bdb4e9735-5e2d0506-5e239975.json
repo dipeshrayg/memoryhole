@@ -1,0 +1,120 @@
+{
+ "id": "31e2602bdb4e9735-5e2d0506-5e239975",
+ "url": "https://www.abc.net.au/news/2026-11-10/adelaide-city-council-fossil-fuel-ad-ban-tour-down-under/107369768",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-11T13:58:01Z",
+ "date": "2026-11-11",
+ "old_title": "Adelaide council backflips on fossil fuel ad ban amid Tour Down Under fears",
+ "new_title": "Adelaide council backflips on fossil fuel ad ban amid Tour Down Under fears",
+ "old_text": "In short:\nThe City of Adelaide has rescinded a motion to ban fossil fuel advertising on council assets after passing it last month.\nCouncillors have instead resolved for council administration to investigate the implications of a future ban.\nWhat's next?\nThe council will write to the state government to express community concern regarding fossil fuel promotions in the city.\nAdelaide City Council has backflipped on its ban of fossil fuel advertising in the city weeks after voting in favour.\nOn Tuesday Deputy Lord Mayor Carmel Noon put forward a special motion to revoke that ban \"in its entirety\". It passed eight votes to two.\n\"We should not make the decision first and find out the consequences afterwards,\" she said.\nSpeaking in support of the move to revoke the ban, Arman Abrahumzadeh said members would \"deserve a spot in the national gymnastics team given the backflip that we've made\".\nThe about-face followed a vote that narrowly passed two weeks ago in favour of banning oil, coal and gas companies from any advertising in council-owned public spaces, including on bus stops, banners and billboards as of July 2027.\nThe ban prompted backlash, including from the state government, due to concerns about how it might affect Australia's biggest cycling event, the Tour Down Under, whose main sponsor is gas giant Santos.\nIn feedback tabled alongside Cr Noon's motion, the council administration advised its support for rolling back the ban.\nIt said questions remained over the \"legal validity\" and \"practical implementation issues\" of the ban.\nCouncil to investigate implications of ban\nAnother motion also passed, calling on council administration to further investigate the implications of restricting fossil fuel advertisements, and report back by May 2027.\nBut Lord Mayor Jane Lomax-Smith expressed concern that this new motion, which passed, six votes to four, could still impact the Tour.\n\"What worries me most, when there is a major event being planned, the details are designed to fit around the sponsors and by not having this report until May there will be a level of uncertainty of our capacity of having the event in our city,\" she said.\nThe council also asked the lord mayor to write to the state government over \"growing community concern regarding the promotion of coal, oil and gas sponsorship on publicly owned assets within the City of Adelaide\".\nIt will ask the government for \"advice on how sponsorship and partnership arrangements are considered in the context of the South Australia [sic] Government's Net Zero Strategy 2024-2030\".\nCouncillor Keiran Snape proposed the original ban and voted against its revocation on Tuesday.\n\"It's not ideal that the motion is being revoked, but the new motion coming in is an excellent compromise,\" he said.\n\"This council is firm on climate action and our community wants to see that happen as well.\"\nCouncillor Eleanor Freeman supported the original motion, but voted to rescind it on Tuesday.\n\"The intent two weeks ago was noble. Sometimes effect can outweigh intent. I feel there have been some undesired effects as a result of the [original] decision,\" she said.\n\"Tonight we looked to correct course and find a better way that's in partnership with the state government to investigate how we can have more climate action.\"",
+ "new_text": "In short:\nThe City of Adelaide has rescinded a motion to ban fossil fuel advertising on council assets after passing it last month.\nCouncillors have instead resolved for council administration to investigate the implications of a future ban.\nWhat's next?\nThe council will write to the state government to express community concern regarding fossil fuel promotions in the city.\nAdelaide City Council has backflipped on its ban of fossil fuel advertising in the city weeks after voting in favour.\nOn Tuesday, Deputy Lord Mayor Carmel Noon put forward a special motion to revoke that ban \"in its entirety\". It passed eight votes to two.\n\"We should not make the decision first and find out the consequences afterwards,\" she said.\nSpeaking in support of the move to revoke the ban, councillor Arman Abrahimzadeh said members would \"deserve a spot in the national gymnastics team given the backflip that we've made\".\nThe about-face followed a vote that narrowly passed two weeks ago in favour of banning oil, coal and gas companies from any advertising in council-owned public spaces, including on bus stops, banners and billboards as of July 2027.\nThe ban prompted backlash, including from the state government, due to concerns about how it might affect Australia's biggest cycling event, the Tour Down Under (TDU), whose main sponsor is gas giant Santos.\nIn feedback tabled alongside Cr Noon's motion, the council administration advised its support for rolling back the ban.\nIt said questions remained over the \"legal validity\" and \"practical implementation issues\" of the ban.\nCouncil to investigate implications of ban\nAnother motion also passed, calling on council administration to further investigate the implications of restricting fossil fuel advertisements, and report back by May 2027.\nBut Lord Mayor Jane Lomax-Smith expressed concern that this new motion, which passed, six votes to four, could still impact the TDU.\n\"What worries me most, when there is a major event being planned, the details are designed to fit around the sponsors and by not having this report until May there will be a level of uncertainty of our capacity of having the event in our city,\" she said.\nThe council also asked the lord mayor to write to the state government over \"growing community concern regarding the promotion of coal, oil and gas sponsorship on publicly owned assets within the City of Adelaide\".\nIt will ask the government for \"advice on how sponsorship and partnership arrangements are considered in the context of the South Australia [sic] Government's Net Zero Strategy 2024-2030\".\nCouncillor Keiran Snape proposed the original ban and voted against its revocation on Tuesday.\n\"It's not ideal that the motion is being revoked, but the new motion coming in is an excellent compromise,\" he said.\n\"This council is firm on climate action and our community wants to see that happen as well.\"\nCouncillor Eleanor Freeman supported the original motion, but voted to rescind it on Tuesday.\n\"The intent two weeks ago was noble. Sometimes effect can outweigh intent. I feel there have been some undesired effects as a result of the [original] decision,\" she said.\n\"Tonight we looked to correct course and find a better way that's in partnership with the state government to investigate how we can have more climate action.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "fossil fuel advertising in the city weeks after voting in favour. On"
+    ],
+    [
+     "del",
+     "Tuesday"
+    ],
+    [
+     "ins",
+     "Tuesday,"
+    ],
+    [
+     "eq",
+     "Deputy Lord Mayor Carmel Noon put forward a special motion to revoke"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "she said. Speaking in support of the move to revoke the ban,"
+    ],
+    [
+     "ins",
+     "councillor"
+    ],
+    [
+     "eq",
+     "Arman"
+    ],
+    [
+     "del",
+     "Abrahumzadeh"
+    ],
+    [
+     "ins",
+     "Abrahimzadeh"
+    ],
+    [
+     "eq",
+     "said members would \"deserve a spot in the national gymnastics team given"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "about how it might affect Australia's biggest cycling event, the Tour Down"
+    ],
+    [
+     "del",
+     "Under,"
+    ],
+    [
+     "ins",
+     "Under (TDU),"
+    ],
+    [
+     "eq",
+     "whose main sponsor is gas giant Santos. In feedback tabled alongside Cr"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "new motion, which passed, six votes to four, could still impact the"
+    ],
+    [
+     "del",
+     "Tour."
+    ],
+    [
+     "ins",
+     "TDU."
+    ],
+    [
+     "eq",
+     "\"What worries me most, when there is a major event being planned,"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0187,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 0.9977,
+ "adjudicated_by": "rules"
+}
