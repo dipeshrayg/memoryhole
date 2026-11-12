@@ -1,0 +1,84 @@
+{
+ "id": "5abff8dc2c48e815-9c8160c0-22fcea48",
+ "url": "https://www.bbc.co.uk/news/articles/cqde1yddwk17o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-12T14:55:01Z",
+ "date": "2026-11-12",
+ "old_title": "Police told Russell Brand to leave Jemima Goldsmith's house in 2014",
+ "new_title": "Police helped remove Russell Brand after 'violent incident' at Jemima Goldsmith's home",
+ "old_text": "- Published\nPolice have confirmed they told Russell Brand to leave his ex-girlfriend Jemima Goldsmith's house in 2014 after she claimed a violent incident took place.\nThames Valley Police said officers were contacted by an alleged victim and went to an address in Oxfordshire on 25 July 2014 but no arrests were made.\nThey listened to her concerns and gave support, and \"also ensured the victim's partner left the address, as per the victim's wishes\", the police added in a statement on Wednesday.\nGoldsmith, who dated Brand for about a year, wrote on X on Monday that she \"had to call the police to have him removed from my house in 2014 during a violent incident\" but chose not to press charges.\nBrand was jailed for 10-and-a-half years for rape and sexual assault on Monday.\nIn her post, 52-year-old Goldsmith said she was \"in awe of the courageous women who came forward at Brand's trial\" and was \"glad and relieved\" he had \"finally faced justice\".\nShe wrote: \"I have had my own personal experience of his violence, coercive control and abuse.\n\"I had to call the police to have him removed from my house in 2014 during a violent incident.\"\nThe Press Association reported that Goldsmith had asked for Brand to leave the property, her wish was then communicated to him by police, and he agreed to leave the house.\nGoldsmith added: \"I chose not to press charges at the time and not to go public with this, as I was worried about the impact of the press attention on my then teenage children.\n\"I have neither seen nor spoken to Brand since that period in 2014. Whilst my pain in relation to this, pales in comparison to what the women have testified in court have suffered, this was a difficult period in my life which has had a lasting impact.\"\nShe also said she had \"assisted the journalists who finally exposed him\", and had been willing to testify to his \"abusiveness\" if they were sued.\nTV producer Goldsmith is also the former wife of ex-Pakistani prime minister and cricketer Imran Khan, the daughter of late billionaire entrepreneur Sir James Goldsmith and sister of ex-Conservative government minister Zac Goldsmith.",
+ "new_text": "- Published\nPolice have confirmed they helped Jemima Goldsmith to remove ex-boyfriend Russell Brand from her property in 2014 after she claimed a violent incident took place.\nThames Valley Police said officers were contacted by an alleged victim and went to an address in Oxfordshire on 25 July 2014 but no arrests were made.\nThey listened to her concerns and gave support, and \"also ensured the victim's partner left the address, as per the victim's wishes\", the police added in a statement on Wednesday.\nGoldsmith, who dated Brand for about a year, wrote on X on Monday that she \"had to call the police to have him removed from my house in 2014 during a violent incident\" but chose not to press charges.\nBrand was jailed for 10-and-a-half years for rape and sexual assault on Monday.\nIn her post, 52-year-old Goldsmith, who wasn't part of the trial, said she was \"in awe of the courageous women who came forward at Brand's trial\" and was \"glad and relieved\" he had \"finally faced justice\".\nShe wrote: \"I have had my own personal experience of his violence, coercive control and abuse.\n\"I had to call the police to have him removed from my house in 2014 during a violent incident.\"\nThe Press Association reported that Goldsmith had asked for Brand to leave the property, her wish was then communicated to him by police, and he agreed to leave the house.\nGoldsmith added: \"I chose not to press charges at the time and not to go public with this, as I was worried about the impact of the press attention on my then teenage children.\n\"I have neither seen nor spoken to Brand since that period in 2014. Whilst my pain in relation to this, pales in comparison to what the women have testified in court have suffered, this was a difficult period in my life which has had a lasting impact.\"\nShe also said she had \"assisted the journalists who finally exposed him\", and had been willing to testify to his \"abusiveness\" if they were sued.\nTV producer Goldsmith is also the former wife of ex-Pakistani prime minister and cricketer Imran Khan, the daughter of late billionaire entrepreneur Sir James Goldsmith and sister of ex-Conservative government minister Zac Goldsmith.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published Police have confirmed they"
+    ],
+    [
+     "del",
+     "told"
+    ],
+    [
+     "ins",
+     "helped Jemima Goldsmith to remove ex-boyfriend"
+    ],
+    [
+     "eq",
+     "Russell Brand"
+    ],
+    [
+     "del",
+     "to leave his ex-girlfriend Jemima Goldsmith's house"
+    ],
+    [
+     "ins",
+     "from her property"
+    ],
+    [
+     "eq",
+     "in 2014 after she claimed a violent incident took place. Thames Valley"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "years for rape and sexual assault on Monday. In her post, 52-year-old"
+    ],
+    [
+     "del",
+     "Goldsmith"
+    ],
+    [
+     "ins",
+     "Goldsmith, who wasn't part of the trial,"
+    ],
+    [
+     "eq",
+     "said she was \"in awe of the courageous women who came forward"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0678,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9798,
+ "adjudicated_by": "rules"
+}

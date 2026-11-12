@@ -1,0 +1,204 @@
+{
+ "id": "300fc10b2f0c0633-f69d5526-e33a3f6f",
+ "url": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-11-12T15:08:09Z",
+ "date": "2026-11-12",
+ "old_title": "Manchester United reach framework deal with Pochettino before settling Carrick's fate",
+ "new_title": "Manchester United reach framework deal with Pochettino before settling Carrick's fate",
+ "old_text": "Manchester United have a framework agreement with Mauricio Pochettino for him to become their head coach if Michael Carrick is sacked. Carrick is expected to be fired in line with the recommendation from Jason Wilcox, the director of football, and Omar Berrada, the chief executive, to Sir Jim Ratcliffe.\nPochettino is the US men's national team head coach and in August signed a contract to 2030 but he wants the United job after managing in the Premier League with Southampton, Tottenham and Chelsea.\nWilcox and Berrada are meeting Ratcliffe in Monaco, where the minority owner will be informed that Carrick should lose his job. Ratcliffe controls United's sporting policy.\nThere is a growing sense among United players that Carrick will be sacked, with their expectation being that Pochettino will replace him.\nA United board meeting is scheduled for Wednesday at which one or more of the six Glazer siblings who are the majority owners will be represented. There is an expectation within the executive and in Carrick's camp that the sacking will be ratified there and that an announcement will follow.\nPochettino's contract contains a release clause of about $10m (£7.5m), although the compensation United would have to pay will be higher if the Argentinian brings his own staff, including his longtime assistant and confidant Jesús Pérez, who has worked with Pochettino for 16 years.\nPochettino is due to take charge of the US in Concacaf Nations League matches against Haiti on Saturday and Wednesday in Miami and Cincinnati respectively, their first competitive fixtures of the 2030 World Cup qualifying cycle.\nCarrick has overseen a disastrous start to their season which has United in 18th and in the relegation zone. The 45-year-old has won only one game in the league, against Ipswich in August, and three in all competitions. United were knocked out of the Carabao Cup by Brighton in September.",
+ "new_text": "Manchester United have a framework agreement with Mauricio Pochettino for him to become their head coach if Michael Carrick is sacked. Carrick is expected to be fired in line with the recommendation from Jason Wilcox, the director of football, and Omar Berrada, the chief executive, to Sir Jim Ratcliffe.\nPochettino is the USA men's national team head coach and in August signed a contract to 2030 but he wants the United job after managing in the Premier League with Southampton, Tottenham and Chelsea.\nWilcox and Berrada are meeting Ratcliffe in Monaco, where the club's minority owner will be informed that Carrick should lose his job. Ratcliffe controls United's sporting policy.\nThere is a growing sense among United players that Carrick will be sacked, with their expectation being that Pochettino will replace him.\nA United board meeting is scheduled for Wednesday at which one or more of the six Glazer siblings, who are the majority owners, will be represented. There is an expectation within the executive and in Carrick's camp that the sacking will be ratified there and that an announcement will follow.\nPochettino's contract contains a release clause of about $10m (£7.5m), although the compensation United would have to pay will be higher if the Argentinian brings his own staff, including his longtime assistant and confidant Jesús Pérez, who has worked with Pochettino for 16 years.\nThe USA team are due to play Concacaf Nations League games against Haiti on Saturday and Wednesday in Miami and Cincinnati respectively, their first competitive fixtures of the 2030 World Cup qualifying cycle.\nPochettino took USA training yesterdayon Wednesday but player media access was cancelled, with Veterans Day cited as the reason for changing a schedule released five days ago.\nCarrick has overseen a disastrous start to United's season which has the club in the relegation zone. The 45‐year‐old coach has won only one game in the league, against Ipswich in August, and three in all competitions. United were knocked out of the Carabao Cup by Brighton in September.\nMarcus Rashford is recovering from a groin injury that has ruled him out since he came off during the 2-0 defeat at Atlético Madrid last month. United are targeting the trip to Liverpool on Sunday week for the forward's return, after he saw a specialist in Dublin last week and embarked on a tailored rehabilitation programme. The problem is related to a hip injury Rashford sustained at the World Cup this summer.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Omar Berrada, the chief executive, to Sir Jim Ratcliffe. Pochettino is the"
+    ],
+    [
+     "del",
+     "US"
+    ],
+    [
+     "ins",
+     "USA"
+    ],
+    [
+     "eq",
+     "men's national team head coach and in August signed a contract to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and Chelsea. Wilcox and Berrada are meeting Ratcliffe in Monaco, where the"
+    ],
+    [
+     "ins",
+     "club's"
+    ],
+    [
+     "eq",
+     "minority owner will be informed that Carrick should lose his job. Ratcliffe"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "scheduled for Wednesday at which one or more of the six Glazer"
+    ],
+    [
+     "del",
+     "siblings"
+    ],
+    [
+     "ins",
+     "siblings,"
+    ],
+    [
+     "eq",
+     "who are the majority"
+    ],
+    [
+     "del",
+     "owners"
+    ],
+    [
+     "ins",
+     "owners,"
+    ],
+    [
+     "eq",
+     "will be represented. There is an expectation within the executive and in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and confidant Jesús Pérez, who has worked with Pochettino for 16 years."
+    ],
+    [
+     "del",
+     "Pochettino is"
+    ],
+    [
+     "ins",
+     "The USA team are"
+    ],
+    [
+     "eq",
+     "due to"
+    ],
+    [
+     "del",
+     "take charge of the US in"
+    ],
+    [
+     "ins",
+     "play"
+    ],
+    [
+     "eq",
+     "Concacaf Nations League"
+    ],
+    [
+     "del",
+     "matches"
+    ],
+    [
+     "ins",
+     "games"
+    ],
+    [
+     "eq",
+     "against Haiti on Saturday and Wednesday in Miami and Cincinnati respectively, their first competitive fixtures of the 2030 World Cup qualifying cycle."
+    ],
+    [
+     "ins",
+     "Pochettino took USA training yesterdayon Wednesday but player media access was cancelled, with Veterans Day cited as the reason for changing a schedule released five days ago."
+    ],
+    [
+     "eq",
+     "Carrick has overseen a disastrous start to"
+    ],
+    [
+     "del",
+     "their"
+    ],
+    [
+     "ins",
+     "United's"
+    ],
+    [
+     "eq",
+     "season which has"
+    ],
+    [
+     "del",
+     "United in 18th and"
+    ],
+    [
+     "ins",
+     "the club"
+    ],
+    [
+     "eq",
+     "in the relegation zone. The"
+    ],
+    [
+     "del",
+     "45-year-old"
+    ],
+    [
+     "ins",
+     "45‐year‐old coach"
+    ],
+    [
+     "eq",
+     "has won only one game in the league, against Ipswich in August,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "United were knocked out of the Carabao Cup by Brighton in September."
+    ],
+    [
+     "ins",
+     "Marcus Rashford is recovering from a groin injury that has ruled him out since he came off during the 2-0 defeat at Atlético Madrid last month. United are targeting the trip to Liverpool on Sunday week for the forward's return, after he saw a specialist in Dublin last week and embarked on a tailored rehabilitation programme. The problem is related to a hip injury Rashford sustained at the World Cup this summer."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4244,
+  "numbers_changed": [
+   "0",
+   "18",
+   "2"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9933,
+ "adjudicated_by": "rules"
+}

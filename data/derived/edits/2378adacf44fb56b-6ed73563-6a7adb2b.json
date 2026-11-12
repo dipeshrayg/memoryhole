@@ -1,0 +1,151 @@
+{
+ "id": "2378adacf44fb56b-6ed73563-6a7adb2b",
+ "url": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-12T14:56:44Z",
+ "date": "2026-11-12",
+ "old_title": "At least 300 schools evacuated in Italy after email bomb alerts",
+ "new_title": "Schools across Italy evacuated after receiving email bomb alerts",
+ "old_text": "At least 300 schools in Italy have been evacuated after receiving the same hoax bomb threat by email while authorities in Scotland and Northern Ireland also report receiving similar alerts.\nItalian Prime Minister Giorgia Meloni stressed on Wednesday that there was no indication of any concrete danger to Italian schools but investigations were under way and a meeting of government ministers has been convened.\nWednesday's security alert came amid rising concerns in Europe about hybrid warfare threats, which have targeted supermarkets, blood banks, air traffic and TV broadcasters.\nItalian Education Minister Giuseppe Valditara told the La7 TV channel that at least 300 schools were affected by the bomb threats, adding that the number could rise.\n\"It is clear that there is a strategy at play,\" he told the network. \"It is difficult to say right now who might be behind this. Intelligence services are, of course, working to identify them.\"\nBut he added: \"There is no need for alarmism as the content of the emails makes it clear that any concrete risk is virtually nonexistent. In all likelihood, this is a cyberattack rather than a genuine threat.\"\n'Bogus' threats in Northern Ireland and Scotland\nSeparately on Wednesday, a large number of schools in Scotland and Northern Ireland were also sent threatening emails. The Northern Ireland Education Authority said schools there have been advised to stay open because police did not regard them as a credible threat.\n\"The message has similarities with a bogus threat sent last month, which was declared a hoax by PSNI [Police Service of Northern Ireland],\" the Education Authority said.\nPolice Scotland also said the messages sent to schools in that country do not represent a credible threat and are being treated as hoaxes. The police force said its cyber and fraud unit is working to establish the source of the messages, liaising with law enforcement across the United Kingdom and internationally. This follows a similar mass bomb hoax email sent to Scottish schools on October 19.\nThis month, flights across Europe have been diverted, grounded and escorted by fighter jets in response to a wave of bomb threats.\nThere have also been cyberattacks on supermarkets in several European cities with hackers changing the temperature on refrigeration in an apparent attempt to spoil food.\nLast week, hackers raised the temperatures of refrigeration systems at supermarkets in Germany, Romania and the UK.\nThe attacks mirrored the cyberattack that swept hundreds of supermarkets across France in October.",
+ "new_text": "Schools across Italy have been evacuated after about 6,300 of them received the same hoax bomb threat by email, while authorities in Scotland and Northern Ireland also reported receiving similar alerts.\nItalian Prime Minister Giorgia Meloni stressed on Wednesday that there was no indication of any concrete danger to Italian schools, but investigations were under way, and a meeting of government ministers has been convened.\nThe email also included a threat to Meloni and was reportedly signed by \"Mikhail Andropov, leader of the Vilayat of Misoginistan\", according to the Reuters news agency, citing a copy of the message it obtained.\nThe same purported author claimed responsibility for email bomb threats sent on Friday to newsrooms in Ireland and Bulgaria.\nWednesday's security alert came amid rising concerns in Europe about hybrid warfare threats, which have targeted supermarkets, blood banks, air traffic and TV broadcasters.\nItalian Education Minister Giuseppe Valditara told the La7 TV channel that at least 300 schools were affected by the bomb threats, adding that the number could rise.\n\"It is clear that there is a strategy at play,\" he told the network. \"It is difficult to say right now who might be behind this. Intelligence services are, of course, working to identify them.\"\nBut he added: \"There is no need for alarmism as the content of the emails makes it clear that any concrete risk is virtually nonexistent. In all likelihood, this is a cyberattack rather than a genuine threat.\"\n'Bogus' threats in Northern Ireland and Scotland\nSeparately on Wednesday, a large number of schools in Scotland and Northern Ireland were also sent threatening emails. The Northern Ireland Education Authority said schools there have been advised to stay open because police did not regard them as a credible threat.\n\"The message has similarities with a bogus threat sent last month, which was declared a hoax by PSNI [Police Service of Northern Ireland],\" the Education Authority said.\nPolice Scotland also said the messages sent to schools in that country do not represent a credible threat and are being treated as hoaxes. The police force said its cyber and fraud unit is working to establish the source of the messages, liaising with law enforcement across the United Kingdom and internationally.\nThis follows a similar mass bomb hoax email sent to Scottish schools on October 19.\nThis month, flights across Europe have been diverted, grounded and escorted by fighter jets in response to a wave of bomb threats.\nThere have also been cyberattacks on supermarkets in several European cities, with hackers changing the temperature on refrigeration in an apparent attempt to spoil food.\nLast week, hackers raised the temperatures of refrigeration systems at supermarkets in Germany, Romania and the UK.\nThe attacks mirrored the cyberattack that swept hundreds of supermarkets across France in October.\nOn Tuesday, France summoned Iran's ambassador after accusing Tehran of a cyberattack that disabled refrigerators in hundreds of supermarkets.\nTehran rejected the French accusations as \"baseless\" and \"hostile\"; however, the October incident made Iran a suspect in Wednesday's hoax bomb threat.\nSome European officials suspect Russia of orchestrating the campaign to disrupt daily life in countries supporting Ukraine after Moscow's full-scale invasion.\nRussia denies the accusation and describes it as a smear campaign.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "At least 300 schools in"
+    ],
+    [
+     "ins",
+     "Schools across"
+    ],
+    [
+     "eq",
+     "Italy have been evacuated after"
+    ],
+    [
+     "del",
+     "receiving"
+    ],
+    [
+     "ins",
+     "about 6,300 of them received"
+    ],
+    [
+     "eq",
+     "the same hoax bomb threat by"
+    ],
+    [
+     "del",
+     "email"
+    ],
+    [
+     "ins",
+     "email,"
+    ],
+    [
+     "eq",
+     "while authorities in Scotland and Northern Ireland also"
+    ],
+    [
+     "del",
+     "report"
+    ],
+    [
+     "ins",
+     "reported"
+    ],
+    [
+     "eq",
+     "receiving similar alerts. Italian Prime Minister Giorgia Meloni stressed on Wednesday that there was no indication of any concrete danger to Italian"
+    ],
+    [
+     "del",
+     "schools"
+    ],
+    [
+     "ins",
+     "schools,"
+    ],
+    [
+     "eq",
+     "but investigations were under"
+    ],
+    [
+     "del",
+     "way"
+    ],
+    [
+     "ins",
+     "way,"
+    ],
+    [
+     "eq",
+     "and a meeting of government ministers has been convened."
+    ],
+    [
+     "ins",
+     "The email also included a threat to Meloni and was reportedly signed by \"Mikhail Andropov, leader of the Vilayat of Misoginistan\", according to the Reuters news agency, citing a copy of the message it obtained. The same purported author claimed responsibility for email bomb threats sent on Friday to newsrooms in Ireland and Bulgaria."
+    ],
+    [
+     "eq",
+     "Wednesday's security alert came amid rising concerns in Europe about hybrid warfare"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "bomb threats. There have also been cyberattacks on supermarkets in several European"
+    ],
+    [
+     "del",
+     "cities"
+    ],
+    [
+     "ins",
+     "cities,"
+    ],
+    [
+     "eq",
+     "with hackers changing the temperature on refrigeration in an apparent attempt to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "mirrored the cyberattack that swept hundreds of supermarkets across France in October."
+    ],
+    [
+     "ins",
+     "On Tuesday, France summoned Iran's ambassador after accusing Tehran of a cyberattack that disabled refrigerators in hundreds of supermarkets. Tehran rejected the French accusations as \"baseless\" and \"hostile\"; however, the October incident made Iran a suspect in Wednesday's hoax bomb threat. Some European officials suspect Russia of orchestrating the campaign to disrupt daily life in countries supporting Ukraine after Moscow's full-scale invasion. Russia denies the accusation and describes it as a smear campaign."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3676,
+  "numbers_changed": [
+   "300",
+   "6,300"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.241,
+ "similarity": 0.8631,
+ "adjudicated_by": "rules"
+}

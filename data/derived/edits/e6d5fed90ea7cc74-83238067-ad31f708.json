@@ -1,0 +1,433 @@
+{
+ "id": "e6d5fed90ea7cc74-83238067-ad31f708",
+ "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-11-12T15:04:26Z",
+ "date": "2026-11-12",
+ "old_title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+ "new_title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+ "old_text": "- Published\nPoundland and its 11,000 employees are hopeful that the retailer's impending collapse can be delayed to allow time for a last-minute rescue deal.\nThe discount chain has been edging towards administration after being blocked by its owners from accessing cash in its bank accounts.\nA deadline to secure a buyer for the business is set to expire at midnight, but sources close to the situation have told the BBC that they expect more time will be given, thanks to the release of Â£10m in funding.\nA committee of MPs is set to question Gordon Brothers, Poundland's US owners, on Wednesday following accusations that the investment firm hopes to profit from selling off Poundland's 600 stores and stock piecemeal.\nGordon Brothers - which bought the chain for just Â£1 last year - is accused of forcing that outcome by restricting Poundland's access to available cash needed to restock stores and pay wages and rent, ahead of the crucial Christmas trading period.\nThe investment firm has denied the claims.\nBut pressure remains on Poundland's owners after a takeover bid was rejected. The decision prompted calls for answers from politicians, including Prime Minister Andy Burnham.\nAbout Â£50m had been frozen by Gordon Brothers, the BBC understands, meaning Poundland bosses were unable to restock shelves across its 600 shops.\nHowever, sources close to the matter told the BBC on Tuesday that a release of Â£10m by its owners, while \"small in the scale of things\" could help at least postpone the chain's collapse while a longer term solution was explored.\nViews on Poundland performance differ\nThe 10-day moratorium to protect Poundland from its creditors expires on Thursday, but if there is a prospect of a solvent deal, the deadline could be extended.\nViews on the chain's performance differ between those running operations and the owners.\nPoundland boss Barry Williams told staff last week that like-for-like sales, which exclude new store openings, were up 11.4%. The sales period included Halloween, but Williams said this was Â£1.5m ahead of budget.\nHe added the business made a profit of Â£18.1m in the year to September, which was a \"strong recovery\" from the previous year where there were losses of Â£68m.\nHowever, Gordon Brothers has painted a different picture, saying the chain remains \"challenged and vulnerable to any potential downturn in future trading\".\nThere has been interest from the likes of Poundstretcher, Tesco and B&M in picking up Poundland stores which could mean continuing employment for workers in the event the chain is broken up and sold off in chunks.\nThe main issue is whether a piecemeal sale would protect more jobs than a buyer willing to keep Poundland as a national chain.",
+ "new_text": "- Published\nPoundland has avoided immediate collapse after a deadline was extended to find a rescue deal.\nA deadline to secure a buyer for the retail chain was set to expire at midnight, but a court has given Poundland an extra 10 days to find a buyer.\nThe discount chain, which has 11,000 employees, has been edging towards administration after being blocked by owners Gordon Brothers from accessing cash in its bank accounts.\nA committee of MPs questioned Gordon Brothers following accusations that the investment firm hoped to profit from selling off Poundland's 600 shops and stock piecemeal.\nGordon Brothers - which bought the chain for just Â£1 last year - is accused of forcing that outcome by restricting Poundland's access to available cash needed to restock shops, and pay wages and rent, ahead of the crucial Christmas trading period.\nThe investment firm, which specialises in buying and restructuring distressed companies, has denied the claims.\nHowever, pressure remains on Poundland's owners after a takeover bid was rejected. The decision prompted calls for answers from politicians, including Prime Minister Andy Burnham.\nAbout Â£50m had been frozen by Gordon Brothers, the BBC understands, meaning Poundland bosses were unable to restock shelves across its 600 shops.\nThe BBC understands that Gordon Brothers agreed to release a further Â£10m to Â£11m from Poundland's accounts, on top of Â£11m announced earlier, as the firm seeks to find a new buyer.\nGordon Brothers said it was in talks with three parties for a sale of the whole business, and it had received \"several offers from established high street retailers for significant parts of the business\".\n'Do the right thing'\nFollowing the meeting between MPs on the business and trade committee and representatives of Gordon Brothers, chairman Liam Byrne told the BBC that he was \"deeply concerned\" and described the firm's behaviour as \"much like a wolf on Wall Street, on the British High Street\".\n\"They refused to prioritise protecting jobs and stores over and above their own financial returns,\" he said.\n\"It's clear that they've taken millions out of Poundland at a time when they themselves said the business was on a knife edge.\"\nByrne said the committee's message to Gordon Brothers was to ensure Poundland had \"access to the funds that it needs to trade at what should be one of the busiest periods in the year\".\nHe urged Gordon Brothers to \"do what is right to save jobs and stores and do that now\".\n\"It's a good business, it's a much-loved business and, particularly in the middle of the cost of living crisis, communities up and down the country rely on access to the kind of stores that it operates,\" Byrne added.\nViews on Poundland performance differ\nViews on the chain's performance differ between those running operations and the owners.\nPoundland boss Williams told staff last week that like-for-like sales, which exclude new store openings, were up 11.4%. The sales period included Halloween, but Williams said this was Â£1.5m ahead of budget.\nHe added that the business made a profit of Â£18.1m in the year to September, which was a \"strong recovery\" from the previous year when there were losses of Â£68m.\nHowever, Gordon Brothers has painted a different picture, saying the chain remains \"challenged and vulnerable to any potential downturn in future trading\".\nIt has argued that the best way of securing jobs may be to split up the business and sell chunks of its 600 sites to other retailers.\nThere has been interest from the likes of Poundstretcher, Tesco and B&M in picking up Poundland shops, which could mean continuing employment for workers at those sites.\nThe main issue is whether a piecemeal sale would protect more jobs than a buyer willing to keep Poundland as a national chain.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published Poundland"
+    ],
+    [
+     "del",
+     "and its 11,000 employees are hopeful that the retailer's impending"
+    ],
+    [
+     "ins",
+     "has avoided immediate"
+    ],
+    [
+     "eq",
+     "collapse"
+    ],
+    [
+     "del",
+     "can be delayed"
+    ],
+    [
+     "ins",
+     "after a deadline was extended"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "allow time for"
+    ],
+    [
+     "ins",
+     "find"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "last-minute"
+    ],
+    [
+     "eq",
+     "rescue deal."
+    ],
+    [
+     "ins",
+     "A deadline to secure a buyer for the retail chain was set to expire at midnight, but a court has given Poundland an extra 10 days to find a buyer."
+    ],
+    [
+     "eq",
+     "The discount"
+    ],
+    [
+     "del",
+     "chain"
+    ],
+    [
+     "ins",
+     "chain, which has 11,000 employees,"
+    ],
+    [
+     "eq",
+     "has been edging towards administration after being blocked by"
+    ],
+    [
+     "del",
+     "its"
+    ],
+    [
+     "eq",
+     "owners"
+    ],
+    [
+     "ins",
+     "Gordon Brothers"
+    ],
+    [
+     "eq",
+     "from accessing cash in its bank accounts. A"
+    ],
+    [
+     "del",
+     "deadline to secure a buyer for the business is set to expire at midnight, but sources close to the situation have told the BBC that they expect more time will be given, thanks to the release of Â£10m in funding. A"
+    ],
+    [
+     "eq",
+     "committee of MPs"
+    ],
+    [
+     "del",
+     "is set to question"
+    ],
+    [
+     "ins",
+     "questioned"
+    ],
+    [
+     "eq",
+     "Gordon"
+    ],
+    [
+     "del",
+     "Brothers, Poundland's US owners, on Wednesday"
+    ],
+    [
+     "ins",
+     "Brothers"
+    ],
+    [
+     "eq",
+     "following accusations that the investment firm"
+    ],
+    [
+     "del",
+     "hopes"
+    ],
+    [
+     "ins",
+     "hoped"
+    ],
+    [
+     "eq",
+     "to profit from selling off Poundland's 600"
+    ],
+    [
+     "del",
+     "stores"
+    ],
+    [
+     "ins",
+     "shops"
+    ],
+    [
+     "eq",
+     "and stock piecemeal. Gordon Brothers - which bought the chain for just"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "that outcome by restricting Poundland's access to available cash needed to restock"
+    ],
+    [
+     "del",
+     "stores"
+    ],
+    [
+     "ins",
+     "shops,"
+    ],
+    [
+     "eq",
+     "and pay wages and rent, ahead of the crucial Christmas trading period. The investment"
+    ],
+    [
+     "del",
+     "firm"
+    ],
+    [
+     "ins",
+     "firm, which specialises in buying and restructuring distressed companies,"
+    ],
+    [
+     "eq",
+     "has denied the claims."
+    ],
+    [
+     "del",
+     "But"
+    ],
+    [
+     "ins",
+     "However,"
+    ],
+    [
+     "eq",
+     "pressure remains on Poundland's owners after a takeover bid was rejected. The"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "meaning Poundland bosses were unable to restock shelves across its 600 shops."
+    ],
+    [
+     "del",
+     "However, sources close"
+    ],
+    [
+     "ins",
+     "The BBC understands that Gordon Brothers agreed"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "ins",
+     "release a further Â£10m to Â£11m from Poundland's accounts, on top of Â£11m announced earlier, as"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "matter"
+    ],
+    [
+     "ins",
+     "firm seeks to find a new buyer. Gordon Brothers said it was in talks with three parties for a sale of the whole business, and it had received \"several offers from established high street retailers for significant parts of the business\". 'Do the right thing' Following the meeting between MPs on the business and trade committee and representatives of Gordon Brothers, chairman Liam Byrne"
+    ],
+    [
+     "eq",
+     "told the BBC"
+    ],
+    [
+     "ins",
+     "that he was \"deeply concerned\" and described the firm's behaviour as \"much like a wolf"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "Tuesday"
+    ],
+    [
+     "ins",
+     "Wall Street, on the British High Street\". \"They refused to prioritise protecting jobs and stores over and above their own financial returns,\" he said. \"It's clear"
+    ],
+    [
+     "eq",
+     "that"
+    ],
+    [
+     "ins",
+     "they've taken millions out of Poundland at"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "release"
+    ],
+    [
+     "ins",
+     "time when they themselves said the business was on a knife edge.\" Byrne said the committee's message to Gordon Brothers was to ensure Poundland had \"access to the funds that it needs to trade at what should be one"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "Â£10m by its owners, while \"small"
+    ],
+    [
+     "ins",
+     "the busiest periods"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "scale"
+    ],
+    [
+     "ins",
+     "year\". He urged Gordon Brothers to \"do what is right to save jobs and stores and do that now\". \"It's a good business, it's a much-loved business and, particularly in the middle"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "things\" could help at least postpone"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "chain's collapse while a longer term solution was explored."
+    ],
+    [
+     "ins",
+     "cost of living crisis, communities up and down the country rely on access to the kind of stores that it operates,\" Byrne added."
+    ],
+    [
+     "eq",
+     "Views on Poundland performance differ"
+    ],
+    [
+     "del",
+     "The 10-day moratorium to protect Poundland from its creditors expires on Thursday, but if there is a prospect of a solvent deal, the deadline could be extended."
+    ],
+    [
+     "eq",
+     "Views on the chain's performance differ between those running operations and the owners. Poundland boss"
+    ],
+    [
+     "del",
+     "Barry"
+    ],
+    [
+     "eq",
+     "Williams told staff last week that like-for-like sales, which exclude new store"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Halloween, but Williams said this was Â£1.5m ahead of budget. He added"
+    ],
+    [
+     "ins",
+     "that"
+    ],
+    [
+     "eq",
+     "the business made a profit of Â£18.1m in the year to September, which was a \"strong recovery\" from the previous year"
+    ],
+    [
+     "del",
+     "where"
+    ],
+    [
+     "ins",
+     "when"
+    ],
+    [
+     "eq",
+     "there were losses of Â£68m. However, Gordon Brothers has painted a different"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "chain remains \"challenged and vulnerable to any potential downturn in future trading\"."
+    ],
+    [
+     "ins",
+     "It has argued that the best way of securing jobs may be to split up the business and sell chunks of its 600 sites to other retailers."
+    ],
+    [
+     "eq",
+     "There has been interest from the likes of Poundstretcher, Tesco and B&M in picking up Poundland"
+    ],
+    [
+     "del",
+     "stores"
+    ],
+    [
+     "ins",
+     "shops,"
+    ],
+    [
+     "eq",
+     "which could mean continuing employment for workers"
+    ],
+    [
+     "del",
+     "in the event the chain is broken up and sold off in chunks."
+    ],
+    [
+     "ins",
+     "at those sites."
+    ],
+    [
+     "eq",
+     "The main issue is whether a piecemeal sale would protect more jobs than a buyer willing to keep Poundland as a national chain."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.0559,
+  "numbers_changed": [
+   "11",
+   "600"
+  ],
+  "market_figures_changed": [
+   "£11m"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 4,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "FACTUAL",
+ "score": 1.75,
+ "similarity": 0.961,
+ "adjudicated_by": "rules"
+}

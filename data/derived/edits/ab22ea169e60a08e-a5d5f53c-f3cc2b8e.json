@@ -1,0 +1,68 @@
+{
+ "id": "ab22ea169e60a08e-a5d5f53c-f3cc2b8e",
+ "url": "https://www.theguardian.com/football/2026/nov/11/danny-kelly-football-broadcaster-editor-q-magazine-nme-dies-aged-69",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-11-12T15:08:11Z",
+ "date": "2026-11-12",
+ "old_title": "Danny Kelly, football broadcaster and renowned editor, dies aged 69",
+ "new_title": "Danny Kelly, football broadcaster and renowned editor, dies aged 69",
+ "old_text": "The journalist and broadcaster Danny Kelly, who helped define coverage of music and football in the UK for a generation, has died at the age of 69.\nKelly edited the NME and Q Magazine and launched the Football 365 website before going on to be a presenter and pundit on the BBC and TalkSport. He had been receiving treatment for oesophageal cancer.\nTributes were led by Kelly's longstanding broadcast partner Danny Baker. \"My great friend, supreme broadcaster and funniest man I ever knew, Danny Kelly, died yesterday afternoon,\" Baker wrote on social media, the pair having worked together on any number of radio, TV shows and podcasts. \"I cannot believe I will never hear his voice again.\"\nTottenham Hotspur paid emotional tribute to Kelly, a lifelong Spurs fan. A statement said: \"The entire Tottenham family mourns the loss of one of our own, broadcasting legend Danny Kelly. Our thoughts and love are with his family and friends at this incredibly sad time.\"\nTalkSport, for which Kelly worked as a presenter for nearly two decades, said it was \"heartbroken\" by the news. \"A cherished part of TalkSport for so many years, Danny brought extraordinary wit, warmth and knowledge to our airwaves,\" the station said. \"His passion for football, music and life was infectious, and his kindness touched everyone around him.\"\nAnother broadcaster, the former Sky Sports host Richard Keys, said Kelly \"was all of the things - and more - being said about him - 'warm, witty and knowledgable'\".\nKelly was born in north London in 1956 and first made his name writing about music. He began contributing to the NME in his 20s and went on to edit the agenda-setting weekly newspaper at the end of the 1980s. From there he took charge of the top-selling music monthly Q magazine, where he was named British magazine editor of the year.\nIn the second half of the 1990s, Kelly threw himself into the nascent world of digital media and launched Football365, which became one of the leading online voices on the sport. In the noughties, he spotted another development - podcasts - and launched the Game, a weekly football podcast, for the Times.\nOver the past 15 years Kelly became best known as a radio presenter and podcast host, including presenting the Tottenham-focused show View from The Lane. Paying tribute to \"our host, our leader\" on its X account, the View from the Lane said: \"We all loved him as much as he loved Spurs.\"",
+ "new_text": "The journalist and broadcaster Danny Kelly, who helped define coverage of music and football in the UK for a generation, has died at the age of 69.\nKelly edited the NME and Q magazine, and launched the Football 365 website before going on to be a presenter and pundit on the BBC and TalkSport. He had been receiving treatment for oesophageal cancer.\nTributes were led by Kelly's longstanding broadcast partner Danny Baker. \"My great friend, supreme broadcaster and funniest man I ever knew, Danny Kelly, died yesterday afternoon,\" Baker wrote on social media, the pair having worked together on any number of radio, TV shows and podcasts. \"I cannot believe I will never hear his voice again.\"\nTottenham Hotspur paid emotional tribute to Kelly, a lifelong Spurs fan. A statement said: \"The entire Tottenham family mourns the loss of one of our own, broadcasting legend Danny Kelly. Our thoughts and love are with his family and friends at this incredibly sad time.\"\nTalkSport, for which Kelly worked as a presenter for nearly two decades, said it was \"heartbroken\" by the news. \"A cherished part of TalkSport for so many years, Danny brought extraordinary wit, warmth and knowledge to our airwaves,\" the station said. \"His passion for football, music and life was infectious, and his kindness touched everyone around him.\"\nAnother broadcaster, the former Sky Sports host Richard Keys, said Kelly \"was all of the things - and more - being said about him - 'warm, witty and knowledgable'\".\nKelly was born in north London in 1956 and first made his name writing about music. He began contributing to the NME in his 20s and went on to edit the agenda-setting weekly newspaper at the end of the 1980s. From there he took charge of the top-selling music monthly Q magazine, where he was named British magazine editor of the year.\nManic Street Preachers paid tribute to \"a brilliant broadcaster-writer-ideas factory. Danny was editor of the NME when we first started getting press, a wonderful man, his musical knowledge was vast and deep, his radio voice has been part of our lives for so long ... We will all miss him.\"\nIn the second half of the 1990s, Kelly threw himself into the nascent world of digital media and launched Football365, which became one of the leading online voices on the sport. In the noughties, he spotted another development - podcasts - and launched the Game, a weekly football podcast, for the Times.\nOver the past 15 years Kelly became best known as a radio presenter and podcast host, including presenting the Tottenham-focused show View from The Lane. Paying tribute to \"our host, our leader\" on its X account, the View from the Lane said: \"We all loved him as much as he loved Spurs.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "died at the age of 69. Kelly edited the NME and Q"
+    ],
+    [
+     "del",
+     "Magazine"
+    ],
+    [
+     "ins",
+     "magazine,"
+    ],
+    [
+     "eq",
+     "and launched the Football 365 website before going on to be a"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Q magazine, where he was named British magazine editor of the year."
+    ],
+    [
+     "ins",
+     "Manic Street Preachers paid tribute to \"a brilliant broadcaster-writer-ideas factory. Danny was editor of the NME when we first started getting press, a wonderful man, his musical knowledge was vast and deep, his radio voice has been part of our lives for so long ... We will all miss him.\""
+    ],
+    [
+     "eq",
+     "In the second half of the 1990s, Kelly threw himself into the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1256,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 0.999,
+ "adjudicated_by": "rules"
+}
