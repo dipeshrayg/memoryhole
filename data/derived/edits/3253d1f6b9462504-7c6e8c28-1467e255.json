@@ -1,0 +1,52 @@
+{
+ "id": "3253d1f6b9462504-7c6e8c28-1467e255",
+ "url": "https://www.abc.net.au/news/2026-11-12/floreat-shooting-inquest-hears-gunman-recorded-himself/107380368",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-13T14:23:26Z",
+ "date": "2026-11-13",
+ "old_title": "Floreat gunman inadvertently recorded himself during shooting, inquest hears",
+ "new_title": "Police say Floreat gunman manipulated officers before shooting",
+ "old_text": "In short:\nThe coronial inquest into the death of a Perth mother and daughter in their home has heard how the gunman inadvertently recorded himself firing his weapon.\nThe inquest also heard how gunman Mark Bonbara was \"manipulative\" to police when they attended his house weeks before the shooting, and they did not check his gun safe.\nPolice say their policy has changed since the Floreat murders.\nA gunman who murdered a mother and daughter in their Perth home inadvertently recorded himself firing the fatal shots on one of the victims' phones, a coronial inquest has heard.\nWARNING: This story contains details that may distress some readers.\nThe shocking detail emerged at the inquest into the murders of Jennifer Petelcyzc and her 18-year-old daughter Gretl, who were killed by Mark Bombara before he took his own life.\nBombara forced his way into their Floreat home while searching for his estranged wife.\nSenior Sergeant Nathan Carbone from the WA Police Homicide Squad investigated the deaths.\nHe told the court Bombara shot Jennifer Petelcyzc, then Gretyl, after which he grabbed Jennifer's phone and \"inadvertently\" recorded himself firing two more shots.\nIt is not known if it is an audio or video recording.\nJennifer Petelcyzc and Rowena Bombara were best friends, and Bombara mistakenly believed his estranged wife was staying at the Floreat home.\nGunman 'manipulative'\nThe court heard Rowena Bombara and her daughter Ariel had moved out of the family home in April 2024, just weeks before the murders, and had sought police assistance to move their belongings from the house.\nWhen police arrived at the house, Bombara's son opened the door and appeared nervous, saying his father had \"all the [gun] licences you can possibly imagine\".\n\"I don't know if there are any firearms in [the safe] ... there may be firearms in other locations,\" Issac Bombara is heard to say on the body-worn camera footage.\nConstable Shaun King called for a second police car to attend and told the arriving officers to make sure they had \"their plates in\", referring to their protective vests.\nBut when he entered the house and met Bombara, he was the \"opposite\" of what he was expecting.\n\"I hate to say it, but he seemed like a nice man,\" Constable King told the court.\nBombara was accommodating, offering refreshments and allowing the officer to inspect his gun safe.\nConstable King turned him down as he \"did not want to escalate the situation\" but admitted in hindsight he \"should have\" looked at the safe.\nThe coroner's court heard the conversation was an attempt by Bombara to \"groom\" the junior officers into thinking he was not a threat, despite his access to firearms.\n\"I believe it was manipulative ... calculated ... in an effort to place seeds of doubt in the attending officers' minds,\" said Superintendent Andrew Wilson, who reviewed the body-worn camera footage.\n\"In my opinion he was quite determined to find out what would happen to his guns ... I believe he took the opportunity to try and manage that conversation.\"\nSuperintendent Wilson agreed this was common behaviour in a family violence situation.\nHe said police policy had changed since the Floreat murders.\nFirearms are seized, and domestic violence perpetrators are removed from the home before family enter to retrieve their belongings.",
+ "new_text": "In short:\nThe coronial inquest into the death of a Perth mother and daughter in their home has heard how the gunman inadvertently recorded himself firing his weapon.\nThe inquest also heard how gunman Mark Bombara was \"manipulative\" to police when they attended his house weeks before the shooting, and they did not check his gun safe.\nPolice say their policy has changed since the Floreat murders.\nA gunman who murdered a mother and daughter in their Perth home inadvertently recorded himself firing the fatal shots on one of the victims' phones, a coronial inquest has heard.\nWARNING: This story contains details that may distress some readers.\nThe shocking detail emerged at the inquest into the murders of Jennifer Petelcyzc and her 18-year-old daughter Gretl, who were killed by Mark Bombara before he took his own life.\nBombara forced his way into their Floreat home while searching for his estranged wife.\nSenior Sergeant Nathan Carbone from the WA Police Homicide Squad investigated the deaths.\nHe told the court Bombara shot Jennifer Petelcyzc, then Gretyl, after which he grabbed Jennifer's phone and \"inadvertently\" recorded himself firing two more shots.\nIt is not known if it is an audio or video recording.\nJennifer Petelcyzc and Rowena Bombara were best friends, and Bombara mistakenly believed his estranged wife was staying at the Floreat home.\nGunman 'manipulative'\nThe court heard Rowena Bombara and her daughter Ariel had moved out of the family home in April 2024, just weeks before the murders, and had sought police assistance to move their belongings from the house.\nWhen police arrived at the house, Bombara's son opened the door and appeared nervous, saying his father had \"all the [gun] licences you can possibly imagine\".\n\"I don't know if there are any firearms in [the safe] ... there may be firearms in other locations,\" Issac Bombara is heard to say on the body-worn camera footage.\nConstable Shaun King called for a second police car to attend and told the arriving officers to make sure they had \"their plates in\", referring to their protective vests.\nBut when he entered the house and met Bombara, he was the \"opposite\" of what he was expecting.\n\"I hate to say it, but he seemed like a nice man,\" Constable King told the court.\nBombara was accommodating, offering refreshments and allowing the officer to inspect his gun safe.\nConstable King turned him down as he \"did not want to escalate the situation\" but admitted in hindsight he \"should have\" looked at the safe.\nThe coroner's court heard the conversation was an attempt by Bombara to \"groom\" the junior officers into thinking he was not a threat, despite his access to firearms.\n\"I believe it was manipulative ... calculated ... in an effort to place seeds of doubt in the attending officers' minds,\" said Superintendent Andrew Wilson, who reviewed the body-worn camera footage.\n\"In my opinion he was quite determined to find out what would happen to his guns ... I believe he took the opportunity to try and manage that conversation.\"\nSuperintendent Wilson agreed this was common behaviour in a family violence situation.\nHe said police policy had changed since the Floreat murders.\nFirearms are seized, and domestic violence perpetrators are removed from the home before family enter to retrieve their belongings.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "recorded himself firing his weapon. The inquest also heard how gunman Mark"
+    ],
+    [
+     "del",
+     "Bonbara"
+    ],
+    [
+     "ins",
+     "Bombara"
+    ],
+    [
+     "eq",
+     "was \"manipulative\" to police when they attended his house weeks before the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0037,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9784,
+ "adjudicated_by": "rules"
+}

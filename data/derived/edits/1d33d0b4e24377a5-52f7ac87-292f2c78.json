@@ -1,0 +1,72 @@
+{
+ "id": "1d33d0b4e24377a5-52f7ac87-292f2c78",
+ "url": "https://www.theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-11-13T14:29:50Z",
+ "date": "2026-11-13",
+ "old_title": "EU sues IBM and two European firms over troubled entry/exit border system",
+ "new_title": "EU sues IBM and two European firms over troubled entry/exit border system",
+ "old_text": "The EU has filed a lawsuit against IBM and two other companies involved in its troubled border-management system, an internal document has revealed.\nThe bloc's IT agency, EU-Lisa, filed a case last year against IBM, the French IT company Atos and Italian defence contractor Leonardo, the three members of a consortium to implement and maintain the EU's entry/exit system, which was launched in October 2025.\nThe rollout has faced significant difficulties: some passengers at peak times have missed their flights as a result of delays blamed on the new technology and a lack of staff at the border.\nThe agency's decision to sue the companies was revealed in its latest annual accounts, which stated that \"following the various delays in the delivery of the EES by a contracting consortium the agency activated the available contractual and legal remedies to protect its financial interest\".\nSince its launch the system has been beset by problems. Airports have complained of malfunctioning EES kiosks to regular outages of the system, which have led to waiting times of three hours at peak periods.\nEU-Lisa said a claim had been submitted on 22 December 2025 to a court in Estonia, where it has its headquarters.\nThe agency declined to comment on the details of the case, but said the proceedings concerned \"the system's development phase and have no impact on its current operation\" adding that \"EES is fully operational\".\nThe lawsuit was first reported by the Financial Times.\nThe European Commission said it was not a party to the case, while noting it concerned \"delays in the delivery of the EES at the time of system development\" and was \"not related to the operation of the EES\".\nThe system increased security checks on passengers travelling into the EU from outside its border-free travel zone. Travellers' faces have to be photographed and fingerprints scanned before they are allowed into the Schengen area, which comprises 25 of the 27 EU member states as well as Iceland, Liechtenstein, Norway and Switzerland.\nThe checks apply to people who are not citizens of one of the 29 Schengen countries, Ireland or Cyprus.\nThe system is managed by EU-Lisa, the bloc's agency for large-scale IT systems in the domain of justice and security.\nThe Guardian has contacted IBM and Leonardo. Atos declined to comment.",
+ "new_text": "The EU has filed a lawsuit against IBM and two other companies involved in its troubled border-management system, an internal document has revealed.\nThe bloc's IT agency, EU-Lisa, filed a case last year against IBM, the French IT company Atos and Italian defence contractor Leonardo, the three members of a consortium to implement and maintain the EU's entry/exit system, which was launched in October 2025.\nThe rollout has faced significant difficulties: some passengers at peak times have missed their flights as a result of delays blamed on the new technology and a lack of staff at the border.\nThe agency's decision to sue the companies was revealed in its latest annual accounts, which stated that \"following the various delays in the delivery of the EES by a contracting consortium the agency activated the available contractual and legal remedies to protect its financial interest\".\nSince its launch the system has been beset by problems. Airports have complained of malfunctioning EES kiosks to regular outages of the system, which have led to waiting times of three hours at peak periods.\nEU-Lisa said a claim had been submitted on 22 December 2025 to a court in Estonia, where it has its headquarters.\nThe agency declined to comment on the details of the case, but said the proceedings concerned \"the system's development phase and have no impact on its current operation\" adding that \"EES is fully operational\".\nThe lawsuit was first reported by the Financial Times.\nThe European Commission said it was not a party to the case, while noting it concerned \"delays in the delivery of the EES at the time of system development\" and was \"not related to the operation of the EES\".\nThe system increased security checks on passengers travelling into the EU from outside its border-free travel zone. Travellers' faces have to be photographed and fingerprints scanned before they are allowed into the Schengen area, which comprises 25 of the 27 EU member states as well as Iceland, Liechtenstein, Norway and Switzerland.\nPeople who are citizens of one of the 29 Schengen countries, Ireland or Cyprus, or those with permanent residence rights are exempt from the increased checks.\nThe system is managed by EU-Lisa, the bloc's agency for large-scale IT systems in the domain of justice and security.\nThe Guardian has contacted IBM and Leonardo. Atos declined to comment.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "27 EU member states as well as Iceland, Liechtenstein, Norway and Switzerland."
+    ],
+    [
+     "del",
+     "The checks apply to people"
+    ],
+    [
+     "ins",
+     "People"
+    ],
+    [
+     "eq",
+     "who are"
+    ],
+    [
+     "del",
+     "not"
+    ],
+    [
+     "eq",
+     "citizens of one of the 29 Schengen countries, Ireland or"
+    ],
+    [
+     "del",
+     "Cyprus."
+    ],
+    [
+     "ins",
+     "Cyprus, or those with permanent residence rights are exempt from the increased checks."
+    ],
+    [
+     "eq",
+     "The system is managed by EU-Lisa, the bloc's agency for large-scale IT"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.055,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

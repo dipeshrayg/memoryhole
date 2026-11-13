@@ -1,0 +1,64 @@
+{
+ "id": "72c602c9d8d9ccef-ad8a57a4-61c07e68",
+ "url": "https://www.france24.com/en/video/20261112-icrc-we-are-currently-classifying-the-highest-number-of-armed-conflicts-since-the-second-world-war",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-13T14:22:22Z",
+ "date": "2026-11-13",
+ "old_title": "ICRC: We are currently classifying the highest number of armed conflicts since the Second World War",
+ "new_title": "ICRC 'currently classifying the highest number of armed conflicts since the Second World War'",
+ "old_text": "Video contentVideo\nICRC: We are currently classifying the highest number of armed conflicts since the Second World War\nIssued on: Modified:\nShare\nFrançois Picard is pleased to welcome the President of the International Committee of the Red Cross, Mirjana Spoljaric. \"You may consider war a human condition,\" argues Spoljaric. \"But brutality, barbarity, is not a human condition.\" Her warning recalls the fundamental premise of the 1949 Geneva Conventions: even in war, there can be no lawless space, and certain red lines must never be crossed. Spoljaric warns that the international rules established to protect civilians are being progressively weakened amid proliferating armed conflicts, technological transformations and the retreat of diplomacy.",
+ "new_text": "Video contentVideo\nICRC 'currently classifying the highest number of armed conflicts since the Second World War'\nIssued on: Modified:\nShare\nFrançois Picard is pleased to welcome the President of the International Committee of the Red Cross, Mirjana Spoljaric. \"You may consider war a human condition,\" argues Spoljaric. \"But brutality, barbarity, is not a human condition.\" Her warning recalls the fundamental premise of the 1949 Geneva Conventions: even in war, there can be no lawless space, and certain red lines must never be crossed. Spoljaric warns that the international rules established to protect civilians are being progressively weakened amid proliferating armed conflicts, technological transformations and the retreat of diplomacy.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Video contentVideo"
+    ],
+    [
+     "del",
+     "ICRC: We are currently"
+    ],
+    [
+     "ins",
+     "ICRC 'currently"
+    ],
+    [
+     "eq",
+     "classifying the highest number of armed conflicts since the Second World"
+    ],
+    [
+     "del",
+     "War"
+    ],
+    [
+     "ins",
+     "War'"
+    ],
+    [
+     "eq",
+     "Issued on: Modified: Share François Picard is pleased to welcome the President"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0727,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9963,
+ "adjudicated_by": "rules"
+}

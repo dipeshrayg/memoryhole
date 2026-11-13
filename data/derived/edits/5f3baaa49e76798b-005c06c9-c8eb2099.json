@@ -1,0 +1,204 @@
+{
+ "id": "5f3baaa49e76798b-005c06c9-c8eb2099",
+ "url": "https://www.dw.com/en/nvidia-ceo-jensen-huang-resigns-as-scandal-mounts-over-alleged-affair-with-suspected-chinese-spy/a-79931658?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-13T14:21:07Z",
+ "date": "2026-11-13",
+ "old_title": "Jensen Huang resigns as Nvidia CEO",
+ "new_title": "Jensen Huang resigns as Nvidia CEO",
+ "old_text": "Jensen Huang has resigned from his role as the head of the AI chipmaker Nvidia over his reported affair with a suspected Chinese spy, the company announced on Thursday.\nColette Kress, the company's current executive vice president and chief financial officer, has been named as interim CEO.\n\"Nvidia's strength has always come from its people, and together with our leadership team, I am committed to building on the extraordinary foundation Jensen created over the last 33 years,\" Kress said in a statement.\nShares in Nvidia, one of the world's biggest companies, plummeted 13% at the opening of trading on Thursday. The latest declines mean Nvidia has now lost about $800 billion (€721.4 bln) since the reports came to light.\nWhy did Jensen Huang resign?\nHuang resigned after facing growing calls to step down over his reported affair with an alleged Chinese spy.\nNvidia had been investigating whether Huang was targeted by a foreign intelligence effort after reports of an affair with a woman US intelligence reportedly identified as a Chinese intelligence asset.\nIn an email to Nvidia staff on Sunday, Huang said: \"I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.\"\nThe New York Times reported Wednesday that Huang also had an affair with an Nvidia executive who worked for him.\nWho is Jensen Huang?\nHuang, 63, co-founded Nvidia, which he led for more than three decades, turning it from a maker of graphics cards used in PC gaming into the dominant supplier of chips for artificial intelligence.\nHuang, who holds a stake of about 3.61% - making him Nvidia's fourth-largest investor - will also leave the board.",
+ "new_text": "Jensen Huang has resigned from his role as the head of the AI chipmaker Nvidia over his reported affair with Alice Huang, a suspected Chinese spy, the company announced on Thursday.\nColette Kress, the company's current executive vice president and chief financial officer, has been named as interim CEO.\n\"Nvidia's strength has always come from its people, and together with our leadership team, I am committed to building on the extraordinary foundation Jensen created over the last 33 years,\" Kress said in a statement.\nShares in Nvidia, one of the world's biggest companies, plummeted 13% at the start of trading on Thursday. The latest declines mean Nvidia has now lost about $800 billion (€721.4 bln) since the reports came to light.\nThe stock had already fallen around 25% from its all-time high in early October.\nWhy did Jensen Huang resign?\nHuang resigned after facing growing calls to step down over his reported affair with Alice Huang, whom US media reports have said is a suspected Chinese intelligence asset. China has rejected the allegations.\nJensen Huang's resignation comes as Nvidia was investigating the reports that he had been targeted by a \"foreign intelligence effort.\"\nIn an email to Nvidia staff on Sunday, Huang said: \"I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.\"\nThe New York Times reported Wednesday that Huang also had an affair with an Nvidia executive who worked for him.\nWhat has been the political reaction to Huang's resignation?\nSpeaker of the US House of Representatives, Republican Mike Johnson, said Huang \"did the right thing\" by resigning.\n\"It's a big and shocking development. You know, that's a very important company not only in the US economy but for national security purposes,\" Johnson said.\nHe also said there was growing consensus in Congress to limit exports of semiconductor chips to China, \"especially in the light of recent developments.\"\nUS President Donald Trump, who publicly defended Huang several times this week, calling him an \"honorable guy\" and a \"fine person,\" called for Apple's former CEO Tim Cook to replace Huang at Nvidia.\n\"There is only one man to take his place,\" Trump said in a post on his Truth Social platform.\n\"A legend replaces a legend!\" he added.\nWho is Jensen Huang?\nHuang, 63, co-founded Nvidia, which he led for more than three decades, turning it from a maker of graphics cards used in PC gaming into the dominant supplier of chips for artificial intelligence.\nUnder his leadership, Nvidia grew into one of the world's biggest - and most strategically important - companies.\nNvidia's chips are critical for training and operating advanced AI systems, making it crucial to governments, the military and the tech industry.\nHuang, who holds about a 3.61% stake - making him Nvidia's fourth-largest investor - will also leave the board.\nHe was born in Taipei, Taiwan, before moving to the US as a child, where he was mostly raised in Kentucky and Oregon.\nHuang, often seen in public wearing a black leather jacket, became a leading public figure in the global AI boom.\nSuspected Chinese asset investigated in Singapore\nSeparately, authorities in Singapore confirmed that Alice Huang, a former executive at Singapore-based Megaspeed International, had been investigated over potential offenses in the city-state.\nThose potential offenses included buying servers that were exported via Singapore to Malaysia without entering the Singapore market.\nSingapore's Ministry of Home Affairs said that while there was insufficient evidence to prove an offense had been committed, Huang was \"issued a stern warning and barred from re-entering the country.\"\nSingapore would \"not allow companies or individuals to misuse Singapore's business environment to engage in fraud or dishonest practices,\" the ministry added.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the head of the AI chipmaker Nvidia over his reported affair with"
+    ],
+    [
+     "ins",
+     "Alice Huang,"
+    ],
+    [
+     "eq",
+     "a suspected Chinese spy, the company announced on Thursday. Colette Kress, the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "in Nvidia, one of the world's biggest companies, plummeted 13% at the"
+    ],
+    [
+     "del",
+     "opening"
+    ],
+    [
+     "ins",
+     "start"
+    ],
+    [
+     "eq",
+     "of trading on Thursday. The latest declines mean Nvidia has now lost about $800 billion (€721.4 bln) since the reports came to light."
+    ],
+    [
+     "ins",
+     "The stock had already fallen around 25% from its all-time high in early October."
+    ],
+    [
+     "eq",
+     "Why did Jensen Huang resign? Huang resigned after facing growing calls to step down over his reported affair with"
+    ],
+    [
+     "del",
+     "an alleged"
+    ],
+    [
+     "ins",
+     "Alice Huang, whom US media reports have said is a suspected"
+    ],
+    [
+     "eq",
+     "Chinese"
+    ],
+    [
+     "del",
+     "spy."
+    ],
+    [
+     "ins",
+     "intelligence asset. China has rejected the allegations. Jensen Huang's resignation comes as"
+    ],
+    [
+     "eq",
+     "Nvidia"
+    ],
+    [
+     "ins",
+     "was investigating the reports that he"
+    ],
+    [
+     "eq",
+     "had been"
+    ],
+    [
+     "del",
+     "investigating whether Huang was"
+    ],
+    [
+     "eq",
+     "targeted by a"
+    ],
+    [
+     "del",
+     "foreign"
+    ],
+    [
+     "ins",
+     "\"foreign"
+    ],
+    [
+     "eq",
+     "intelligence"
+    ],
+    [
+     "del",
+     "effort after reports of an affair with a woman US intelligence reportedly identified as a Chinese intelligence asset."
+    ],
+    [
+     "ins",
+     "effort.\""
+    ],
+    [
+     "eq",
+     "In an email to Nvidia staff on Sunday, Huang said: \"I was"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "also had an affair with an Nvidia executive who worked for him."
+    ],
+    [
+     "ins",
+     "What has been the political reaction to Huang's resignation? Speaker of the US House of Representatives, Republican Mike Johnson, said Huang \"did the right thing\" by resigning. \"It's a big and shocking development. You know, that's a very important company not only in the US economy but for national security purposes,\" Johnson said. He also said there was growing consensus in Congress to limit exports of semiconductor chips to China, \"especially in the light of recent developments.\" US President Donald Trump, who publicly defended Huang several times this week, calling him an \"honorable guy\" and a \"fine person,\" called for Apple's former CEO Tim Cook to replace Huang at Nvidia. \"There is only one man to take his place,\" Trump said in a post on his Truth Social platform. \"A legend replaces a legend!\" he added."
+    ],
+    [
+     "eq",
+     "Who is Jensen Huang? Huang, 63, co-founded Nvidia, which he led for"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "in PC gaming into the dominant supplier of chips for artificial intelligence."
+    ],
+    [
+     "ins",
+     "Under his leadership, Nvidia grew into one of the world's biggest - and most strategically important - companies. Nvidia's chips are critical for training and operating advanced AI systems, making it crucial to governments, the military and the tech industry."
+    ],
+    [
+     "eq",
+     "Huang, who holds"
+    ],
+    [
+     "ins",
+     "about"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "ins",
+     "3.61%"
+    ],
+    [
+     "eq",
+     "stake"
+    ],
+    [
+     "del",
+     "of about 3.61%"
+    ],
+    [
+     "eq",
+     "- making him Nvidia's fourth-largest investor - will also leave the board."
+    ],
+    [
+     "ins",
+     "He was born in Taipei, Taiwan, before moving to the US as a child, where he was mostly raised in Kentucky and Oregon. Huang, often seen in public wearing a black leather jacket, became a leading public figure in the global AI boom. Suspected Chinese asset investigated in Singapore Separately, authorities in Singapore confirmed that Alice Huang, a former executive at Singapore-based Megaspeed International, had been investigated over potential offenses in the city-state. Those potential offenses included buying servers that were exported via Singapore to Malaysia without entering the Singapore market. Singapore's Ministry of Home Affairs said that while there was insufficient evidence to prove an offense had been committed, Huang was \"issued a stern warning and barred from re-entering the country.\" Singapore would \"not allow companies or individuals to misuse Singapore's business environment to engage in fraud or dishonest practices,\" the ministry added."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.4085,
+  "numbers_changed": [
+   "25"
+  ],
+  "market_figures_changed": [
+   "25%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 3,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.9,
+ "similarity": 0.9781,
+ "adjudicated_by": "rules"
+}

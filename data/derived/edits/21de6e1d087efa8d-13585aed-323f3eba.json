@@ -1,0 +1,276 @@
+{
+ "id": "21de6e1d087efa8d-13585aed-323f3eba",
+ "url": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-13T14:20:23Z",
+ "date": "2026-11-13",
+ "old_title": "At least five injured in Washington, DC, shooting near Logan Circle",
+ "new_title": "At least five people shot, one killed, in central Washington, DC",
+ "old_text": "Police have said at least five people have been shot in a busy thoroughfare in the centre of Washington, DC.\nThe shooting occurred on Thursday near Logan Circle, at the intersection of 15th Street NW and P Street, police said at 8:23am local time (13:28 GMT). Police said in an update that the attacker had barricaded himself in the area.\nThe attack took place about a mile from the United States' White House during the rush hour commute.\nSchools near the scene were placed on lockdown. Police issued a shelter-in-place order as law enforcement descended on the block.\n\"Go inside the nearest building, stay away from windows, and remain indoors until further notice,\" it said.\nThe condition of the victims was not immediately available.\nReporting from the scene, Al Jazeera's John Holman described a \"river of police cars\" and both local and federal law enforcement donning tactical gear.\n\"That's not just from the police force, but also from FBI and Secret Service heading towards there,\" he said.\nTrump's focus on crime\nThe attack comes as the administration of US President Donald Trump has made crime in the US capital a key issue during his second term.\nThat has included deploying the US National Guard across the city, a move Trump took after a Department of Government Efficiency (DOGE) official said he was assaulted in the early morning of August 2025.\nThe US president declared a crime emergency, which also included federalising control of the federal district's local police force.\nSeveral thousand National Guard troops have remained in the district, with Trump regularly claiming their presence has brought down crime. Local officials have said the National Guard has not been used in local law enforcement.\nThe White House did not immediately respond to Thursday's attack.\nIn November of last year, a National Guard member was killed by a gunman while on duty near 17th and I Streets NW. A second National Guard member was wounded.\nIn October, another National Guard member was shot during a gunfight in southeast Washington, DC.",
+ "new_text": "Police have apprehended a gunman who allegedly shot five people, killing one, in a busy thoroughfare in the centre of Washington, DC on Thursday morning.\nInterim Police Chief Jeffery Carroll said the suspect, a white male, then barricaded himself inside a nearby apartment building. Police were negotiating with the suspect on the phone when they heard gunshots. Upon entering the room, they found the man had shot himself, Carrol said.\nThe shooting occurred on Thursday near Logan Circle, at the intersection of 15th Street NW and P Street, police said, at 8:23am local time (13:28 GMT).\nLocal and federal law enforcement, including the Federal Bureau of Investigation (FBI) and the Secret Service, cordoned off the area and worked to apprehend the suspected gunman, said Al Jazeera's John Holman, reporting from the scene.\nA witness told The Associated Press news agency he saw one person shot in the head inside a gym at the scene.\nJames Spellman was at the gym when he heard shots being fired. He said there were about 50 people there at the time.\n\"Within seconds there was a man who fell to the ground, and a pool of blood came out,\" he said. \"One gym member rushed to help him. He was instantly dead. He had been shot in the neck.\"\nSpellman said he and other gym members ran out of the gym and he heard more gunfire in the area of 15th Street. He said he heard about two shots fired in the gym and about five or six fired outside.\nThe attack took place about 1.6km (one mile) from the White House during the rush hour commute.\nSchools near the scene were placed on lockdown. Police issued a shelter-in-place order as law enforcement descended on the block.\n\"Go inside the nearest building, stay away from windows, and remain indoors until further notice,\" police instructed the public.\nTrump's focus on crime\nThe attack comes as the administration of United States President Donald Trump has made crime in the US capital a key issue during his second term.\nThat has included deploying the US National Guard across the city, a move Trump took after a former Department of Government Efficiency official said he was assaulted in the early hours of a morning in August 2025.\nThe US president declared a crime emergency, which also included federalising control of the federal district's local police force.\nSeveral thousand National Guard troops have remained in the district, with Trump regularly claiming their presence has brought down crime. Local officials have said the National Guard has not been used in local law enforcement.\nThe presence of the soldiers has at times caused friction with local officials, including Washington, DC mayor Muriel Bowser.\nSpeaking at a press conference alongside the police chief after the shooting, Bowser praised local police for their quick response to the incident, and dismissed the suggestion law enforcement had treated it with unusual importance.\n\"I praise [DC police] for bringing down crime in this city, and I praise our prosecutors,\" Bowser said. \"It's not typical to have a active shooter that guns down people in the city, so all our law enforcement responded.\"\nThe White House did not immediately comment on Thursday's attack.\nIn November of last year, a National Guard member was killed by a gunman while on duty near 17th and I Streets NW. A second National Guard member was wounded.\nIn October, another National Guard member was shot during a gunfight in southeast Washington, DC.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Police have"
+    ],
+    [
+     "del",
+     "said at least"
+    ],
+    [
+     "ins",
+     "apprehended a gunman who allegedly shot"
+    ],
+    [
+     "eq",
+     "five"
+    ],
+    [
+     "del",
+     "people have been shot"
+    ],
+    [
+     "ins",
+     "people, killing one,"
+    ],
+    [
+     "eq",
+     "in a busy thoroughfare in the centre of Washington,"
+    ],
+    [
+     "del",
+     "DC."
+    ],
+    [
+     "ins",
+     "DC on Thursday morning. Interim Police Chief Jeffery Carroll said the suspect, a white male, then barricaded himself inside a nearby apartment building. Police were negotiating with the suspect on the phone when they heard gunshots. Upon entering the room, they found the man had shot himself, Carrol said."
+    ],
+    [
+     "eq",
+     "The shooting occurred on Thursday near Logan Circle, at the intersection of 15th Street NW and P Street, police"
+    ],
+    [
+     "del",
+     "said"
+    ],
+    [
+     "ins",
+     "said,"
+    ],
+    [
+     "eq",
+     "at 8:23am local time (13:28 GMT)."
+    ],
+    [
+     "del",
+     "Police"
+    ],
+    [
+     "ins",
+     "Local and federal law enforcement, including the Federal Bureau of Investigation (FBI) and the Secret Service, cordoned off the area and worked to apprehend the suspected gunman,"
+    ],
+    [
+     "eq",
+     "said"
+    ],
+    [
+     "del",
+     "in an update that"
+    ],
+    [
+     "ins",
+     "Al Jazeera's John Holman, reporting from"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "attacker had barricaded himself"
+    ],
+    [
+     "ins",
+     "scene. A witness told The Associated Press news agency he saw one person shot"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "area."
+    ],
+    [
+     "ins",
+     "head inside a gym at the scene. James Spellman was at the gym when he heard shots being fired. He said there were about 50 people there at the time. \"Within seconds there was a man who fell to the ground, and a pool of blood came out,\" he said. \"One gym member rushed to help him. He was instantly dead. He had been shot in the neck.\" Spellman said he and other gym members ran out of the gym and he heard more gunfire in the area of 15th Street. He said he heard about two shots fired in the gym and about five or six fired outside."
+    ],
+    [
+     "eq",
+     "The attack took place about"
+    ],
+    [
+     "del",
+     "a mile"
+    ],
+    [
+     "ins",
+     "1.6km (one mile)"
+    ],
+    [
+     "eq",
+     "from the"
+    ],
+    [
+     "del",
+     "United States'"
+    ],
+    [
+     "eq",
+     "White House during the rush hour commute. Schools near the scene were"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "nearest building, stay away from windows, and remain indoors until further notice,\""
+    ],
+    [
+     "del",
+     "it said. The condition of"
+    ],
+    [
+     "ins",
+     "police instructed"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "victims was not immediately available. Reporting from the scene, Al Jazeera's John Holman described a \"river of police cars\" and both local and federal law enforcement donning tactical gear. \"That's not just from the police force, but also from FBI and Secret Service heading towards there,\" he said."
+    ],
+    [
+     "ins",
+     "public."
+    ],
+    [
+     "eq",
+     "Trump's focus on crime The attack comes as the administration of"
+    ],
+    [
+     "del",
+     "US"
+    ],
+    [
+     "ins",
+     "United States"
+    ],
+    [
+     "eq",
+     "President Donald Trump has made crime in the US capital a key"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "US National Guard across the city, a move Trump took after a"
+    ],
+    [
+     "ins",
+     "former"
+    ],
+    [
+     "eq",
+     "Department of Government Efficiency"
+    ],
+    [
+     "del",
+     "(DOGE)"
+    ],
+    [
+     "eq",
+     "official said he was assaulted in the early"
+    ],
+    [
+     "ins",
+     "hours of a"
+    ],
+    [
+     "eq",
+     "morning"
+    ],
+    [
+     "del",
+     "of"
+    ],
+    [
+     "ins",
+     "in"
+    ],
+    [
+     "eq",
+     "August 2025. The US president declared a crime emergency, which also included"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the National Guard has not been used in local law enforcement. The"
+    ],
+    [
+     "ins",
+     "presence of the soldiers has at times caused friction with local officials, including Washington, DC mayor Muriel Bowser. Speaking at a press conference alongside the police chief after the shooting, Bowser praised local police for their quick response to the incident, and dismissed the suggestion law enforcement had treated it with unusual importance. \"I praise [DC police] for bringing down crime in this city, and I praise our prosecutors,\" Bowser said. \"It's not typical to have a active shooter that guns down people in the city, so all our law enforcement responded.\" The"
+    ],
+    [
+     "eq",
+     "White House did not immediately"
+    ],
+    [
+     "del",
+     "respond to"
+    ],
+    [
+     "ins",
+     "comment on"
+    ],
+    [
+     "eq",
+     "Thursday's attack. In November of last year, a National Guard member was"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.1917,
+  "numbers_changed": [
+   "1.6",
+   "15",
+   "50"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 2,
+  "blocks_added": 3,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.6,
+ "similarity": 0.7223,
+ "adjudicated_by": "rules"
+}
