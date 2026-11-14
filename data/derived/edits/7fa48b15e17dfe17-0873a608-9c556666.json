@@ -1,0 +1,55 @@
+{
+ "id": "7fa48b15e17dfe17-0873a608-9c556666",
+ "url": "https://www.gov.uk/government/news/our-manage-appeals-service-is-currently-paused-due-to-the-worldwide-microsoft-outage",
+ "domain": "www.gov.uk",
+ "source": "GOV.UK announcements",
+ "country": "United Kingdom",
+ "category": "government",
+ "lang": "en",
+ "detected_at": "2026-11-14T13:27:35Z",
+ "date": "2026-11-14",
+ "old_title": "Service update regarding Microsoft outage",
+ "new_title": "Service update regarding Microsoft outage",
+ "old_text": "Service update regarding Microsoft outage\nService update from the Planning Inspectorate regarding Microsoft outage\nWe are currently experiencing problems sending and receiving emails due to the worldwide Microsoft outage. This is affecting all services.\nOur digital appeals service is also impacted so we have temporarily paused this service to customers and new submissions. We expect arranged site visits, hearings and inquiries to continue as normal.\nOther sites, including the national infrastructure and crown applications websites are currently working as normal.\nOur customer web form and phone lines are working if you have any urgent queries.",
+ "new_text": "Service update regarding Microsoft outage\nService update from the Planning Inspectorate regarding Microsoft outage\nFriday 13 Nov, 17:00 update: Our digital Appeals service continues to be affected by the Microsoft outage.\nTo guarantee the security and stability of the digital appeals service for customers, we have decided to keep new submissions paused over the weekend.\nWe intend to have the service back up and running safely on Monday 16 November. We will update this page when we do so.\nIf you have an appeal with a deadline affected by the outage, please contact your case team for advice and we will support you.\nOther sites, including the national infrastructure and crown applications websites remain online.\nFriday 13 Nov, 12:01 update\nWe are currently experiencing problems sending and receiving emails due to the worldwide Microsoft outage. This is affecting all services.\nOur digital appeals service is also impacted so we have temporarily paused this service to customers and new submissions. We expect arranged site visits, hearings and inquiries to continue as normal.\nOther sites, including the national infrastructure and crown applications websites are currently working as normal.\nOur customer web form and phone lines are working if you have any urgent queries.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "regarding Microsoft outage Service update from the Planning Inspectorate regarding Microsoft outage"
+    ],
+    [
+     "ins",
+     "Friday 13 Nov, 17:00 update: Our digital Appeals service continues to be affected by the Microsoft outage. To guarantee the security and stability of the digital appeals service for customers, we have decided to keep new submissions paused over the weekend. We intend to have the service back up and running safely on Monday 16 November. We will update this page when we do so. If you have an appeal with a deadline affected by the outage, please contact your case team for advice and we will support you. Other sites, including the national infrastructure and crown applications websites remain online. Friday 13 Nov, 12:01 update"
+    ],
+    [
+     "eq",
+     "We are currently experiencing problems sending and receiving emails due to the"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.1158,
+  "numbers_changed": [
+   "00",
+   "01",
+   "12",
+   "13",
+   "16",
+   "17"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.742,
+ "similarity": 0.9214,
+ "adjudicated_by": "rules"
+}

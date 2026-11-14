@@ -1,0 +1,52 @@
+{
+ "id": "e0c0413f0299bcc4-1e136b6f-25654f8f",
+ "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-11-14T13:30:07Z",
+ "date": "2026-11-14",
+ "old_title": "Record-breaking heatwave put Flintshire binmen at risk, council worker says",
+ "new_title": "Record-breaking heatwave put Flintshire binmen at risk, council worker says",
+ "old_text": "- Published\nSome bin collections were missed over the summer in a county partly because the heatwave became so serious it posed a risk to the lives of workers, a council worker has said.\nFlintshire County Council's Chris Goddard said crews faced a \"perfect storm\" of challenges during the UK's record-breaking hot weather, causing a spate of widespread missed collections.\nDuring the summer, drought was declared in all of Wales and wildfires caused devastation in parts of the country.\nGoddard said: \"We do have to make some difficult decisions but ultimately if there is a fatality in the workplace because of a decision I've made, that's something that I would have to live with â and probably defend.\"\nDespite the missed collections the council remained on target to hit the Welsh government's national 70% waste recycling target this year, the Local Democracy Reporting Service said.\nGoddard, the council's streetscene service manager, said: \"We had maybe five or six operational challenges that all came at the same time in a perfect storm this summer.\n\"Unfortunately, the heatwave was one of them and it was a contributing factor. We do have to prioritise staff safety above all else.\n\"My number one job every day is to make sure that everybody goes home safely and we take that really seriously within streetscene. That was only one of several contributing factors.\n\"That level of change is naturally going to cause a few bumps in the road, particularly with staff being asked to do a little bit more. There were some staffing issues during that period too.\"\nCouncillors praised Flintshire residents for largely embracing three-weekly residual waste collections and ensuring that the authority remained on-target to hit its statutory recycling rate.\n\"Three-weekly was very controversial at the time it came in,\" said Saltney councillor Richard Lloyd.\n\"It's quite clear to see now that the three-weekly black bin collection has been a good new factor. Recycling has improved at the kerbside.\"\nCouncillors said in the authority's meeting the change to three-weekly bin collections meant the council should still hit target despite the disruption.\nThe council also cut the amount of waste it sent to landfill or Parc Adfer by 6,467.49 tonnes between 2024 and 2026, and that improvement continued this year despite problems this summer.",
+ "new_text": "- Published\nSome bin collections were missed over the summer in a county partly because the heatwave became so serious it posed a risk to the lives of workers, a council worker has said.\nFlintshire County Council's Chris Goddard said crews faced a \"perfect storm\" of challenges during the UK's record-breaking hot weather, causing a spate of widespread missed collections.\nDuring the summer, drought was declared in all of Wales and wildfires caused devastation in parts of the country.\nGoddard said: \"We do have to make some difficult decisions but ultimately if there is a fatality in the workplace because of a decision I've made, that's something that I would have to live with - and probably defend.\"\nDespite the missed collections the council remained on target to hit the Welsh government's national 70% waste recycling target this year, the Local Democracy Reporting Service said.\nGoddard, the council's streetscene service manager, said: \"We had maybe five or six operational challenges that all came at the same time in a perfect storm this summer.\n\"Unfortunately, the heatwave was one of them and it was a contributing factor. We do have to prioritise staff safety above all else.\n\"My number one job every day is to make sure that everybody goes home safely and we take that really seriously within streetscene. That was only one of several contributing factors.\n\"That level of change is naturally going to cause a few bumps in the road, particularly with staff being asked to do a little bit more. There were some staffing issues during that period too.\"\nCouncillors praised Flintshire residents for largely embracing three-weekly residual waste collections and ensuring that the authority remained on-target to hit its statutory recycling rate.\n\"Three-weekly was very controversial at the time it came in,\" said Saltney councillor Richard Lloyd.\n\"It's quite clear to see now that the three-weekly black bin collection has been a good new factor. Recycling has improved at the kerbside.\"\nCouncillors said in the authority's meeting the change to three-weekly bin collections meant the council should still hit target despite the disruption.\nThe council also cut the amount of waste it sent to landfill or Parc Adfer by 6,467.49 tonnes between 2024 and 2026, and that improvement continued this year despite problems this summer.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "decision I've made, that's something that I would have to live with"
+    ],
+    [
+     "del",
+     "â"
+    ],
+    [
+     "ins",
+     "-"
+    ],
+    [
+     "eq",
+     "and probably defend.\" Despite the missed collections the council remained on target"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0053,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9998,
+ "adjudicated_by": "rules"
+}

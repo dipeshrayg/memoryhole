@@ -1,0 +1,108 @@
+{
+ "id": "15c4515e563c745d-646b2a96-d7b95c93",
+ "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-14T13:19:38Z",
+ "date": "2026-11-14",
+ "old_title": "Live: Microsoft reports 'improvements' to Outlook services in North America, Europe",
+ "new_title": "Microsoft says it is 'deeply sorry' after widespread outages cause global chaos",
+ "old_text": "Live: Microsoft reports 'improvements' to Outlook services in North America, Europe\nMicrosoft's Outlook email service has been disrupted since late Thursday as the tech giant struggles to fix issues with its servers, hitting businesses and government agencies that use the popular work platforms in 74 countries and territories. The company said Friday it was making progress in restoring Outlook services in North America and Europe, with users reporting improvements in mailbox access. Follow our liveblog for the latest updates.\nMicrosoft said that efforts to repair a major outage of Outlook were not going as expected and that the firm was seeking alternative solutions as users around the world were left without its crucial services Friday.\nThe disruption, which Microsoft attributed to \"elevated load\" on its infrastructure, hit email as well as products such as Teams and the AI assistant Copilot for more than 12 hours.\nIt said it was \"not aware of any malicious activity\" that could have caused the outage.\nThe impact of the outage has been felt globally, with users ranging from companies to governments reporting that they were unable to communicate via Outlook.\n\"We've monitored the status of the changes applied to improve serviceability and confirmed they're not taking as expected,\" Microsoft said on X.\nThe disruption went global within an hour, knocking out Microsoft products in 74 countries and territories, outage tracker Downdetector reported.\nA map posted by Downdetector on X showed the outage affected users across the Americas and parts of Europe, Asia and Africa.\nOne of the impacted countries was New Zealand, where the foreign ministry sent a notice saying its \"ability to receive emails has been affected by the global Microsoft outage. This also impacts all New Zealand Embassies, Consulates and Representative Offices around the world.\"\nMicrosoft initially said it was investigating outage reports \"in the Americas\", but later confirmed that the issue apparently affected \"Microsoft 365 service connectivity for users in any region\".\nMicrosoft 365 is the company's cloud-based subscription service that includes popular applications such as Outlook and Teams.\n\"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is likely contributing to the connectivity errors,\" the company wrote on X.\n\"We're aggressively pursuing all pathways to reduce impact,\" it added.\nDowndetector, which tracks online outages, showed a sharp decline around 0450 GMT in users' reports of disruptions in Washington and Hong Kong.\n(FRANCE 24 with AFP, AP and Reuters)",
+ "new_text": "Microsoft says it is 'deeply sorry' after widespread outages cause global chaos\nMicrosoft's Outlook email service has been disrupted since late Thursday as the tech giant struggles to fix issues with its servers, hitting businesses and government agencies that use the popular work platforms in 74 countries and territories. The company said Friday that it was \"deeply sorry\" for the outage, and that it was making progress in restoring Outlook services in North America and Europe. Read our liveblog to see how the day's events unfolded.\nThis liveblog is no longer being updated. For more on this story, click here.\nMicrosoft said that efforts to repair a major outage of Outlook were not going as expected and that the firm was seeking alternative solutions as users around the world were left without its crucial services Friday.\nThe disruption, which Microsoft attributed to \"elevated load\" on its infrastructure, hit email as well as products such as Teams and the AI assistant Copilot for more than 12 hours.\nIt said it was \"not aware of any malicious activity\" that could have caused the outage.\nThe impact of the outage has been felt globally, with users ranging from companies to governments reporting that they were unable to communicate via Outlook.\n\"We've monitored the status of the changes applied to improve serviceability and confirmed they're not taking as expected,\" Microsoft said on X.\nThe disruption went global within an hour, knocking out Microsoft products in 74 countries and territories, outage tracker Downdetector reported.\nA map posted by Downdetector on X showed the outage affected users across the Americas and parts of Europe, Asia and Africa.\nOne of the impacted countries was New Zealand, where the foreign ministry sent a notice saying its \"ability to receive emails has been affected by the global Microsoft outage. This also impacts all New Zealand Embassies, Consulates and Representative Offices around the world.\"\nMicrosoft initially said it was investigating outage reports \"in the Americas\", but later confirmed that the issue apparently affected \"Microsoft 365 service connectivity for users in any region\".\nMicrosoft 365 is the company's cloud-based subscription service that includes popular applications such as Outlook and Teams.\n\"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is likely contributing to the connectivity errors,\" the company wrote on X.\n\"We're aggressively pursuing all pathways to reduce impact,\" it added.\nDowndetector, which tracks online outages, showed a sharp decline around 0450 GMT in users' reports of disruptions in Washington and Hong Kong.\n(FRANCE 24 with AFP, AP and Reuters)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Live:"
+    ],
+    [
+     "eq",
+     "Microsoft"
+    ],
+    [
+     "del",
+     "reports 'improvements' to Outlook services in North America, Europe"
+    ],
+    [
+     "ins",
+     "says it is 'deeply sorry' after widespread outages cause global chaos"
+    ],
+    [
+     "eq",
+     "Microsoft's Outlook email service has been disrupted since late Thursday as the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "popular work platforms in 74 countries and territories. The company said Friday"
+    ],
+    [
+     "ins",
+     "that it was \"deeply sorry\" for the outage, and that"
+    ],
+    [
+     "eq",
+     "it was making progress in restoring Outlook services in North America and"
+    ],
+    [
+     "del",
+     "Europe, with users reporting improvements in mailbox access. Follow"
+    ],
+    [
+     "ins",
+     "Europe. Read"
+    ],
+    [
+     "eq",
+     "our liveblog"
+    ],
+    [
+     "del",
+     "for"
+    ],
+    [
+     "ins",
+     "to see how"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "latest updates."
+    ],
+    [
+     "ins",
+     "day's events unfolded. This liveblog is no longer being updated. For more on this story, click here."
+    ],
+    [
+     "eq",
+     "Microsoft said that efforts to repair a major outage of Outlook were"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1613,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.053,
+ "similarity": 0.9111,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,176 @@
+{
+ "id": "28d13b454da8cbc3-466d7fdf-c551f263",
+ "url": "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-14T13:16:51Z",
+ "date": "2026-11-14",
+ "old_title": "Manchester United names USMNT coach Mauricio Pochettino as its manager",
+ "new_title": "USMNT head coach Mauricio Pochettino is leaving for Manchester United",
+ "old_text": "Manchester United names USMNT coach Mauricio Pochettino as its manager\nMauricio Pochettino, who took over an ailing U.S. men's national soccer team in 2024 and led the squad to a Round of 16 finish in the 2026 World Cup, is departing to take over as coach of famed Manchester United.\nPochettino was the highest-profile manager the U.S. had ever hired. His aggressive attacking style of play won praise from his players and fans alike. At the 2026 World Cup, the USMNT finished first in its group and won its first knockout-round game since 2002. Pochettino's three wins were the most at any World Cup by a USMNT coach.\nAs a player, he represented Argentina in the 2002 World Cup and played in soccer leagues in Spain and France. As a coach, he managed some of Europe's most recognizable clubs: Tottenham Hotspur, Chelsea and Paris Saint-Germain. Last August, he signed an extension to lead the USMNT through the 2030 World Cup, giving him a full four-year cycle to build the team into a true contender.\nPochettino will lead the U.S. for two more games - against Haiti in the coming days - before departing for Manchester United.",
+ "new_text": "USMNT head coach Mauricio Pochettino is leaving for Manchester United\nMauricio Pochettino, who took over an ailing U.S. men's national soccer team in 2024 and led the squad to a Round of 16 finish in the 2026 FIFA World Cup, is departing to take over as coach of the famed English Premier League club Manchester United.\nPochettino was the highest-profile manager the U.S. men's team had ever hired. His aggressive attacking style of play won praise from his players and fans alike. At the 2026 World Cup, the USMNT finished first in its group and won its first knockout-round game since 2002. Pochettino's three wins were the most at any World Cup by a USMNT coach.\nIn a press conference Friday, an emotional Pochettino described the move as \"one of the most difficult decisions\" of his career. He had been \"excited\" about the project of revamping the U.S. men's national team, he said, but ultimately the offer from Manchester United represented \"the next step to try to make your dreams come true.\"\nU.S. Soccer CEO J.T. Batson credited Pochettino with raising the standard across the federation, and especially the men's program, which has long been viewed as a cut or two below traditional soccer powers in Europe and South America yet has ambitions of competing at the highest levels. \"The belief of what's possible for soccer in this country has never been higher,\" Batson said.\nWhen Pochettino arrived, there were only about 18 months remaining before last summer's World Cup. In that limited time, he set out to tear down what he saw as a culture of complacency and rebuild the roster from the ground up. He evaluated more than 70 players, ultimately uncovering several key contributors to the World Cup roster.\n\"He's meant so much to me. He's helped me develop as a player and as a person. As a player, that's all you can ask for, to have that trust and that belief in you,\" said midfielder Sebastian Berhalter.\nAs a player, Pochettino represented Argentina in the 2002 World Cup and played in soccer leagues in Spain and France. As a coach, he managed some of Europe's most recognizable clubs: Tottenham Hotspur, Chelsea and Paris Saint-Germain. In August, he signed an extension to lead the USMNT through the 2030 World Cup, giving him a full four-year cycle to build the team into a true contender.\nPochettino will lead the U.S. for two more games - both against Haiti in the coming days - before departing for Manchester United.\nSteve Cherundolo, the former USMNT player and former head coach of the MLS club LAFC, will take over as interim head coach while U.S. Soccer searches for a permanent replacement for the next cycle leading up to the 2030 World Cup.\n\"Our ambition is high, and we believe that this is one of the great coaching jobs in the world,\" Batson said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Manchester United names"
+    ],
+    [
+     "eq",
+     "USMNT"
+    ],
+    [
+     "ins",
+     "head"
+    ],
+    [
+     "eq",
+     "coach Mauricio Pochettino"
+    ],
+    [
+     "del",
+     "as its manager"
+    ],
+    [
+     "ins",
+     "is leaving for Manchester United"
+    ],
+    [
+     "eq",
+     "Mauricio Pochettino, who took over an ailing U.S. men's national soccer team"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "led the squad to a Round of 16 finish in the 2026"
+    ],
+    [
+     "ins",
+     "FIFA"
+    ],
+    [
+     "eq",
+     "World Cup, is departing to take over as coach of"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "famed"
+    ],
+    [
+     "ins",
+     "English Premier League club"
+    ],
+    [
+     "eq",
+     "Manchester United. Pochettino was the highest-profile manager the U.S."
+    ],
+    [
+     "ins",
+     "men's team"
+    ],
+    [
+     "eq",
+     "had ever hired. His aggressive attacking style of play won praise from"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "wins were the most at any World Cup by a USMNT coach."
+    ],
+    [
+     "ins",
+     "In a press conference Friday, an emotional Pochettino described the move as \"one of the most difficult decisions\" of his career. He had been \"excited\" about the project of revamping the U.S. men's national team, he said, but ultimately the offer from Manchester United represented \"the next step to try to make your dreams come true.\" U.S. Soccer CEO J.T. Batson credited Pochettino with raising the standard across the federation, and especially the men's program, which has long been viewed as a cut or two below traditional soccer powers in Europe and South America yet has ambitions of competing at the highest levels. \"The belief of what's possible for soccer in this country has never been higher,\" Batson said. When Pochettino arrived, there were only about 18 months remaining before last summer's World Cup. In that limited time, he set out to tear down what he saw as a culture of complacency and rebuild the roster from the ground up. He evaluated more than 70 players, ultimately uncovering several key contributors to the World Cup roster. \"He's meant so much to me. He's helped me develop as a player and as a person."
+    ],
+    [
+     "eq",
+     "As a player,"
+    ],
+    [
+     "del",
+     "he"
+    ],
+    [
+     "ins",
+     "that's all you can ask for, to have that trust and that belief in you,\" said midfielder Sebastian Berhalter. As a player, Pochettino"
+    ],
+    [
+     "eq",
+     "represented Argentina in the 2002 World Cup and played in soccer leagues"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "some of Europe's most recognizable clubs: Tottenham Hotspur, Chelsea and Paris Saint-Germain."
+    ],
+    [
+     "del",
+     "Last"
+    ],
+    [
+     "ins",
+     "In"
+    ],
+    [
+     "eq",
+     "August, he signed an extension to lead the USMNT through the 2030"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "true contender. Pochettino will lead the U.S. for two more games -"
+    ],
+    [
+     "ins",
+     "both"
+    ],
+    [
+     "eq",
+     "against Haiti in the coming days - before departing for Manchester United."
+    ],
+    [
+     "ins",
+     "Steve Cherundolo, the former USMNT player and former head coach of the MLS club LAFC, will take over as interim head coach while U.S. Soccer searches for a permanent replacement for the next cycle leading up to the 2030 World Cup. \"Our ambition is high, and we believe that this is one of the great coaching jobs in the world,\" Batson said."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.5408,
+  "numbers_changed": [
+   "18",
+   "2030",
+   "70"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.778,
+ "similarity": 0.9404,
+ "adjudicated_by": "rules"
+}

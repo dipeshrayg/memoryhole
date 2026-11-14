@@ -1,0 +1,152 @@
+{
+ "id": "56336ba5738c65af-e0bef24f-3f53b7c4",
+ "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+ "domain": "www.cnbc.com",
+ "source": "CNBC Markets",
+ "country": "United States",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-11-14T13:29:36Z",
+ "date": "2026-11-14",
+ "old_title": "Bessent: Treasury has wanted Megaspeed restrictions for months, but Commerce is in charge",
+ "new_title": "Bessent blames Lutnick's Commerce as he slams Nvidia chip 'leakage' to China",
+ "old_text": "Treasury Secretary Scott Bessent on Friday said his department and others in the Trump administration have long supported slapping restrictions on Megaspeed, the company at the center of former Nvidia CEO Jensen Huang's spy-sex scandal.\nBut the Commerce Department is in charge, \"and you will have to ask them about their internal processes,\" Bessent told CNBC's \"Squawk Box.\"\nThe Cabinet secretary's comments hinting at disunity within the administration followed an Axios report that Bessent, in the White House Situation Room last week, had asked Commerce Secretary Howard Lutnick why he has resisted implementing export controls, especially on Megaspeed.\nLutnick has \"repeatedly stood in the way\" of cracking down on companies suspected of diverting Nvidia's advanced AI chips to China, Axios reported.\nCommerce Department spokeswoman Kristen Eichamer on Wednesday told CNBC that Bessent and Lutnick had \"no such conversation\" in the Situation Room.\nAsked on CNBC about the reported incident, Bessent said, \"We don't repeat conversations in the Situation Room.\"\nBut he said that the departments of Treasury, Defense and State and the Office of the U.S. Trade Representative all \"were in favor of putting Megaspeed on the entity list for months.\"\nAsked if he was frustrated with the potential export control delays, Bessent said, \"I am frustrated when President Trump made it very clear that China should not receive any Nvidia chips above H100s.\"\n\"And so any leakage is very frustrating\" because it \"hurts our great companies in the AI race [and] gives the Chinese an advantage,\" he said.\nHuang, seen as one of Trump's closest corporate ally before resigning as Nvidia CEO under a cloud of scandal Thursday morning, had pushed the U.S. government to ease restrictions on the export of advanced AI chips to China. In December, Trump said Nvidia could sell its powerful H200 chips to approved Chinese customers, provided the U.S. gets a percentage of the sales.\nThis is breaking news. Please check back for updates.",
+ "new_text": "Treasury Secretary Scott Bessent on Friday said his department and others in the Trump administration have long supported imposing restrictions on Megaspeed, the company at the center of former Nvidia CEO Jensen Huang's spy-sex scandal.\nBut the Commerce Department is in charge \"and you will have to ask them about their internal processes,\" Bessent told CNBC's \"Squawk Box.\"\nThe Cabinet secretary's comments hinting at disunity within the administration followed an Axios report that Bessent, in the White House Situation Room last week, had asked Commerce Secretary Howard Lutnick why he has resisted implementing export controls, especially on Megaspeed.\nLutnick has \"repeatedly stood in the way\" of cracking down on companies suspected of diverting Nvidia's advanced AI chips to China, Axios reported.\nCommerce Department spokeswoman Kristen Eichamer on Wednesday told CNBC that Bessent and Lutnick had \"no such conversation\" in the Situation Room.\nAsked on CNBC about the reported incident, Bessent said, \"We don't repeat conversations in the Situation Room.\"\nBut he said that the departments of Treasury, Defense and State and the Office of the U.S. Trade Representative all \"were in favor of putting Megaspeed on the entity list for months.\"\nAsked if he was frustrated with the potential export control delays, Bessent said, \"I am frustrated when President Trump made it very clear that China should not receive any Nvidia chips above H100s.\"\n\"And so any leakage is very frustrating\" because it \"hurts our great companies in the AI race [and] gives the Chinese an advantage,\" he said.\nHuang, seen as one of Trump's closest corporate allies, resigned as Nvidia CEO on Thursday after admitting to an affair following scrutiny of his relationship with Alice Huang, a Megaspeed executive whom U.S. intelligence reportedly determined to be a Chinese spy.\nHuang had pushed the U.S. government to ease restrictions on the export of advanced AI chips to China. In December, Trump said Nvidia could sell its powerful H200 chips to approved Chinese customers, provided the U.S. gets a percentage of the sales.\nAsked if he believes Nvidia's highest-level processors have made it to China using the Singapore-based Megaspeed as a pass-through, Bessent said, \"I think that there is a lot of leakage in the system, and we are constantly working to close that down.\"\n\"The story has been thus far on Jensen Huang's personal foibles,\" Bessent told CNBC. \"The real story here should be: Did Nvidia know their client, and was there a robust effort at Nvidia to make sure that there was no leakage and that they were selling to what were obviously pass-through shell companies?\"\n\"I think it's important that anyone at the company there be held accountable for that,\" he said.\nThe Commerce Department did not respond to CNBC's request for comment on Bessent's remarks.\nHuang and Lutnick both have been asked to testify before the Senate Banking Committee next month, Sen. Tim Scott, R-S.C., said Thursday.\nEichamer, the Commerce spokeswoman, told CNBC on Friday that Lutnick \"has proactively agreed to appear voluntarily before the Banking Committee to address their questions.\"\nHuang has separately been asked to sit for a closed-door briefing on Dec. 1 before the House committees on China, intelligence and foreign affairs.\nThe Republican chairmen of those panels have also asked Nvidia general counsel Tim Teter to participate in a closed-door interview with them on Dec. 2.\nHouse Foreign Affairs Chairman Brian Mast, R-Fla., separately asked Jeff Kessler, Commerce's under secretary for industry and security, to appear before his committee on Dec. 3 for a hearing on \"chip smuggling, adversary military use of advanced AI chips, reported interference by private companies into export control policy and enforcement investigations.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "said his department and others in the Trump administration have long supported"
+    ],
+    [
+     "del",
+     "slapping"
+    ],
+    [
+     "ins",
+     "imposing"
+    ],
+    [
+     "eq",
+     "restrictions on Megaspeed, the company at the center of former Nvidia CEO Jensen Huang's spy-sex scandal. But the Commerce Department is in"
+    ],
+    [
+     "del",
+     "charge,"
+    ],
+    [
+     "ins",
+     "charge"
+    ],
+    [
+     "eq",
+     "\"and you will have to ask them about their internal processes,\" Bessent"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "an advantage,\" he said. Huang, seen as one of Trump's closest corporate"
+    ],
+    [
+     "del",
+     "ally before resigning"
+    ],
+    [
+     "ins",
+     "allies, resigned"
+    ],
+    [
+     "eq",
+     "as Nvidia CEO"
+    ],
+    [
+     "del",
+     "under"
+    ],
+    [
+     "ins",
+     "on Thursday after admitting to an affair following scrutiny of his relationship with Alice Huang,"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "cloud of scandal Thursday morning,"
+    ],
+    [
+     "ins",
+     "Megaspeed executive whom U.S. intelligence reportedly determined to be a Chinese spy. Huang"
+    ],
+    [
+     "eq",
+     "had pushed the U.S. government to ease restrictions on the export of"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "approved Chinese customers, provided the U.S. gets a percentage of the sales."
+    ],
+    [
+     "del",
+     "This"
+    ],
+    [
+     "ins",
+     "Asked if he believes Nvidia's highest-level processors have made it to China using the Singapore-based Megaspeed as a pass-through, Bessent said, \"I think that there"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "del",
+     "breaking news. Please check back"
+    ],
+    [
+     "ins",
+     "a lot of leakage in the system, and we are constantly working to close that down.\" \"The story has been thus far on Jensen Huang's personal foibles,\" Bessent told CNBC. \"The real story here should be: Did Nvidia know their client, and was there a robust effort at Nvidia to make sure that there was no leakage and that they were selling to what were obviously pass-through shell companies?\" \"I think it's important that anyone at the company there be held accountable"
+    ],
+    [
+     "eq",
+     "for"
+    ],
+    [
+     "del",
+     "updates."
+    ],
+    [
+     "ins",
+     "that,\" he said. The Commerce Department did not respond to CNBC's request for comment on Bessent's remarks. Huang and Lutnick both have been asked to testify before the Senate Banking Committee next month, Sen. Tim Scott, R-S.C., said Thursday. Eichamer, the Commerce spokeswoman, told CNBC on Friday that Lutnick \"has proactively agreed to appear voluntarily before the Banking Committee to address their questions.\" Huang has separately been asked to sit for a closed-door briefing on Dec. 1 before the House committees on China, intelligence and foreign affairs. The Republican chairmen of those panels have also asked Nvidia general counsel Tim Teter to participate in a closed-door interview with them on Dec. 2. House Foreign Affairs Chairman Brian Mast, R-Fla., separately asked Jeff Kessler, Commerce's under secretary for industry and security, to appear before his committee on Dec. 3 for a hearing on \"chip smuggling, adversary military use of advanced AI chips, reported interference by private companies into export control policy and enforcement investigations.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.0,
+  "numbers_changed": [
+   "1",
+   "2",
+   "3"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.6,
+ "similarity": 0.9976,
+ "adjudicated_by": "rules"
+}

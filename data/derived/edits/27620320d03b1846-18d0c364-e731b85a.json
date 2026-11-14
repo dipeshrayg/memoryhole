@@ -1,0 +1,168 @@
+{
+ "id": "27620320d03b1846-18d0c364-e731b85a",
+ "url": "https://www.france24.com/en/tv-shows/spotlight/20261112-icrc-we-are-currently-classifying-the-highest-number-of-armed-conflicts-since-the-second-world-war",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-14T13:19:30Z",
+ "date": "2026-11-14",
+ "old_title": "Spotlight - ICRC 'currently classifying the highest number of armed conflicts since the Second World War",
+ "new_title": "Spotlight - ICRC 'currently classifying the highest number of armed conflicts since the Second World War'",
+ "old_text": "ICRC 'currently classifying the highest number of armed conflicts since the Second World War\nIssued on:\nFrançois Picard is pleased to welcome the President of the International Committee of the Red Cross, Mirjana Spoljaric. \"You may consider war a human condition,\" argues Spoljaric. \"But brutality, barbarity, is not a human condition.\" Her warning recalls the fundamental premise of the 1949 Geneva Conventions: even in war, there can be no lawless space, and certain red lines must never be crossed.\nWar may be an enduring feature of human history, but its brutality is neither inevitable nor beyond restraint. That distinction lies at the heart of a stark warning from Spoljaric who argues that the international rules established to protect civilians are being progressively weakened amid proliferating armed conflicts, technological transformations and the retreat of diplomacy.\nFrom Gaza and Ukraine to Sudan and Yemen, Spoljaric describes an increasingly permissive interpretation of international humanitarian law, in which civilian infrastructure is attacked, populations are displaced and human suffering becomes an instrument of military strategy. \"So humans are instrumentalized in the pursuit of military objectives,\" she says\nThe proliferation of drones and artificial intelligence adds another troubling dimension. Technologies once presented as instruments of greater military precision have not, she argues, delivered the promised protection for civilians. Instead, they risk further diminishing the possibility of escaping violence, while the prospect of autonomous weapons targeting human beings raises urgent legal and ethical questions.\nBut Spoljaric's deepest concern extends beyond the battlefield. As conflicts increasingly cross borders and humanitarian needs overwhelm available resources, diplomacy has taken a back seat to might makes right. Her message is also political: humanitarian assistance cannot substitute for the prevention of war, and the protection of civilians cannot depend on goodwill alone.\nThe responsibility, she insists, belongs to governments and citizens alike. \"As a citizen, demand that your government prioritise the rules of war,\" she urges, warning that \"wars are coming to your doorstep nowadays much, much faster than in previous years.\"",
+ "new_text": "ICRC 'currently classifying the highest number of armed conflicts since the Second World War'\nIssued on: Modified:\nFrançois Picard is pleased to welcome the president of the International Committee of the Red Cross, Mirjana Spoljaric. \"You may consider war a human condition,\" Spoljaric argues. \"But brutality, barbarity, is not a human condition.\" Her warning recalls the fundamental premise of the 1949 Geneva Conventions: even in war, there can be no lawless space, and certain red lines must never be crossed.\nWar may be an enduring feature of human history, but its brutality is neither inevitable nor beyond restraint. That distinction lies at the heart of a stark warning from Spoljaric, who argues that the international rules established to protect civilians are being progressively weakened amid proliferating armed conflicts, technological transformations and the retreat of diplomacy.\nFrom Gaza and Ukraine to Sudan and Yemen, Spoljaric describes an increasingly permissive interpretation of international humanitarian law, in which civilian infrastructure is attacked, populations are displaced and human suffering becomes an instrument of military strategy. \"So humans are instrumentalised in the pursuit of military objectives,\" she says.\nThe proliferation of drones and artificial intelligence adds another troubling dimension. Technologies once presented as instruments of greater military precision have not, she argues, delivered the promised protection for civilians. Instead, they risk further diminishing the possibility of escaping violence, while the prospect of autonomous weapons targeting human beings raises urgent legal and ethical questions.\nBut Spoljaric's deepest concern extends beyond the battlefield. As conflicts increasingly cross borders and humanitarian needs overwhelm available resources, diplomacy has taken a back seat to \"might makes right\". Her message is also political: humanitarian assistance cannot substitute for the prevention of war, and the protection of civilians cannot depend on goodwill alone.\nThe responsibility, she insists, belongs to governments and citizens alike. \"As a citizen, demand that your government prioritise the rules of war,\" she urges, warning that \"wars are coming to your doorstep nowadays much, much faster than in previous years.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "'currently classifying the highest number of armed conflicts since the Second World"
+    ],
+    [
+     "del",
+     "War"
+    ],
+    [
+     "ins",
+     "War'"
+    ],
+    [
+     "eq",
+     "Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "François Picard is pleased to welcome the"
+    ],
+    [
+     "del",
+     "President"
+    ],
+    [
+     "ins",
+     "president"
+    ],
+    [
+     "eq",
+     "of the International Committee of the Red Cross, Mirjana Spoljaric. \"You may consider war a human condition,\""
+    ],
+    [
+     "del",
+     "argues Spoljaric."
+    ],
+    [
+     "ins",
+     "Spoljaric argues."
+    ],
+    [
+     "eq",
+     "\"But brutality, barbarity, is not a human condition.\" Her warning recalls the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "restraint. That distinction lies at the heart of a stark warning from"
+    ],
+    [
+     "del",
+     "Spoljaric"
+    ],
+    [
+     "ins",
+     "Spoljaric,"
+    ],
+    [
+     "eq",
+     "who argues that the international rules established to protect civilians are being"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and human suffering becomes an instrument of military strategy. \"So humans are"
+    ],
+    [
+     "del",
+     "instrumentalized"
+    ],
+    [
+     "ins",
+     "instrumentalised"
+    ],
+    [
+     "eq",
+     "in the pursuit of military objectives,\" she"
+    ],
+    [
+     "del",
+     "says"
+    ],
+    [
+     "ins",
+     "says."
+    ],
+    [
+     "eq",
+     "The proliferation of drones and artificial intelligence adds another troubling dimension. Technologies"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "humanitarian needs overwhelm available resources, diplomacy has taken a back seat to"
+    ],
+    [
+     "del",
+     "might"
+    ],
+    [
+     "ins",
+     "\"might"
+    ],
+    [
+     "eq",
+     "makes"
+    ],
+    [
+     "del",
+     "right."
+    ],
+    [
+     "ins",
+     "right\"."
+    ],
+    [
+     "eq",
+     "Her message is also political: humanitarian assistance cannot substitute for the prevention"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0576,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9861,
+ "adjudicated_by": "rules"
+}

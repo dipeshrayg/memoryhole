@@ -1,0 +1,364 @@
+{
+ "id": "e1efe6f1af4bbd76-c297525d-3812b3a5",
+ "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-14T13:15:43Z",
+ "date": "2026-11-14",
+ "old_title": "What we know about the global Microsoft outage",
+ "new_title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+ "old_text": "- Published\nA major global Microsoft outage has caused problems, or in some cases disabled entire services, including emails and artificial intelligence products.\nMicrosoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.\nHere's what we know about the services affected and what went wrong.\nWhat happened?\nMicrosoft 365 Services, including Teams, Outlook and Microsoft's artificial intelligence software Copilot, have been affected by \"connectivity problems\".\nCustomers are reporting varying levels of access - many have not been able to send or receive emails, view certain files or details on their calendar apps.\nSome users have been able to use Teams and are using messaging and online meeting functions without issues.\nHow many people have been affected?\nMore than 430 million people use Microsoft 365 apps according to Microsoft's website.\nThe full scale of the outage has not been confirmed, but monitoring website Downdetector had 140,000 people from 74 countries report issues with Outlook on Thursday evening.\nThe real figure affected is likely much higher because Downdetector relies primarily on users self-reporting.\nMicrosoft 365 is also used by companies worldwide and is expected to have a knock-on effect to other services.\nTech giants OpenAI and Anthropic have both reported problems as a result of the outage.\nChatGPT-maker OpenAI said it was investigating an issue affecting its connections to Microsoft's services, which has caused some tools to not work as expected.\nFrom city governments in the US to Australian spy agencies, disruption across the globe has been widespread.\nCourts from Los Angeles to Texas warned that communications might be delayed.\nIn Canada, the public broadcaster CBC reported that a healthcare network running several hospitals in Toronto was experiencing email issues, but that patient care was not affected.\nThe government of Japan also said its shared IT platform had been disrupted.\nAcross the UK, GP surgeries, pharmacies, police and schools have been affected by the outage.\nSome GP surgeries have urged patients not to submit messages via their website while the problem remains, while several large police forces are urging members of the public to call if they want to make a report.\nWhat has Microsoft said?\nMicrosoft has ruled out a cyber-attack and attributed the ongoing outage to \"elevated load\" on its infrastructure.\nThe term refers to when servers are handling a much higher volume of stress than they usually do.\nIn the case of the Microsoft outage, a large number of servers became \"unexpectedly unavailable\", the company said, which sent added traffic to remaining servers, straining these.\nOn Friday afternoon, Microsoft said it had seen \"encouraging recovery progress\" in Europe and improvement in North America.\nThe company added it is focused on \"addressing the remaining areas of disruption\" and warned \"some users may still experience intermittent issues as recovery actions continue\".\nIn an earlier statement, the tech giant had said that its attempted fixes were \"not taking as expected\".\nWhy has it taken so long to fix?\nAlthough email service Outlook appears to be resuming for some, the outage has so far lasted for more than 20 hours - in outage terms that is considered a long time.\nProf James Ferryman from the University of Reading's department of computer science said the details the company has disclosed provide some clues.\n\"What Microsoft has told us is that the part of its servers that sets up secure connections is getting swamped, and once that happens the server just stops answering,\" he said.\n\"The trouble is that this kind of failure snowballs.\n\"One server falls over, its work gets passed to the next one, and meanwhile huge numbers of phones and laptops keep trying to get back in.\n\"You can't just turn it all back on at once. You have to bring it back bit by bit.\"\nThe challenge is therefore not just fixing the fault, but managing the huge surge of devices trying to reconnect once services start coming back online.\nGergely Orosz, a former leading software engineer at several major tech companies including Skype and Uber, said this could be the \"most disruptive\" business email outage \"of all time\".\nHe said it was still difficult to know just how many people have been affected by the disruption, but added he \"cannot recall\" an outage over business email ever taking this long to return to normal.\nAustralian cyber-security expert Troy Hunt told the BBC the outage could have far-reaching consequences.\n\"Microsoft is a massive part of the internet backbone and reminds us how critical email still is.\n\"Not only does this outage affect many people's ability to work but also things like the ability to communicate about appointments, purchase things that need verification, create or access accounts and services,\" he said.",
+ "new_text": "- Published\nA major Microsoft outage has impacted schools, healthcare systems, businesses, courts and governments around the world.\nServices including Teams, Outlook and AI software Copilot, are being restored almost 24 hours since issues first surfaced.\nMicrosoft said the outage was not a cyber-security incident and was caused by a technical issue. It has apologised for the disruption.\nHere's what we know about the services affected and what went wrong.\nWhat happened?\nSome Microsoft 365 services have been affected by \"connectivity problems\" with problems reported in at least 74 countries.\nFrom late on Thursday, customers reported varying levels of access - many were unable to send or receive emails, view certain files or details on their calendar apps.\nBut some users were able to use Teams, messaging and online meeting functions without issues.\nAs of Friday afternoon, Microsoft said it had seen \"encouraging recovery progress\" in Europe and improvement in North America.\nThe company added that it was focused on \"addressing the remaining areas of disruption\" but warned \"some users may still experience intermittent issues\".\nIn a later statement, the company said it was continuing to see improvements \"with email queues significantly reduced and approaching normal levels\".\nThe company attributed the ongoing outage to an issue during an earlier network capacity upgrade.\n\"We have addressed the underlying issue and continue to restore service to remaining customers and regions,\" it said on Friday.\nWill emails affected by the outage ever arrive?\nAlthough services are beginning to resume, Microsoft has warned of continued \"intermittent access issues\", meaning some users will still struggle to load their inboxes and could experience \"delayed email delivery\".\nIn other words, it is not quite safe to assume every email you send is going to arrive in its intended recipient's inbox right away.\nEarlier, Microsoft said it would be extending the \"timeout window\" to 48 hours \"to help protect delayed messages as delivery catches up\".\nThe email timeout window refers to the amount of time Outlook will wait to receive an email.\nWhen they do show up, the timestamp will be when they were delivered rather than when they were sent.\nWhy has it taken so long to fix?\nAlthough email service Outlook appears to be resuming, the outage has so far lasted for more than 20 hours - in outage terms that is considered a long time.\nProf James Ferryman from the University of Reading's department of computer science said the details the company has disclosed provide some clues.\n\"What Microsoft has told us is that the part of its servers that sets up secure connections is getting swamped, and once that happens the server just stops answering,\" he said.\n\"The trouble is that this kind of failure snowballs.\n\"One server falls over, its work gets passed to the next one, and meanwhile huge numbers of phones and laptops keep trying to get back in.\n\"You can't just turn it all back on at once. You have to bring it back bit by bit.\"\nThe challenge is therefore not just fixing the fault, but managing the huge surge of devices trying to reconnect once services start coming back online.\nGergely Orosz, a former leading software engineer at several major tech companies including Skype and Uber, said this could be the \"most disruptive\" business email outage \"of all time\".\nHe said it was still difficult to know just how many people have been affected by the disruption, but added he \"cannot recall\" an outage over business email ever taking this long to return to normal.\nAustralian cyber-security expert Troy Hunt told the BBC the outage could have far-reaching consequences.\n\"Microsoft is a massive part of the internet backbone and reminds us how critical email still is.\n\"Not only does this outage affect many people's ability to work but also things like the ability to communicate about appointments, purchase things that need verification, create or access accounts and services,\" he said.\nIn a statement, Microsoft said it was \"deeply sorry for the disruption this incident has caused our customers and partners.\n\"We know the trust they place in our services and take that responsibility extremely seriously. We are seeing broad recovery and stability across our services.\"\nHow many people have been affected?\nMore than 430 million people use Microsoft 365 apps according to Microsoft's website. The full scale of the outage has not been confirmed.\nMicrosoft 365 is used by companies worldwide and is expected to have a knock-on effect to other services.\nTech giants OpenAI and Anthropic both earlier reported problems as a result of the outage.\nChatGPT-maker OpenAI said it was investigating an issue affecting its connections to Microsoft's services, which had caused some tools to not work as expected.\nFrom city governments in the US to Australian spy agencies, disruption across the globe has been widespread.\nCourts from Los Angeles to Texas earlier warned that communications might be delayed.\nIn Canada, the public broadcaster CBC reported that a healthcare network running several hospitals in Toronto was experiencing email issues, but that patient care was not affected.\nThe government of Japan also said its shared IT platform had been disrupted.\nAcross the UK, GP surgeries, pharmacies, police and schools have been affected by the outage.\nSome GP surgeries had urged patients not to submit messages via their website while police forces were also earlier asking the public to call if they want to make a report.\nAdditional reporting by Henry Moore",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published A major"
+    ],
+    [
+     "del",
+     "global"
+    ],
+    [
+     "eq",
+     "Microsoft outage has"
+    ],
+    [
+     "del",
+     "caused problems, or in some cases disabled entire services,"
+    ],
+    [
+     "ins",
+     "impacted schools, healthcare systems, businesses, courts and governments around the world. Services"
+    ],
+    [
+     "eq",
+     "including"
+    ],
+    [
+     "del",
+     "emails"
+    ],
+    [
+     "ins",
+     "Teams, Outlook"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "artificial intelligence products."
+    ],
+    [
+     "ins",
+     "AI software Copilot, are being restored almost 24 hours since issues first surfaced."
+    ],
+    [
+     "eq",
+     "Microsoft"
+    ],
+    [
+     "del",
+     "has"
+    ],
+    [
+     "eq",
+     "said the outage was not"
+    ],
+    [
+     "ins",
+     "a cyber-security incident and was"
+    ],
+    [
+     "eq",
+     "caused by a"
+    ],
+    [
+     "del",
+     "cyber-security incident, but efforts to fix"
+    ],
+    [
+     "ins",
+     "technical issue. It has apologised for"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "issues have so far been largely unsuccessful."
+    ],
+    [
+     "ins",
+     "disruption."
+    ],
+    [
+     "eq",
+     "Here's what we know about the services affected and what went wrong. What happened?"
+    ],
+    [
+     "ins",
+     "Some"
+    ],
+    [
+     "eq",
+     "Microsoft 365"
+    ],
+    [
+     "del",
+     "Services, including Teams, Outlook and Microsoft's artificial intelligence software Copilot,"
+    ],
+    [
+     "ins",
+     "services"
+    ],
+    [
+     "eq",
+     "have been affected by \"connectivity"
+    ],
+    [
+     "del",
+     "problems\". Customers are reporting"
+    ],
+    [
+     "ins",
+     "problems\" with problems reported in at least 74 countries. From late on Thursday, customers reported"
+    ],
+    [
+     "eq",
+     "varying levels of access - many"
+    ],
+    [
+     "del",
+     "have not been able"
+    ],
+    [
+     "ins",
+     "were unable"
+    ],
+    [
+     "eq",
+     "to send or receive emails, view certain files or details on their calendar apps."
+    ],
+    [
+     "del",
+     "Some"
+    ],
+    [
+     "ins",
+     "But some"
+    ],
+    [
+     "eq",
+     "users"
+    ],
+    [
+     "del",
+     "have been"
+    ],
+    [
+     "ins",
+     "were"
+    ],
+    [
+     "eq",
+     "able to use"
+    ],
+    [
+     "del",
+     "Teams and are using"
+    ],
+    [
+     "ins",
+     "Teams,"
+    ],
+    [
+     "eq",
+     "messaging and online meeting functions without issues."
+    ],
+    [
+     "del",
+     "How many people have been affected? More than 430 million people use Microsoft 365 apps according to Microsoft's website. The full scale"
+    ],
+    [
+     "ins",
+     "As"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "the outage has not been confirmed, but monitoring website Downdetector had 140,000 people from 74 countries report issues with Outlook on Thursday evening. The real figure affected is likely much higher because Downdetector relies primarily on users self-reporting. Microsoft 365 is also used by companies worldwide and is expected to have a knock-on effect to other services. Tech giants OpenAI and Anthropic have both reported problems as a result of the outage. ChatGPT-maker OpenAI said it was investigating an issue affecting its connections to Microsoft's services, which has caused some tools to not work as expected. From city governments in the US to Australian spy agencies, disruption across the globe has been widespread. Courts from Los Angeles to Texas warned that communications might be delayed. In Canada, the public broadcaster CBC reported that a healthcare network running several hospitals in Toronto was experiencing email issues, but that patient care was not affected. The government of Japan also said its shared IT platform had been disrupted. Across the UK, GP surgeries, pharmacies, police and schools have been affected by the outage. Some GP surgeries have urged patients not to submit messages via their website while the problem remains, while several large police forces are urging members of the public to call if they want to make a report. What has Microsoft said? Microsoft has ruled out a cyber-attack and attributed the ongoing outage to \"elevated load\" on its infrastructure. The term refers to when servers are handling a much higher volume of stress than they usually do. In the case of the Microsoft outage, a large number of servers became \"unexpectedly unavailable\", the company said, which sent added traffic to remaining servers, straining these. On"
+    ],
+    [
+     "eq",
+     "Friday afternoon, Microsoft said it had seen \"encouraging recovery progress\" in Europe and improvement in North America. The company added"
+    ],
+    [
+     "ins",
+     "that"
+    ],
+    [
+     "eq",
+     "it"
+    ],
+    [
+     "del",
+     "is"
+    ],
+    [
+     "ins",
+     "was"
+    ],
+    [
+     "eq",
+     "focused on \"addressing the remaining areas of disruption\""
+    ],
+    [
+     "del",
+     "and"
+    ],
+    [
+     "ins",
+     "but"
+    ],
+    [
+     "eq",
+     "warned \"some users may still experience intermittent"
+    ],
+    [
+     "del",
+     "issues as recovery actions continue\"."
+    ],
+    [
+     "ins",
+     "issues\"."
+    ],
+    [
+     "eq",
+     "In"
+    ],
+    [
+     "ins",
+     "a later statement, the company said it was continuing to see improvements \"with email queues significantly reduced and approaching normal levels\". The company attributed the ongoing outage to an issue during"
+    ],
+    [
+     "eq",
+     "an earlier"
+    ],
+    [
+     "del",
+     "statement,"
+    ],
+    [
+     "ins",
+     "network capacity upgrade. \"We have addressed"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "tech giant had"
+    ],
+    [
+     "ins",
+     "underlying issue and continue to restore service to remaining customers and regions,\" it"
+    ],
+    [
+     "eq",
+     "said"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "ins",
+     "on Friday. Will emails affected by the outage ever arrive? Although services are beginning to resume, Microsoft has warned of continued \"intermittent access issues\", meaning some users will still struggle to load their inboxes and could experience \"delayed email delivery\". In other words, it is not quite safe to assume every email you send is going to arrive in"
+    ],
+    [
+     "eq",
+     "its"
+    ],
+    [
+     "del",
+     "attempted fixes"
+    ],
+    [
+     "ins",
+     "intended recipient's inbox right away. Earlier, Microsoft said it would be extending the \"timeout window\" to 48 hours \"to help protect delayed messages as delivery catches up\". The email timeout window refers to the amount of time Outlook will wait to receive an email. When they do show up, the timestamp will be when they"
+    ],
+    [
+     "eq",
+     "were"
+    ],
+    [
+     "del",
+     "\"not taking as expected\"."
+    ],
+    [
+     "ins",
+     "delivered rather than when they were sent."
+    ],
+    [
+     "eq",
+     "Why has it taken so long to fix? Although email service Outlook appears to be"
+    ],
+    [
+     "del",
+     "resuming for some,"
+    ],
+    [
+     "ins",
+     "resuming,"
+    ],
+    [
+     "eq",
+     "the outage has so far lasted for more than 20 hours -"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "things that need verification, create or access accounts and services,\" he said."
+    ],
+    [
+     "ins",
+     "In a statement, Microsoft said it was \"deeply sorry for the disruption this incident has caused our customers and partners. \"We know the trust they place in our services and take that responsibility extremely seriously. We are seeing broad recovery and stability across our services.\" How many people have been affected? More than 430 million people use Microsoft 365 apps according to Microsoft's website. The full scale of the outage has not been confirmed. Microsoft 365 is used by companies worldwide and is expected to have a knock-on effect to other services. Tech giants OpenAI and Anthropic both earlier reported problems as a result of the outage. ChatGPT-maker OpenAI said it was investigating an issue affecting its connections to Microsoft's services, which had caused some tools to not work as expected. From city governments in the US to Australian spy agencies, disruption across the globe has been widespread. Courts from Los Angeles to Texas earlier warned that communications might be delayed. In Canada, the public broadcaster CBC reported that a healthcare network running several hospitals in Toronto was experiencing email issues, but that patient care was not affected. The government of Japan also said its shared IT platform had been disrupted. Across the UK, GP surgeries, pharmacies, police and schools have been affected by the outage. Some GP surgeries had urged patients not to submit messages via their website while police forces were also earlier asking the public to call if they want to make a report. Additional reporting by Henry Moore"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.0984,
+  "numbers_changed": [
+   "140,000",
+   "24",
+   "48"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 4,
+  "blocks_added": 4,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.001,
+ "similarity": 0.9031,
+ "adjudicated_by": "rules"
+}
