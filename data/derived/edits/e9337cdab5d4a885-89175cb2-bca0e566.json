@@ -1,0 +1,69 @@
+{
+ "id": "e9337cdab5d4a885-89175cb2-bca0e566",
+ "url": "https://www.abc.net.au/news/2026-11-14/mahli-beardman-junior-cricket-celebration/107386108",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-15T13:49:02Z",
+ "date": "2026-11-15",
+ "old_title": "Australia's newest fast-bowling sensation tipped for big things from a young age",
+ "new_title": "Australia's newest fast-bowling sensation tipped for big things from a young age",
+ "old_text": "Mon, 14 Sept, 11:00 pm, Final score, ZIM 235, AUS 8/294\nMahli Beardman's six-wicket haul on debut a cause for celebration across regional WA\nIn short:\nFast bowler Mahli Beardman's 6/24 against England was the best ODI debut performance of all time by an Australian bowler.\nBeardman, 21, played his initial and representative junior cricket in Dampier in WA's Pilbara.\nCricket figures hope his performance encourages the next generation of country cricketers.",
+ "new_text": "Wed, 16 Sept, 11:00 pm, Final score, IAW 161, AAW 5/168\nMahli Beardman's six-wicket haul on debut a cause for celebration across regional WA\nIn short:\nFast bowler Mahli Beardman's 6/24 against England was the best ODI debut performance of all time by an Australian bowler.\nBeardman, 21, played his initial and representative junior cricket in Dampier in WA's Pilbara.\nCricket figures hope his performance encourages the next generation of country cricketers.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Mon, 14"
+    ],
+    [
+     "ins",
+     "Wed, 16"
+    ],
+    [
+     "eq",
+     "Sept, 11:00 pm, Final score,"
+    ],
+    [
+     "del",
+     "ZIM 235, AUS 8/294"
+    ],
+    [
+     "ins",
+     "IAW 161, AAW 5/168"
+    ],
+    [
+     "eq",
+     "Mahli Beardman's six-wicket haul on debut a cause for celebration across regional"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1667,
+  "numbers_changed": [
+   "14",
+   "16",
+   "161",
+   "168",
+   "235",
+   "294",
+   "5",
+   "8"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9898,
+ "adjudicated_by": "rules"
+}

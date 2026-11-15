@@ -1,0 +1,140 @@
+{
+ "id": "9a317dbefd7eb5c4-51e673f5-6245f94c",
+ "url": "https://www.independent.co.uk/news/uk/home-news/manchester-stabbing-death-murder-probe-latest-news-b3084968.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-15T13:49:55Z",
+ "date": "2026-11-15",
+ "old_title": "Police launch murder investigation after 27-year-old fatally stabbed",
+ "new_title": "Police launch murder investigation after 27-year-old fatally stabbed",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nPolice have launched a murder investigation after a man was stabbed to death in Manchester early on Saturday morning.\nGreater Manchester Police were called to Moss Bank, Crumpsall at around 1.34am following reports from the North West Ambulance Service that a 27-year-old man had suffered several stab wounds.\nThe man was taken to hospital for treatment, but died from his injuries in the ambulance.\nNo arrests have been made, but police said initial enquiries suggested that the victim was attacked by a number of males.\nThe group of men are believed to have been wearing dark clothing and balaclavas and fled the scene in the direction of Ash Tree Road.\nPolice said enquiries remain ongoing with and a significant police presence is in place near the scene.\nThe force has urged anyone who witnessed the incident, or who may have CCTV, doorbell, mobile phone or dashcam footage from the area, to come forward immediately.\nDetective Inspector Neil Higginson the Senior Investigating Officer from our Major Incident Team said: \"First and foremost, my thoughts are with the victim's family and loved ones at this devastating time.\n\"This was a shocking and tragic attack which has resulted in a young man losing his life. We are carrying out extensive enquiries to establish exactly what happened and identify everyone involved.\n\"There will be a significant police presence in the area while our investigation continues, and I would like to reassure the community that we are pursuing all available lines of enquiry.\n\"A scene will remain in place on both Moss Bank and Ash Tree Road as forensic opportunities are explored.\n\"I would urge anyone who witnessed the incident or has any information that could assist our investigation to contact us however insignificant you think it might be.\n\"Anyone with information is asked to contact GMP on 101 quoting log 208 of 14/11/2026, or via the LiveChat service at gmp.police.uk. Information can also be passed anonymously to Crimestoppers on 0800 555 111.\"\nMore follows on this breaking news story. Subscribe here to get the latest updates from The Independent",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nPolice have launched a murder investigation after a man was stabbed to death in Manchester early on Saturday morning.\nGreater Manchester Police were called to Moss Bank, Crumpsall at around 1.34am following reports from the North West Ambulance Service that a 27-year-old man had suffered several stab wounds.\nThe man was taken to hospital for treatment, but died from his injuries in the ambulance.\nNo arrests have been made, but police said initial enquiries suggested that the victim was attacked by several males.\nThe group of men are believed to have been wearing dark clothing and balaclavas and fled the scene in the direction of Ash Tree Road.\nPolice said enquiries remain ongoing, and a significant police presence is in place near the scene.\nThe force has urged anyone who witnessed the incident, or who may have CCTV, doorbell, mobile phone or dashcam footage from the area, to come forward immediately.\nDetective Inspector Neil Higginson, the senior investigating officer from the Major Incident Team, said: \"First and foremost, my thoughts are with the victim's family and loved ones at this devastating time.\n\"This was a shocking and tragic attack which has resulted in a young man losing his life. We are carrying out extensive enquiries to establish exactly what happened and identify everyone involved.\n\"There will be a significant police presence in the area while our investigation continues, and I would like to reassure the community that we are pursuing all available lines of enquiry.\n\"A scene will remain in place on both Moss Bank and Ash Tree Road as forensic opportunities are explored.\n\"I would urge anyone who witnessed the incident or has any information that could assist our investigation to contact us however insignificant you think it might be.\n\"Anyone with information is asked to contact GMP on 101 quoting log 208 of 14/11/2026, or via the LiveChat service at gmp.police.uk. Information can also be passed anonymously to Crimestoppers on 0800 555 111.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "but police said initial enquiries suggested that the victim was attacked by"
+    ],
+    [
+     "del",
+     "a number of"
+    ],
+    [
+     "ins",
+     "several"
+    ],
+    [
+     "eq",
+     "males. The group of men are believed to have been wearing dark"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "scene in the direction of Ash Tree Road. Police said enquiries remain"
+    ],
+    [
+     "del",
+     "ongoing with"
+    ],
+    [
+     "ins",
+     "ongoing,"
+    ],
+    [
+     "eq",
+     "and a significant police presence is in place near the scene. The"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "dashcam footage from the area, to come forward immediately. Detective Inspector Neil"
+    ],
+    [
+     "del",
+     "Higginson"
+    ],
+    [
+     "ins",
+     "Higginson,"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "Senior Investigating Officer"
+    ],
+    [
+     "ins",
+     "senior investigating officer"
+    ],
+    [
+     "eq",
+     "from"
+    ],
+    [
+     "del",
+     "our"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "Major Incident"
+    ],
+    [
+     "del",
+     "Team"
+    ],
+    [
+     "ins",
+     "Team,"
+    ],
+    [
+     "eq",
+     "said: \"First and foremost, my thoughts are with the victim's family and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Information can also be passed anonymously to Crimestoppers on 0800 555 111.\""
+    ],
+    [
+     "del",
+     "More follows on this breaking news story. Subscribe here to get the latest updates from The Independent"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0952,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9967,
+ "adjudicated_by": "rules"
+}
