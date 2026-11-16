@@ -1,0 +1,52 @@
+{
+ "id": "144adebc8f7ddd51-1a0712ac-04920c97",
+ "url": "https://www.theguardian.com/stage/2026/nov/15/cranford-review-orange-tree-theatre-tamsin-greig",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Culture",
+ "country": "United Kingdom",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-11-16T15:31:23Z",
+ "date": "2026-11-16",
+ "old_title": "Tamsin Greig is sensational in a Cranford where comedy and pain are in perfect balance",
+ "new_title": "Tamsin Greig is sensational in a Cranford where comedy and pain are in perfect balance",
+ "old_text": "There's more than one worry for any new dramatisation of Elizabeth Gaskell's novel to contend with. There is the risk of this story, set among the unmarried women and widows of a fictional English town, being considered Middlemarch lite - and overshadowed by the Royal Shakespeare Company's luminous adaptation of the George Eliot novel, currently running in Stratford-Upon-Avon. Then there is the 2007 BBC adaptation of Cranford, which threw every national treasure at it, trowelling on the loveable humour and sentiment as it did so.\nThis production, however, co-created by Lin Coghlan, Shaun McKenna and Josh Roche, bypasses all those dangers by leaning into theatricality - and sheer good acting. The script is by Coghlan and McKenna, who previously adapted The Forsyte Saga, staged last year by the RSC. They confidently fillet the original and also add their own little inventions.\nDirected by Roche, it feels neither truncated during its shortcuts nor contrived in its new bits. The production gets to the heart of these women, who face death, heartbreak and the loss of men around them, but come to gain from the strength of female friendship.\nIt is lovely to see a play led by such strong women - characters and performers. Tamsin Greig seems made for the role of Matty Jenkyns, the more obedient and awkward sister to Deborah (Abigail Cruttenden). She is sensational, balancing gawky comedy with a yearning for a life unlived through duty and misfortune.\nEliza Cleghorn (Phoebe Pryce) is their visitor from Manchester in place of Gaskell's Mary Smith and her name plays on Gaskell's own, as does her storyline of secret loss. Pryce makes an upright Eliza with a passing resemblance to Eliot's young Dorothea in her uncompromising morality, while Sara Crowe serves up naively comic one-liners as Mrs Forrester, and Alexandra Gilbreath brings a gossip's winking ways as Miss Pole.\nThe storyline of housemaid Martha (Saffron Dey) and her relationship with Jem (Robert Merriam) acquires additional elements, while the reason for the disappearance of Peter Jenkyns (Jonny Glynn) is graphically spelled out.\nThere is a beautiful light touch to Natalie Johnson's set design: curtains swish down for the women's trip to the magic show; a circle of chairs are brought on for the women to become card-playing gossips, and fast friends. The theatre's auditorium, in the round, and Jamie Platt's emotional lighting, burnish it all with intimacy. The play between sentiment, humour and private pain is perfect: the last two elements stop the effect from becoming too mawkish. A delightful surprise and a must-see for the festive season.",
+ "new_text": "There's more than one worry for any new dramatisation of Elizabeth Gaskell's novel to contend with. There is the risk of this story, set among the unmarried women and widows of a fictional English town, being considered Middlemarch lite - and overshadowed by the Royal Shakespeare Company's luminous adaptation of the George Eliot novel, currently running in Stratford-Upon-Avon. Then there is the 2007 BBC adaptation of Cranford, which threw every national treasure at it, trowelling on the lovable humour and sentiment as it did so.\nThis production, however, co-created by Lin Coghlan, Shaun McKenna and Josh Roche, bypasses all those dangers by leaning into theatricality - and sheer good acting. The script is by Coghlan and McKenna, who previously adapted The Forsyte Saga, staged last year by the RSC. They confidently fillet the original and also add their own little inventions.\nDirected by Roche, it feels neither truncated during its shortcuts nor contrived in its new bits. The production gets to the heart of these women, who face death, heartbreak and the loss of men around them, but come to gain from the strength of female friendship.\nIt is lovely to see a play led by such strong women - characters and performers. Tamsin Greig seems made for the role of Matty Jenkyns, the more obedient and awkward sister to Deborah (Abigail Cruttenden). She is sensational, balancing gawky comedy with a yearning for a life unlived through duty and misfortune.\nEliza Cleghorn (Phoebe Pryce) is their visitor from Manchester in place of Gaskell's Mary Smith and her name plays on Gaskell's own, as does her storyline of secret loss. Pryce makes an upright Eliza with a passing resemblance to Eliot's young Dorothea in her uncompromising morality, while Sara Crowe serves up naively comic one-liners as Mrs Forrester, and Alexandra Gilbreath brings a gossip's winking ways as Miss Pole.\nThe storyline of housemaid Martha (Saffron Dey) and her relationship with Jem (Robert Merriam) acquires additional elements, while the reason for the disappearance of Peter Jenkyns (Jonny Glynn) is graphically spelled out.\nThere is a beautiful light touch to Natalie Johnson's set design: curtains swish down for the women's trip to the magic show; a circle of chairs are brought on for the women to become card-playing gossips, and fast friends. The theatre's auditorium, in the round, and Jamie Platt's emotional lighting, burnish it all with intimacy. The play between sentiment, humour and private pain is perfect: the last two elements stop the effect from becoming too mawkish. A delightful surprise and a must-see for the festive season.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "of Cranford, which threw every national treasure at it, trowelling on the"
+    ],
+    [
+     "del",
+     "loveable"
+    ],
+    [
+     "ins",
+     "lovable"
+    ],
+    [
+     "eq",
+     "humour and sentiment as it did so. This production, however, co-created by"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0047,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9998,
+ "adjudicated_by": "rules"
+}

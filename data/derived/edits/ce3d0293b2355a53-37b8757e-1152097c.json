@@ -1,0 +1,150 @@
+{
+ "id": "ce3d0293b2355a53-37b8757e-1152097c",
+ "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-11-16T15:33:12Z",
+ "date": "2026-11-16",
+ "old_title": "With Starship catch, SpaceX still shows it can dazzle the world",
+ "new_title": "With Starship catch, SpaceX still shows it can dazzle the world",
+ "old_text": "STARBASE, Texas-The black and silver ship fell out of the sky, emerging from the cloud deck near the very end of its flight. Incongruously, the rocket flew horizontal until the last moment when three Raptor rocket engines ignited and it swooped into a vertical position.\nSlowly, gently, haltingly, the Starship upper stage eased its way toward the waiting tower where two arms extended outward, awaiting expectantly. The margins are so incredibly narrow. Two nubs on either side of the rocket, each protruding only about one foot, were the only purchase the rocket would have on the arms.\nThen, less than a minute after it came into view, the Starship upper stage was snagged by the launch tower, as snug as you like. And so it was all over. SpaceX, nearly a quarter of a century after its founding, had just taken a hugely significant step toward developing and optimizing a massive, rapidly reusable rocket.\nWe are dazzled\nThis was a breathtaking feat; a brilliant technical achievement that required the best engineering minds to think through a million different, difficult problems. And on Saturday evening, following a handful of practice runs into the Indian Ocean, they did it before the entire world.\nWatching Starship launch from here a little less than a day earlier, and knowing it had orbited the planet multiple times, added to the sense of unreality in seeing this spaceship return to Earth under its own power, and be captured by the tower.\nIt felt like stepping into the future. SpaceX has dazzled us before, by landing rockets on barges and returning humans to space with Crew Dragon. But this flight took things to another level. Starships are huge. They carry a huge amount of energy coming back from orbit. And until a few years ago, it seemed beyond fantastical to think about capturing a rocket with what are essentially outsized chopsticks.\nNevertheless, it happened.\nRapid reuse is firmly on the horizon\nHumans have built reusable spacecraft that flew into orbit before. In the 1970s, flush with confidence after the triumphant Moon landings, NASA designed and built several Space Shuttles. They had solid rocket boosters that were fished from the ocean and reused. The large orange external tank was not recovered after each flight, but the orbiters went to space for two weeks, or even longer, before returning to Earth and landing on a runway.",
+ "new_text": "STARBASE, Texas-The black-and-silver ship fell out of the sky, emerging from the cloud deck near the very end of its flight. Incongruously, the rocket flew horizontally until the last moment, when three Raptor rocket engines ignited and it swooped into a vertical position.\nSlowly, gently, haltingly, the Starship upper stage eased its way toward the waiting tower where two arms extended outward, awaiting expectantly. The margins are so incredibly narrow. Two nubs on either side of the rocket, each protruding only about 1 foot, were the only purchase the rocket would have on the arms.\nThen, less than a minute after it came into view, the Starship upper stage was snagged by the launch tower, as snug as you like. And so it was all over. SpaceX, nearly a quarter of a century after its founding, had just taken a hugely significant step toward developing and optimizing a massive, rapidly reusable rocket.\nWe are dazzled\nThis was a breathtaking feat; a brilliant technical achievement that required the best engineering minds to think through a million different difficult problems. And on Saturday evening, following a handful of practice runs into the Indian Ocean, they did it before the entire world.\nWatching Starship launch from here a little less than a day earlier, and knowing it had orbited the planet multiple times, added to the sense of unreality in seeing this spaceship return to Earth under its own power and be captured by the tower.\nIt felt like stepping into the future. SpaceX has dazzled us before by landing rockets on barges and returning humans to space with Crew Dragon. But this flight took things to another level. Starships are huge. They carry a huge amount of energy coming back from orbit. And until a few years ago, it seemed beyond fantastical to think about capturing a rocket with what are essentially outsized chopsticks.\nNevertheless, it happened.\nRapid reuse is firmly on the horizon\nHumans have built reusable spacecraft that flew into orbit before. In the 1970s, flush with confidence after the triumphant Moon landings, NASA designed and built several Space Shuttles. They had solid rocket boosters that were fished from the ocean and reused. The large orange external tank was not recovered after each flight, but the orbiters went to space for two weeks, or even longer, before returning to Earth and landing on a runway.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "STARBASE, Texas-The"
+    ],
+    [
+     "del",
+     "black and silver"
+    ],
+    [
+     "ins",
+     "black-and-silver"
+    ],
+    [
+     "eq",
+     "ship fell out of the sky, emerging from the cloud deck near the very end of its flight. Incongruously, the rocket flew"
+    ],
+    [
+     "del",
+     "horizontal"
+    ],
+    [
+     "ins",
+     "horizontally"
+    ],
+    [
+     "eq",
+     "until the last"
+    ],
+    [
+     "del",
+     "moment"
+    ],
+    [
+     "ins",
+     "moment,"
+    ],
+    [
+     "eq",
+     "when three Raptor rocket engines ignited and it swooped into a vertical"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Two nubs on either side of the rocket, each protruding only about"
+    ],
+    [
+     "del",
+     "one"
+    ],
+    [
+     "ins",
+     "1"
+    ],
+    [
+     "eq",
+     "foot, were the only purchase the rocket would have on the arms."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "achievement that required the best engineering minds to think through a million"
+    ],
+    [
+     "del",
+     "different,"
+    ],
+    [
+     "ins",
+     "different"
+    ],
+    [
+     "eq",
+     "difficult problems. And on Saturday evening, following a handful of practice runs"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of unreality in seeing this spaceship return to Earth under its own"
+    ],
+    [
+     "del",
+     "power,"
+    ],
+    [
+     "ins",
+     "power"
+    ],
+    [
+     "eq",
+     "and be captured by the tower. It felt like stepping into the future. SpaceX has dazzled us"
+    ],
+    [
+     "del",
+     "before,"
+    ],
+    [
+     "ins",
+     "before"
+    ],
+    [
+     "eq",
+     "by landing rockets on barges and returning humans to space with Crew"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0403,
+  "numbers_changed": [
+   "1"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9894,
+ "adjudicated_by": "rules"
+}

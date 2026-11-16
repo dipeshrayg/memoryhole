@@ -1,0 +1,76 @@
+{
+ "id": "224eede924c131dd-e65f3240-6af0db62",
+ "url": "https://www.abc.net.au/news/2026-11-15/wa-police-charge-man-murder-incident-keysbrook/107388014",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-16T15:22:17Z",
+ "date": "2026-11-16",
+ "old_title": "Perth man charged with murder after rural shooting death",
+ "new_title": "Perth man faces murder charge over shooting death at rural property",
+ "old_text": "Police charge 38yo Perth man with murder after Keysbrook shooting death\nIn short:\nPolice have charged a 38-year-old man with murder following a major security operation that was triggered by the killing of a 44-year-old man on a rural property south of Perth.\nFirearms were seized from the scene, and police say the two men were known to each other.\nWhat's next?\nThe accused is due to appear in court on Monday.",
+ "new_text": "Police charge 38yo Perth man with murder after Keysbrook shooting death\nIn short:\nPolice have charged a 38-year-old man with murder following a major security operation that was triggered by the killing of a 44-year-old man on a rural property in Perth's south.\nFirearms were seized at the scene and police say the two men were known to each other.\nWhat's next?\nThe accused is due to appear in court on Monday.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "triggered by the killing of a 44-year-old man on a rural property"
+    ],
+    [
+     "del",
+     "south of Perth."
+    ],
+    [
+     "ins",
+     "in Perth's south."
+    ],
+    [
+     "eq",
+     "Firearms were seized"
+    ],
+    [
+     "del",
+     "from"
+    ],
+    [
+     "ins",
+     "at"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "scene,"
+    ],
+    [
+     "ins",
+     "scene"
+    ],
+    [
+     "eq",
+     "and police say the two men were known to each other. What's next? The accused is due to appear in court on Monday."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1389,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9994,
+ "adjudicated_by": "rules"
+}
