@@ -1,0 +1,68 @@
+{
+ "id": "21d8d76d09ce873d-5029d3cf-6ea4d61a",
+ "url": "https://www.theguardian.com/football/2026/nov/16/david-beckham-fragrance-sale-poundland-bargain-bin-gas-station",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-11-17T15:56:02Z",
+ "date": "2026-11-17",
+ "old_title": "Beckham firm sues after fragrance found for sale in Poundland",
+ "new_title": "Beckham firm sues after fragrance found for sale in discount store",
+ "old_text": "David Beckham's company reacted with \"shock and dismay\" after discovering his branded fragrance range was on sale in petrol stations and in Poundland, court documents have revealed.\nThe former England football captain's brand, DB Ventures, has launched a lawsuit against the distributor of the products, arguing it allowed them to be sold in stores that had not been agreed upon.\nDB Ventures claimed to have discovered the perfumes for sale in the troubled UK budget retailer and in a \"bargain bin inside a gas station\" at an unspecified location, according to court papers filed in New York.\nLawyers acting for Beckham's company said it reflected \"desperation and greed\" by the perfume company, Coty.\nCoty, which is headquartered in the Netherlands, has worked with Beckham's brand for more than a decade and has produced more than 30 different fragrances bearing his name. In the UK, they sell at about £20 per bottle.\nLawyers claimed that Coty sold at least $24m (£18m) of Beckham products through \"unapproved distribution channels\".\nIn the court filing, they said: \"DB Ventures, the licensor of the David Beckham brand, ensures that all of its brand licensing partnerships maintain the lifestyle and luxury image of the brand that Sir David has carefully cultivated for decades.\n\"Imagine, then, the shock and dismay experienced when DB Ventures discovered that David Beckham products were being offered for sale in a gas station. How could this possibly have happened? Desperation and greed.\"\nThe legal documents, filed at the supreme court in New York and first reported by the Daily Mail, allege that Coty had \"distributed David Beckham fragrances through the budget retailer Poundland, allowing the product to be sold for dollar store prices and associating the David Beckham brand with cheap, discount products.\"\nThe lawyers asked for compensation and damages totalling $41m. They also claimed Coty under-reported net sales by $123m, which would mean that DB Ventures lost $6m in unpaid royalties.\nCoty filed its defence, asking for the case to be dismissed. It denied that it had ever sold the fragrances in Poundland, but argued that it had the right to decide where it wanted to sell its David Beckham range.\nBeckham, who retired from professional football in 2013, has built a multimillion-pound business empire, DRJB Holdings, around his brand. The group is made up of three divisions, the largest of which is DB Ventures, which covers most of his commercial partnerships with brands such as Hugo Boss.\nThe Seven Global division contains licensing agreements with companies such as Adidas, and the remainder of the business is Studio 99, the production studio that made Netflix documentaries about the lives of himself and of his wife, the former Spice Girl and fashion designer Victoria Beckham.\nThis year David Beckham received a $51m dividend from the group, after a series of lucrative brand deals for the Fifa World Cup. He appeared in about a dozen ad campaigns during the tournament this summer, working with brands such as Lenovo, McDonald's and Bank of America.\nThe Beckhams are together worth an estimated £1.2bn, according to the most recent Sunday Times Rich List.\nDB Ventures and Coty were approached for comment.",
+ "new_text": "David Beckham's company reacted with \"shock and dismay\" after discovering his branded fragrance range was on sale in petrol stations and in the British discount store Poundland, court documents have revealed.\nThe former England football captain's brand, DB Ventures, has launched a lawsuit against the distributor of the products, arguing it allowed them to be sold in stores that had not been agreed upon.\nDB Ventures claimed to have discovered the perfumes for sale in the troubled UK budget retailer and in a \"bargain bin inside a gas station\" at an unspecified location, according to court papers filed in New York.\nLawyers acting for Beckham's company said it reflected \"desperation and greed\" by the perfume company, Coty.\nCoty, which is headquartered in the Netherlands, has worked with Beckham's brand for more than a decade and has produced more than 30 different fragrances bearing his name. In the UK, they sell at about £20 a bottle.\nLawyers claimed that Coty sold at least $24m (£18m) of Beckham products through \"unapproved distribution channels\".\nIn the court filing, they said: \"DB Ventures, the licensor of the David Beckham brand, ensures that all of its brand licensing partnerships maintain the lifestyle and luxury image of the brand that Sir David has carefully cultivated for decades.\n\"Imagine, then, the shock and dismay experienced when DB Ventures discovered that David Beckham products were being offered for sale in a gas station. How could this possibly have happened? Desperation and greed.\"\nThe legal documents, filed at the supreme court in New York and first reported by the Daily Mail, allege that Coty had \"distributed David Beckham fragrances through the budget retailer Poundland, allowing the product to be sold for dollar store prices and associating the David Beckham brand with cheap, discount products.\"\nThe lawyers asked for compensation and damages totalling $41m. They also claimed Coty under-reported net sales by $123m, which would mean that DB Ventures lost $6m in unpaid royalties.\nCoty filed its defence, asking for the case to be dismissed. It denied that it had ever sold the fragrances in Poundland, but argued that it had the right to decide where it wanted to sell its David Beckham range.\nBeckham, who retired from professional football in 2013, has built a multimillion-pound business empire, DRJB Holdings, around his brand. The group is made up of three divisions, the largest of which is DB Ventures, which covers most of his commercial partnerships with brands such as Hugo Boss.\nThe Seven Global division contains licensing agreements with companies such as Adidas, and the remainder of the business is Studio 99, the production studio that made Netflix documentaries about the lives of himself and of his wife, the former Spice Girl and fashion designer Victoria Beckham.\nThis year David Beckham received a $51m dividend from the group, after a series of lucrative brand deals for the Fifa World Cup. He appeared in about a dozen ad campaigns during the tournament this summer, working with brands such as Lenovo, McDonald's and Bank of America.\nThe Beckhams are together worth an estimated £1.2bn, according to the most recent Sunday Times Rich List.\nDB Ventures and Coty were approached for comment.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "his branded fragrance range was on sale in petrol stations and in"
+    ],
+    [
+     "ins",
+     "the British discount store"
+    ],
+    [
+     "eq",
+     "Poundland, court documents have revealed. The former England football captain's brand, DB"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "fragrances bearing his name. In the UK, they sell at about £20"
+    ],
+    [
+     "del",
+     "per"
+    ],
+    [
+     "ins",
+     "a"
+    ],
+    [
+     "eq",
+     "bottle. Lawyers claimed that Coty sold at least $24m (£18m) of Beckham"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0114,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9952,
+ "adjudicated_by": "rules"
+}

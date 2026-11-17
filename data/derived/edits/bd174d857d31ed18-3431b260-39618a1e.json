@@ -1,0 +1,284 @@
+{
+ "id": "bd174d857d31ed18-3431b260-39618a1e",
+ "url": "https://www.independent.co.uk/news/uk/politics/welsh-labour-prime-minister-andy-burnham-lee-anderson-b3085192.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-17T15:50:08Z",
+ "date": "2026-11-17",
+ "old_title": "No 10 says PM writes 'most of his own speeches' after aide seen using ChatGPT",
+ "new_title": "No 10 responds after Burnham's aide spotted using ChatGPT on train",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nAndy Burnham writes \"most of his own speeches\", Downing Street has said after an aide was pictured using ChatGPT.\nOne of the Prime Minister's team was photographed seeking feedback from the AI agent on a draft of his address to the Welsh Labour conference on Saturday, with the chatbot then suggesting how to make it \"a little more emotive\".\nThe picture, published by the Mail on Sunday, appears to show the aide drinking Prosecco while working on the speech on an afternoon train from London Euston to Holyhead.\nA No 10 spokesperson said: \"The PM writes most of his own speeches. An aide sought feedback on a speech draft that had already been written.\"\nIt is understood that the ChatGPT suggestions were not ultimately used.\nAccording to the Mail, the chatbot had written: \"I prefer the second (passage). It moves from the miners to their families to the wider community, showing how the experience of industrial work created bonds well beyond the workplace.\"\nMr Burnham used his speech on Saturday to speak about the importance of \"industry\" in giving people a \"deep sense of belonging\", describing the workplaces in Wales that \"created a way of life, the social infrastructure that we took for granted, the working men's clubs, the sports teams, the choirs, the trade unions\".\nCriticising Margaret Thatcher's legacy, he said the country \"took some wrong turns in the 1980s that shattered the way of life for communities up and down Britain\".\n\"Economic power privatised, political power centralised and, overall, a loss of agency in places up and down Britain,\" he said.\n\"The mines closed, factories closed, steelworks silenced. It was felt everywhere.\n\"And, you know, that has kind of left us for 40 years in a place where communities haven't had the power that they needed to turn things around.\"\nReform UK chairman Lee Anderson joked that it must be \"thirsty work\" writing the Prime Minister's speeches.\n\"AI Andy's man-of-the-people act has been exposed as a sham,\" he said.",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nDowning Street says Andy Burnham writes \"most of his own speeches\" after an advisor was photographed using ChatGPT.\nA member of the Prime Minister's team was captured seeking feedback from the AI software on a draft for Saturday's Welsh Labour conference, with the application recommending steps to render the address \"a little more emotive\".\nThe photograph, published by the Mail on Sunday, seemingly shows the staff member drinking Prosecco whilst working on the text aboard an afternoon train travelling from London Euston to Holyhead.\nA No. 10 spokesperson said: \"The PM writes most of his own speeches. An aide sought feedback on a speech draft that had already been written.\"\nIt is understood that the suggestions offered by ChatGPT were not incorporated into the speech.\nAccording to the Mail, the chatbot had written: \"I prefer the second (passage). It moves from the miners to their families to the wider community, showing how the experience of industrial work created bonds well beyond the workplace.\"\nMr Burnham used his speech on Saturday to speak about the importance of \"industry\" in giving people a \"deep sense of belonging\", describing the workplaces in Wales that \"created a way of life, the social infrastructure that we took for granted, the working men's clubs, the sports teams, the choirs, the trade unions\".\nCriticising Margaret Thatcher's legacy, he said the country \"took some wrong turns in the 1980s that shattered the way of life for communities up and down Britain\".\n\"Economic power privatised, political power centralised and, overall, a loss of agency in places up and down Britain,\" he said.\n\"The mines closed, factories closed, steelworks silenced. It was felt everywhere.\n\"And, you know, that has kind of left us for 40 years in a place where communities haven't had the power that they needed to turn things around.\"\nReform UK chairman Lee Anderson joked that it must be \"thirsty work\" writing the Prime Minister's speeches.\n\"AI Andy's man-of-the-people act has been exposed as a sham,\" he said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Start your Independent Membership today. Join today Already a member? Log in"
+    ],
+    [
+     "ins",
+     "Downing Street says"
+    ],
+    [
+     "eq",
+     "Andy Burnham writes \"most of his own"
+    ],
+    [
+     "del",
+     "speeches\", Downing Street has said"
+    ],
+    [
+     "ins",
+     "speeches\""
+    ],
+    [
+     "eq",
+     "after an"
+    ],
+    [
+     "del",
+     "aide"
+    ],
+    [
+     "ins",
+     "advisor"
+    ],
+    [
+     "eq",
+     "was"
+    ],
+    [
+     "del",
+     "pictured"
+    ],
+    [
+     "ins",
+     "photographed"
+    ],
+    [
+     "eq",
+     "using ChatGPT."
+    ],
+    [
+     "del",
+     "One"
+    ],
+    [
+     "ins",
+     "A member"
+    ],
+    [
+     "eq",
+     "of the Prime Minister's team was"
+    ],
+    [
+     "del",
+     "photographed"
+    ],
+    [
+     "ins",
+     "captured"
+    ],
+    [
+     "eq",
+     "seeking feedback from the AI"
+    ],
+    [
+     "del",
+     "agent"
+    ],
+    [
+     "ins",
+     "software"
+    ],
+    [
+     "eq",
+     "on a draft"
+    ],
+    [
+     "del",
+     "of his address to the"
+    ],
+    [
+     "ins",
+     "for Saturday's"
+    ],
+    [
+     "eq",
+     "Welsh Labour"
+    ],
+    [
+     "del",
+     "conference on Saturday,"
+    ],
+    [
+     "ins",
+     "conference,"
+    ],
+    [
+     "eq",
+     "with the"
+    ],
+    [
+     "del",
+     "chatbot then suggesting how"
+    ],
+    [
+     "ins",
+     "application recommending steps"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "make it"
+    ],
+    [
+     "ins",
+     "render the address"
+    ],
+    [
+     "eq",
+     "\"a little more emotive\". The"
+    ],
+    [
+     "del",
+     "picture,"
+    ],
+    [
+     "ins",
+     "photograph,"
+    ],
+    [
+     "eq",
+     "published by the Mail on Sunday,"
+    ],
+    [
+     "del",
+     "appears to show"
+    ],
+    [
+     "ins",
+     "seemingly shows"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "aide"
+    ],
+    [
+     "ins",
+     "staff member"
+    ],
+    [
+     "eq",
+     "drinking Prosecco"
+    ],
+    [
+     "del",
+     "while"
+    ],
+    [
+     "ins",
+     "whilst"
+    ],
+    [
+     "eq",
+     "working on the"
+    ],
+    [
+     "del",
+     "speech on"
+    ],
+    [
+     "ins",
+     "text aboard"
+    ],
+    [
+     "eq",
+     "an afternoon train"
+    ],
+    [
+     "ins",
+     "travelling"
+    ],
+    [
+     "eq",
+     "from London Euston to Holyhead. A"
+    ],
+    [
+     "del",
+     "No"
+    ],
+    [
+     "ins",
+     "No."
+    ],
+    [
+     "eq",
+     "10 spokesperson said: \"The PM writes most of his own speeches. An"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "speech draft that had already been written.\" It is understood that the"
+    ],
+    [
+     "ins",
+     "suggestions offered by"
+    ],
+    [
+     "eq",
+     "ChatGPT"
+    ],
+    [
+     "del",
+     "suggestions"
+    ],
+    [
+     "eq",
+     "were not"
+    ],
+    [
+     "del",
+     "ultimately used."
+    ],
+    [
+     "ins",
+     "incorporated into the speech."
+    ],
+    [
+     "eq",
+     "According to the Mail, the chatbot had written: \"I prefer the second"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1978,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9823,
+ "adjudicated_by": "rules"
+}

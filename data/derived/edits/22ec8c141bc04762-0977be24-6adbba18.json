@@ -1,0 +1,76 @@
+{
+ "id": "22ec8c141bc04762-0977be24-6adbba18",
+ "url": "https://www.independent.co.uk/bulletin/news/rwanda-deportation-scheme-asylum-seekers-b3085480.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-17T15:50:20Z",
+ "date": "2026-11-17",
+ "old_title": "UK weighs in on EU's Rwanda deportation plan for asylum seekers",
+ "new_title": "UK watching EU plan to deport asylum seekers to Rwanda 'with interest'",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nUK weighs in on EU's Rwanda deportation plan for asylum seekers - and doesn't rule out joining\n- Five EU member states are set to unveil plans to deport rejected asylum seekers to Rwanda.\n- Downing Street has refused to rule out joining the controversial scheme, stating the UK will watch developments \"with interest\" as it explores innovative approaches to illegal migration.\n- Unlike the UK's previous Rwanda policy, the proposed European model applies exclusively to migrants who have exhausted all legal avenues to remain.\n- The original British Rwanda initiative was scrapped by Sir Keir Starmer after costing £700 million and resulting in only four voluntary removals.\n- Human rights organisations have warned of significant legal and humanitarian risks, questioning whether such a move will act as an effective deterrent.\nMore bulletins",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nUK watching EU plan to deport asylum seekers to Rwanda 'with interest'\n- Five EU member states are set to unveil plans to deport rejected asylum seekers to Rwanda.\n- Downing Street has refused to rule out joining the controversial scheme, stating the UK will watch developments \"with interest\" as it explores innovative approaches to illegal migration.\n- Unlike the UK's previous Rwanda policy, the proposed European model applies exclusively to migrants who have exhausted all legal avenues to remain.\n- The original British Rwanda initiative was scrapped by Sir Keir Starmer after costing £700 million and resulting in only four voluntary removals.\n- Human rights organisations have warned of significant legal and humanitarian risks, questioning whether such a move will act as an effective deterrent.\nMore bulletins",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "your Independent Membership today. Join today Already a member? Log in UK"
+    ],
+    [
+     "del",
+     "weighs in on EU's Rwanda deportation"
+    ],
+    [
+     "ins",
+     "watching EU"
+    ],
+    [
+     "eq",
+     "plan"
+    ],
+    [
+     "del",
+     "for"
+    ],
+    [
+     "ins",
+     "to deport"
+    ],
+    [
+     "eq",
+     "asylum seekers"
+    ],
+    [
+     "del",
+     "- and doesn't rule out joining"
+    ],
+    [
+     "ins",
+     "to Rwanda 'with interest'"
+    ],
+    [
+     "eq",
+     "- Five EU member states are set to unveil plans to deport"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1265,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9896,
+ "adjudicated_by": "rules"
+}

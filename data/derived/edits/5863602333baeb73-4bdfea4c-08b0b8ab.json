@@ -1,0 +1,120 @@
+{
+ "id": "5863602333baeb73-4bdfea4c-08b0b8ab",
+ "url": "https://news.un.org/feed/view/en/story/2026/11/1168798",
+ "domain": "news.un.org",
+ "source": "UN News",
+ "country": "International",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-17T15:51:24Z",
+ "date": "2026-11-17",
+ "old_title": "COP31: New initiative targets AI and reliable climate change information",
+ "new_title": "COP31: New initiative targets AI and reliable climate change information",
+ "old_text": "COP31: New initiative targets AI and reliable climate change information\nNew guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology impacts the environment.\nThe Priorities for Action on AI and Climate Information Integrity were launched at the COP31 climate conference in Antalya, Türkiye, on Friday by the Global Initiative for Information Integrity on Climate Change, which is co-chaired by the United Nations, its scientific agency UNESCO and Brazil.\n\"The question isn't simply whether AI is good or bad for the climate. It's whether people can rely on what they're told by AI and about it,\" said Charlotte Scaddan, Information Integrity Senior Advisor, UN Global Communications.\nFocus on facts\nAlthough more people are turning to AI for climate information, the co-chairs note that the Independent International Scientific Panel on AI - established last year by the UN General Assembly - has warned that \"producing fluent text is easier than producing factual text\" for the revolutionary tech.\nMoreover, risks can increase during climate disasters, when AI-generated images and videos can spread faster than official warnings. Meanwhile, the general public is asked to accept claims about AI's own climate impact while lacking the necessary data to evaluate its effect on the environment.\nThe global Priorities seek to uphold accountability and transparency.\nThey call for AI companies to assess how their systems affect climate information integrity, to publish their findings and disclose their energy use and carbon, water and land footprints.\nAt the same time, States are urged to integrate information integrity into national AI strategies and climate plans.\nThe Priorities are grounded in human rights and build on the Belém Declaration on Information Integrity on Climate Change, launched during COP30 last year in Brazil, and the UN Global Principles for Information Integrity.\nThe partners in the Global Initiative called for greater investment in the information people use to understand and act on climate change. So far, Germany has committed more than $2.2 million to support research, develop communication strategies and undertake public awareness campaigns.\nFriday also marked the launch of the Charter for Climate Information Integrity in Advertising which seeks to address problems such as \"monetization of disinformation and denial\", said Jake Dubbins, co-founder of the Conscious Advertising Network.\nThe charter calls for transparency across the advertising supply chain to ensure that advertisers have visibility of ad placements while respecting user privacy.\nCOP31 is focused around 10 priority themes, including clean energy transition and electrification, zero waste and climate-resilient cities. The conference concludes on 20 November.",
+ "new_text": "COP31: New initiative targets AI and reliable climate change information\nNew guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology impacts the environment.\nThe Priorities for Action on AI and Climate Information Integrity were launched at the COP31 climate conference in Antalya, Türkiye, on Friday by the Global Initiative for Information Integrity on Climate Change, which is co-chaired by the United Nations, its scientific agency UNESCO and Brazil.\n\"The question isn't simply whether AI is good or bad for the climate. It's whether people can rely on what they're told by AI and about it,\" said Charlotte Scaddan, Information Integrity Senior Advisor with the UN Department of Global Communications.\nFocus on facts\nAlthough more people are turning to AI for climate information, the co-chairs note that the Independent International Scientific Panel on AI - established last year by the UN General Assembly - has warned that \"producing fluent text is easier than producing factual text\" for the revolutionary tech.\nMoreover, risks can increase during climate disasters, when AI-generated images and videos can spread faster than official warnings. Meanwhile, the general public is asked to accept claims about AI's own climate impact while lacking the necessary data to evaluate its effect on the environment.\nThe global priorities seek to uphold accountability and transparency.\nThey call for AI companies to assess how their systems affect climate information integrity, to publish their findings and disclose their energy use and carbon, water and land footprints.\nAt the same time, States are urged to integrate information integrity into national AI strategies and climate plans.\nThe action points are grounded in human rights and build on the Belém Declaration on Information Integrity on Climate Change, launched during COP30 last year in Brazil, and the UN Global Principles for Information Integrity.\nThe partners in the initiative called for greater investment in the information people use to understand and act on climate change. So far, Germany has committed more than $2.2 million to support research, develop communication strategies and undertake public awareness campaigns.\nFriday also marked the launch of the Charter for Climate Information Integrity in Advertising which seeks to address problems such as \"monetization of disinformation and denial\", said Jake Dubbins, co-founder of the Conscious Advertising Network.\nThe charter calls for transparency across the advertising supply chain to ensure that advertisers have visibility of ad placements while respecting user privacy.\nCOP31 is focused around 10 priority themes, including clean energy transition and electrification, zero waste and climate-resilient cities. The conference concludes on 20 November.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "told by AI and about it,\" said Charlotte Scaddan, Information Integrity Senior"
+    ],
+    [
+     "del",
+     "Advisor,"
+    ],
+    [
+     "ins",
+     "Advisor with the"
+    ],
+    [
+     "eq",
+     "UN"
+    ],
+    [
+     "ins",
+     "Department of"
+    ],
+    [
+     "eq",
+     "Global Communications. Focus on facts Although more people are turning to AI"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the necessary data to evaluate its effect on the environment. The global"
+    ],
+    [
+     "del",
+     "Priorities"
+    ],
+    [
+     "ins",
+     "priorities"
+    ],
+    [
+     "eq",
+     "seek to uphold accountability and transparency. They call for AI companies to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to integrate information integrity into national AI strategies and climate plans. The"
+    ],
+    [
+     "del",
+     "Priorities"
+    ],
+    [
+     "ins",
+     "action points"
+    ],
+    [
+     "eq",
+     "are grounded in human rights and build on the Belém Declaration on"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "and the UN Global Principles for Information Integrity. The partners in the"
+    ],
+    [
+     "del",
+     "Global Initiative"
+    ],
+    [
+     "ins",
+     "initiative"
+    ],
+    [
+     "eq",
+     "called for greater investment in the information people use to understand and"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0327,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9976,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,108 @@
+{
+ "id": "c485adc10855baba-45ed4cbf-333e2120",
+ "url": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-11-17T16:01:53Z",
+ "date": "2026-11-17",
+ "old_title": "Mercedes' clever new driving assist handles complex traffic like a champ",
+ "new_title": "Mercedes' clever new driving assist handles complex traffic like a champ",
+ "old_text": "SAN FRANCISCO-When Ars first drove the new Mercedes-Benz CLA last year, the automaker also gave us a sneak preview of its next driver assist. Called Drive Assist Pro, it's for collaborative partially assisted driving, and from the passenger seat at the time, the demo was impressive. Now the automaker is getting ready to start rolling out Drive Assist Pro to customers with cars running the new MB.OS operating system here in the US and in Germany, and it let us have some time behind the wheel.\nWhile most automakers want a reputation associated with safety, Mercedes has long used passive and active technology to do so in its products. It was one of the first OEMs to introduce airbags, then a decade later started adding active safety systems like antilock brakes, electronic stability control, and adaptive cruise control. And so, by giving the car's electronics the ability to control the brakes, and throttle, we arrive at the first level of assisted driving-called \"level 1\" in automotive engineerspeak.\n\"Level 2\" assisted driving, where the car also controls the steering as well as the acceleration and braking, got famous with Tesla Autopilot. But the first lane-keeping assists predate it by almost a decade in passenger cars, when Toyota introduced a system in 2004. The human driver behind the wheel is still in charge, responsible for situational awareness (and anything that arises from a lack thereof), with the idea that long drives become less tiring and a little more effortless when the car does the boring job of keeping a constant speed or a constant distance to the car ahead and between the white lines.\n3? No, +, ++\nThe next step, numerically at least, should be level 3, where we move from assisted driving to partially automated driving; here the car takes over the task of driving fully under some circumstances, like heavy traffic. But that's getting ahead of ourselves-the main developments over the past few years have been the inelegantly named \"L2+\" systems that combine more advanced driver monitoring with a higher degree of assistance, usually on geofenced highways.",
+ "new_text": "SAN FRANCISCO-When Ars first drove the new Mercedes-Benz CLA last year, the automaker also gave us a sneak preview of its next driver assist. Called Drive Assist Pro, it's for collaborative partially assisted driving, and from the passenger seat at the time, the demo was impressive. Now the automaker is getting ready to start rolling out Drive Assist Pro to customers with cars running the new MB.OS operating system here in the US and in Germany, and it let us have some time behind the wheel.\nWhile most automakers want a reputation for safety, Mercedes has long used passive and active technology to do so in its products. It was one of the first OEMs to introduce airbags, and a decade later started adding active safety systems like anti-lock brakes, electronic stability control, and adaptive cruise control. And so, by giving the car's electronics the ability to control the brakes and throttle, we arrive at the first level of assisted driving-called \"level 1\" in automotive engineer-speak.\n\"Level 2\" assisted driving, where the car also controls the steering as well as the acceleration and braking, got famous with Tesla Autopilot. But the first lane-keeping assists predate it by almost a decade in passenger cars, when Toyota introduced a system in 2004. The human driver behind the wheel is still in charge, responsible for situational awareness (and anything that arises from a lack thereof), with the idea that long drives become less tiring and a little more effortless when the car does the boring job of keeping a constant speed or a constant distance to the car ahead and between the white lines.\n3? No, +, ++\nThe next step, numerically at least, should be level 3, where we move from assisted driving to partially automated driving; here the car takes over the task of driving fully under some circumstances, like heavy traffic. But that's getting ahead of ourselves-the main developments over the past few years have been the inelegantly named \"L2+\" systems that combine more advanced driver monitoring with a higher degree of assistance, usually on geofenced highways.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "have some time behind the wheel. While most automakers want a reputation"
+    ],
+    [
+     "del",
+     "associated with"
+    ],
+    [
+     "ins",
+     "for"
+    ],
+    [
+     "eq",
+     "safety, Mercedes has long used passive and active technology to do so"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "its products. It was one of the first OEMs to introduce airbags,"
+    ],
+    [
+     "del",
+     "then"
+    ],
+    [
+     "ins",
+     "and"
+    ],
+    [
+     "eq",
+     "a decade later started adding active safety systems like"
+    ],
+    [
+     "del",
+     "antilock"
+    ],
+    [
+     "ins",
+     "anti-lock"
+    ],
+    [
+     "eq",
+     "brakes, electronic stability control, and adaptive cruise control. And so, by giving the car's electronics the ability to control the"
+    ],
+    [
+     "del",
+     "brakes,"
+    ],
+    [
+     "ins",
+     "brakes"
+    ],
+    [
+     "eq",
+     "and throttle, we arrive at the first level of assisted driving-called \"level 1\" in automotive"
+    ],
+    [
+     "del",
+     "engineerspeak."
+    ],
+    [
+     "ins",
+     "engineer-speak."
+    ],
+    [
+     "eq",
+     "\"Level 2\" assisted driving, where the car also controls the steering as"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0316,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9954,
+ "adjudicated_by": "rules"
+}

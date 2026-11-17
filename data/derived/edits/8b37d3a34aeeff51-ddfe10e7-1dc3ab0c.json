@@ -1,0 +1,52 @@
+{
+ "id": "8b37d3a34aeeff51-ddfe10e7-1dc3ab0c",
+ "url": "https://www.abc.net.au/news/2026-11-16/flight-delays-cancellations-at-sydney-airport/107392306",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-17T15:49:31Z",
+ "date": "2026-11-17",
+ "old_title": "104 flights cancelled due to weather conditions at Sydney Airport",
+ "new_title": "104 flights cancelled due to weather conditions at Sydney Airport",
+ "old_text": "Airline travellers have experienced major delays at Sydney Airport due to severe weather conditions, with 104 flight cancellations recorded so far.\nWind and cloud activity had impacted flights to and from Sydney Airport, with the bulk of cancellations affecting domestic routes.\nIn a statement, an Airservices Australia spokesperson confirmed the delays, recommending passengers check with their airline for flight updates.\n\"Aircraft delays are being experienced in Sydney today with factors including cloud and wind affecting air traffic operations,\" they said.\n\"Airservices is working with industry to safely manage air traffic demand throughout the day.\"\nThere was also Virgin Australia ground crew industrial action related to pay and working conditions that took place on Monday.\nA Virgin Australia spokesperson said there were a number of \"contingencies in place\" to ensure the industrial action did not impact operations or passengers' travel.\nThe airline was working to minimise the weather-related disruption to guests.\nA Qantas spokesperson said the adverse weather had resulted in a ground delay program being put in place by Airservices Australia, affecting all airlines.\n\"[This] has caused disruptions and cancellations across our network. A small number of services were cancelled overnight in preparation for the ground delay program,\" the spokesperson said.\n\"Customers were contacted directly and re-accommodated on alternate flights within 24 hours of their original booking.\"\nThe airline was working to up-gauge some aircraft to increase capacity and recover cancelled flights.\nHours of waiting and frustration\nToula Vorinos's Virgin flight to Melbourne was due to depart Sydney at 10am this morning before it was cancelled.\nAt 8pm she was still waiting at the airport, and had managed to secure a seat on a Jetstar flight leaving at 9:15pm.\n\"We got a notification when we got off the boat on the way to the airport ... and we've been waiting since literally 7:20 this morning,\" she said.\n\"We were told about the weather conditions ... I feel frustrated and tired.\"\nBrownwyn Jackson from the Sunshine Coast was struggling to get accommodation near the airport after the cancellation of her connecting flight to Hobart.\n\"So, have been trying for the past two hours to get another flight that didn't happen, so now trying to get accommodation and an alternative flight tomorrow [Tuesday] hopefully,\" she said.\n\"I've got accommodation in Hobart booked for a week, so it's quite a waste of money as well, plus the extra night tonight, so very frustrating.\"\nMs Jackson said she received no notice about the disruption, and found out from another passenger when she went to check-in.\nBarbara Evans got notified that her evening flight to Launceston was not going ahead while at the airport.\nShe had arrived three hours prior to departure, and has since been trying to work on alternatives to get home.\n\"I can't get down there even via Melbourne tonight. I can't do it on Jetstar tomorrow, I can't do it direct on Virgin tomorrow,\" she said.\n\"I could do it by going to the Gold Coast and then the Gold Coast to Adelaide ... it's totally crazy.\n\"And that ticket is $1,400 one way, so I decided to stay two nights, and find a hotel and kill a day in Sydney. It's better.\"\nAidan Osmani told the ABC it was \"frustrating\" after his flight to Brisbane for a work trip was cancelled, and his rescheduled flight was going to the Gold Coast.\nHe had been waiting at the airport for more than an hour-and-a-half.\n\"It is what it is, and just have to be patient and wait,\" he said.",
+ "new_text": "Airline travellers have experienced major delays at Sydney Airport due to severe weather conditions, with 104 flight cancellations recorded on Monday night\nWind and cloud activity had impacted flights to and from Sydney Airport, with the bulk of cancellations affecting domestic routes.\nIn a statement, an Airservices Australia spokesperson confirmed the delays, recommending passengers check with their airline for flight updates.\n\"Aircraft delays are being experienced in Sydney today with factors including cloud and wind affecting air traffic operations,\" they said.\n\"Airservices is working with industry to safely manage air traffic demand throughout the day.\"\nThere was also Virgin Australia ground crew industrial action related to pay and working conditions that took place on Monday.\nA Virgin Australia spokesperson said there were a number of \"contingencies in place\" to ensure the industrial action did not impact operations or passengers' travel.\nThe airline was working to minimise the weather-related disruption to guests.\nA Qantas spokesperson said the adverse weather had resulted in a ground delay program being put in place by Airservices Australia, affecting all airlines.\n\"[This] has caused disruptions and cancellations across our network. A small number of services were cancelled overnight in preparation for the ground delay program,\" the spokesperson said.\n\"Customers were contacted directly and re-accommodated on alternate flights within 24 hours of their original booking.\"\nThe airline was working to up-gauge some aircraft to increase capacity and recover cancelled flights.\nHours of waiting and frustration\nToula Vorinos's Virgin flight to Melbourne was due to depart Sydney at 10am this morning before it was cancelled.\nAt 8pm she was still waiting at the airport, and had managed to secure a seat on a Jetstar flight leaving at 9:15pm.\n\"We got a notification when we got off the boat on the way to the airport ... and we've been waiting since literally 7:20 this morning,\" she said.\n\"We were told about the weather conditions ... I feel frustrated and tired.\"\nBrownwyn Jackson from the Sunshine Coast was struggling to get accommodation near the airport after the cancellation of her connecting flight to Hobart.\n\"So, have been trying for the past two hours to get another flight that didn't happen, so now trying to get accommodation and an alternative flight tomorrow [Tuesday] hopefully,\" she said.\n\"I've got accommodation in Hobart booked for a week, so it's quite a waste of money as well, plus the extra night tonight, so very frustrating.\"\nMs Jackson said she received no notice about the disruption, and found out from another passenger when she went to check-in.\nBarbara Evans got notified that her evening flight to Launceston was not going ahead while at the airport.\nShe had arrived three hours prior to departure, and has since been trying to work on alternatives to get home.\n\"I can't get down there even via Melbourne tonight. I can't do it on Jetstar tomorrow, I can't do it direct on Virgin tomorrow,\" she said.\n\"I could do it by going to the Gold Coast and then the Gold Coast to Adelaide ... it's totally crazy.\n\"And that ticket is $1,400 one way, so I decided to stay two nights, and find a hotel and kill a day in Sydney. It's better.\"\nAidan Osmani told the ABC it was \"frustrating\" after his flight to Brisbane for a work trip was cancelled, and his rescheduled flight was going to the Gold Coast.\nHe had been waiting at the airport for more than an hour-and-a-half.\n\"It is what it is, and just have to be patient and wait,\" he said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Sydney Airport due to severe weather conditions, with 104 flight cancellations recorded"
+    ],
+    [
+     "del",
+     "so far."
+    ],
+    [
+     "ins",
+     "on Monday night"
+    ],
+    [
+     "eq",
+     "Wind and cloud activity had impacted flights to and from Sydney Airport,"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0085,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9988,
+ "adjudicated_by": "rules"
+}

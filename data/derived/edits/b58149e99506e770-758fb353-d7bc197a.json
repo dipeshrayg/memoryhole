@@ -1,0 +1,69 @@
+{
+ "id": "b58149e99506e770-758fb353-d7bc197a",
+ "url": "https://www.abc.net.au/news/2026-11-14/hobart-hurricanes-hammered-by-brisbane-heat-in-wbbl/107386442",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-17T15:49:07Z",
+ "date": "2026-11-17",
+ "old_title": "Heat hammer Hurricanes to hand WBBL champions sixth straight loss",
+ "new_title": "Heat hammer Hurricanes to hand WBBL champions sixth straight loss",
+ "old_text": "Wed, 16 Sept, 11:00 pm, Final score, IAW 161, AAW 5/168\nBrisbane Heat thump Hobart Hurricanes by 10 wickets in WBBL\nIn short:\nDefending WBBL champions, the Hobart Hurricanes have slumped to 0-6 after a 10-wicket loss to the Brisbane Heat.\nThe Hurricanes were dismissed for just 88 inside 18 overs, which the Heat chased down in just 5.4 overs.\nHeat opener Grace Harris top-scored with 52 off just 22 balls.",
+ "new_text": "Thu, 17 Sept, 11:00 pm, Final score, ZIM 272, AUS 6/356\nBrisbane Heat thump Hobart Hurricanes by 10 wickets in WBBL\nIn short:\nDefending WBBL champions, the Hobart Hurricanes have slumped to 0-6 after a 10-wicket loss to the Brisbane Heat.\nThe Hurricanes were dismissed for just 88 inside 18 overs, which the Heat chased down in just 5.4 overs.\nHeat opener Grace Harris top-scored with 52 off just 22 balls.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Wed, 16"
+    ],
+    [
+     "ins",
+     "Thu, 17"
+    ],
+    [
+     "eq",
+     "Sept, 11:00 pm, Final score,"
+    ],
+    [
+     "del",
+     "IAW 161, AAW 5/168"
+    ],
+    [
+     "ins",
+     "ZIM 272, AUS 6/356"
+    ],
+    [
+     "eq",
+     "Brisbane Heat thump Hobart Hurricanes by 10 wickets in WBBL In short:"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.169,
+  "numbers_changed": [
+   "16",
+   "161",
+   "168",
+   "17",
+   "272",
+   "356",
+   "5",
+   "6"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9874,
+ "adjudicated_by": "rules"
+}

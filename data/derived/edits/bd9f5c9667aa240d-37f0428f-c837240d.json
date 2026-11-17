@@ -1,0 +1,48 @@
+{
+ "id": "bd9f5c9667aa240d-37f0428f-c837240d",
+ "url": "https://www.france24.com/en/tv-shows/perspective/20261116-historical-fiction-is-about-filling-in-the-gaps-author-ian-mcguire-says",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-17T15:48:41Z",
+ "date": "2026-11-17",
+ "old_title": "Perspective - 'Historical fiction is about filling in the gaps', author Ian McGuire says",
+ "new_title": "Perspective - 'Historical fiction is about filling in the gaps', author Ian McGuire says",
+ "old_text": "'Historical fiction is about filling in the gaps', author Ian McGuire says\nIssued on:\nA Man Booker Prize nominee has been speaking to FRANCE 24 about his latest novel and his passion for researching and writing historical fiction. Ian McGuire was shortlisted for the prize in 2016 for his novel \"The North Water\". His latest book, \"White River Crossing\", was published earlier this year and has now been translated into French, under the shortened title \"White River\".\nSet in 1766, the novel follows an expedition into the sub-Arctic wilderness of Canada in search of gold, exploring the greed and violence that follow in its wake. He spoke to us in Perspective.",
+ "new_text": "'Historical fiction is about filling in the gaps', author Ian McGuire says\nIssued on: Modified:\nA Man Booker Prize nominee has been speaking to FRANCE 24 about his latest novel and his passion for researching and writing historical fiction. Ian McGuire was shortlisted for the prize in 2016 for his novel \"The North Water\". His latest book, \"White River Crossing\", was published earlier this year and has now been translated into French, under the shortened title \"White River\".\nSet in 1766, the novel follows an expedition into the sub-Arctic wilderness of Canada in search of gold, exploring the greed and violence that follow in its wake. He spoke to us in Perspective.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "is about filling in the gaps', author Ian McGuire says Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "A Man Booker Prize nominee has been speaking to FRANCE 24 about"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.009,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9963,
+ "adjudicated_by": "rules"
+}

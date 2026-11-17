@@ -1,0 +1,72 @@
+{
+ "id": "fe514287d79b7519-cf281052-2e4e9656",
+ "url": "https://www.independent.co.uk/sport/golf/dubai-race-colin-montgomerie-tyrrell-hatton-rolex-b3085206.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-17T15:50:10Z",
+ "date": "2026-11-17",
+ "old_title": "McIlroy wins Race to Dubai title for record-equalling eighth time",
+ "new_title": "McIlroy wins Race to Dubai title for record-equalling eighth time",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nRory McIlroy has won the Race to Dubai title for a record-equalling eighth time, pipping Eugenio Chacarra to the crown.\nSpaniard Chacarra had held a slender 533.93-point lead over Masters champion McIlroy going into the season finale at Jumeirah Golf Estates.\nMcIlroy, though, overturned that deficit after a blemish-free fourth round of 67 saw him finish on 10 under par, on his own in second, to take a fifth successive European tour crown, matching Colin Montgomerie's record of eight Order of Merit titles.\nRyder Cup team-mate Tyrell Hatton, meanwhile, stormed to victory in Dubai, ending the day five shots ahead of second-placed McIlroy to round off a fantastic week.\n\"Winning eight Order of Merits (now called Race to Dubai) was never in my list of goals growing up,\" McIlroy said.\n\"I remember Monty being a stalwart of the European tour and playing with him at the London Club in 2008, so to pull up alongside him and win eight of these means the world to me.\n\"I'm proud to be European and part of this tour.\"\nVisibly choked up, McIlroy revealed that his dad Gerry has been in hospital since undergoing \"a huge operation in September\" and dedicated his triumph to him.\nHe also reflected on the drama of the day and insisted he wasn't aware of how \"back and forth\" the title fight with Chacarra was until he reached the 16th.\n\"When I walked to the 16th green I saw Eugenio [Chacarra] was projected one, and when I walked off after my birdie I was projected one,\" he added.\n\"Eugenio played pretty good, but none of the chasing pack made a move and thankfully everything fell my way.\n\"I pride myself in my consistency. I finished third last week, second this week. I feel like I've done a good job in recent years of not playing my way out of tournaments like I did earlier in my career.\"\nIt was heartbreak for Chacarra, who needed to win the tournament to make sure he fended off McIlroy, as well as potentially several other big hitters in the chasing pack.\nHowever, a final round of 69, which featured six birdies but also three bogeys either side of the turn, saw him come up just short at eight under in a tie for third, with other scores in the final groups also going McIlroy's way.\n\"It was a good fight. I just came out short. That's the beauty of golf,\" he said.\n\"Obviously, when you play with the best in the world. And McIlroy's played here 14, 15 times, you knew it was going to be tough, and he had a better day than I did.\n\"I played good. I fought. I knew it was going to be a long day, and I tried my best. That's all I can ask for myself to do and that's what we did.\"",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nRory McIlroy has won the Race to Dubai title for a record-equalling eighth time, pipping Eugenio Chacarra to the crown.\nSpaniard Chacarra had held a slender 533.93-point lead over Masters champion McIlroy going into the season finale at Jumeirah Golf Estates.\nMcIlroy, though, overturned that deficit after a blemish-free fourth round of 67 saw him finish on 10 under par, on his own in second, to take a fifth successive European tour crown, matching Colin Montgomerie's record of eight Order of Merit titles.\nRyder Cup team-mate Tyrrell Hatton, meanwhile, stormed to victory in Dubai, ending the day five shots ahead of second-placed McIlroy to round off a fantastic week.\n\"Winning eight Order of Merits (now called Race to Dubai) was never in my list of goals growing up,\" McIlroy said.\n\"I remember Monty being a stalwart of the European tour and playing with him at the London Club in 2008, so to pull up alongside him and win eight of these means the world to me.\n\"I'm proud to be European and part of this tour.\"\nVisibly choked up, McIlroy revealed that his dad Gerry has been in hospital since undergoing \"a huge operation in September\" and dedicated his triumph to him.\nHe also reflected on the drama of the day and insisted he wasn't aware of how \"back and forth\" the title fight with Chacarra was until he reached the 16th.\n\"When I walked to the 16th green I saw Eugenio [Chacarra] was projected one, and when I walked off after my birdie I was projected one,\" he added.\n\"Eugenio played pretty good, but none of the chasing pack made a move and thankfully everything fell my way.\n\"I pride myself in my consistency. I finished third last week, second this week. I feel like I've done a good job in recent years of not playing my way out of tournaments like I did earlier in my career.\"\nIt was heartbreak for Chacarra, who needed to win the tournament to make sure he fended off McIlroy, as well as potentially several other big hitters in the chasing pack.\nHowever, a final round of 69, which featured six birdies but also three bogeys either side of the turn, saw him come up just short at eight under in a tie for third, with other scores in the final groups also going McIlroy's way.\n\"It was a good fight. I just came out short. That's the beauty of golf,\" he said.\n\"Obviously, when you play with the best in the world, and McIlroy's played here 14, 15 times, you knew it was going to be tough, and he had a better day than I did.\n\"I played good. I fought. I knew it was going to be a long day, and I tried my best. That's all I can ask for myself to do and that's what we did.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Colin Montgomerie's record of eight Order of Merit titles. Ryder Cup team-mate"
+    ],
+    [
+     "del",
+     "Tyrell"
+    ],
+    [
+     "ins",
+     "Tyrrell"
+    ],
+    [
+     "eq",
+     "Hatton, meanwhile, stormed to victory in Dubai, ending the day five shots"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "golf,\" he said. \"Obviously, when you play with the best in the"
+    ],
+    [
+     "del",
+     "world. And"
+    ],
+    [
+     "ins",
+     "world, and"
+    ],
+    [
+     "eq",
+     "McIlroy's played here 14, 15 times, you knew it was going to"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0117,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.992,
+ "adjudicated_by": "rules"
+}
