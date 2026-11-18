@@ -1,0 +1,194 @@
+{
+ "id": "8ae6c9d26cd71a13-b2969487-d96f647a",
+ "url": "https://www.aljazeera.com/news/2026/11/17/us-senators-demand-faa-pause-upgrades-linked-to-nationwide-ground-stop?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-18T15:26:57Z",
+ "date": "2026-11-18",
+ "old_title": "Democratic lawmakers ask FAA to pause upgrades linked to US ground stop",
+ "new_title": "Democratic lawmakers ask FAA to pause upgrades linked to US ground stop",
+ "old_text": "A group of Democratic Senators has asked the United States Federal Aviation Administration (FAA) to pause its plan to replace thousands of routers until an investigation is completed into why one such upgrade caused a national ground stop last week.\n\"With thousands of conversions remaining, FAA must address outstanding safety and reliability concerns before expanding installation,\" the 13 senators wrote in a letter to the agency on Tuesday.\nThe FAA ordered all flights to remain grounded on Friday for about four hours, causing more than 10,000 flights to be cancelled and prompting ripple effects that continue to disrupt air travel in the US. It was only the second time the agency had issued such a sweeping order since the September 11, 2001 attacks.\nThe FAA said in a statement on Sunday that its initial investigation pointed to upgrades at two locations - a radar site in Amarillo, Texas, and a radio communications site in El Dorado, Arkansas - as being the cause of the problem.\nL3Harris, the agency's network service provider, had been working to replace old copper wires with fibre-optic lines and to replace old routers with new ones made by Juniper Networks.\nThe FBI said on Tuesday that it was working with the Department of Transportation, the FAA, and L3Harris to investigate the incident, but had not taken possession of any equipment itself.\nIn their letter to the FAA, the group of senators asked the agency to halt plans to replace more than 3,000 additional routers.\n\"Based on information provided to our offices from L3Harris, the copper-to-fibre transition involves converting 3,648 routers to Juniper devices. To date, it is our understanding that 400 devices have been installed, and 69 are operational,\" wrote the lawmakers from the Senate Commerce Committee, led by Maria Cantwell.\nOn Sunday, the FAA said the upgrades had started a long time ago.\n\"This type of work has been going on for years to transition from old copper wires that are being disconnected due to their obsolescence,\" the FAA said on Sunday. The network became unstable, and data began flooding other equipment, causing problems with aircraft communications and radar feeds, leading the agency to order a halt to flights.\n\"I want the American people to know my number one job is to keep them safe,\" Secretary of Transportation Sean Duffy told ABC on Sunday. \"So if we see these inconsistencies in the network, whether it's communication with air traffic controllers and pilots, or with data feeds, we're going to keep you safe.\"\nThe White House has asked Congress for $50bn to complete an overhaul of the FAA's technical infrastructure. Democratic lawmakers have said the administration was already authorised to use $12.5bn last year, but had only used a fraction of that so far.",
+ "new_text": "The United States Federal Aviation Administration (FAA) has disabled potentially faulty functionality in its telecommunications network and halted the installation of new routers linked with a national ground stop last week.\n\"We believe we have addressed the initial cause of the disruption by immediately disabling the functionality of the originating Juniper routers,\" the agency said on its website on Tuesday.\n\"As a precaution, we disabled the same functionality on more than 60 other Juniper routers in the system, and we have paused installing them.\"\nA group of Democratic senators had asked the FAA to pause its plan to replace thousands of routers until an investigation is completed into why one such upgrade caused a national ground stop last week.\n\"With thousands of conversions remaining, FAA must address outstanding safety and reliability concerns before expanding installation,\" the 13 senators wrote in a letter to the agency earlier in the day.\nThe FAA ordered all flights to remain grounded on Friday for about four hours, causing more than 10,000 flights to be cancelled and prompting ripple effects that continue to disrupt air travel in the US. It was only the second time the agency had issued such a sweeping order since the September 11, 2001 attacks.\nThe FAA said in a statement on Sunday that its initial investigation pointed to upgrades at two locations - a radar site in Amarillo, Texas, and a radio communications site in El Dorado, Arkansas - as being the cause of the problem.\nL3Harris, the agency's network service provider, had been working to replace old copper wires with fibre-optic lines and to replace old routers with new ones made by Juniper Networks.\nThe FBI said on Tuesday that it was working with the Department of Transportation, the FAA, and L3Harris to investigate the incident, but had not taken possession of any equipment itself.\nIn their letter to the FAA, the group of senators asked the agency to halt plans to replace more than 3,000 additional routers.\n\"Based on information provided to our offices from L3Harris, the copper-to-fibre transition involves converting 3,648 routers to Juniper devices. To date, it is our understanding that 400 devices have been installed, and 69 are operational,\" wrote the lawmakers from the Senate Commerce Committee, led by Maria Cantwell.\nOn Sunday, the FAA said the upgrades had started a long time ago.\n\"This type of work has been going on for years to transition from old copper wires that are being disconnected due to their obsolescence,\" the FAA said on Sunday.\nDuring Friday's mass ground stop, the FAA said its system became \"unstable\" as a result of an upgrade, and data began flooding other equipment, causing problems with aircraft communications and radar feeds.\nThat led the agency to order a nationwide halt to outbound flights out of an \"abundance of caution\".\n\"I want the American people to know my number one job is to keep them safe,\" Secretary of Transportation Sean Duffy told ABC on Sunday. \"So if we see these inconsistencies in the network, whether it's communication with air traffic controllers and pilots, or with data feeds, we're going to keep you safe.\"\nThe White House has asked Congress for $50bn to complete an overhaul of the FAA's technical infrastructure.\nDemocratic lawmakers have resisted that request, though, arguing that the administration was already authorised to use $12.5bn last year - but has only used a fraction of that sum so far.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "A group of Democratic Senators has asked the"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "United States Federal Aviation Administration (FAA)"
+    ],
+    [
+     "ins",
+     "has disabled potentially faulty functionality in its telecommunications network and halted the installation of new routers linked with a national ground stop last week. \"We believe we have addressed the initial cause of the disruption by immediately disabling the functionality of the originating Juniper routers,\" the agency said on its website on Tuesday. \"As a precaution, we disabled the same functionality on more than 60 other Juniper routers in the system, and we have paused installing them.\" A group of Democratic senators had asked the FAA"
+    ],
+    [
+     "eq",
+     "to pause its plan to replace thousands of routers until an investigation"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "expanding installation,\" the 13 senators wrote in a letter to the agency"
+    ],
+    [
+     "del",
+     "on Tuesday."
+    ],
+    [
+     "ins",
+     "earlier in the day."
+    ],
+    [
+     "eq",
+     "The FAA ordered all flights to remain grounded on Friday for about"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "are being disconnected due to their obsolescence,\" the FAA said on Sunday."
+    ],
+    [
+     "del",
+     "The network"
+    ],
+    [
+     "ins",
+     "During Friday's mass ground stop, the FAA said its system"
+    ],
+    [
+     "eq",
+     "became"
+    ],
+    [
+     "del",
+     "unstable,"
+    ],
+    [
+     "ins",
+     "\"unstable\" as a result of an upgrade,"
+    ],
+    [
+     "eq",
+     "and data began flooding other equipment, causing problems with aircraft communications and radar"
+    ],
+    [
+     "del",
+     "feeds, leading"
+    ],
+    [
+     "ins",
+     "feeds. That led"
+    ],
+    [
+     "eq",
+     "the agency to order a"
+    ],
+    [
+     "ins",
+     "nationwide"
+    ],
+    [
+     "eq",
+     "halt to"
+    ],
+    [
+     "del",
+     "flights."
+    ],
+    [
+     "ins",
+     "outbound flights out of an \"abundance of caution\"."
+    ],
+    [
+     "eq",
+     "\"I want the American people to know my number one job is"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to complete an overhaul of the FAA's technical infrastructure. Democratic lawmakers have"
+    ],
+    [
+     "del",
+     "said"
+    ],
+    [
+     "ins",
+     "resisted that request, though, arguing that"
+    ],
+    [
+     "eq",
+     "the administration was already authorised to use $12.5bn last"
+    ],
+    [
+     "del",
+     "year,"
+    ],
+    [
+     "ins",
+     "year -"
+    ],
+    [
+     "eq",
+     "but"
+    ],
+    [
+     "del",
+     "had"
+    ],
+    [
+     "ins",
+     "has"
+    ],
+    [
+     "eq",
+     "only used a fraction of that"
+    ],
+    [
+     "ins",
+     "sum"
+    ],
+    [
+     "eq",
+     "so far."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3253,
+  "numbers_changed": [
+   "60"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.253,
+ "similarity": 0.8361,
+ "adjudicated_by": "rules"
+}

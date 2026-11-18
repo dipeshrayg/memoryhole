@@ -1,0 +1,197 @@
+{
+ "id": "6b0fd244f1d64bae-efc4b42c-f9b77390",
+ "url": "https://www.independent.co.uk/news/world/americas/us-politics/jensen-huang-congress-nvidia-ceo-affair-b3086532.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-18T15:30:12Z",
+ "date": "2026-11-18",
+ "old_title": "Ex-Nvidia CEO to appear before Congress as spy scandal intensifies",
+ "new_title": "Ex-Nvidia CEO to appear before Congress as spy scandal intensifies",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nFormer Nvidia chief executive Jensen Huang has agreed to sit for transcribed interviews before a trio of U.S. House committees on December 1, the House Foreign Affairs Committee announced Tuesday.\nHuang resigned from his post on Thursday amid allegations of extramarital relationships, including one connected to an alleged Chinese operative that sparked scrutiny over shipments of the firm's top AI processors to China.\nThe proceedings will involve the House Foreign Affairs Committee, the Select Committee on the Chinese Communist Party, along with the House Intelligence Committee, according to the official statement.\nTim Teter, the general counsel for Nvidia, is scheduled to speak before the panels the following day on December 2.\n\"We look forward to hearing from Jensen Huang and Tim Teter on their roles in a potential breach of our national security,\" Republican chairmen Brian Mast, John Moolenaar and Rick Crawford said.\n\"The American people need answers on Mr. Huang and Nvidia's role in allowing dangerous PRC actors to access our most advanced chips, as well as the role of a potential Chinese intelligence asset in this scandal.\"\nMore to follow...",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nFormer Nvidia CEO Jensen Huang is set to be grilled by Congress next month after his affair with an alleged spy sparked scrutiny over shipments of the firm's top AI processors to China.\nHuang, who resigned from his post last week, has agreed to sit for transcribed interviews before a trio of U.S. House committees on Dec. 1, the House Foreign Affairs Committee said Tuesday.\nHe will be questioned by the House Foreign Affairs Committee, the Select Committee on the Chinese Communist Party and the House Intelligence Committee. Tim Teter, general counsel for Nvidia, is scheduled to speak before the panels the following day, on Dec. 2.\n\"We look forward to hearing from Jensen Huang and Tim Teter on their roles in a potential breach of our national security,\" Republican chairmen Brian Mast, John Moolenaar and Rick Crawford said.\n\"The American people need answers on Mr. Huang and Nvidia's role in allowing dangerous PRC actors to access our most advanced chips, as well as the role of a potential Chinese intelligence asset in this scandal.\"\nHuang's personal relationships have raised significant questions about whether Nvidia's internal oversight kept pace with its rapid growth and increasing importance to US national security. The fallout erased more than $400 billion from the firm's market value by the close of trading on Monday.\nNvidia said Tuesday that it created a board-level committee to manage export controls and national security, making its first major governance move since Huang resigned.\nThe National Security and Export Control Oversight Committee will be chaired by director Suzanne Nora Johnson, a former Goldman Sachs vice chair, Nvidia announced. Directors Stephen Neal, former CEO of law firm Cooley, and John Dabiri, a professor at Caltech, will also serve on the panel.\nUS President Donald Trump welcomed the move, characterizing the establishment of a national security initiative as a good idea.\nUS tightens China's AI chip access\nThe creation of the committee comes a day after the Trump administration said it would further restrict China's access to advanced AI chips from companies including Nvidia, as Trump departed for China for talks with President Xi Jinping.\nWashington has for years worked to limit Beijing's access to Nvidia's most advanced processors, placing the company's China operations at the center of broader tensions over trade, national security, and US technological leadership.\nHowever, Chinese businesses have repeatedly found ways around these restrictions, even as Huang had advocated allowing increased chip exports to China.\nUS officials had expressed concerns regarding Huang's connection to Alice Huang, a former senior executive and controlling shareholder of Singapore-based cloud computing firm Megaspeed, who US intelligence agencies suspect maintains links to Chinese intelligence.\nMegaspeed has been under investigation over potential export-control violations and the possible diversion of restricted Nvidia microchips to China. The company has denied any wrongdoing.\nNvidia said the new committee will oversee its global trade compliance and national security programs and will collaborate with independent experts in national security, law, and trade compliance.\nUnder the new framework, the company's National Security Team and Global Trade Compliance Team will report directly to the committee, while interim CEO Colette Kress oversees day-to-day business operations. The committee plans to meet at least quarterly, holding executive sessions and meeting alongside management.\nAccording to its 2026 proxy statement, Nvidia did not have a chief compliance officer.\nWhile major technology companies such as Alphabet, Apple, Meta, and Microsoft feature board committees overseeing areas like regulatory compliance, privacy, cybersecurity, and corporate strategy, Nvidia's new panel holds a narrower mandate focused specifically on national security and export controls-a governance structure more frequently associated with defense and aerospace firms.\n\"We are committed to working constructively with government and industry partners to help establish and advance a robust framework that uses every tool at our disposal to safeguard national security while supporting continued technological innovation,\" Nvidia board chairman Harvey Jones said.\nNvidia has also warned chip buyers in recent months that the proposed US Remote Access Security Act might expose the company and its customers to legal risks by expanding Washington's oversight of Chinese firms' access to AI chips via cloud services, CNBC reported on Tuesday.\nThe company is scheduled to report its third-quarter financial results after the market closes on Tuesday.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Independent Membership today. Join today Already a member? Log in Former Nvidia"
+    ],
+    [
+     "del",
+     "chief executive"
+    ],
+    [
+     "ins",
+     "CEO"
+    ],
+    [
+     "eq",
+     "Jensen Huang"
+    ],
+    [
+     "ins",
+     "is set to be grilled by Congress next month after his affair with an alleged spy sparked scrutiny over shipments of the firm's top AI processors to China. Huang, who resigned from his post last week,"
+    ],
+    [
+     "eq",
+     "has agreed to sit for transcribed interviews before a trio of U.S. House committees on"
+    ],
+    [
+     "del",
+     "December"
+    ],
+    [
+     "ins",
+     "Dec."
+    ],
+    [
+     "eq",
+     "1, the House Foreign Affairs Committee"
+    ],
+    [
+     "del",
+     "announced"
+    ],
+    [
+     "ins",
+     "said"
+    ],
+    [
+     "eq",
+     "Tuesday."
+    ],
+    [
+     "del",
+     "Huang resigned from his post on Thursday amid allegations of extramarital relationships, including one connected to an alleged Chinese operative that sparked scrutiny over shipments of the firm's top AI processors to China. The proceedings"
+    ],
+    [
+     "ins",
+     "He"
+    ],
+    [
+     "eq",
+     "will"
+    ],
+    [
+     "del",
+     "involve"
+    ],
+    [
+     "ins",
+     "be questioned by"
+    ],
+    [
+     "eq",
+     "the House Foreign Affairs Committee, the Select Committee on the Chinese Communist"
+    ],
+    [
+     "del",
+     "Party, along with"
+    ],
+    [
+     "ins",
+     "Party and"
+    ],
+    [
+     "eq",
+     "the House Intelligence"
+    ],
+    [
+     "del",
+     "Committee, according to the official statement."
+    ],
+    [
+     "ins",
+     "Committee."
+    ],
+    [
+     "eq",
+     "Tim Teter,"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "eq",
+     "general counsel for Nvidia, is scheduled to speak before the panels the following"
+    ],
+    [
+     "del",
+     "day"
+    ],
+    [
+     "ins",
+     "day,"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "December"
+    ],
+    [
+     "ins",
+     "Dec."
+    ],
+    [
+     "eq",
+     "2. \"We look forward to hearing from Jensen Huang and Tim Teter"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "as the role of a potential Chinese intelligence asset in this scandal.\""
+    ],
+    [
+     "del",
+     "More"
+    ],
+    [
+     "ins",
+     "Huang's personal relationships have raised significant questions about whether Nvidia's internal oversight kept pace with its rapid growth and increasing importance"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "follow..."
+    ],
+    [
+     "ins",
+     "US national security. The fallout erased more than $400 billion from the firm's market value by the close of trading on Monday. Nvidia said Tuesday that it created a board-level committee to manage export controls and national security, making its first major governance move since Huang resigned. The National Security and Export Control Oversight Committee will be chaired by director Suzanne Nora Johnson, a former Goldman Sachs vice chair, Nvidia announced. Directors Stephen Neal, former CEO of law firm Cooley, and John Dabiri, a professor at Caltech, will also serve on the panel. US President Donald Trump welcomed the move, characterizing the establishment of a national security initiative as a good idea. US tightens China's AI chip access The creation of the committee comes a day after the Trump administration said it would further restrict China's access to advanced AI chips from companies including Nvidia, as Trump departed for China for talks with President Xi Jinping. Washington has for years worked to limit Beijing's access to Nvidia's most advanced processors, placing the company's China operations at the center of broader tensions over trade, national security, and US technological leadership. However, Chinese businesses have repeatedly found ways around these restrictions, even as Huang had advocated allowing increased chip exports to China. US officials had expressed concerns regarding Huang's connection to Alice Huang, a former senior executive and controlling shareholder of Singapore-based cloud computing firm Megaspeed, who US intelligence agencies suspect maintains links to Chinese intelligence. Megaspeed has been under investigation over potential export-control violations and the possible diversion of restricted Nvidia microchips to China. The company has denied any wrongdoing. Nvidia said the new committee will oversee its global trade compliance and national security programs and will collaborate with independent experts in national security, law, and trade compliance. Under the new framework, the company's National Security Team and Global Trade Compliance Team will report directly to the committee, while interim CEO Colette Kress oversees day-to-day business operations. The committee plans to meet at least quarterly, holding executive sessions and meeting alongside management. According to its 2026 proxy statement, Nvidia did not have a chief compliance officer. While major technology companies such as Alphabet, Apple, Meta, and Microsoft feature board committees overseeing areas like regulatory compliance, privacy, cybersecurity, and corporate strategy, Nvidia's new panel holds a narrower mandate focused specifically on national security and export controls-a governance structure more frequently associated with defense and aerospace firms. \"We are committed to working constructively with government and industry partners to help establish and advance a robust framework that uses every tool at our disposal to safeguard national security while supporting continued technological innovation,\" Nvidia board chairman Harvey Jones said. Nvidia has also warned chip buyers in recent months that the proposed US Remote Access Security Act might expose the company and its customers to legal risks by expanding Washington's oversight of Chinese firms' access to AI chips via cloud services, CNBC reported on Tuesday. The company is scheduled to report its third-quarter financial results after the market closes on Tuesday."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 2.9256,
+  "numbers_changed": [
+   "2026",
+   "400"
+  ],
+  "market_figures_changed": [
+   "$400 billion"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 1.1,
+ "similarity": 0.982,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,76 @@
+{
+ "id": "f60c36751a60f5ec-9e9820a7-44af8d6d",
+ "url": "https://www.theguardian.com/football/2026/nov/17/peter-storey-arsenal-england-dies-aged-81",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-11-18T15:39:07Z",
+ "date": "2026-11-18",
+ "old_title": "Peter Storey, Arsenal Double winner and England international, dies aged 81",
+ "new_title": "Peter Storey, Arsenal Double winner and England international, dies aged 81",
+ "old_text": "Arsenal have paid tribute to Peter Storey, a key member of their 1971 Double-winning team, after the death of the former England midfielder at the age of 81.\nStorey was part of the Bertie Mee team that secured the First Division title and FA Cup in a season that remains one of the most celebrated in Arsenal's history and played 501 times for the club. That places him eighth on their appearances list.\nStorey, who represented England on 19 occasions from 1971-73, earned respect for his uncompromising approach and versatility, also featuring at right-back.\nAnnouncing his death on Tuesday, Arsenal said: \"Everyone at Arsenal is deeply saddened by the passing of 1970-71 Double winner Peter Storey. All our thoughts are with his family and loved ones at this incredibly sad time.\"\nBorn in Surrey, Storey began his career at Arsenal and made his debut shortly after his 20th birthday in 1965. He is fondly remembered by the club's fans for scoring a stoppage-time penalty in the 1971 FA Cup semi-final against Stoke that forced a replay and kept the Double dream alive.\nStorey left for Fulham in 1977 and retired eight months later when his contract was cancelled, going on to own a pub in north London. He was later convicted of several criminal offences, including financing a plot to counterfeit gold coins and smuggling pornography. He released an autobiography, True Storey: My Life and Crimes as a Football Hatchet Man, in September 2010.",
+ "new_text": "Arsenal have paid tribute to Peter Storey, a key member of their 1971 Double-winning team, after the death of the former England midfielder at the age of 81.\nStorey was part of the Bertie Mee team that secured the First Division title and FA Cup in a season that remains one of the most celebrated in Arsenal's history and played 501 times for the club. That places him eighth on their appearances list.\nStorey, who represented England on 19 occasions from 1971-73, earned respect for his uncompromising approach and versatility, also featuring at right-back.\nStorey died in hospital after a short illness, surrounded by his family. Arsenal said: \"Everyone at Arsenal is deeply saddened by the passing of 1970-71 Double winner Peter Storey. All our thoughts are with his family and loved ones at this incredibly sad time.\"\nBorn in Surrey, Storey began his career at Arsenal and made his debut shortly after his 20th birthday in 1965. He is fondly remembered by the club's fans for scoring a stoppage-time penalty in the 1971 FA Cup semi-final against Stoke that forced a replay and kept the Double dream alive.\nStorey left for Fulham in 1977 and retired eight months later when his contract was cancelled, going on to own a pub in north London. He was later convicted of several criminal offences, including financing a plot to counterfeit gold coins and smuggling pornography. He released an autobiography, True Storey: My Life and Crimes as a Football Hatchet Man, in September 2010.\nStorey's family said: \"We are deeply grateful for the many kind messages, tributes and good wishes we have received. It has been a great comfort to see the affection and respect in which he was held by so many, both within the football community and beyond.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "earned respect for his uncompromising approach and versatility, also featuring at right-back."
+    ],
+    [
+     "del",
+     "Announcing"
+    ],
+    [
+     "ins",
+     "Storey died in hospital after a short illness, surrounded by"
+    ],
+    [
+     "eq",
+     "his"
+    ],
+    [
+     "del",
+     "death on Tuesday,"
+    ],
+    [
+     "ins",
+     "family."
+    ],
+    [
+     "eq",
+     "Arsenal said: \"Everyone at Arsenal is deeply saddened by the passing of"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "My Life and Crimes as a Football Hatchet Man, in September 2010."
+    ],
+    [
+     "ins",
+     "Storey's family said: \"We are deeply grateful for the many kind messages, tributes and good wishes we have received. It has been a great comfort to see the affection and respect in which he was held by so many, both within the football community and beyond.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.25,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 0.9904,
+ "adjudicated_by": "rules"
+}

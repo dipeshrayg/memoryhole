@@ -1,0 +1,80 @@
+{
+ "id": "b58149e99506e770-d7bc197a-d1d51a39",
+ "url": "https://www.abc.net.au/news/2026-11-14/hobart-hurricanes-hammered-by-brisbane-heat-in-wbbl/107386442",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-18T15:28:52Z",
+ "date": "2026-11-18",
+ "old_title": "Heat hammer Hurricanes to hand WBBL champions sixth straight loss",
+ "new_title": "Heat hammer Hurricanes to hand WBBL champions sixth straight loss",
+ "old_text": "Thu, 17 Sept, 11:00 pm, Final score, ZIM 272, AUS 6/356\nBrisbane Heat thump Hobart Hurricanes by 10 wickets in WBBL\nIn short:\nDefending WBBL champions, the Hobart Hurricanes have slumped to 0-6 after a 10-wicket loss to the Brisbane Heat.\nThe Hurricanes were dismissed for just 88 inside 18 overs, which the Heat chased down in just 5.4 overs.\nHeat opener Grace Harris top-scored with 52 off just 22 balls.",
+ "new_text": "Sat, 19 Sept, 11:00 pm, Final score, ZIM 8/271, AUS 9/272\nBrisbane Heat thump Hobart Hurricanes by 10 wickets in WBBL\nIn short:\nDefending WBBL champions, the Hobart Hurricanes have slumped to 0-6 after a 10-wicket loss to the Brisbane Heat.\nThe Hurricanes were dismissed for just 88 inside 18 overs, which the Heat chased down in just 5.4 overs.\nHeat opener Grace Harris top-scored with 52 off just 22 balls.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Thu, 17"
+    ],
+    [
+     "ins",
+     "Sat, 19"
+    ],
+    [
+     "eq",
+     "Sept, 11:00 pm, Final score, ZIM"
+    ],
+    [
+     "del",
+     "272,"
+    ],
+    [
+     "ins",
+     "8/271,"
+    ],
+    [
+     "eq",
+     "AUS"
+    ],
+    [
+     "del",
+     "6/356"
+    ],
+    [
+     "ins",
+     "9/272"
+    ],
+    [
+     "eq",
+     "Brisbane Heat thump Hobart Hurricanes by 10 wickets in WBBL In short:"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1127,
+  "numbers_changed": [
+   "17",
+   "19",
+   "271",
+   "356",
+   "6",
+   "8",
+   "9"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9945,
+ "adjudicated_by": "rules"
+}

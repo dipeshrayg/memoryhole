@@ -1,0 +1,220 @@
+{
+ "id": "8b62ccf636aaf84b-9881f3b3-cf992f71",
+ "url": "https://www.independent.co.uk/news/world/europe/russia-plane-crash-siberia-kemerovo-b3086529.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-18T15:30:10Z",
+ "date": "2026-11-18",
+ "old_title": "17 dead as Russian military aircraft crashes in Siberia",
+ "new_title": "19 dead as Russian military aircraft crashes in Siberia",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\n17 people have been killed after a military transport aircraft crashed in the Russian region of Kemerovo on Tuesday.\nThe incident happened in southwestern Siberia near the village of Yagunovo and killed everyone on board, according to local news.\nDetails about the circumstances of the crash were not immediately available.\nLocal Governor Ilya Seredyuk reported a plane crash near the village of Yagunovo on his official channel on the MAX messaging platform, but did not identify the aircraft involved.\nIt is reported that the plane is an Antonov An-12.",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nAll 19 people on board a military An-12 transport aircraft have been killed after it crashed in Russia's Kemerovo region in southwestern Siberia on Tuesday, according to reports citing Russia's defence ministry.\n\"The preliminary cause of the disaster is a technical malfunction,\" state news agency RIA quoted the Defence Ministry as saying. It further reported that the aircraft had come down in an unpopulated area.\nRegional Governor Ilya Seredyuk, posting on Telegram directly from the scene of the accident, said emergency crews had successfully put out a fire. He said the main task for personnel on site was assisting the investigation into the accident.\nIn a video uploaded online showing the location of the accident near the village of Yagunovo, Sereedyuk said the plane had been travelling through the region when the accident occurred.\nBack in September, six crew members died after a Russian nuclear-capable strategic bomber crashed during a training flight in the country's far east.\nA ministry statement confirmed that the Tu-95 aircraft came down in an uninhabited part of the Amur region. One crew member survived the crash and was taken to hospital with injuries.\nOfficials confirmed the bomber was unarmed at the time, and a team of military investigators has flown to the site to determine what caused the incident, according to the ministry.\nLocal authorities said the crash occurred near the village of Krasnoyarovo on the Zeya River, close to the border with China. The regional administration said that the pilots \"did all they could to steer the plane away from residential buildings.\"\nThe Tu-95 is a four-engine turboprop strategic nuclear bomber dating back to Cold War times. The Russian military has frequently deployed the large warplane to fire conventional cruise missiles into Ukraine throughout the conflict, which has lasted more than four and a half years.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Start your Independent Membership today. Join today Already a member? Log in"
+    ],
+    [
+     "del",
+     "17"
+    ],
+    [
+     "ins",
+     "All 19"
+    ],
+    [
+     "eq",
+     "people"
+    ],
+    [
+     "ins",
+     "on board a military An-12 transport aircraft"
+    ],
+    [
+     "eq",
+     "have been killed after"
+    ],
+    [
+     "del",
+     "a military transport aircraft"
+    ],
+    [
+     "ins",
+     "it"
+    ],
+    [
+     "eq",
+     "crashed in"
+    ],
+    [
+     "del",
+     "the Russian"
+    ],
+    [
+     "ins",
+     "Russia's Kemerovo"
+    ],
+    [
+     "eq",
+     "region"
+    ],
+    [
+     "del",
+     "of Kemerovo on Tuesday. The incident happened"
+    ],
+    [
+     "eq",
+     "in southwestern Siberia"
+    ],
+    [
+     "ins",
+     "on Tuesday, according to reports citing Russia's defence ministry. \"The preliminary cause of the disaster is a technical malfunction,\" state news agency RIA quoted the Defence Ministry as saying. It further reported that the aircraft had come down in an unpopulated area. Regional Governor Ilya Seredyuk, posting on Telegram directly from the scene of the accident, said emergency crews had successfully put out a fire. He said the main task for personnel on site was assisting the investigation into the accident. In a video uploaded online showing the location of the accident"
+    ],
+    [
+     "eq",
+     "near the village of"
+    ],
+    [
+     "del",
+     "Yagunovo"
+    ],
+    [
+     "ins",
+     "Yagunovo, Sereedyuk said the plane had been travelling through the region when the accident occurred. Back in September, six crew members died after a Russian nuclear-capable strategic bomber crashed during a training flight in the country's far east. A ministry statement confirmed that the Tu-95 aircraft came down in an uninhabited part of the Amur region. One crew member survived the crash"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "killed everyone on board,"
+    ],
+    [
+     "ins",
+     "was taken to hospital with injuries. Officials confirmed the bomber was unarmed at the time, and a team of military investigators has flown to the site to determine what caused the incident,"
+    ],
+    [
+     "eq",
+     "according to"
+    ],
+    [
+     "del",
+     "local news. Details about"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "circumstances of"
+    ],
+    [
+     "ins",
+     "ministry. Local authorities said"
+    ],
+    [
+     "eq",
+     "the crash"
+    ],
+    [
+     "del",
+     "were not immediately available. Local Governor Ilya Seredyuk reported a plane crash"
+    ],
+    [
+     "ins",
+     "occurred"
+    ],
+    [
+     "eq",
+     "near the village of"
+    ],
+    [
+     "del",
+     "Yagunovo on his official channel"
+    ],
+    [
+     "ins",
+     "Krasnoyarovo"
+    ],
+    [
+     "eq",
+     "on the"
+    ],
+    [
+     "del",
+     "MAX messaging platform, but did not identify"
+    ],
+    [
+     "ins",
+     "Zeya River, close to"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "aircraft involved. It is reported"
+    ],
+    [
+     "ins",
+     "border with China. The regional administration said"
+    ],
+    [
+     "eq",
+     "that the"
+    ],
+    [
+     "ins",
+     "pilots \"did all they could to steer the"
+    ],
+    [
+     "eq",
+     "plane"
+    ],
+    [
+     "ins",
+     "away from residential buildings.\" The Tu-95"
+    ],
+    [
+     "eq",
+     "is"
+    ],
+    [
+     "del",
+     "an Antonov An-12."
+    ],
+    [
+     "ins",
+     "a four-engine turboprop strategic nuclear bomber dating back to Cold War times. The Russian military has frequently deployed the large warplane to fire conventional cruise missiles into Ukraine throughout the conflict, which has lasted more than four and a half years."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 2.6803,
+  "numbers_changed": [
+   "17",
+   "19",
+   "95"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 4,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.403,
+ "similarity": 0.8362,
+ "adjudicated_by": "rules"
+}

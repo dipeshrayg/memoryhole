@@ -1,0 +1,80 @@
+{
+ "id": "e9337cdab5d4a885-0d46927a-3834aad3",
+ "url": "https://www.abc.net.au/news/2026-11-14/mahli-beardman-junior-cricket-celebration/107386108",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-18T15:28:58Z",
+ "date": "2026-11-18",
+ "old_title": "Australia's newest fast-bowling sensation tipped for big things from a young age",
+ "new_title": "Australia's newest fast-bowling sensation tipped for big things from a young age",
+ "old_text": "Thu, 17 Sept, 11:00 pm, Final score, ZIM 272, AUS 6/356\nMahli Beardman's six-wicket haul on debut a cause for celebration across regional WA\nIn short:\nFast bowler Mahli Beardman's 6/24 against England was the best ODI debut performance of all time by an Australian bowler.\nBeardman, 21, played his initial and representative junior cricket in Dampier in WA's Pilbara.\nCricket figures hope his performance encourages the next generation of country cricketers.",
+ "new_text": "Sat, 19 Sept, 11:00 pm, Final score, ZIM 8/271, AUS 9/272\nMahli Beardman's six-wicket haul on debut a cause for celebration across regional WA\nIn short:\nFast bowler Mahli Beardman's 6/24 against England was the best ODI debut performance of all time by an Australian bowler.\nBeardman, 21, played his initial and representative junior cricket in Dampier in WA's Pilbara.\nCricket figures hope his performance encourages the next generation of country cricketers.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Thu, 17"
+    ],
+    [
+     "ins",
+     "Sat, 19"
+    ],
+    [
+     "eq",
+     "Sept, 11:00 pm, Final score, ZIM"
+    ],
+    [
+     "del",
+     "272,"
+    ],
+    [
+     "ins",
+     "8/271,"
+    ],
+    [
+     "eq",
+     "AUS"
+    ],
+    [
+     "del",
+     "6/356"
+    ],
+    [
+     "ins",
+     "9/272"
+    ],
+    [
+     "eq",
+     "Mahli Beardman's six-wicket haul on debut a cause for celebration across regional"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1111,
+  "numbers_changed": [
+   "17",
+   "19",
+   "271",
+   "356",
+   "6",
+   "8",
+   "9"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9956,
+ "adjudicated_by": "rules"
+}

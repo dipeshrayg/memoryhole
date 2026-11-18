@@ -1,0 +1,238 @@
+{
+ "id": "33cb04ee1ec8728a-0a0e1f66-989bc865",
+ "url": "https://www.theguardian.com/sport/2026/nov/17/bryson-dechambeau-joins-dp-world-tour-2027-season-liv-golf",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-11-18T15:39:09Z",
+ "date": "2026-11-18",
+ "old_title": "Bryson DeChambeau joins DP World Tour for 2027 after demise of LIV Golf",
+ "new_title": "Bryson DeChambeau adds star quality to DP World Tour after demise of LIV Golf",
+ "old_text": "Bryson DeChambeau will play on the DP World Tour for the 2027 season following the highly publicised demise of LIV Golf.\nDeChambeau is ineligible to join the PGA Tour, where he has not played for more than four years, due to a blanket ban on LIV players that runs for 12 months from the date of their last tournament appearance on the Saudi Arabia-funded circuit.\nThe Tour stated on Tuesday that DeChambeau is \"joining as a member for the first time in the category one\" status. He had the option to join because he won a major - the 2024 US Open - in the last five years.\nThe American player was the most prominent face of LIV, which announced two weeks ago in bankruptcy court it plans to wind down operations instead of launching a new version after losing the financial support of Saudi Arabia.\nOn Monday, the PGA Tour CEO Brian Rolapp said his board had \"thoughtful discussions\" about the future of players at LIV Golf, adding: \"I hope to have more to say in the beginning of the new year.\"\nThe addition of DeChambeau, who has his own YouTube channel with more than 3m subscribers, is a huge boon to the DP World Tour. It comes after Jon Rahm and Tyrrell Hatton - the winners of the last two events of the 2026 season - announced they will be returning to the tour after their departure from LIV, along with Sergio García.\nIn a statement announcing its membership categories for 2027, the DP World Tour said nine players coming off LIV - including Dustin Johnson and Cameron Smith - had signed agreements to receive invites to a specific number of tournaments next season.\nThe other players were Abraham Ancer, Lucas Herbert, Michael La Sasso, Joaquin Niemann, Carlos Ortiz and Thomas Pieters.",
+ "new_text": "Bryson DeChambeau will add star quality to the DP World Tour next season after it was confirmed the two-time major winner has joined the circuit after the demise of LIV Golf. The American heads a list of high-profile names who will perform regularly in Europe in 2027 following LIV's bankruptcy.\nIntrigue had surrounded DeChambeau's future. As a poster boy for LIV and its Saudi Arabian-backed disruption scheme, he appeared unwilling to feature again on traditional tours. Yet it became increasingly clear what limited options he had. The PGA Tour has been unwilling to offer an easy pathway for the 33-year-old, who in theory can now play his way back there via the DP World Tour. Cards will be available on the PGA Tour for 2028 through DP World Tour rankings. DeChambeau has become increasingly keen on content creation, which fuelled speculation he may skip mainstream competition entirely.\nThere is now the enticing prospect of DeChambeau facing off regularly with Rory McIlroy. The pair have endured a mixed relationship over the years, with McIlroy winning a record-equalling eighth Race to Dubai title on Sunday. McIlroy said in advance of the final event of the season that DeChambeau would be a welcome addition to the DP World Tour.\nDeChambeau has joined the DP World Tour for the first time as a \"category one member\", which applies to him as a recent winner - 2024 - of the US Open. Jon Rahm, who had already confirmed a DP World Tour return post-LIV, is in the same category as a past Masters champion, having won it in 2023. Graeme McDowell, Martin Kaymer, Sergio García, Louis Oosthuizen, Henrik Stenson, Lee Westwood and Ian Poulter have also rejoined the DP World Tour. Cameron Smith, Dustin Johnson and Bubba Watson will play on the DP World Tour in a set, unspecified number of events next year.\n\"There has been significant change in the landscape of men's professional golf over the past 12 months,\" said Guy Kinnings, the chief executive of the DP World Tour. \"As golf's global tour, we have taken a pragmatic approach to this unique and unprecedented situation as we go into next year, always with the best interests of our entire membership at the forefront of our minds.\n\"We realise there are different viewpoints but this approach, discussed and agreed with our tournament committee and allied to this responsibly managed programme of invites, will add value which, in turn, will benefit the Tour as a whole.\"\nThe sentiment of Kinnings provides a tacit admission he had to balance bringing eyeballs to his business with the demands of rank-and-file members.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Bryson DeChambeau"
+    ],
+    [
+     "ins",
+     "will add star quality to the DP World Tour next season after it was confirmed the two-time major winner has joined the circuit after the demise of LIV Golf. The American heads a list of high-profile names who will perform regularly in Europe in 2027 following LIV's bankruptcy. Intrigue had surrounded DeChambeau's future. As a poster boy for LIV and its Saudi Arabian-backed disruption scheme, he appeared unwilling to feature again on traditional tours. Yet it became increasingly clear what limited options he had. The PGA Tour has been unwilling to offer an easy pathway for the 33-year-old, who in theory can now play his way back there via the DP World Tour. Cards will be available on the PGA Tour for 2028 through DP World Tour rankings. DeChambeau has become increasingly keen on content creation, which fuelled speculation he may skip mainstream competition entirely. There is now the enticing prospect of DeChambeau facing off regularly with Rory McIlroy. The pair have endured a mixed relationship over the years, with McIlroy winning a record-equalling eighth Race to Dubai title on Sunday. McIlroy said in advance of the final event of the season that DeChambeau would be a welcome addition to the DP World Tour. DeChambeau has joined the DP World Tour for the first time as a \"category one member\", which applies to him as a recent winner - 2024 - of the US Open. Jon Rahm, who had already confirmed a DP World Tour return post-LIV, is in the same category as a past Masters champion, having won it in 2023. Graeme McDowell, Martin Kaymer, Sergio García, Louis Oosthuizen, Henrik Stenson, Lee Westwood and Ian Poulter have also rejoined the DP World Tour. Cameron Smith, Dustin Johnson and Bubba Watson"
+    ],
+    [
+     "eq",
+     "will play on the DP World Tour"
+    ],
+    [
+     "del",
+     "for the 2027 season following the highly publicised demise"
+    ],
+    [
+     "ins",
+     "in a set, unspecified number"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "LIV Golf. DeChambeau is ineligible to join the PGA Tour, where he"
+    ],
+    [
+     "ins",
+     "events next year. \"There"
+    ],
+    [
+     "eq",
+     "has"
+    ],
+    [
+     "del",
+     "not played for more than four years, due to a blanket ban on LIV players that runs for 12 months from the date of their last tournament appearance on the Saudi Arabia-funded circuit. The Tour stated on Tuesday that DeChambeau is \"joining as a member for the first time"
+    ],
+    [
+     "ins",
+     "been significant change"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "category one\" status. He had"
+    ],
+    [
+     "ins",
+     "landscape of men's professional golf over"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "option to join because he won a major -"
+    ],
+    [
+     "ins",
+     "past 12 months,\" said Guy Kinnings,"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "2024 US Open - in the last five years. The American player was the most prominent face"
+    ],
+    [
+     "ins",
+     "chief executive"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "LIV, which announced two weeks ago in bankruptcy court it plans to wind down operations instead of launching a new version after losing the financial support of Saudi Arabia. On Monday, the PGA Tour CEO Brian Rolapp said his board had \"thoughtful discussions\" about the future of players at LIV Golf, adding: \"I hope to have more to say in the beginning of the new year.\" The addition of DeChambeau, who has his own YouTube channel with more than 3m subscribers, is a huge boon to"
+    ],
+    [
+     "eq",
+     "the DP World Tour."
+    ],
+    [
+     "del",
+     "It comes after Jon Rahm"
+    ],
+    [
+     "ins",
+     "\"As golf's global tour, we have taken a pragmatic approach to this unique"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "Tyrrell Hatton -"
+    ],
+    [
+     "ins",
+     "unprecedented situation as we go into next year, always with"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "winners"
+    ],
+    [
+     "ins",
+     "best interests"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "ins",
+     "our entire membership at"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "last two events"
+    ],
+    [
+     "ins",
+     "forefront"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "ins",
+     "our minds. \"We realise there are different viewpoints but this approach, discussed and agreed with our tournament committee and allied to this responsibly managed programme of invites, will add value which, in turn, will benefit"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "2026 season - announced they will be returning"
+    ],
+    [
+     "ins",
+     "Tour as a whole.\" The sentiment of Kinnings provides a tacit admission he had"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "ins",
+     "balance bringing eyeballs to his business with"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "tour after their departure from LIV, along with Sergio García. In a statement announcing its membership categories for 2027, the DP World Tour said nine players coming off LIV - including Dustin Johnson and Cameron Smith - had signed agreements to receive invites to a specific number"
+    ],
+    [
+     "ins",
+     "demands"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "tournaments next season. The other players were Abraham Ancer, Lucas Herbert, Michael La Sasso, Joaquin Niemann, Carlos Ortiz and Thomas Pieters."
+    ],
+    [
+     "ins",
+     "rank-and-file members."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 2.2401,
+  "numbers_changed": [
+   "2023",
+   "2026",
+   "2028",
+   "3",
+   "33"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 3,
+  "blocks_added": 2,
+  "blocks_removed": 3,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.104,
+ "similarity": 0.886,
+ "adjudicated_by": "rules"
+}

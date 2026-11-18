@@ -1,0 +1,68 @@
+{
+ "id": "80311802f1359657-2de697bc-f9de1f4f",
+ "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-11-18T15:35:03Z",
+ "date": "2026-11-18",
+ "old_title": "Speed camera fault may have allowed drivers to escape fines",
+ "new_title": "Speed camera fault may have allowed drivers to escape fines",
+ "old_text": "- Published\nFurther problems with the accuracy of speed cameras on English roads have been uncovered which may have allowed drivers to slip through the cracks and escape fines.\nNational Highways discovered issues with speed cameras last year, affecting 154 out of 400 cameras but, following an investigation, said it had found another fault on units monitoring roads including those running between Huntingdon and Cambridge.\nThe Home Office has revoked approval that allows footage from the cameras to be used as evidence in legal proceedings. US firm Verra Mobility operates the cameras but National Highways said it will now end the contract.\nRoads minister Justin Madders said: \"We can't take chances with this.\n\"If we're going to prosecute people, we need to be confident the system is working as it should. That's why we've taken the action we have.\"\nThe fault affected all of the variable speed cameras on smart motorways, and a section of the A14 between Huntingdon and Cambridge as well as the A1 approach junction to the A14.\nA spokesperson for National Highways said that Verra's camera system had been selected on the basis that it maintained Home Office approval.\nThe agency said that since that was no longer the case \"we are ending our contractual relationship to use the cameras for enforcement\".\nIt added: \"We are considering all further commercial and legal options that may be appropriate.\"\nThe BBC has contacted Verra Mobility for comment.\nMadders said that the enforcement of speed limits continues to be conducted through a range of different tactics, including mobile cameras as well as marked and unmarked police patrols.\nBut he admitted that the camera system will not be fully fixed until sometime next year.\nRod Dennis, senior policy officer at the RAC motoring organisation, said: \"Malfunctioning speed cameras on smart motorways do more than just let speeding drivers get away with breaking the law and endangering lives â they further undermine confidence in the very types of road we know drivers already have serious misgivings about.\"\nThere are 4,000 cameras across the entire road network.\nIn December 2025, National Highways, which runs England's motorways, blamed an \"anomaly\" in how variable speed cameras were interacting with speed limit signs on some A roads and motorways.\nFor example, on a road where the speed limit increases, a driver may see a sign showing 60mph but the camera recording it may still be working on the basis of a previous 40mph speed limit.\nThe fault led to 2,650 wrongful speed camera activations between 2021 and the end of last year.\nThose who had been wrongfully fined have been reimbursed.\nAs National Highways continued to test the system, it discovered a further problem \"relating to how some of these cameras may activate in specific and rare circumstances\".\nIt said that according to its calculations, \"the circumstances in which the latest issue could occur are extremely rare, and there is no evidence to suggest it has impacted enforcement\".\nNevertheless, it said it was \"taking immediate steps to ensure compliance is maintained at relevant locations\".\nIt said it would out further traffic officer patrols in place to monitor the sites.",
+ "new_text": "- Published\nFurther problems with the accuracy of speed cameras on English roads have been uncovered which may have allowed drivers to slip through the cracks and escape fines.\nNational Highways discovered issues with speed cameras last year, affecting 154 out of 400 cameras but, following an investigation, said it had found another fault on units monitoring roads including those running between Huntingdon and Cambridge.\nThe Home Office has revoked approval that allows footage from the cameras to be used as evidence in legal proceedings. US firm Verra Mobility operates the cameras but National Highways said it will now end the contract.\nRoads minister Justin Madders said: \"We can't take chances with this.\n\"If we're going to prosecute people, we need to be confident the system is working as it should. That's why we've taken the action we have.\"\nIn a statement, Verra Mobility said it \"remains fully committed to delivering reliable, innovative technology that helps make roads safer\".\nThe fault affected all of the variable speed cameras on smart motorways, and a section of the A14 between Huntingdon and Cambridge as well as the A1 approach junction to the A14.\nA spokesperson for National Highways said that Verra's camera system had been selected on the basis that it maintained Home Office approval.\nThe agency said that since that was no longer the case \"we are ending our contractual relationship to use the cameras for enforcement\".\nIt added: \"We are considering all further commercial and legal options that may be appropriate.\"\nThe BBC has contacted Verra Mobility for comment.\nMadders said that the enforcement of speed limits continues to be conducted through a range of different tactics, including mobile cameras as well as marked and unmarked police patrols.\nBut he admitted that the camera system will not be fully fixed until sometime next year.\nRod Dennis, senior policy officer at the RAC motoring organisation, said: \"Malfunctioning speed cameras on smart motorways do more than just let speeding drivers get away with breaking the law and endangering lives â they further undermine confidence in the very types of road we know drivers already have serious misgivings about.\"\nThere are 4,000 cameras across the entire road network.\nIn December 2025, National Highways, which runs England's motorways, blamed an \"anomaly\" in how variable speed cameras were interacting with speed limit signs on some A roads and motorways.\nFor example, on a road where the speed limit increases, a driver may see a sign showing 60mph but the camera recording it may still be working on the basis of a previous 40mph speed limit.\nThe fault led to 2,650 wrongful speed camera activations between 2021 and the end of last year.\nThose who had been wrongfully fined have been reimbursed.\nAs National Highways continued to test the system, it discovered a further problem \"relating to how some of these cameras may activate in specific and rare circumstances\".\nIt said that according to its calculations, \"the circumstances in which the latest issue could occur are extremely rare, and there is no evidence to suggest it has impacted enforcement\".\nNevertheless, it said it was \"taking immediate steps to ensure compliance is maintained at relevant locations\".\nIt said it would put further traffic officer patrols in place to monitor the sites.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "working as it should. That's why we've taken the action we have.\""
+    ],
+    [
+     "ins",
+     "In a statement, Verra Mobility said it \"remains fully committed to delivering reliable, innovative technology that helps make roads safer\"."
+    ],
+    [
+     "eq",
+     "The fault affected all of the variable speed cameras on smart motorways,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to ensure compliance is maintained at relevant locations\". It said it would"
+    ],
+    [
+     "del",
+     "out"
+    ],
+    [
+     "ins",
+     "put"
+    ],
+    [
+     "eq",
+     "further traffic officer patrols in place to monitor the sites."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.042,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9718,
+ "adjudicated_by": "rules"
+}
