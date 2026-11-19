@@ -1,0 +1,106 @@
+{
+ "id": "eba19e73279e3cc9-e0b6f374-86c270dc",
+ "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-19T15:31:05Z",
+ "date": "2026-11-19",
+ "old_title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+ "new_title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+ "old_text": "- Published\nDonald Trump and Vladimir Putin met for the first time in more than a year on Wednesday, as they prepared for landmark talks in China with Xi Jinping.\nThe US president was greeted off his plane by the Chinese leader as he arrived in Shenzhen for a summit of Asia-Pacific leaders, which will culminate in a closely-watched meeting between the pair and the Russian president.\nAfter a carefully choreographed handshake and hug between Trump and Xi on the tarmac, the US president later greeted and exchanged pleasantries with Putin ahead of a reception.\nTrump and Putin are expected to hold one-on-one talks on the sidelines of the summit on Thursday, in which the war in Ukraine could be discussed.\nHowever the main focus during the Asia-Pacific Economic Cooperation forum (Apec) will be on the US-China-Russia talks on Thursday - the first time the trio of leaders have met together in person.\nA full agenda has not been made public but there have been various hints about what could be discussed, including the wars in Ukraine and Iran, nuclear proliferation, trade tensions and developments in artificial intelligence.\nIt was not clear on Wednesday what form separate Trump-Putin talks would take, though a Kremlin spokesperson indicated short informal talks may happen without large delegations in the room.\nUkrainian President Volodymyr Zelensky has raised fears of a plan to end the war being discussed in the absence of representatives from Kyiv or Europe.\nWednesday's handshake was the first in-person meeting between Trump and Putin since August 2025, when the Russian leader travelled to Alaska for talks on the Ukraine war which failed to deliver a breakthrough.\nXi's personal reception for Trump at the airport mimicked a similar move by the US president when the Chinese leader visited Washington in September, a gesture Xi described as \"special\".\nIn Shenzhen, a red carpet was rolled out in front of Air Force One for Trump, with a cheering crowd, honour guard, military flyover and flowers presentation all in place to welcome him.\nChinese state-run news agency Xinhua quoted Xi as saying he wanted to pursue a \"constructive strategic and stable relationship based on respect, fairness, and equality\".\nXi's greeting will be seen as a diplomatic gesture designed to begin the week's talks with his American counterpart on a cordial note.\nThe south-east Chinese city the Apec summit is being held in is a booming area for manufacturing and advanced tech.\nIt comes against the backdrop of the ousting of Nvidia chief executing Jensen Huang, who admitted to having an affair with a woman suspected by US intelligence of spying for Beijing - a claim dismissed as a \"smear\" by China.\nTrump has pursued warmer relations with China but the incident points to ongoing tensions between the two powers.\nSeveral hours before Trump's arrival, Putin landed in Shenzhen and held around two hours of talks with Xi, with whom he has pressed for closer economic and defence relations.\nXi said both countries would \"move forward steadily and boldly\" and that the relationship was \"stable as a mountain, unshaken by storms\".",
+ "new_text": "- Published\nDonald Trump and Vladimir Putin met for the first time in more than a year on Wednesday, as they prepared for landmark talks in China with Xi Jinping.\nThe US president was greeted off his plane by the Chinese leader as he arrived in Shenzhen for a summit of Asia-Pacific leaders, which will culminate in a closely-watched meeting between the pair and the Russian president.\nAfter a carefully choreographed handshake and hug between Trump and Xi on the tarmac, the US president later greeted and exchanged pleasantries with Putin ahead of a reception.\nTrump and Putin are expected to hold one-on-one talks on the sidelines of the summit on Thursday, in which the war in Ukraine could be discussed.\nHowever the main focus during the Asia-Pacific Economic Cooperation forum (Apec) will be on the US-China-Russia talks on Thursday - the first time the trio of leaders have met together in person.\nA full agenda has not been made public but there have been various hints about what could be discussed, including the wars in Ukraine and Iran, nuclear proliferation, trade tensions and developments in artificial intelligence.\nKremlin spokesman Dmitry Peskov said Putin and Trump have not yet held a substantive meeting, and merely greeted each other on Wednesday.\nPeskov also said that \"no more than an hour\" had been allocated for Thursday's trilateral talks between Putin, Trump and Xi.\nUkrainian President Volodymyr Zelensky has raised fears of a plan to end the war being discussed in the absence of representatives from Kyiv or Europe.\nIt is unclear whether China would want this issue to be on the agenda in Shenzhen, with Beijing talking more generally about the need to discuss \"safeguarding world peace and promoting strategic stability\".\nChina has officially remained neutral since Putin launched a full-scale invasion of Ukraine in 2022, rejecting accusations from Kyiv and its allies that it has been tacitly supporting Moscow, including by exporting dual-use technology used by the Russian military.\nWednesday's handshake was the first in-person meeting between Trump and Putin since August 2025, when the Russian leader travelled to Alaska for talks on the Ukraine war which failed to deliver a breakthrough.\nXi's personal reception for Trump at the airport mimicked a similar move by the US president when the Chinese leader visited Washington in September, a gesture Xi described as \"special\".\nIn Shenzhen, a red carpet was rolled out in front of Air Force One for Trump, with a cheering crowd, honour guard, military flyover and flowers presentation all in place to welcome him.\nChinese state-run news agency Xinhua quoted Xi as saying he wanted to pursue a \"constructive strategic and stable relationship based on respect, fairness, and equality\".\nXi's greeting will be seen as a diplomatic gesture designed to begin the week's talks with his American counterpart on a cordial note.\nThe south-east Chinese city the Apec summit is being held in is a booming area for manufacturing and advanced tech.\nIt comes against the backdrop of the ousting of Nvidia chief executing Jensen Huang, who admitted to having an affair with a woman suspected by US intelligence of spying for Beijing - a claim dismissed as a \"smear\" by China.\nTrump has pursued warmer relations with China but the incident points to ongoing tensions between the two powers.\nSeveral hours before Trump's arrival, Putin landed in Shenzhen and held around two hours of talks with Xi, with whom he has pressed for closer economic and defence relations.\nXi said both countries would \"move forward steadily and boldly\" and that the relationship was \"stable as a mountain, unshaken by storms\".",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Ukraine and Iran, nuclear proliferation, trade tensions and developments in artificial intelligence."
+    ],
+    [
+     "del",
+     "It was"
+    ],
+    [
+     "ins",
+     "Kremlin spokesman Dmitry Peskov said Putin and Trump have"
+    ],
+    [
+     "eq",
+     "not"
+    ],
+    [
+     "del",
+     "clear"
+    ],
+    [
+     "ins",
+     "yet held a substantive meeting, and merely greeted each other"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "Wednesday what form separate Trump-Putin"
+    ],
+    [
+     "ins",
+     "Wednesday. Peskov also said that \"no more than an hour\" had been allocated for Thursday's trilateral"
+    ],
+    [
+     "eq",
+     "talks"
+    ],
+    [
+     "del",
+     "would take, though a Kremlin spokesperson indicated short informal talks may happen without large delegations in the room."
+    ],
+    [
+     "ins",
+     "between Putin, Trump and Xi."
+    ],
+    [
+     "eq",
+     "Ukrainian President Volodymyr Zelensky has raised fears of a plan to end"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "war being discussed in the absence of representatives from Kyiv or Europe."
+    ],
+    [
+     "ins",
+     "It is unclear whether China would want this issue to be on the agenda in Shenzhen, with Beijing talking more generally about the need to discuss \"safeguarding world peace and promoting strategic stability\". China has officially remained neutral since Putin launched a full-scale invasion of Ukraine in 2022, rejecting accusations from Kyiv and its allies that it has been tacitly supporting Moscow, including by exporting dual-use technology used by the Russian military."
+    ],
+    [
+     "eq",
+     "Wednesday's handshake was the first in-person meeting between Trump and Putin since"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.268,
+  "numbers_changed": [
+   "2022"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9787,
+ "adjudicated_by": "rules"
+}

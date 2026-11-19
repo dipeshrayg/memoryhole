@@ -1,0 +1,50 @@
+{
+ "id": "3c2f058cd5873f12-d96c0c75-94e85a4e",
+ "url": "https://news.un.org/feed/view/en/story/2026/11/1168810",
+ "domain": "news.un.org",
+ "source": "UN News",
+ "country": "International",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-19T15:37:22Z",
+ "date": "2026-11-19",
+ "old_title": "Guterres calls for a legally binding instrument for 'killer robots'",
+ "new_title": "Guterres calls for a legally binding instrument for 'killer robots'",
+ "old_text": "Guterres calls for a legally binding instrument for 'killer robots'\nAddressing delegates from more than 120 Member States, UN Secretary-General António Guterres urged them to move towards negotiating a legally binding instrument to regulate the rapidly evolving technology, to include \"clear prohibitions and restrictions\".\nEven war has limits and \"the nature of warfare is changing\", he told the 7th Review Conference of the Convention on Certain Conventional Weapons (watch it on webtv.un.org)\n\"New technologies, including autonomous weapons systems, present new humanitarian, legal, ethical and security challenges...I urge you to seize this moment. Take action to prevent the use and spread of these merciless weapons.\"\nIn his video message, the UN chief also insisted that \"we must never stop shielding civilians from the carnage and devastation of armed conflict and preventing unnecessary suffering\".\nHuman rights chief's call\nThe development follows a strong appeal from the UN human rights chief Volker Türk last Friday to States to urgently agree to such a treaty. Not all countries agree on controls, although UN General Assembly Resolution 78/241 from December 2023 confirming that lethal autonomous weapons systems must respect the laws of war received support from 152 countries with four against and 11 abstentions.\nIn a statement, the High Commissioner for Human Rights cited the rapid pace of technological development and the risk that autonomous weapons systems could soon become widely accessible.\n\"A machine must never have the power to decide whether a human being survives or dies,\" stressed Mr. Türk.\nHe further called for prohibitions on autonomous weapons that themselves target people - either by design or in practice - and for a ban on weapons whose functions and effects could not be fully understood, predicted, explained and controlled by human users.\nHuman judgement and responsibility must remain at the centre of decisions involving the use of force, the High Commissioner stressed, as machines do not understand the value of human life nor assess context in the way humans could, or even make complex judgements required by international law.\nWhat the Convention does\nFor more than 40 years, the Convention on Certain Conventional Weapons has reached common ground to reduce human suffering caused by landmines, improvised explosive devices, incendiary weapons and explosive remnants of war.\nIt is understood that there is currently no agreement on the nature of a possible new instrument for lethal autonomous weapons systems - whether legally binding or not, as well as the timeframe.\nThe Conference is also expected to consider the humanitarian impact of landmines and emerging methods of warfare not covered by other international instruments. Discussions are organized by the UN Office for Disarmament Affairs (UNODA).\nThe Convention on Certain Conventional Weapons is one of the key pillars of international discussions on disarmament and currently has 128 so-called \"High Contracting Parties\" - the term used to describe countries that have formally joined the convention and accepted its legal obligations.",
+ "new_text": "Guterres calls for a legally binding instrument for 'killer robots'\nAddressing delegates from more than 120 Member States, UN Secretary-General António Guterres urged them to move towards negotiating a legally binding instrument to regulate the rapidly evolving technology, to include \"clear prohibitions and restrictions\".\nEven war has limits and \"the nature of warfare is changing\", he told the 7th Review Conference of the Convention on Certain Conventional Weapons (watch it on webtv.un.org)\n\"New technologies, including autonomous weapons systems, present new humanitarian, legal, ethical and security challenges...I urge you to seize this moment. Take action to prevent the use and spread of these merciless weapons.\"\nIn his video message, the UN chief also insisted that \"we must never stop shielding civilians from the carnage and devastation of armed conflict and preventing unnecessary suffering\".\nHuman rights chief's call\nThe development follows a strong appeal from the UN human rights chief Volker Türk last Friday to States to urgently agree to such a treaty. Not all countries agree on controls, although UN General Assembly Resolution 78/241 from December 2023 confirming that lethal autonomous weapons systems must respect the laws of war received support from 152 countries with four against and 11 abstentions.\nIn a statement, the High Commissioner for Human Rights cited the rapid pace of technological development and the risk that autonomous weapons systems could soon become widely accessible.\n\"A machine must never have the power to decide whether a human being survives or dies,\" stressed Mr. Türk.\nHe further called for prohibitions on autonomous weapons that themselves target people - either by design or in practice - and for a ban on weapons whose functions and effects could not be fully understood, predicted, explained and controlled by human users.\nHuman judgement and responsibility must remain at the centre of decisions involving the use of force, the High Commissioner stressed, as machines do not understand the value of human life nor assess context in the way humans could, or even make complex judgements required by international law.\nAnswers to some frequently asked questions on autonomous weapons here, and watch UN Video's 5 facts below:\nWhat the Convention does\nFor more than 40 years, the Convention on Certain Conventional Weapons has reached common ground to reduce human suffering caused by landmines, improvised explosive devices, incendiary weapons and explosive remnants of war.\nIt is understood that there is currently no agreement on the nature of a possible new instrument for lethal autonomous weapons systems - whether legally binding or not, as well as the timeframe.\nThe Conference is also expected to consider the humanitarian impact of landmines and emerging methods of warfare not covered by other international instruments. Discussions are organized by the UN Office for Disarmament Affairs (UNODA).\nThe Convention on Certain Conventional Weapons is one of the key pillars of international discussions on disarmament and currently has 128 so-called \"High Contracting Parties\" - the term used to describe countries that have formally joined the convention and accepted its legal obligations.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "way humans could, or even make complex judgements required by international law."
+    ],
+    [
+     "ins",
+     "Answers to some frequently asked questions on autonomous weapons here, and watch UN Video's 5 facts below:"
+    ],
+    [
+     "eq",
+     "What the Convention does For more than 40 years, the Convention on"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0353,
+  "numbers_changed": [
+   "5"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

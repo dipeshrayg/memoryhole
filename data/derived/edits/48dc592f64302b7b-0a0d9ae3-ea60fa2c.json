@@ -1,0 +1,332 @@
+{
+ "id": "48dc592f64302b7b-0a0d9ae3-ea60fa2c",
+ "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-19T15:32:59Z",
+ "date": "2026-11-19",
+ "old_title": "Palestinians flee refugee camp as Israel begins operation in central Gaza",
+ "new_title": "Three killed as Israel launches first ground push since 'ceasefire' began",
+ "old_text": "Israeli forces have killed three Palestinians during a new operation in central Gaza, according to hospital officials.\nAl Jazeera correspondents in Gaza are reporting that Israeli tanks were operating on Wednesday near Salah al-Din Street, east of the Nuseirat refugee camp and north of the Bureij camp, amid shooting by drones and shelling.\nAn Israeli air strike targeted the town of al-Mughraqa, north of the Nuseirat camp, killing one person and injuring several others, an official at al-Awda Hospital told Al Jazeera.\nEarlier on Wednesday the Israeli army said the operation aimed to \"eliminate a threat\" to its forces operating in the area of the \"Yellow Line\".\nThe \"Yellow Line\" demarcates the Israeli-occupied area of Gaza and was established under the October 2025 Gaza \"ceasefire\".\nIn a statement, the Israeli military said: \"We reserve the freedom to act and manoeuvre whenever necessary to eliminate any immediate threat in the Gaza Strip.\"\nAl Jazeera correspondents reported that families fled the northern part of the Nuseirat refugee camp on Wednesday as well as areas near the Israeli military operations.\nDeadly attacks\nBefore the announcement of the Israeli operation, two Israeli drone attacks on the Gaza Strip killed at least two people, hospital officials told Al Jazeera.\nAl-Shifa Hospital reported that one person was killed and others were wounded in an attack on the Sheikh Ijlin neighbourhood in southwestern Gaza City.\nAl-Aqsa Martyrs Hospital reported one person was killed in a separate attack on Deir el-Balah in central Gaza, where the hospital had earlier reported an injury.\nGaza's Ministry of Health said on Wednesday that hospitals recorded seven deaths and received 15 wounded people in the previous 24 hours.\nSix people were killed by Israel over that period while one died from injuries caused by an earlier attack, the ministry said.",
+ "new_text": "Israeli forces killed three Palestinians during a new operation in central Gaza on Wednesday, according to hospital officials, in the first broad ground offensive since a \"ceasefire\" was signed more than a year ago.\nAl Jazeera correspondents on the ground reported that Israeli tanks were operating near Salah al-Din Street, east of the Nuseirat refugee camp and north of the Bureij camp.\nAn Israeli air strike targeted the town of al-Mughraqa, north of Nuseirat, killing one person and wounding several others, an official at al-Awda Hospital told Al Jazeera.\nReporting from Gaza City, Al Jazeera's Hind Khoudary said many Palestinians were fleeing areas in central Gaza as the Israeli operation got under way.\n\"We have been seeing people in eastern parts of Maghazi and Bureij, and people who are close to Salah al-Din starting to evacuate and flee the area due to the fact that there were huge explosions heard, live ammunition, and artillery shelling in that area,\" Khoudary said.\n\"The Israeli forces in their announcement did not issue an evacuation order for people who are living in this area. They just mentioned that there is a military operation that is going to start, they are going to destroy the infrastructure and they are going to start demolishing in this area,\" she added.\nEarlier on Wednesday, the Israeli army said the operation aimed to \"eliminate a threat\" to its forces operating in the area of the \"Yellow Line\", which demarcates the Israeli-occupied area of Gaza, and was established under the \"ceasefire\" agreement signed between Israel and Hamas in October 2025.\nIn a statement, the Israeli military said: \"We reserve the freedom to act and manoeuvre whenever necessary to eliminate any immediate threat in the Gaza Strip.\"\nHamas condemned the Israeli operation as a \"flagrant violation of the ceasefire agreement\".\n\"Forced evacuation orders and the displacement of citizens carried out under the threat of violence and bombardment constitute a war crime and a flagrant violation of international humanitarian law,\" the group said in a statement.\n\"The occupation's actions are aimed at herding citizens into a narrow strip of the Gaza Strip, further exacerbating the ongoing humanitarian catastrophe,\" it added.\nHamas said it holds Israel and the United States responsible for \"the repercussions of the military operation and the crimes committed against civilians\".\nDeadly attacks\nBefore the announcement of the Israeli operation, two Israeli drone attacks on Gaza killed at least two people, hospital officials told Al Jazeera.\nAl-Shifa Hospital reported that one person was killed and others were wounded in an attack on the Sheikh Ijlin neighbourhood in southwestern Gaza City.\nIn a separate attack, Al-Aqsa Martyrs Hospital reported that one person was killed in Deir el-Balah in central Gaza, where the hospital had earlier reported an injury.\nEarlier on Wednesday, Gaza's Ministry of Health said that hospitals had recorded seven deaths and received 15 wounded people in the previous 24 hours.\nSix people were killed by Israel over that period while one died from injuries caused by an earlier attack, the ministry said.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Israeli forces"
+    ],
+    [
+     "del",
+     "have"
+    ],
+    [
+     "eq",
+     "killed three Palestinians during a new operation in central"
+    ],
+    [
+     "del",
+     "Gaza,"
+    ],
+    [
+     "ins",
+     "Gaza on Wednesday,"
+    ],
+    [
+     "eq",
+     "according to hospital"
+    ],
+    [
+     "del",
+     "officials."
+    ],
+    [
+     "ins",
+     "officials, in the first broad ground offensive since a \"ceasefire\" was signed more than a year ago."
+    ],
+    [
+     "eq",
+     "Al Jazeera correspondents"
+    ],
+    [
+     "del",
+     "in Gaza are reporting"
+    ],
+    [
+     "ins",
+     "on the ground reported"
+    ],
+    [
+     "eq",
+     "that Israeli tanks were operating"
+    ],
+    [
+     "del",
+     "on Wednesday"
+    ],
+    [
+     "eq",
+     "near Salah al-Din Street, east of the Nuseirat refugee camp and north of the Bureij"
+    ],
+    [
+     "del",
+     "camp, amid shooting by drones and shelling."
+    ],
+    [
+     "ins",
+     "camp."
+    ],
+    [
+     "eq",
+     "An Israeli air strike targeted the town of al-Mughraqa, north of"
+    ],
+    [
+     "del",
+     "the Nuseirat camp,"
+    ],
+    [
+     "ins",
+     "Nuseirat,"
+    ],
+    [
+     "eq",
+     "killing one person and"
+    ],
+    [
+     "del",
+     "injuring"
+    ],
+    [
+     "ins",
+     "wounding"
+    ],
+    [
+     "eq",
+     "several others, an official at al-Awda Hospital told Al Jazeera."
+    ],
+    [
+     "ins",
+     "Reporting from Gaza City, Al Jazeera's Hind Khoudary said many Palestinians were fleeing areas in central Gaza as the Israeli operation got under way. \"We have been seeing people in eastern parts of Maghazi and Bureij, and people who are close to Salah al-Din starting to evacuate and flee the area due to the fact that there were huge explosions heard, live ammunition, and artillery shelling in that area,\" Khoudary said. \"The Israeli forces in their announcement did not issue an evacuation order for people who are living in this area. They just mentioned that there is a military operation that is going to start, they are going to destroy the infrastructure and they are going to start demolishing in this area,\" she added."
+    ],
+    [
+     "eq",
+     "Earlier on"
+    ],
+    [
+     "del",
+     "Wednesday"
+    ],
+    [
+     "ins",
+     "Wednesday,"
+    ],
+    [
+     "eq",
+     "the Israeli army said the operation aimed to \"eliminate a threat\" to its forces operating in the area of the \"Yellow"
+    ],
+    [
+     "del",
+     "Line\". The \"Yellow Line\""
+    ],
+    [
+     "ins",
+     "Line\", which"
+    ],
+    [
+     "eq",
+     "demarcates the Israeli-occupied area of"
+    ],
+    [
+     "del",
+     "Gaza"
+    ],
+    [
+     "ins",
+     "Gaza,"
+    ],
+    [
+     "eq",
+     "and was established under the"
+    ],
+    [
+     "ins",
+     "\"ceasefire\" agreement signed between Israel and Hamas in"
+    ],
+    [
+     "eq",
+     "October"
+    ],
+    [
+     "del",
+     "2025 Gaza \"ceasefire\"."
+    ],
+    [
+     "ins",
+     "2025."
+    ],
+    [
+     "eq",
+     "In a statement, the Israeli military said: \"We reserve the freedom to"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "manoeuvre whenever necessary to eliminate any immediate threat in the Gaza Strip.\""
+    ],
+    [
+     "del",
+     "Al Jazeera correspondents reported that families fled"
+    ],
+    [
+     "ins",
+     "Hamas condemned"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "northern part"
+    ],
+    [
+     "ins",
+     "Israeli operation as a \"flagrant violation"
+    ],
+    [
+     "eq",
+     "of the"
+    ],
+    [
+     "del",
+     "Nuseirat refugee camp on Wednesday as well as areas near"
+    ],
+    [
+     "ins",
+     "ceasefire agreement\". \"Forced evacuation orders and"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "Israeli"
+    ],
+    [
+     "ins",
+     "displacement of citizens carried out under the threat of violence and bombardment constitute a war crime and a flagrant violation of international humanitarian law,\" the group said in a statement. \"The occupation's actions are aimed at herding citizens into a narrow strip of the Gaza Strip, further exacerbating the ongoing humanitarian catastrophe,\" it added. Hamas said it holds Israel and the United States responsible for \"the repercussions of the"
+    ],
+    [
+     "eq",
+     "military"
+    ],
+    [
+     "del",
+     "operations."
+    ],
+    [
+     "ins",
+     "operation and the crimes committed against civilians\"."
+    ],
+    [
+     "eq",
+     "Deadly attacks Before the announcement of the Israeli operation, two Israeli drone attacks on"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "eq",
+     "Gaza"
+    ],
+    [
+     "del",
+     "Strip"
+    ],
+    [
+     "eq",
+     "killed at least two people, hospital officials told Al Jazeera. Al-Shifa Hospital"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "in an attack on the Sheikh Ijlin neighbourhood in southwestern Gaza City."
+    ],
+    [
+     "ins",
+     "In a separate attack,"
+    ],
+    [
+     "eq",
+     "Al-Aqsa Martyrs Hospital reported"
+    ],
+    [
+     "ins",
+     "that"
+    ],
+    [
+     "eq",
+     "one person was killed in"
+    ],
+    [
+     "del",
+     "a separate attack on"
+    ],
+    [
+     "eq",
+     "Deir el-Balah in central Gaza, where the hospital had earlier reported an injury."
+    ],
+    [
+     "ins",
+     "Earlier on Wednesday,"
+    ],
+    [
+     "eq",
+     "Gaza's Ministry of Health said"
+    ],
+    [
+     "del",
+     "on Wednesday"
+    ],
+    [
+     "eq",
+     "that hospitals"
+    ],
+    [
+     "ins",
+     "had"
+    ],
+    [
+     "eq",
+     "recorded seven deaths and received 15 wounded people in the previous 24"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.0772,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.997,
+ "similarity": 0.9039,
+ "adjudicated_by": "rules"
+}

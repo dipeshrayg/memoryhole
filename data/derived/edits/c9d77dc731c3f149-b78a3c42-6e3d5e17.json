@@ -1,0 +1,90 @@
+{
+ "id": "c9d77dc731c3f149-b78a3c42-6e3d5e17",
+ "url": "https://www.bbc.co.uk/news/articles/cq702k1w8xd3o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-19T15:31:09Z",
+ "date": "2026-11-19",
+ "old_title": "Russell Brand: Deputy Labour leader criticises media for 'amplifying' prison message",
+ "new_title": "Russell Brand: Deputy Labour leader criticises media for 'amplifying' prison message",
+ "old_text": "- Published\nLabour's deputy leader Lucy Powell has criticised media organisations for broadcasting a message from the wife of jailed rapist Russell Brand on his behalf.\nLaura Brand read out the message on the disgraced comedian's YouTube channel on Sunday, in which he said he was not guilty of the offences for which he is serving a 10-and-a-half year prison sentence.\nThe message has prompted an official investigation into whether Brand broke prison rules.\nThe clip of Laura Brand has been played on outlets including BBC Radio 4's Today programme, ITV's This Morning, Sky News, LBC and the News Agents podcast. On Wednesday, Education Secretary Powell said the media should not have \"amplified\" his words.\n\"I was appalled at that [message] and actually I think mainstream media shouldn't have transmitted that either,\" she told LBC on Wednesday.\n\"It's a platform I don't think should have been amplified, to be honest.\"\nPowell went on to describe Russell Brand as \"someone who's not showing a jot of remorse, a jot of any sensitivity at all to their victims\".\nShe continued: \"This is somebody who's been convicted and found guilty of very, very serious offences and rape.\"\nIn a statement, the BBC said the Today programme had played the Laura Brand clip \"in error, due to miscommunication within the team\", and had since removed it from catch-up service BBC Sounds.\nBBC News has asked the other outlets named above for a comment, as well as YouTube's parent company Google about its policy.\nIn 2023, after a media investigation revealing allegations about Brand, YouTube suspended his channels from making money from adverts for \"violating\" its \"creator responsibility policy\". But they are still available to view.\nBrand's social media accounts on Meta platforms - which owns Instagram, Facebook and Whatsapp - were disabled last week.\nEarlier this week, Downing Street officials described Brand's message to his followers as \"clearly appalling\", adding that it was being urgently investigated.\nNo 10 said it expects action to be taken if Brand is found to have broken prison rules.\nAsked about the message, the prime minister's official spokesman said: \"Prisoners are strictly banned from making statements that cause distress to victims and speaking to the media is only permitted in exceptional circumstances.\n\"Prisoners cannot get around these rules by having someone else publish their comments.\"",
+ "new_text": "- Published\nLabour's deputy leader Lucy Powell has criticised media organisations for broadcasting a message from the wife of jailed rapist Russell Brand on his behalf.\nLaura Brand read out the message on the disgraced comedian's YouTube channel on Sunday, in which he said he was not guilty of the offences for which he is serving a 10-and-a-half year prison sentence.\nThe message has prompted an official investigation into whether Brand broke prison rules.\nThe clip of Laura Brand has been played on outlets including BBC Radio 4's Today programme, ITV's This Morning, Sky News, LBC and the News Agents podcast. On Wednesday, Education Secretary Powell said the media should not have \"amplified\" his words.\n\"I was appalled at that [message] and actually I think mainstream media shouldn't have transmitted that either,\" she told LBC on Wednesday.\n\"It's a platform I don't think should have been amplified, to be honest.\"\nPowell went on to describe Russell Brand as \"someone who's not showing a jot of remorse, a jot of any sensitivity at all to their victims\".\nShe continued: \"This is somebody who's been convicted and found guilty of very, very serious offences and rape.\"\nIn a statement, the BBC said the Today programme had played the Laura Brand clip \"in error, due to miscommunication within the team\", and had since removed it from catch-up service BBC Sounds.\nBBC News has asked the other outlets named above for a comment.\nITN News chief executive Ian Rumsey told BBC Radio 4's The Media Show that the company's newsrooms, including ITV News and Channel 4 News, took the decision not to play the video.\nHe said: \"You didn't need to show it. You could discuss, you could describe what it was, and I'm very pleased and proud that every area of ITN chose not to show it at all, and I think that's exactly the right decision.\"\nYouTube said it is aware of the video and investigating, and that Brand's channel on the platform hasn't been able to make money since being suspended from its advert revenue scheme for \"violating\" its \"creator responsibility policy\" after allegations against him emerged in 2023. But the channel is still available to view.\nBrand's social media accounts on Meta platforms - which owns Instagram, Facebook and Whatsapp - were disabled last week.\nEarlier this week, Downing Street officials described Brand's message to his followers as \"clearly appalling\", adding that it was being urgently investigated.\nNo 10 said it expects action to be taken if Brand is found to have broken prison rules.\nAsked about the message, the prime minister's official spokesman said: \"Prisoners are strictly banned from making statements that cause distress to victims and speaking to the media is only permitted in exceptional circumstances.\n\"Prisoners cannot get around these rules by having someone else publish their comments.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Sounds. BBC News has asked the other outlets named above for a"
+    ],
+    [
+     "del",
+     "comment, as well as YouTube's parent company Google about"
+    ],
+    [
+     "ins",
+     "comment. ITN News chief executive Ian Rumsey told BBC Radio 4's The Media Show that the company's newsrooms, including ITV News and Channel 4 News, took the decision not to play the video. He said: \"You didn't need to show it. You could discuss, you could describe what it was, and I'm very pleased and proud that every area of ITN chose not to show it at all, and I think that's exactly the right decision.\" YouTube said it is aware of the video and investigating, and that Brand's channel on the platform hasn't been able to make money since being suspended from"
+    ],
+    [
+     "eq",
+     "its"
+    ],
+    [
+     "del",
+     "policy. In 2023, after a media investigation revealing allegations about Brand, YouTube suspended his channels from making money from adverts"
+    ],
+    [
+     "ins",
+     "advert revenue scheme"
+    ],
+    [
+     "eq",
+     "for \"violating\" its \"creator responsibility"
+    ],
+    [
+     "del",
+     "policy\"."
+    ],
+    [
+     "ins",
+     "policy\" after allegations against him emerged in 2023."
+    ],
+    [
+     "eq",
+     "But"
+    ],
+    [
+     "del",
+     "they are"
+    ],
+    [
+     "ins",
+     "the channel is"
+    ],
+    [
+     "eq",
+     "still available to view. Brand's social media accounts on Meta platforms -"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.386,
+  "numbers_changed": [
+   "4"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

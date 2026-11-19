@@ -1,0 +1,54 @@
+{
+ "id": "7847f1dc76db1270-6fe01096-ac33dc58",
+ "url": "https://news.un.org/feed/view/en/story/2026/11/1168807",
+ "domain": "news.un.org",
+ "source": "UN News",
+ "country": "International",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-19T15:37:26Z",
+ "date": "2026-11-19",
+ "old_title": "First Person: Managing risk on Ukraine's frontline",
+ "new_title": "First Person: Managing risk on Ukraine's frontline",
+ "old_text": "First Person: Managing risk on Ukraine's frontline\nHumanitarian workers providing support to communities on the frontline of the war between Ukraine and Russia must balance remaining close to those in need with the heightened risks of operating in a conflict zone, according to the top UN official in Ukraine.\nThe conflict is becoming increasingly dangerous and unpredictable, with Russian attacks on civilians and energy infrastructure intensifying ahead of winter, said Matthias Schmale, the UN Resident and Humanitarian Coordinator in Ukraine.\nThe targeting of power grids threatens heating, water supplies and essential services, deepening an already severe humanitarian crisis.\nDespite the ongoing challenges Mr. Schmale has said that the UN will stay and support Ukrainians.\n\"When I think about people delivering aid in Ukraine today, distinct images come to mind.\nOne is meeting, many times, brave Ukrainian volunteers and staff evacuating people from the front line at great risk to themselves. They do this with incredible dedication and a sense of humour.\nAnother is meeting brave humanitarians, some representing very small volunteer-based groups, in a bunker office in Kherson, discussing how to support people who have chosen to remain near the frontline.\nSo, evacuations on one hand and getting essential supplies to the frontline and advocating for people in occupied areas on the other.\nWhy closeness matters\nYou cannot understand the needs and aspirations of people if you are not close to them, do not speak their language and do not understand their customs.\nTo give a concrete example of why closeness matters in Ukraine, something that has surprised me here is how much pets and bigger farm animals matter to evacuees. Some people refuse to leave if their dog or cat cannot go with them.\nThe more I think about it, the more I understand that for evacuees, pets and animals are associated with home and a connection to home and land they would not want to give up.\nWho carries the risk?\nMost humanitarian aid is delivered by national organization staff and volunteers and they are exposed to the greatest risk.\nLike other UN and international colleagues, I have experienced it from time to time. We were in a situation where we had to run from drones in Kherson when we visited a bakery.\nIn a country against which a war is being waged, you cannot work without risk.\nHow can we deliver in a situation of war without transferring risk to implementing partners?\nHow can we protect frontline workers?\nIn a country against which a war is being waged, you cannot work without risk.\nThe question is how can you do so responsibly?\nIn this regard, we need to continue advocating for adherence to international humanitarian law. Wars have rules.\nWe need to consider what tools do we have to keep people safe, for example, drone detection and drone scrambling equipment.\nThat brings us to what are called measures or channels of last resort, such as the military.\nI remember one discussion with a governor about a certain area we could not go to for security reasons, where there were huge humanitarian needs.\nI asked him how we can deliver and he spontaneously said 'give it to the military.' That is of course sensitive.\nHowever, we shouldn't inappropriately play the hero. We shouldn't expect anyone to be the hero if we know the risk to their life is too big.\nAs head of the UN in Ukraine, I am determined, with many colleagues in the leadership, that we maintain a core presence for as long as that is physically possible.\nWe are not taking stupid but responsible risks.\"",
+ "new_text": "First Person: Managing risk on Ukraine's frontline\nHumanitarian workers providing support to communities on the frontline of the war between Ukraine and Russia must balance remaining close to those in need with the heightened risks of operating in a conflict zone, according to the top UN official in Ukraine.\nThe war stemming from Russia's full-scale invasion in February 2022 is becoming increasingly dangerous and unpredictable, with Russian attacks on civilians and energy infrastructure intensifying ahead of winter, said Matthias Schmale, the UN Resident and Humanitarian Coordinator in Ukraine.\nThe targeting of power grids threatens heating, water supplies and essential services, deepening an already severe humanitarian crisis.\nDespite the ongoing challenges Mr. Schmale has said that the UN will stay and support Ukrainians.\n\"When I think about people delivering aid in Ukraine today, distinct images come to mind.\nOne is meeting, many times, brave Ukrainian volunteers and staff evacuating people from the front line at great risk to themselves. They do this with incredible dedication and a sense of humour.\nAnother is meeting brave humanitarians, some representing very small volunteer-based groups, in a bunker office in Kherson, discussing how to support people who have chosen to remain near the frontline.\nSo, evacuations on one hand and getting essential supplies to the frontline and advocating for people in occupied areas on the other.\nWhy closeness matters\nYou cannot understand the needs and aspirations of people if you are not close to them, do not speak their language and do not understand their customs.\nTo give a concrete example of why closeness matters in Ukraine, something that has surprised me here is how much pets and bigger farm animals matter to evacuees. Some people refuse to leave if their dog or cat cannot go with them.\nThe more I think about it, the more I understand that for evacuees, pets and animals are associated with home and a connection to home and land they would not want to give up.\nWho carries the risk?\nMost humanitarian aid is delivered by national organization staff and volunteers and they are exposed to the greatest risk.\nLike other UN and international colleagues, I have experienced it from time to time. We were in a situation where we had to run from drones in Kherson when we visited a bakery.\nIn a country against which a war is being waged, you cannot work without risk.\nHow can we deliver in a situation of war without transferring risk to implementing partners?\nHow can we protect frontline workers?\nIn a country against which a war is being waged, you cannot work without risk.\nThe question is how can you do so responsibly?\nIn this regard, we need to continue advocating for adherence to international humanitarian law. Wars have rules.\nWe need to consider what tools do we have to keep people safe, for example, drone detection and drone scrambling equipment.\nThat brings us to what are called measures or channels of last resort, such as the military.\nI remember one discussion with a governor about a certain area we could not go to for security reasons, where there were huge humanitarian needs.\nI asked him how we can deliver and he spontaneously said 'give it to the military.' That is of course sensitive.\nHowever, we shouldn't inappropriately play the hero. We shouldn't expect anyone to be the hero if we know the risk to their life is too big.\nAs head of the UN in Ukraine, I am determined, with many colleagues in the leadership, that we maintain a core presence for as long as that is physically possible.\nWe are not taking stupid but responsible risks.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "a conflict zone, according to the top UN official in Ukraine. The"
+    ],
+    [
+     "del",
+     "conflict"
+    ],
+    [
+     "ins",
+     "war stemming from Russia's full-scale invasion in February 2022"
+    ],
+    [
+     "eq",
+     "is becoming increasingly dangerous and unpredictable, with Russian attacks on civilians and"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0167,
+  "numbers_changed": [
+   "2022"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9821,
+ "adjudicated_by": "rules"
+}

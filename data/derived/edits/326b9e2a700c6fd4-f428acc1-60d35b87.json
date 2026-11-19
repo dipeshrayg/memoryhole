@@ -1,0 +1,56 @@
+{
+ "id": "326b9e2a700c6fd4-f428acc1-60d35b87",
+ "url": "https://variety.com/2026/film/news/bruce-springsteen-concert-doc-when-the-walls-came-down-1236950655/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-11-19T15:47:37Z",
+ "date": "2026-11-19",
+ "old_title": "Bruce Springsteen Concert Doc 'When the Walls Came Down' in the Works from Legendary Entertainment, Passion Pictures and Sony Music Vision",
+ "new_title": "Bruce Springsteen Concert Doc 'When the Walls Came Down' in the Works from Legendary Entertainment, Passion Pictures and Sony Music Vision",
+ "old_text": "\"When the Walls Came Down,\" a documentary about Bruce Springsteen and The E Street Band's 1988 East Berlin concert, is in the works from Legendary Entertainment, Passion Pictures and Sony Music Vision.\nNicholas de Taranto and Danielle Peck serve as co-directors and produce alongside Passion Pictures. James Marsh, the Oscar-winning director of 2008's \"Man on Wire,\" serves as executive producer with Ray Sisson.\n\"When the Walls Came Down\" follows Springsteen from his first visit to East Berlin in 1981 to the 1988 performance and features interviews with Springsteen, Jon Landau and members of The E Street Band, including Roy Bittan, Patti Scialfa, Stevie Van Zandt and Max Weinberg. According to an official description, the Berlin show \"remains the largest concert that Springsteen and The E Street Band have played in their careers. For a generation coming of age under a highly repressive Communist regime, the concert became a catalyst for change. The following year, many of those same young people would help tear the Wall itself down.\"\n\"I remember seeing the Wall and saying, 'This isn't right. This is an offense against humanity,'\" Springsteen said. \"Looking back on it, it's in the very highest echelon of all the shows we've ever done. We were trying to dance with the entire country that day.\"\nMarsh added, \"This film explores a singular, high-stakes moment in pop culture and its incredible power over geopolitics. Bruce's words from that night resonate now more than ever, reminding us of the enduring, unifying power of music.\"\nSpringsteen, the rock 'n' roll visionary behind \"Born to Run\" and \"Born in the USA,\" recently experienced a resurgence in the pop culture zeitgeist. The story behind his sixth studio album \"Nebraska\" was immortalized in Scott Cooper's \"Deliver Me From Nowhere,\" which starred Jeremy Allen White as The Boss. Springsteen also recently wrapped his \"Land of Hope and Dreams\" American tour, which was, in part, a response to the second term of President Donald Trump, with whom Springsteen has an ongoing feud.\nWorldwide sales are being handled by Submarine Entertainment and Sony Music Vision.",
+ "new_text": "\"When the Walls Came Down,\" a documentary about Bruce Springsteen and The E Street Band's 1988 East Berlin concert, is in the works from Legendary Entertainment, Passion Pictures and Sony Music Vision.\nNicholas de Taranto and Danielle Peck serve as co-directors and produce alongside David Moulton and Hamish Fergusson for Passion Pictures. James Marsh, the Oscar-winning director of 2008's \"Man on Wire,\" serves as executive producer with Michael Bloom for Legendary Entertainment and Ray Sisson.\n\"When the Walls Came Down\" follows Springsteen from his first visit to East Berlin in 1981 to the 1988 performance and features interviews with Springsteen, Jon Landau and members of The E Street Band, including Roy Bittan, Patti Scialfa, Stevie Van Zandt and Max Weinberg. According to an official description, the Berlin show \"remains the largest concert that Springsteen and The E Street Band have played in their careers. For a generation coming of age under a highly repressive Communist regime, the concert became a catalyst for change. The following year, many of those same young people would help tear the Wall itself down.\"\n\"I remember seeing the Wall and saying, 'This isn't right. This is an offense against humanity,'\" Springsteen said. \"Looking back on it, it's in the very highest echelon of all the shows we've ever done. We were trying to dance with the entire country that day.\"\nMarsh added, \"This film explores a singular, high-stakes moment in pop culture and its incredible power over geopolitics. Bruce's words from that night resonate now more than ever, reminding us of the enduring, unifying power of music.\"\nSpringsteen, the rock 'n' roll visionary behind \"Born to Run\" and \"Born in the USA,\" recently experienced a resurgence in the pop culture zeitgeist. The story behind his sixth studio album \"Nebraska\" was immortalized in Scott Cooper's \"Deliver Me From Nowhere,\" which starred Jeremy Allen White as The Boss. Springsteen also recently wrapped his \"Land of Hope and Dreams\" American tour, which was, in part, a response to the second term of President Donald Trump, with whom Springsteen has an ongoing feud.\nWorldwide sales are being handled by Submarine Entertainment and Sony Music Vision.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Nicholas de Taranto and Danielle Peck serve as co-directors and produce alongside"
+    ],
+    [
+     "ins",
+     "David Moulton and Hamish Fergusson for"
+    ],
+    [
+     "eq",
+     "Passion Pictures. James Marsh, the Oscar-winning director of 2008's \"Man on Wire,\" serves as executive producer with"
+    ],
+    [
+     "ins",
+     "Michael Bloom for Legendary Entertainment and"
+    ],
+    [
+     "eq",
+     "Ray Sisson. \"When the Walls Came Down\" follows Springsteen from his first"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0349,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9833,
+ "adjudicated_by": "rules"
+}

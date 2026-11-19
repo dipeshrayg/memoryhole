@@ -1,0 +1,104 @@
+{
+ "id": "96a9ab34c41135ba-5f08d503-ae0f5cd9",
+ "url": "https://www.theguardian.com/money/2026/nov/18/energy-bills-great-britain-forecast-rise",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-11-19T15:40:57Z",
+ "date": "2026-11-19",
+ "old_title": "Energy bills in Great Britain forecast to rise by 26% to £2,166 from January",
+ "new_title": "Energy bills in Great Britain forecast to rise by 26% to £2,166 from January",
+ "old_text": "Energy bills across Great Britain are predicted to reach £2,166 a year for the typical household from January as the impact of the Middle East conflict piles pressure on the government to offer more support to hard-hit households.\nThe government's cap on gas and electricity prices is likely to rise by 26% early next year, equivalent to adding £443 to the average annual dual-fuel bill, in one of the biggest quarterly price rises on record, according to the leading forecaster Cornwall Insight.\nThe dire prediction for millions of hard-pressed households marks the final forecast before the industry regulator for Great Britain, Ofgem, sets electricity and gas rates for the coldest months of the year from January through to March via a new energy price cap next Wednesday.\nThe forecast was well above Cornwall's prediction in late September that the cap would rise by 16% to £1,999 a year after an increase in gas market prices through October because of escalating violence in the Middle East and deepening fears over Europe's gas storage levels.\nFigures released by the Office for National Statistics on Wednesday showed the headline rate of inflation rose to 3.6% in October, up from 3.5% in September, after petrol prices rose and diesel hit a record high.\nCraig Lowrey, the retail markets principal at Cornwall Insight, said: \"After already climbing in October, energy bills look set to rise again in the new year, and the timing could hardly be worse, with colder weather in January pushing up energy use and households already dealing with the cost of living crisis.\n\"Once again, the cause lies thousands of miles away, yet another reminder of how events beyond our control have a very real impact on our energy bills.\"\nThe energy price rise will come as a blow to the government after the chancellor, John Healey, promised to set \"a new course to get energy costs down in line with Europe\" in his maiden budget last month.\nAlongside a string of measures to lower costs over the long term, Healey promised \"breathing space\" to struggling households this winter through a one-off payment of £100 in January for 20 million households in council tax bands A to D.\nThe £2.6bn \"household energy payment\" will go directly into bank accounts to \"take the pressure off in the coldest months and see people through to the spring\", according to Healey.\nThe payment will be in addition to the warm home discount, which offers about six million means-tested households in England, Wales and Scotland £150 off winter fuel bills.\nThe move follows a string of cuts to electricity levies over the past year, which have shaved about £150 a year off costs. The Treasury also promised to keep the 5% VAT levy off electricity bills for 29 million households until July, extending the annual savings to £50 a year.",
+ "new_text": "Energy bills across Great Britain are predicted to reach £2,166 a year for the typical household from January as the impact of the Middle East conflict piles pressure on the government to offer more support to hard-hit households.\nThe government's cap on gas and electricity prices is likely to rise by 26% early next year, equivalent to adding £443 to the average annual dual-fuel bill, in one of the biggest quarterly price rises on record, according to the leading forecaster Cornwall Insight.\nThe dire prediction for millions of hard-pressed households marks the final forecast before the industry regulator for Great Britain, Ofgem, sets electricity and gas rates for the coldest months of the year from January through to March via a new energy price cap next Wednesday.\nThe forecast was well above Cornwall's prediction in late September that the cap would rise by 16% to £1,999 a year from January. Bills are expected to be even higher after an increase in gas market prices through October because of escalating violence in the Middle East and deepening fears over Europe's gas storage levels.\nFigures released by the Office for National Statistics on Wednesday showed the headline rate of inflation rose to 3.6% in October, up from 3.5% in September, after petrol prices rose and diesel hit a record high.\nCraig Lowrey, the retail markets principal at Cornwall Insight, said: \"After already climbing in October, energy bills look set to rise again in the new year, and the timing could hardly be worse, with colder weather in January pushing up energy use and households already dealing with the cost of living crisis.\n\"Once again, the cause lies thousands of miles away, yet another reminder of how events beyond our control have a very real impact on our energy bills.\"\nThe energy price rise will come as a blow to the government after the chancellor, John Healey, promised to set \"a new course to get energy costs down in line with Europe\" in his maiden budget last month.\nMiatta Fahnbulleh, the energy secretary, said: \"I know that the price of energy bills this winter weighs heavily on struggling families up and down the country. Access to energy is an everyday essential and not a luxury, which is why we have taken immediate action to give people breathing space.\"\nThe assurance echoes Healey's budget which promised \"breathing space\" to struggling households this winter through a one-off payment of £100 in January for 20 million households in council tax bands A to D.\nThe £2.6bn \"household energy payment\" will go directly into bank accounts to \"take the pressure off in the coldest months and see people through to the spring\", according to Healey.\nThe payment will be in addition to the warm home discount, which offers about six million means-tested households in England, Wales and Scotland £150 off winter fuel bills.\nThe move follows a string of cuts to electricity levies over the past year, which have shaved about £150 a year off costs. The Treasury also promised to keep the 5% VAT levy off electricity bills for 29 million households until July, extending the annual savings to £50 a year.\nFahnbulleh said: \"Affordability is my number one priority, and I will continue driving towards cheap, clean power.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "September that the cap would rise by 16% to £1,999 a year"
+    ],
+    [
+     "ins",
+     "from January. Bills are expected to be even higher"
+    ],
+    [
+     "eq",
+     "after an increase in gas market prices through October because of escalating"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "costs down in line with Europe\" in his maiden budget last month."
+    ],
+    [
+     "del",
+     "Alongside"
+    ],
+    [
+     "ins",
+     "Miatta Fahnbulleh, the energy secretary, said: \"I know that the price of energy bills this winter weighs heavily on struggling families up and down the country. Access to energy is an everyday essential and not"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "string of measures"
+    ],
+    [
+     "ins",
+     "luxury, which is why we have taken immediate action"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "lower costs over the long term, Healey"
+    ],
+    [
+     "ins",
+     "give people breathing space.\" The assurance echoes Healey's budget which"
+    ],
+    [
+     "eq",
+     "promised \"breathing space\" to struggling households this winter through a one-off payment"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "million households until July, extending the annual savings to £50 a year."
+    ],
+    [
+     "ins",
+     "Fahnbulleh said: \"Affordability is my number one priority, and I will continue driving towards cheap, clean power.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.192,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 0.9903,
+ "adjudicated_by": "rules"
+}
