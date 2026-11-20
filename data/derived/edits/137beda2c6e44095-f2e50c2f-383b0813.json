@@ -1,0 +1,68 @@
+{
+ "id": "137beda2c6e44095-f2e50c2f-383b0813",
+ "url": "https://www.npr.org/2026/11/19/nx-s1-6045750/katherine-clark-hakeem-jeffries-house-democrats",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-20T15:09:35Z",
+ "date": "2026-11-20",
+ "old_title": "Incoming House majority leader Katherine Clark stresses Democratic unity",
+ "new_title": "Incoming House majority leader Katherine Clark stresses Democratic unity",
+ "old_text": "Incoming House majority leader Katherine Clark stresses Democratic unity\nHouse Democrats needed a bigger room Wednesday to accommodate their newly expanded caucus, according to Rep. Katherine Clark of Massachusetts.\nNominated to become the first woman to serve as House majority leader next year, Clark reflected on the moment in an interview with Morning Edition on Thursday.\n\"It was really looking at the diversity of that caucus, people who have been sent to Congress from all walks of life, that gives me the optimism and the energy that we can really deliver for the American people,\" she said.\nClark, who is currently the House minority whip, was nominated for House majority leader by a unanimous voice vote. Democrats also nominated Hakeem Jeffries for speaker and Pete Aguilar for majority whip.\nThe incoming leadership faces the challenge of lowering living costs while investigating alleged corruption in the Trump administration.\n\"Of course we can,\" she said when asked whether Democrats could accomplish both. \"That's our responsibility.\"\nShe also called President Trump's description of himself as \"Mr. Veto\" a \"stunning statement,\" expressing hope for bipartisan cooperation on healthcare.\nBut Democrats face divisions within their own ranks.\nJeffries won his nomination 251-11. Opposition came from incoming progressives including Darializa Avila Chevalier of New York and Adam Hamawy of New Jersey. They have pressed for Medicare for All, immigration enforcement reforms and an end to the war in Gaza.\nThe two leaders have differed over U.S. aid to Israel. In July, Clark voted for a Republican amendment that would have cut aid to Israel, while Jeffries opposed it.\nDespite that disagreement and concerns among other Democrats about Jeffries' leadership, she emphasized party unity when asked whether the 11 votes against him could complicate Democrats' agenda.\n\"We are having conversations with every part of our new caucus, and they are united behind making life better for working people,\" she said.\nListen to the full interview by clicking on the blue button above.\nThe digital version was edited by Suzanne Nuyen.",
+ "new_text": "Incoming House majority leader Katherine Clark stresses Democratic unity\nHouse Democrats needed a bigger room Wednesday to accommodate their newly expanded caucus, according to Rep. Katherine Clark of Massachusetts.\nNominated to become the first woman to serve as House majority leader next year, Clark reflected on the moment in an interview with Morning Edition on Thursday.\n\"It was really looking at the diversity of that caucus, people who have been sent to Congress from all walks of life, that gives me the optimism and the energy that we can really deliver for the American people,\" she said.\nClark, who is currently the House minority whip, was nominated for House majority leader by a unanimous voice vote. Democrats also nominated Hakeem Jeffries for speaker and Pete Aguilar for majority whip.\nThe incoming leadership faces the challenge of lowering living costs while investigating alleged corruption in the Trump administration.\n\"Of course we can,\" she said when asked whether Democrats could accomplish both. \"That's our responsibility.\"\nShe also called President Trump's description of himself as \"Mr. Veto\" a \"stunning statement,\" expressing hope for bipartisan cooperation on healthcare.\nBut Democrats face divisions within their own ranks.\nJeffries won his nomination 251-11. Opposition came from incoming progressives including Darializa Avila Chevalier of New York and Adam Hamawy of New Jersey. They have pressed for Medicare for All, immigration enforcement reforms and an end to the war in Gaza.\nThe two leaders have differed over U.S. aid to Israel. In July, Clark voted for a Republican amendment that would have cut military aid to Israel, while Jeffries opposed it.\nDespite that disagreement and concerns among other Democrats about Jeffries' leadership, she emphasized party unity when asked whether the 11 votes against him could complicate Democrats' agenda.\n\"We are having conversations with every part of our new caucus, and they are united behind making life better for working people,\" she said.\nListen to the full interview by clicking on the blue button above.\nThe radio interview was edited by Ally Schweitzer. The web copy was edited by Suzanne Nuyen.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "In July, Clark voted for a Republican amendment that would have cut"
+    ],
+    [
+     "ins",
+     "military"
+    ],
+    [
+     "eq",
+     "aid to Israel, while Jeffries opposed it. Despite that disagreement and concerns"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to the full interview by clicking on the blue button above. The"
+    ],
+    [
+     "del",
+     "digital version"
+    ],
+    [
+     "ins",
+     "radio interview was edited by Ally Schweitzer. The web copy"
+    ],
+    [
+     "eq",
+     "was edited by Suzanne Nuyen."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.039,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

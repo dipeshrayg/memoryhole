@@ -1,0 +1,200 @@
+{
+ "id": "2950db00368c20ba-928c8d7b-e3237830",
+ "url": "https://www.bbc.co.uk/sport/football/articles/cqy4jvdw7jdlo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-11-20T15:22:29Z",
+ "date": "2026-11-20",
+ "old_title": "Manchester City charges: Premier League clubs to cover legal costs if sponsors sue",
+ "new_title": "Manchester City charges: Premier League clubs to cover legal costs if sponsors sue",
+ "old_text": "- Published\nPremier League clubs have voted to cover legal expenses for the organisation's five board directors if any of Manchester City's sponsors sue them.\nThe clubs met in London on Thursday for the first time since City were found guilty of a catalogue of charges relating to the breaching of financial rules by an independent commission.\nCity have appealed, with a sanction yet to be decided.\nThe club's sponsors Etihad and Etisalat have both said they are considering legal action against the Premier League.\nAt present, under the league's articles of association, a director is only financially covered should they win a legal case brought against them by a third party. But the league's rules will now be amended to extend legal indemnity for CEO Richard Masters, chair Alison Brittan and three other non-executive directors.\nSources have told BBC Sport that City and Nottingham Forest were the only two clubs that voted against the proposal to provide extra legal protection, with the other 18 clubs voting in favour.\nDue to collective responsibility, it means that all clubs are now liable to cover the board's legal costs, raising the intriguing possibility of City being financially impacted by the legal action of its own sponsors.\nIt is understood City's CFO Ingo Bank asked Premier League chair Brittan during Thursday's meeting if the proposal was a direct result of threats of legal action from Etihad and Etisalat, but she said she could not comment.\nAn independent commission appointed by the Premier League found City guilty of artificially inflating the club's revenues by over Â£830m over a nine-year period in September.\nThe commission determined that the club arranged \"sham\" contracts with sponsors, which disguised funding from club owners the Abu Dhabi United Group.\nPremier League CEO Masters said City \"systematically broke Premier League rules for nearly a decade\".\nIn October, City sponsor Etihad Airways said it was considering legal action against the Premier League.\nIn a statement, the United Arab Emirates-based airline said it \"categorically rejects any finding, conclusion or implication that suggests the airline has ever been involved in improper commercial arrangements\".\nEtisalat signalled its intention to follow suit earlier this month and described the Premier League's verdict as \"entirely false and defamatory\".",
+ "new_text": "- Published\nPremier League clubs have voted to cover legal expenses for the organisation's five board directors if any of Manchester City's sponsors sue them.\nThe clubs met in London on Thursday for the first time since City were found guilty of a catalogue of charges relating to the breaching of the league's financial rules by an independent commission in September.\nCity have appealed and maintain their innocence, with a sanction yet to be decided.\nThe club's sponsors Etihad and Etisalat have both said they are considering legal action against the Premier League.\nAt present, under the league's articles of association, a director is financially covered if they win a legal case brought against them by a third party, but not if they lose. The league's rules will now be updated to extend legal indemnity for chief executive Richard Masters, chair Alison Brittan and three other non-executive directors.\nCity and Nottingham Forest were the only two clubs that voted against the proposal to provide extra legal protection, with the other 18 clubs voting in favour.\nDue to collective responsibility, it means that all clubs are now liable to cover legal costs that could run into hundreds of millions of pounds, raising the intriguing possibility of City being financially impacted by the legal action of its own sponsors.\nBBC Sport was told that City's CFO Ingo Bank asked Premier League chair Brittan during Thursday's meeting if the proposal was a direct result of threats of legal action from Etihad and Etisalat, but she said she could not comment.\nWhile Forest have declined to comment, their objection to the proposal is said have to been on procedural grounds, rather than due to any support for City.\nThe club did not believe that sufficient information had been provided, or adequate time afforded, for clubs to properly consider the implications of the proposed amendment, particularly given the potentially significant financial responsibilities involved. It felt that such a decision warranted more scrutiny and informed consideration before clubs were asked to vote.\nAn independent commission appointed by the Premier League found City guilty of artificially inflating the club's revenues by over Â£830m over a nine-year period in September.\nThe commission determined that the club arranged \"sham\" contracts with sponsors, which disguised funding from club owners the Abu Dhabi United Group.\nPremier League CEO Masters said City \"systematically broke Premier League rules for nearly a decade\".\nIn October, City sponsor Etihad Airways said it was considering legal action against the Premier League.\nIn a statement, the United Arab Emirates-based airline said it \"categorically rejects any finding, conclusion or implication that suggests the airline has ever been involved in improper commercial arrangements\".\nEtisalat signalled its intention to follow suit earlier this month and described the Premier League's verdict as \"entirely false and defamatory\".",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "found guilty of a catalogue of charges relating to the breaching of"
+    ],
+    [
+     "ins",
+     "the league's"
+    ],
+    [
+     "eq",
+     "financial rules by an independent"
+    ],
+    [
+     "del",
+     "commission."
+    ],
+    [
+     "ins",
+     "commission in September."
+    ],
+    [
+     "eq",
+     "City have"
+    ],
+    [
+     "del",
+     "appealed,"
+    ],
+    [
+     "ins",
+     "appealed and maintain their innocence,"
+    ],
+    [
+     "eq",
+     "with a sanction yet to be decided. The club's sponsors Etihad and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "League. At present, under the league's articles of association, a director is"
+    ],
+    [
+     "del",
+     "only"
+    ],
+    [
+     "eq",
+     "financially covered"
+    ],
+    [
+     "del",
+     "should"
+    ],
+    [
+     "ins",
+     "if"
+    ],
+    [
+     "eq",
+     "they win a legal case brought against them by a third"
+    ],
+    [
+     "del",
+     "party. But the"
+    ],
+    [
+     "ins",
+     "party, but not if they lose. The"
+    ],
+    [
+     "eq",
+     "league's rules will now be"
+    ],
+    [
+     "del",
+     "amended"
+    ],
+    [
+     "ins",
+     "updated"
+    ],
+    [
+     "eq",
+     "to extend legal indemnity for"
+    ],
+    [
+     "del",
+     "CEO"
+    ],
+    [
+     "ins",
+     "chief executive"
+    ],
+    [
+     "eq",
+     "Richard Masters, chair Alison Brittan and three other non-executive directors."
+    ],
+    [
+     "del",
+     "Sources have told BBC Sport that"
+    ],
+    [
+     "eq",
+     "City and Nottingham Forest were the only two clubs that voted against"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "collective responsibility, it means that all clubs are now liable to cover"
+    ],
+    [
+     "del",
+     "the board's"
+    ],
+    [
+     "eq",
+     "legal"
+    ],
+    [
+     "del",
+     "costs,"
+    ],
+    [
+     "ins",
+     "costs that could run into hundreds of millions of pounds,"
+    ],
+    [
+     "eq",
+     "raising the intriguing possibility of City being financially impacted by the legal action of its own sponsors."
+    ],
+    [
+     "del",
+     "It is understood"
+    ],
+    [
+     "ins",
+     "BBC Sport was told that"
+    ],
+    [
+     "eq",
+     "City's CFO Ingo Bank asked Premier League chair Brittan during Thursday's meeting"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "action from Etihad and Etisalat, but she said she could not comment."
+    ],
+    [
+     "ins",
+     "While Forest have declined to comment, their objection to the proposal is said have to been on procedural grounds, rather than due to any support for City. The club did not believe that sufficient information had been provided, or adequate time afforded, for clubs to properly consider the implications of the proposed amendment, particularly given the potentially significant financial responsibilities involved. It felt that such a decision warranted more scrutiny and informed consideration before clubs were asked to vote."
+    ],
+    [
+     "eq",
+     "An independent commission appointed by the Premier League found City guilty of"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3666,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.49,
+ "similarity": 0.9633,
+ "adjudicated_by": "rules"
+}

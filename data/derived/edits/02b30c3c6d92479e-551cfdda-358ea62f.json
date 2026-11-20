@@ -1,0 +1,180 @@
+{
+ "id": "02b30c3c6d92479e-551cfdda-358ea62f",
+ "url": "https://www.theguardian.com/sport/2026/nov/19/peres-jepchirchir-world-marathon-champion-banned-three-years-doping",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-11-20T15:23:56Z",
+ "date": "2026-11-20",
+ "old_title": "World marathon champion Peres Jepchirchir banned for three years over doping",
+ "new_title": "World marathon champion Peres Jepchirchir banned for three years over doping",
+ "old_text": "The reigning world marathon champion, Peres Jepchirchir, has been hit with a three-year ban for EPO on a dismal day for Kenyan distance running, with two other leading distance athletes from the country also being punished for doping.\nThe 33-year-old Jepchirchir, who won Olympic and world gold in Tokyo in 2021 and 2025 respectively, had her ban reduced by a year after she decided not to challenge the results of a blood test taken before winning the Sydney marathon in August.\nJepchirchir, who also won several other major marathons, including the New York in 2021, Boston in 2022 and London in 2024, has now been stripped of her Sydney victory and accepted the disqualification of all her competitive results since 17 July. It means that Irine Cheptai, who finished second, is now the winner of the race.\nThe Athletics Integrity Unit (AIU) also imposed sanctions for doping on two other leading Kenyan distance athletes, including Veronica Loleo, a half-marathon silver medallist at the 2026 world road running championships, who received a three-year ban after also testing positive for EPO.\nIn a subsequent in-person interview with the AIU, Loleo, who is ranked sixth in the world, denied any knowledge of how the drug had entered her body. However, she claimed that she had received an injection - the name of which she could not recall - to treat an injury and the related pain, in the period before the positive samples were collected in September.\nRonald Korir, who was fourth in the 2023 Berlin Marathon, received a six-year ban after abnormalities were found in his athlete biological passport that he failed to explain. It means more than 320 Kenyans have now been caught by the AIU since it was set up in 2017, a figure that casts a shadow on the country that will host the 2029 World Athletics Championships.\n\"The Kenyan authorities have made a lot of progress in the fight against doping in the last five years, but these cases highlight that there is still a long way to go,\" said the AIU's chief executive, Brett Clothier.\n\"The Kenyan government is aware of the current situation and has committed to further strengthen the Anti-Doping Agency of Kenya and take action to address the criminal networks that facilitate doping within the country. We will discuss the details behind these commitments with the Kenyan government in the coming months.\"",
+ "new_text": "The reigning women's world marathon champion, Peres Jepchirchir, has been hit with a three-year ban for EPO use on a dismal day for Kenyan distance running, with two other leading distance athletes from the country also being punished for doping.\nThe 33-year-old Jepchirchir, who won Olympic and world gold in Tokyo in 2021 and 2025 respectively, had her ban reduced by a year after she decided not to challenge the results of a blood test taken before winning the Sydney Marathon in August.\nJepchirchir, who also won several other major marathons, including New York in 2021, Boston in 2022 and London in 2024, has been stripped of her Sydney victory and accepted the disqualification of all her competitive results since 17 July. It means Irine Cheptai, who finished second, is now the winner of the race.\nThe Athletics Integrity Unit (AIU) also imposed sanctions for doping on two other leading Kenyan distance athletes, including Veronica Loleo, a half-marathon silver medallist at the 2026 world road running championships, who received a three-year ban after also testing positive for EPO.\nIn a subsequent in-person interview with the AIU, Loleo, who is ranked sixth in the world, denied any knowledge of how the drug had entered her body. However, she claimed she had received an injection - the name of which she could not recall - to treat an injury and the related pain, in the period before the positive samples were collected in September.\nRonald Korir, who was fourth in the 2023 Berlin Marathon, received a six-year ban after abnormalities he failed to explain were found in his athlete biological passport. It means more than 320 Kenyans have now been caught by the AIU since it was set up in 2017, a figure that casts a shadow on the country that will host the 2029 World Athletics Championships.\nThe AIU's chief executive, Brett Clothier, said: \"The Kenyan authorities have made a lot of progress in the fight against doping in the last five years, but these cases highlight that there is still a long way to go. The Kenyan government is aware of the current situation and has committed to further strengthen the Anti-Doping Agency of Kenya and take action to address the criminal networks that facilitate doping within the country. We will discuss the details behind these commitments with the Kenyan government in the coming months.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "The reigning"
+    ],
+    [
+     "ins",
+     "women's"
+    ],
+    [
+     "eq",
+     "world marathon champion, Peres Jepchirchir, has been hit with a three-year ban for EPO"
+    ],
+    [
+     "ins",
+     "use"
+    ],
+    [
+     "eq",
+     "on a dismal day for Kenyan distance running, with two other leading"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "challenge the results of a blood test taken before winning the Sydney"
+    ],
+    [
+     "del",
+     "marathon"
+    ],
+    [
+     "ins",
+     "Marathon"
+    ],
+    [
+     "eq",
+     "in August. Jepchirchir, who also won several other major marathons, including"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "eq",
+     "New York in 2021, Boston in 2022 and London in 2024, has"
+    ],
+    [
+     "del",
+     "now"
+    ],
+    [
+     "eq",
+     "been stripped of her Sydney victory and accepted the disqualification of all her competitive results since 17 July. It means"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "eq",
+     "Irine Cheptai, who finished second, is now the winner of the race."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "knowledge of how the drug had entered her body. However, she claimed"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "eq",
+     "she had received an injection - the name of which she could"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "fourth in the 2023 Berlin Marathon, received a six-year ban after abnormalities"
+    ],
+    [
+     "ins",
+     "he failed to explain"
+    ],
+    [
+     "eq",
+     "were found in his athlete biological"
+    ],
+    [
+     "del",
+     "passport that he failed to explain."
+    ],
+    [
+     "ins",
+     "passport."
+    ],
+    [
+     "eq",
+     "It means more than 320 Kenyans have now been caught by the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "shadow on the country that will host the 2029 World Athletics Championships."
+    ],
+    [
+     "ins",
+     "The AIU's chief executive, Brett Clothier, said:"
+    ],
+    [
+     "eq",
+     "\"The Kenyan authorities have made a lot of progress in the fight"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "but these cases highlight that there is still a long way to"
+    ],
+    [
+     "del",
+     "go,\" said the AIU's chief executive, Brett Clothier. \"The"
+    ],
+    [
+     "ins",
+     "go. The"
+    ],
+    [
+     "eq",
+     "Kenyan government is aware of the current situation and has committed to"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.093,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 1,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.5,
+ "similarity": 0.9915,
+ "adjudicated_by": "rules"
+}

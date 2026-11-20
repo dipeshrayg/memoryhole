@@ -1,0 +1,76 @@
+{
+ "id": "82fd64e64679df6a-99e35346-c816e9ec",
+ "url": "https://variety.com/2026/tv/news/beast-in-me-season-2-cast-riley-keough-aaron-paul-1236952455/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-11-20T15:27:24Z",
+ "date": "2026-11-20",
+ "old_title": "'Beast in Me' Season 2 Casts Riley Keough, Lorelei Olivia Mote, Aaron Paul, Taip Ceman, Matthew James Thomas",
+ "new_title": "'Beast in Me' Season 2 Casts Riley Keough, Lorelei Olivia Mote, Aaron Paul, Taip Ceman, Matthew James Thomas",
+ "old_text": "\"The Beast in Me\" Season 2 is rounding out its cast as production kicks off in New York.\nVariety has learned that Riley Keough (\"Daisy Jones & The Six,\" \"Under the Bridge\") and Lorelei Olivia Mote (\"Daisy Jones & The Six,\" \"The Rescue\") are both set as series regulars in the second season of the Netflix series.\nIn addition, Aaron Paul (\"Breaking Bad,\" \"Fallout\"), Taip Ceman (\"Cupertino,\" \"The Families Stone\"), and Matthew James Thomas (\"Accused,\" \"Summer of Rockets\") are set as recurring guest stars. Exact character details on the new additions are being kept under wraps.\nKeough is repped CAA and Hansen Jacobson. Mote is repped by Amsel Eisenstadt Frazier & Hinojosa Talent Agency, Aspire Talent Management, and Hansen Jacobson. Paul is repped by UTA. Thomas is repped by Innovative Artists Entertainment, Belfield & Ward, and Framework Entertainment.\nThe new additions will star alongside returning lead Claire Danes and previously announced new cast members John Goodman and Lili Taylor.\n\"The Beast in Me\" was originally announced as a limited series when it was picked up in 2024. It also campaigned as a limited series at this year's Emmy Awards, for which Season 1 star Matthew Rhys won the award for outstanding lead actor in a limited or anthology series. The series also won the Emmy for outstanding music composition for a limited or anthology series, movie or special (original dramatic score).\n\"The Beast in Me\" Season 1 showrunner Howard Gordon will serve as co-showrunner on Season 2 alongside Season 1 executive producer Daniel Pearle. Gabe Rotter is the creator and an executive producer of \"The Beast in Me.\" Danes will again executive produce in addition to starring. Antonio Campos, Caroline Baron, Amy Lippman, Conan O'Brien, David Kissinger, Jeff Ross, Claire Danes and Jodie Foster also executive produce. The series is produced by 20th Television.",
+ "new_text": "\"The Beast in Me\" Season 2 is rounding out its cast as production kicks off in New York.\nVariety has learned that Riley Keough (\"Daisy Jones & The Six,\" \"Under the Bridge\") and Lorelei Olivia Mote (\"Daisy Jones & The Six,\" \"The Rescue\") are both set as series regulars in the second season of the Netflix series.\nIn addition, Aaron Paul (\"Breaking Bad,\" \"Fallout\"), Taip Ceman (\"Cupertino,\" \"The Families Stone\"), and Matthew James Thomas (\"Accused,\" \"Summer of Rockets\") are set as recurring guest stars. Exact character details on the new additions are being kept under wraps.\nKeough is repped CAA and Hansen Jacobson. Mote is repped by Paradigm, Aspire Talent Management, and Sloane Offer. Paul is repped by UTA. Thomas is repped by Innovative Artists Entertainment and Framework Entertainment.\nThe new additions will star alongside returning lead Claire Danes and previously announced new cast members John Goodman and Lili Taylor.\n\"The Beast in Me\" was originally announced as a limited series when it was picked up in 2024. It also campaigned as a limited series at this year's Emmy Awards, for which Season 1 star Matthew Rhys won the award for outstanding lead actor in a limited or anthology series. The series also won the Emmy for outstanding music composition for a limited or anthology series, movie or special (original dramatic score).\n\"The Beast in Me\" Season 1 showrunner Howard Gordon will serve as co-showrunner on Season 2 alongside Season 1 executive producer Daniel Pearle. Gabe Rotter is the creator and an executive producer of \"The Beast in Me.\" Danes will again executive produce in addition to starring. Antonio Campos, Caroline Baron, Amy Lippman, Conan O'Brien, David Kissinger, Jeff Ross, Claire Danes and Jodie Foster also executive produce. The series is produced by 20th Television.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "wraps. Keough is repped CAA and Hansen Jacobson. Mote is repped by"
+    ],
+    [
+     "del",
+     "Amsel Eisenstadt Frazier & Hinojosa Talent Agency,"
+    ],
+    [
+     "ins",
+     "Paradigm,"
+    ],
+    [
+     "eq",
+     "Aspire Talent Management, and"
+    ],
+    [
+     "del",
+     "Hansen Jacobson."
+    ],
+    [
+     "ins",
+     "Sloane Offer."
+    ],
+    [
+     "eq",
+     "Paul is repped by UTA. Thomas is repped by Innovative Artists"
+    ],
+    [
+     "del",
+     "Entertainment, Belfield & Ward,"
+    ],
+    [
+     "ins",
+     "Entertainment"
+    ],
+    [
+     "eq",
+     "and Framework Entertainment. The new additions will star alongside returning lead Claire"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0559,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 0.9749,
+ "adjudicated_by": "rules"
+}

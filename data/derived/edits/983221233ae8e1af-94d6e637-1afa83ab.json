@@ -1,0 +1,104 @@
+{
+ "id": "983221233ae8e1af-94d6e637-1afa83ab",
+ "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-11-20T15:26:35Z",
+ "date": "2026-11-20",
+ "old_title": "Mouse fight club might explain why we like to watch violent things",
+ "new_title": "Mouse fight club might explain why we like to watch violent things",
+ "old_text": "There's something about watching violent events that broadly appeals to us, whether it's the latest John Wick movie, a video game, or a live UFC bout. Scientists have debated whether watching violent things could make us more aggressive, but it could also be an adaptive survival strategy. Male mice, for instance, who watch other mice fighting learned enough about how to fight to better protect themselves (compared to mice who didn't watch fights) when pitted against stronger, more aggressive opponents, according to a paper published in the journal Nature.\nThe team assigned male mice randomly to three different groups-fighters, spectators, or novices-and then subjected each group to eight days of training involving three 10-minute sessions per day. The novices played with stuffed mice in isolation, while the spectators watched various pairs of fighter mice battle it out from a raised platform behind a transparent barrier-a set-up chosen to let them smell and listen to the fights as well as observe them.\nThe ninth day was \"fight night,\" when all the mice had to face a daunting opponent in three 4-minute rounds. Each fight was filmed from above so that the mouse behavior could be analyzed. To monitor corresponding changes in brain activity, the team engineered the rodents' excitatory brain cells to glow green whenever they were activated, while inhibitory brain cells glowed red. They also implanted tiny optical fibers into 12 interconnected brain regions so they could track changing activity in every brain region simultaneously.\nHow did they get the mice to fight? \"Mice are naturally territorial,\" co-author Jorge Iravedra-Garcia of Princeton University told Ars. \"A traditional behavioral assay that experimenters use is called resident intruder. You just drop mice that are bred to be slightly weaker, and a little bit more docile, into the home cage of strains we know are more on the aggressive side. Those strains are typically very good at just naturally evoking that behavior.\"",
+ "new_text": "There's something about watching violent events that broadly appeals to us, whether it's the latest John Wick movie, a video game, or a live UFC bout. Scientists have debated whether watching violent things could make us more aggressive, but it could also be an adaptive survival strategy. Male mice, for instance, who watched other mice fighting learned enough about how to fight to better protect themselves (compared to mice who didn't watch fights) when pitted against stronger, more aggressive opponents, according to a paper published in the journal Nature.\nThe team randomly assigned male mice to three groups-fighters, spectators, or novices-and then subjected each group to eight days of training with three 10-minute sessions per day. The novices played with stuffed mice in isolation, while the spectators watched various pairs of fighter mice battle from a raised platform behind a transparent barrier-a set-up chosen to let them smell and listen to the fights as well as observe them.\nThe ninth day was \"fight night,\" when all the mice had to face a daunting opponent in three 4-minute rounds. Each fight was filmed from above so that the mouse behavior could be analyzed. To monitor corresponding changes in brain activity, the team engineered the rodents' excitatory brain cells to glow green whenever they were activated, while inhibitory brain cells glowed red. They also implanted tiny optical fibers into 12 interconnected brain regions so they could track changing activity in every brain region simultaneously.\nHow did they get the mice to fight? \"Mice are naturally territorial,\" co-author Jorge Iravedra-Garcia of Princeton University told Ars. \"A traditional behavioral assay that experimenters use is called resident intruder. You just drop mice that are bred to be slightly weaker, and a little bit more docile, into the home cage of strains we know are more on the aggressive side. Those strains are typically very good at just naturally evoking that behavior.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "could also be an adaptive survival strategy. Male mice, for instance, who"
+    ],
+    [
+     "del",
+     "watch"
+    ],
+    [
+     "ins",
+     "watched"
+    ],
+    [
+     "eq",
+     "other mice fighting learned enough about how to fight to better protect"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "opponents, according to a paper published in the journal Nature. The team"
+    ],
+    [
+     "ins",
+     "randomly"
+    ],
+    [
+     "eq",
+     "assigned male mice"
+    ],
+    [
+     "del",
+     "randomly"
+    ],
+    [
+     "eq",
+     "to three"
+    ],
+    [
+     "del",
+     "different"
+    ],
+    [
+     "eq",
+     "groups-fighters, spectators, or novices-and then subjected each group to eight days of training"
+    ],
+    [
+     "del",
+     "involving"
+    ],
+    [
+     "ins",
+     "with"
+    ],
+    [
+     "eq",
+     "three 10-minute sessions per day. The novices played with stuffed mice in isolation, while the spectators watched various pairs of fighter mice battle"
+    ],
+    [
+     "del",
+     "it out"
+    ],
+    [
+     "eq",
+     "from a raised platform behind a transparent barrier-a set-up chosen to let"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0282,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9971,
+ "adjudicated_by": "rules"
+}
