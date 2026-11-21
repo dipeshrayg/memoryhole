@@ -1,0 +1,82 @@
+{
+ "id": "b05b4f3ec05799cf-4375d037-a673a594",
+ "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-11-21T14:52:33Z",
+ "date": "2026-11-21",
+ "old_title": "US will soon announce root cause behind FAA nationwide ground stop",
+ "new_title": "US will soon announce root cause behind FAA nationwide ground stop",
+ "old_text": "The US government will announce soon the root cause of the router outage that led to the third-ever nationwide ground stop issued by the US Federal Aviation Administration. But questions remain about whether the FAA's effort to modernize the national airspace system is being done with all the proper risk assessments and adequate agency oversight of the private contractors involved.\nThe nationwide ground stop forced about 3,500 aircraft to immediately land and impacted more than 1 million passengers across the United States in the middle of the afternoon on Friday, November 13. More than 12,000 flights were canceled on that day alone, with the number rising to more than 20,000 over the weekend as stranded travelers scrambled to find accommodations or alternative transportation.\nNearly one week later, FAA Administrator Bryan Bedford told news reporters that government investigators are \"very close\" to figuring out the root cause of the nationwide ground stop, according to CNN. Bedford also said that Transportation Secretary Sean Duffy plans to announce the findings at a news conference as soon as Friday, November 20.\nProblems first arose when \"data began flooding\" the FAA Telecommunications Infrastructure (FTI) network with 1,000 connection attempts every 4 to 5 seconds, according to an FAA Q&A post on November 15. The FTI network supports the flow of crucial flight data along with voice and video communications to air traffic control centers across the country.\nThat caused \"instability with aircraft communications and radar feeds\" at 17 of the 22 Air Route Traffic Control Centers that manage en-route air traffic across the country, according to the FAA. The instability also impacted several Terminal Radar Approach Control facilities that guide aircraft both on approach and when departing from airports.\nAn initial agency investigation identified a radar site in Amarillo, Texas, and a radio communications site in El Dorado, Arkansas, as \"the reason for the excessive data flooding the systems.\" The FAA's network service provider, L3Harris, was installing a new router at the El Dorado site when the incident occurred and had recently installed a similar router in Texas.",
+ "new_text": "The US government will announce soon the root cause of the router outage that led to the third-ever nationwide ground stop issued by the US Federal Aviation Administration. But questions remain about whether the FAA's effort to modernize the national airspace system is being done with all the proper risk assessments and adequate agency oversight of the private contractors involved.\nThe nationwide ground stop blocked flight departures and impacted more than 1 million passengers across the United States for more than four hours on Friday, November 13. More than 12,000 flights were canceled on that day alone, with the number rising to more than 20,000 over the weekend as stranded travelers scrambled to find accommodations or alternative transportation. Some international flights were allowed to depart prior to the broader resumption of air traffic.\nNearly one week later, FAA Administrator Bryan Bedford told news reporters that government investigators are \"very close\" to figuring out the root cause of the nationwide ground stop, according to CNN. Bedford also said that Transportation Secretary Sean Duffy plans to announce the findings at a news conference as soon as Friday, November 20.\nProblems first arose when \"data began flooding\" the FAA Telecommunications Infrastructure (FTI) network with 1,000 connection attempts every 4 to 5 seconds, according to an FAA Q&A post on November 15. The FTI network supports the flow of crucial flight data along with voice and video communications to air traffic control centers across the country.\nThat caused \"instability with aircraft communications and radar feeds\" at 17 of the 22 Air Route Traffic Control Centers that manage en-route air traffic across the country, according to the FAA. The instability also impacted several Terminal Radar Approach Control facilities that guide aircraft both on approach and when departing from airports.\nAn initial agency investigation identified a radar site in Amarillo, Texas, and a radio communications site in El Dorado, Arkansas, as \"the reason for the excessive data flooding the systems.\" The FAA's network service provider, L3Harris, was installing a new router at the El Dorado site when the incident occurred and had recently installed a similar router in Texas.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "adequate agency oversight of the private contractors involved. The nationwide ground stop"
+    ],
+    [
+     "del",
+     "forced about 3,500 aircraft to immediately land"
+    ],
+    [
+     "ins",
+     "blocked flight departures"
+    ],
+    [
+     "eq",
+     "and impacted more than 1 million passengers across the United States"
+    ],
+    [
+     "del",
+     "in the middle of the afternoon"
+    ],
+    [
+     "ins",
+     "for more than four hours"
+    ],
+    [
+     "eq",
+     "on Friday, November 13. More than 12,000 flights were canceled on that"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the weekend as stranded travelers scrambled to find accommodations or alternative transportation."
+    ],
+    [
+     "ins",
+     "Some international flights were allowed to depart prior to the broader resumption of air traffic."
+    ],
+    [
+     "eq",
+     "Nearly one week later, FAA Administrator Bryan Bedford told news reporters that"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.105,
+  "numbers_changed": [
+   "3,500"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9755,
+ "adjudicated_by": "rules"
+}

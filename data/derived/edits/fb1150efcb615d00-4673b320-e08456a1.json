@@ -1,0 +1,52 @@
+{
+ "id": "fb1150efcb615d00-4673b320-e08456a1",
+ "url": "https://variety.com/2026/tv/news/presumed-innocent-season-2-release-date-trailer-1236953834/",
+ "domain": "variety.com",
+ "source": "Variety",
+ "country": "United States",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-11-21T14:53:37Z",
+ "date": "2026-11-21",
+ "old_title": "'Presumed Innocent' Season 2 Sets Premiere Date as Apple Releases Teaser With Rachel Brosnahan and Matthew Rhys",
+ "new_title": "'Presumed Innocent' Season 2 Sets Premiere Date as Apple Releases Teaser With Rachel Brosnahan and Matthew Rhys",
+ "old_text": "New season, new case, new lies. The Apple TV legal anthology thriller \"Presumed Innocent\" is back for Season 2 on Feb. 19.\nThis time, Rachel Brosnahan and Matthew Rhys are taking the stand. A 50-second teaser released by Apple shows Brosnahan, Rhys, Courtney B. Vance and Fiona Shaw in the tense moments of a trial, while all being asked the same question, \"Do you swear to tell the truth, the whole truth and nothing but the truth, so help you God?,\" before the swelling soundtrack drowns out the oath, building until Jack Reynor's character proclaims, \"I do.\"\nSeason 2 is based on \"Dissection of a Murder,\" the novel by Jo Murray, which follows the up-and-coming defense attorney Lelia Reynolds (Brosnahan) as she faces off against her district attorney husband (Rhys) in a murder case that threatens to destroy both their careers and their marriage.\nThe first season, released in 2024, starred Jake Gyllenhaal and Ruth Negga as the prosecutor Rusty Sabich and his wife, Barbara Sabich. The eight-episode series received four Emmy nominations, two of which were for Gyllenhaal and Negga's performances.\nThe first two episodes of Season 2 will drop on Feb. 19 followed by weekly releases until April 2. David E. Kelley and J.J. Abrams helm the series. Kelley serves as showrunner on Season 2 and executive produces through David E. Kelley Productions in association with Warner Bros. Television alongside Matthew Tinker. Abrams executive produces through Bad Robot Productions. Rachel Rusch Rich, Dee Johnson, Dustin Thomason and Brosnahan also serve as executive producers. Gyllenhaal executive produces under his Nine Stories banner. Murray and Scott Turow, author of \"Presumed Innocent,\" are co-executive producers.\nWatch the teaser below:",
+ "new_text": "New season, new case, new lies. The Apple TV legal anthology thriller \"Presumed Innocent\" is back for Season 2 on Feb. 19.\nThis time, Rachel Brosnahan and Matthew Rhys are taking the stand. A 50-second teaser released by Apple shows Brosnahan, Rhys, Courtney B. Vance and Fiona Shaw in the tense moments of a trial, while all being asked the same question, \"Do you swear to tell the truth, the whole truth and nothing but the truth, so help you God?,\" before the swelling soundtrack drowns out the oath, building until Jack Reynor's character proclaims, \"I do.\"\nSeason 2 is based on \"Dissection of a Murder,\" the novel by Jo Murray, which follows the up-and-coming defense attorney Leila Reynolds (Brosnahan) as she faces off against her district attorney husband (Rhys) in a murder case that threatens to destroy both their careers and their marriage.\nThe first season, released in 2024, starred Jake Gyllenhaal and Ruth Negga as the prosecutor Rusty Sabich and his wife, Barbara Sabich. The eight-episode series received four Emmy nominations, two of which were for Gyllenhaal and Negga's performances.\nThe first two episodes of Season 2 will drop on Feb. 19 followed by weekly releases until April 2. David E. Kelley and J.J. Abrams helm the series. Kelley serves as showrunner on Season 2 and executive produces through David E. Kelley Productions in association with Warner Bros. Television alongside Matthew Tinker. Abrams executive produces through Bad Robot Productions. Rachel Rusch Rich, Dee Johnson, Dustin Thomason and Brosnahan also serve as executive producers. Gyllenhaal executive produces under his Nine Stories banner. Murray and Scott Turow, author of \"Presumed Innocent,\" are co-executive producers.\nWatch the teaser below:",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Murder,\" the novel by Jo Murray, which follows the up-and-coming defense attorney"
+    ],
+    [
+     "del",
+     "Lelia"
+    ],
+    [
+     "ins",
+     "Leila"
+    ],
+    [
+     "eq",
+     "Reynolds (Brosnahan) as she faces off against her district attorney husband (Rhys)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0072,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9969,
+ "adjudicated_by": "rules"
+}

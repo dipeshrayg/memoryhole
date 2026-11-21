@@ -1,0 +1,48 @@
+{
+ "id": "8e4e752402d898a8-cf045db7-f2dc1c26",
+ "url": "https://www.france24.com/en/video/20261120-cop31-wrapping-up-in-turkey-climate-deal-elusive-as-fossil-fuels-go-unmentioned",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-21T14:32:34Z",
+ "date": "2026-11-21",
+ "old_title": "COP31 wrapping up in Turkey: Climate deal elusive as fossil fuels go unmentioned",
+ "new_title": "COP31 wrapping up in Turkey: Climate deal elusive as fossil fuels go unmentioned",
+ "old_text": "Video contentVideo\nCOP31 wrapping up in Turkey: Climate deal elusive as fossil fuels go unmentioned\nIssued on:\nShare\nThe UN's COP31 climate talks were set to spill into overtime Friday as countries remained deadlocked over a draft deal that makes no mention of fossil fuels, with a host of other disputes also snarling negotiations. The talks come with a series of stark reminders of the urgency of climate action, from heatwaves in Europe and devastating floods in Nepal, while a record-breaking El Nino supercharges temperatures. FRANCE 24's Environment Editor Valerie Dekimpe tells us more.",
+ "new_text": "Video contentVideo\nCOP31 wrapping up in Turkey: Climate deal elusive as fossil fuels go unmentioned\nIssued on: Modified:\nShare\nThe UN's COP31 climate talks were set to spill into overtime Friday as countries remained deadlocked over a draft deal that makes no mention of fossil fuels, with a host of other disputes also snarling negotiations. The talks come with a series of stark reminders of the urgency of climate action, from heatwaves in Europe and devastating floods in Nepal, while a record-breaking El Nino supercharges temperatures. FRANCE 24's Environment Editor Valerie Dekimpe tells us more.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "in Turkey: Climate deal elusive as fossil fuels go unmentioned Issued on:"
+    ],
+    [
+     "ins",
+     "Modified:"
+    ],
+    [
+     "eq",
+     "Share The UN's COP31 climate talks were set to spill into overtime"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0106,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9918,
+ "adjudicated_by": "rules"
+}

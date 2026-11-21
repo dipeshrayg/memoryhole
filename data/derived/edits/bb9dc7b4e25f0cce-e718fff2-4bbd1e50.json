@@ -1,0 +1,320 @@
+{
+ "id": "bb9dc7b4e25f0cce-e718fff2-4bbd1e50",
+ "url": "https://www.independent.co.uk/news/uk/home-news/loch-leven-aircraft-crash-helicopters-b3088766.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-21T14:34:36Z",
+ "date": "2026-11-21",
+ "old_title": "Aircraft crashes into water during flight at UK beauty spot",
+ "new_title": "Two men dead after glider crash at UK beauty spot",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nRescue helicopters were called to a UK beauty spot after a light aircraft crashed into a loch on a training flight.\nEmergency services responded to reports of a glider crashing into Loch Leven near Kinross just after 11am on Friday.\nA spokesperson for the gliding centre confirmed that the glider was on a local training flight after taking off from Scottish Gliding Centre.\nTwo coastguard helicopters joined the emergency response, a spokesperson confirmed. It is not known if anyone was injured in the crash but police have said their inquiries into the incident are ongoing.\nA Police Scotland spokesperson said: \"Around 11.05am on Friday November 20 2026, we received a report of a microlight glider having crashed into water in Kinross.\n\"Emergency services are in attendance and inquiries are ongoing.\"\nA spokesperson for Scottish Gliding Centre said the incident is currently under investigation by Air Accident Investigation Branch of the Department for Transport and the police in conjunction with the British Gliding Association.\nThey added: \"Our club is co-operating fully with these organisations. At the present time there is no indication as to the cause of the accident.\"\nThe Maritime and Coastguard Agency said: \"Two HM Coastguard helicopters joined emergency services responding to an incident at Loch Leven, reported at about 11.20am on November 20.\"",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nPolice Scotland have confirmed that the bodies of two men have been recovered following a glider crash into Loch Leven.\nSearch and rescue helicopters were dispatched to the loch, situated near Kinross, as part of the emergency response following reports that a microlight glider had crashed there shortly after 11am on Friday.\nThe Scottish Gliding Centre, based at the nearby Portmoak Airfield, confirmed that a \"serious incident\" had taken place involving a two-seater Perkoz glider.\nA statement from the police said: \"Around 11.05am on Friday, Police Scotland received a report of a glider having crashed into Loch Leven in the Kinross area.\n\"Emergency services attended and the bodies of two men have been recovered. Their next of kin have been informed.\n\"The deaths are not being treated as suspicious and inquiries to establish the full circumstances are ongoing.\"\nThe Air Accidents Investigation Branch (AAIB) said a team of investigators has been sent to the site.\nFootage on social media showed a helicopter flying over the loch on Friday.\nA spokesperson for the coastguard confirmed two of its helicopters had been involved in the emergency response.\nThe Scottish Gliding Centre said a Perkoz aircraft had \"crashed whilst on a local training flight\".\nIt added: \"The incident is currently under investigation by the Air Accidents Investigation Branch of the Department for Transport and the police in conjunction with the British Gliding Association.\n\"Our club is co-operating fully with these organisations.\n\"At the present time there is no indication as to the cause of the accident.\"\nOn Friday afternoon, the fire service said its response had come to an end.\nA Scottish Fire and Rescue Service spokesperson said: \"We were alerted at 11.01am on Friday November 20 to an incident at Loch Leven.\n\"Operations control mobilised one fire appliance and specialist resources to the area to assist emergency service partners.\n\"Crews have now left the scene.\"\nMore to follow...",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Start your Independent Membership today. Join today Already a member? Log in"
+    ],
+    [
+     "del",
+     "Rescue"
+    ],
+    [
+     "ins",
+     "Police Scotland have confirmed that the bodies of two men have been recovered following a glider crash into Loch Leven. Search and rescue"
+    ],
+    [
+     "eq",
+     "helicopters were"
+    ],
+    [
+     "del",
+     "called"
+    ],
+    [
+     "ins",
+     "dispatched"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "ins",
+     "the loch, situated near Kinross, as part of the emergency response following reports that"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "UK beauty spot"
+    ],
+    [
+     "ins",
+     "microlight glider had crashed there shortly"
+    ],
+    [
+     "eq",
+     "after"
+    ],
+    [
+     "ins",
+     "11am on Friday. The Scottish Gliding Centre, based at the nearby Portmoak Airfield, confirmed that"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "light aircraft crashed into"
+    ],
+    [
+     "ins",
+     "\"serious incident\" had taken place involving"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "loch"
+    ],
+    [
+     "ins",
+     "two-seater Perkoz glider. A statement from the police said: \"Around 11.05am"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "ins",
+     "Friday, Police Scotland received"
+    ],
+    [
+     "eq",
+     "a"
+    ],
+    [
+     "del",
+     "training flight. Emergency services responded to reports"
+    ],
+    [
+     "ins",
+     "report"
+    ],
+    [
+     "eq",
+     "of a glider"
+    ],
+    [
+     "del",
+     "crashing"
+    ],
+    [
+     "ins",
+     "having crashed"
+    ],
+    [
+     "eq",
+     "into Loch Leven"
+    ],
+    [
+     "del",
+     "near"
+    ],
+    [
+     "ins",
+     "in the"
+    ],
+    [
+     "eq",
+     "Kinross"
+    ],
+    [
+     "del",
+     "just after 11am"
+    ],
+    [
+     "ins",
+     "area. \"Emergency services attended and the bodies of two men have been recovered. Their next of kin have been informed. \"The deaths are not being treated as suspicious and inquiries to establish the full circumstances are ongoing.\" The Air Accidents Investigation Branch (AAIB) said a team of investigators has been sent to the site. Footage on social media showed a helicopter flying over the loch"
+    ],
+    [
+     "eq",
+     "on Friday. A spokesperson for the"
+    ],
+    [
+     "del",
+     "gliding centre"
+    ],
+    [
+     "ins",
+     "coastguard"
+    ],
+    [
+     "eq",
+     "confirmed"
+    ],
+    [
+     "del",
+     "that"
+    ],
+    [
+     "ins",
+     "two of its helicopters had been involved in"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "glider was"
+    ],
+    [
+     "ins",
+     "emergency response. The Scottish Gliding Centre said a Perkoz aircraft had \"crashed whilst"
+    ],
+    [
+     "eq",
+     "on a local training"
+    ],
+    [
+     "del",
+     "flight after taking off from Scottish Gliding Centre. Two coastguard helicopters joined the emergency response, a spokesperson confirmed."
+    ],
+    [
+     "ins",
+     "flight\"."
+    ],
+    [
+     "eq",
+     "It"
+    ],
+    [
+     "del",
+     "is not known if anyone was injured in the crash but police have said their inquiries into the incident are ongoing. A Police Scotland spokesperson said: \"Around 11.05am on Friday November 20 2026, we received a report of a microlight glider having crashed into water in Kinross. \"Emergency services are in attendance and inquiries are ongoing.\" A spokesperson for Scottish Gliding Centre said the"
+    ],
+    [
+     "ins",
+     "added: \"The"
+    ],
+    [
+     "eq",
+     "incident is currently under investigation by"
+    ],
+    [
+     "ins",
+     "the"
+    ],
+    [
+     "eq",
+     "Air"
+    ],
+    [
+     "del",
+     "Accident"
+    ],
+    [
+     "ins",
+     "Accidents"
+    ],
+    [
+     "eq",
+     "Investigation Branch of the Department for Transport and the police in conjunction with the British Gliding Association."
+    ],
+    [
+     "del",
+     "They added:"
+    ],
+    [
+     "eq",
+     "\"Our club is co-operating fully with these organisations."
+    ],
+    [
+     "del",
+     "At"
+    ],
+    [
+     "ins",
+     "\"At"
+    ],
+    [
+     "eq",
+     "the present time there is no indication as to the cause of the accident.\""
+    ],
+    [
+     "del",
+     "The Maritime"
+    ],
+    [
+     "ins",
+     "On Friday afternoon, the fire service said its response had come to an end. A Scottish Fire"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "Coastguard Agency"
+    ],
+    [
+     "ins",
+     "Rescue Service spokesperson"
+    ],
+    [
+     "eq",
+     "said:"
+    ],
+    [
+     "del",
+     "\"Two HM Coastguard helicopters joined emergency services responding"
+    ],
+    [
+     "ins",
+     "\"We were alerted at 11.01am on Friday November 20"
+    ],
+    [
+     "eq",
+     "to an incident at Loch"
+    ],
+    [
+     "del",
+     "Leven, reported at about 11.20am on November 20.\""
+    ],
+    [
+     "ins",
+     "Leven. \"Operations control mobilised one fire appliance and specialist resources to the area to assist emergency service partners. \"Crews have now left the scene.\" More to follow..."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.4798,
+  "numbers_changed": [
+   "11.01",
+   "11.20",
+   "2026"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 2,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.929,
+ "similarity": 0.9151,
+ "adjudicated_by": "rules"
+}
