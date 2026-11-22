@@ -1,0 +1,187 @@
+{
+ "id": "53c4accc29198b6b-a6b3422b-df5f4cba",
+ "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-22T14:25:59Z",
+ "date": "2026-11-22",
+ "old_title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+ "new_title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+ "old_text": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland\nA Russian cargo ship caught fire after a drone strike in international waters in the Gulf of Finland on Saturday, Finnish authorities said. Helsinki alerted NATO and imposed temporary restrictions in the area amid heightened tensions in the Baltic Sea.\nFinland's military detected a drone attack on Saturday morning on a Russian cargo ship in the eastern Baltic Sea that caused the vessel to catch fire, the Nordic country's authorities said.\nWhile the Finnish defence ministry did not specify who was behind the drone strike, it comes at a time when Ukraine has stepped up its long-range barrages against Russia far beyond the front lines.\n\"On Saturday morning, the Finnish Defence Forces detected a drone attack against a Russian cargo vessel west of Suursaari, in the eastern Gulf of Finland, in international waters,\" the ministry said in a statement.\nAccording to Finnish border guards dispatched to the scene the ship caught fire and began drifting towards Finnish waters after the strike.\n\"The situation currently poses no danger to other vessels,\" the border service said in a press release.\nFinland immediately informed NATO of the strike, the defence ministry said.\nTemporary restrictions have come into force in the airspace and maritime area of the eastern part of the Gulf.\nThe Baltic Sea has become a potential flashpoint in the wake of Russia's 2022 invasion of Ukraine, with Western countries accusing Moscow of conducting a \"hybrid war\" in the strategic waterway.\nLying at the easternmost end of the Baltic along the coasts of Finland, Estonia and Russia, the Gulf of Finland is a key maritime passage for Russia, leading to the former capital, Saint Petersburg.\n(FRANCE 24 with AFP)",
+ "new_text": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland\nA Russian cargo ship caught fire after a drone strike in international waters in the Gulf of Finland on Saturday and later drifted into the country's territorial waters, Finnish authorities said. Helsinki alerted NATO and imposed temporary restrictions in the area amid heightened tensions in the Baltic Sea.\nFinland's military detected a drone attack on Saturday morning on a Russian cargo ship in the eastern Baltic Sea that caused the vessel to catch fire, the Nordic country's authorities said.\nThe vessel, bound for Russian exclave Kaliningrad, was damaged west of Russia's Gogland island, caught fire and later drifted into Finnish territorial waters, Finland's Defence Forces said, corroborating an earlier account by Russian officials.\n\"It is likely that Ukraine... is behind (the attack),\" Finnish armed forces spokesperson Aki-Mauri Huhtinen told a press conference, adding it was not clear why the vessel had been targeted.\nThe vessel, Sparta II, is known to have links to Russia's armed forces, Finnish Border Guard Commander Ilja Iljin told Reuters.\n\"At the moment, there is no confirmed information about what cargo is on board, but it cannot be ruled out that there is military materiel on board,\" Iljin said.\nGulf of Finland coast guard commander Mikko Simola later told a press conference the vessel had anchored and its crew was evacuating.\nHours after the incident, Finland's defence ministry said a Russian helicopter was suspected of violating Finnish airspace.\n\"This alleged airspace violation may be linked to rescue or surveillance operations carried out by Finland following damage sustained by a cargo ship in the Gulf of Finland,\" a ministry statement quoted Defence Minister Antti Hakkanen as saying. The ministry added the helicopter could have penetrated up to 4.1 kilometres (2.5 miles) into Finnish territory.\nAirspace and maritime restrictions\nAccording to Finnish border guards dispatched to the scene the ship caught fire and began drifting towards Finnish waters after the strike.\n\"The situation currently poses no danger to other vessels,\" the border service said in a press release.\nFinland immediately informed NATO of the strike, the defence ministry said.\nTemporary restrictions have come into force in the airspace and maritime area of the eastern part of the Gulf.\n\"The war is spilling over into our neighbouring areas. Finnish authorities are handling the situation in the Gulf of Finland, where a drone strike has hit a Russian merchant vessel. Ukraine has the right to fight against the aggressor,\" Finnish Prime Minister Petteri Orpo said on X.\nThe Baltic Sea has become a potential flashpoint in the wake of Russia's 2022 invasion of Ukraine, with Western countries accusing Moscow of conducting a \"hybrid war\" in the strategic waterway.\nLying at the easternmost end of the Baltic along the coasts of Finland, Estonia and Russia, the Gulf of Finland is a key maritime passage for Russia, leading to the former capital, Saint Petersburg.\n(FRANCE 24 with AFP and Reuters)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "a drone strike in international waters in the Gulf of Finland on"
+    ],
+    [
+     "del",
+     "Saturday,"
+    ],
+    [
+     "ins",
+     "Saturday and later drifted into the country's territorial waters,"
+    ],
+    [
+     "eq",
+     "Finnish authorities said. Helsinki alerted NATO and imposed temporary restrictions in the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "that caused the vessel to catch fire, the Nordic country's authorities said."
+    ],
+    [
+     "del",
+     "While"
+    ],
+    [
+     "ins",
+     "The vessel, bound for Russian exclave Kaliningrad, was damaged west of Russia's Gogland island, caught fire and later drifted into Finnish territorial waters, Finland's Defence Forces said, corroborating an earlier account by Russian officials. \"It is likely that Ukraine... is behind (the attack),\" Finnish armed forces spokesperson Aki-Mauri Huhtinen told a press conference, adding it was not clear why"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "ins",
+     "vessel had been targeted. The vessel, Sparta II, is known to have links to Russia's armed forces,"
+    ],
+    [
+     "eq",
+     "Finnish"
+    ],
+    [
+     "ins",
+     "Border Guard Commander Ilja Iljin told Reuters. \"At the moment, there is no confirmed information about what cargo is on board, but it cannot be ruled out that there is military materiel on board,\" Iljin said. Gulf of Finland coast guard commander Mikko Simola later told a press conference the vessel had anchored and its crew was evacuating. Hours after the incident, Finland's"
+    ],
+    [
+     "eq",
+     "defence ministry"
+    ],
+    [
+     "del",
+     "did not specify who was behind the drone strike, it comes at a time when Ukraine has stepped up its long-range barrages against Russia far beyond the front lines. \"On Saturday morning, the Finnish Defence Forces detected a drone attack against"
+    ],
+    [
+     "ins",
+     "said"
+    ],
+    [
+     "eq",
+     "a Russian"
+    ],
+    [
+     "ins",
+     "helicopter was suspected of violating Finnish airspace. \"This alleged airspace violation may be linked to rescue or surveillance operations carried out by Finland following damage sustained by a"
+    ],
+    [
+     "eq",
+     "cargo"
+    ],
+    [
+     "del",
+     "vessel west of Suursaari,"
+    ],
+    [
+     "ins",
+     "ship"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "eastern"
+    ],
+    [
+     "eq",
+     "Gulf of"
+    ],
+    [
+     "del",
+     "Finland, in international waters,\""
+    ],
+    [
+     "ins",
+     "Finland,\" a ministry statement quoted Defence Minister Antti Hakkanen as saying. The ministry added"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "ministry said in a statement."
+    ],
+    [
+     "ins",
+     "helicopter could have penetrated up to 4.1 kilometres (2.5 miles) into Finnish territory. Airspace and maritime restrictions"
+    ],
+    [
+     "eq",
+     "According to Finnish border guards dispatched to the scene the ship caught"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "the airspace and maritime area of the eastern part of the Gulf."
+    ],
+    [
+     "ins",
+     "\"The war is spilling over into our neighbouring areas. Finnish authorities are handling the situation in the Gulf of Finland, where a drone strike has hit a Russian merchant vessel. Ukraine has the right to fight against the aggressor,\" Finnish Prime Minister Petteri Orpo said on X."
+    ],
+    [
+     "eq",
+     "The Baltic Sea has become a potential flashpoint in the wake of"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "for Russia, leading to the former capital, Saint Petersburg. (FRANCE 24 with"
+    ],
+    [
+     "del",
+     "AFP)"
+    ],
+    [
+     "ins",
+     "AFP and Reuters)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.1007,
+  "numbers_changed": [
+   "2.5",
+   "4.1"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 1,
+  "blocks_added": 3,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.708,
+ "similarity": 0.9187,
+ "adjudicated_by": "rules"
+}

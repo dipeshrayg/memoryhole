@@ -1,0 +1,64 @@
+{
+ "id": "d77db62f359948f6-1c7670a0-154466a5",
+ "url": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
+ "domain": "www.npr.org",
+ "source": "NPR",
+ "country": "United States",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-22T14:23:01Z",
+ "date": "2026-11-22",
+ "old_title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
+ "new_title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
+ "old_text": "Senate permitting bill speeds up renewables, divides greens over oil and gas\nAudio will be available later today.\nA permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.",
+ "new_text": "Senate permitting bill speeds up renewables, divides greens over oil and gas\nA permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry.\nSCOTT SIMON, HOST:\nThis week, the Senate passed a bipartisan bill that's meant to speed up construction of new energy infrastructure projects. It comes after midterm elections, when affordability and rising energy costs were top of the mind for many voters. But this bill divides Democrats and some of their key allies. NPR political reporter Matthew Brown joins us now. Matthew, thanks so much for being with us.\nMATTHEW BROWN, BYLINE: Good to be here.\nSIMON: So this bill is a rare example of bipartisan support. How did it come together?\nBROWN: Well, lawmakers say they heard loud and clear that cost-of-living concerns are a top priority for Americans. This bill was co-sponsored by two Democrats and two Republicans and seeks to address those concerns by cutting or streamlining a lot of the regulations that many projects have to go through before they can be built. These are really complicated projects and can take years, sometimes even more than a decade, before they're finished. The idea is that if Congress cuts a lot of the red tape here, then more of these projects will be built, more energy will be produced and prices would then hopefully go down for Americans.\nHere's one of the bill's authors, West Virginia Republican Shelley Moore Capito, talking up the bill on the Senate floor ahead of its final passage.\n(SOUNDBITE OF ARCHIVED RECORDING)\nSHELLEY MOORE CAPITO: American people have used their voices, and they've made them clear. And we must listen. They deserve bipartisan solutions that make life more affordable. That's what this bill does.\nSIMON: But, Matthew, how would this bill make life more affordable?\nBROWN: Well, this would rewrite some of the nation's most important environmental laws - things like the National Environmental Policy Act, the Clean Water Act and the Endangered Species Act. It's really worth emphasizing these are bedrock protections that have been on the books for decades, and they were designed to make sure that things like animal species, local ecosystems and archaeological sites aren't damaged by development.\nSIMON: How would it change those laws?\nBROWN: Specifically, the bill shortens the timeline for getting most permits and exempts some projects entirely from environmental review, which should, in theory, speed up how quickly some of these projects can be built. And it would also require that data centers pay for their energy usage and not drive up the costs from neighboring communities. Republicans got behind the bill because they see it as a way to speed the development of oil-and-gas projects. But there was also support from Democrats, who think this will help get more clean energy onto the grid - things like solar farms and hydropower plants.\nSIMON: Now tell us about some of the concerns and reservations.\nBROWN: As there always are. While most clean-energy industry groups, labor unions and oil-gas companies are backing the bill, many environmental advocacy groups have opposed it. That includes major groups like the Sierra Club and Natural Resource Defense Council. The Sierra Club's executive director, Loren Blackford, called the bill deeply flawed. She said it would threaten endangered species and would also weaken tribal sovereignty.\nSIMON: She brings up Native American tribes. How do they see this bill?\nBROWN: Yeah. The tension comes down to the proposed changes that the bill would make to the National Historic Preservation Act. This is a law that's been on the books since 1966, and it is designed to help protect historic landmarks and archaeological sites around the country. As the bill came together, nearly a dozen tribal organizations warned that the changes would limit the input Indigenous communities are able to provide when it comes to construction at different sites with an important cultural significance.\nSIMON: Bill has passed the Senate - course, now on to the House. What are its chances there?\nBROWN: Well, it's still unclear if it'll make it to President Trump's desk for a signature. The House is out of session next week for Thanksgiving. And when they come back, one of their top priorities will be to extend government funding before it runs out on December 11. And with a narrowly divided chamber, Republicans may need some Democratic votes to get the permitting bill across the finish line. But House Democrats may not be interested in supporting a bill that divides their supporters when they could take their own swing at the issue when they control both chambers of Congress starting in January.\nSIMON: NPR's Matthew Brown. Thanks so much for joining us.\nBROWN: Thank you.\nCopyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.\nAccuracy and availability of transcripts for NPR programming may vary. Transcript text may also be revised to correct errors or match updates to audio. Audio may be edited after its original broadcast or publication. The authoritative record of NPR's programming is the audio record.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Senate permitting bill speeds up renewables, divides greens over oil and gas"
+    ],
+    [
+     "del",
+     "Audio will be available later today."
+    ],
+    [
+     "eq",
+     "A permitting reform bill in the Senate could help speed the development"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "splitting environmentalists over other provisions that help the oil and gas industry."
+    ],
+    [
+     "ins",
+     "SCOTT SIMON, HOST: This week, the Senate passed a bipartisan bill that's meant to speed up construction of new energy infrastructure projects. It comes after midterm elections, when affordability and rising energy costs were top of the mind for many voters. But this bill divides Democrats and some of their key allies. NPR political reporter Matthew Brown joins us now. Matthew, thanks so much for being with us. MATTHEW BROWN, BYLINE: Good to be here. SIMON: So this bill is a rare example of bipartisan support. How did it come together? BROWN: Well, lawmakers say they heard loud and clear that cost-of-living concerns are a top priority for Americans. This bill was co-sponsored by two Democrats and two Republicans and seeks to address those concerns by cutting or streamlining a lot of the regulations that many projects have to go through before they can be built. These are really complicated projects and can take years, sometimes even more than a decade, before they're finished. The idea is that if Congress cuts a lot of the red tape here, then more of these projects will be built, more energy will be produced and prices would then hopefully go down for Americans. Here's one of the bill's authors, West Virginia Republican Shelley Moore Capito, talking up the bill on the Senate floor ahead of its final passage. (SOUNDBITE OF ARCHIVED RECORDING) SHELLEY MOORE CAPITO: American people have used their voices, and they've made them clear. And we must listen. They deserve bipartisan solutions that make life more affordable. That's what this bill does. SIMON: But, Matthew, how would this bill make life more affordable? BROWN: Well, this would rewrite some of the nation's most important environmental laws - things like the National Environmental Policy Act, the Clean Water Act and the Endangered Species Act. It's really worth emphasizing these are bedrock protections that have been on the books for decades, and they were designed to make sure that things like animal species, local ecosystems and archaeological sites aren't damaged by development. SIMON: How would it change those laws? BROWN: Specifically, the bill shortens the timeline for getting most permits and exempts some projects entirely from environmental review, which should, in theory, speed up how quickly some of these projects can be built. And it would also require that data centers pay for their energy usage and not drive up the costs from neighboring communities. Republicans got behind the bill because they see it as a way to speed the development of oil-and-gas projects. But there was also support from Democrats, who think this will help get more clean energy onto the grid - things like solar farms and hydropower plants. SIMON: Now tell us about some of the concerns and reservations. BROWN: As there always are. While most clean-energy industry groups, labor unions and oil-gas companies are backing the bill, many environmental advocacy groups have opposed it. That includes major groups like the Sierra Club and Natural Resource Defense Council. The Sierra Club's executive director, Loren Blackford, called the bill deeply flawed. She said it would threaten endangered species and would also weaken tribal sovereignty. SIMON: She brings up Native American tribes. How do they see this bill? BROWN: Yeah. The tension comes down to the proposed changes that the bill would make to the National Historic Preservation Act. This is a law that's been on the books since 1966, and it is designed to help protect historic landmarks and archaeological sites around the country. As the bill came together, nearly a dozen tribal organizations warned that the changes would limit the input Indigenous communities are able to provide when it comes to construction at different sites with an important cultural significance. SIMON: Bill has passed the Senate - course, now on to the House. What are its chances there? BROWN: Well, it's still unclear if it'll make it to President Trump's desk for a signature. The House is out of session next week for Thanksgiving. And when they come back, one of their top priorities will be to extend government funding before it runs out on December 11. And with a narrowly divided chamber, Republicans may need some Democratic votes to get the permitting bill across the finish line. But House Democrats may not be interested in supporting a bill that divides their supporters when they could take their own swing at the issue when they control both chambers of Congress starting in January. SIMON: NPR's Matthew Brown. Thanks so much for joining us. BROWN: Thank you. Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information. Accuracy and availability of transcripts for NPR programming may vary. Transcript text may also be revised to correct errors or match updates to audio. Audio may be edited after its original broadcast or publication. The authoritative record of NPR's programming is the audio record."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 17.2292,
+  "numbers_changed": [
+   "11",
+   "1966",
+   "2026"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.423,
+ "similarity": 0.8078,
+ "adjudicated_by": "rules"
+}
