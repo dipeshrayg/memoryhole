@@ -1,0 +1,60 @@
+{
+ "id": "089bfe1b29f73a70-e1421b6a-5552e107",
+ "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-relax-tech-outages-china-b3087895.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-23T17:51:23Z",
+ "date": "2026-11-23",
+ "old_title": "Trump tells Americans to 'relax' after spate of tech outages: 'Everything's good'",
+ "new_title": "Trump tells Americans to 'relax' after spate of tech outages: 'Everything's good'",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nPresident Trump has told Americans to \"relax\" amid widespread anxiety over a spate of tech outages.\nThe commander-in-chief sought to reassure the public during an interview from China, where has been meeting with Chinese President Xi Jinping and Russian leader Vladimir Putin for an unprecedented three-way summit.\nBack in the U.S., concern has continued to build over the series of technological disruptions that have affected everything from Microsoft to JPMorgan Chase and even led to a rare nationwide ground stop of U.S. flights last week.\n\"Tell them to relax. Everything's good. These are individual events,\" Trump said on Fox News' The Ingraham Angle. \"So, Chase Manhattan Bank, JPMorgan, it goes out. Somebody else goes out.\n\"I also think that the press is sort of having a lot of fun with it.\"\n\"If these things would have happened two years ago, three years ago, in the Biden administration - which was grossly incompetent and corrupt - nobody would have mentioned it,\" the president claimed.\nTrump also shot down the idea another country could be behind the outages, by suggesting they would be too afraid of the consequences.\n\"I'll let you know if there's a problem and, you know what? And you know what, people would be afraid to do it. Okay, somebody said to me, well, how do you know it's not? Because they know that they would be hit so hard and nobody wants to do it.\n\"Whether it's any other country - I don't want to use specific names because they're treating me extremely well in China, and I have a lot of respect and a lot of relationships and a good relationship with President Xi,\" he told the network. \"But if anybody did that to us, and we found out about it, they know what the repercussions would be with me.\" Nobody's going to play games with us.\"\nMany of the organizations that have experienced outages - including Microsoft and the FAA - have said that cyberattacks were not responsible for the disruption.\nTrump's comments are the latest attempt by the administration to downplay the significance of the outage issues.\nVice President JD Vance canceled an appearance on Wednesday at a summit hosted by The New York Times to attend meetings in Washington regarding the outages. Two days earlier, he had downplayed concerns during his own appearance appearance on The Ingraham Angle.\nAnd secretary of state Marco Rubio has reiterated that the U.S. has not experienced a cyberattack, telling reporters on Wednesday: \"We are not under systemic attack.\n\"These events, one has nothing to do with the other; they are not interrelated.\"\nEarlier this week, former White House Press Secretary Karoline Leavitt called on the administration to be more transparent about what had happened, telling Fox & Friends even she has been checking her bank account with \"a little bit of worry.\"",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nPresident Trump has told Americans to \"relax\" amid widespread anxiety over a spate of tech outages.\nThe commander-in-chief sought to reassure the public during an interview from China, where has been meeting with Chinese President Xi Jinping and Russian leader Vladimir Putin for an unprecedented three-way summit.\nBack in the U.S., concern has continued to build over the series of technological disruptions that have affected everything from Microsoft to JPMorgan Chase and even led to a rare nationwide ground stop of U.S. flights last week.\n\"Tell them to relax. Everything's good. These are individual events,\" Trump told Fox News senior White House correspondent Jacqui Heinrich on The Ingraham Angle. \"So, Chase Manhattan Bank, JPMorgan, it goes out. Somebody else goes out.\n\"I also think that the press is sort of having a lot of fun with it.\"\n\"If these things would have happened two years ago, three years ago, in the Biden administration - which was grossly incompetent and corrupt - nobody would have mentioned it,\" the president claimed.\nTrump also shot down the idea another country could be behind the outages, by suggesting they would be too afraid of the consequences.\n\"I'll let you know if there's a problem and, you know what? And you know what, people would be afraid to do it. Okay, somebody said to me, well, how do you know it's not? Because they know that they would be hit so hard and nobody wants to do it.\n\"Whether it's any other country - I don't want to use specific names because they're treating me extremely well in China, and I have a lot of respect and a lot of relationships and a good relationship with President Xi,\" he told the network. \"But if anybody did that to us, and we found out about it, they know what the repercussions would be with me.\" Nobody's going to play games with us.\"\nMany of the organizations that have experienced outages - including Microsoft and the FAA - have said that cyberattacks were not responsible for the disruption.\nTrump's comments are the latest attempt by the administration to downplay the significance of the outage issues.\nVice President JD Vance canceled an appearance on Wednesday at a summit hosted by The New York Times to attend meetings in Washington regarding the outages. Two days earlier, he had downplayed concerns during his own appearance appearance on The Ingraham Angle.\nAnd secretary of state Marco Rubio has reiterated that the U.S. has not experienced a cyberattack, telling reporters on Wednesday: \"We are not under systemic attack.\n\"These events, one has nothing to do with the other; they are not interrelated.\"\nEarlier this week, former White House Press Secretary Karoline Leavitt called on the administration to be more transparent about what had happened, telling Fox & Friends even she has been checking her bank account with \"a little bit of worry.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "week. \"Tell them to relax. Everything's good. These are individual events,\" Trump"
+    ],
+    [
+     "del",
+     "said"
+    ],
+    [
+     "ins",
+     "told Fox News senior White House correspondent Jacqui Heinrich"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "Fox News'"
+    ],
+    [
+     "eq",
+     "The Ingraham Angle. \"So, Chase Manhattan Bank, JPMorgan, it goes out. Somebody"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0237,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9762,
+ "adjudicated_by": "rules"
+}

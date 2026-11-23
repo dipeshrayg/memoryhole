@@ -1,0 +1,64 @@
+{
+ "id": "1b4d118bb00462f3-2c7b751d-8fd1da8e",
+ "url": "https://www.aljazeera.com/sports/liveblog/2026/11/22/live-liverpool-vs-manchester-united-premier-league-3?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-23T17:48:33Z",
+ "date": "2026-11-23",
+ "old_title": "Live: Liverpool vs Manchester United - Premier League",
+ "new_title": "Liverpool 4-0 Manchester United - Premier League as it happened",
+ "old_text": "Al Jazeera Sport brings you live coverage of one of the biggest club games on the planet, with an extra twist as Mauricio Pochettino takes charge of struggling Manchester United for the first time as the Red Devils visit Liverpool in the English Premier League.",
+ "new_text": "Our live coverage as Mauricio Pochettino takes charge of struggling Manchester United for the first time as the Red Devils visit Liverpool in the English Premier League is now closed. You can click here to read the match report from Anfield. Thanks for joining us at Al Jazeera Sport.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Al Jazeera Sport brings you"
+    ],
+    [
+     "ins",
+     "Our"
+    ],
+    [
+     "eq",
+     "live coverage"
+    ],
+    [
+     "del",
+     "of one of the biggest club games on the planet, with an extra twist"
+    ],
+    [
+     "eq",
+     "as Mauricio Pochettino takes charge of struggling Manchester United for the first time as the Red Devils visit Liverpool in the English Premier"
+    ],
+    [
+     "del",
+     "League."
+    ],
+    [
+     "ins",
+     "League is now closed. You can click here to read the match report from Anfield. Thanks for joining us at Al Jazeera Sport."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.9778,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.7,
+ "similarity": 0.7242,
+ "adjudicated_by": "rules"
+}

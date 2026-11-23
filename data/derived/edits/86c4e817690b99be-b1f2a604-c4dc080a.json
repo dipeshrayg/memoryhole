@@ -1,0 +1,436 @@
+{
+ "id": "86c4e817690b99be-b1f2a604-c4dc080a",
+ "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-23T17:45:09Z",
+ "date": "2026-11-23",
+ "old_title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+ "new_title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+ "old_text": "- Published\nRescue and firefighting efforts are continuing for a Russian cargo vessel hit by a drone attack in the eastern Gulf of Finland, authorities have said.\nThe ship - the Sparta II - was bound for Russia's Baltic exclave Kaliningrad when it was hit on Saturday morning, before drifting into Finnish waters. Finnish defence forces said Ukraine was likely behind the attack. Kyiv has yet to comment.\nFinland's Border Guard said on Sunday that work was ongoing to make sure the cargo ship did not sink but it was not aware of any danger to surrounding maritime traffic.\nWater was still being used to douse the ship on Sunday, and Finland said Estonian and Russian assets were also involved in recovery work.\nKaliningrad Governor Alexei Besprozvannykh said two drones had been used in the strike, based on preliminary information, and there was \"no threat\" to the territory's supplies.\n\"War is spilling over into our immediate vicinity,\" Finnish Prime Minister Petteri Orpo said. \"Ukraine has the right to fight back against the aggressor.\"\nThe Sparta II was sanctioned by the US in 2022 and Ukraine earlier this year, and is run by a Russian company, according to the Ukrainian and US governments.\nThe company says on its website that it was established within the structure of Russia's defence ministry in 2011 and since 2015 has been operating within the military construction complex.\nFinland's coast guard said it had been alerted to the attack at around 08:50 local time (06:50 GMT) on Saturday and that the cargo vessel had been located approximately 50km west of the island of Suursaari in the Gulf of Finland.\nThis prompted \"temporary aviation and maritime restrictions\" around the area, Finnish border officials said.\nShortly after the incident, Finland's defence ministry said a Russian helicopter was suspected of violating the country's airspace, potentially linked to \"rescue or tracking operations\".\nA Russian rescue vessel approached the ship and was told by the crew that they did not need to be evacuated, Kaliningrad's governor wrote on Telegram, adding: \"The crew is currently carrying out the necessary work and plans to continue on its way.\"\nThe Finnish Border Guard later said the crew had been evacuated to another Russian vessel that was now already en route to Russia. The Russian rescue vessel had remained at the location of the stricken ship.\nIt added that no environmental damage had been detected and that there was no danger to maritime traffic or people.\nKaliningrad is a Russian exclave that sits between Poland and Lithuania.\nDefence Minister Antti HÃ¤kkÃ¤nen said that the Finnish Border Guard were responsible for the investigation into the attack and were co-operating with other relevant authorities.\nNato has also been informed, the defence ministry said.\nThe Baltic Sea has become a flashpoint in the Russia-Ukraine war, triggered when Russia launched a full-scale invasion of Ukraine in 2022. Ukraine has recently ramped up its long-range attacks against Russia beyond the front lines.\nEarlier this month, a Ukrainian drone strike hit a Russian warship in the Gulf of Finland.",
+ "new_text": "- Published\nA Russian cargo vessel that was hit by a drone attack in the eastern Gulf of Finland is being towed away, authorities have said.\nThe Sparta II had been bound for Russia's Baltic exclave Kaliningrad when it was hit on Saturday morning, sparking a fire aboard.\nIt then drifted into Finnish waters and its crew were evacuated to Russia. Finnish defence forces said Ukraine was likely behind the attack. Kyiv has yet to comment.\nFinland's Border Guard said on Sunday afternoon that fire was no longer visible from the outside but thermal cameras showed that some containers on the ship were still warm.\nThe Sparta II was \"slightly listing\", Finnish authorities added, but the \"situation is stable\" and no fuel or other \"hazardous substance leaks\" had been detected.\nKaliningrad Governor Alexei Besprozvannykh said two drones appeared to have been used in the strike and that there was \"no threat\" to his territory's supplies.\nThe Sparta II was sanctioned by the US in 2022 and Ukraine earlier this year, and is run by a Russian company, according to the Ukrainian and US governments.\nThe company says it was established within the structure of Russia's defence ministry in 2011 and since 2015 has been operating within the military construction complex.\nFinland's coast guard said it had been alerted to the attack at around 08:50 local time (06:50 GMT) on Saturday and that the cargo vessel had been located approximately 50km west of the island of Suursaari in the Gulf of Finland.\nThis prompted \"temporary aviation and maritime restrictions\" around the area, Finnish border officials said.\n\"War is spilling over into our immediate vicinity,\" Finnish Prime Minister Petteri Orpo said. \"Ukraine has the right to fight back against the aggressor.\"\nShortly after the incident, Finland's defence ministry said a Russian helicopter was suspected of violating the country's airspace, potentially linked to \"rescue or tracking operations\".\nWhile Besprozvannykh initially said the crew of the Sparta II intended to repair the ship and carry on their journey, the Finnish Border Guard later said they had been evacuated to another Russian vessel that was en route to Russia.\nJukka-Pekka Lumilahti, director of maritime operations at the Finnish Border Guard, said during a news conference on Sunday that one Sparta II crew member had suffered minor injuries.\nThe Russian rescue vessel Murman is leading towing operations with the support of a Finnish guard ship and a Estonian naval patrol vessel.\nKaliningrad is a Russian exclave that sits between Poland and Lithuania.\nFinnish Defence Minister Antti HÃ¤kkÃ¤nen said that the Border Guard was responsible for the investigation into the attack and was co-operating with other relevant authorities.\nNato has also been informed, the defence ministry said.\nThe Baltic Sea has become a flashpoint in the Russia-Ukraine war, triggered when Russia launched a full-scale invasion of Ukraine in 2022. Ukraine has recently ramped up its long-range attacks against Russia beyond the front lines.\nEarlier this month, a Ukrainian drone strike hit a Russian warship in the Gulf of Finland.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "Rescue and firefighting efforts are continuing for a"
+    ],
+    [
+     "ins",
+     "A"
+    ],
+    [
+     "eq",
+     "Russian cargo vessel"
+    ],
+    [
+     "ins",
+     "that was"
+    ],
+    [
+     "eq",
+     "hit by a drone attack in the eastern Gulf of"
+    ],
+    [
+     "del",
+     "Finland,"
+    ],
+    [
+     "ins",
+     "Finland is being towed away,"
+    ],
+    [
+     "eq",
+     "authorities have said. The"
+    ],
+    [
+     "del",
+     "ship - the"
+    ],
+    [
+     "eq",
+     "Sparta II"
+    ],
+    [
+     "del",
+     "- was"
+    ],
+    [
+     "ins",
+     "had been"
+    ],
+    [
+     "eq",
+     "bound for Russia's Baltic exclave Kaliningrad when it was hit on Saturday morning,"
+    ],
+    [
+     "del",
+     "before drifting"
+    ],
+    [
+     "ins",
+     "sparking a fire aboard. It then drifted"
+    ],
+    [
+     "eq",
+     "into Finnish"
+    ],
+    [
+     "del",
+     "waters."
+    ],
+    [
+     "ins",
+     "waters and its crew were evacuated to Russia."
+    ],
+    [
+     "eq",
+     "Finnish defence forces said Ukraine was likely behind the attack. Kyiv has yet to comment. Finland's Border Guard said on Sunday"
+    ],
+    [
+     "ins",
+     "afternoon"
+    ],
+    [
+     "eq",
+     "that"
+    ],
+    [
+     "del",
+     "work"
+    ],
+    [
+     "ins",
+     "fire"
+    ],
+    [
+     "eq",
+     "was"
+    ],
+    [
+     "del",
+     "ongoing to make sure"
+    ],
+    [
+     "ins",
+     "no longer visible from"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "cargo ship did not sink"
+    ],
+    [
+     "ins",
+     "outside"
+    ],
+    [
+     "eq",
+     "but"
+    ],
+    [
+     "del",
+     "it was not aware of any danger to surrounding maritime traffic. Water was still being used to douse"
+    ],
+    [
+     "ins",
+     "thermal cameras showed that some containers on"
+    ],
+    [
+     "eq",
+     "the ship"
+    ],
+    [
+     "del",
+     "on Sunday,"
+    ],
+    [
+     "ins",
+     "were still warm. The Sparta II was \"slightly listing\", Finnish authorities added, but the \"situation is stable\""
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "Finland said Estonian and Russian assets were also involved in recovery work."
+    ],
+    [
+     "ins",
+     "no fuel or other \"hazardous substance leaks\" had been detected."
+    ],
+    [
+     "eq",
+     "Kaliningrad Governor Alexei Besprozvannykh said two drones"
+    ],
+    [
+     "del",
+     "had"
+    ],
+    [
+     "ins",
+     "appeared to have"
+    ],
+    [
+     "eq",
+     "been used in the"
+    ],
+    [
+     "del",
+     "strike, based on preliminary information,"
+    ],
+    [
+     "ins",
+     "strike"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "ins",
+     "that"
+    ],
+    [
+     "eq",
+     "there was \"no threat\" to"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "ins",
+     "his"
+    ],
+    [
+     "eq",
+     "territory's supplies."
+    ],
+    [
+     "del",
+     "\"War is spilling over into our immediate vicinity,\" Finnish Prime Minister Petteri Orpo said. \"Ukraine has the right to fight back against the aggressor.\""
+    ],
+    [
+     "eq",
+     "The Sparta II was sanctioned by the US in 2022 and Ukraine"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Russian company, according to the Ukrainian and US governments. The company says"
+    ],
+    [
+     "del",
+     "on its website that"
+    ],
+    [
+     "eq",
+     "it was established within the structure of Russia's defence ministry in 2011"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "\"temporary aviation and maritime restrictions\" around the area, Finnish border officials said."
+    ],
+    [
+     "ins",
+     "\"War is spilling over into our immediate vicinity,\" Finnish Prime Minister Petteri Orpo said. \"Ukraine has the right to fight back against the aggressor.\""
+    ],
+    [
+     "eq",
+     "Shortly after the incident, Finland's defence ministry said a Russian helicopter was"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of violating the country's airspace, potentially linked to \"rescue or tracking operations\"."
+    ],
+    [
+     "del",
+     "A Russian rescue vessel approached"
+    ],
+    [
+     "ins",
+     "While Besprozvannykh initially said the crew of the Sparta II intended to repair"
+    ],
+    [
+     "eq",
+     "the ship and"
+    ],
+    [
+     "del",
+     "was told by"
+    ],
+    [
+     "ins",
+     "carry on their journey,"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "crew that they did not need to be evacuated, Kaliningrad's governor wrote on Telegram, adding: \"The crew is currently carrying out the necessary work and plans to continue on its way.\" The"
+    ],
+    [
+     "eq",
+     "Finnish Border Guard later said"
+    ],
+    [
+     "del",
+     "the crew"
+    ],
+    [
+     "ins",
+     "they"
+    ],
+    [
+     "eq",
+     "had been evacuated to another Russian vessel that was"
+    ],
+    [
+     "del",
+     "now already"
+    ],
+    [
+     "eq",
+     "en route to Russia."
+    ],
+    [
+     "ins",
+     "Jukka-Pekka Lumilahti, director of maritime operations at the Finnish Border Guard, said during a news conference on Sunday that one Sparta II crew member had suffered minor injuries."
+    ],
+    [
+     "eq",
+     "The Russian rescue vessel"
+    ],
+    [
+     "del",
+     "had remained at"
+    ],
+    [
+     "ins",
+     "Murman is leading towing operations with"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "location"
+    ],
+    [
+     "ins",
+     "support"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "the stricken ship. It added that no environmental damage had been detected"
+    ],
+    [
+     "ins",
+     "a Finnish guard ship"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "that there was no danger to maritime traffic or people."
+    ],
+    [
+     "ins",
+     "a Estonian naval patrol vessel."
+    ],
+    [
+     "eq",
+     "Kaliningrad is a Russian exclave that sits between Poland and Lithuania."
+    ],
+    [
+     "ins",
+     "Finnish"
+    ],
+    [
+     "eq",
+     "Defence Minister Antti HÃ¤kkÃ¤nen said that the"
+    ],
+    [
+     "del",
+     "Finnish"
+    ],
+    [
+     "eq",
+     "Border Guard"
+    ],
+    [
+     "del",
+     "were"
+    ],
+    [
+     "ins",
+     "was"
+    ],
+    [
+     "eq",
+     "responsible for the investigation into the attack and"
+    ],
+    [
+     "del",
+     "were"
+    ],
+    [
+     "ins",
+     "was"
+    ],
+    [
+     "eq",
+     "co-operating with other relevant authorities. Nato has also been informed, the defence"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.6457,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 3,
+  "blocks_added": 0,
+  "blocks_removed": 1,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 2.361,
+ "similarity": 0.9348,
+ "adjudicated_by": "rules"
+}

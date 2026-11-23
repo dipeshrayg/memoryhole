@@ -1,0 +1,96 @@
+{
+ "id": "5a49fd4a2d776cb4-b7f48ce1-a1887f49",
+ "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-11-23T18:02:44Z",
+ "date": "2026-11-23",
+ "old_title": "Google rolls out new search homepage with AI chat history and no search button",
+ "new_title": "Google rolls out new search homepage with AI chat history and no search button",
+ "old_text": "Google's flagship search experience is evolving into an AI experience with stunning speed. Even time-tested elements of search are getting AI makeovers, and the latest to get this treatment is the search homepage on Google.com. A redesign that's been in testing for the last few weeks is now official, bringing easier access to AI chats and dropping the dedicated search button entirely.\nGoogle search VP Robby Stein confirmed on X that Google is deploying the new desktop search page after a successful test. The page will now have a few more buttons under the search bar, all connected to AI features. There's an image generation button, one for analyzing files, and one for brainstorming with Gemini. The \"I'm Feeling Lucky\" button remains, but the Google Search button that used to sit next to it is gone.\nThe search button has obviously been a part of Google's search page forever. However, it wasn't in a very convenient location in the modern interface. When you begin typing a query, the autocomplete suggestions cover that button. You have to click out of the text field to access the button, which is an extra step compared to simply mashing the Enter key to run your search.",
+ "new_text": "Google's flagship search experience is evolving into an AI experience with stunning speed. Even time-tested elements of search are getting AI makeovers, and the latest to get this treatment is the search homepage on Google.com. A redesign that has been in testing for the past few weeks is now official, bringing easier access to AI chats and dropping the dedicated search button entirely.\nGoogle search VP Robby Stein confirmed on X that Google is deploying the new desktop search page after a successful test. The page will now have a few more buttons under the search bar, all connected to AI features. There's an image-generation button, one for analyzing files, and one for brainstorming with Gemini. The \"I'm Feeling Lucky\" button remains, but the Google Search button that sat next to it is gone.\nThe search button has obviously been a part of Google's search page forever. However, it wasn't in a very convenient location in the modern interface. When you begin typing a query, the autocomplete suggestions cover that button. You have to click out of the text field to access the button, which is an extra step compared to simply mashing the Enter key to run your search.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "to get this treatment is the search homepage on Google.com. A redesign"
+    ],
+    [
+     "del",
+     "that's"
+    ],
+    [
+     "ins",
+     "that has"
+    ],
+    [
+     "eq",
+     "been in testing for the"
+    ],
+    [
+     "del",
+     "last"
+    ],
+    [
+     "ins",
+     "past"
+    ],
+    [
+     "eq",
+     "few weeks is now official, bringing easier access to AI chats and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "buttons under the search bar, all connected to AI features. There's an"
+    ],
+    [
+     "del",
+     "image generation"
+    ],
+    [
+     "ins",
+     "image-generation"
+    ],
+    [
+     "eq",
+     "button, one for analyzing files, and one for brainstorming with Gemini. The \"I'm Feeling Lucky\" button remains, but the Google Search button that"
+    ],
+    [
+     "del",
+     "used to sit"
+    ],
+    [
+     "ins",
+     "sat"
+    ],
+    [
+     "eq",
+     "next to it is gone. The search button has obviously been a"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0594,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9965,
+ "adjudicated_by": "rules"
+}

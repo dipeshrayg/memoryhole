@@ -1,0 +1,76 @@
+{
+ "id": "6ade019543a1eb6b-83e82b95-ad443d83",
+ "url": "https://www.abc.net.au/news/2026-11-21/top-end-nt-shaken-as-major-earthquake-hits-east-timor/107413134",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-23T17:50:50Z",
+ "date": "2026-11-23",
+ "old_title": "Top End shaken as major quake hits East Timor",
+ "new_title": "Top End shaken as major quake hits Timor-Leste",
+ "old_text": "Top End shaken as major earthquake hits East Timor\nIn short:\nTop End residents have been rattled after a 6.8-magnitude quake struck north-east of Lospalos in East Timor on Saturday.\nDarwin is regularly shaken by quakes occurring near Indonesia and East Timor but this was stronger than usual.\nDarwin felt a lighter shaking just days ago from a 6.6-magnitude quake in the Banda Sea.",
+ "new_text": "Top End shaken as major earthquake hits Timor-Leste\nIn short:\nTop End residents have been rattled after a 6.8-magnitude quake struck north-east of Lospalos in Timor-Leste on Saturday.\nDarwin is regularly shaken by quakes occurring near Indonesia and Timor-Leste but this was stronger than usual.\nDarwin felt a lighter shaking just days ago from a 6.6-magnitude quake in the Banda Sea.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Top End shaken as major earthquake hits"
+    ],
+    [
+     "del",
+     "East Timor"
+    ],
+    [
+     "ins",
+     "Timor-Leste"
+    ],
+    [
+     "eq",
+     "In short: Top End residents have been rattled after a 6.8-magnitude quake struck north-east of Lospalos in"
+    ],
+    [
+     "del",
+     "East Timor"
+    ],
+    [
+     "ins",
+     "Timor-Leste"
+    ],
+    [
+     "eq",
+     "on Saturday. Darwin is regularly shaken by quakes occurring near Indonesia and"
+    ],
+    [
+     "del",
+     "East Timor"
+    ],
+    [
+     "ins",
+     "Timor-Leste"
+    ],
+    [
+     "eq",
+     "but this was stronger than usual. Darwin felt a lighter shaking just days ago from a 6.6-magnitude quake in the Banda Sea."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1406,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9769,
+ "adjudicated_by": "rules"
+}
