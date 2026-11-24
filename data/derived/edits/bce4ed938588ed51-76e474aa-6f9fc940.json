@@ -1,0 +1,52 @@
+{
+ "id": "bce4ed938588ed51-76e474aa-6f9fc940",
+ "url": "https://www.france24.com/en/video/20261120-burnham-hails-landmark-eu-uk-deal-as-good-day-for-britain-europe",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-24T17:20:18Z",
+ "date": "2026-11-24",
+ "old_title": "Burnham hails 'landmark' EU-UK deal as 'good day' for Britain, Europe",
+ "new_title": "Burnham hails 'landmark' EU-UK deal as 'good day' for Britain, Europe",
+ "old_text": "Video contentVideo\nBurnham hails 'landmark' EU-UK deal as 'good day' for Britain, Europe\nIssued on: Modified:\nShare\nBritain and the European Union agreed deals on trade, carbon emissions and youth movement on Friday, and pledged to rebuild ties with an \"ambitious and dynamic\" post-Brexit relationship. In a joint statement after a summit in Brussels, the UK and EU confirmed agreements that will scrap checks on the trade in plant and animal products, link their emissions trading schemes and let 100,000 young adults from each side live and work in the other's countries for up to three years. FRANCE 24's International Affairs Editor Kethevane Gorjestani tells us more.",
+ "new_text": "Video content Video\nBurnham hails 'landmark' EU-UK deal as 'good day' for Britain, Europe\nIssued on: Modified:\nShare\nBritain and the European Union agreed deals on trade, carbon emissions and youth movement on Friday, and pledged to rebuild ties with an \"ambitious and dynamic\" post-Brexit relationship. In a joint statement after a summit in Brussels, the UK and EU confirmed agreements that will scrap checks on the trade in plant and animal products, link their emissions trading schemes and let 100,000 young adults from each side live and work in the other's countries for up to three years. FRANCE 24's International Affairs Editor Kethevane Gorjestani tells us more.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Video"
+    ],
+    [
+     "del",
+     "contentVideo"
+    ],
+    [
+     "ins",
+     "content Video"
+    ],
+    [
+     "eq",
+     "Burnham hails 'landmark' EU-UK deal as 'good day' for Britain, Europe Issued"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.028,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

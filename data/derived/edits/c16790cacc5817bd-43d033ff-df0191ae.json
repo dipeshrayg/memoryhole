@@ -1,0 +1,52 @@
+{
+ "id": "c16790cacc5817bd-43d033ff-df0191ae",
+ "url": "https://www.france24.com/en/princess-of-wales-opens-up-about-cancer",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-24T17:20:38Z",
+ "date": "2026-11-24",
+ "old_title": "Princess of Wales opens up about cancer",
+ "new_title": "Princess of Wales opens up about cancer",
+ "old_text": "Video contentVideo\nPrincess of Wales opens up about cancer\nIssued on:\nShare\nA new documentary titled Heal follows Britain's Princess Catherine as she navigates life since her cancer diagnosis in 2024. The film tracks the 44-year-old as she attempts to climb the highest mountains in Scotland, England and Wales within 24 hours. In the trailer, she reflects on healing as a journey. Ophelie Jacobson reports.",
+ "new_text": "Video content Video\nPrincess of Wales opens up about cancer\nIssued on:\nShare\nA new documentary titled Heal follows Britain's Princess Catherine as she navigates life since her cancer diagnosis in 2024. The film tracks the 44-year-old as she attempts to climb the highest mountains in Scotland, England and Wales within 24 hours. In the trailer, she reflects on healing as a journey. Ophelie Jacobson reports.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Video"
+    ],
+    [
+     "del",
+     "contentVideo"
+    ],
+    [
+     "ins",
+     "content Video"
+    ],
+    [
+     "eq",
+     "Princess of Wales opens up about cancer Issued on: Share A new"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0462,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

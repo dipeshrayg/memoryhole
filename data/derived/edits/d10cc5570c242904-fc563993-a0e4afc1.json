@@ -1,0 +1,52 @@
+{
+ "id": "d10cc5570c242904-fc563993-a0e4afc1",
+ "url": "https://www.france24.com/en/video/20261120-cincinnati-zoo-s-famed-fiona-the-hippo-dies-days-after-eating-a-visitor-s-hat",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-24T17:20:12Z",
+ "date": "2026-11-24",
+ "old_title": "Cincinnati Zoo's famed Fiona the hippo dies days after eating a visitor's hat",
+ "new_title": "Cincinnati Zoo's famed Fiona the hippo dies days after eating a visitor's hat",
+ "old_text": "Video contentVideo\nCincinnati Zoo's famed Fiona the hippo dies days after eating a visitor's hat\nIssued on: Modified:\nShare\nFiona, the hippo whose premature birth and fight for survival at the Cincinnati Zoo turned her into a global sensation nearly a decade ago, died Thursday from complications after swallowing a knit hat that was accidentally flung into her enclosure. She was 9 years old. \"It is with extreme sadness that we share with you the devastating news that Fiona did not make it after multiple attempts from our amazing vets and keeper team to help her through what ended up being a medical emergency,\" the zoo said in a statement.",
+ "new_text": "Video content Video\nCincinnati Zoo's famed Fiona the hippo dies days after eating a visitor's hat\nIssued on: Modified:\nShare\nFiona, the hippo whose premature birth and fight for survival at the Cincinnati Zoo turned her into a global sensation nearly a decade ago, died Thursday from complications after swallowing a knit hat that was accidentally flung into her enclosure. She was 9 years old. \"It is with extreme sadness that we share with you the devastating news that Fiona did not make it after multiple attempts from our amazing vets and keeper team to help her through what ended up being a medical emergency,\" the zoo said in a statement.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Video"
+    ],
+    [
+     "del",
+     "contentVideo"
+    ],
+    [
+     "ins",
+     "content Video"
+    ],
+    [
+     "eq",
+     "Cincinnati Zoo's famed Fiona the hippo dies days after eating a visitor's"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0273,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

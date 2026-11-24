@@ -1,0 +1,52 @@
+{
+ "id": "721e640b9af54e9a-bc2ea6cd-0e6a8705",
+ "url": "https://www.france24.com/en/former-italian-police-chief-found-dead",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-24T17:20:36Z",
+ "date": "2026-11-24",
+ "old_title": "Former Italian police chief found dead",
+ "new_title": "Former Italian police chief found dead",
+ "old_text": "Video contentVideo\nFormer Italian police chief found dead\nIssued on:\nShare\nItalian Prime Minister Giorgia Meloni has expressed shock following the death of a former national police chief, whose body was found on Saturday. He had been under investigation over an alleged cover-up in an inquiry into a bombing linked to organised crime in Sicily. Jennie Shin reports.",
+ "new_text": "Video content Video\nFormer Italian police chief found dead\nIssued on:\nShare\nItalian Prime Minister Giorgia Meloni has expressed shock following the death of a former national police chief, whose body was found on Saturday. He had been under investigation over an alleged cover-up in an inquiry into a bombing linked to organised crime in Sicily. Jennie Shin reports.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Video"
+    ],
+    [
+     "del",
+     "contentVideo"
+    ],
+    [
+     "ins",
+     "content Video"
+    ],
+    [
+     "eq",
+     "Former Italian police chief found dead Issued on: Share Italian Prime Minister"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0517,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

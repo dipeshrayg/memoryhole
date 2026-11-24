@@ -1,0 +1,178 @@
+{
+ "id": "634f23836ced94b5-87a04a67-3177a588",
+ "url": "https://www.dw.com/en/us-and-uk-to-host-women-s-world-cups-in-2031-and-2035/a-80023786?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-24T17:19:48Z",
+ "date": "2026-11-24",
+ "old_title": "FIFA confirms US-led bid for 2031 and UK for 2035 Women's World Cup",
+ "new_title": "FIFA confirms US-led bid for 2031 and UK for 2035 Women's World Cup",
+ "old_text": "FIFA have confirmed the hosts for the 2031 and 2035 Women's World Cup.\nThe United States, along with Mexico, Costa Rica and Jamaica, made an uncontested bid to host in 2031. It will be the first tournament to feature 48 teams - as is the case with the men. The US has hosted the tournamnent twice before, in 2003 and 1999, and is also the most successful country in its history, having won it four times.\nAfter FIFA announced its revenue for the 2026 men's World Cup that finished just last summer was around $15 billionn (€13.7 billion), it is clear that US Soccer feels empowered that hosting the women's tournament is the next move forward. With the women's domestic league (NWSL) considered the strongest in the world and the US national team so strong, it is clear that securing the tournament in 2031 is a further sign of the US' committment to women's football.\n\"We expect and plan for the 2031 Women's World Cup to be the largest women's sporting event in history,\" Emily Cosler, US Soccer's vice-president of strategy told The Guardian.\nTwo tournaments in seven years for the UK\nThe 2035 tournament was also awarded to the sole bidders, England, Scotland, Northern Ireland and Wales. This sees the World Cup return to the United Kingdom for the first time since 1966, the only time England's men's team won the competition. The women lost the 2023 final to Spain. It also means that the UK will host two major tournaments in relatively quick succession, with the men's 2028 European Championships also set to be held in England, Scotland and Wales and the Republic of Ireland.\nBritish Prime Minister Andy Burnham said the tournament would bring \"visitors, investment and jobs to every part of the country.\"\nGiven that FIFA President Gianni Infantino had revealed last year that both bids were unchallenged, this news comes as little surprise. Nevertheless, with the hosts now official, a 48-team tournament marks a remarkable growth for the women's game. For reference, the 2011 World Cup in Germany had just 16 teams.\nThe next World Cup will be in Brazil next year. Eighteen of the 32 teams have already secured qualification, including Germany, for the tournament, which runs from June 24 to July 25.",
+ "new_text": "FIFA have confirmed the hosts for the 2031 and 2035 Women's World Cup.\nThe United States, along with Mexico, Costa Rica and Jamaica, made an uncontested bid to host in 2031. It will be the first tournament to feature 48 teams - as is the case with the men. The US has hosted the event twice before, in 2003 and 1999, and is also the most successful country in its history, having won it four times.\nFIFA's revenue for the 2026 men's World Cup was around $15 billion (€13.7 billion), and it's clear that US Soccer feels that hosting the women's tournament is the next move forward. With the women's domestic league (NWSL) considered the strongest in the world and the US national team so dominant, securing the tournament in 2031 is a further sign of the US' committment to women's football.\n\"We expect and plan for the 2031 Women's World Cup to be the largest women's sporting event in history,\" Emily Cosler, US Soccer's vice-president of strategy told The Guardian.\nTwo tournaments in seven years for the UK\nThe 2035 tournament was also awarded to the sole bidders, England, Scotland, Northern Ireland and Wales. This sees the World Cup return to the United Kingdom for the first time since 1966, the only time England's men's team won the competition. The women lost the 2023 final to Spain. It also means that the UK will host two major tournaments in relatively quick succession, with the men's 2028 European Championships also set to be held in England, Scotland and Wales and the Republic of Ireland.\nBritish Prime Minister Andy Burnham said the tournament would bring \"visitors, investment and jobs to every part of the country.\"\nGiven that FIFA President Gianni Infantino had revealed last year that both bids were unchallenged, this news comes as little surprise. Nevertheless, with the hosts now official, a 48-team tournament marks a remarkable advance for the women's game. The 2011 World Cup in Germany had just 16 teams.\nThe next World Cup will be in Brazil in 2027, running from June 24 to July 25. . Eighteen of the 32 teams have already secured qualification, including Germany.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "as is the case with the men. The US has hosted the"
+    ],
+    [
+     "del",
+     "tournamnent"
+    ],
+    [
+     "ins",
+     "event"
+    ],
+    [
+     "eq",
+     "twice before, in 2003 and 1999, and is also the most successful country in its history, having won it four times."
+    ],
+    [
+     "del",
+     "After FIFA announced its"
+    ],
+    [
+     "ins",
+     "FIFA's"
+    ],
+    [
+     "eq",
+     "revenue for the 2026 men's World Cup"
+    ],
+    [
+     "del",
+     "that finished just last summer"
+    ],
+    [
+     "eq",
+     "was around $15"
+    ],
+    [
+     "del",
+     "billionn"
+    ],
+    [
+     "ins",
+     "billion"
+    ],
+    [
+     "eq",
+     "(€13.7 billion),"
+    ],
+    [
+     "del",
+     "it is"
+    ],
+    [
+     "ins",
+     "and it's"
+    ],
+    [
+     "eq",
+     "clear that US Soccer feels"
+    ],
+    [
+     "del",
+     "empowered"
+    ],
+    [
+     "eq",
+     "that hosting the women's tournament is the next move forward. With the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "considered the strongest in the world and the US national team so"
+    ],
+    [
+     "del",
+     "strong, it is clear that"
+    ],
+    [
+     "ins",
+     "dominant,"
+    ],
+    [
+     "eq",
+     "securing the tournament in 2031 is a further sign of the US'"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Nevertheless, with the hosts now official, a 48-team tournament marks a remarkable"
+    ],
+    [
+     "del",
+     "growth"
+    ],
+    [
+     "ins",
+     "advance"
+    ],
+    [
+     "eq",
+     "for the women's game."
+    ],
+    [
+     "del",
+     "For reference, the"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "2011 World Cup in Germany had just 16 teams. The next World Cup will be in Brazil"
+    ],
+    [
+     "del",
+     "next year."
+    ],
+    [
+     "ins",
+     "in 2027, running from June 24 to July 25. ."
+    ],
+    [
+     "eq",
+     "Eighteen of the 32 teams have already secured qualification, including"
+    ],
+    [
+     "del",
+     "Germany, for the tournament, which runs from June 24 to July 25."
+    ],
+    [
+     "ins",
+     "Germany."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1478,
+  "numbers_changed": [
+   "2027"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9735,
+ "adjudicated_by": "rules"
+}

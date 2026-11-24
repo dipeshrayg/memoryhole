@@ -1,0 +1,211 @@
+{
+ "id": "03500cce3b612e8b-4eef5a22-b88125c6",
+ "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-11-24T17:28:37Z",
+ "date": "2026-11-24",
+ "old_title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+ "new_title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+ "old_text": "- Published\nNvidia shares skyrocketed after the tech firm reinstated Jensen Huang as its chief executive with immediate effect.\nHis shock reinstatement comes less than two weeks after Huang resigned after admitting an affair with a woman who was alleged to be a Chinese spy, a period in which shares in the chipmaker have also fallen significantly.\nNvidia shares had risen by nearly 33% by midday ET (17:00 GMT), boosting its market value by about $1 trillion and also lifted stock markets, with the tech-heavy Nasdaq up by nearly 7%.\nTech stocks more broadly have also rallied following large falls on Friday, with much of the rally starting in pre-market trading before Huang's return was announced.\nAmazon shares were up by nearly 4% and Microsoft shares were up nearly 3%, while other major tech firms including Apple saw more modest gains, up less than 2%.\nOther chipmakers also experienced large increases. Micron Technology jumped 19%, and Intel shares climbed nearly 13%.\nWhile the surge in Nvidia shares was large, the firm's share price remains about 21% down from a month ago.\nA sharp drop occurred on 4 November, after the Democrat's midterm election victory sparked fears of tougher AI regulation to come led to a broad tech stock sell-off.\nOn Friday alone, Nvidia shares fell by 13.7% as tech stocks more broadly fell, and as Reuters reported - unconfirmed by the BBC - that the company was being investigated by the US Securities and Exchange Commission (SEC) over its accounting practices.\nNvidia is a key firm at the core of the artificial intelligence (AI) boom, with the chips it makes central to the industry.\nNvidia's board of directors voted unanimously to reinstate the firm's co-founder following \"a series of discussions and meetings\" with him, the company said - but US President Donald Trump has claimed he \"convinced\" the board to reinstate Huang.\nKathleen Brooks, research director at brokerage firm XTB, said Huang's return showed Huang was the \"godfather\" of AI, and \"has a talismanic influence over the sector\".\n\"Barely two weeks ago this man was ousted from the company that he founded due to serious misconduct and potential national security issues,\" she said.\n\"Even though Huang did not hold special voting shares on the board, Nvidia's directors cannot see a future for the company without him.\"\nDan Coatsworth, head of markets at AJ Bell, said Huang's reinstatement was an astonishing about-turn for Nvidia, particularly given reports of an as-yet unconfirmed SEC investigation.\n\"This is the biggest corporate U-turn in living memory. To go from being embroiled in a spy scandal to being reinstated as the head of one of the world's most valuable companies in less than a fortnight is nothing short of remarkable,\" he said.\n\"Today's stock market rebound represents a massive sigh of relief by investors. However, one cannot rule out a more conservative approach by Huang going forward.\n\"His every move will be scrutinised by the market, and he may wish to tread more carefully to protect his integrity and ensure that Nvidia is being run responsibly.\"",
+ "new_text": "- Published\nNvidia's market value rose by nearly $1 trillion as its share price skyrocketed after the tech firm reinstated Jensen Huang as its chief executive with immediate effect.\nHis shock reinstatement comes less than two weeks after Huang resigned after admitting an affair with a woman who was alleged to be a Chinese spy, a period in which shares in the chipmaker have also fallen significantly.\nNvidia shares rose by more than 31% which also lifted stock markets, with the tech-heavy Nasdaq climbing by 6.5% and the S&P 500 also rose 4.75%.\nTech stocks more broadly have also rallied following large falls on Friday, with much of the rally starting in pre-market trading before Huang's return was announced.\nOther chipmakers experienced large increases following Monday's announcement from the Nvidia board. Shares in Micron Technology jumped 19%, while AMD shares rose nearly 7%.\nTesla shares also lept up by nearly 11.5%, while other tech gains were more muted by comparison: Amazon shares were up nearly 3.5%, and Apple and Microsoft rose by less than 2%.\nWhile the surge in Nvidia shares was large and drove its market value back towards $4tn, the firm's share price remains about 21% down from a month ago.\nA sharp drop occurred on 4 November, after the Democrat's midterm election victory sparked fears of tougher AI regulation to come led to a broad tech stock sell-off.\nOn Friday alone, Nvidia shares fell by 13.7% as tech stocks more broadly fell, and as Reuters reported - unconfirmed by the BBC - that the company was being investigated by the US Securities and Exchange Commission (SEC) over its accounting practices.\nNvidia is a key firm at the core of the artificial intelligence (AI) boom, with the chips it makes central to the industry.\nNvidia's board of directors voted unanimously to reinstate the firm's co-founder following \"a series of discussions and meetings\" with him, the company said - but US President Donald Trump has claimed he \"convinced\" the board to reinstate Huang.\nKathleen Brooks, research director at brokerage firm XTB, said Huang's return showed Huang was the \"godfather\" of AI, and \"has a talismanic influence over the sector\".\n\"Barely two weeks ago this man was ousted from the company that he founded due to serious misconduct and potential national security issues,\" she said.\n\"Even though Huang did not hold special voting shares on the board, Nvidia's directors cannot see a future for the company without him.\"\nDan Coatsworth, head of markets at AJ Bell, said Huang's reinstatement was an astonishing about-turn for Nvidia, particularly given reports of an as-yet unconfirmed SEC investigation.\n\"This is the biggest corporate U-turn in living memory. To go from being embroiled in a spy scandal to being reinstated as the head of one of the world's most valuable companies in less than a fortnight is nothing short of remarkable,\" he said.\n\"Today's stock market rebound represents a massive sigh of relief by investors. However, one cannot rule out a more conservative approach by Huang going forward.\n\"His every move will be scrutinised by the market, and he may wish to tread more carefully to protect his integrity and ensure that Nvidia is being run responsibly.\"\nPoliticians are also demanding greater scrutiny.\nSenator Jeanne Shaheen, the top Democrat on the Senate Foreign Relations Committee, said Huang's reinstatement \"reportedly at the encouragement of Trump Administration officials and without any apparent accounting or response to the risks to our national security, demands an explanation.\"\nShe added: \"What is abundantly clear is that the AI industry requires guardrails and oversight.\"",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "Nvidia shares"
+    ],
+    [
+     "ins",
+     "Nvidia's market value rose by nearly $1 trillion as its share price"
+    ],
+    [
+     "eq",
+     "skyrocketed after the tech firm reinstated Jensen Huang as its chief executive"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "in which shares in the chipmaker have also fallen significantly. Nvidia shares"
+    ],
+    [
+     "del",
+     "had risen"
+    ],
+    [
+     "ins",
+     "rose"
+    ],
+    [
+     "eq",
+     "by"
+    ],
+    [
+     "del",
+     "nearly 33% by midday ET (17:00 GMT), boosting its market value by about $1 trillion and"
+    ],
+    [
+     "ins",
+     "more than 31% which"
+    ],
+    [
+     "eq",
+     "also lifted stock markets, with the tech-heavy Nasdaq"
+    ],
+    [
+     "del",
+     "up"
+    ],
+    [
+     "ins",
+     "climbing"
+    ],
+    [
+     "eq",
+     "by"
+    ],
+    [
+     "del",
+     "nearly 7%."
+    ],
+    [
+     "ins",
+     "6.5% and the S&P 500 also rose 4.75%."
+    ],
+    [
+     "eq",
+     "Tech stocks more broadly have also rallied following large falls on Friday,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "of the rally starting in pre-market trading before Huang's return was announced."
+    ],
+    [
+     "ins",
+     "Other chipmakers experienced large increases following Monday's announcement from the Nvidia board. Shares in Micron Technology jumped 19%, while AMD shares rose nearly 7%. Tesla shares also lept up by nearly 11.5%, while other tech gains were more muted by comparison:"
+    ],
+    [
+     "eq",
+     "Amazon shares were up"
+    ],
+    [
+     "del",
+     "by"
+    ],
+    [
+     "eq",
+     "nearly"
+    ],
+    [
+     "del",
+     "4%"
+    ],
+    [
+     "ins",
+     "3.5%, and Apple"
+    ],
+    [
+     "eq",
+     "and Microsoft"
+    ],
+    [
+     "del",
+     "shares were up nearly 3%, while other major tech firms including Apple saw more modest gains, up"
+    ],
+    [
+     "ins",
+     "rose by"
+    ],
+    [
+     "eq",
+     "less than 2%."
+    ],
+    [
+     "del",
+     "Other chipmakers also experienced large increases. Micron Technology jumped 19%, and Intel shares climbed nearly 13%."
+    ],
+    [
+     "eq",
+     "While the surge in Nvidia shares was"
+    ],
+    [
+     "del",
+     "large,"
+    ],
+    [
+     "ins",
+     "large and drove its market value back towards $4tn,"
+    ],
+    [
+     "eq",
+     "the firm's share price remains about 21% down from a month ago."
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to protect his integrity and ensure that Nvidia is being run responsibly.\""
+    ],
+    [
+     "ins",
+     "Politicians are also demanding greater scrutiny. Senator Jeanne Shaheen, the top Democrat on the Senate Foreign Relations Committee, said Huang's reinstatement \"reportedly at the encouragement of Trump Administration officials and without any apparent accounting or response to the risks to our national security, demands an explanation.\" She added: \"What is abundantly clear is that the AI industry requires guardrails and oversight.\""
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.3941,
+  "numbers_changed": [
+   "00",
+   "11.5",
+   "13",
+   "17",
+   "3",
+   "3.5",
+   "31",
+   "33",
+   "4.75",
+   "500",
+   "6.5"
+  ],
+  "market_figures_changed": [
+   "$4",
+   "11.5%",
+   "13%",
+   "3%",
+   "3.5%",
+   "31%",
+   "33%",
+   "4%",
+   "4.75%",
+   "6.5%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.748,
+ "similarity": 0.9454,
+ "adjudicated_by": "rules"
+}

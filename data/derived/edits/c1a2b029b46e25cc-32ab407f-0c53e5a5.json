@@ -1,0 +1,52 @@
+{
+ "id": "c1a2b029b46e25cc-32ab407f-0c53e5a5",
+ "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/24/stunning-optical-illusion-photographs-inside-musical-instruments-charles-brooks",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Culture",
+ "country": "United Kingdom",
+ "category": "culture",
+ "lang": "en",
+ "detected_at": "2026-11-24T17:33:01Z",
+ "date": "2026-11-24",
+ "old_title": "Cathedrals of sound: the secret universe inside musical instruments - in pictures",
+ "new_title": "Cathedrals of sound: the secret universe inside musical instruments - in pictures",
+ "old_text": "Photographer and former cellist Charles Brooks creates optical illusions with minuscule cameras. He threads endoscopes inside instruments to capture thousands of images which are then combined: a clarinet becomes a dark tunnel, a yidaki becomes a cave, a Steinway piano is a futuristic train station: 'You're also looking inside the history of these instruments ... All the marks you're seeing are from them being cleaned or repaired, or by the maker themselves'",
+ "new_text": "Photographer and former cellist Charles Brooks creates optical illusions with minuscule cameras. He threads endoscopes inside instruments to capture thousands of images, which are then combined: a clarinet becomes a dark tunnel, a yidaki becomes a cave, a Steinway piano is a futuristic train station: 'You're also looking inside the history of these instruments ... All the marks you're seeing are from them being cleaned or repaired, or by the maker themselves'",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "with minuscule cameras. He threads endoscopes inside instruments to capture thousands of"
+    ],
+    [
+     "del",
+     "images"
+    ],
+    [
+     "ins",
+     "images,"
+    ],
+    [
+     "eq",
+     "which are then combined: a clarinet becomes a dark tunnel, a yidaki"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0278,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

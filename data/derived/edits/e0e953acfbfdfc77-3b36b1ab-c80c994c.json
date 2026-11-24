@@ -1,0 +1,52 @@
+{
+ "id": "e0e953acfbfdfc77-3b36b1ab-c80c994c",
+ "url": "https://www.france24.com/en/video/20261123-airports-public-transport-shut-down-amid-national-strike-in-belgium",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-24T17:20:44Z",
+ "date": "2026-11-24",
+ "old_title": "Airports, public transport shut down amid national strike in Belgium",
+ "new_title": "Airports, public transport shut down amid national strike in Belgium",
+ "old_text": "Video contentVideo\nAirports, public transport shut down amid national strike in Belgium\nIssued on:\nShare\nBelgium's prime minister on Monday set a new year-end deadline for his coalition government to agree a cost-cutting budget or face collapse. The announcement came as a national strike against the planned cuts grounded all flights in and out of Belgium. Public transport, schools and other public services also faced disruption. France 24's Dave Keating has the latest from Brussels.",
+ "new_text": "Video content Video\nAirports, public transport shut down amid national strike in Belgium\nIssued on:\nShare\nBelgium's prime minister on Monday set a new year-end deadline for his coalition government to agree a cost-cutting budget or face collapse. The announcement came as a national strike against the planned cuts grounded all flights in and out of Belgium. Public transport, schools and other public services also faced disruption. France 24's Dave Keating has the latest from Brussels.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Video"
+    ],
+    [
+     "del",
+     "contentVideo"
+    ],
+    [
+     "ins",
+     "content Video"
+    ],
+    [
+     "eq",
+     "Airports, public transport shut down amid national strike in Belgium Issued on:"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.04,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

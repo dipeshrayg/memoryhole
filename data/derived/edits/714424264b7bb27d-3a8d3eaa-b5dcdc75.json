@@ -1,0 +1,52 @@
+{
+ "id": "714424264b7bb27d-3a8d3eaa-b5dcdc75",
+ "url": "https://www.dw.com/en/killer-robots-talks-at-un-end-with-no-legally-binding-ban/a-80008584?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-24T17:19:36Z",
+ "date": "2026-11-24",
+ "old_title": "UN talks on 'killer robots' end with no legally binding ban, further talks pledged",
+ "new_title": "UN talks on 'killer robots' end with no legally binding ban, further talks pledged",
+ "old_text": "United Nations talks on regulating lethal autonomous weapons systems ended on Saturday without an agreement on a legally binding ban.\nThe negotiations did, however, yield an agreement for further discussions to develop new rules by 2028.\nDelegates from 128 states that are parties to the UN Convention on Certain Conventional Weapons (CCW) had been meeting in Geneva since Monday amid rising concerns over the use of the so-called killer robots in global conflicts.\nThe conference ended early on Saturday in what campaigners deemed a \"weakened\" outcome, following several hours of overnight parleying.\nWhat happened at the CCW conference?\nNearly 100 nations had called for negotiations on a legally binding agreement on the systems capable of killing without a human making the final decision to fire.\nUN Secretary-General António Guterres, Pope Leo XIV and the Red Cross had also supported a ban on killer robots.\nHowever, countries that have the technology, including arms-producing giants like the US, Russia and Israel, were among those opposing the mandate.\nUltimately, the 128 countries \"agreed to launch the elaboration of an international instrument on lethal autonomous weapons systems, which should be conducted over the next two years\", the conference's Swiss chair, Julien Thoni, told the media on Saturday.\nGroups decry a softened mandate on 'killer robots'\nBut while Thoni hailed a multilateral diplomacy delivering \"concrete results\" even in \"today's deeply divided world,\" rights groups expressed disappointment at the minimal agreement.\n\"States adopted a watered-down mandate that fails to chart a clear path towards a legally binding instrument,\" news agency AFP quoted Stop Killer Robots, a global coalition of over 300 organizations, as saying.\n\"Over 95 states expressed their support for a treaty. In the final hours, a small number of states weakened the mandate introducing uncertainty about the legal status of the final document,\" it added.\nThe group had earlier said that autonomous weapons systems were already reaching the battlefield and such systems had been tested or deployed, including in the Ukraine war.",
+ "new_text": "United Nations talks on regulating lethal autonomous weapons systems ended on Saturday without an agreement on a legally binding ban.\nThe negotiations did, however, yield an agreement for further discussions to develop new rules by 2028.\nDelegates from 128 states that are parties to the UN Convention on Certain Conventional Weapons (CCW) had been meeting in Geneva since Monday amid rising concerns over the use of the so-called killer robots in global conflicts.\nThe conference ended early on Saturday in what campaigners deemed a \"weakened\" outcome, following several hours of overnight parleying.\nWhat happened at the CCW conference?\nNearly 100 nations had called for negotiations on a legally binding agreement on the systems capable of killing without a human making the final decision to fire.\nUN Secretary-General António Guterres, Pope Leo XIV and the Red Cross had also supported a ban on killer robots.\nHowever, countries that have the technology, including arms-producing giants like the US, Russia ‌and Israel, were among those opposing the mandate.\nUltimately, the 128 countries \"agreed to launch the elaboration of an international instrument on lethal autonomous weapons systems, which should be conducted over the next two years\", the conference's Swiss chair, Julien Thoni, told the media on Saturday.\nGroups decry a softened mandate on 'killer robots'\nBut while Thoni hailed a multilateral diplomacy delivering \"concrete results\" even in \"today's deeply divided world,\" rights groups expressed disappointment at the minimal agreement.\n\"States adopted a watered-down mandate that fails to chart a clear path towards a legally binding instrument,\" news agency AFP quoted Stop Killer Robots, a global coalition of over 300 organizations, as saying.\n\"Over 95 states expressed their support for a treaty. In the final hours, a small number of states weakened the mandate introducing uncertainty about the legal status of the final document,\" it added.\nThe group had earlier said that autonomous weapons systems were already reaching the battlefield and such systems had been tested or deployed, including in the Ukraine war.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "countries that have the technology, including arms-producing giants like the US, Russia"
+    ],
+    [
+     "del",
+     "and"
+    ],
+    [
+     "ins",
+     "‌and"
+    ],
+    [
+     "eq",
+     "Israel, were among those opposing the mandate. Ultimately, the 128 countries \"agreed"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0061,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

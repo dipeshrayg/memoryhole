@@ -1,0 +1,488 @@
+{
+ "id": "3239ed1298054456-092537a7-e25918af",
+ "url": "https://www.dw.com/en/turkey-authorities-search-for-lioness-on-the-loose-in-istanbul/a-80020913?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-24T17:19:50Z",
+ "date": "2026-11-24",
+ "old_title": "Turkey: Authorities search for lioness on the loose in northern Istanbul",
+ "new_title": "Turkish authorities say animal spotted in woodland near Istanbul was not a lion",
+ "old_text": "Turkish security forces and wildlife authorities were searching woods in the north of Istanbul on Monday for an animal believed to be a lion that was reportedly roaming free, the national parks authority said.\nIn an online statement, the parks authority said police officers in the Zekeriyakoy area, north of Istanbul's European side, reported spotting \"an animal resembling a lion\" on surveillance cameras at around 9 p.m. (18:00 GMT) on Sunday.\nGrainy images published by the Turkish media showed the lioness walking through a grassy area. It was unclear where the animal came from, though some media reports suggested it had escaped from a nearby home. The Istanbul Chief Public Prosecutor's Office said it launched investigation focused on identifying its owner.\nIstanbul governor's office said in an online post, the location of the lion has been identified and the efforts to capture it were underway.\nAccording to park authority, the search is still underway, with specialist veterinarians also involved in the operation to capture the animal.\nOutcry among activists\nLast year, a lion that escaped from a \"theme park\" near the southern city of Antalya was shot dead after attacking a man. It remains unclear where the Istanbul lion escaped from but it sparked an outrage among activists and advocates.\nNorthern Forests Defense, an independent ecology advocacy movement, called for \"the individuals who illegally held this lion captive to be identified and brought to justice.\"\n\"Removing wild animals from their natural habitats and keeping them in captivity in villas is a crime,\" it said on X.\nWildlife conservationist Gokce Coskun said on X that \"there are thousands of people keeping lions illegally in Turkey\" and \"licensed 'lion parks' have sprung up everywhere.\"\nDoganay Tolunay, an ecology professor at Istanbul University, said questions must be raised about how a globally threatened species was brought into Turkey, how it passed through customs and why those keeping it have not been identified.\nAlthough keeping wild animals as pets are forbidden in Turkey, it has become a hub for the illegal trade in wild animals as traffickers exploit its air links to Africa and Asia.\nIn December 2024, a young gorilla was rescued after being discovered at Istanbul Airport on a flight from Nigeria to Thailand.",
+ "new_text": "A large-scale search operation for a suspected lion sighted in woodland north of Istanbul has ended, with the animal in question found to be neither a lion nor any other type of big cat, according to the Istanbul governor's office.\nThe governor's office first issued a statement on Sunday evening saying that security cameras had captured footage of a lion on the loose in Sariyer, north of Istanbul's European side. It said \"the lion has been located and the efforts to capture it were underway.\"\nThe parks authority also said in an online statement that police officers in the area had spotted \"an animal resembling a lion\" on surveillance cameras.\nTurkish media published grainy images purportedly showing a lioness walking through a grassy area. Some media reports suggested it had escaped from a nearby home.\nThe Istanbul Chief Public Prosecutor's Office also issued a statement saying it had launched an investigation focused on identifying the lion's owner.\nAfter a day of searching, however, the Istanbul governor's office said \"no concrete evidence indicating ‌the presence of a lion was found.\"\nIt said based on new footage, \"it has been determined that the animal in the footage is neither a lion nor any other species of big cat.\"\nThe governor's office did not provide further information about what the animal seen in the footage was.\nOutcry among activists\nThe earlier reports about a lion on the loose had sparked an outrage among activists.\nNorthern Forests Defense, an independent ecology advocacy movement, called for \"the individuals who illegally held this lion captive to be identified and brought to justice.\"\n\"Removing wild animals from their natural habitats and keeping them in captivity in villas is a crime,\" the organization said on X.\nWildlife conservationist Gokce Coskun said on X that \"there are thousands of people keeping lions illegally in Turkey\" and \"licensed 'lion parks' have sprung up everywhere.\"\nLast year, a lion that escaped from a \"theme park\" near the southern city of Antalya was shot dead after attacking a man.\nDoganay Tolunay, an ecology professor at Istanbul University, said questions must be asked about how a globally threatened species was brought into Turkey, how it passed through customs and why those keeping it have not been identified.\nAlthough keeping wild animals as pets is forbidden in Turkey, the country has become a hub for the illegal wild animal trade as traffickers exploit its air links to Africa and Asia.\nIn December 2024, a young gorilla was rescued after being discovered in a crate at Istanbul Airport.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Turkish security forces and wildlife authorities were searching woods"
+    ],
+    [
+     "ins",
+     "A large-scale search operation for a suspected lion sighted"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "ins",
+     "woodland"
+    ],
+    [
+     "eq",
+     "north of Istanbul"
+    ],
+    [
+     "del",
+     "on Monday for an"
+    ],
+    [
+     "ins",
+     "has ended, with the"
+    ],
+    [
+     "eq",
+     "animal"
+    ],
+    [
+     "del",
+     "believed"
+    ],
+    [
+     "ins",
+     "in question found"
+    ],
+    [
+     "eq",
+     "to be"
+    ],
+    [
+     "ins",
+     "neither"
+    ],
+    [
+     "eq",
+     "a lion"
+    ],
+    [
+     "ins",
+     "nor any other type of big cat, according to the Istanbul governor's office. The governor's office first issued a statement on Sunday evening saying"
+    ],
+    [
+     "eq",
+     "that"
+    ],
+    [
+     "del",
+     "was reportedly roaming free,"
+    ],
+    [
+     "ins",
+     "security cameras had captured footage of a lion on"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "national"
+    ],
+    [
+     "ins",
+     "loose in Sariyer, north of Istanbul's European side. It said \"the lion has been located and the efforts to capture it were underway.\" The"
+    ],
+    [
+     "eq",
+     "parks authority"
+    ],
+    [
+     "del",
+     "said. In"
+    ],
+    [
+     "ins",
+     "also said in"
+    ],
+    [
+     "eq",
+     "an online"
+    ],
+    [
+     "del",
+     "statement, the parks authority said"
+    ],
+    [
+     "ins",
+     "statement that"
+    ],
+    [
+     "eq",
+     "police officers in the"
+    ],
+    [
+     "del",
+     "Zekeriyakoy area, north of Istanbul's European side, reported spotting"
+    ],
+    [
+     "ins",
+     "area had spotted"
+    ],
+    [
+     "eq",
+     "\"an animal resembling a lion\" on surveillance"
+    ],
+    [
+     "del",
+     "cameras at around 9 p.m. (18:00 GMT) on Sunday. Grainy images published by the"
+    ],
+    [
+     "ins",
+     "cameras."
+    ],
+    [
+     "eq",
+     "Turkish media"
+    ],
+    [
+     "del",
+     "showed the"
+    ],
+    [
+     "ins",
+     "published grainy images purportedly showing a"
+    ],
+    [
+     "eq",
+     "lioness walking through a grassy area."
+    ],
+    [
+     "del",
+     "It was unclear where the animal came from, though some"
+    ],
+    [
+     "ins",
+     "Some"
+    ],
+    [
+     "eq",
+     "media reports suggested it had escaped from a nearby home. The Istanbul Chief Public Prosecutor's Office"
+    ],
+    [
+     "del",
+     "said"
+    ],
+    [
+     "ins",
+     "also issued a statement saying"
+    ],
+    [
+     "eq",
+     "it"
+    ],
+    [
+     "ins",
+     "had"
+    ],
+    [
+     "eq",
+     "launched"
+    ],
+    [
+     "ins",
+     "an"
+    ],
+    [
+     "eq",
+     "investigation focused on identifying"
+    ],
+    [
+     "del",
+     "its"
+    ],
+    [
+     "ins",
+     "the lion's"
+    ],
+    [
+     "eq",
+     "owner."
+    ],
+    [
+     "ins",
+     "After a day of searching, however, the"
+    ],
+    [
+     "eq",
+     "Istanbul governor's office said"
+    ],
+    [
+     "del",
+     "in an online post, the location"
+    ],
+    [
+     "ins",
+     "\"no concrete evidence indicating ‌the presence"
+    ],
+    [
+     "eq",
+     "of"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "ins",
+     "a"
+    ],
+    [
+     "eq",
+     "lion"
+    ],
+    [
+     "ins",
+     "was found.\" It said based on new footage, \"it"
+    ],
+    [
+     "eq",
+     "has been"
+    ],
+    [
+     "del",
+     "identified and"
+    ],
+    [
+     "ins",
+     "determined that"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "efforts to capture it were underway. According to park authority, the search is still underway, with specialist veterinarians also involved"
+    ],
+    [
+     "ins",
+     "animal"
+    ],
+    [
+     "eq",
+     "in the"
+    ],
+    [
+     "del",
+     "operation to capture"
+    ],
+    [
+     "ins",
+     "footage is neither a lion nor any other species of big cat.\" The governor's office did not provide further information about what"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "animal."
+    ],
+    [
+     "ins",
+     "animal seen in the footage was."
+    ],
+    [
+     "eq",
+     "Outcry among activists"
+    ],
+    [
+     "del",
+     "Last year,"
+    ],
+    [
+     "ins",
+     "The earlier reports about"
+    ],
+    [
+     "eq",
+     "a lion"
+    ],
+    [
+     "del",
+     "that escaped from a \"theme park\" near"
+    ],
+    [
+     "ins",
+     "on"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "southern city of Antalya was shot dead after attacking a man. It remains unclear where the Istanbul lion escaped from but it"
+    ],
+    [
+     "ins",
+     "loose had"
+    ],
+    [
+     "eq",
+     "sparked an outrage among"
+    ],
+    [
+     "del",
+     "activists and advocates."
+    ],
+    [
+     "ins",
+     "activists."
+    ],
+    [
+     "eq",
+     "Northern Forests Defense, an independent ecology advocacy movement, called for \"the individuals"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "natural habitats and keeping them in captivity in villas is a crime,\""
+    ],
+    [
+     "del",
+     "it"
+    ],
+    [
+     "ins",
+     "the organization"
+    ],
+    [
+     "eq",
+     "said on X. Wildlife conservationist Gokce Coskun said on X that \"there"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "lions illegally in Turkey\" and \"licensed 'lion parks' have sprung up everywhere.\""
+    ],
+    [
+     "ins",
+     "Last year, a lion that escaped from a \"theme park\" near the southern city of Antalya was shot dead after attacking a man."
+    ],
+    [
+     "eq",
+     "Doganay Tolunay, an ecology professor at Istanbul University, said questions must be"
+    ],
+    [
+     "del",
+     "raised"
+    ],
+    [
+     "ins",
+     "asked"
+    ],
+    [
+     "eq",
+     "about how a globally threatened species was brought into Turkey, how it"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "keeping it have not been identified. Although keeping wild animals as pets"
+    ],
+    [
+     "del",
+     "are"
+    ],
+    [
+     "ins",
+     "is"
+    ],
+    [
+     "eq",
+     "forbidden in Turkey,"
+    ],
+    [
+     "del",
+     "it"
+    ],
+    [
+     "ins",
+     "the country"
+    ],
+    [
+     "eq",
+     "has become a hub for the illegal"
+    ],
+    [
+     "ins",
+     "wild animal"
+    ],
+    [
+     "eq",
+     "trade"
+    ],
+    [
+     "del",
+     "in wild animals"
+    ],
+    [
+     "eq",
+     "as traffickers exploit its air links to Africa and Asia. In December 2024, a young gorilla was rescued after being discovered"
+    ],
+    [
+     "ins",
+     "in a crate"
+    ],
+    [
+     "eq",
+     "at Istanbul"
+    ],
+    [
+     "del",
+     "Airport on a flight from Nigeria to Thailand."
+    ],
+    [
+     "ins",
+     "Airport."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.922,
+  "numbers_changed": [
+   "00",
+   "18",
+   "9"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 1.179,
+ "similarity": 0.8902,
+ "adjudicated_by": "rules"
+}

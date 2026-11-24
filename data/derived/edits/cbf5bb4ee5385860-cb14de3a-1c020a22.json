@@ -1,0 +1,52 @@
+{
+ "id": "cbf5bb4ee5385860-cb14de3a-1c020a22",
+ "url": "https://www.france24.com/en/ethiopia-tackling-period-poverty-and-stigma",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-24T17:20:27Z",
+ "date": "2026-11-24",
+ "old_title": "Ethiopia: Tackling period poverty and stigma",
+ "new_title": "Ethiopia: Tackling period poverty and stigma",
+ "old_text": "Video contentVideo\nEthiopia: Tackling period poverty and stigma\nIssued on: Modified:\nShare\nIn Ethiopia, entrepreneur Hanan Ahmed is tackling period poverty and the stigma surrounding menstruation. By producing affordable reusable sanitary pads and raising awareness in schools, she hopes to make menstrual health more accessible and help girls stay in class. Report by Awa Diouf & Guillaume Gougeon.",
+ "new_text": "Video content Video\nEthiopia: Tackling period poverty and stigma\nIssued on: Modified:\nShare\nIn Ethiopia, entrepreneur Hanan Ahmed is tackling period poverty and the stigma surrounding menstruation. By producing affordable reusable sanitary pads and raising awareness in schools, she hopes to make menstrual health more accessible and help girls stay in class. Report by Awa Diouf & Guillaume Gougeon.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Video"
+    ],
+    [
+     "del",
+     "contentVideo"
+    ],
+    [
+     "ins",
+     "content Video"
+    ],
+    [
+     "eq",
+     "Ethiopia: Tackling period poverty and stigma Issued on: Modified: Share In Ethiopia,"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0517,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "816c4f39e4043a50-96fbe428-33351f09",
+ "url": "https://www.france24.com/en/video/20261123-12-000-evacuated-from-don-toliver-concert-after-unknown-substance-sickens-fans",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-24T17:20:47Z",
+ "date": "2026-11-24",
+ "old_title": "12,000 evacuated from Don Toliver concert after unknown substance sickens fans",
+ "new_title": "12,000 evacuated from Don Toliver concert after unknown substance sickens fans",
+ "old_text": "Video contentVideo\n12,000 evacuated from Don Toliver concert after unknown substance sickens fans\nIssued on: Modified:\nShare\nMore than 12,000 fans were evacuated from a concert by American rapper Don Toliver and over 80 were treated by medics after an unknown irritant was released in the crowd, authorities in the English city of Manchester said Monday.",
+ "new_text": "Video content Video\n12,000 evacuated from Don Toliver concert after unknown substance sickens fans\nIssued on: Modified:\nShare\nMore than 12,000 fans were evacuated from a concert by American rapper Don Toliver and over 80 were treated by medics after an unknown irritant was released in the crowd, authorities in the English city of Manchester said Monday.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Video"
+    ],
+    [
+     "del",
+     "contentVideo"
+    ],
+    [
+     "ins",
+     "content Video"
+    ],
+    [
+     "eq",
+     "12,000 evacuated from Don Toliver concert after unknown substance sickens fans Issued"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0536,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

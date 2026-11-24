@@ -1,0 +1,104 @@
+{
+ "id": "53c4accc29198b6b-df5f4cba-1da865b1",
+ "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-24T17:20:25Z",
+ "date": "2026-11-24",
+ "old_title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+ "new_title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+ "old_text": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland\nA Russian cargo ship caught fire after a drone strike in international waters in the Gulf of Finland on Saturday and later drifted into the country's territorial waters, Finnish authorities said. Helsinki alerted NATO and imposed temporary restrictions in the area amid heightened tensions in the Baltic Sea.\nFinland's military detected a drone attack on Saturday morning on a Russian cargo ship in the eastern Baltic Sea that caused the vessel to catch fire, the Nordic country's authorities said.\nThe vessel, bound for Russian exclave Kaliningrad, was damaged west of Russia's Gogland island, caught fire and later drifted into Finnish territorial waters, Finland's Defence Forces said, corroborating an earlier account by Russian officials.\n\"It is likely that Ukraine... is behind (the attack),\" Finnish armed forces spokesperson Aki-Mauri Huhtinen told a press conference, adding it was not clear why the vessel had been targeted.\nThe vessel, Sparta II, is known to have links to Russia's armed forces, Finnish Border Guard Commander Ilja Iljin told Reuters.\n\"At the moment, there is no confirmed information about what cargo is on board, but it cannot be ruled out that there is military materiel on board,\" Iljin said.\nGulf of Finland coast guard commander Mikko Simola later told a press conference the vessel had anchored and its crew was evacuating.\nHours after the incident, Finland's defence ministry said a Russian helicopter was suspected of violating Finnish airspace.\n\"This alleged airspace violation may be linked to rescue or surveillance operations carried out by Finland following damage sustained by a cargo ship in the Gulf of Finland,\" a ministry statement quoted Defence Minister Antti Hakkanen as saying. The ministry added the helicopter could have penetrated up to 4.1 kilometres (2.5 miles) into Finnish territory.\nAirspace and maritime restrictions\nAccording to Finnish border guards dispatched to the scene the ship caught fire and began drifting towards Finnish waters after the strike.\n\"The situation currently poses no danger to other vessels,\" the border service said in a press release.\nFinland immediately informed NATO of the strike, the defence ministry said.\nTemporary restrictions have come into force in the airspace and maritime area of the eastern part of the Gulf.\n\"The war is spilling over into our neighbouring areas. Finnish authorities are handling the situation in the Gulf of Finland, where a drone strike has hit a Russian merchant vessel. Ukraine has the right to fight against the aggressor,\" Finnish Prime Minister Petteri Orpo said on X.\nThe Baltic Sea has become a potential flashpoint in the wake of Russia's 2022 invasion of Ukraine, with Western countries accusing Moscow of conducting a \"hybrid war\" in the strategic waterway.\nLying at the easternmost end of the Baltic along the coasts of Finland, Estonia and Russia, the Gulf of Finland is a key maritime passage for Russia, leading to the former capital, Saint Petersburg.\n(FRANCE 24 with AFP and Reuters)",
+ "new_text": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland\nA Russian cargo ship caught fire after a drone strike in international waters in the Gulf of Finland on Saturday and later drifted into the country's territorial waters, Finnish authorities said. Helsinki alerted NATO and imposed temporary restrictions in the area amid heightened tensions in the Baltic Sea.\nFinland's military detected a drone attack on Saturday morning on a Russian cargo ship in the eastern Baltic Sea that caused the vessel to catch fire, the Nordic country's authorities said.\nThe vessel, bound for Russian exclave Kaliningrad, was ‌damaged west of Russia's Gogland island, caught fire and later drifted into Finnish territorial waters, Finland's Defence Forces said, corroborating an earlier account by Russian officials.\n\"It is likely that Ukraine... is behind (the attack),\" Finnish armed forces spokesperson Aki-Mauri Huhtinen told a press conference, adding it was not clear why the vessel had been targeted.\nThe vessel, Sparta II, is known to have links to Russia's armed ‌forces, Finnish Border Guard Commander Ilja ‌Iljin told Reuters.\n\"At the moment, there is no confirmed information about what cargo is on board, but it cannot be ruled out that there is military materiel on board,\" Iljin said.\nGulf of Finland coast guard commander Mikko Simola later told a press conference the vessel had anchored and its crew was evacuating.\nHours after the incident, Finland's defence ministry said a Russian helicopter was suspected of violating Finnish airspace.\n\"This alleged airspace violation may be linked to rescue or surveillance operations carried out by Finland following damage sustained by a cargo ship in the Gulf of Finland,\" a ministry statement quoted Defence Minister Antti Hakkanen as saying. The ministry added the helicopter could have penetrated up to 4.1 kilometres (2.5 miles) into Finnish territory.\nAirspace and maritime restrictions\nAccording to Finnish border guards dispatched to the scene the ship caught fire and began drifting towards Finnish waters after the strike.\n\"The situation currently poses no danger to other vessels,\" the border service said in a press release.\nFinland immediately informed NATO of the strike, the defence ministry said.\nTemporary restrictions have come into force in the airspace and maritime area of the eastern part of the Gulf.\n\"The war is spilling over into our neighbouring areas. Finnish authorities are handling the situation in the Gulf of Finland, where a drone strike has hit a Russian merchant vessel. Ukraine has the right to fight against ‌the aggressor,\" Finnish Prime Minister Petteri Orpo said on X.\nThe Baltic Sea has become a potential flashpoint in the wake of Russia's 2022 invasion of Ukraine, with Western countries accusing Moscow of conducting a \"hybrid war\" in the strategic waterway.\nLying at the easternmost end of the Baltic along the coasts of Finland, Estonia and Russia, the Gulf of Finland is a key maritime passage for Russia, leading to the former capital, Saint Petersburg.\n(FRANCE 24 with AFP and Reuters)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Nordic country's authorities said. The vessel, bound for Russian exclave Kaliningrad, was"
+    ],
+    [
+     "del",
+     "damaged"
+    ],
+    [
+     "ins",
+     "‌damaged"
+    ],
+    [
+     "eq",
+     "west of Russia's Gogland island, caught fire and later drifted into Finnish"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "The vessel, Sparta II, is known to have links to Russia's armed"
+    ],
+    [
+     "del",
+     "forces,"
+    ],
+    [
+     "ins",
+     "‌forces,"
+    ],
+    [
+     "eq",
+     "Finnish Border Guard Commander Ilja"
+    ],
+    [
+     "del",
+     "Iljin"
+    ],
+    [
+     "ins",
+     "‌Iljin"
+    ],
+    [
+     "eq",
+     "told Reuters. \"At the moment, there is no confirmed information about what"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "hit a Russian merchant vessel. Ukraine has the right to fight against"
+    ],
+    [
+     "del",
+     "the"
+    ],
+    [
+     "ins",
+     "‌the"
+    ],
+    [
+     "eq",
+     "aggressor,\" Finnish Prime Minister Petteri Orpo said on X. The Baltic Sea"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0164,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

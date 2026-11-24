@@ -1,0 +1,52 @@
+{
+ "id": "1204031f81c58141-b5330de1-be8d8db4",
+ "url": "https://www.france24.com/en/russia-tests-nato-s-eastern-defences",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-24T17:20:21Z",
+ "date": "2026-11-24",
+ "old_title": "Russia tests NATO's eastern defences",
+ "new_title": "Russia tests NATO's eastern defences",
+ "old_text": "Video contentVideo\nRussia tests NATO's eastern defences\nIssued on:\nShare\nTwo Russian missiles and a suspected drone came down in Poland on Friday in what Prime Minister Donald Tusk said was likely an \"intentional provocation\" timed to coincide with European military exercises in the country for a possible postwar mission in Ukraine. Senior Lecturer in Conflict and Security at King's College in London, Domitilla Sagramoso, shares further insights.",
+ "new_text": "Video content Video\nRussia tests NATO's eastern defences\nIssued on:\nShare\nTwo Russian missiles and a suspected drone came down in Poland on Friday in what Prime Minister Donald Tusk said was likely an \"intentional provocation\" timed to coincide with European military exercises in the country for a possible postwar mission in Ukraine. Senior Lecturer in Conflict and Security at King's College in London, Domitilla Sagramoso, shares further insights.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Video"
+    ],
+    [
+     "del",
+     "contentVideo"
+    ],
+    [
+     "ins",
+     "content Video"
+    ],
+    [
+     "eq",
+     "Russia tests NATO's eastern defences Issued on: Share Two Russian missiles and"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0441,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

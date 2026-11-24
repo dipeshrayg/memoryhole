@@ -1,0 +1,52 @@
+{
+ "id": "889fd7628c888e2c-3f26326b-5132eaa3",
+ "url": "https://www.france24.com/en/israel-investigates-west-bank-fires",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-24T17:20:29Z",
+ "date": "2026-11-24",
+ "old_title": "Israel investigates West Bank fires",
+ "new_title": "Israel investigates West Bank fires",
+ "old_text": "Video contentVideo\nIsrael investigates West Bank fires\nIssued on: Modified:\nShare\nIsraeli authorities have opened an investigation after Palestinian vehicles and properties were vandalised and set on fire in four villages in the occupied West Bank, in attacks local activists say were carried out by Israeli settlers. Around eight vehicles were reportedly torched and racist slogans sprayed on walls, prompting Israeli soldiers and police to deploy to the area. The attacks come amid a surge in settler violence since the outbreak of the Gaza war in October 2023, with more than 1,100 Palestinians killed by Israeli soldiers or settlers in the West Bank since then, according to an AFP tally. They also follow recent sanctions announced by the UK and Australia against eight Israeli companies involved in settlement activity. France 24 correspondent Noga Tarnopolsky shares further details from Jerusalem.",
+ "new_text": "Video content Video\nIsrael investigates West Bank fires\nIssued on: Modified:\nShare\nIsraeli authorities have opened an investigation after Palestinian vehicles and properties were vandalised and set on fire in four villages in the occupied West Bank, in attacks local activists say were carried out by Israeli settlers. Around eight vehicles were reportedly torched and racist slogans sprayed on walls, prompting Israeli soldiers and police to deploy to the area. The attacks come amid a surge in settler violence since the outbreak of the Gaza war in October 2023, with more than 1,100 Palestinians killed by Israeli soldiers or settlers in the West Bank since then, according to an AFP tally. They also follow recent sanctions announced by the UK and Australia against eight Israeli companies involved in settlement activity. France 24 correspondent Noga Tarnopolsky shares further details from Jerusalem.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Video"
+    ],
+    [
+     "del",
+     "contentVideo"
+    ],
+    [
+     "ins",
+     "content Video"
+    ],
+    [
+     "eq",
+     "Israel investigates West Bank fires Issued on: Modified: Share Israeli authorities have"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0216,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

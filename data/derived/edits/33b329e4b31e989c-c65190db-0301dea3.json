@@ -1,0 +1,64 @@
+{
+ "id": "33b329e4b31e989c-c65190db-0301dea3",
+ "url": "https://www.france24.com/en/iran-s-courts-order-us-to-pay-290-billion-in-damages",
+ "domain": "www.france24.com",
+ "source": "France 24",
+ "country": "France",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-24T17:20:45Z",
+ "date": "2026-11-24",
+ "old_title": "Iran's courts order US to pay $290 billion in damages",
+ "new_title": "Iran's courts order US to pay $290 billion in damages",
+ "old_text": "Iran's courts order US to pay $290 billion in damages\nIranian courts have ordered the United States to pay $290 billion in damages for decades of US actions against the Islamic Republic, a judiciary official said Monday. He added that lawsuits have also been filed against Gulf Arab states accused of letting Washington use their territory to strike Iran.\nIranian courts have demanded that the United States pay $290 billion in damages, a judiciary official said on Monday.\n\"We have secured court rulings in domestic courts awarding $290 billion in damages against the Americans,\" said Hassan Abdolianpour, head of the judiciary's centre for lawyers, according to state television.\nHe also said that several lawsuits have been filed against the Gulf Arab nations for \"allowing their territory to be used by America to launch attacks against Iran\".\nRead moreGulf countries under fire after US hits Iran island\nAccording to state TV, the damages cover US actions going back decades.\nThe Middle East war began on February 28 when the United States and Israel launched a wave of strikes that killed Iran's supreme leader Ayatollah Ali Khamenei.\nIran responded by launching missiles and drones at countries across the region, saying it was targeting US-Israeli bases and assets in those countries.\nThe Islamabad memorandum of understanding signed in June between the US and Iran, which aimed to pave the way to a peace deal, included a clause that would see Washington and its regional partners drawing up a plan with at least $300 billion \"for the reconstruction and economic development\" of Iran.\nRead moreIran deal: Trump is back to square one, but the cards are now in Tehran's favor\nMoreover, Iran has been under crippling sanctions by the US for decades, mainly over its nuclear programme.\n(FRANCE 24 with AFP)",
+ "new_text": "Iran's courts order US to pay $290 billion in damages\nIranian courts have ordered the United States to pay $290 billion in damages for decades of US actions against the Islamic Republic, a judiciary official said Monday. He added that lawsuits have also been filed against Gulf Arab states accused of letting Washington use their territory to strike Iran.\nIranian courts have demanded that the United States pay $290 billion in damages, a judiciary official said on Monday.\n\"We have secured court rulings in domestic courts awarding $290 billion in damages against the Americans,\" said Hassan Abdolianpour, head of the judiciary's centre for lawyers, according to state television.\nHe also said that several lawsuits have been filed against the Gulf Arab nations for \"allowing their territory to be used by America to launch attacks against Iran\".\nRead moreGulf countries under fire after US hits Iran island\nAccording to state TV, the damages cover US actions going back decades.\nThe Trump administration issued new Iran-related sanctions ‌targeting dozens ‌of people and entities, according to a ‌notice posted Monday ‌on the US Department of Treasury website.\nThe Middle East war began on February 28 when the United States and Israel launched a wave of strikes that killed Iran's supreme leader Ayatollah Ali Khamenei.\nIran responded by launching missiles and drones at countries across the region, saying it was targeting US-Israeli bases and assets in those countries.\nThe Islamabad memorandum of understanding signed in June between the US and Iran, which aimed to pave the way to a peace deal, included a clause that would see Washington and its regional partners drawing up a plan with at least $300 billion \"for the reconstruction and economic development\" of Iran.\nRead moreIran deal: Trump is back to square one, but the cards are now in Tehran's favor\nIran has been under crippling sanctions by the US for decades, mainly over its nuclear programme.\n(FRANCE 24 with AFP)",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "to state TV, the damages cover US actions going back decades. The"
+    ],
+    [
+     "ins",
+     "Trump administration issued new Iran-related sanctions ‌targeting dozens ‌of people and entities, according to a ‌notice posted Monday ‌on the US Department of Treasury website. The"
+    ],
+    [
+     "eq",
+     "Middle East war began on February 28 when the United States and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "back to square one, but the cards are now in Tehran's favor"
+    ],
+    [
+     "del",
+     "Moreover,"
+    ],
+    [
+     "eq",
+     "Iran has been under crippling sanctions by the US for decades, mainly over its nuclear programme. (FRANCE 24 with AFP)"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0909,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9811,
+ "adjudicated_by": "rules"
+}

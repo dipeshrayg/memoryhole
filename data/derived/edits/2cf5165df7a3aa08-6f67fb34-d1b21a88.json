@@ -1,0 +1,112 @@
+{
+ "id": "2cf5165df7a3aa08-6f67fb34-d1b21a88",
+ "url": "https://www.aljazeera.com/sports/2026/11/22/jaylen-harrell-car-accident-nfl-tennessee-titans-american-football?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-24T17:18:51Z",
+ "date": "2026-11-24",
+ "old_title": "NFL's Jaylen Harrell hospitalised and investigated for assault in car crash",
+ "new_title": "NFL's Jaylen Harrell hospitalised and investigated for assault in car crash",
+ "old_text": "Tennessee Titans defensive end Jaylen Harrell has been hospitalised in Florida after being involved as a passenger in a rideshare car in what the team have called a \"serious\" accident.\nThe Tampa Police Department said in a preliminary report that Harrell was riding about 8:45am (13:45 GMT) on Friday in the back seat when \"he reportedly assaulted the driver while the vehicle was in motion.\"\nThe driver of the Kia Sorento then swerved, struck a Toyota Highlander and collided with a utility pole, the police report said.\nPolice investigation under way\nHarrell, 24, was thrown from the backseat, hit the windshield and lost consciousness, according to the police report.\nHarrell was hospitalised with serious injuries while the rideshare driver, identified as a man in his mid-30s, sustained \"minor injuries\" and was treated at the scene, according to police. The driver of the Highlander was not injured, the police said.\nDetectives are working through the timeline of events in investigating the crash, according to the preliminary report.\nThe Titans issued a statement on Saturday but did not disclose Harrell's condition or the injuries he had suffered nor did they mention the assault accusation.\nHarrell has not played this season after tearing an ACL in August during the preseason and being placed on the injured reserve list.\n\"We have been in constant communication with Jaylen's family and are still working to gather more information,\" the team said in its statement.\n\"At this time, Jaylen remains in the hospital and continues to receive care. We ask that Jaylen and his family's privacy be respected at this time. We will provide an update when appropriate.\"\nThe accident occurred in Tampa, Harrell's hometown.\nThe Titans selected the University of Michigan alumnus in the seventh round of the 2024 NFL Draft. He has appeared in 34 games (two starts) and has 38 tackles, seven tackles for a loss and 4.5 sacks.",
+ "new_text": "Tennessee Titans defensive end Jaylen ‌Harrell has been hospitalised in Florida after being involved as a passenger in a rideshare car in what the team have called a \"serious\" accident.\nThe Tampa Police Department said in a preliminary report that Harrell was riding about 8:45am (13:45 GMT) on Friday in the back seat when \"he reportedly assaulted the driver while the vehicle was in motion.\"\nThe driver of the Kia Sorento then swerved, struck a Toyota Highlander and collided with a utility pole, the police report said.\nPolice investigation under way\nHarrell, 24, was thrown from the backseat, hit the windshield and lost consciousness, according ‌to the police report.\nHarrell was hospitalised with serious injuries while the rideshare driver, identified as a man in his mid-30s, sustained \"minor injuries\" and was treated at the scene, according to police. The driver of the Highlander was not injured, the police said.\nDetectives are working through the timeline of events in investigating the crash, according to the preliminary report.\nThe Titans issued a statement on Saturday but did not disclose Harrell's condition or the injuries he had suffered nor did they mention the assault accusation.\nHarrell has not played this season after tearing an ACL in August during the preseason and being placed on the injured reserve list.\n\"We have been in constant communication with Jaylen's family and are still working to gather more information,\" the team said in its statement.\n\"At this time, Jaylen remains in the hospital and continues to receive care. We ask that Jaylen and his family's privacy be respected ‌at this time. We will provide an update when appropriate.\"\nThe accident occurred in Tampa, Harrell's hometown.\nThe Titans selected the University of Michigan alumnus in the ‌seventh ‌round of the 2024 NFL Draft. He has appeared in 34 games (two starts) and has 38 tackles, seven tackles for a loss and 4.5 sacks.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Tennessee Titans defensive end Jaylen"
+    ],
+    [
+     "del",
+     "Harrell"
+    ],
+    [
+     "ins",
+     "‌Harrell"
+    ],
+    [
+     "eq",
+     "has been hospitalised in Florida after being involved as a passenger in"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "was thrown from the backseat, hit the windshield and lost consciousness, according"
+    ],
+    [
+     "del",
+     "to"
+    ],
+    [
+     "ins",
+     "‌to"
+    ],
+    [
+     "eq",
+     "the police report. Harrell was hospitalised with serious injuries while the rideshare"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "receive care. We ask that Jaylen and his family's privacy be respected"
+    ],
+    [
+     "del",
+     "at"
+    ],
+    [
+     "ins",
+     "‌at"
+    ],
+    [
+     "eq",
+     "this time. We will provide an update when appropriate.\" The accident occurred"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Harrell's hometown. The Titans selected the University of Michigan alumnus in the"
+    ],
+    [
+     "del",
+     "seventh round"
+    ],
+    [
+     "ins",
+     "‌seventh ‌round"
+    ],
+    [
+     "eq",
+     "of the 2024 NFL Draft. He has appeared in 34 games (two"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0317,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,156 @@
+{
+ "id": "3db80044e3738c70-f2229106-aa43b73c",
+ "url": "https://www.independent.co.uk/bulletin/news/melania-trump-white-house-christmas-tree-b3090143.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-24T17:22:20Z",
+ "date": "2026-11-24",
+ "old_title": "Melania Trump receives White House Christmas tree",
+ "new_title": "Melania Trump receives White House Christmas tree",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nMelania Trump receives 18ft Christmas tree at White House ahead of decor reveal\n- First Lady Melania Trump accepted delivery of the 2026 White House Christmas tree on Monday.\n- She received the tree, an 18-foot white fir from Silent Night Evergreens in Wisconsin, on the North Drive of the White House.\n- Melania is due to join military spouses at Joint Base Andrews to make care packages later on, with Usha Vance set to join her.\n- The first lady previewed her annual White House holiday decorations in a Fox News interview.\n- When co-host Brian Kilmeade joked about adding more gold to match recent changes in the executive mansion, Melania flatly replied, \"Uh, not really,\" highlighting a contrast in their design preferences.\nMore bulletins",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nMelania Trump receives 18ft Christmas tree at White House ahead of decor reveal\n- First Lady Melania Trump accepted delivery of the 2026 White House Christmas tree on Monday ahead of her decor reveal.\n- She received the tree, an 18-foot white fir from Silent Night Evergreens in Wisconsin, on the North Drive of the White House.\n- The first lady previewed her annual White House holiday decorations, set to be unveiled later this month, in a Fox News interview.\n- Host Brian Kilmeade joked, \"This year will be more gold,\" referring to the president's recent redecoration of the Oval Office.\n- Melania flatly replied, \"Uh, not really,\" highlighting a contrast in her and her husband's design preferences.\nMore bulletins",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Melania Trump accepted delivery of the 2026 White House Christmas tree on"
+    ],
+    [
+     "del",
+     "Monday."
+    ],
+    [
+     "ins",
+     "Monday ahead of her decor reveal."
+    ],
+    [
+     "eq",
+     "- She received the tree, an 18-foot white fir from Silent Night Evergreens in Wisconsin, on the North Drive of the White House. -"
+    ],
+    [
+     "del",
+     "Melania is due to join military spouses at Joint Base Andrews to make care packages later on, with Usha Vance set to join her. -"
+    ],
+    [
+     "eq",
+     "The first lady previewed her annual White House holiday"
+    ],
+    [
+     "del",
+     "decorations"
+    ],
+    [
+     "ins",
+     "decorations, set to be unveiled later this month,"
+    ],
+    [
+     "eq",
+     "in a Fox News interview. -"
+    ],
+    [
+     "del",
+     "When co-host"
+    ],
+    [
+     "ins",
+     "Host"
+    ],
+    [
+     "eq",
+     "Brian Kilmeade"
+    ],
+    [
+     "del",
+     "joked about adding"
+    ],
+    [
+     "ins",
+     "joked, \"This year will be"
+    ],
+    [
+     "eq",
+     "more"
+    ],
+    [
+     "del",
+     "gold"
+    ],
+    [
+     "ins",
+     "gold,\" referring"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "match"
+    ],
+    [
+     "ins",
+     "the president's"
+    ],
+    [
+     "eq",
+     "recent"
+    ],
+    [
+     "del",
+     "changes in"
+    ],
+    [
+     "ins",
+     "redecoration of"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "executive mansion,"
+    ],
+    [
+     "ins",
+     "Oval Office. -"
+    ],
+    [
+     "eq",
+     "Melania flatly replied, \"Uh, not really,\" highlighting a contrast in"
+    ],
+    [
+     "del",
+     "their"
+    ],
+    [
+     "ins",
+     "her and her husband's"
+    ],
+    [
+     "eq",
+     "design preferences. More bulletins"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4528,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.5,
+ "similarity": 0.9589,
+ "adjudicated_by": "rules"
+}
