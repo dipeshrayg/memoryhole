@@ -1,0 +1,68 @@
+{
+ "id": "b1df0e752930a84f-61cd4a92-bbcd9a23",
+ "url": "https://www.abc.net.au/news/2026-11-22/cricket-australia-not-picking-sides-cummins-sandpaper-feud/107414652",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-25T17:04:14Z",
+ "date": "2026-11-25",
+ "old_title": "CA says Cummins backing not a sign it is taking sides in sandpaper spat",
+ "new_title": "CA says Cummins backing not a sign it is taking sides in sandpaper spat",
+ "old_text": "Thu, 24 Sept, 11:00 pm, Final score, IAW 6/364, AAW 9/362\nCricket Australia insists it is not taking sides in sandpaper spat despite Pat Cummins backing\nIn short:\nCricket Australia insists its backing of Pat Cummins to remain Australia's cricket captain does not mean it does not believe the accounts of other players.\nCA boss Todd Greenberg said: \"I am not putting someone's version of events over somebody else's\".\nWhat's next?\nCummins is expected to train again at the SCG this week ahead of next month's Test series against New Zealand.",
+ "new_text": "Sat, 26 Sept, 11:00 pm, Final score, SAF 9/365, AUS 333\nCricket Australia insists it is not taking sides in sandpaper spat despite Pat Cummins backing\nIn short:\nCricket Australia insists its backing of Pat Cummins to remain Australia's cricket captain does not mean it does not believe the accounts of other players.\nCA boss Todd Greenberg said: \"I am not putting someone's version of events over somebody else's\".\nWhat's next?\nCummins is expected to train again at the SCG this week ahead of next month's Test series against New Zealand.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "Thu, 24"
+    ],
+    [
+     "ins",
+     "Sat, 26"
+    ],
+    [
+     "eq",
+     "Sept, 11:00 pm, Final score,"
+    ],
+    [
+     "del",
+     "IAW 6/364, AAW 9/362"
+    ],
+    [
+     "ins",
+     "SAF 9/365, AUS 333"
+    ],
+    [
+     "eq",
+     "Cricket Australia insists it is not taking sides in sandpaper spat despite"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1319,
+  "numbers_changed": [
+   "24",
+   "26",
+   "333",
+   "362",
+   "364",
+   "365",
+   "6"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9811,
+ "adjudicated_by": "rules"
+}

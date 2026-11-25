@@ -1,0 +1,52 @@
+{
+ "id": "faf7933ffa4d721c-40e6d58d-7d7aea2e",
+ "url": "https://www.independent.co.uk/sport/tennis/jannik-sinner-knee-surgery-return-australian-open-b3090564.html",
+ "domain": "www.independent.co.uk",
+ "source": "The Independent",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-25T17:05:19Z",
+ "date": "2026-11-25",
+ "old_title": "Jannik Sinner undergoes knee surgery leaving Australian Open participation in doubt",
+ "new_title": "Jannik Sinner undergoes knee surgery leaving Australian Open participation in doubt",
+ "old_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nJannik Sinner has undergone knee surgery and is now likely to miss the Australian Open in January.\nThe five-time grand slam champion has not played since winning Wimbledon in July and announced he would be ending his season in October.\nThe 25-year-old had planned to return in late December, ahead of the 2027 season, but it was decided that surgery was required to address the issue.\nAccording to reports in Italy, Sinner could be sidelined for up to three months after undergoing an operation on the iliotibial band (IT band) in his right leg, although he did not specify a timeline for his recovery when announcing the news.\nThe world No 2 posted on X on Tuesday: \"Over the past few months, together with my team we've tried everything to treat my injury without surgery.\n\"After some very encouraging progress early on, my knee unfortunately didn't respond as we'd all hoped, that's why today I underwent a minor surgery to improve the condition of my iliotibial band.\n\"I really miss being on court and will now begin my recovery process together with my team. Thank you for all your support. See you soon!\"\nMore follows",
+ "new_text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin today\nAlready a member? Log in\nJannik Sinner has undergone knee surgery and is now likely to miss the Australian Open in January.\nThe five-time grand slam champion has not played since winning Wimbledon in July and announced he would be ending his season in October.\nThe 25-year-old had planned to return in late December, ahead of the 2027 season, but it was decided that surgery was required to address the issue.\nAccording to reports in Italy, Sinner could be sidelined for up to three months after undergoing an operation on the iliotibial band (IT band) in his right leg, although he did not specify a timeline for his recovery when announcing the news.\nThe world No 2 posted on X on Tuesday: \"Over the past few months, together with my team we've tried everything to treat my injury without surgery.\n\"After some very encouraging progress early on, my knee unfortunately didn't respond as we'd all hoped, that's why today I underwent a minor surgery to improve the condition of my iliotibial band.\n\"I really miss being on court and will now begin my recovery process together with my team. Thank you for all your support. See you soon!\"\nItalian outlet Corriere dello Sport reported on Monday that Sinner had travelled to Turku, Finland to undergo surgery, with his team confirming that the operation was performed by Turku-based orthopaedic surgeon Lasse Lempainen.\nDespite only playing for half the season Sinner still racked up six titles and a 44-3 win-loss record, and finishes the year ranked second in the world. He successfully defended his Wimbledon title and won five consecutive Masters 1000 crowns, becoming just the second player and the youngest to complete the set of all nine Masters titles over the course of his career.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "with my team. Thank you for all your support. See you soon!\""
+    ],
+    [
+     "del",
+     "More follows"
+    ],
+    [
+     "ins",
+     "Italian outlet Corriere dello Sport reported on Monday that Sinner had travelled to Turku, Finland to undergo surgery, with his team confirming that the operation was performed by Turku-based orthopaedic surgeon Lasse Lempainen. Despite only playing for half the season Sinner still racked up six titles and a 44-3 win-loss record, and finishes the year ranked second in the world. He successfully defended his Wimbledon title and won five consecutive Masters 1000 crowns, becoming just the second player and the youngest to complete the set of all nine Masters titles over the course of his career."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.4298,
+  "numbers_changed": [
+   "1000",
+   "3",
+   "44"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

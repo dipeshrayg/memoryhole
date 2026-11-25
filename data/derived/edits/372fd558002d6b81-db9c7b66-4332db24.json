@@ -1,0 +1,64 @@
+{
+ "id": "372fd558002d6b81-db9c7b66-4332db24",
+ "url": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC Science",
+ "country": "United Kingdom",
+ "category": "science",
+ "lang": "en",
+ "detected_at": "2026-11-25T17:10:45Z",
+ "date": "2026-11-25",
+ "old_title": "Record 5,200 heat-linked deaths estimated in England this year",
+ "new_title": "Record 5,200 heat-linked deaths estimated in England this year",
+ "old_text": "- Published\nMore than 5,000 people suffered heat-associated deaths in England this summer, the UK Health Security Agency (UKHSA) has estimated - the highest number since records began in 2016.\nThe UK experienced its hottest summer on record in 2026, and the estimated 5,258 heat-linked deaths were twice the previous high of 2,985 in 2022.\nThe most deadly period of the year for heat-related deaths was between 21 and 28 June, when there were an estimated 2,401 heat-associated deaths. Temperatures peaked at 38C in that period.\nClimate change is expected to increase the length, frequency and intensity of extreme heat, the UKHSA has warned.\nThe UKHSA said summer 2026 was \"exceptional\", and that it recorded the highest annual number of heat episodes, which it defines as days when the average Central England Temperature (CET) is at least 20C.\nThere were seven heat episodes between May and August, adding up to a total of 41 days.\nA summer of persistent heat\nThe UK experienced widespread heatwaves as 2026 became the hottest summer on record, according to provisional data from the Met Office.\nA heatwave in May smashed the temperature record for that month by more than 2C, with a high of 35.1C recorded at Kew Gardens.\nA month later, June's heatwave set another monthly temperature record - 38.0C in Lingwood, Norfolk. The previous high was 35.6C set in 1957 and equalled during the infamous 1976 heatwave.\nBoth were caused by heat domes - stalled areas of high pressure that trap hot air over the region.\nAnother heatwave in mid-August saw temperatures climb as high as 38.2C at Hartpury College in Gloucestershire, making it the hottest day of the year.\nThe UK's hottest day on record was 19 July 2022, when temperatures hit 40.3C in Coningsby, Lincolnshire.\nA lack of rainfall this year also saw droughts declared in all of Wales and more than two-thirds of England, while wildfires caused devastation in some parts of the country.\nUKHSA said the findings \"underline the need for longer-term adaptation\" to a warming climate, and that adapting homes, neighbourhoods and health and care settings would be \"increasingly important\".\nDr Ross Thompson, principal environmental health scientist at UKHSA, said this summer's hot weather had a substantial impact on public health, \"particularly during the early heat episodes in May and June\".\nHe added that periods of extreme heat are expected to become \"longer, more frequent and more intense\" as the climate continues to warm.\nSpeaking in the Commons, Health Secretary Yvette Cooper said she wanted \"to offer the deepest condolences to all those who lost a loved one this summer\".\n\"The numbers are a stark reminder of the human impact of climate change, and that is why I have asked the NHS to now prepare for summer as seriously as we do for winter,\" she said.\nDuring a speech at the COP31 summit earlier this month, Prime Minister Andy Burnham spoke about the extreme weather experienced in the UK this summer, describing it as \"not normal\".",
+ "new_text": "- Published\nMore than 5,000 people suffered heat-associated deaths in England this summer, the UK Health Security Agency (UKHSA) has estimated - the highest number since records began in 2016.\nThe UK experienced its hottest summer on record in 2026, and the estimated 5,258 heat-linked deaths were almost twice the previous high of 2,985 in 2022.\nThe most deadly period of the year for heat-related deaths was between 21 and 28 June, when there were an estimated 2,401 heat-associated deaths. Temperatures peaked at 38C in that period.\nClimate change is expected to increase the length, frequency and intensity of extreme heat, the UKHSA has warned.\nThe UKHSA said summer 2026 was \"exceptional\", and that it recorded the highest annual number of heat episodes, which it defines as days when the average Central England Temperature (CET) is at least 20C.\nThere were seven heat episodes between May and August, adding up to a total of 41 days.\nA summer of persistent heat\nThe UK experienced widespread heatwaves as 2026 became the hottest summer on record, according to provisional data from the Met Office.\nA heatwave in May smashed the temperature record for that month by more than 2C, with a high of 35.1C recorded at Kew Gardens.\nA month later, June's heatwave set another monthly temperature record - 38.0C in Lingwood, Norfolk. The previous high was 35.6C set in 1957 and equalled during the infamous 1976 heatwave.\nBoth were caused by heat domes - stalled areas of high pressure that trap hot air over the region.\nAnother heatwave in mid-August saw temperatures climb as high as 38.2C at Hartpury College in Gloucestershire, making it the hottest day of the year.\nThe UK's hottest day on record was 19 July 2022, when temperatures hit 40.3C in Coningsby, Lincolnshire.\nA lack of rainfall this year also saw droughts declared in all of Wales and more than two-thirds of England, while wildfires caused devastation in some parts of the country.\nUKHSA said the findings \"underline the need for longer-term adaptation\" to a warming climate, and that adapting homes, neighbourhoods and health and care settings would be \"increasingly important\".\nDr Ross Thompson, principal environmental health scientist at UKHSA, said this summer's hot weather had a substantial impact on public health, \"particularly during the early heat episodes in May and June\".\nHe added that periods of extreme heat are expected to become \"longer, more frequent and more intense\" as the climate continues to warm.\nSpeaking in the Commons, Health Secretary Yvette Cooper said she wanted \"to offer the deepest condolences to all those who lost a loved one this summer\".\n\"The numbers are a stark reminder of the human impact of climate change, and that is why I have asked the NHS to now prepare for summer as seriously as we do for winter,\" she said.\nDuring a speech at the COP31 summit earlier this month, Prime Minister Andy Burnham spoke about the extreme weather experienced in the UK this summer, describing it as \"not normal\".\nCorrection 25 November: This article originally described the estimated 2026 death toll as \"twice the previous high\" of 2022. This is not accurate and has been amended to instead refer to a significant rise.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "summer on record in 2026, and the estimated 5,258 heat-linked deaths were"
+    ],
+    [
+     "ins",
+     "almost"
+    ],
+    [
+     "eq",
+     "twice the previous high of 2,985 in 2022. The most deadly period"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "weather experienced in the UK this summer, describing it as \"not normal\"."
+    ],
+    [
+     "ins",
+     "Correction 25 November: This article originally described the estimated 2026 death toll as \"twice the previous high\" of 2022. This is not accurate and has been amended to instead refer to a significant rise."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0701,
+  "numbers_changed": [
+   "2022",
+   "2026",
+   "25"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "FACTUAL",
+ "score": 0.6,
+ "similarity": 0.9994,
+ "adjudicated_by": "rules"
+}

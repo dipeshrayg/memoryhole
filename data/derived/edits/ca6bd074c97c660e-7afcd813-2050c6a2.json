@@ -1,0 +1,479 @@
+{
+ "id": "ca6bd074c97c660e-7afcd813-2050c6a2",
+ "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-25T17:00:08Z",
+ "date": "2026-11-25",
+ "old_title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+ "new_title": "US attorney general dodges questions about Nvidia investigation",
+ "old_text": "- Published\nShares in Nvidia dipped on Tuesday as US politicans questioned President Donald Trump's role in the return of Jensen Huang as chief executive.\nHuang was handed back his job at the AI microchip maker on Monday less than two weeks after he was forced to resign following the revelations of extra marital affairs, one of which was with a suspected Chinese spy.\nTrump has said he played a big role in the 63-year-old's reinstatment, which has led to questions and backlash from US lawmakers.\nWhile Nvidia's stock market value surged on the annoucement of Huang's reappointment, some of the gains were reversed in volatile Tuesday trading.\nThe company's share price was down almost 8% on Tuesday, but remained well above the level it closed at on Friday, before Huang's shock return was revealed.\nHowever, Nvidia was not the only semiconductor chip company to experience share price declines on Tuesday, with rival AMD down more than 10%.\nBroadcom and Marvell Technology shares were also lower, suggesting that investors were continuing to weigh up concerns over potential regulation by newly-elected Democrats, as well as the central question as to whether the huge amounts being invested in AI will pay off.\nNvidia's share price for example, is down almost 30% over the past six months and had been on the decline before the scandal involving its co-founder emerged earlier this month.\nThe company's board reinstated Huang on Monday in a shock U-turn on its original position. Harvey Jones, chairman of Nvidia's board, said Huang's return was in the \"best interests of our stockholders, employees, partners and customers\".\nThe board said it had received input from senior levels of the US government and was confident that Huang's reinstatement posed no national security risk.\nTrump said he had spoken to the company's directors and convinced them to bring back Huang.\n\"They did ask for assurance on the national security threat,\" Trump told CNBC. \"And we gave them assurances at least with everything we know. And we know a lot.\"\nHowever, Huang is still set to appear before Congress next week, where the Nvidia boss will be questioned over his relationship with Alice Huang, alleged to be a spy for China, due to national security concerns.\nThe US Commerce Department announced it was preparing to blacklist Megaspeed, the Singapore-based Nvidia customer where Alice Huang (no relation) was chief executive. China has denied the spying allegations.",
+ "new_text": "- Published\nUS Attorney General Todd Blanche has backed Nvidia as a \"good corporate citizen\" while refusing to comment on whether the AI chipmaker was under federal investigation.\nBlanche said he had no information about newly reinstated CEO Jensen Huang's security clearance status, as lawmakers demand answers about US President Donald Trump's involvement in Huang's comeback.\nHuang was given his job back less than two weeks after being forced to resign over revelations of extramarital affairs, including one with an alleged Chinese spy.\nAsked several times on Tuesday whether the justice department or FBI had investigated Huang, Blanche responded: \"I don't know what you're talking about.\"\nHuang is still set to appear before Congress next week, where he will be questioned about national security concerns over his relationship with an alleged spy who previously ran Megaspeed, a Singapore-based corporate customer of Nvidia.\nTrump has said he would consider pardoning Huang for any potential criminal activity, though he does not think it will come to that.\n\"It's always an option, I guess, but I don't think it'll be necessary,\" Trump told the New York Post in an interview published on Tuesday.\nThe US commerce department has also announced it was preparing to blacklist the tech company Megaspeed, which has been suspected of helping divert advanced chips to China.\nThe commerce and justice departments said last week that they began investigating Megaspeed in 2024 \"for potential export control violations\".\nBut Blanche told reporters on Tuesday that the latter had \"hundreds, if not more\" export investigations occurring at any one time.\n\"So when you say the export investigation is still ongoing, I don't know what you're talking about,\" he said.\nAsked if he was satisfied Nvidia had been co-operative with inquiries into whether it or Huang knew about chips being diverted to China, Blanche said: \"I have no reason to stand up here and say Nvidia is anything but a good corporate citizen.\n\"Obviously, if Nvidia was the target or was subject to some criminal investigation or they were obstructing or thwarting our investigation, then that wouldn't be the message that the president is saying to the American people.\n\"It shouldn't be what my message would be either.\"\nWhile Nvidia's stock market value surged on the announcement of Huang's reappointment, some of the gains were reversed in volatile Tuesday trading.\nThe company's share price closed down nearly 6% - still well above where it ended last week. On Monday, Nvidia stock rocketed more than 31% following news of Huang's return.\nHuang reportedly apologised to Nvidia employees on Tuesday, the day after returning to the company as chief executive, saying he had made \"terrible mistakes\" and was now receiving daily 90-minute therapy sessions.\nThe company's board reinstated Huang on Monday in a shock U-turn. Harvey Jones, its chairman, said Huang's return was in the \"best interests of our stockholders, employees, partners and customers\".\nThe board said it had received input from senior levels of the US government and was confident that Huang's reinstatement posed no national security risk.\nOn Monday, Trump said he had spoken to the company's directors and convinced them to bring back Huang.\nHuang's reinstatement provoked bipartisan anger.\nRepublican Congressman Don Bacon said Nvidia should have \"ignored the administration's inexplicable desire to save Huang\".\nRepublican Senator Pete Ricketts said Huang's behaviour \"doesn't absolve Nvidia of answering for national security concerns and unaccounted-for chips\".\nDemocratic Congressman Robert Garcia, the incoming chairman of the House Oversight Committee, said Trump's \"direct involvement\" with Nvidia's decision \"raises serious national security and corruption questions\".\nDemocratic Senator Ruben Gallego said Congress needed to \"investigate what stock positions took place before the announcement\".",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "- Published"
+    ],
+    [
+     "del",
+     "Shares in"
+    ],
+    [
+     "ins",
+     "US Attorney General Todd Blanche has backed"
+    ],
+    [
+     "eq",
+     "Nvidia"
+    ],
+    [
+     "del",
+     "dipped"
+    ],
+    [
+     "ins",
+     "as a \"good corporate citizen\" while refusing to comment"
+    ],
+    [
+     "eq",
+     "on"
+    ],
+    [
+     "del",
+     "Tuesday"
+    ],
+    [
+     "ins",
+     "whether the AI chipmaker was under federal investigation. Blanche said he had no information about newly reinstated CEO Jensen Huang's security clearance status,"
+    ],
+    [
+     "eq",
+     "as"
+    ],
+    [
+     "ins",
+     "lawmakers demand answers about"
+    ],
+    [
+     "eq",
+     "US"
+    ],
+    [
+     "del",
+     "politicans questioned"
+    ],
+    [
+     "eq",
+     "President Donald Trump's"
+    ],
+    [
+     "del",
+     "role"
+    ],
+    [
+     "ins",
+     "involvement"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "del",
+     "the return of Jensen Huang as chief executive."
+    ],
+    [
+     "ins",
+     "Huang's comeback."
+    ],
+    [
+     "eq",
+     "Huang was"
+    ],
+    [
+     "del",
+     "handed back"
+    ],
+    [
+     "ins",
+     "given"
+    ],
+    [
+     "eq",
+     "his job"
+    ],
+    [
+     "del",
+     "at the AI microchip maker on Monday"
+    ],
+    [
+     "ins",
+     "back"
+    ],
+    [
+     "eq",
+     "less than two weeks after"
+    ],
+    [
+     "del",
+     "he was"
+    ],
+    [
+     "ins",
+     "being"
+    ],
+    [
+     "eq",
+     "forced to resign"
+    ],
+    [
+     "del",
+     "following the"
+    ],
+    [
+     "ins",
+     "over"
+    ],
+    [
+     "eq",
+     "revelations of"
+    ],
+    [
+     "del",
+     "extra marital"
+    ],
+    [
+     "ins",
+     "extramarital"
+    ],
+    [
+     "eq",
+     "affairs,"
+    ],
+    [
+     "ins",
+     "including"
+    ],
+    [
+     "eq",
+     "one"
+    ],
+    [
+     "del",
+     "of which was"
+    ],
+    [
+     "eq",
+     "with"
+    ],
+    [
+     "del",
+     "a suspected"
+    ],
+    [
+     "ins",
+     "an alleged"
+    ],
+    [
+     "eq",
+     "Chinese spy."
+    ],
+    [
+     "ins",
+     "Asked several times on Tuesday whether the justice department or FBI had investigated Huang, Blanche responded: \"I don't know what you're talking about.\" Huang is still set to appear before Congress next week, where he will be questioned about national security concerns over his relationship with an alleged spy who previously ran Megaspeed, a Singapore-based corporate customer of Nvidia."
+    ],
+    [
+     "eq",
+     "Trump has said he"
+    ],
+    [
+     "del",
+     "played a big role"
+    ],
+    [
+     "ins",
+     "would consider pardoning Huang for any potential criminal activity, though he does not think it will come to that. \"It's always an option, I guess, but I don't think it'll be necessary,\" Trump told the New York Post"
+    ],
+    [
+     "eq",
+     "in"
+    ],
+    [
+     "ins",
+     "an interview published on Tuesday. The US commerce department has also announced it was preparing to blacklist"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "63-year-old's reinstatment,"
+    ],
+    [
+     "ins",
+     "tech company Megaspeed,"
+    ],
+    [
+     "eq",
+     "which has"
+    ],
+    [
+     "del",
+     "led"
+    ],
+    [
+     "ins",
+     "been suspected of helping divert advanced chips"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "questions"
+    ],
+    [
+     "ins",
+     "China. The commerce"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "backlash from US lawmakers."
+    ],
+    [
+     "ins",
+     "justice departments said last week that they began investigating Megaspeed in 2024 \"for potential export control violations\". But Blanche told reporters on Tuesday that the latter had \"hundreds, if not more\" export investigations occurring at any one time. \"So when you say the export investigation is still ongoing, I don't know what you're talking about,\" he said. Asked if he was satisfied Nvidia had been co-operative with inquiries into whether it or Huang knew about chips being diverted to China, Blanche said: \"I have no reason to stand up here and say Nvidia is anything but a good corporate citizen. \"Obviously, if Nvidia was the target or was subject to some criminal investigation or they were obstructing or thwarting our investigation, then that wouldn't be the message that the president is saying to the American people. \"It shouldn't be what my message would be either.\""
+    ],
+    [
+     "eq",
+     "While Nvidia's stock market value surged on the"
+    ],
+    [
+     "del",
+     "annoucement"
+    ],
+    [
+     "ins",
+     "announcement"
+    ],
+    [
+     "eq",
+     "of Huang's reappointment, some of the gains were reversed in volatile Tuesday trading. The company's share price"
+    ],
+    [
+     "del",
+     "was"
+    ],
+    [
+     "ins",
+     "closed"
+    ],
+    [
+     "eq",
+     "down"
+    ],
+    [
+     "del",
+     "almost 8%"
+    ],
+    [
+     "ins",
+     "nearly 6% - still well above where it ended last week. On Monday, Nvidia stock rocketed more than 31% following news of Huang's return. Huang reportedly apologised to Nvidia employees"
+    ],
+    [
+     "eq",
+     "on Tuesday,"
+    ],
+    [
+     "del",
+     "but remained well above"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "level it closed at on Friday, before Huang's shock return"
+    ],
+    [
+     "ins",
+     "day after returning to the company as chief executive, saying he had made \"terrible mistakes\" and"
+    ],
+    [
+     "eq",
+     "was"
+    ],
+    [
+     "del",
+     "revealed. However, Nvidia was not the only semiconductor chip company to experience share price declines on Tuesday, with rival AMD down more than 10%. Broadcom and Marvell Technology shares were also lower, suggesting that investors were continuing to weigh up concerns over potential regulation by newly-elected Democrats, as well as the central question as to whether the huge amounts being invested in AI will pay off. Nvidia's share price for example, is down almost 30% over the past six months and had been on the decline before the scandal involving its co-founder emerged earlier this month."
+    ],
+    [
+     "ins",
+     "now receiving daily 90-minute therapy sessions."
+    ],
+    [
+     "eq",
+     "The company's board reinstated Huang on Monday in a shock"
+    ],
+    [
+     "del",
+     "U-turn on its original position."
+    ],
+    [
+     "ins",
+     "U-turn."
+    ],
+    [
+     "eq",
+     "Harvey Jones,"
+    ],
+    [
+     "del",
+     "chairman of Nvidia's board,"
+    ],
+    [
+     "ins",
+     "its chairman,"
+    ],
+    [
+     "eq",
+     "said Huang's return was in the \"best interests of our stockholders, employees,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "government and was confident that Huang's reinstatement posed no national security risk."
+    ],
+    [
+     "ins",
+     "On Monday,"
+    ],
+    [
+     "eq",
+     "Trump said he had spoken to the company's directors and convinced them to bring back Huang."
+    ],
+    [
+     "del",
+     "\"They did ask"
+    ],
+    [
+     "ins",
+     "Huang's reinstatement provoked bipartisan anger. Republican Congressman Don Bacon said Nvidia should have \"ignored the administration's inexplicable desire to save Huang\". Republican Senator Pete Ricketts said Huang's behaviour \"doesn't absolve Nvidia of answering"
+    ],
+    [
+     "eq",
+     "for"
+    ],
+    [
+     "del",
+     "assurance on the"
+    ],
+    [
+     "eq",
+     "national security"
+    ],
+    [
+     "del",
+     "threat,\" Trump told CNBC. \"And we gave them assurances at least"
+    ],
+    [
+     "ins",
+     "concerns and unaccounted-for chips\". Democratic Congressman Robert Garcia, the incoming chairman of the House Oversight Committee, said Trump's \"direct involvement\""
+    ],
+    [
+     "eq",
+     "with"
+    ],
+    [
+     "del",
+     "everything we know. And we know a lot.\" However, Huang is still set to appear before Congress next week, where the Nvidia boss will be questioned over his relationship with Alice Huang, alleged to be a spy for China, due to"
+    ],
+    [
+     "ins",
+     "Nvidia's decision \"raises serious"
+    ],
+    [
+     "eq",
+     "national security"
+    ],
+    [
+     "del",
+     "concerns. The US Commerce Department announced it was preparing"
+    ],
+    [
+     "ins",
+     "and corruption questions\". Democratic Senator Ruben Gallego said Congress needed"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "blacklist Megaspeed,"
+    ],
+    [
+     "ins",
+     "\"investigate what stock positions took place before"
+    ],
+    [
+     "eq",
+     "the"
+    ],
+    [
+     "del",
+     "Singapore-based Nvidia customer where Alice Huang (no relation) was chief executive. China has denied the spying allegations."
+    ],
+    [
+     "ins",
+     "announcement\"."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.7855,
+  "numbers_changed": [
+   "10",
+   "2024",
+   "30",
+   "31",
+   "6",
+   "63",
+   "8",
+   "90"
+  ],
+  "market_figures_changed": [
+   "10%",
+   "30%",
+   "31%",
+   "6%",
+   "8%"
+  ],
+  "entities_swapped": true,
+  "quotes_deleted": 2,
+  "blocks_added": 5,
+  "blocks_removed": 2,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 3.6,
+ "similarity": 0.5957,
+ "adjudicated_by": "rules"
+}

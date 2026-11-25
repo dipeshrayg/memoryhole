@@ -1,0 +1,120 @@
+{
+ "id": "c28bc7a635cd4739-8a0784e4-332e51af",
+ "url": "https://www.abc.net.au/news/2026-11-25/ukraine-gulf-of-finland-russian-ship-norway/107423526",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-25T17:04:27Z",
+ "date": "2026-11-25",
+ "old_title": "Ukraine confirms hit on Russian ship in Gulf of Finland, as escalation fears grow",
+ "new_title": "Ukraine confirms hit on Russian ship in Gulf of Finland amid escalation fears",
+ "old_text": "In short:\nUkraine has claimed responsibility for a drone strike on a Russian vessel in the Gulf of Finland.\nVolodymyr Zelenskyy said the operation had struck a legitimate military target.\nMeanwhile, Poland has accused Russia of deliberately violating its airspace and Britain's MI5 has warned UK defence companies supplying Ukraine they may be targeted for sabotage operations.\nUkrainian President Volodymyr Zelenskyy says his country was responsible for Saturday's drone strike on a Russian cargo ship in the Gulf of Finland, prompting Kyiv's strong ally Norway to urge caution.\nFinnish, Estonian and Russian vessels took part in a joint rescue operation to put out the fire. On Sunday, a Russian vessel towed the ship back into Russian waters, where it is now anchored in St Petersburg.\nThe strike came just days after Ukraine also struck another Russian vessel docked in Libya, and comes as nearby nations warn of a heightened risk of the conflict spilling over.\nMr Zelenskyy said the operation had struck a legitimate military target.\n\"We did everything right,\" the Ukrainian president told Bloomberg on Monday.\n\"Every vessel with a Russian flag, everything that carries weapons or any sanctioned cargo that can carry God knows what, it is a legitimate target for us in Russian territorial or neutral waters.\"\nThe Sparta II is a Russian-flagged cargo vessel owned by Oboronlogistika, a Russian shipping company providing logistics services for the Russian Defence Ministry, according to the company's website.\nMr Zelenskyy said the attack occurred in Russian territorial waters.\n\"We had all the rights for that and then some drift happened and surely there are questions,\" he said.\nNorwegian Defence Minister Tore Sandvik said on Tuesday there was an ongoing dialogue with Ukraine regarding \"a need for stability in our near areas\".\n\"All attacks would stop immediately if Russia stopped this war,\" Mr Sandvik said.\n\"That said, we are focused on the fact that Ukraine must do this [these actions] within the rules of international law. So we take this matter up with them.\"\nEscalation fears and sabotage warnings\nIncreased tensions between Russia and the west are also prompting fears that the Ukraine war could spill over into neighbouring territories.\nOn Monday, Poland accused Moscow of deliberately violating its airspace after a Russian surveillance drone briefly crossed the border.\n\"It's hard to imagine this being a coincidence, so we assume it was an intentional act,\" Polish Deputy Defence Minister Pawel Zalewski told private radio station RMF FM.\nOn the same day, the Kremlin accused Estonia, a NATO and European Union member state, of a range of hostile actions \"on the verge of triggering open war\", after Estonia announced the closure of their land border.\nThe UK's defence ministry and domestic spy agency MI5 also issued a fresh warning on Monday, warning that companies that provided direct aid to Ukraine's military faced were at increased risk of Russian sabotage.\n\"In recent months Russia has increased attempts to conduct sabotage against European defence-related facilities,\" the warning said.\n\"This activity is typically characterised by the use of proxy actors employing low-sophistication sabotage methodologies, such as arson.\"\nReuters",
+ "new_text": "In short:\nUkraine has claimed responsibility for a drone strike on a Russian vessel in the Gulf of Finland.\nVolodymyr Zelenskyy said the operation struck a legitimate military target.\nMeanwhile, Poland has accused Russia of deliberately violating its airspace and Britain's MI5 has warned UK defence companies supplying Ukraine they may be targeted for sabotage operations.\nUkrainian President Volodymyr Zelenskyy says his country was responsible for Saturday's drone strike on a Russian cargo ship in the Gulf of Finland, prompting Kyiv's strong ally Norway to urge caution.\nFinnish, Estonian and Russian vessels took part in a joint rescue operation to put out the fire. On Sunday, a Russian vessel towed the ship back into Russian waters, where it is now anchored in St Petersburg.\nThe strike was just days after Ukraine also struck another Russian vessel docked in Libya, and comes as nearby nations warn of a heightened risk of the conflict spilling over.\nMr Zelenskyy said the operation had struck a legitimate military target.\n\"We did everything right,\" the Ukrainian president told Bloomberg on Monday.\n\"Every vessel with a Russian flag, everything that carries weapons or any sanctioned cargo that can carry God knows what, it is a legitimate target for us in Russian territorial or neutral waters.\"\nThe Sparta II is a Russian-flagged cargo vessel owned by Oboronlogistika, a Russian shipping company providing logistics services for the Russian Defence Ministry, according to the company's website.\nMr Zelenskyy said the attack occurred in Russian territorial waters.\n\"We had all the rights for that and then some drift happened and surely there are questions,\" he said.\nNorwegian Defence Minister Tore Sandvik said on Tuesday there was an ongoing dialogue with Ukraine regarding \"a need for stability in our near areas\".\n\"All attacks would stop immediately if Russia stopped this war,\" Mr Sandvik said.\n\"That said, we are focused on the fact that Ukraine must do this [these actions] within the rules of international law. So we take this matter up with them.\"\nEscalation fears and sabotage warnings\nIncreased tensions between Russia and the west are also prompting fears that the Ukraine war could spill over into neighbouring territories.\nOn Monday, Poland accused Moscow of deliberately violating its airspace after a Russian surveillance drone briefly crossed the border.\n\"It's hard to imagine this being a coincidence, so we assume it was an intentional act,\" Polish Deputy Defence Minister Paweł Zalewski told private radio station RMF FM.\nOn the same day, the Kremlin accused Estonia, a NATO and European Union member state, of a range of hostile actions \"on the verge of triggering open war\", after Estonia announced the closure of their land border.\nThe UK's defence ministry and domestic spy agency MI5 also issued a fresh warning on Monday that providing direct aid to Ukraine's military faced were at increased risk of Russian sabotage.\n\"In recent months Russia has increased attempts to conduct sabotage against European defence-related facilities,\" the warning said.\n\"This activity is typically characterised by the use of proxy actors employing low-sophistication sabotage methodologies, such as arson.\"\nReuters",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Russian vessel in the Gulf of Finland. Volodymyr Zelenskyy said the operation"
+    ],
+    [
+     "del",
+     "had"
+    ],
+    [
+     "eq",
+     "struck a legitimate military target. Meanwhile, Poland has accused Russia of deliberately"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Russian waters, where it is now anchored in St Petersburg. The strike"
+    ],
+    [
+     "del",
+     "came"
+    ],
+    [
+     "ins",
+     "was"
+    ],
+    [
+     "eq",
+     "just days after Ukraine also struck another Russian vessel docked in Libya,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "so we assume it was an intentional act,\" Polish Deputy Defence Minister"
+    ],
+    [
+     "del",
+     "Pawel"
+    ],
+    [
+     "ins",
+     "Paweł"
+    ],
+    [
+     "eq",
+     "Zalewski told private radio station RMF FM. On the same day, the"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "ministry and domestic spy agency MI5 also issued a fresh warning on"
+    ],
+    [
+     "del",
+     "Monday, warning"
+    ],
+    [
+     "ins",
+     "Monday"
+    ],
+    [
+     "eq",
+     "that"
+    ],
+    [
+     "del",
+     "companies that provided"
+    ],
+    [
+     "ins",
+     "providing"
+    ],
+    [
+     "eq",
+     "direct aid to Ukraine's military faced were at increased risk of Russian"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0234,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": true
+ },
+ "severity": "NARRATIVE",
+ "score": 0.7,
+ "similarity": 0.9984,
+ "adjudicated_by": "rules"
+}
