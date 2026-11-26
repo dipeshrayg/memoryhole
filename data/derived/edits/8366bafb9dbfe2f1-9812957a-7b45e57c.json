@@ -1,0 +1,224 @@
+{
+ "id": "8366bafb9dbfe2f1-9812957a-7b45e57c",
+ "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+ "domain": "www.bbc.co.uk",
+ "source": "BBC News",
+ "country": "United Kingdom",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-26T16:39:42Z",
+ "date": "2026-11-26",
+ "old_title": "US stocks fall further as fears over AI intensify",
+ "new_title": "US stocks fall further as fears over AI intensify",
+ "old_text": "- Published\nBig technology firms connected to AI continued to see share prices fall on Wednesday, with stock in Nvidia and Anthropic dropping sharply in early trading.\nAll three main US stock market indices were down, with the tech-dominated Nasdaq shedding almost 4%.\nThe declines come amid concerns over the level and sustainability of AI investment which has rattled investors in recent weeks.\nShares in other major tech firms, including Amazon, Tesla and SpaceX, Micrsoft and Meta were also down.\nThe US government also announced a raft of new tariffs on countries and trading partners on Wednesday as part of President Donald Trump's flagship trade policy.\nThe value of big tech companies have sheltered the US economy from global economic shocks, including tariffs, but share prices in recent weeks have been volatile in response to the US midterm elections and other events in the AI industry.\nThe resignation and subsequent reinstatement of Nvidia boss Jensen Huang after revelations of his extra marital affairs has seen the market value of the world's premier AI chipmaker fluctuate wildly.\nGiven Nvidia's position as both supplier and financier of many other firms involved in the AI rollout, its rocky fortnight has had a wider impact.\nInvestors have taken fright at Democrat gains in the US midterm elections, with many having campaigned for tougher regulation of AI firms and even a moratorium on the development of new data centres.\nQuestions also remain about whether the huge sums being invested in AI will eventually pay off.\n\"It seems that these companies are trying to one-up each other on the amount of money that they're spending but you have to show that it's worth it, and that's where Wall Street is saying I don't know,\" said Todd Schoenberger, chief investment officer at CrossCheck Management.\nDespite concerns, investment in AI is expected to exceed $1 trillion in 2026, according to investment bank Goldman Sachs, which said the technology will remain the \"dominant driver of business investment growth\" next year.\nNvidia's share price was down 8% in early trading on Wednesday, extending Tuesday's slide as the boost from Huang's return eased.\nShares in Anthropic continued to trade below the $83 they debuted at last week, while Amazon shares fell by more than 5%.\nThe declines come ahead of the US stock market closing for Thanksgiving on Thursday before opening for a shortened session on Friday.",
+ "new_text": "- Published\nBig technology firms connected to AI continued to see share prices fall on Wednesday, with stock in Nvidia and Anthropic dropping sharply in early trading.\nThe surge in Nvidia shares after boss Jensen Huang was reinstated was temporary, and the general stock sell-off continued, with all three main US stock market indices down by closing time. The tech-dominated Nasdaq closed 0.6% lower.\nThe declines came amid concerns over the level and sustainability of AI investment, which has rattled investors in recent weeks.\nShares in other major tech firms, including Amazon, Tesla and Microsoft closed the day lower, though Meta and SpaceX were in positive territory by the end of the trading day.\nNvidia's share price was down 8% in early trading on Wednesday, extending Tuesday's slide as the boost from Huang's return eased. At close, it ended up 3.4% lower.\nThe resignation and subsequent reinstatement of Nvidia's CEO after revelations of his extramarital affairs has seen the market value of the world's premier AI chipmaker fluctuate wildly.\nGiven Nvidia's position as both supplier and financier of many other firms involved in the AI rollout, its rocky fortnight has had a wider impact.\nThe US government also announced a raft of new tariffs on countries and trading partners on Wednesday as part of President Donald Trump's flagship trade policy.\nThe value of big tech companies have sheltered the US economy from global economic shocks, including tariffs.\nBut share prices in recent weeks have been volatile in response to the US midterm elections and other events in the AI industry.\nInvestors have taken fright at Democrat gains in the US midterm elections, with many having campaigned for tougher regulation of AI firms and even a moratorium on the development of new data centres.\nQuestions also remain about whether the huge sums being invested in AI will eventually pay off.\n\"It seems that these companies are trying to one-up each other on the amount of money that they're spending, but you have to show that it's worth it, and that's where Wall Street is saying I don't know,\" said Todd Schoenberger, chief investment officer at CrossCheck Management.\nDespite concerns, investment in AI is expected to exceed $1 trillion in 2026, according to investment bank Goldman Sachs, which said the technology will remain the \"dominant driver of business investment growth\" next year.\nShares in Anthropic continued to trade below the $83 they debuted at last week, while Amazon shares fell by just over 3%.\nThe declines come ahead of the US stock market closing for Thanksgiving on Thursday before opening for a shortened session on Friday.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Wednesday, with stock in Nvidia and Anthropic dropping sharply in early trading."
+    ],
+    [
+     "del",
+     "All"
+    ],
+    [
+     "ins",
+     "The surge in Nvidia shares after boss Jensen Huang was reinstated was temporary, and the general stock sell-off continued, with all"
+    ],
+    [
+     "eq",
+     "three main US stock market indices"
+    ],
+    [
+     "del",
+     "were down, with the"
+    ],
+    [
+     "ins",
+     "down by closing time. The"
+    ],
+    [
+     "eq",
+     "tech-dominated Nasdaq"
+    ],
+    [
+     "del",
+     "shedding almost 4%."
+    ],
+    [
+     "ins",
+     "closed 0.6% lower."
+    ],
+    [
+     "eq",
+     "The declines"
+    ],
+    [
+     "del",
+     "come"
+    ],
+    [
+     "ins",
+     "came"
+    ],
+    [
+     "eq",
+     "amid concerns over the level and sustainability of AI"
+    ],
+    [
+     "del",
+     "investment"
+    ],
+    [
+     "ins",
+     "investment,"
+    ],
+    [
+     "eq",
+     "which has rattled investors in recent weeks. Shares in other major tech firms, including Amazon, Tesla and"
+    ],
+    [
+     "del",
+     "SpaceX, Micrsoft"
+    ],
+    [
+     "ins",
+     "Microsoft closed the day lower, though Meta"
+    ],
+    [
+     "eq",
+     "and"
+    ],
+    [
+     "del",
+     "Meta"
+    ],
+    [
+     "ins",
+     "SpaceX"
+    ],
+    [
+     "eq",
+     "were"
+    ],
+    [
+     "del",
+     "also down."
+    ],
+    [
+     "ins",
+     "in positive territory by the end of the trading day. Nvidia's share price was down 8% in early trading on Wednesday, extending Tuesday's slide as the boost from Huang's return eased. At close, it ended up 3.4% lower. The resignation and subsequent reinstatement of Nvidia's CEO after revelations of his extramarital affairs has seen the market value of the world's premier AI chipmaker fluctuate wildly. Given Nvidia's position as both supplier and financier of many other firms involved in the AI rollout, its rocky fortnight has had a wider impact."
+    ],
+    [
+     "eq",
+     "The US government also announced a raft of new tariffs on countries"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "tech companies have sheltered the US economy from global economic shocks, including"
+    ],
+    [
+     "del",
+     "tariffs, but"
+    ],
+    [
+     "ins",
+     "tariffs. But"
+    ],
+    [
+     "eq",
+     "share prices in recent weeks have been volatile in response to the US midterm elections and other events in the AI industry."
+    ],
+    [
+     "del",
+     "The resignation and subsequent reinstatement of Nvidia boss Jensen Huang after revelations of his extra marital affairs has seen the market value of the world's premier AI chipmaker fluctuate wildly. Given Nvidia's position as both supplier and financier of many other firms involved in the AI rollout, its rocky fortnight has had a wider impact."
+    ],
+    [
+     "eq",
+     "Investors have taken fright at Democrat gains in the US midterm elections,"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "trying to one-up each other on the amount of money that they're"
+    ],
+    [
+     "del",
+     "spending"
+    ],
+    [
+     "ins",
+     "spending,"
+    ],
+    [
+     "eq",
+     "but you have to show that it's worth it, and that's where"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "technology will remain the \"dominant driver of business investment growth\" next year."
+    ],
+    [
+     "del",
+     "Nvidia's share price was down 8% in early trading on Wednesday, extending Tuesday's slide as the boost from Huang's return eased."
+    ],
+    [
+     "eq",
+     "Shares in Anthropic continued to trade below the $83 they debuted at last week, while Amazon shares fell by"
+    ],
+    [
+     "del",
+     "more than 5%."
+    ],
+    [
+     "ins",
+     "just over 3%."
+    ],
+    [
+     "eq",
+     "The declines come ahead of the US stock market closing for Thanksgiving on Thursday before opening for a shortened session on Friday."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.5859,
+  "numbers_changed": [
+   "0.6",
+   "3",
+   "3.4",
+   "4",
+   "5"
+  ],
+  "market_figures_changed": [
+   "0.6%",
+   "3%",
+   "3.4%",
+   "4%",
+   "5%"
+  ],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 1,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.481,
+ "similarity": 0.8731,
+ "adjudicated_by": "rules"
+}

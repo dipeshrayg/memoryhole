@@ -1,0 +1,52 @@
+{
+ "id": "5b2725fe9fc1b28d-f48f4ac9-b1609e5f",
+ "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+ "domain": "arstechnica.com",
+ "source": "Ars Technica",
+ "country": "United States",
+ "category": "technology",
+ "lang": "en",
+ "detected_at": "2026-11-26T16:56:20Z",
+ "date": "2026-11-26",
+ "old_title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+ "new_title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+ "old_text": "In a powerful explosion that launched gray-white clouds over southeastern Iowa, the Army detonated 68 barrels containing 9,700 pounds (4.4 tons) of degraded lead azide on Wednesday at about 9 am CT, preventing a spontaneous unmitigated explosion of the crystallized, highly unstable compound.\nThe detonation occurred at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa, a town of less than 400 people. Residents within a 5-mile area of the facility were advised to evacuate, while people farther out were told to shelter in place, close windows and doors tightly, turn off fans, and set indoor air systems to recirculate.\nLocal Iowa outlet KWQC caught the plume from the two earth-covered containers, which were detonated simultaneously. A KWQZ journalist, at a reportedly safe distance from the blast, said on the live broadcast that he could see and then feel the shockwave roll through the crop field in which he was standing. He put a mask on for the rest of the broadcast.\nLead is a neurotoxin that does not break down in the environment and poses significant health risks, particularly to young children and pregnant people.\nIn the hours leading to the detonation, the Army released maps showing modeled drift and distribution of the plume. They indicated that airborne lead would travel around 100 miles to the southwest of the facility, while dust deposition would cover around 200 square miles in that direction. Researchers and government workers have already collected air and soil samples from the area, which will act as baseline readings for lead levels in the aftermath and fallout of the detonation.",
+ "new_text": "In a powerful explosion that launched gray-white clouds over southeastern Iowa, the Army detonated 68 barrels containing 9,700 pounds (4.4 tons) of degraded lead azide on Wednesday at about 9 am CT, preventing a spontaneous unmitigated explosion of the crystallized, highly unstable compound.\nThe detonation occurred at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa, a town of fewer than 400 people. Residents within a 5-mile area of the facility were advised to evacuate, while people farther out were told to shelter in place, close windows and doors tightly, turn off fans, and set indoor air systems to recirculate.\nLocal Iowa outlet KWQC caught the plume from the two earth-covered containers, which were detonated simultaneously. A KWQZ journalist, at a reportedly safe distance from the blast, said on the live broadcast that he could see and then feel the shockwave roll through the crop field in which he was standing. He put a mask on for the rest of the broadcast.\nLead is a neurotoxin that does not break down in the environment and poses significant health risks, particularly to young children and pregnant people.\nIn the hours leading to the detonation, the Army released maps showing modeled drift and distribution of the plume. They indicated that airborne lead would travel around 100 miles to the southwest of the facility, while dust deposition would cover around 200 square miles in that direction. Researchers and government workers have already collected air and soil samples from the area, which will act as baseline readings for lead levels in the aftermath and fallout of the detonation.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa, a town of"
+    ],
+    [
+     "del",
+     "less"
+    ],
+    [
+     "ins",
+     "fewer"
+    ],
+    [
+     "eq",
+     "than 400 people. Residents within a 5-mile area of the facility were"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0076,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}
