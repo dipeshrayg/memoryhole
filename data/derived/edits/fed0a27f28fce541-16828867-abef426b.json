@@ -1,0 +1,52 @@
+{
+ "id": "fed0a27f28fce541-16828867-abef426b",
+ "url": "https://www.abc.net.au/news/2026-11-26/landmark-dee-why-blacktown-projects-missing-unit-deposits-sydney/107431556",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-27T16:28:48Z",
+ "date": "2026-11-27",
+ "old_title": "Hundreds of Sydney apartment buyers see $24m in deposits vanish",
+ "new_title": "Hundreds of Sydney apartment buyers see $24m in deposits vanish",
+ "old_text": "In short:\nDeveloper Landmark is pursuing a Sydney law firm and solicitor over $24 million in missing unit deposits.\nHundreds of home buyers were hoping to move into newly-built complexes in Dee Why and Blacktown before their funds vanished.\nWhat's next?\nThe matter is due to return to the Supreme Court on November 30.\nMore than $24 million in deposits from prospective apartment buyers has gone missing as a Sydney developer acknowledges \"something has gone seriously wrong\".\nAlmost 300 home buyers were due to get the keys to their newly-built apartments in Dee Why and Blacktown between this week and early next year but have been left in limbo.\nDeveloper Landmark has launched legal action against Branston Neville Lawyers and solicitor Ken Neville to recoup the missing funds, after alleging only part of the deposits held in trust were transferred to Hendrix Legal as directed after the company changed firms.\nThe ABC has contacted Branston Neville Lawyers and Mr Neville.\nPurchasers in the Dee Why Casa Delmar complex were expecting to settle as early as Wednesday afternoon before receiving an email from Hendrix Legal that same morning that said their deposit had not come through.\nIn a statement, Landmark founder Arash Tavakoli said the situation was unprecedented.\n\"In over 25 years and thousands of homes delivered, this has never happened to us or our buyers,\"\nMr Tavakoli said.\nThe situation affects about 140 purchasers at the Casa Delmar development at Dee Why and about 145 purchasers at the Second Avenue development at Blacktown.\nApartment buyers told the ABC they were devastated.\n'Don't have anywhere to go'\nWainwright Legal principal lawyer Clare Wainwright represents 42 affected Dee Why purchasers and said she was receiving \"really limited information\" about the \"completely unprecedented\" situation.\n\"Our position is our purchasers have done all the right things and ultimately settlement should be called for,\" Ms Wright said.\n\"We are needing to know what is happening and what the vendor's intention is because we have clients who don't have anywhere to go.\"\nMeanwhile, the Law Society of NSW confirmed it had suspended the practising certificate of Mr Neville and appointed a manager to Branston Neville Lawyers to \"take control of the practice with immediate effect\".\nMr Tavakoli wrote directly to affected apartment buyers to acknowledge \"something has gone seriously wrong\" and affirm the company's commitment to completing their contracts.\nCalls to lift compensation cap\nIn the correspondence, he urged affected purchasers to write to NSW Premier Chris Minns and other MPs to encourage the Law Society of NSW to lift the cap on the compensation available through its Fidelity Fund.\nThe fund is administered by the Law Society to compensate people who lose money due to law firms acting improperly in relation to trust funds or property.\nIt is capped at $1 million to a single law practice unless the Law Society authorises a greater payment.\n\"We would welcome the Law Society Council using its discretion to lift that limit, and the government looking at whether that limit still protects buyers in today's market,\" Mr Tavakoli said in his media statement.\nThe matter is due to return to the Supreme Court on November 30.",
+ "new_text": "In short:\nDeveloper Landmark is pursuing a Sydney law firm and solicitor over $24 million in missing unit deposits.\nHundreds of home buyers were hoping to move into newly-built complexes in Dee Why and Blacktown before their funds vanished.\nWhat's next?\nThe matter is due to return to the Supreme Court on November 30.\nMore than $24 million in deposits from prospective apartment buyers has gone missing as a Sydney developer acknowledges \"something has gone seriously wrong\".\nAlmost 300 home buyers were due to get the keys to their newly built apartments in Dee Why and Blacktown between this week and early next year but have been left in limbo.\nDeveloper Landmark has launched legal action against Branston Neville Lawyers and solicitor Ken Neville to recoup the missing funds, after alleging only part of the deposits held in trust were transferred to Hendrix Legal as directed after the company changed firms.\nThe ABC has contacted Branston Neville Lawyers and Mr Neville.\nPurchasers in the Dee Why Casa Delmar complex were expecting to settle as early as Wednesday afternoon before receiving an email from Hendrix Legal that same morning that said their deposit had not come through.\nIn a statement, Landmark founder Arash Tavakoli said the situation was unprecedented.\n\"In over 25 years and thousands of homes delivered, this has never happened to us or our buyers,\"\nMr Tavakoli said.\nThe situation affects about 140 purchasers at the Casa Delmar development at Dee Why and about 145 purchasers at the Second Avenue development at Blacktown.\nApartment buyers told the ABC they were devastated.\n'Don't have anywhere to go'\nWainwright Legal principal lawyer Clare Wainwright represents 42 affected Dee Why purchasers and said she was receiving \"really limited information\" about the \"completely unprecedented\" situation.\n\"Our position is our purchasers have done all the right things and ultimately settlement should be called for,\" Ms Wright said.\n\"We are needing to know what is happening and what the vendor's intention is because we have clients who don't have anywhere to go.\"\nMeanwhile, the Law Society of NSW confirmed it had suspended the practising certificate of Mr Neville and appointed a manager to Branston Neville Lawyers to \"take control of the practice with immediate effect\".\nMr Tavakoli wrote directly to affected apartment buyers to acknowledge \"something has gone seriously wrong\" and affirm the company's commitment to completing their contracts.\nCalls to lift compensation cap\nIn the correspondence, he urged affected purchasers to write to NSW Premier Chris Minns and other MPs to encourage the Law Society of NSW to lift the cap on the compensation available through its Fidelity Fund.\nThe fund is administered by the Law Society to compensate people who lose money due to law firms acting improperly in relation to trust funds or property.\nIt is capped at $1 million to a single law practice unless the Law Society authorises a greater payment.\n\"We would welcome the Law Society Council using its discretion to lift that limit, and the government looking at whether that limit still protects buyers in today's market,\" Mr Tavakoli said in his media statement.\nThe matter is due to return to the Supreme Court on November 30.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "Almost 300 home buyers were due to get the keys to their"
+    ],
+    [
+     "del",
+     "newly-built"
+    ],
+    [
+     "ins",
+     "newly built"
+    ],
+    [
+     "eq",
+     "apartments in Dee Why and Blacktown between this week and early next"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": true,
+  "change_ratio": 0.0057,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "COSMETIC",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "67d17308d9ce1b11-958c71ec-a6c658ac",
+ "url": "https://news.un.org/feed/view/en/story/2026/11/1168859",
+ "domain": "news.un.org",
+ "source": "UN News",
+ "country": "International",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-27T16:30:35Z",
+ "date": "2026-11-27",
+ "old_title": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
+ "new_title": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
+ "old_text": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies\nAs winter sets in, the Security Council is holding a high stakes meeting Monday to discuss how Russian attacks on Ukraine's energy grid are leaving civilians without heat, power and water. It will also look at how strikes on Black Sea shipping threaten grain supplies to import-dependent countries far from the war's frontline.\nKey Facts\n- Russian strikes at the weekend killed at least 15 people in the Kyiv region, according to Ukrainian authorities, including in a residential building in Dymer\n- Ukraine says its naval drones sank a Russian corvette at Libya's Benghazi naval base on Sunday and hit a Russian cargo ship. The UN mission in Libya (UNSMIL) has called for an independent investigation\n- On Saturday, a Russian cargo ship bound for Kaliningrad was hit by a drone in the Gulf of Finland. Finland's defence forces said Ukraine was likely behind it\n- UN human rights monitors recorded 372 civilians killed in Ukraine in October, with civilian casualties up 95 per cent on a year earlier\n- Ships flagged to Greece, Liberia and Somalia were hit in the Black Sea in mid-November. Two sank, one of them carrying wheat",
+ "new_text": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies\nAs winter sets in, the Security Council held a high stakes meeting Monday to discuss how Russian attacks on Ukraine's energy grid are leaving civilians without heat, power and water. It will also look at how strikes on Black Sea shipping threaten grain supplies to import-dependent countries far from the war's frontline.\nKey Facts\n- Russian strikes at the weekend killed at least 15 people in the Kyiv region, according to Ukrainian authorities, including in a residential building in Dymer\n- Ukraine says its naval drones sank a Russian corvette at Libya's Benghazi naval base on Sunday and hit a Russian cargo ship. The UN mission in Libya (UNSMIL) has called for an independent investigation\n- On Saturday, a Russian cargo ship bound for Kaliningrad was hit by a drone in the Gulf of Finland. Finland's defence forces said Ukraine was likely behind it\n- UN human rights monitors recorded 372 civilians killed in Ukraine in October, with civilian casualties up 95 per cent on a year earlier\n- Ships flagged to Greece, Liberia and Somalia were hit in the Black Sea in mid-November. Two sank, one of them carrying wheat",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "lives and global food supplies As winter sets in, the Security Council"
+    ],
+    [
+     "del",
+     "is holding"
+    ],
+    [
+     "ins",
+     "held"
+    ],
+    [
+     "eq",
+     "a high stakes meeting Monday to discuss how Russian attacks on Ukraine's"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0142,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 0.9986,
+ "adjudicated_by": "rules"
+}

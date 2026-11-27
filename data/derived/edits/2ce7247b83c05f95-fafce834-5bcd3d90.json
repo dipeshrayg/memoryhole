@@ -1,0 +1,56 @@
+{
+ "id": "2ce7247b83c05f95-fafce834-5bcd3d90",
+ "url": "https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Business",
+ "country": "United Kingdom",
+ "category": "finance",
+ "lang": "en",
+ "detected_at": "2026-11-27T16:34:47Z",
+ "date": "2026-11-27",
+ "old_title": "Marlboro maker Altria considering takeover bid for Imperial Brands",
+ "new_title": "Marlboro maker Altria considering takeover bid for Imperial Brands",
+ "old_text": "Imperial Brands could become the next UK company to fall to a foreign takeover after its US rival Altria announced a possible bid for the tobacco firm.\nAltria, whose Philip Morris division makes Marlboro and Benson & Hedges cigarettes, told the City on Thursday that it was considering an offer. If made it was likely to be solely in cash, it said.\nAltria also said it was in discussions with a third party about its possible acquisition of part of Imperial Brands' business, suggesting the company could be broken up.\nUnder UK takeover rules, Altria has until 5pm on 24 December to either announce a firm intention to make an offer or walk away.\nThe announcement came after Bloomberg reported that Japan Tobacco was evaluating a potential acquisition of Imperial.\nAltria and Japan Tobacco are already partners in a joint venture, launched in 2022, to develop smoke-free products.\n\"A joint bid for Imperial from Altria (only present in North America) and Japan Tobacco would neatly swerve anti-trust objections to a possible takeover of Imperial Brands,\" the RBC Capital Markets analyst James Edwardes Jones said in a note.\nShares in Imperial Brands jumped by more than 14% to the top of the FTSE 100 leaderboard, hitting their highest level since 2017. That lifted the company's valuation to around £26bn.\nImperial makes a range of cigarettes including JPS, Davidoff, Gauloises and Lambert & Butler, Golden Virginia rolling tobacco, Rizla rolling papers and the Blu vaping brand.\nThe company said last week that it was cutting as many as 4,600 jobs in a cost-saving drive as it used more AI and other technologies.\nImperial is one of the founder members of the FTSE 100, which was launched in January 1984.\nSeveral other large UK companies have fallen to takeover offers this year, including the UK warehouse landlord Segro and the asset manager Schroders. The low-cost airline easyJet is in the process of being acquired.\nThe world's largest catering company, Compass Group, also announced plans this week to move its main stock market listing to the US. Compass, which traces its origins to feeding British workers during the second world war, said it was making the switch because it had become a predominantly North American business.",
+ "new_text": "Imperial Brands could become the next UK company to fall to a foreign takeover after its US rival Altria announced a possible bid for the tobacco firm.\nAltria, whose Philip Morris division makes Marlboro and Benson & Hedges cigarettes, told the City on Thursday that it was considering an offer. If made it was likely to be solely in cash, it said.\nAltria also said it was in discussions with a third party about its possible acquisition of part of Imperial Brands' business, suggesting the company could be broken up.\nUnder UK takeover rules, Altria has until 5pm on 24 December to either announce a firm intention to make an offer or walk away.\nImperial responded by saying it had not had any discussions \"or received any approach or proposal from Altria or the third party referenced\".\nIt added: \"The board is clear in its duty of aiming to maximise shareholder value and will consider any proposal, should one be made. Imperial Brands has strong confidence in its strategy and trading.\"\nThe announcement from Altria came after Bloomberg reported that Japan Tobacco was evaluating a potential acquisition of Imperial.\nAltria and Japan Tobacco are already partners in a joint venture, launched in 2022, to develop smoke-free products.\n\"A joint bid for Imperial from Altria (only present in North America) and Japan Tobacco would neatly swerve anti-trust objections to a possible takeover of Imperial Brands,\" the RBC Capital Markets analyst James Edwardes Jones said in a note.\nShares in Imperial Brands jumped by more than 14% to the top of the FTSE 100 leaderboard, hitting their highest level since 2017. That lifted the company's valuation to around £26bn.\nImperial makes a range of cigarettes including JPS, Davidoff, Gauloises and Lambert & Butler, Golden Virginia rolling tobacco, Rizla rolling papers and the Blu vaping brand.\nThe company said last week that it was cutting as many as 4,600 jobs in a cost-saving drive as it used more AI and other technologies.\nImperial is one of the founder members of the FTSE 100, which was launched in January 1984.\nSeveral other large UK companies have fallen to takeover offers this year, including the UK warehouse landlord Segro and the asset manager Schroders. The low-cost airline easyJet is in the process of being acquired.\nThe world's largest catering company, Compass Group, also announced plans this week to move its main stock market listing to the US. Compass, which traces its origins to feeding British workers during the second world war, said it was making the switch because it had become a predominantly North American business.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "either announce a firm intention to make an offer or walk away."
+    ],
+    [
+     "ins",
+     "Imperial responded by saying it had not had any discussions \"or received any approach or proposal from Altria or the third party referenced\". It added: \"The board is clear in its duty of aiming to maximise shareholder value and will consider any proposal, should one be made. Imperial Brands has strong confidence in its strategy and trading.\""
+    ],
+    [
+     "eq",
+     "The announcement"
+    ],
+    [
+     "ins",
+     "from Altria"
+    ],
+    [
+     "eq",
+     "came after Bloomberg reported that Japan Tobacco was evaluating a potential acquisition"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.1586,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.45,
+ "similarity": 0.9722,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,72 @@
+{
+ "id": "08678e32c20987ef-ea1055fb-e950d7f8",
+ "url": "https://www.theguardian.com/sport/2026/nov/26/jannik-sinner-ruled-out-australian-open-knee-injury",
+ "domain": "www.theguardian.com",
+ "source": "Guardian Sport",
+ "country": "United Kingdom",
+ "category": "sport",
+ "lang": "en",
+ "detected_at": "2026-11-27T16:38:03Z",
+ "date": "2026-11-27",
+ "old_title": "Jannik Sinner ruled out of Australian Open with knee injury",
+ "new_title": "Jannik Sinner ruled out of Australian Open with knee injury",
+ "old_text": "Organisers have confirmed that two-time Australian Open champion Jannik Sinner has been ruled out of the grand slam at Melbourne Park in January after surgery on a persistent knee injury.\nSinner said on Tuesday that he had had a minor operation, with Italian sports daily Corriere dello Sport reporting he was facing up to four months out, extending his long absence from the tour.\nThe 25-year-old has been out of action since claiming his fifth grand slam title at Wimbledon in July, but the Italian had initially been expected to return in time for next year's Australian Open, ‌which starts on 17 January.\n\"We've been in regular touch with Jannik's team and they've confirmed he won't ‌be joining us for the AO in January following his recent surgery,\" Tennis Australia CEO Andrew Abdo said.\n\"Jannik loves competing here in Melbourne and is looking forward to returning for AO 2028. We wish him all the very best with his recovery and look forward to seeing ‌him back on court soon.\"\nSinner, who recently parted ways with coach Darren Cahill after more than four years together, won the Australian Open in 2024 and 2025 and lost to Novak Djokovic in this year's semi-finals.\nHe began the season in good form, winning all five Masters events he played in and running up a 44-3 win-lose record before cutting his season short.\nAlexander Zverev replaced Sinner as world No 1 earlier this month after the German won his first two grand slam titles at Roland Garros and the US Open.\nWorld No 3 Carlos Alcaraz, who missed several months ‌of action due to a wrist injury, will be the defending champion in Melbourne. The Spanish seven-time grand slam winner has enjoyed a thrilling rivalry with Sinner over the last few years and said on Wednesday that the sport is missing the Italian.",
+ "new_text": "Organisers have confirmed that two-time Australian Open champion Jannik Sinner has been ruled out of the grand slam at Melbourne Park in January after surgery on a persistent knee injury.\nSinner said on Tuesday that he had had a minor operation, with Italian sports daily Corriere dello Sport reporting he was facing up to four months out, extending his long absence from the tour.\nThe 25-year-old has been out of action since claiming his fifth grand slam title at Wimbledon in July, but the Italian had initially been expected to return in time for next year's Australian Open, ‌which starts on 17 January.\n\"We've been in regular touch with Jannik's team and they've confirmed he won't ‌be joining us for the AO in January following his recent surgery,\" Tennis Australia CEO Andrew Abdo said.\n\"Jannik loves competing here in Melbourne and is looking forward to returning for AO 2028. We wish him all the very best with his recovery and look forward to seeing ‌him back on court soon.\"\nSinner, who recently parted ways with coach Darren Cahill after more than four years together, won the Australian Open in 2024 and 2025 and lost to Novak Djokovic in this year's semi-finals.\nHe began the season in good form, winning all five Masters events he played in and running up a 44-3 win-loss record before cutting his season short.\nAlexander Zverev replaced Sinner as world No 1 earlier this month after the German won his first two grand slam titles at Roland Garros and the US Open.\nThe world No 3 Carlos Alcaraz, who missed several months ‌of action due to a wrist injury, will be the defending champion in Melbourne. The Spanish seven-time grand slam winner has enjoyed a thrilling rivalry with Sinner over the last few years and said on Wednesday that the sport is missing the Italian.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "all five Masters events he played in and running up a 44-3"
+    ],
+    [
+     "del",
+     "win-lose"
+    ],
+    [
+     "ins",
+     "win-loss"
+    ],
+    [
+     "eq",
+     "record before cutting his season short. Alexander Zverev replaced Sinner as world"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "first two grand slam titles at Roland Garros and the US Open."
+    ],
+    [
+     "del",
+     "World"
+    ],
+    [
+     "ins",
+     "The world"
+    ],
+    [
+     "eq",
+     "No 3 Carlos Alcaraz, who missed several months ‌of action due to"
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.0162,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 0,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "MINOR",
+ "score": 0.0,
+ "similarity": 1.0,
+ "adjudicated_by": "rules"
+}

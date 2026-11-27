@@ -1,0 +1,83 @@
+{
+ "id": "8cbf500a8e2409e6-d10f1fee-3971d6ed",
+ "url": "https://www.abc.net.au/news/2026-11-26/flight-centre-investigating-cyber-breach-passports-details/107432534",
+ "domain": "www.abc.net.au",
+ "source": "ABC News (Australia)",
+ "country": "Australia",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-27T16:28:42Z",
+ "date": "2026-11-27",
+ "old_title": "Flight Centre investigating mass cyber breach",
+ "new_title": "Flight Centre investigating mass cyber breach",
+ "old_text": "Flight Centre investigating cyber incident that exposed personal data and passport details\nIn short:\nCustomer data has been exposed in a cyber breach targeting a third-party accommodation system used by several of Flight Centre's booking agencies.\nThe travel agency says \"unknown persons\" accessed customers' basic travel information and a small number of passport details.\nWhat's next?\nThe company is warning customers to stay vigilant for unexpected emails or text messages about their bookings.",
+ "new_text": "In short:\nFlight Centre customer data has been exposed in a cyber breach targeting a third-party accommodation system.\nThe travel agency says \"unknown persons\" accessed customers' basic travel information and a small number of passport details.\nWhat's next?\nThe company is warning customers to stay vigilant for unexpected emails or text messages about their bookings.\nAustralian travel agency Flight Centre is investigating a cyber breach it says has exposed a significant number of customer records, including some passport details.\nIn a statement to the ASX on Thursday, the Brisbane-based travel giant reported it had discovered \"unusual activity\" within the third-party accommodation system used by several of its booking agencies.\nThese include Flight Centre, Travel Associates and Cruiseabout, as well as some independent agents.\nFlight bookings and corporate travel bookings were not affected, the company said.\nEarly findings indicated \"a significant number of customer records\" comprising details such as names and some basic travel information may have been accessed by \"unknown persons\", the travel agency said.\nThe company does not yet know how many customer records have been extracted.\nA \"very small percentage\" of the compromised data included \"limited passport details, email addresses, phone numbers, birth dates, or in rare cases health or mobility information\", Flight Centre said.\nCredit card, payment and banking details had not been affected at this stage, it said.\nFlight Centre CEO Graham Turner told ABC News Breakfast the breach occurred via an overseas, third-party supplier that the company used to book things such as hotels.\nHe noted that \"the odd passport number\" was taken.\n\"Generally, from the passport office, they don't seem to be concerned, mainly because a passport number by itself, you can't really do much with it,\" Mr Turner said.\n\"You can't reissue a passport, you can't get a new one issued just with the number.\n\"So, we don't think that is a major issue, certainly not at this stage.\"\nMr Turner added that the use of third-party sites was \"inevitable\".\nEarlier, Flight Centre said it was working with cybersecurity experts to understand the full \"nature and extent\" of the breach.\n\"FLT (Flight Centre Travel) is in the process of notifying the relevant authorities and has engaged external specialists to support in these investigations, including cyber security incident partner Mandiant,\" a statement to the ASX said.\nCustomers with existing accommodation bookings through Flight Centre's leisure brands can continue their travel plans without disruption, the company said.\nCustomers warned to be vigilant about dodgy messages\nFlight Centre is warning customers to be cautious of \"unexpected emails, calls or messages\" about their bookings, and to \"not click on links, open attachments or share personal information, passwords or payment details in response\".\nThe company apologised to affected customers, noting \"that an incident like this can be unsettling\".\nIt said it would contact affected customers.\nFlight Centre is the latest Australian company to suffer a major security breach. There was also an incident at Origin this year and at Qantas in 2025. Optus and Medibank experienced mass breaches in 2022.\nIn June, a rogue OpenAI agent hacked into an Australian Medicare data portal, fuelling concerns about the existential risks posed by autonomous artificial intelligence.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "ins",
+     "In short:"
+    ],
+    [
+     "eq",
+     "Flight Centre"
+    ],
+    [
+     "del",
+     "investigating cyber incident that exposed personal data and passport details In short: Customer"
+    ],
+    [
+     "ins",
+     "customer"
+    ],
+    [
+     "eq",
+     "data has been exposed in a cyber breach targeting a third-party accommodation"
+    ],
+    [
+     "del",
+     "system used by several of Flight Centre's booking agencies."
+    ],
+    [
+     "ins",
+     "system."
+    ],
+    [
+     "eq",
+     "The travel agency says \"unknown persons\" accessed customers' basic travel information and"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "to stay vigilant for unexpected emails or text messages about their bookings."
+    ],
+    [
+     "ins",
+     "Australian travel agency Flight Centre is investigating a cyber breach it says has exposed a significant number of customer records, including some passport details. In a statement to the ASX on Thursday, the Brisbane-based travel giant reported it had discovered \"unusual activity\" within the third-party accommodation system used by several of its booking agencies. These include Flight Centre, Travel Associates and Cruiseabout, as well as some independent agents. Flight bookings and corporate travel bookings were not affected, the company said. Early findings indicated \"a significant number of customer records\" comprising details such as names and some basic travel information may have been accessed by \"unknown persons\", the travel agency said. The company does not yet know how many customer records have been extracted. A \"very small percentage\" of the compromised data included \"limited passport details, email addresses, phone numbers, birth dates, or in rare cases health or mobility information\", Flight Centre said. Credit card, payment and banking details had not been affected at this stage, it said. Flight Centre CEO Graham Turner told ABC News Breakfast the breach occurred via an overseas, third-party supplier that the company used to book things such as hotels. He noted that \"the odd passport number\" was taken. \"Generally, from the passport office, they don't seem to be concerned, mainly because a passport number by itself, you can't really do much with it,\" Mr Turner said. \"You can't reissue a passport, you can't get a new one issued just with the number. \"So, we don't think that is a major issue, certainly not at this stage.\" Mr Turner added that the use of third-party sites was \"inevitable\". Earlier, Flight Centre said it was working with cybersecurity experts to understand the full \"nature and extent\" of the breach. \"FLT (Flight Centre Travel) is in the process of notifying the relevant authorities and has engaged external specialists to support in these investigations, including cyber security incident partner Mandiant,\" a statement to the ASX said. Customers with existing accommodation bookings through Flight Centre's leisure brands can continue their travel plans without disruption, the company said. Customers warned to be vigilant about dodgy messages Flight Centre is warning customers to be cautious of \"unexpected emails, calls or messages\" about their bookings, and to \"not click on links, open attachments or share personal information, passwords or payment details in response\". The company apologised to affected customers, noting \"that an incident like this can be unsettling\". It said it would contact affected customers. Flight Centre is the latest Australian company to suffer a major security breach. There was also an incident at Origin this year and at Qantas in 2025. Optus and Medibank experienced mass breaches in 2022. In June, a rogue OpenAI agent hacked into an Australian Medicare data portal, fuelling concerns about the existential risks posed by autonomous artificial intelligence."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 6.8082,
+  "numbers_changed": [
+   "2022",
+   "2025"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 1,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 0.925,
+ "similarity": 0.8909,
+ "adjudicated_by": "rules"
+}

@@ -1,0 +1,184 @@
+{
+ "id": "96ef845be4b07adc-02aff122-e29b90dc",
+ "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss",
+ "domain": "www.aljazeera.com",
+ "source": "Al Jazeera",
+ "country": "Qatar",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-27T16:26:58Z",
+ "date": "2026-11-27",
+ "old_title": "Spanish economist to become new European Central Bank chief",
+ "new_title": "Spanish economist to become new European Central Bank chief",
+ "old_text": "French president Emmanuel Macron has announced on X that European Union leaders have agreed to appoint Pablo Hernandez de Cos as the next head of the European Central Bank.\nThe 55-year-old will become the first Spaniard to take the role, and succeeds France's Christine Lagarde at the Frankfurt-based institution at a challenging time for the eurozone.\nDiplomats have described the economist as a 'steady hand' to steer the institution, with a reputation for pragmatism and consensus-building.\nCurrently head of the Bank for International Settlements (BIS), the Basel-based forum for the world's major central banks, the Spaniard will take over in February.\nAs the Bank of Spain's chief economist and later governor, he navigated the aftermath of Spain's 2010s banking crisis, years of ultra-low inflation, COVID-19 and the 2022 inflation surge that followed the pandemic and Russia's invasion of Ukraine.\nHe also chaired the Basel Committee on Banking Supervision, the global standard-setter for banks.\nMore to come...",
+ "new_text": "The president of the European Council says eurozone member states have agreed to recommend Pablo Hernandez de Cos as the new European Central Bank (ECB) president.\nAntonio Costa also announced that Laurence Boone and Markus Brunnermeier have been recommended as members of the ECB executive board, and noted that this paves the way for the formal appointment of the new European Central Bank leadership by December's European Union summit.\nPablo Hernandez de Cos will become the first Spaniard to take the role, and succeeds France's Christine Lagarde at the Frankfurt-based institution at a challenging time for the eurozone.\nCurrently head of the Bank for International Settlements (BIS), the Basel-based forum for the world's major central banks, the 55-year-old will take over in February, when Lagarde would step down several months before her term expires in October next year.\nThursday's green light triggers a formal process during which European leaders will later in the day approve the candidates for each ECB post. The bank's governing council and European Parliament will then formally back the nominations.\nDiplomats have described the Spanish economist as a \"steady hand\" to steer the institution, with a reputation for pragmatism and consensus-building.\nAs the Bank of Spain's chief economist and later governor, he navigated the aftermath of Spain's 2010s banking crisis, years of ultra-low inflation, COVID-19 and the 2022 inflation surge that followed the pandemic and Russia's invasion of Ukraine.\nHe also chaired the Basel Committee on Banking Supervision, the global standard-setter for banks.\nSpain's Socialist Prime Minister Pedro Sanchez, who is battling unfavourable polling before a general election on Sunday, hailed the choice on social media, saying it reflects \"a Spain that leads in Europe\".\nHe pointed to the Spanish chief of the European Investment Bank, Nadia Calvino, and the EU executive's second-most senior official, Teresa Ribera, as other figures of influence.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "del",
+     "French"
+    ],
+    [
+     "ins",
+     "The"
+    ],
+    [
+     "eq",
+     "president"
+    ],
+    [
+     "del",
+     "Emmanuel Macron has announced on X that"
+    ],
+    [
+     "ins",
+     "of the"
+    ],
+    [
+     "eq",
+     "European"
+    ],
+    [
+     "del",
+     "Union leaders"
+    ],
+    [
+     "ins",
+     "Council says eurozone member states"
+    ],
+    [
+     "eq",
+     "have agreed to"
+    ],
+    [
+     "del",
+     "appoint"
+    ],
+    [
+     "ins",
+     "recommend"
+    ],
+    [
+     "eq",
+     "Pablo Hernandez de Cos as the"
+    ],
+    [
+     "del",
+     "next head"
+    ],
+    [
+     "ins",
+     "new European Central Bank (ECB) president. Antonio Costa also announced that Laurence Boone and Markus Brunnermeier have been recommended as members"
+    ],
+    [
+     "eq",
+     "of the"
+    ],
+    [
+     "ins",
+     "ECB executive board, and noted that this paves the way for the formal appointment of the new"
+    ],
+    [
+     "eq",
+     "European Central"
+    ],
+    [
+     "del",
+     "Bank. The 55-year-old"
+    ],
+    [
+     "ins",
+     "Bank leadership by December's European Union summit. Pablo Hernandez de Cos"
+    ],
+    [
+     "eq",
+     "will become the first Spaniard to take the role, and succeeds France's"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "Lagarde at the Frankfurt-based institution at a challenging time for the eurozone."
+    ],
+    [
+     "del",
+     "Diplomats have described the economist as a 'steady hand' to steer the institution, with a reputation for pragmatism and consensus-building."
+    ],
+    [
+     "eq",
+     "Currently head of the Bank for International Settlements (BIS), the Basel-based forum for the world's major central banks, the"
+    ],
+    [
+     "del",
+     "Spaniard"
+    ],
+    [
+     "ins",
+     "55-year-old"
+    ],
+    [
+     "eq",
+     "will take over in"
+    ],
+    [
+     "del",
+     "February."
+    ],
+    [
+     "ins",
+     "February, when Lagarde would step down several months before her term expires in October next year. Thursday's green light triggers a formal process during which European leaders will later in the day approve the candidates for each ECB post. The bank's governing council and European Parliament will then formally back the nominations. Diplomats have described the Spanish economist as a \"steady hand\" to steer the institution, with a reputation for pragmatism and consensus-building."
+    ],
+    [
+     "eq",
+     "As the Bank of Spain's chief economist and later governor, he navigated"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "chaired the Basel Committee on Banking Supervision, the global standard-setter for banks."
+    ],
+    [
+     "del",
+     "More"
+    ],
+    [
+     "ins",
+     "Spain's Socialist Prime Minister Pedro Sanchez, who is battling unfavourable polling before a general election on Sunday, hailed the choice on social media, saying it reflects \"a Spain that leads in Europe\". He pointed"
+    ],
+    [
+     "eq",
+     "to"
+    ],
+    [
+     "del",
+     "come..."
+    ],
+    [
+     "ins",
+     "the Spanish chief of the European Investment Bank, Nadia Calvino, and the EU executive's second-most senior official, Teresa Ribera, as other figures of influence."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 1.4744,
+  "numbers_changed": [],
+  "market_figures_changed": [],
+  "entities_swapped": true,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.696,
+ "similarity": 0.8374,
+ "adjudicated_by": "rules"
+}

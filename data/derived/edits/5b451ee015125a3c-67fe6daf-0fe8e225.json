@@ -1,0 +1,99 @@
+{
+ "id": "5b451ee015125a3c-67fe6daf-0fe8e225",
+ "url": "https://www.dw.com/en/germany-ig-metall-union-says-deal-reached-with-employers/a-80066792?maca=en-rss-en-all-1573-rdf",
+ "domain": "www.dw.com",
+ "source": "Deutsche Welle",
+ "country": "Germany",
+ "category": "world",
+ "lang": "en",
+ "detected_at": "2026-11-27T16:27:49Z",
+ "date": "2026-11-27",
+ "old_title": "Germany: IG Metall union says deal reached with employers",
+ "new_title": "Germany: IG Metall union says deal reached with employers",
+ "old_text": "Germany's powerful IG Metall trade union said Thursday it has reached a pay deal with employers after more than 24 hours of talks.\nWhat is in the deal?\nIG Metall and employers agreed on the following points in their agreement:\n- The deal foresees a pay increase in two phases: 2.0% from May 2027 and 2.3% from April 2028\n- The agreement will also entail one-off payments in March 2027 of between €150 ($164) and €450\n- The collective agreements will be in effect until November 30, 2028\nWhat is IG Metal and what are the significance of the talks?\nIG Metall represents 3.7 million workers in the German metal and electrical industry. It is Germany's largest trade union.\nThe talks come amid job cuts across multiple sectors in the German economy, such as the automotive sector.\nIG Metall represents workers in major German companies such as Volkswagen, Mercedes-Benz, Siemens, ThyssenKrupp, and Salzgitter AG, among others.",
+ "new_text": "Germany's powerful IG Metall trade union said Thursday it has reached a pay deal with employers after more than 24 hours of the fourth round of talks.\nWhat is in the deal?\nIG Metall and employers agreed on the following points in their agreement:\n- The deal foresees a pay increase in two phases: 2.0% from May 2027 and 2.3% from April 2028\n- The agreement will also entail one-off payments in March 2027 of between €150 ($164) and €450\n- The collective agreements will be in effect until November 30, 2028\n- Companies will be allowed to deviate from the 35-hour work week in talks with employees\n- Firms will also be allowed to ask employees to give up pay to help finance investments\n- The agreements will cover the 1.7 million workers represented by IG Metall in the German states of North Rhine-Westphalia and Baden-Württemberg\n- The deal will also ensure new investments and jobs in Germany with companies making binding commitments\nWhat is IG Metal and what are the significance of the talks?\nIG Metall represents 3.7 million workers in the German metal and electrical industry in total. It is Germany's largest trade union.\n\"The result is a compromise under difficult conditions,\" Baden-Württemberg IG Metall boss Barbara Resch said.\nThe talks come amid job cuts across multiple sectors in the German economy, such as the automotive sector.\nIG Metall represents workers in major German companies such as Volkswagen, Mercedes-Benz, Siemens, ThyssenKrupp, and Salzgitter AG, among others. All of those aforementioned companies have announced job-cutting plans within the last two years.\nGerman companies are attempting to slash labor costs and cut benefits as the German economy faces increasing competition from China and pressure from US tariffs. This also means that labor unions are being presented with less desirable packages for employees.",
+ "hunks": [
+  {
+   "ops": [
+    [
+     "eq",
+     "has reached a pay deal with employers after more than 24 hours"
+    ],
+    [
+     "ins",
+     "of the fourth round"
+    ],
+    [
+     "eq",
+     "of talks. What is in the deal? IG Metall and employers agreed"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "- The collective agreements will be in effect until November 30, 2028"
+    ],
+    [
+     "ins",
+     "- Companies will be allowed to deviate from the 35-hour work week in talks with employees - Firms will also be allowed to ask employees to give up pay to help finance investments - The agreements will cover the 1.7 million workers represented by IG Metall in the German states of North Rhine-Westphalia and Baden-Württemberg - The deal will also ensure new investments and jobs in Germany with companies making binding commitments"
+    ],
+    [
+     "eq",
+     "What is IG Metal and what are the significance of the talks? IG Metall represents 3.7 million workers in the German metal and electrical"
+    ],
+    [
+     "del",
+     "industry."
+    ],
+    [
+     "ins",
+     "industry in total."
+    ],
+    [
+     "eq",
+     "It is Germany's largest trade union."
+    ],
+    [
+     "ins",
+     "\"The result is a compromise under difficult conditions,\" Baden-Württemberg IG Metall boss Barbara Resch said."
+    ],
+    [
+     "eq",
+     "The talks come amid job cuts across multiple sectors in the German"
+    ]
+   ]
+  },
+  {
+   "ops": [
+    [
+     "eq",
+     "companies such as Volkswagen, Mercedes-Benz, Siemens, ThyssenKrupp, and Salzgitter AG, among others."
+    ],
+    [
+     "ins",
+     "All of those aforementioned companies have announced job-cutting plans within the last two years. German companies are attempting to slash labor costs and cut benefits as the German economy faces increasing competition from China and pressure from US tariffs. This also means that labor unions are being presented with less desirable packages for employees."
+    ]
+   ]
+  }
+ ],
+ "signals": {
+  "cosmetic_only": false,
+  "change_ratio": 0.9551,
+  "numbers_changed": [
+   "1.7",
+   "35"
+  ],
+  "market_figures_changed": [],
+  "entities_swapped": false,
+  "quotes_deleted": 0,
+  "blocks_added": 2,
+  "blocks_removed": 0,
+  "title_changed": false
+ },
+ "severity": "NARRATIVE",
+ "score": 1.054,
+ "similarity": 0.9444,
+ "adjudicated_by": "rules"
+}
